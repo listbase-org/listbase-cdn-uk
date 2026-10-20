@@ -1,0 +1,178 @@
+{
+  "id": "uk-odynytsi-vymiru-area",
+  "name": "Одиниці вимірювання — категорія 'area' (13)",
+  "title": "Одиниці вимірювання — категорія 'area' (13)",
+  "description": "Одиниці вимірювання категорії 'area' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "katehoriia": "area",
+      "nazva": "акри",
+      "skorochennia": "акри",
+      "vuzka_forma": "акр",
+      "vzirets": "{0} акра"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "katehoriia": "area",
+      "nazva": "bu [JP]",
+      "skorochennia": "bu [JP]",
+      "vuzka_forma": "bu [JP]",
+      "vzirets": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "katehoriia": "area",
+      "nazva": "cho [JP]",
+      "skorochennia": "cho [JP]",
+      "vuzka_forma": "cho [JP]",
+      "vzirets": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "katehoriia": "area",
+      "nazva": "дунами",
+      "skorochennia": "дунами",
+      "vuzka_forma": "дун.",
+      "vzirets": "{0} дунама"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "katehoriia": "area",
+      "nazva": "гектари",
+      "skorochennia": "га",
+      "vuzka_forma": "га",
+      "vzirets": "{0} гектара"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "katehoriia": "area",
+      "nazva": "se [JP]",
+      "skorochennia": "se [JP]",
+      "vuzka_forma": "se [JP]",
+      "vzirets": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "katehoriia": "area",
+      "nazva": "квадратні сантиметри",
+      "skorochennia": "см²",
+      "vuzka_forma": "см²",
+      "vzirets": "{0} квадратного сантиметра"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "katehoriia": "area",
+      "nazva": "квадратні фути",
+      "skorochennia": "фути²",
+      "vuzka_forma": "фт²",
+      "vzirets": "{0} квадратного фута"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "katehoriia": "area",
+      "nazva": "квадратні дюйми",
+      "skorochennia": "дюйми²",
+      "vuzka_forma": "дюйм²",
+      "vzirets": "{0} квадратного дюйма"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "katehoriia": "area",
+      "nazva": "квадратні кілометри",
+      "skorochennia": "км²",
+      "vuzka_forma": "км²",
+      "vzirets": "{0} квадратного кілометра"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "katehoriia": "area",
+      "nazva": "квадратні метри",
+      "skorochennia": "м²",
+      "vuzka_forma": "м²",
+      "vzirets": "{0} квадратного метра"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "katehoriia": "area",
+      "nazva": "квадратні милі",
+      "skorochennia": "милі²",
+      "vuzka_forma": "мл²",
+      "vzirets": "{0} квадратної милі"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "katehoriia": "area",
+      "nazva": "квадратні ярди",
+      "skorochennia": "ярди²",
+      "vuzka_forma": "ярд²",
+      "vzirets": "{0} квадратного ярда"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'area' (13) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'area' з локалі uk у CLDR, з назвами українською. Містить 13 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'area' (13) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'area' (13) — 13 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 13 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

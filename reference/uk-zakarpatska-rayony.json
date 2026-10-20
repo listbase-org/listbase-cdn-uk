@@ -1,0 +1,146 @@
+{
+  "id": "uk-zakarpatska-rayony",
+  "name": "Райони Закарпатської області",
+  "title": "Райони Закарпатської області",
+  "description": "Список усіх 8 районів Закарпатської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA21020000000051405",
+      "name": "Берегівський район",
+      "name_en": "Berehivskyi raion",
+      "slug": "berehivskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21020000000051405",
+      "name": "Берегівський район",
+      "name_en": "Berehivskyi raion",
+      "slug": "berehivskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21040000000077329",
+      "name": "Мукачівський район",
+      "name_en": "Mukachivskyi raion",
+      "slug": "mukachivskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21040000000077329",
+      "name": "Мукачівський район",
+      "name_en": "Mukachivskyi raion",
+      "slug": "mukachivskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21060000000059475",
+      "name": "Рахівський район",
+      "name_en": "Rakhivskyi raion",
+      "slug": "rakhivskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21080000000048851",
+      "name": "Тячівський район",
+      "name_en": "Tiachivskyi raion",
+      "slug": "tiachivskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21100000000055073",
+      "name": "Ужгородський район",
+      "name_en": "Uzhhorodskyi raion",
+      "slug": "uzhhorodskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    },
+    {
+      "code": "UA21120000000022889",
+      "name": "Хустський район",
+      "name_en": "Khustskyi raion",
+      "slug": "khustskyi-raion",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska",
+      "parent_code": "UA21000000000011690"
+    }
+  ],
+  "meta": {
+    "title": "Райони Закарпатської області - Безкоштовне завантаження",
+    "description": "Список усіх 8 районів Закарпатської області згідно з КАТОТТГ (реформа 2020 року). Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Закарпатської області | ListBase",
+    "seo_description": "Завантажити Райони Закарпатської області — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "uk-odynytsi-vymiru-force",
+  "name": "Одиниці вимірювання — категорія 'force' (4)",
+  "title": "Одиниці вимірювання — категорія 'force' (4)",
+  "description": "Одиниці вимірювання категорії 'force' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "katehoriia": "force",
+      "nazva": "кілограм-сили",
+      "skorochennia": "кгс",
+      "vuzka_forma": "кгс",
+      "vzirets": "{0} кілограм-сили"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "katehoriia": "force",
+      "nazva": "кіловат-години на 100 кілометрів",
+      "skorochennia": "кВт⋅год/100 км",
+      "vuzka_forma": "кВт⋅год/100км",
+      "vzirets": "{0} кіловат-години на 100 кілометрів"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "katehoriia": "force",
+      "nazva": "ньютони",
+      "skorochennia": "ньютон",
+      "vuzka_forma": "Н",
+      "vzirets": "{0} ньютона"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "katehoriia": "force",
+      "nazva": "фунт-сили",
+      "skorochennia": "фунт-сила",
+      "vuzka_forma": "фнтс",
+      "vzirets": "{0} фунт-сили"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'force' (4) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'force' з локалі uk у CLDR, з назвами українською. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'force' (4) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'force' (4) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

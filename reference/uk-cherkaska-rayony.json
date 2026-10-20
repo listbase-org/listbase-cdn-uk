@@ -1,0 +1,126 @@
+{
+  "id": "uk-cherkaska-rayony",
+  "name": "Райони Черкаської області",
+  "title": "Райони Черкаської області",
+  "description": "Список усіх 6 районів Черкаської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA71020000000057292",
+      "name": "Звенигородський район",
+      "name_en": "Zvenyhorodskyi raion",
+      "slug": "zvenyhorodskyi-raion",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska",
+      "parent_code": "UA71000000000010357"
+    },
+    {
+      "code": "UA71040000000022553",
+      "name": "Золотоніський район",
+      "name_en": "Zolotoniskyi raion",
+      "slug": "zolotoniskyi-raion",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska",
+      "parent_code": "UA71000000000010357"
+    },
+    {
+      "code": "UA71040000000022553",
+      "name": "Золотоніський район",
+      "name_en": "Zolotoniskyi raion",
+      "slug": "zolotoniskyi-raion",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska",
+      "parent_code": "UA71000000000010357"
+    },
+    {
+      "code": "UA71060000000030325",
+      "name": "Уманський район",
+      "name_en": "Umanskyi raion",
+      "slug": "umanskyi-raion",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska",
+      "parent_code": "UA71000000000010357"
+    },
+    {
+      "code": "UA71080000000036344",
+      "name": "Черкаський район",
+      "name_en": "Cherkaskyi raion",
+      "slug": "cherkaskyi-raion",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska",
+      "parent_code": "UA71000000000010357"
+    },
+    {
+      "code": "UA71080000000036344",
+      "name": "Черкаський район",
+      "name_en": "Cherkaskyi raion",
+      "slug": "cherkaskyi-raion",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska",
+      "parent_code": "UA71000000000010357"
+    }
+  ],
+  "meta": {
+    "title": "Райони Черкаської області - Безкоштовне завантаження",
+    "description": "Список усіх 6 районів Черкаської області згідно з КАТОТТГ (реформа 2020 року). Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Черкаської області | ListBase",
+    "seo_description": "Завантажити Райони Черкаської області — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

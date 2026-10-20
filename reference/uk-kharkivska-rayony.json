@@ -1,0 +1,126 @@
+{
+  "id": "uk-kharkivska-rayony",
+  "name": "Райони Харківської області",
+  "title": "Райони Харківської області",
+  "description": "Список усіх 6 районів Харківської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA63020000000066931",
+      "name": "Богодухівський район",
+      "name_en": "Bohodukhivskyi raion",
+      "slug": "bohodukhivskyi-raion",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska",
+      "parent_code": "UA63000000000041885"
+    },
+    {
+      "code": "UA63040000000023521",
+      "name": "Ізюмський район",
+      "name_en": "Iziumskyi raion",
+      "slug": "iziumskyi-raion",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska",
+      "parent_code": "UA63000000000041885"
+    },
+    {
+      "code": "UA63060000000053698",
+      "name": "Берестинський район",
+      "name_en": "Berestynskyi raion",
+      "slug": "berestynskyi-raion",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska",
+      "parent_code": "UA63000000000041885"
+    },
+    {
+      "code": "UA63100000000059237",
+      "name": "Лозівський район",
+      "name_en": "Lozivskyi raion",
+      "slug": "lozivskyi-raion",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska",
+      "parent_code": "UA63000000000041885"
+    },
+    {
+      "code": "UA63120000000091135",
+      "name": "Харківський район",
+      "name_en": "Kharkivskyi raion",
+      "slug": "kharkivskyi-raion",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska",
+      "parent_code": "UA63000000000041885"
+    },
+    {
+      "code": "UA63140000000096278",
+      "name": "Чугуївський район",
+      "name_en": "Chuhuivskyi raion",
+      "slug": "chuhuivskyi-raion",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska",
+      "parent_code": "UA63000000000041885"
+    }
+  ],
+  "meta": {
+    "title": "Райони Харківської області - Безкоштовне завантаження",
+    "description": "Список усіх 6 районів Харківської області згідно з КАТОТТГ (реформа 2020 року). Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Харківської області | ListBase",
+    "seo_description": "Завантажити Райони Харківської області — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

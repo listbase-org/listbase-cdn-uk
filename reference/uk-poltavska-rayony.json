@@ -1,0 +1,126 @@
+{
+  "id": "uk-poltavska-rayony",
+  "name": "Райони Полтавської області",
+  "title": "Райони Полтавської області",
+  "description": "Список усіх 6 районів Полтавської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA53020000000034761",
+      "name": "Кременчуцький район",
+      "name_en": "Kremenchutskyi raion",
+      "slug": "kremenchutskyi-raion",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska",
+      "parent_code": "UA53000000000028050"
+    },
+    {
+      "code": "UA53040000000081308",
+      "name": "Лубенський район",
+      "name_en": "Lubenskyi raion",
+      "slug": "lubenskyi-raion",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska",
+      "parent_code": "UA53000000000028050"
+    },
+    {
+      "code": "UA53040000000081308",
+      "name": "Лубенський район",
+      "name_en": "Lubenskyi raion",
+      "slug": "lubenskyi-raion",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska",
+      "parent_code": "UA53000000000028050"
+    },
+    {
+      "code": "UA53060000000045271",
+      "name": "Миргородський район",
+      "name_en": "Myrhorodskyi raion",
+      "slug": "myrhorodskyi-raion",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska",
+      "parent_code": "UA53000000000028050"
+    },
+    {
+      "code": "UA53060000000045271",
+      "name": "Миргородський район",
+      "name_en": "Myrhorodskyi raion",
+      "slug": "myrhorodskyi-raion",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska",
+      "parent_code": "UA53000000000028050"
+    },
+    {
+      "code": "UA53080000000068029",
+      "name": "Полтавський район",
+      "name_en": "Poltavskyi raion",
+      "slug": "poltavskyi-raion",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska",
+      "parent_code": "UA53000000000028050"
+    }
+  ],
+  "meta": {
+    "title": "Райони Полтавської області - Безкоштовне завантаження",
+    "description": "Список усіх 6 районів Полтавської області згідно з КАТОТТГ (реформа 2020 року). Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Полтавської області | ListBase",
+    "seo_description": "Завантажити Райони Полтавської області — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

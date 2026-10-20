@@ -1,0 +1,376 @@
+{
+  "id": "uk-odeska-mista",
+  "name": "Міста Одеської області",
+  "title": "Міста Одеської області",
+  "description": "Список 19 міст Одеської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA51020030010083756",
+      "name": "Березівка",
+      "name_en": "Berezivka",
+      "slug": "berezivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51020030000095942",
+      "hromada_name": "Березівська міська громада",
+      "rayon_name": "Березівський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51040010010048834",
+      "name": "Білгород-Дністровський",
+      "name_en": "Bilhorod-Dnistrovskyi",
+      "slug": "bilhorod-dnistrovskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51040010000016896",
+      "hromada_name": "Білгород-Дністровська міська громада",
+      "rayon_name": "Білгород-Дністровський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51040250010015619",
+      "name": "Татарбунари",
+      "name_en": "Tatarbunary",
+      "slug": "tatarbunary",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51040250000099866",
+      "hromada_name": "Татарбунарська міська громада",
+      "rayon_name": "Білгород-Дністровський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51060010010032913",
+      "name": "Арциз",
+      "name_en": "Artsyz",
+      "slug": "artsyz",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51060010000033212",
+      "hromada_name": "Арцизька міська громада",
+      "rayon_name": "Болградський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51060030010048411",
+      "name": "Болград",
+      "name_en": "Bolhrad",
+      "slug": "bolhrad",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51060030000044366",
+      "hromada_name": "Болградська міська громада",
+      "rayon_name": "Болградський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51080010010086017",
+      "name": "Вилкове",
+      "name_en": "Vylkove",
+      "slug": "vylkove",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51080010000087690",
+      "hromada_name": "Вилківська міська громада",
+      "rayon_name": "Ізмаїльський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51080030010072039",
+      "name": "Ізмаїл",
+      "name_en": "Izmail",
+      "slug": "izmail",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51080030000048246",
+      "hromada_name": "Ізмаїльська міська громада",
+      "rayon_name": "Ізмаїльський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51080050010036449",
+      "name": "Кілія",
+      "name_en": "Kiliia",
+      "slug": "kiliia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51080050000022808",
+      "hromada_name": "Кілійська міська громада",
+      "rayon_name": "Ізмаїльський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51080070010065897",
+      "name": "Рені",
+      "name_en": "Reni",
+      "slug": "reni",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51080070000040493",
+      "hromada_name": "Ренійська міська громада",
+      "rayon_name": "Ізмаїльський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51100030010096432",
+      "name": "Біляївка",
+      "name_en": "Biliaivka",
+      "slug": "biliaivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51100030000027628",
+      "hromada_name": "Біляївська міська громада",
+      "rayon_name": "Одеський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51100270010076757",
+      "name": "Одеса",
+      "name_en": "Odesa",
+      "slug": "odesa",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51100270000073549",
+      "hromada_name": "Одеська міська громада",
+      "rayon_name": "Одеський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51100310010094687",
+      "name": "Теплодар",
+      "name_en": "Teplodar",
+      "slug": "teplodar",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51100310000010196",
+      "hromada_name": "Теплодарська міська громада",
+      "rayon_name": "Одеський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51100370010020298",
+      "name": "Чорноморськ",
+      "name_en": "Chornomorsk",
+      "slug": "chornomorsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51100370000040590",
+      "hromada_name": "Чорноморська міська громада",
+      "rayon_name": "Одеський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51100410010044384",
+      "name": "Південне",
+      "name_en": "Pivdenne",
+      "slug": "pivdenne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51100410000059549",
+      "hromada_name": "Південнівська міська громада",
+      "rayon_name": "Одеський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51120010010049617",
+      "name": "Ананьїв",
+      "name_en": "Ananiv",
+      "slug": "ananiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51120010000025020",
+      "hromada_name": "Ананьївська міська громада",
+      "rayon_name": "Подільський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51120030010033524",
+      "name": "Балта",
+      "name_en": "Balta",
+      "slug": "balta",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51120030000075494",
+      "hromada_name": "Балтська міська громада",
+      "rayon_name": "Подільський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51120090010012317",
+      "name": "Кодима",
+      "name_en": "Kodyma",
+      "slug": "kodyma",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51120090000035170",
+      "hromada_name": "Кодимська міська громада",
+      "rayon_name": "Подільський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51120190010049331",
+      "name": "Подільськ",
+      "name_en": "Podilsk",
+      "slug": "podilsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51120190000044451",
+      "hromada_name": "Подільська міська громада",
+      "rayon_name": "Подільський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    },
+    {
+      "code": "UA51140130010040641",
+      "name": "Роздільна",
+      "name_en": "Rozdilna",
+      "slug": "rozdilna",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA51140130000082333",
+      "hromada_name": "Роздільнянська міська громада",
+      "rayon_name": "Роздільнянський район",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Одеської області - Безкоштовне завантаження",
+    "description": "Список 19 міст Одеської області (категорія М у КАТОТТГ). Містить 19 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Одеської області | ListBase",
+    "seo_description": "Завантажити Міста Одеської області — 19 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 19 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

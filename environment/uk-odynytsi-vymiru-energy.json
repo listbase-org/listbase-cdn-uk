@@ -1,0 +1,187 @@
+{
+  "id": "uk-odynytsi-vymiru-energy",
+  "name": "Одиниці вимірювання — категорія 'energy' (14)",
+  "title": "Одиниці вимірювання — категорія 'energy' (14)",
+  "description": "Одиниці вимірювання категорії 'energy' з локалі uk у CLDR, з назвами українською.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "katehoriia": "energy",
+      "nazva": "бекерелі",
+      "skorochennia": "Бк",
+      "vuzka_forma": "Бк",
+      "vzirets": "{0} бекереля"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "katehoriia": "energy",
+      "nazva": "британські теплові одиниці",
+      "skorochennia": "БТО",
+      "vuzka_forma": "БТО",
+      "vzirets": "{0} британської теплової одиниці"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "katehoriia": "energy",
+      "nazva": "BTU-IT",
+      "skorochennia": "BTU-IT",
+      "vuzka_forma": "BTU-IT",
+      "vzirets": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "katehoriia": "energy",
+      "nazva": "калорії",
+      "skorochennia": "кал",
+      "vuzka_forma": "кал",
+      "vzirets": "{0} калорії"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "katehoriia": "energy",
+      "nazva": "міжнародні калорії",
+      "skorochennia": "калмн",
+      "vuzka_forma": "калмн",
+      "vzirets": "{0} міжнародної калорії"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "katehoriia": "energy",
+      "nazva": "електрон-вольти",
+      "skorochennia": "еВ",
+      "vuzka_forma": "еВ",
+      "vzirets": "{0} електрон-вольта"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "katehoriia": "energy",
+      "nazva": "кілокалорії",
+      "skorochennia": "",
+      "vuzka_forma": "",
+      "vzirets": "{0} кілокалорії"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "katehoriia": "energy",
+      "nazva": "греї",
+      "skorochennia": "Гр",
+      "vuzka_forma": "Гр",
+      "vzirets": "{0} грея"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "katehoriia": "energy",
+      "nazva": "джоулі",
+      "skorochennia": "Дж",
+      "vuzka_forma": "Дж",
+      "vzirets": "{0} джоуля"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "katehoriia": "energy",
+      "nazva": "кілокалорії",
+      "skorochennia": "ккал",
+      "vuzka_forma": "ккал",
+      "vzirets": "{0} кілокалорії"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "katehoriia": "energy",
+      "nazva": "кілоджоулі",
+      "skorochennia": "кДж",
+      "vuzka_forma": "кДж",
+      "vzirets": "{0} кілоджоуля"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "katehoriia": "energy",
+      "nazva": "кіловат-години",
+      "skorochennia": "кВт⋅год",
+      "vuzka_forma": "кВт⋅год",
+      "vzirets": "{0} кіловат-години"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "katehoriia": "energy",
+      "nazva": "зіверти",
+      "skorochennia": "Зв",
+      "vuzka_forma": "Зв",
+      "vzirets": "{0} зіверта"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "katehoriia": "energy",
+      "nazva": "американські терми",
+      "skorochennia": "ам. терми",
+      "vuzka_forma": "ам. терм.",
+      "vzirets": "{0} американського терма"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'energy' (14) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'energy' з локалі uk у CLDR, з назвами українською. Містить 14 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'energy' (14) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'energy' (14) — 14 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 14 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

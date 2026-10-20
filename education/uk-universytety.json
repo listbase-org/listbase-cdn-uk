@@ -1,0 +1,816 @@
+{
+  "id": "uk-universytety",
+  "name": "Україна — Університети",
+  "title": "Україна — Університети",
+  "description": "Перелік акредитованих університетів та закладів вищої освіти в Україні. Кожен запис містить назву закладу (латиницею/англійською), основний зареєстрований домен, повний перелік доменних псевдонімів, основну веб-сторінку, код країни (ISO-3166-1 alpha-2) та область/регіон (де надано джерелом). Витяг отримано фільтрацією глобального датасету Hipo/university-domains-list (country == 'Ukraine').",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alfred Nobel University of Economics and Law",
+      "slug": "alfred-nobel-economics-law",
+      "domain": "duep.edu",
+      "domains": "duep.edu",
+      "web_page": "http://www.duep.edu/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Bila Cerkva State Agrarian University",
+      "slug": "bila-cerkva-state-agrarian",
+      "domain": "btsau.kiev.ua",
+      "domains": "btsau.kiev.ua",
+      "web_page": "http://www.btsau.kiev.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Chernivci National University",
+      "slug": "chernivci-national",
+      "domain": "chnu.cv.ua",
+      "domains": "chnu.cv.ua",
+      "web_page": "http://www.chnu.cv.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Crimea State Medical University",
+      "slug": "crimea-state-medical",
+      "domain": "crsmu.com",
+      "domains": "crsmu.com",
+      "web_page": "http://www.crsmu.com/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Dneprodzerzhinsk State Technical University",
+      "slug": "dneprodzerzhinsk-state-technical",
+      "domain": "dstu.dp.ua",
+      "domains": "dstu.dp.ua",
+      "web_page": "http://www.dstu.dp.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Dnepropetrovsk National University",
+      "slug": "dnepropetrovsk-national",
+      "domain": "dnu.dp.ua",
+      "domains": "dnu.dp.ua",
+      "web_page": "http://www.dnu.dp.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Dnepropetrovsk National University of Railway Transport",
+      "slug": "dnepropetrovsk-national-railway-transpor",
+      "domain": "diit.edu.ua",
+      "domains": "diit.edu.ua",
+      "web_page": "http://www.diit.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Donetsk National Technical University",
+      "slug": "donetsk-national-technical",
+      "domain": "donntu.edu.ua",
+      "domains": "donntu.edu.ua",
+      "web_page": "http://www.donntu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Donetsk National University",
+      "slug": "donetsk-national",
+      "domain": "donnu.edu.ua",
+      "domains": "donnu.edu.ua",
+      "web_page": "http://www.donnu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Donetsk State Medical University",
+      "slug": "donetsk-state-medical",
+      "domain": "donmeduni.com",
+      "domains": "donmeduni.com",
+      "web_page": "http://www.donmeduni.com/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "East Ukrainian National University",
+      "slug": "east-ukrainian-national",
+      "domain": "snu.edu.ua",
+      "domains": "snu.edu.ua",
+      "web_page": "http://www.snu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ivano-Frankivsk National University of Oil and Gas",
+      "slug": "ivano-frankivsk-national-oil-gas",
+      "domain": "ifdtung.if.ua",
+      "domains": "ifdtung.if.ua, nung.edu.ua",
+      "web_page": "https://nung.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": "Ivano-Frankivsk"
+    },
+    {
+      "name": "Kharkiv National University",
+      "slug": "kharkiv-national",
+      "domain": "student.karazin.ua",
+      "domains": "student.karazin.ua, karazin.ua, univer.kharkov.ua",
+      "web_page": "https://karazin.ua",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kharkiv National University of Economics",
+      "slug": "kharkiv-national-economics",
+      "domain": "hneu.edu.ua",
+      "domains": "hneu.edu.ua",
+      "web_page": "http://www.hneu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kharkiv National University of Radio Electronics",
+      "slug": "kharkiv-national-radio-electronics",
+      "domain": "nure.ua",
+      "domains": "nure.ua",
+      "web_page": "https://nure.ua",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kharkiv State Medical University",
+      "slug": "kharkiv-state-medical",
+      "domain": "ksmu.kharkov.ua",
+      "domains": "ksmu.kharkov.ua",
+      "web_page": "http://www.ksmu.kharkov.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kharkiv State Technical University of Construction and Architecture",
+      "slug": "kharkiv-state-technical-construction-arc",
+      "domain": "kstuca.kharkov.ua",
+      "domains": "kstuca.kharkov.ua",
+      "web_page": "http://www.kstuca.kharkov.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kharkiv State Transport Technical University",
+      "slug": "kharkiv-state-transport-technical",
+      "domain": "khadi.kharkov.ua",
+      "domains": "khadi.kharkov.ua",
+      "web_page": "http://www.khadi.kharkov.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kherson State University",
+      "slug": "kherson-state",
+      "domain": "university.kherson.ua",
+      "domains": "university.kherson.ua",
+      "web_page": "http://www.university.kherson.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kiev National Economic University",
+      "slug": "kiev-national-economic",
+      "domain": "kneu.kiev.ua",
+      "domains": "kneu.kiev.ua",
+      "web_page": "http://www.kneu.kiev.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kiev National University of Construction and Architecture",
+      "slug": "kiev-national-construction-architecture",
+      "domain": "knuba.edu.ua",
+      "domains": "knuba.edu.ua",
+      "web_page": "http://www.knuba.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kiev School Of Economics",
+      "slug": "kiev-school-economics",
+      "domain": "kse.org.ua",
+      "domains": "kse.org.ua",
+      "web_page": "http://www.kse.org.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Kiev Slavonic University",
+      "slug": "kiev-slavonic",
+      "domain": "ksu.edu.ua",
+      "domains": "ksu.edu.ua",
+      "web_page": "http://www.ksu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "KROK Economics and Law University",
+      "slug": "krok-economics-law",
+      "domain": "krok.edu.ua",
+      "domains": "krok.edu.ua",
+      "web_page": "http://www.krok.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Luhansk State Medical University",
+      "slug": "luhansk-state-medical",
+      "domain": "lsmu.edu.ua",
+      "domains": "lsmu.edu.ua",
+      "web_page": "https://www.lsmu.edu.ua/en/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Luhansk Taras Shevchenko National Pedagogical University",
+      "slug": "luhansk-taras-shevchenko-national-pedago",
+      "domain": "lgpu.lg.ua",
+      "domains": "lgpu.lg.ua",
+      "web_page": "http://www.lgpu.lg.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Lviv National Medical Univeristy",
+      "slug": "lviv-national-medical-univeristy",
+      "domain": "meduniv.lviv.ua",
+      "domains": "meduniv.lviv.ua",
+      "web_page": "http://www.meduniv.lviv.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Lviv National University Ivan Franko",
+      "slug": "lviv-national-ivan-franko",
+      "domain": "franko.lviv.ua",
+      "domains": "franko.lviv.ua",
+      "web_page": "http://www.franko.lviv.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Lviv Polytechnic National University",
+      "slug": "lviv-polytechnic-national",
+      "domain": "lp.edu.ua",
+      "domains": "lp.edu.ua",
+      "web_page": "http://www.lp.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Lviv University",
+      "slug": "lviv",
+      "domain": "lnu.edu.ua",
+      "domains": "lnu.edu.ua",
+      "web_page": "https://www.lnu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Aerospace University Kharkov Aviation Institute",
+      "slug": "national-aerospace-kharkov-aviation-inst",
+      "domain": "khai.edu",
+      "domains": "khai.edu",
+      "web_page": "http://www.khai.edu/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Agricultural University",
+      "slug": "national-agricultural",
+      "domain": "nauu.kiev.ua",
+      "domains": "nauu.kiev.ua",
+      "web_page": "http://www.nauu.kiev.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Aviation University",
+      "slug": "national-aviation",
+      "domain": "nau.edu.ua",
+      "domains": "nau.edu.ua",
+      "web_page": "http://www.nau.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Medical University O.O. Bogomolets",
+      "slug": "national-medical-o-o-bogomolets",
+      "domain": "nmu.edu.ua",
+      "domains": "nmu.edu.ua",
+      "web_page": "http://www.nmu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Metallurgical Academy of Ukraine",
+      "slug": "national-metallurgical-academy-ukraine",
+      "domain": "nmetau.edu.ua",
+      "domains": "nmetau.edu.ua",
+      "web_page": "http://www.nmetau.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Mining University",
+      "slug": "national-mining",
+      "domain": "nmu.org.ua",
+      "domains": "nmu.org.ua",
+      "web_page": "http://www.nmu.org.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Pedagogical University M. Dragomanov",
+      "slug": "national-pedagogical-m-dragomanov",
+      "domain": "npu.edu.ua",
+      "domains": "npu.edu.ua",
+      "web_page": "http://www.npu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Pirogov Memorial Medical University",
+      "slug": "national-pirogov-memorial-medical",
+      "domain": "vnmu.vn.ua",
+      "domains": "vnmu.vn.ua",
+      "web_page": "http://www.vnmu.vn.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Technical University (Kharkiv Polytechnical Institute)",
+      "slug": "national-technical-kharkiv-polytechnical",
+      "domain": "kpi.kharkov.ua",
+      "domains": "kpi.kharkov.ua",
+      "web_page": "http://www.kpi.kharkov.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Technical University (Kiev Politechnical Institute)",
+      "slug": "national-technical-kiev-politechnical-in",
+      "domain": "kpi.ua",
+      "domains": "kpi.ua",
+      "web_page": "http://www.kpi.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National Transport University",
+      "slug": "national-transport",
+      "domain": "ntu.kar.net",
+      "domains": "ntu.kar.net",
+      "web_page": "http://www.ntu.kar.net/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Food Technologies",
+      "slug": "national-food-technologies",
+      "domain": "usuft.kiev.ua",
+      "domains": "usuft.kiev.ua",
+      "web_page": "http://www.usuft.kiev.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Internal Affairs",
+      "slug": "national-internal-affairs",
+      "domain": "univd.edu.ua",
+      "domains": "univd.edu.ua",
+      "web_page": "http://www.univd.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Kiev-Mohyla Academy",
+      "slug": "national-kiev-mohyla-academy",
+      "domain": "ukma.kiev.ua",
+      "domains": "ukma.kiev.ua",
+      "web_page": "http://www.ukma.kiev.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Ostroh Academy",
+      "slug": "national-ostroh-academy",
+      "domain": "uosa.uar.net",
+      "domains": "uosa.uar.net",
+      "web_page": "http://www.uosa.uar.net/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "National University of Shipbuilding",
+      "slug": "national-shipbuilding",
+      "domain": "usmtu.edu.ua",
+      "domains": "usmtu.edu.ua",
+      "web_page": "http://www.usmtu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa National Academy of Food Technologies",
+      "slug": "odessa-national-academy-food-technologie",
+      "domain": "osaft.odessa.ua",
+      "domains": "osaft.odessa.ua",
+      "web_page": "http://www.osaft.odessa.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa National I.I. Mecnikov University",
+      "slug": "odessa-national-i-i-mecnikov",
+      "domain": "onu.edu.ua",
+      "domains": "onu.edu.ua",
+      "web_page": "http://www.onu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa National Marine University",
+      "slug": "odessa-national-marine",
+      "domain": "osmu.odessa.ua",
+      "domains": "osmu.odessa.ua",
+      "web_page": "http://www.osmu.odessa.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa National Maritime Academy",
+      "slug": "odessa-national-maritime-academy",
+      "domain": "ma.odessa.ua",
+      "domains": "ma.odessa.ua",
+      "web_page": "http://www.ma.odessa.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa National Polytechnic University",
+      "slug": "odessa-national-polytechnic",
+      "domain": "opu.odessa.ua",
+      "domains": "opu.odessa.ua",
+      "web_page": "http://www.opu.odessa.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa State Academy of Construction and Architecture",
+      "slug": "odessa-state-academy-construction-archit",
+      "domain": "ogasa.odessa.ua",
+      "domains": "ogasa.odessa.ua",
+      "web_page": "http://www.ogasa.odessa.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Odessa State Medical University",
+      "slug": "odessa-state-medical",
+      "domain": "arosmu.org",
+      "domains": "arosmu.org",
+      "web_page": "http://www.arosmu.org/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Petro Mohyla Black Sea State University",
+      "slug": "petro-mohyla-black-sea-state",
+      "domain": "kma.mk.ua",
+      "domains": "kma.mk.ua",
+      "web_page": "http://www.kma.mk.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Poltava National Technical University",
+      "slug": "poltava-national-technical",
+      "domain": "pntu.edu.ua",
+      "domains": "pntu.edu.ua",
+      "web_page": "http://www.pntu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Poltava University of Consumer Cooperatives in Ukraine",
+      "slug": "poltava-consumer-cooperatives-ukraine",
+      "domain": "pusku.edu.ua",
+      "domains": "pusku.edu.ua",
+      "web_page": "http://www.pusku.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Precarpathian University",
+      "slug": "precarpathian",
+      "domain": "pu.if.ua",
+      "domains": "pu.if.ua",
+      "web_page": "http://www.pu.if.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Sevastopol National Technical University",
+      "slug": "sevastopol-national-technical",
+      "domain": "sevntu.com.ua",
+      "domains": "sevntu.com.ua",
+      "web_page": "http://sevntu.com.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "State Pedagogical University in Kryvyi Rih",
+      "slug": "state-pedagogical-kryvyi-rih",
+      "domain": "kdpu.edu.ua",
+      "domains": "kdpu.edu.ua",
+      "web_page": "http://www.kdpu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Sumy National Agrarian University",
+      "slug": "sumy-national-agrarian",
+      "domain": "sau.sumy.ua",
+      "domains": "sau.sumy.ua",
+      "web_page": "http://www.sau.sumy.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Sumy State University",
+      "slug": "sumy-state",
+      "domain": "sumdu.edu.ua",
+      "domains": "sumdu.edu.ua",
+      "web_page": "http://www.sumdu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Taras Shevchenko National University of Kyiv",
+      "slug": "taras-shevchenko-national-kyiv",
+      "domain": "univ.kiev.ua",
+      "domains": "univ.kiev.ua, knu.ua",
+      "web_page": "http://www.univ.kiev.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": "Kyiv"
+    },
+    {
+      "name": "Taurida National V.I.Vernadsky University",
+      "slug": "taurida-national-v-i-vernadsky",
+      "domain": "tnu.crimea.ua",
+      "domains": "tnu.crimea.ua",
+      "web_page": "http://www.tnu.crimea.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Technological University of Podillya",
+      "slug": "technological-podillya",
+      "domain": "tup.km.ua",
+      "domains": "tup.km.ua",
+      "web_page": "http://www.tup.km.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ternopil Academy of National Economy",
+      "slug": "ternopil-academy-national-economy",
+      "domain": "tane.edu.ua",
+      "domains": "tane.edu.ua",
+      "web_page": "http://www.tane.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ternopil State Ivan Pul'uj Technical University",
+      "slug": "ternopil-state-ivan-pul-uj-technical",
+      "domain": "tu.edu.te.ua",
+      "domains": "tu.edu.te.ua",
+      "web_page": "http://www.tu.edu.te.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ukrainian Academy of Banking",
+      "slug": "ukrainian-academy-banking",
+      "domain": "academy.sumy.ua",
+      "domains": "academy.sumy.ua",
+      "web_page": "http://www.academy.sumy.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ukrainian Academy of Pharmacy",
+      "slug": "ukrainian-academy-pharmacy",
+      "domain": "ukrfa.kharkov.ua",
+      "domains": "ukrfa.kharkov.ua",
+      "web_page": "http://www.ukrfa.kharkov.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ukrainian Medical Stomatological Academy",
+      "slug": "ukrainian-medical-stomatological-academy",
+      "domain": "uamsa.net",
+      "domains": "uamsa.net",
+      "web_page": "http://www.uamsa.net/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Ukrainian National Forestry University",
+      "slug": "ukrainian-national-forestry",
+      "domain": "forest.lviv.ua",
+      "domains": "forest.lviv.ua",
+      "web_page": "http://www.forest.lviv.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Uzhgorod National University",
+      "slug": "uzhgorod-national",
+      "domain": "univ.uzhgorod.ua",
+      "domains": "univ.uzhgorod.ua",
+      "web_page": "http://www.univ.uzhgorod.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Vinnica National Technical University",
+      "slug": "vinnica-national-technical",
+      "domain": "vstu.vinnica.ua",
+      "domains": "vstu.vinnica.ua",
+      "web_page": "http://www.vstu.vinnica.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Volyn National University Lesja Ukrainka",
+      "slug": "volyn-national-lesja-ukrainka",
+      "domain": "vdu.edu.ua",
+      "domains": "vdu.edu.ua",
+      "web_page": "http://www.vdu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Zaporizhzhe National Technical University",
+      "slug": "zaporizhzhe-national-technical",
+      "domain": "zntu.edu.ua",
+      "domains": "zntu.edu.ua",
+      "web_page": "http://www.zntu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    },
+    {
+      "name": "Zaporizhzhe National University",
+      "slug": "zaporizhzhe-national",
+      "domain": "znu.edu.ua",
+      "domains": "znu.edu.ua",
+      "web_page": "http://www.znu.edu.ua/",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Україна — Університети - Безкоштовне завантаження",
+    "description": "Перелік акредитованих університетів та закладів вищої освіти в Україні. Кожен запис містить назву закладу (латиницею/англійською), основний зареєстрований домен, повний перелік доменних псевдонімів, основну веб-сторінку, код країни (ISO-3166-1 alpha-2) та область/регіон (де надано джерелом). Витяг отримано фільтрацією глобального датасету Hipo/university-domains-list (country == 'Ukraine'). Містить 75 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Україна — Університети | ListBase",
+    "seo_description": "Завантажити Україна — Університети — 75 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 75 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

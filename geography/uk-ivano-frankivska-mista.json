@@ -1,0 +1,331 @@
+{
+  "id": "uk-ivano-frankivska-mista",
+  "name": "Міста Івано-Франківської області",
+  "title": "Міста Івано-Франківської області",
+  "description": "Список 16 міст Івано-Франківської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA26040070010092973",
+      "name": "Бурштин",
+      "name_en": "Burshtyn",
+      "slug": "burshtyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26040070000065724",
+      "hromada_name": "Бурштинська міська громада",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040090010078723",
+      "name": "Галич",
+      "name_en": "Halych",
+      "slug": "halych",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26040090000025932",
+      "hromada_name": "Галицька міська громада",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040190010045761",
+      "name": "Івано-Франківськ",
+      "name_en": "Ivano-Frankivsk",
+      "slug": "ivano-frankivsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26040190000081578",
+      "hromada_name": "Івано-Франківська міська громада",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040270010067876",
+      "name": "Рогатин",
+      "name_en": "Rohatyn",
+      "slug": "rohatyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26040270000047749",
+      "hromada_name": "Рогатинська міська громада",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040330010091232",
+      "name": "Тисмениця",
+      "name_en": "Tysmenytsia",
+      "slug": "tysmenytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26040330000019235",
+      "hromada_name": "Тисменицька міська громада",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040350010070754",
+      "name": "Тлумач",
+      "name_en": "Tlumach",
+      "slug": "tlumach",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26040350000024417",
+      "hromada_name": "Тлумацька міська громада",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060010010092713",
+      "name": "Болехів",
+      "name_en": "Bolekhiv",
+      "slug": "bolekhiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26060010000037638",
+      "hromada_name": "Болехівська міська громада",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060130010099427",
+      "name": "Долина",
+      "name_en": "Dolyna",
+      "slug": "dolyna",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26060130000047466",
+      "hromada_name": "Долинська міська громада",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060170010082672",
+      "name": "Калуш",
+      "name_en": "Kalush",
+      "slug": "kalush",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26060170000091466",
+      "hromada_name": "Калуська міська громада",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080030010035324",
+      "name": "Городенка",
+      "name_en": "Horodenka",
+      "slug": "horodenka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26080030000014307",
+      "hromada_name": "Городенківська міська громада",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080070010075786",
+      "name": "Коломия",
+      "name_en": "Kolomyia",
+      "slug": "kolomyia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26080070000092582",
+      "hromada_name": "Коломийська міська територіальна громада",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080070010075786",
+      "name": "Коломия",
+      "name_en": "Kolomyia",
+      "slug": "kolomyia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26080070000092582",
+      "hromada_name": "Коломийська міська територіальна громада",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080230010020173",
+      "name": "Снятин",
+      "name_en": "Sniatyn",
+      "slug": "sniatyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26080230000035462",
+      "hromada_name": "Снятинська міська громада",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26100010010026473",
+      "name": "Косів",
+      "name_en": "Kosiv",
+      "slug": "kosiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26100010000076570",
+      "hromada_name": "Косівська міська громада",
+      "rayon_name": "Косівський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120070010010041",
+      "name": "Надвірна",
+      "name_en": "Nadvirna",
+      "slug": "nadvirna",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26120070000067596",
+      "hromada_name": "Надвірнянська міська громада",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120150010047425",
+      "name": "Яремче",
+      "name_en": "Yaremche",
+      "slug": "yaremche",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA26120150000021671",
+      "hromada_name": "Яремчанська міська громада",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Івано-Франківської області - Безкоштовне завантаження",
+    "description": "Список 16 міст Івано-Франківської області (категорія М у КАТОТТГ). Містить 16 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Івано-Франківської області | ListBase",
+    "seo_description": "Завантажити Міста Івано-Франківської області — 16 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 16 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

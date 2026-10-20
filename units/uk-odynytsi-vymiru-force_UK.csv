@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","force-kilogram-force","force","кілограм-сили","кгс","кгс","{0} кілограм-сили"
+"2","force-kilowatt-hour-per-100-kilometer","force","кіловат-години на 100 кілометрів","кВт⋅год/100 км","кВт⋅год/100км","{0} кіловат-години на 100 кілометрів"
+"3","force-newton","force","ньютони","ньютон","Н","{0} ньютона"
+"4","force-pound-force","force","фунт-сили","фунт-сила","фнтс","{0} фунт-сили"

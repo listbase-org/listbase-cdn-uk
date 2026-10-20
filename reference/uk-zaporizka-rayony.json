@@ -1,0 +1,126 @@
+{
+  "id": "uk-zaporizka-rayony",
+  "name": "Райони Запорізької області",
+  "title": "Райони Запорізької області",
+  "description": "Список усіх 6 районів Запорізької області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA23020000000032289",
+      "name": "Бердянський район",
+      "name_en": "Berdianskyi raion",
+      "slug": "berdianskyi-raion",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka",
+      "parent_code": "UA23000000000064947"
+    },
+    {
+      "code": "UA23040000000067730",
+      "name": "Василівський район",
+      "name_en": "Vasylivskyi raion",
+      "slug": "vasylivskyi-raion",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka",
+      "parent_code": "UA23000000000064947"
+    },
+    {
+      "code": "UA23060000000070350",
+      "name": "Запорізький район",
+      "name_en": "Zaporizkyi raion",
+      "slug": "zaporizkyi-raion",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka",
+      "parent_code": "UA23000000000064947"
+    },
+    {
+      "code": "UA23080000000090746",
+      "name": "Мелітопольський район",
+      "name_en": "Melitopolskyi raion",
+      "slug": "melitopolskyi-raion",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka",
+      "parent_code": "UA23000000000064947"
+    },
+    {
+      "code": "UA23100000000034132",
+      "name": "Пологівський район",
+      "name_en": "Polohivskyi raion",
+      "slug": "polohivskyi-raion",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka",
+      "parent_code": "UA23000000000064947"
+    },
+    {
+      "code": "UA23100000000034132",
+      "name": "Пологівський район",
+      "name_en": "Polohivskyi raion",
+      "slug": "polohivskyi-raion",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka",
+      "parent_code": "UA23000000000064947"
+    }
+  ],
+  "meta": {
+    "title": "Райони Запорізької області - Безкоштовне завантаження",
+    "description": "Список усіх 6 районів Запорізької області згідно з КАТОТТГ (реформа 2020 року). Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Запорізької області | ListBase",
+    "seo_description": "Завантажити Райони Запорізької області — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

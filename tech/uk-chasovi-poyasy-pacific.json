@@ -1,0 +1,360 @@
+{
+  "id": "uk-chasovi-poyasy-pacific",
+  "name": "Часові пояси — Pacific (38)",
+  "title": "Часові пояси — Pacific (38)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Pacific/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Apia",
+      "rehion": "Pacific",
+      "misto": "Апіа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Auckland",
+      "rehion": "Pacific",
+      "misto": "Окленд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Bougainville",
+      "rehion": "Pacific",
+      "misto": "Буґенвіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Chatham",
+      "rehion": "Pacific",
+      "misto": "Чатем",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Easter",
+      "rehion": "Pacific",
+      "misto": "Острів Пасхи",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Efate",
+      "rehion": "Pacific",
+      "misto": "Ефате",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Enderbury",
+      "rehion": "Pacific",
+      "misto": "Кантон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Fakaofo",
+      "rehion": "Pacific",
+      "misto": "Факаофо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Fiji",
+      "rehion": "Pacific",
+      "misto": "Фіджі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Pacific/Funafuti",
+      "rehion": "Pacific",
+      "misto": "Фунафуті",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Pacific/Galapagos",
+      "rehion": "Pacific",
+      "misto": "Ґалапаґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Pacific/Gambier",
+      "rehion": "Pacific",
+      "misto": "Гамбʼє",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Pacific/Guadalcanal",
+      "rehion": "Pacific",
+      "misto": "Гуадалканал",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Pacific/Guam",
+      "rehion": "Pacific",
+      "misto": "Гуам",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Pacific/Honolulu",
+      "rehion": "Pacific",
+      "misto": "Гонолулу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Pacific/Kiritimati",
+      "rehion": "Pacific",
+      "misto": "Кірітіматі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Pacific/Kosrae",
+      "rehion": "Pacific",
+      "misto": "Косрае",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Pacific/Kwajalein",
+      "rehion": "Pacific",
+      "misto": "Кваджалейн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Pacific/Majuro",
+      "rehion": "Pacific",
+      "misto": "Маджуро",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Pacific/Marquesas",
+      "rehion": "Pacific",
+      "misto": "Маркізькі острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Pacific/Midway",
+      "rehion": "Pacific",
+      "misto": "Мідвей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Pacific/Nauru",
+      "rehion": "Pacific",
+      "misto": "Науру",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Pacific/Niue",
+      "rehion": "Pacific",
+      "misto": "Ніуе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Pacific/Norfolk",
+      "rehion": "Pacific",
+      "misto": "Норфолк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Pacific/Noumea",
+      "rehion": "Pacific",
+      "misto": "Нумеа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Pacific/Pago_Pago",
+      "rehion": "Pacific",
+      "misto": "Паго-Паго",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Pacific/Palau",
+      "rehion": "Pacific",
+      "misto": "Палау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Pacific/Pitcairn",
+      "rehion": "Pacific",
+      "misto": "Піткерн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Pacific/Ponape",
+      "rehion": "Pacific",
+      "misto": "Понапе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Pacific/Port_Moresby",
+      "rehion": "Pacific",
+      "misto": "Порт-Морсбі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Pacific/Rarotonga",
+      "rehion": "Pacific",
+      "misto": "Раротонга",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Pacific/Saipan",
+      "rehion": "Pacific",
+      "misto": "Сайпан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Pacific/Tahiti",
+      "rehion": "Pacific",
+      "misto": "Таїті",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Pacific/Tarawa",
+      "rehion": "Pacific",
+      "misto": "Тарава",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Pacific/Tongatapu",
+      "rehion": "Pacific",
+      "misto": "Тонгатапу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Pacific/Truk",
+      "rehion": "Pacific",
+      "misto": "Чуук",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Pacific/Wake",
+      "rehion": "Pacific",
+      "misto": "Вейк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Pacific/Wallis",
+      "rehion": "Pacific",
+      "misto": "Уолліс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Pacific (38) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Pacific/', з назвами українською. Містить 38 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Pacific (38) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Pacific (38) — 38 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 38 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

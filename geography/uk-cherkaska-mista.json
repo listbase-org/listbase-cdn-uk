@@ -1,0 +1,331 @@
+{
+  "id": "uk-cherkaska-mista",
+  "name": "Міста Черкаської області",
+  "title": "Міста Черкаської області",
+  "description": "Список 16 міст Черкаської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA71020030010075692",
+      "name": "Багачеве",
+      "name_en": "Bahacheve",
+      "slug": "bahacheve",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71020030000059581",
+      "hromada_name": "Ватутінська міська громада",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020130010081908",
+      "name": "Звенигородка",
+      "name_en": "Zvenyhorodka",
+      "slug": "zvenyhorodka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71020130000086047",
+      "hromada_name": "Звенигородська міська громада",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020290010051536",
+      "name": "Тальне",
+      "name_en": "Talne",
+      "slug": "talne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71020290000032540",
+      "hromada_name": "Тальнівська міська громада",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020330010098440",
+      "name": "Шпола",
+      "name_en": "Shpola",
+      "slug": "shpola",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71020330000027449",
+      "hromada_name": "Шполянська міська громада",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040090010057400",
+      "name": "Золотоноша",
+      "name_en": "Zolotonosha",
+      "slug": "zolotonosha",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71040090000047664",
+      "hromada_name": "Золотоніська міська громада",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060090010092249",
+      "name": "Жашків",
+      "name_en": "Zhashkiv",
+      "slug": "zhashkiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71060090000088339",
+      "hromada_name": "Жашківська міська громада",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060170010084282",
+      "name": "Монастирище",
+      "name_en": "Monastyryshche",
+      "slug": "monastyryshche",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71060170000092613",
+      "hromada_name": "Монастирищенська міська громада",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060210010010251",
+      "name": "Умань",
+      "name_en": "Uman",
+      "slug": "uman",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71060210000032972",
+      "hromada_name": "Уманська міська громада",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060230010046648",
+      "name": "Христинівка",
+      "name_en": "Khrystynivka",
+      "slug": "khrystynivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71060230000095772",
+      "hromada_name": "Христинівська міська громада",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080110010037357",
+      "name": "Городище",
+      "name_en": "Horodyshche",
+      "slug": "horodyshche",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080110000055395",
+      "hromada_name": "Городищенська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080130010022318",
+      "name": "Кам'янка",
+      "name_en": "Kamyanka",
+      "slug": "kamyanka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080130000078619",
+      "hromada_name": "Кам'янська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080150010077910",
+      "name": "Канів",
+      "name_en": "Kaniv",
+      "slug": "kaniv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080150000071745",
+      "hromada_name": "Канівська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080170010098381",
+      "name": "Корсунь-Шевченківський",
+      "name_en": "Korsun-Shevchenkivskyi",
+      "slug": "korsun-shevchenkivskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080170000080118",
+      "hromada_name": "Корсунь-Шевченківська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080390010069946",
+      "name": "Сміла",
+      "name_en": "Smila",
+      "slug": "smila",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080390000078978",
+      "hromada_name": "Смілянська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080490010015879",
+      "name": "Черкаси",
+      "name_en": "Cherkasy",
+      "slug": "cherkasy",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080490000022110",
+      "hromada_name": "Черкаська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080510010036826",
+      "name": "Чигирин",
+      "name_en": "Chyhyryn",
+      "slug": "chyhyryn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA71080510000028067",
+      "hromada_name": "Чигиринська міська громада",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Черкаської області - Безкоштовне завантаження",
+    "description": "Список 16 міст Черкаської області (категорія М у КАТОТТГ). Містить 16 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Черкаської області | ListBase",
+    "seo_description": "Завантажити Міста Черкаської області — 16 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 16 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

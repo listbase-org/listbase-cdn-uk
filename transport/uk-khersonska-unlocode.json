@@ -1,0 +1,286 @@
+{
+  "id": "uk-khersonska-unlocode",
+  "name": "Коди UN/LOCODE — Херсонська область",
+  "title": "Коди UN/LOCODE — Херсонська область",
+  "description": "Коди UN/LOCODE у межах адміністративної одиниці «Херсонська область» (Kherson Oblast, UA-65), 5 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (4), Maritime transport (sea port) (2), Rail transport (2), Air transport (airport) (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 65); all fields carried verbatim from the parent, nothing translated or recomputed.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_iso_3166_2",
+      "label": "Oblast Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "unlocode_subdivision_name",
+      "label": "Unlocode Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 81,
+      "oblast_uk": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "oblast_slug": "khersonska",
+      "oblast_iso_3166_2": "UA-65",
+      "unlocode_subdivision_name": "Khersonska oblast",
+      "locode": "UAKHE",
+      "country": "UA",
+      "location": "KHE",
+      "name": "Kherson",
+      "name_wo_diacritics": "Kherson",
+      "subdivision_code": "65",
+      "subdivision_name": "Khersonska oblast",
+      "subdivision_type": "Region",
+      "status": "AA",
+      "status_description": "Approved by competent national government agency",
+      "function": "1--4----",
+      "functions": "Maritime transport (sea port), Air transport (airport)",
+      "iata": "",
+      "coordinates": "4637N 03237E",
+      "latitude": 46.6167,
+      "longitude": 32.6167,
+      "date_updated": "2017-07",
+      "remarks": ""
+    },
+    {
+      "id": 2,
+      "parent_index": 89,
+      "oblast_uk": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "oblast_slug": "khersonska",
+      "oblast_iso_3166_2": "UA-65",
+      "unlocode_subdivision_name": "Khersonska oblast",
+      "locode": "UAKKH",
+      "country": "UA",
+      "location": "KKH",
+      "name": "Kakhovka",
+      "name_wo_diacritics": "Kakhovka",
+      "subdivision_code": "65",
+      "subdivision_name": "Khersonska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4648N 03328E",
+      "latitude": 46.8,
+      "longitude": 33.4667,
+      "date_updated": "2016-01",
+      "remarks": ""
+    },
+    {
+      "id": 3,
+      "parent_index": 183,
+      "oblast_uk": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "oblast_slug": "khersonska",
+      "oblast_iso_3166_2": "UA-65",
+      "unlocode_subdivision_name": "Khersonska oblast",
+      "locode": "UASKD",
+      "country": "UA",
+      "location": "SKD",
+      "name": "Skadovsk",
+      "name_wo_diacritics": "Skadovsk",
+      "subdivision_code": "65",
+      "subdivision_name": "Khersonska oblast",
+      "subdivision_type": "Region",
+      "status": "AA",
+      "status_description": "Approved by competent national government agency",
+      "function": "1-3-----",
+      "functions": "Maritime transport (sea port), Road transport",
+      "iata": "",
+      "coordinates": "4606N 03254E",
+      "latitude": 46.1,
+      "longitude": 32.9,
+      "date_updated": "2017-07",
+      "remarks": ""
+    },
+    {
+      "id": 4,
+      "parent_index": 204,
+      "oblast_uk": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "oblast_slug": "khersonska",
+      "oblast_iso_3166_2": "UA-65",
+      "unlocode_subdivision_name": "Khersonska oblast",
+      "locode": "UATSP",
+      "country": "UA",
+      "location": "TSP",
+      "name": "Tsyurupyns'k",
+      "name_wo_diacritics": "Tsyurupyns'k",
+      "subdivision_code": "65",
+      "subdivision_name": "Khersonska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4636N 03242E",
+      "latitude": 46.6,
+      "longitude": 32.7,
+      "date_updated": "2014-07",
+      "remarks": ""
+    },
+    {
+      "id": 5,
+      "parent_index": 250,
+      "oblast_uk": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "oblast_slug": "khersonska",
+      "oblast_iso_3166_2": "UA-65",
+      "unlocode_subdivision_name": "Khersonska oblast",
+      "locode": "UAZOL",
+      "country": "UA",
+      "location": "ZOL",
+      "name": "Zolotaya Balka",
+      "name_wo_diacritics": "Zolotaya Balka",
+      "subdivision_code": "65",
+      "subdivision_name": "Khersonska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4722N 03357E",
+      "latitude": 47.3667,
+      "longitude": 33.95,
+      "date_updated": "2002-12",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Коди UN/LOCODE — Херсонська область - Безкоштовне завантаження",
+    "description": "Коди UN/LOCODE у межах адміністративної одиниці «Херсонська область» (Kherson Oblast, UA-65), 5 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (4), Maritime transport (sea port) (2), Rail transport (2), Air transport (airport) (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 65); all fields carried verbatim from the parent, nothing translated or recomputed. Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Коди UN/LOCODE — Херсонська область | ListBase",
+    "seo_description": "Завантажити Коди UN/LOCODE — Херсонська область — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 25 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "uk-odynytsi-vymiru-power",
+  "name": "Одиниці вимірювання — категорія 'power' (6)",
+  "title": "Одиниці вимірювання — категорія 'power' (6)",
+  "description": "Одиниці вимірювання категорії 'power' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "katehoriia": "power",
+      "nazva": "гігавати",
+      "skorochennia": "ГВт",
+      "vuzka_forma": "ГВт",
+      "vzirets": "{0} гігавата"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "katehoriia": "power",
+      "nazva": "кінські сили",
+      "skorochennia": "к. с.",
+      "vuzka_forma": "к. с.",
+      "vzirets": "{0} кінської сили"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "katehoriia": "power",
+      "nazva": "кіловати",
+      "skorochennia": "кВт",
+      "vuzka_forma": "кВт",
+      "vzirets": "{0} кіловата"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "katehoriia": "power",
+      "nazva": "мегавати",
+      "skorochennia": "МВт",
+      "vuzka_forma": "МВт",
+      "vzirets": "{0} мегавата"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "katehoriia": "power",
+      "nazva": "мілівати",
+      "skorochennia": "мВт",
+      "vuzka_forma": "мВт",
+      "vzirets": "{0} мілівата"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "katehoriia": "power",
+      "nazva": "вати",
+      "skorochennia": "Вт",
+      "vuzka_forma": "Вт",
+      "vzirets": "{0} вата"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'power' (6) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'power' з локалі uk у CLDR, з назвами українською. Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'power' (6) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'power' (6) — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

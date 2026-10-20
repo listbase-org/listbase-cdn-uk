@@ -1,0 +1,654 @@
+{
+  "id": "uk-chernivetska-hromady",
+  "name": "Територіальні громади Чернівецької області",
+  "title": "Територіальні громади Чернівецької області",
+  "description": "Список 53 територіальних громад Чернівецької області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA73020010000044067",
+      "name": "Банилівська сільська громада",
+      "name_en": "Banylivska silska hromada",
+      "slug": "banylivska-silska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020030000022011",
+      "name": "Берегометська селищна громада",
+      "name_en": "Berehometska selyshchna hromada",
+      "slug": "berehometska-selyshchna-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020050000061546",
+      "name": "Брусницька сільська громада",
+      "name_en": "Brusnytska silska hromada",
+      "slug": "brusnytska-silska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020070000035367",
+      "name": "Вашківецька міська громада",
+      "name_en": "Vashkivetska miska hromada",
+      "slug": "vashkivetska-miska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020090000031499",
+      "name": "Вижницька міська громада",
+      "name_en": "Vyzhnytska miska hromada",
+      "slug": "vyzhnytska-miska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020110000071923",
+      "name": "Конятинська сільська громада",
+      "name_en": "Koniatynska silska hromada",
+      "slug": "koniatynska-silska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020130000092871",
+      "name": "Путильська селищна громада",
+      "name_en": "Putylska selyshchna hromada",
+      "slug": "putylska-selyshchna-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020150000076225",
+      "name": "Селятинська сільська громада",
+      "name_en": "Seliatynska silska hromada",
+      "slug": "seliatynska-silska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020170000016631",
+      "name": "Усть-Путильська сільська громада",
+      "name_en": "Ust-Putylska silska hromada",
+      "slug": "ust-putylska-silska-hromada",
+      "rayon_code": "UA73020000000038148",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040010000039325",
+      "name": "Вашковецька сільська громада",
+      "name_en": "Vashkovetska silska hromada",
+      "slug": "vashkovetska-silska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040030000042378",
+      "name": "Кельменецька селищна громада",
+      "name_en": "Kelmenetska selyshchna hromada",
+      "slug": "kelmenetska-selyshchna-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040050000080963",
+      "name": "Клішковецька сільська громада",
+      "name_en": "Klishkovetska silska hromada",
+      "slug": "klishkovetska-silska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040070000053425",
+      "name": "Лівинецька сільська громада",
+      "name_en": "Livynetska silska hromada",
+      "slug": "livynetska-silska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040090000036527",
+      "name": "Мамалигівська сільська громада",
+      "name_en": "Mamalyhivska silska hromada",
+      "slug": "mamalyhivska-silska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040110000040354",
+      "name": "Недобоївська сільська громада",
+      "name_en": "Nedoboivska silska hromada",
+      "slug": "nedoboivska-silska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040130000087963",
+      "name": "Новодністровська міська громада",
+      "name_en": "Novodnistrovska miska hromada",
+      "slug": "novodnistrovska-miska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040150000056182",
+      "name": "Рукшинська сільська громада",
+      "name_en": "Rukshynska silska hromada",
+      "slug": "rukshynska-silska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040170000011490",
+      "name": "Сокирянська міська громада",
+      "name_en": "Sokyrianska miska hromada",
+      "slug": "sokyrianska-miska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040190000062796",
+      "name": "Хотинська міська громада",
+      "name_en": "Khotynska miska hromada",
+      "slug": "khotynska-miska-hromada",
+      "rayon_code": "UA73040000000031528",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060010000052133",
+      "name": "Боянська сільська громада",
+      "name_en": "Boianska silska hromada",
+      "slug": "boianska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060030000078843",
+      "name": "Ванчиковецька сільська громада",
+      "name_en": "Vanchykovetska silska hromada",
+      "slug": "vanchykovetska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060050000034325",
+      "name": "Великокучурівська сільська громада",
+      "name_en": "Velykokuchurivska silska hromada",
+      "slug": "velykokuchurivska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060070000082869",
+      "name": "Веренчанська сільська громада",
+      "name_en": "Verenchanska silska hromada",
+      "slug": "verenchanska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060090000047054",
+      "name": "Вікнянська сільська громада",
+      "name_en": "Viknianska silska hromada",
+      "slug": "viknianska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060110000070017",
+      "name": "Волоківська сільська громада",
+      "name_en": "Volokivska silska hromada",
+      "slug": "volokivska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060130000078771",
+      "name": "Герцаївська міська громада",
+      "name_en": "Hertsaivska miska hromada",
+      "slug": "hertsaivska-miska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060150000088691",
+      "name": "Глибоцька селищна громада",
+      "name_en": "Hlybotska selyshchna hromada",
+      "slug": "hlybotska-selyshchna-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060170000031531",
+      "name": "Горішньошеровецька сільська громада",
+      "name_en": "Horishnosherovetska silska hromada",
+      "slug": "horishnosherovetska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060190000043347",
+      "name": "Заставнівська міська громада",
+      "name_en": "Zastavnivska miska hromada",
+      "slug": "zastavnivska-miska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060210000010691",
+      "name": "Кадубовецька сільська громада",
+      "name_en": "Kadubovetska silska hromada",
+      "slug": "kadubovetska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060230000024500",
+      "name": "Кам'янецька сільська громада",
+      "name_en": "Kamyanetska silska hromada",
+      "slug": "kamyanetska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060250000049790",
+      "name": "Кам'янська сільська громада",
+      "name_en": "Kamyanska silska hromada",
+      "slug": "kamyanska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060270000016588",
+      "name": "Карапчівська сільська громада",
+      "name_en": "Karapchivska silska hromada",
+      "slug": "karapchivska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060290000034305",
+      "name": "Кіцманська міська громада",
+      "name_en": "Kitsmanska miska hromada",
+      "slug": "kitsmanska-miska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060310000074904",
+      "name": "Кострижівська селищна громада",
+      "name_en": "Kostryzhivska selyshchna hromada",
+      "slug": "kostryzhivska-selyshchna-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060330000039245",
+      "name": "Красноїльська селищна громада",
+      "name_en": "Krasnoilska selyshchna hromada",
+      "slug": "krasnoilska-selyshchna-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060350000057190",
+      "name": "Магальська сільська громада",
+      "name_en": "Mahalska silska hromada",
+      "slug": "mahalska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060370000059595",
+      "name": "Мамаївська сільська громада",
+      "name_en": "Mamaivska silska hromada",
+      "slug": "mamaivska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060390000017602",
+      "name": "Неполоковецька селищна громада",
+      "name_en": "Nepolokovetska selyshchna hromada",
+      "slug": "nepolokovetska-selyshchna-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060410000077092",
+      "name": "Новоселицька міська громада",
+      "name_en": "Novoselytska miska hromada",
+      "slug": "novoselytska-miska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060430000042676",
+      "name": "Острицька сільська громада",
+      "name_en": "Ostrytska silska hromada",
+      "slug": "ostrytska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060450000099566",
+      "name": "Петровецька сільська громада",
+      "name_en": "Petrovetska silska hromada",
+      "slug": "petrovetska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060470000040033",
+      "name": "Ставчанська сільська громада",
+      "name_en": "Stavchanska silska hromada",
+      "slug": "stavchanska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060490000033679",
+      "name": "Сторожинецька міська громада",
+      "name_en": "Storozhynetska miska hromada",
+      "slug": "storozhynetska-miska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060510000025800",
+      "name": "Сучевенська сільська громада",
+      "name_en": "Suchevenska silska hromada",
+      "slug": "suchevenska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060530000099979",
+      "name": "Тарашанська сільська рада",
+      "name_en": "Tarashanska silska rada",
+      "slug": "tarashanska-silska-rada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060530000099979",
+      "name": "Тарашанська сільська громада",
+      "name_en": "Tarashanska silska hromada",
+      "slug": "tarashanska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060550000052402",
+      "name": "Тереблеченська сільська громада",
+      "name_en": "Tereblechenska silska hromada",
+      "slug": "tereblechenska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060570000058573",
+      "name": "Топорівська сільська громада",
+      "name_en": "Toporivska silska hromada",
+      "slug": "toporivska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060590000095243",
+      "name": "Чагорська сільська громада",
+      "name_en": "Chahorska silska hromada",
+      "slug": "chahorska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060610000066784",
+      "name": "Чернівецька міська громада",
+      "name_en": "Chernivetska miska hromada",
+      "slug": "chernivetska-miska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060630000091311",
+      "name": "Чудейська сільська громада",
+      "name_en": "Chudeiska silska hromada",
+      "slug": "chudeiska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060650000012771",
+      "name": "Юрковецька сільська громада",
+      "name_en": "Yurkovetska silska hromada",
+      "slug": "yurkovetska-silska-hromada",
+      "rayon_code": "UA73060000000061247",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Чернівецької області - Безкоштовне завантаження",
+    "description": "Список 53 територіальних громад Чернівецької області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 53 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Чернівецької області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Чернівецької області — 53 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 53 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

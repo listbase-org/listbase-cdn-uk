@@ -1,0 +1,225 @@
+{
+  "id": "uk-zooparky",
+  "name": "Зоопарки України",
+  "title": "Зоопарки України",
+  "description": "Перелік об'єктів типу «зоопарк» в Україні з відкритих даних Вікіданих (Wikidata), 14 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4164364",
+      "name_uk": "Докучаєвський зоопарк",
+      "name_en": "Dokuchaievsk Zoo",
+      "admin_area_uk": "Докучаєвськ",
+      "admin_area_en": "Dokuchaievsk",
+      "latitude": 47.766667,
+      "longitude": 37.683333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4164364"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q110966452",
+      "name_uk": "Екопарк «Долина Вовків»",
+      "name_en": "",
+      "admin_area_uk": "Синевирська Поляна",
+      "admin_area_en": "Synevyrska Poliana",
+      "latitude": 48.568889,
+      "longitude": 23.663056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110966452"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31891070",
+      "name_uk": "Зоопарк ХІІ Місяців",
+      "name_en": "Зоопарк ХІІ Місяців",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.737277,
+      "longitude": 30.297695,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31891070"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2459274",
+      "name_uk": "Київський зоопарк",
+      "name_en": "Kyiv Zoo",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.45553,
+      "longitude": 30.464734,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2459274"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12118980",
+      "name_uk": "Луцький зоопарк",
+      "name_en": "Lutsk Zoo",
+      "admin_area_uk": "Луцьк",
+      "admin_area_en": "Lutsk",
+      "latitude": 50.741111,
+      "longitude": 25.339169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12118980"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q25432073",
+      "name_uk": "Меденицький зоопарк",
+      "name_en": "Medenychi Zoo Limpopo",
+      "admin_area_uk": "Дрогобицький район",
+      "admin_area_en": "Drohobych Raion",
+      "latitude": 49.433889,
+      "longitude": 23.758056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25432073"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12122625",
+      "name_uk": "Менський зоопарк",
+      "name_en": "Mena Zoo",
+      "admin_area_uk": "Чернігівська область",
+      "admin_area_en": "Chernihiv Oblast",
+      "latitude": 51.522329,
+      "longitude": 32.20361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12122625"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4320477",
+      "name_uk": "Миколаївський зоопарк",
+      "name_en": "Nikolaev Zoo",
+      "admin_area_uk": "Миколаїв",
+      "admin_area_en": "Mykolaiv",
+      "latitude": 46.961111,
+      "longitude": 32.036111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4320477"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1974519",
+      "name_uk": "Одеський зоопарк",
+      "name_en": "Odesa Zoo",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.4675,
+      "longitude": 30.731667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1974519"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q4111612",
+      "name_uk": "Подільський зоопарк",
+      "name_en": "Podilskyi Zoo",
+      "admin_area_uk": "Вінниця",
+      "admin_area_en": "Vinnytsia",
+      "latitude": 49.271389,
+      "longitude": 28.476667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4111612"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q12149655",
+      "name_uk": "Рівненський зоопарк",
+      "name_en": "Rivne Zoo",
+      "admin_area_uk": "Рівненська область",
+      "admin_area_en": "Rivne Oblast",
+      "latitude": 50.609444,
+      "longitude": 26.332778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12149655"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q15120993",
+      "name_uk": "Севастопольський зоопарк",
+      "name_en": "Sevastopol Zoo",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 44.594369,
+      "longitude": 33.54485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15120993"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q4496313",
+      "name_uk": "Харківський зоопарк",
+      "name_en": "Kharkiv Zoo",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 50.002778,
+      "longitude": 36.225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4496313"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q4537469",
+      "name_uk": "Ялтинський зоопарк",
+      "name_en": "Yalta Zoo",
+      "admin_area_uk": "Ялта",
+      "admin_area_en": "Yalta",
+      "latitude": 44.494444,
+      "longitude": 34.118333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4537469"
+    }
+  ],
+  "meta": {
+    "title": "Зоопарки України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «зоопарк» в Україні з відкритих даних Вікіданих (Wikidata), 14 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані. Містить 14 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Зоопарки України | ListBase",
+    "seo_description": "Завантажити Зоопарки України — 14 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 14 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

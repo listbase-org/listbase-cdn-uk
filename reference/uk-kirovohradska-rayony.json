@@ -1,0 +1,106 @@
+{
+  "id": "uk-kirovohradska-rayony",
+  "name": "Райони Кіровоградської області",
+  "title": "Райони Кіровоградської області",
+  "description": "Список усіх 4 районів Кіровоградської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA35020000000074289",
+      "name": "Голованівський район",
+      "name_en": "Holovanivskyi raion",
+      "slug": "holovanivskyi-raion",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska",
+      "parent_code": "UA35000000000016081"
+    },
+    {
+      "code": "UA35040000000034705",
+      "name": "Кропивницький район",
+      "name_en": "Kropyvnytskyi raion",
+      "slug": "kropyvnytskyi-raion",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska",
+      "parent_code": "UA35000000000016081"
+    },
+    {
+      "code": "UA35060000000086172",
+      "name": "Новоукраїнський район",
+      "name_en": "Novoukrainskyi raion",
+      "slug": "novoukrainskyi-raion",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska",
+      "parent_code": "UA35000000000016081"
+    },
+    {
+      "code": "UA35080000000062763",
+      "name": "Олександрійський район",
+      "name_en": "Oleksandriiskyi raion",
+      "slug": "oleksandriiskyi-raion",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska",
+      "parent_code": "UA35000000000016081"
+    }
+  ],
+  "meta": {
+    "title": "Райони Кіровоградської області - Безкоштовне завантаження",
+    "description": "Список усіх 4 районів Кіровоградської області згідно з КАТОТТГ (реформа 2020 року). Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Кіровоградської області | ListBase",
+    "seo_description": "Завантажити Райони Кіровоградської області — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

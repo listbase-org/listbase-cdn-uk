@@ -1,0 +1,146 @@
+{
+  "id": "uk-lvivska-rayony",
+  "name": "Райони Львівської області",
+  "title": "Райони Львівської області",
+  "description": "Список усіх 8 районів Львівської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA46020000000075920",
+      "name": "Дрогобицький район",
+      "name_en": "Drohobytskyi raion",
+      "slug": "drohobytskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46040000000069196",
+      "name": "Золочівський район",
+      "name_en": "Zolochivskyi raion",
+      "slug": "zolochivskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46040000000069196",
+      "name": "Золочівський район",
+      "name_en": "Zolochivskyi raion",
+      "slug": "zolochivskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46060000000042587",
+      "name": "Львівський район",
+      "name_en": "Lvivskyi raion",
+      "slug": "lvivskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46080000000017237",
+      "name": "Самбірський район",
+      "name_en": "Sambirskyi raion",
+      "slug": "sambirskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46100000000023056",
+      "name": "Стрийський район",
+      "name_en": "Stryiskyi raion",
+      "slug": "stryiskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46120000000057093",
+      "name": "Шептицький район",
+      "name_en": "Sheptytskyi raion",
+      "slug": "sheptytskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    },
+    {
+      "code": "UA46140000000036328",
+      "name": "Яворівський район",
+      "name_en": "Yavorivskyi raion",
+      "slug": "yavorivskyi-raion",
+      "oblast_id": 13,
+      "oblast_name": "Львівська область",
+      "oblast_slug": "lvivska",
+      "parent_code": "UA46000000000026241"
+    }
+  ],
+  "meta": {
+    "title": "Райони Львівської області - Безкоштовне завантаження",
+    "description": "Список усіх 8 районів Львівської області згідно з КАТОТТГ (реформа 2020 року). Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Львівської області | ListBase",
+    "seo_description": "Завантажити Райони Львівської області — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

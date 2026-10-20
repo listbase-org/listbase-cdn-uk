@@ -1,0 +1,144 @@
+{
+  "id": "uk-chasovi-poyasy-australia",
+  "name": "Часові пояси — Australia (11)",
+  "title": "Часові пояси — Australia (11)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Australia/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Australia/Adelaide",
+      "rehion": "Australia",
+      "misto": "Аделаїда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Australia/Brisbane",
+      "rehion": "Australia",
+      "misto": "Брісбен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Australia/Broken_Hill",
+      "rehion": "Australia",
+      "misto": "Брокен-Хілл",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Australia/Darwin",
+      "rehion": "Australia",
+      "misto": "Дарвін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Australia/Eucla",
+      "rehion": "Australia",
+      "misto": "Евкла",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Australia/Hobart",
+      "rehion": "Australia",
+      "misto": "Гобарт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Australia/Lindeman",
+      "rehion": "Australia",
+      "misto": "Ліндеман",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Australia/Lord_Howe",
+      "rehion": "Australia",
+      "misto": "Лорд-Хау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Australia/Melbourne",
+      "rehion": "Australia",
+      "misto": "Мельбурн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Australia/Perth",
+      "rehion": "Australia",
+      "misto": "Перт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Australia/Sydney",
+      "rehion": "Australia",
+      "misto": "Сідней",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Australia (11) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Australia/', з назвами українською. Містить 11 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Australia (11) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Australia (11) — 11 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 11 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

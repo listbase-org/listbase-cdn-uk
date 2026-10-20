@@ -1,0 +1,712 @@
+{
+  "id": "uk-chasovi-poyasy-asia",
+  "name": "Часові пояси — Asia (82)",
+  "title": "Часові пояси — Asia (82)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Asia/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aden",
+      "rehion": "Asia",
+      "misto": "Аден",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Almaty",
+      "rehion": "Asia",
+      "misto": "Алмати",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Amman",
+      "rehion": "Asia",
+      "misto": "Амман",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Anadyr",
+      "rehion": "Asia",
+      "misto": "Анадир",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Aqtau",
+      "rehion": "Asia",
+      "misto": "Актау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Aqtobe",
+      "rehion": "Asia",
+      "misto": "Актобе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Ashgabat",
+      "rehion": "Asia",
+      "misto": "Ашгабат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Atyrau",
+      "rehion": "Asia",
+      "misto": "Атирау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Baghdad",
+      "rehion": "Asia",
+      "misto": "Багдад",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Bahrain",
+      "rehion": "Asia",
+      "misto": "Бахрейн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Baku",
+      "rehion": "Asia",
+      "misto": "Баку",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Bangkok",
+      "rehion": "Asia",
+      "misto": "Бангкок",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Barnaul",
+      "rehion": "Asia",
+      "misto": "Барнаул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Beirut",
+      "rehion": "Asia",
+      "misto": "Бейрут",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Bishkek",
+      "rehion": "Asia",
+      "misto": "Бішкек",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Brunei",
+      "rehion": "Asia",
+      "misto": "Бруней",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Calcutta",
+      "rehion": "Asia",
+      "misto": "Колката",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Chita",
+      "rehion": "Asia",
+      "misto": "Чита",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Colombo",
+      "rehion": "Asia",
+      "misto": "Коломбо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Damascus",
+      "rehion": "Asia",
+      "misto": "Дамаск",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Dhaka",
+      "rehion": "Asia",
+      "misto": "Дакка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Dili",
+      "rehion": "Asia",
+      "misto": "Ділі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Dubai",
+      "rehion": "Asia",
+      "misto": "Дубай",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Dushanbe",
+      "rehion": "Asia",
+      "misto": "Душанбе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Famagusta",
+      "rehion": "Asia",
+      "misto": "Фамагуста",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Gaza",
+      "rehion": "Asia",
+      "misto": "Газа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Hebron",
+      "rehion": "Asia",
+      "misto": "Хеврон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Hong_Kong",
+      "rehion": "Asia",
+      "misto": "Гонконг",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Hovd",
+      "rehion": "Asia",
+      "misto": "Ховд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Irkutsk",
+      "rehion": "Asia",
+      "misto": "Іркутськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Jakarta",
+      "rehion": "Asia",
+      "misto": "Джакарта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Jayapura",
+      "rehion": "Asia",
+      "misto": "Джайпур",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Jerusalem",
+      "rehion": "Asia",
+      "misto": "Єрусалим",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Kabul",
+      "rehion": "Asia",
+      "misto": "Кабул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Kamchatka",
+      "rehion": "Asia",
+      "misto": "Камчатка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Karachi",
+      "rehion": "Asia",
+      "misto": "Карачі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Katmandu",
+      "rehion": "Asia",
+      "misto": "Катманду",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Khandyga",
+      "rehion": "Asia",
+      "misto": "Хандига",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Krasnoyarsk",
+      "rehion": "Asia",
+      "misto": "Красноярськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Kuala_Lumpur",
+      "rehion": "Asia",
+      "misto": "Куала-Лумпур",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Kuching",
+      "rehion": "Asia",
+      "misto": "Кучинг",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Kuwait",
+      "rehion": "Asia",
+      "misto": "Кувейт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Macau",
+      "rehion": "Asia",
+      "misto": "Макао",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Magadan",
+      "rehion": "Asia",
+      "misto": "Магадан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Makassar",
+      "rehion": "Asia",
+      "misto": "Макассар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Asia/Manila",
+      "rehion": "Asia",
+      "misto": "Маніла",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Asia/Muscat",
+      "rehion": "Asia",
+      "misto": "Маскат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Asia/Nicosia",
+      "rehion": "Asia",
+      "misto": "Нікосія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Asia/Novokuznetsk",
+      "rehion": "Asia",
+      "misto": "Новокузнецьк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Asia/Novosibirsk",
+      "rehion": "Asia",
+      "misto": "Новосибірськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Asia/Omsk",
+      "rehion": "Asia",
+      "misto": "Омськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Asia/Oral",
+      "rehion": "Asia",
+      "misto": "Орал",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Asia/Phnom_Penh",
+      "rehion": "Asia",
+      "misto": "Пномпень",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Asia/Pontianak",
+      "rehion": "Asia",
+      "misto": "Понтіанак",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Asia/Pyongyang",
+      "rehion": "Asia",
+      "misto": "Пхеньян",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Asia/Qatar",
+      "rehion": "Asia",
+      "misto": "Катар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Asia/Qostanay",
+      "rehion": "Asia",
+      "misto": "Костанай",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Asia/Qyzylorda",
+      "rehion": "Asia",
+      "misto": "Кизилорда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "Asia/Rangoon",
+      "rehion": "Asia",
+      "misto": "Янгон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "Asia/Riyadh",
+      "rehion": "Asia",
+      "misto": "Ер-Ріяд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Asia/Saigon",
+      "rehion": "Asia",
+      "misto": "Хошимін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Asia/Sakhalin",
+      "rehion": "Asia",
+      "misto": "Сахалін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Samarkand",
+      "rehion": "Asia",
+      "misto": "Самарканд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Seoul",
+      "rehion": "Asia",
+      "misto": "Сеул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Shanghai",
+      "rehion": "Asia",
+      "misto": "Шанхай",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Singapore",
+      "rehion": "Asia",
+      "misto": "Сінгапур",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Srednekolymsk",
+      "rehion": "Asia",
+      "misto": "Середньоколимськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Taipei",
+      "rehion": "Asia",
+      "misto": "Тайбей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Tashkent",
+      "rehion": "Asia",
+      "misto": "Ташкент",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Tbilisi",
+      "rehion": "Asia",
+      "misto": "Тбілісі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Tehran",
+      "rehion": "Asia",
+      "misto": "Тегеран",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Thimphu",
+      "rehion": "Asia",
+      "misto": "Тхімпху",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Tokyo",
+      "rehion": "Asia",
+      "misto": "Токіо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Tomsk",
+      "rehion": "Asia",
+      "misto": "Томськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Ulaanbaatar",
+      "rehion": "Asia",
+      "misto": "Улан-Батор",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Urumqi",
+      "rehion": "Asia",
+      "misto": "Урумчі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Ust-Nera",
+      "rehion": "Asia",
+      "misto": "Усть-Нера",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Vientiane",
+      "rehion": "Asia",
+      "misto": "Вʼєнтьян",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Vladivostok",
+      "rehion": "Asia",
+      "misto": "Владивосток",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Yakutsk",
+      "rehion": "Asia",
+      "misto": "Якутськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Yekaterinburg",
+      "rehion": "Asia",
+      "misto": "Єкатеринбург",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Yerevan",
+      "rehion": "Asia",
+      "misto": "Єреван",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Asia (82) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Asia/', з назвами українською. Містить 82 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Asia (82) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Asia (82) — 82 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 82 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

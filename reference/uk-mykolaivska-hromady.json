@@ -1,0 +1,610 @@
+{
+  "id": "uk-mykolaivska-hromady",
+  "name": "Територіальні громади Миколаївської області",
+  "title": "Територіальні громади Миколаївської області",
+  "description": "Список 49 територіальних громад Миколаївської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA48020010000091496",
+      "name": "Баштанська міська громада",
+      "name_en": "Bashtanska miska hromada",
+      "slug": "bashtanska-miska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020030000061219",
+      "name": "Березнегуватська селищна громада",
+      "name_en": "Bereznehuvatska selyshchna hromada",
+      "slug": "bereznehuvatska-selyshchna-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020050000023194",
+      "name": "Вільнозапорізька сільська громада",
+      "name_en": "Vilnozaporizka silska hromada",
+      "slug": "vilnozaporizka-silska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020070000050731",
+      "name": "Володимирівська сільська громада",
+      "name_en": "Volodymyrivska silska hromada",
+      "slug": "volodymyrivska-silska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020090000069919",
+      "name": "Горохівська сільська громада",
+      "name_en": "Horokhivska silska hromada",
+      "slug": "horokhivska-silska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020110000020969",
+      "name": "Інгульська сільська громада",
+      "name_en": "Inhulska silska hromada",
+      "slug": "inhulska-silska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020130000080862",
+      "name": "Казанківська селищна громада",
+      "name_en": "Kazankivska selyshchna hromada",
+      "slug": "kazankivska-selyshchna-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020150000051082",
+      "name": "Новобузька міська громада",
+      "name_en": "Novobuzka miska hromada",
+      "slug": "novobuzka-miska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020170000082529",
+      "name": "Привільненська сільська громада",
+      "name_en": "Pryvilnenska silska hromada",
+      "slug": "pryvilnenska-silska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020190000083597",
+      "name": "Снігурівська міська громада",
+      "name_en": "Snihurivska miska hromada",
+      "slug": "snihurivska-miska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020210000024814",
+      "name": "Софіївська сільська громада",
+      "name_en": "Sofiivska silska hromada",
+      "slug": "sofiivska-silska-hromada",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020230000095751",
+      "name": "Широківська селищна громада (Миколаївська область)",
+      "name_en": "Shyrokivska selyshchna hromada (Mykolaivska oblast)",
+      "slug": "shyrokivska-selyshchna-hromada-mykolaivska-oblast",
+      "rayon_code": "UA48020000000033544",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040010000016403",
+      "name": "Братська селищна громада",
+      "name_en": "Bratska selyshchna hromada",
+      "slug": "bratska-selyshchna-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040030000013036",
+      "name": "Бузька сільська громада",
+      "name_en": "Buzka silska hromada",
+      "slug": "buzka-silska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040050000011284",
+      "name": "Веселинівська селищна громада",
+      "name_en": "Veselynivska selyshchna hromada",
+      "slug": "veselynivska-selyshchna-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040090000070960",
+      "name": "Доманівська селищна громада",
+      "name_en": "Domanivska selyshchna hromada",
+      "slug": "domanivska-selyshchna-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040110000015580",
+      "name": "Дорошівська сільська громада",
+      "name_en": "Doroshivska silska hromada",
+      "slug": "doroshivska-silska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040130000074078",
+      "name": "Єланецька селищна громада",
+      "name_en": "Yelanetska selyshchna hromada",
+      "slug": "yelanetska-selyshchna-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040150000011861",
+      "name": "Мостівська сільська громада",
+      "name_en": "Mostivska silska hromada",
+      "slug": "mostivska-silska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040170000057262",
+      "name": "Новомар'ївська сільська громада",
+      "name_en": "Novomaryivska silska hromada",
+      "slug": "novomaryivska-silska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040210000049987",
+      "name": "Прибужанівська сільська громада",
+      "name_en": "Prybuzhanivska silska hromada",
+      "slug": "prybuzhanivska-silska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040230000012964",
+      "name": "Прибузька сільська рада",
+      "name_en": "Prybuzka silska rada",
+      "slug": "prybuzka-silska-rada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040230000012964",
+      "name": "Прибузька сільська громада",
+      "name_en": "Prybuzka silska hromada",
+      "slug": "prybuzka-silska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040250000044166",
+      "name": "Південноукраїнська міська громада",
+      "name_en": "Pivdennoukrainska miska hromada",
+      "slug": "pivdennoukrainska-miska-hromada",
+      "rayon_code": "UA48040000000011780",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060010000061913",
+      "name": "Березанська селищна громада",
+      "name_en": "Berezanska selyshchna hromada",
+      "slug": "berezanska-selyshchna-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060030000055210",
+      "name": "Веснянська сільська громада",
+      "name_en": "Vesnianska silska hromada",
+      "slug": "vesnianska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060070000087404",
+      "name": "Галицинівська сільська громада",
+      "name_en": "Halytsynivska silska hromada",
+      "slug": "halytsynivska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060090000097375",
+      "name": "Коблівська сільська громада",
+      "name_en": "Koblivska silska hromada",
+      "slug": "koblivska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060130000035572",
+      "name": "Куцурубська сільська громада",
+      "name_en": "Kutsurubska silska hromada",
+      "slug": "kutsurubska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060170000025778",
+      "name": "Мішково-Погорілівська сільська громада",
+      "name_en": "Mishkovo-Pohorilivska silska hromada",
+      "slug": "mishkovo-pohorilivska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060190000070297",
+      "name": "Нечаянська сільська громада",
+      "name_en": "Nechaianska silska hromada",
+      "slug": "nechaianska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060210000081533",
+      "name": "Новоодеська міська громада",
+      "name_en": "Novoodeska miska hromada",
+      "slug": "novoodeska-miska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060230000098265",
+      "name": "Ольшанська селищна громада",
+      "name_en": "Olshanska selyshchna hromada",
+      "slug": "olshanska-selyshchna-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060250000061313",
+      "name": "Очаківська міська громада",
+      "name_en": "Ochakivska miska hromada",
+      "slug": "ochakivska-miska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060270000044708",
+      "name": "Первомайська селищна громада",
+      "name_en": "Pervomaiska selyshchna hromada",
+      "slug": "pervomaiska-selyshchna-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060290000080246",
+      "name": "Радсадівська сільська громада",
+      "name_en": "Radsadivska silska hromada",
+      "slug": "radsadivska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060310000084930",
+      "name": "Степівська сільська громада",
+      "name_en": "Stepivska silska hromada",
+      "slug": "stepivska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060330000083035",
+      "name": "Сухоєланецька сільська громада",
+      "name_en": "Sukhoielanetska silska hromada",
+      "slug": "sukhoielanetska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060350000011218",
+      "name": "Чорноморська сільська громада",
+      "name_en": "Chornomorska silska hromada",
+      "slug": "chornomorska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060370000016130",
+      "name": "Шевченківська сільська громада",
+      "name_en": "Shevchenkivska silska hromada",
+      "slug": "shevchenkivska-silska-hromada",
+      "rayon_code": "UA48060000000094390",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080010000048763",
+      "name": "Арбузинська селищна громада",
+      "name_en": "Arbuzynska selyshchna hromada",
+      "slug": "arbuzynska-selyshchna-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080030000050927",
+      "name": "Благодатненська сільська рада",
+      "name_en": "Blahodatnenska silska rada",
+      "slug": "blahodatnenska-silska-rada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080030000050927",
+      "name": "Благодатненська сільська громада",
+      "name_en": "Blahodatnenska silska hromada",
+      "slug": "blahodatnenska-silska-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080050000053070",
+      "name": "Врадіївська селищна громада",
+      "name_en": "Vradiivska selyshchna hromada",
+      "slug": "vradiivska-selyshchna-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080070000061107",
+      "name": "Кам'яномостівська сільська громада",
+      "name_en": "Kamyanomostivska silska hromada",
+      "slug": "kamyanomostivska-silska-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080090000029942",
+      "name": "Кривоозерська селищна громада",
+      "name_en": "Kryvoozerska selyshchna hromada",
+      "slug": "kryvoozerska-selyshchna-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080110000010732",
+      "name": "Мигіївська сільська громада",
+      "name_en": "Myhiivska silska hromada",
+      "slug": "myhiivska-silska-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080130000028458",
+      "name": "Первомайська міська громада",
+      "name_en": "Pervomaiska miska hromada",
+      "slug": "pervomaiska-miska-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080150000083195",
+      "name": "Синюхинобрідська сільська громада",
+      "name_en": "Syniukhynobridska silska hromada",
+      "slug": "syniukhynobridska-silska-hromada",
+      "rayon_code": "UA48080000000082320",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Миколаївської області - Безкоштовне завантаження",
+    "description": "Список 49 територіальних громад Миколаївської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 49 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Миколаївської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Миколаївської області — 49 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 49 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

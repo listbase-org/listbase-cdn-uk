@@ -1,0 +1,106 @@
+{
+  "id": "uk-krym-rayony",
+  "name": "Райони Автономної Республіки Крим",
+  "title": "Райони Автономної Республіки Крим",
+  "description": "Список усіх 4 районів Автономної Республіки Крим згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA01020000000022387",
+      "name": "Бахчисарайський район",
+      "name_en": "Bakhchysaraiskyi raion",
+      "slug": "bakhchysaraiskyi-raion",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym",
+      "parent_code": "UA01000000000013043"
+    },
+    {
+      "code": "UA01040000000069938",
+      "name": "Білогірський район (1921—2023)",
+      "name_en": "Bilohirskyi raion (1921—2023)",
+      "slug": "bilohirskyi-raion-1921-2023",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym",
+      "parent_code": "UA01000000000013043"
+    },
+    {
+      "code": "UA01060000000028159",
+      "name": "Джанкойський район (1921—2023)",
+      "name_en": "Dzhankoiskyi raion (1921—2023)",
+      "slug": "dzhankoiskyi-raion-1921-2023",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym",
+      "parent_code": "UA01000000000013043"
+    },
+    {
+      "code": "UA01160000000090126",
+      "name": "Сімферопольський район",
+      "name_en": "Simferopolskyi raion",
+      "slug": "simferopolskyi-raion",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym",
+      "parent_code": "UA01000000000013043"
+    }
+  ],
+  "meta": {
+    "title": "Райони Автономної Республіки Крим - Безкоштовне завантаження",
+    "description": "Список усіх 4 районів Автономної Республіки Крим згідно з КАТОТТГ (реформа 2020 року). Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Автономної Республіки Крим | ListBase",
+    "seo_description": "Завантажити Райони Автономної Республіки Крим — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

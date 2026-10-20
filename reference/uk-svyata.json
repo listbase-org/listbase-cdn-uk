@@ -1,0 +1,430 @@
+{
+  "id": "uk-svyata",
+  "name": "Державні свята України (2020–2026)",
+  "title": "Державні свята України (2020–2026)",
+  "description": "Public holidays 2020-2026",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_uk": "Новий рік",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-06",
+      "year": 2020,
+      "name_uk": "Вихідний день (перенесено з 11.01.2020)",
+      "name_en": "Day off (substituted from 01/11/2020)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-01-07",
+      "year": 2020,
+      "name_uk": "Різдво Христове",
+      "name_en": "Christmas Day",
+      "month": 1,
+      "day": 7,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-03-08",
+      "year": 2020,
+      "name_uk": "Міжнародний жіночий день",
+      "name_en": "International Women's Day",
+      "month": 3,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-03-09",
+      "year": 2020,
+      "name_uk": "Міжнародний жіночий день (вихідний)",
+      "name_en": "International Women's Day (observed)",
+      "month": 3,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-04-19",
+      "year": 2020,
+      "name_uk": "Великдень (Пасха)",
+      "name_en": "Easter Sunday (Pascha)",
+      "month": 4,
+      "day": 19,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-04-20",
+      "year": 2020,
+      "name_uk": "Великдень (Пасха) (вихідний)",
+      "name_en": "Easter Sunday (Pascha) (observed)",
+      "month": 4,
+      "day": 20,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_uk": "День праці",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-09",
+      "year": 2020,
+      "name_uk": "День перемоги над нацизмом у Другій світовій війні (День перемоги)",
+      "name_en": "Day of Victory over Nazism in World War II (Victory Day)",
+      "month": 5,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-05-11",
+      "year": 2020,
+      "name_uk": "День перемоги над нацизмом у Другій світовій війні (День перемоги) (вихідний)",
+      "name_en": "Day of Victory over Nazism in World War II (Victory Day) (observed)",
+      "month": 5,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-06-07",
+      "year": 2020,
+      "name_uk": "Трійця",
+      "name_en": "Holy Trinity Day",
+      "month": 6,
+      "day": 7,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-06-08",
+      "year": 2020,
+      "name_uk": "Трійця (вихідний)",
+      "name_en": "Holy Trinity Day (observed)",
+      "month": 6,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-06-28",
+      "year": 2020,
+      "name_uk": "День Конституції України",
+      "name_en": "Day of the Constitution of Ukraine",
+      "month": 6,
+      "day": 28,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-06-29",
+      "year": 2020,
+      "name_uk": "День Конституції України (вихідний)",
+      "name_en": "Day of the Constitution of Ukraine (observed)",
+      "month": 6,
+      "day": 29,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-08-24",
+      "year": 2020,
+      "name_uk": "День незалежності України",
+      "name_en": "Independence Day",
+      "month": 8,
+      "day": 24,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-10-14",
+      "year": 2020,
+      "name_uk": "День захисника України",
+      "name_en": "Defender of Ukraine Day",
+      "month": 10,
+      "day": 14,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_uk": "Різдво Христове",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_uk": "Новий рік",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-07",
+      "year": 2021,
+      "name_uk": "Різдво Христове",
+      "name_en": "Christmas Day",
+      "month": 1,
+      "day": 7,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-01-08",
+      "year": 2021,
+      "name_uk": "Вихідний день (перенесено з 16.01.2021)",
+      "name_en": "Day off (substituted from 01/16/2021)",
+      "month": 1,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-03-08",
+      "year": 2021,
+      "name_uk": "Міжнародний жіночий день",
+      "name_en": "International Women's Day",
+      "month": 3,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_uk": "День праці",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-02",
+      "year": 2021,
+      "name_uk": "Великдень (Пасха)",
+      "name_en": "Easter Sunday (Pascha)",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-05-03",
+      "year": 2021,
+      "name_uk": "День праці (вихідний)",
+      "name_en": "Labor Day (observed)",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-04",
+      "year": 2021,
+      "name_uk": "Великдень (Пасха) (вихідний)",
+      "name_en": "Easter Sunday (Pascha) (observed)",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-05-09",
+      "year": 2021,
+      "name_uk": "День перемоги над нацизмом у Другій світовій війні (День перемоги)",
+      "name_en": "Day of Victory over Nazism in World War II (Victory Day)",
+      "month": 5,
+      "day": 9,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-05-10",
+      "year": 2021,
+      "name_uk": "День перемоги над нацизмом у Другій світовій війні (День перемоги) (вихідний)",
+      "name_en": "Day of Victory over Nazism in World War II (Victory Day) (observed)",
+      "month": 5,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-06-20",
+      "year": 2021,
+      "name_uk": "Трійця",
+      "name_en": "Holy Trinity Day",
+      "month": 6,
+      "day": 20,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-06-21",
+      "year": 2021,
+      "name_uk": "Трійця (вихідний)",
+      "name_en": "Holy Trinity Day (observed)",
+      "month": 6,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-06-28",
+      "year": 2021,
+      "name_uk": "День Конституції України",
+      "name_en": "Day of the Constitution of Ukraine",
+      "month": 6,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-08-23",
+      "year": 2021,
+      "name_uk": "Вихідний день (перенесено з 28.08.2021)",
+      "name_en": "Day off (substituted from 08/28/2021)",
+      "month": 8,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-08-24",
+      "year": 2021,
+      "name_uk": "День незалежності України",
+      "name_en": "Independence Day",
+      "month": 8,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-10-14",
+      "year": 2021,
+      "name_uk": "День захисників і захисниць України",
+      "name_en": "Day of defenders of Ukraine",
+      "month": 10,
+      "day": 14,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-10-15",
+      "year": 2021,
+      "name_uk": "Вихідний день (перенесено з 23.10.2021)",
+      "name_en": "Day off (substituted from 10/23/2021)",
+      "month": 10,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_uk": "Різдво Христове",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-27",
+      "year": 2021,
+      "name_uk": "Різдво Христове (вихідний)",
+      "name_en": "Christmas Day (observed)",
+      "month": 12,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_uk": "Новий рік",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-03",
+      "year": 2022,
+      "name_uk": "Новий рік (вихідний)",
+      "name_en": "New Year's Day (observed)",
+      "month": 1,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-01-07",
+      "year": 2022,
+      "name_uk": "Різдво Христове",
+      "name_en": "Christmas Day",
+      "month": 1,
+      "day": 7,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-03-07",
+      "year": 2022,
+      "name_uk": "Вихідний день (перенесено з 12.03.2022)",
+      "name_en": "Day off (substituted from 03/12/2022)",
+      "month": 3,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-03-08",
+      "year": 2022,
+      "name_uk": "Міжнародний жіночий день",
+      "name_en": "International Women's Day",
+      "month": 3,
+      "day": 8,
+      "day_of_week": "Tuesday"
+    }
+  ],
+  "meta": {
+    "title": "Державні свята України (2020–2026) - Безкоштовне завантаження",
+    "description": "Public holidays 2020-2026 Містить 41 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Державні свята України (2020–2026) | ListBase",
+    "seo_description": "Завантажити Державні свята України (2020–2026) — 41 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 41 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

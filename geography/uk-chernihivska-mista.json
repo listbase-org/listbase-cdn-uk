@@ -1,0 +1,331 @@
+{
+  "id": "uk-chernihivska-mista",
+  "name": "Міста Чернігівської області",
+  "title": "Міста Чернігівської області",
+  "description": "Список 16 міст Чернігівської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA74020010010096225",
+      "name": "Корюківка",
+      "name_en": "Koriukivka",
+      "slug": "koriukivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74020010000010449",
+      "hromada_name": "Корюківська міська громада",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74020030010065172",
+      "name": "Мена",
+      "name_en": "Mena",
+      "slug": "mena",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74020030000069340",
+      "hromada_name": "Менська міська громада",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74020050010092446",
+      "name": "Сновськ",
+      "name_en": "Snovsk",
+      "slug": "snovsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74020050000033944",
+      "hromada_name": "Сновська міська громада",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040010010021393",
+      "name": "Батурин",
+      "name_en": "Baturyn",
+      "slug": "baturyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74040010000076097",
+      "hromada_name": "Батуринська міська громада",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040030010089994",
+      "name": "Бахмач",
+      "name_en": "Bakhmach",
+      "slug": "bakhmach",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74040030000093042",
+      "hromada_name": "Бахмацька міська громада",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040050010084586",
+      "name": "Бобровиця",
+      "name_en": "Bobrovytsia",
+      "slug": "bobrovytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74040050000013413",
+      "hromada_name": "Бобровицька міська громада",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040070010013105",
+      "name": "Борзна",
+      "name_en": "Borzna",
+      "slug": "borzna",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74040070000086652",
+      "hromada_name": "Борзнянська міська громада",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040250010023991",
+      "name": "Ніжин",
+      "name_en": "Nizhyn",
+      "slug": "nizhyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74040250000063494",
+      "hromada_name": "Ніжинська міська громада",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040290010030247",
+      "name": "Носівка",
+      "name_en": "Nosivka",
+      "slug": "nosivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74040290000072674",
+      "hromada_name": "Носівська міська громада",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74060030010060039",
+      "name": "Новгород-Сіверський",
+      "name_en": "Novhorod-Siverskyi",
+      "slug": "novhorod-siverskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74060030000026607",
+      "hromada_name": "Новгород-Сіверська міська громада",
+      "rayon_name": "Новгород-Сіверський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74060070010010511",
+      "name": "Семенівка",
+      "name_en": "Semenivka",
+      "slug": "semenivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74060070000028810",
+      "hromada_name": "Семенівська міська громада",
+      "rayon_name": "Новгород-Сіверський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080030010061043",
+      "name": "Ічня",
+      "name_en": "Ichnia",
+      "slug": "ichnia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74080030000040714",
+      "hromada_name": "Ічнянська міська громада",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080130010045104",
+      "name": "Прилуки",
+      "name_en": "Pryluky",
+      "slug": "pryluky",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74080130000060606",
+      "hromada_name": "Прилуцька міська громада",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100050010035827",
+      "name": "Городня",
+      "name_en": "Horodnia",
+      "slug": "horodnia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74100050000019554",
+      "hromada_name": "Городнянська міська громада",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100310010010586",
+      "name": "Остер",
+      "name_en": "Oster",
+      "slug": "oster",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74100310000091595",
+      "hromada_name": "Остерська міська громада",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100390010054825",
+      "name": "Чернігів",
+      "name_en": "Chernihiv",
+      "slug": "chernihiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA74100390000073425",
+      "hromada_name": "Чернігівська міська громада",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Чернігівської області - Безкоштовне завантаження",
+    "description": "Список 16 міст Чернігівської області (категорія М у КАТОТТГ). Містить 16 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Чернігівської області | ListBase",
+    "seo_description": "Завантажити Міста Чернігівської області — 16 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 16 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

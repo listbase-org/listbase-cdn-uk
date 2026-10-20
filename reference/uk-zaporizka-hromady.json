@@ -1,0 +1,940 @@
+{
+  "id": "uk-zaporizka-hromady",
+  "name": "Територіальні громади Запорізької області",
+  "title": "Територіальні громади Запорізької області",
+  "description": "Список 79 територіальних громад Запорізької області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA23020010000034566",
+      "name": "Андрівська сільська громада",
+      "name_en": "Andrivska silska hromada",
+      "slug": "andrivska-silska-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020030000059558",
+      "name": "Андріївська селищна громада",
+      "name_en": "Andriivska selyshchna hromada",
+      "slug": "andriivska-selyshchna-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020050000046501",
+      "name": "Бердянська міська громада",
+      "name_en": "Berdianska miska hromada",
+      "slug": "berdianska-miska-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020070000049788",
+      "name": "Берестівська сільська громада",
+      "name_en": "Berestivska silska hromada",
+      "slug": "berestivska-silska-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020090000069977",
+      "name": "Коларівська сільська громада",
+      "name_en": "Kolarivska silska hromada",
+      "slug": "kolarivska-silska-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020110000062653",
+      "name": "Осипенківська сільська громада",
+      "name_en": "Osypenkivska silska hromada",
+      "slug": "osypenkivska-silska-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020130000081044",
+      "name": "Приморська міська громада",
+      "name_en": "Prymorska miska hromada",
+      "slug": "prymorska-miska-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020150000063371",
+      "name": "Чернігівська селищна громада",
+      "name_en": "Chernihivska selyshchna hromada",
+      "slug": "chernihivska-selyshchna-hromada",
+      "rayon_code": "UA23020000000032289",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040010000033945",
+      "name": "Благовіщенська сільська громада",
+      "name_en": "Blahovishchenska silska hromada",
+      "slug": "blahovishchenska-silska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040030000061166",
+      "name": "Василівська міська громада",
+      "name_en": "Vasylivska miska hromada",
+      "slug": "vasylivska-miska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040050000076136",
+      "name": "Великобілозерська сільська громада",
+      "name_en": "Velykobilozerska silska hromada",
+      "slug": "velykobilozerska-silska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040070000097076",
+      "name": "Водянська сільська рада (Кам'янсько-Дніпровський район)",
+      "name_en": "Vodianska silska rada (Kamyansko-Dniprovskyi raion)",
+      "slug": "vodianska-silska-rada-kamyansko-dniprovskyi-raion",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040070000097076",
+      "name": "Водянська сільська громада",
+      "name_en": "Vodianska silska hromada",
+      "slug": "vodianska-silska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040090000031823",
+      "name": "Дніпрорудненська міська громада",
+      "name_en": "Dniprorudnenska miska hromada",
+      "slug": "dniprorudnenska-miska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040110000019947",
+      "name": "Енергодарська міська громада",
+      "name_en": "Enerhodarska miska hromada",
+      "slug": "enerhodarska-miska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040130000044084",
+      "name": "Кам'янсько-Дніпровська міська громада",
+      "name_en": "Kamyansko-Dniprovska miska hromada",
+      "slug": "kamyansko-dniprovska-miska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040150000063069",
+      "name": "Малобілозерська сільська рада",
+      "name_en": "Malobilozerska silska rada",
+      "slug": "malobilozerska-silska-rada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040150000063069",
+      "name": "Малобілозерська сільська громада",
+      "name_en": "Malobilozerska silska hromada",
+      "slug": "malobilozerska-silska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040170000022547",
+      "name": "Михайлівська селищна громада",
+      "name_en": "Mykhailivska selyshchna hromada",
+      "slug": "mykhailivska-selyshchna-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040190000047410",
+      "name": "Роздольська сільська громада",
+      "name_en": "Rozdolska silska hromada",
+      "slug": "rozdolska-silska-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040210000019462",
+      "name": "Степногірська селищна громада",
+      "name_en": "Stepnohirska selyshchna hromada",
+      "slug": "stepnohirska-selyshchna-hromada",
+      "rayon_code": "UA23040000000067730",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060010000052992",
+      "name": "Біленьківська сільська громада",
+      "name_en": "Bilenkivska silska hromada",
+      "slug": "bilenkivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060030000037089",
+      "name": "Вільнянська міська громада",
+      "name_en": "Vilnianska miska hromada",
+      "slug": "vilnianska-miska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060050000065959",
+      "name": "Долинська сільська громада",
+      "name_en": "Dolynska silska hromada",
+      "slug": "dolynska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060070000082704",
+      "name": "Запорізька міська громада",
+      "name_en": "Zaporizka miska hromada",
+      "slug": "zaporizka-miska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060090000082326",
+      "name": "Комишуваська селищна громада",
+      "name_en": "Komyshuvaska selyshchna hromada",
+      "slug": "komyshuvaska-selyshchna-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060110000049870",
+      "name": "Кушугумська селищна громада",
+      "name_en": "Kushuhumska selyshchna hromada",
+      "slug": "kushuhumska-selyshchna-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060130000058533",
+      "name": "Матвіївська сільська громада",
+      "name_en": "Matviivska silska hromada",
+      "slug": "matviivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060150000085288",
+      "name": "Михайлівська сільська рада (Вільнянський район)",
+      "name_en": "Mykhailivska silska rada (Vilnianskyi raion)",
+      "slug": "mykhailivska-silska-rada-vilnianskyi-raion",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060150000085288",
+      "name": "Михайлівська сільська громада",
+      "name_en": "Mykhailivska silska hromada",
+      "slug": "mykhailivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060170000046208",
+      "name": "Михайло-Лукашівська сільська громада",
+      "name_en": "Mykhailo-Lukashivska silska hromada",
+      "slug": "mykhailo-lukashivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060190000080843",
+      "name": "Новомиколаївська селищна громада",
+      "name_en": "Novomykolaivska selyshchna hromada",
+      "slug": "novomykolaivska-selyshchna-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060210000064233",
+      "name": "Новоолександрівська сільська рада",
+      "name_en": "Novooleksandrivska silska rada",
+      "slug": "novooleksandrivska-silska-rada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060210000064233",
+      "name": "Новоолександрівська сільська громада",
+      "name_en": "Novooleksandrivska silska hromada",
+      "slug": "novooleksandrivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060230000071243",
+      "name": "Павлівська сільська громада",
+      "name_en": "Pavlivska silska hromada",
+      "slug": "pavlivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060250000058722",
+      "name": "Петро-Михайлівська сільська громада",
+      "name_en": "Petro-Mykhailivska silska hromada",
+      "slug": "petro-mykhailivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060270000087706",
+      "name": "Степненська сільська громада",
+      "name_en": "Stepnenska silska hromada",
+      "slug": "stepnenska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060290000024046",
+      "name": "Таврійська сільська громада",
+      "name_en": "Tavriiska silska hromada",
+      "slug": "tavriiska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060310000081443",
+      "name": "Тернуватська селищна громада",
+      "name_en": "Ternuvatska selyshchna hromada",
+      "slug": "ternuvatska-selyshchna-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060330000027462",
+      "name": "Широківська сільська громада",
+      "name_en": "Shyrokivska silska hromada",
+      "slug": "shyrokivska-silska-hromada",
+      "rayon_code": "UA23060000000070350",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080010000036379",
+      "name": "Веселівська селищна громада",
+      "name_en": "Veselivska selyshchna hromada",
+      "slug": "veselivska-selyshchna-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080030000064349",
+      "name": "Кирилівська селищна громада",
+      "name_en": "Kyrylivska selyshchna hromada",
+      "slug": "kyrylivska-selyshchna-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080050000095009",
+      "name": "Костянтинівська сільська рада",
+      "name_en": "Kostiantynivska silska rada",
+      "slug": "kostiantynivska-silska-rada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080050000095009",
+      "name": "Костянтинівська сільська громада",
+      "name_en": "Kostiantynivska silska hromada",
+      "slug": "kostiantynivska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080070000068953",
+      "name": "Мелітопольська міська громада",
+      "name_en": "Melitopolska miska hromada",
+      "slug": "melitopolska-miska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080090000051553",
+      "name": "Мирненська селищна громада",
+      "name_en": "Myrnenska selyshchna hromada",
+      "slug": "myrnenska-selyshchna-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080110000020314",
+      "name": "Новенська сільська громада",
+      "name_en": "Novenska silska hromada",
+      "slug": "novenska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080130000083188",
+      "name": "Новобогданівська сільська громада",
+      "name_en": "Novobohdanivska silska hromada",
+      "slug": "novobohdanivska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080150000073640",
+      "name": "Нововасилівська селищна громада",
+      "name_en": "Novovasylivska selyshchna hromada",
+      "slug": "novovasylivska-selyshchna-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080170000033256",
+      "name": "Новоуспенівська сільська рада",
+      "name_en": "Novouspenivska silska rada",
+      "slug": "novouspenivska-silska-rada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080170000033256",
+      "name": "Новоуспенівська сільська громада",
+      "name_en": "Novouspenivska silska hromada",
+      "slug": "novouspenivska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080190000065134",
+      "name": "Олександрівська сільська громада",
+      "name_en": "Oleksandrivska silska hromada",
+      "slug": "oleksandrivska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080210000060255",
+      "name": "Плодородненська сільська громада",
+      "name_en": "Plodorodnenska silska hromada",
+      "slug": "plodorodnenska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080230000097340",
+      "name": "Приазовська селищна громада",
+      "name_en": "Pryazovska selyshchna hromada",
+      "slug": "pryazovska-selyshchna-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080250000043914",
+      "name": "Семенівська сільська громада",
+      "name_en": "Semenivska silska hromada",
+      "slug": "semenivska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080270000086363",
+      "name": "Терпіннівська сільська громада",
+      "name_en": "Terpinnivska silska hromada",
+      "slug": "terpinnivska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080290000096336",
+      "name": "Чкаловська сільська громада",
+      "name_en": "Chkalovska silska hromada",
+      "slug": "chkalovska-silska-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080310000097001",
+      "name": "Якимівська селищна громада",
+      "name_en": "Yakymivska selyshchna hromada",
+      "slug": "yakymivska-selyshchna-hromada",
+      "rayon_code": "UA23080000000090746",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100010000094236",
+      "name": "Більмацька селищна громада",
+      "name_en": "Bilmatska selyshchna hromada",
+      "slug": "bilmatska-selyshchna-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100030000016840",
+      "name": "Воздвижівська сільська рада",
+      "name_en": "Vozdvyzhivska silska rada",
+      "slug": "vozdvyzhivska-silska-rada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100030000016840",
+      "name": "Воздвижівська сільська громада",
+      "name_en": "Vozdvyzhivska silska hromada",
+      "slug": "vozdvyzhivska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100050000041545",
+      "name": "Чапаєвська сільська рада",
+      "name_en": "Chapaievska silska rada",
+      "slug": "chapaievska-silska-rada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100050000041545",
+      "name": "Воскресенська сільська громада",
+      "name_en": "Voskresenska silska hromada",
+      "slug": "voskresenska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100070000026535",
+      "name": "Гуляйпільська міська громада",
+      "name_en": "Huliaipilska miska hromada",
+      "slug": "huliaipilska-miska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100090000029171",
+      "name": "Комиш-Зорянська селищна громада",
+      "name_en": "Komysh-Zorianska selyshchna hromada",
+      "slug": "komysh-zorianska-selyshchna-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100110000028240",
+      "name": "Малинівська сільська рада",
+      "name_en": "Malynivska silska rada",
+      "slug": "malynivska-silska-rada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100110000028240",
+      "name": "Малинівська сільська громада",
+      "name_en": "Malynivska silska hromada",
+      "slug": "malynivska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100130000058758",
+      "name": "Малотокмачанська сільська рада",
+      "name_en": "Malotokmachanska silska rada",
+      "slug": "malotokmachanska-silska-rada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100130000058758",
+      "name": "Малотокмачанська сільська громада",
+      "name_en": "Malotokmachanska silska hromada",
+      "slug": "malotokmachanska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100150000023366",
+      "name": "Молочанська міська громада",
+      "name_en": "Molochanska miska hromada",
+      "slug": "molochanska-miska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100170000031289",
+      "name": "Оріхівська міська територіальна громада",
+      "name_en": "Orikhivska miska terytorialna hromada",
+      "slug": "orikhivska-miska-terytorialna-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100190000020018",
+      "name": "Пологівська міська громада",
+      "name_en": "Polohivska miska hromada",
+      "slug": "polohivska-miska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100210000086911",
+      "name": "Преображенська сільська рада",
+      "name_en": "Preobrazhenska silska rada",
+      "slug": "preobrazhenska-silska-rada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100210000086911",
+      "name": "Преображенська сільська громада",
+      "name_en": "Preobrazhenska silska hromada",
+      "slug": "preobrazhenska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100230000021603",
+      "name": "Розівська селищна громада",
+      "name_en": "Rozivska selyshchna hromada",
+      "slug": "rozivska-selyshchna-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100250000073490",
+      "name": "Смирновська сільська рада",
+      "name_en": "Smyrnovska silska rada",
+      "slug": "smyrnovska-silska-rada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100250000073490",
+      "name": "Смирновська сільська громада",
+      "name_en": "Smyrnovska silska hromada",
+      "slug": "smyrnovska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100270000073418",
+      "name": "Токмацька міська громада",
+      "name_en": "Tokmatska miska hromada",
+      "slug": "tokmatska-miska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100290000069212",
+      "name": "Федорівська сільська громада",
+      "name_en": "Fedorivska silska hromada",
+      "slug": "fedorivska-silska-hromada",
+      "rayon_code": "UA23100000000034132",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Запорізької області - Безкоштовне завантаження",
+    "description": "Список 79 територіальних громад Запорізької області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 79 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Запорізької області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Запорізької області — 79 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 79 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

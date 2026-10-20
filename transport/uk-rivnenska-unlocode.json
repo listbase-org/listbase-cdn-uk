@@ -1,0 +1,286 @@
+{
+  "id": "uk-rivnenska-unlocode",
+  "name": "Коди UN/LOCODE — Рівненська область",
+  "title": "Коди UN/LOCODE — Рівненська область",
+  "description": "Коди UN/LOCODE у межах адміністративної одиниці «Рівненська область» (Rivne Oblast, UA-56), 5 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (3), Multimodal transport facility (2). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 56); all fields carried verbatim from the parent, nothing translated or recomputed.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_iso_3166_2",
+      "label": "Oblast Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "unlocode_subdivision_name",
+      "label": "Unlocode Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 50,
+      "oblast_uk": "Рівненська область",
+      "oblast_en": "Rivne Oblast",
+      "oblast_slug": "rivnenska",
+      "oblast_iso_3166_2": "UA-56",
+      "unlocode_subdivision_name": "Rivnenska oblast",
+      "locode": "UADUB",
+      "country": "UA",
+      "location": "DUB",
+      "name": "Dubno",
+      "name_wo_diacritics": "Dubno",
+      "subdivision_code": "56",
+      "subdivision_name": "Rivnenska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5056N 02612E",
+      "latitude": 50.9333,
+      "longitude": 26.2,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 2,
+      "parent_index": 95,
+      "oblast_uk": "Рівненська область",
+      "oblast_en": "Rivne Oblast",
+      "oblast_slug": "rivnenska",
+      "oblast_iso_3166_2": "UA-56",
+      "unlocode_subdivision_name": "Rivnenska oblast",
+      "locode": "UAKOR",
+      "country": "UA",
+      "location": "KOR",
+      "name": "Kornin",
+      "name_wo_diacritics": "Kornin",
+      "subdivision_code": "56",
+      "subdivision_name": "Rivnenska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5034N 02617E",
+      "latitude": 50.5667,
+      "longitude": 26.2833,
+      "date_updated": "2012-01",
+      "remarks": ""
+    },
+    {
+      "id": 3,
+      "parent_index": 169,
+      "oblast_uk": "Рівненська область",
+      "oblast_en": "Rivne Oblast",
+      "oblast_slug": "rivnenska",
+      "oblast_iso_3166_2": "UA-56",
+      "unlocode_subdivision_name": "Rivnenska oblast",
+      "locode": "UARAF",
+      "country": "UA",
+      "location": "RAF",
+      "name": "Rafalivka",
+      "name_wo_diacritics": "Rafalivka",
+      "subdivision_code": "56",
+      "subdivision_name": "Rivnenska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5118N 02601E",
+      "latitude": 51.3,
+      "longitude": 26.0167,
+      "date_updated": "2013-07",
+      "remarks": ""
+    },
+    {
+      "id": 4,
+      "parent_index": 171,
+      "oblast_uk": "Рівненська область",
+      "oblast_en": "Rivne Oblast",
+      "oblast_slug": "rivnenska",
+      "oblast_iso_3166_2": "UA-56",
+      "unlocode_subdivision_name": "Rivnenska oblast",
+      "locode": "UARIV",
+      "country": "UA",
+      "location": "RIV",
+      "name": "Rivne",
+      "name_wo_diacritics": "Rivne",
+      "subdivision_code": "56",
+      "subdivision_name": "Rivnenska oblast",
+      "subdivision_type": "Region",
+      "status": "AA",
+      "status_description": "Approved by competent national government agency",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5037N 02615E",
+      "latitude": 50.6167,
+      "longitude": 26.25,
+      "date_updated": "2017-07",
+      "remarks": ""
+    },
+    {
+      "id": 5,
+      "parent_index": 244,
+      "oblast_uk": "Рівненська область",
+      "oblast_en": "Rivne Oblast",
+      "oblast_slug": "rivnenska",
+      "oblast_iso_3166_2": "UA-56",
+      "unlocode_subdivision_name": "Rivnenska oblast",
+      "locode": "UAZHI",
+      "country": "UA",
+      "location": "ZHI",
+      "name": "Orzhiv",
+      "name_wo_diacritics": "Orzhiv",
+      "subdivision_code": "56",
+      "subdivision_name": "Rivnenska oblast",
+      "subdivision_type": "Region",
+      "status": "AA",
+      "status_description": "Approved by competent national government agency",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5045N 02607E",
+      "latitude": 50.75,
+      "longitude": 26.1167,
+      "date_updated": "2017-07",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Коди UN/LOCODE — Рівненська область - Безкоштовне завантаження",
+    "description": "Коди UN/LOCODE у межах адміністративної одиниці «Рівненська область» (Rivne Oblast, UA-56), 5 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (3), Multimodal transport facility (2). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 56); all fields carried verbatim from the parent, nothing translated or recomputed. Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Коди UN/LOCODE — Рівненська область | ListBase",
+    "seo_description": "Завантажити Коди UN/LOCODE — Рівненська область — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 25 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

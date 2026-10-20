@@ -1,0 +1,698 @@
+{
+  "id": "uk-donetska-hromady",
+  "name": "Територіальні громади Донецької області",
+  "title": "Територіальні громади Донецької області",
+  "description": "Список 57 територіальних громад Донецької області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA14020010000088496",
+      "name": "Бахмутська міська громада",
+      "name_en": "Bakhmutska miska hromada",
+      "slug": "bakhmutska-miska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14020030000023064",
+      "name": "Званівська сільська громада",
+      "name_en": "Zvanivska silska hromada",
+      "slug": "zvanivska-silska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14020050000019803",
+      "name": "Світлодарська міська громада",
+      "name_en": "Svitlodarska miska hromada",
+      "slug": "svitlodarska-miska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14020070000070354",
+      "name": "Сіверська міська громада",
+      "name_en": "Siverska miska hromada",
+      "slug": "siverska-miska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14020090000073988",
+      "name": "Соледарська міська громада",
+      "name_en": "Soledarska miska hromada",
+      "slug": "soledarska-miska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14020110000075529",
+      "name": "Торецька міська громада",
+      "name_en": "Toretska miska hromada",
+      "slug": "toretska-miska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14020130000080900",
+      "name": "Часовоярська міська громада",
+      "name_en": "Chasovoiarska miska hromada",
+      "slug": "chasovoiarska-miska-hromada",
+      "rayon_code": "UA14020000000013572",
+      "rayon_name": "Бахмутський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040010000017239",
+      "name": "Великоновосілківська селищна громада",
+      "name_en": "Velykonovosilkivska selyshchna hromada",
+      "slug": "velykonovosilkivska-selyshchna-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040030000025138",
+      "name": "Волноваська міська громада",
+      "name_en": "Volnovaska miska hromada",
+      "slug": "volnovaska-miska-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040050000064688",
+      "name": "Вугледарська міська громада",
+      "name_en": "Vuhledarska miska hromada",
+      "slug": "vuhledarska-miska-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040070000032181",
+      "name": "Комарська сільська громада",
+      "name_en": "Komarska silska hromada",
+      "slug": "komarska-silska-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040090000061195",
+      "name": "Мирненська селищна громада",
+      "name_en": "Myrnenska selyshchna hromada",
+      "slug": "myrnenska-selyshchna-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040110000019914",
+      "name": "Ольгинська селищна громада",
+      "name_en": "Olhynska selyshchna hromada",
+      "slug": "olhynska-selyshchna-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040130000068575",
+      "name": "Старомлинівська сільська громада",
+      "name_en": "Staromlynivska silska hromada",
+      "slug": "staromlynivska-silska-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14040150000099558",
+      "name": "Хлібодарівська сільська громада",
+      "name_en": "Khlibodarivska silska hromada",
+      "slug": "khlibodarivska-silska-hromada",
+      "rayon_code": "UA14040000000098211",
+      "rayon_name": "Волноваський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060010000010738",
+      "name": "Вуглегірська міська громада",
+      "name_en": "Vuhlehirska miska hromada",
+      "slug": "vuhlehirska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060030000084305",
+      "name": "Горлівська міська громада",
+      "name_en": "Horlivska miska hromada",
+      "slug": "horlivska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060050000034979",
+      "name": "Дебальцівська міська громада",
+      "name_en": "Debaltsivska miska hromada",
+      "slug": "debaltsivska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060070000066382",
+      "name": "Єнакієвська міська громада",
+      "name_en": "Yenakiievska miska hromada",
+      "slug": "yenakiievska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060090000054042",
+      "name": "Жданівська міська громада",
+      "name_en": "Zhdanivska miska hromada",
+      "slug": "zhdanivska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060110000052135",
+      "name": "Сніжнянська міська громада",
+      "name_en": "Snizhnianska miska hromada",
+      "slug": "snizhnianska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060130000085167",
+      "name": "Хрестівська міська громада",
+      "name_en": "Khrestivska miska hromada",
+      "slug": "khrestivska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060150000032950",
+      "name": "Чистяківська міська громада",
+      "name_en": "Chystiakivska miska hromada",
+      "slug": "chystiakivska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14060170000097532",
+      "name": "Шахтарська міська громада",
+      "name_en": "Shakhtarska miska hromada",
+      "slug": "shakhtarska-miska-hromada",
+      "rayon_code": "UA14060000000024357",
+      "rayon_name": "Горлівський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14080030000053877",
+      "name": "Донецька міська громада",
+      "name_en": "Donetska miska hromada",
+      "slug": "donetska-miska-hromada",
+      "rayon_code": "UA14080000000098686",
+      "rayon_name": "Донецький район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14080070000011977",
+      "name": "Макіївська міська громада",
+      "name_en": "Makiivska miska hromada",
+      "slug": "makiivska-miska-hromada",
+      "rayon_code": "UA14080000000098686",
+      "rayon_name": "Донецький район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120010000096882",
+      "name": "Андріївська сільська громада",
+      "name_en": "Andriivska silska hromada",
+      "slug": "andriivska-silska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120030000057882",
+      "name": "Дружківська міська громада",
+      "name_en": "Druzhkivska miska hromada",
+      "slug": "druzhkivska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120050000033910",
+      "name": "Іллінівська сільська громада",
+      "name_en": "Illinivska silska hromada",
+      "slug": "illinivska-silska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120070000090878",
+      "name": "Костянтинівська міська громада",
+      "name_en": "Kostiantynivska miska hromada",
+      "slug": "kostiantynivska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120090000098500",
+      "name": "Краматорська міська громада",
+      "name_en": "Kramatorska miska hromada",
+      "slug": "kramatorska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120110000031497",
+      "name": "Лиманська міська громада",
+      "name_en": "Lymanska miska hromada",
+      "slug": "lymanska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120130000086767",
+      "name": "Миколаївська міська громада",
+      "name_en": "Mykolaivska miska hromada",
+      "slug": "mykolaivska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120150000071686",
+      "name": "Новодонецька селищна громада",
+      "name_en": "Novodonetska selyshchna hromada",
+      "slug": "novodonetska-selyshchna-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120170000011133",
+      "name": "Олександрівська селищна громада",
+      "name_en": "Oleksandrivska selyshchna hromada",
+      "slug": "oleksandrivska-selyshchna-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120190000021407",
+      "name": "Святогірська міська громада",
+      "name_en": "Sviatohirska miska hromada",
+      "slug": "sviatohirska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120210000056793",
+      "name": "Слов'янська міська громада",
+      "name_en": "Slovyanska miska hromada",
+      "slug": "slovyanska-miska-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14120230000038918",
+      "name": "Черкаська селищна громада",
+      "name_en": "Cherkaska selyshchna hromada",
+      "slug": "cherkaska-selyshchna-hromada",
+      "rayon_code": "UA14120000000070232",
+      "rayon_name": "Краматорський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14140010000044623",
+      "name": "Кальчицька сільська громада",
+      "name_en": "Kalchytska silska hromada",
+      "slug": "kalchytska-silska-hromada",
+      "rayon_code": "UA14140000000070889",
+      "rayon_name": "Маріупольський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14140030000092230",
+      "name": "Мангуська селищна громада",
+      "name_en": "Manhuska selyshchna hromada",
+      "slug": "manhuska-selyshchna-hromada",
+      "rayon_code": "UA14140000000070889",
+      "rayon_name": "Маріупольський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14140050000020560",
+      "name": "Маріупольська міська громада",
+      "name_en": "Mariupolska miska hromada",
+      "slug": "mariupolska-miska-hromada",
+      "rayon_code": "UA14140000000070889",
+      "rayon_name": "Маріупольський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14140070000060361",
+      "name": "Микільська селищна громада",
+      "name_en": "Mykilska selyshchna hromada",
+      "slug": "mykilska-selyshchna-hromada",
+      "rayon_code": "UA14140000000070889",
+      "rayon_name": "Маріупольський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14140090000015932",
+      "name": "Сартанська селищна громада",
+      "name_en": "Sartanska selyshchna hromada",
+      "slug": "sartanska-selyshchna-hromada",
+      "rayon_code": "UA14140000000070889",
+      "rayon_name": "Маріупольський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160010000086090",
+      "name": "Авдіївська міська громада",
+      "name_en": "Avdiivska miska hromada",
+      "slug": "avdiivska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160030000019136",
+      "name": "Білозерська міська громада",
+      "name_en": "Bilozerska miska hromada",
+      "slug": "bilozerska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160050000083011",
+      "name": "Гродівська селищна громада",
+      "name_en": "Hrodivska selyshchna hromada",
+      "slug": "hrodivska-selyshchna-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160070000097326",
+      "name": "Добропільська міська громада",
+      "name_en": "Dobropilska miska hromada",
+      "slug": "dobropilska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160090000058463",
+      "name": "Криворізька сільська громада",
+      "name_en": "Kryvorizka silska hromada",
+      "slug": "kryvorizka-silska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160110000031920",
+      "name": "Курахівська міська громада",
+      "name_en": "Kurakhivska miska hromada",
+      "slug": "kurakhivska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160130000011561",
+      "name": "Мар'їнська міська громада",
+      "name_en": "Maryinska miska hromada",
+      "slug": "maryinska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160150000038750",
+      "name": "Мирноградська міська громада",
+      "name_en": "Myrnohradska miska hromada",
+      "slug": "myrnohradska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160170000023385",
+      "name": "Новогродівська міська громада",
+      "name_en": "Novohrodivska miska hromada",
+      "slug": "novohrodivska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160190000059231",
+      "name": "Очеретинська селищна громада",
+      "name_en": "Ocheretynska selyshchna hromada",
+      "slug": "ocheretynska-selyshchna-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160210000011148",
+      "name": "Покровська міська громада",
+      "name_en": "Pokrovska miska hromada",
+      "slug": "pokrovska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160230000060952",
+      "name": "Селидівська міська громада",
+      "name_en": "Selydivska miska hromada",
+      "slug": "selydivska-miska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160250000075646",
+      "name": "Удачненська селищна громада",
+      "name_en": "Udachnenska selyshchna hromada",
+      "slug": "udachnenska-selyshchna-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    },
+    {
+      "code": "UA14160270000099007",
+      "name": "Шахівська сільська громада",
+      "name_en": "Shakhivska silska hromada",
+      "slug": "shakhivska-silska-hromada",
+      "rayon_code": "UA14160000000061982",
+      "rayon_name": "Покровський район",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Донецької області - Безкоштовне завантаження",
+    "description": "Список 57 територіальних громад Донецької області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 57 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Донецької області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Донецької області — 57 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 57 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

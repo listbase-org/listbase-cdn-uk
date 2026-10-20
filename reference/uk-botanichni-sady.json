@@ -1,0 +1,291 @@
+{
+  "id": "uk-botanichni-sady",
+  "name": "Ботанічні сади України",
+  "title": "Ботанічні сади України",
+  "description": "Перелік об'єктів типу «ботанічний сад» в Україні з відкритих даних Вікіданих (Wikidata), 20 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12084357",
+      "name_uk": "Ботанічний сад «Юннатівський»",
+      "name_en": "",
+      "admin_area_uk": "Сумська міська громада",
+      "admin_area_en": "Sumy urban hromada",
+      "latitude": 50.90398,
+      "longitude": 34.814751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12084357"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q20073887",
+      "name_uk": "Ботанічний сад Житомирського національного агроекологічного університету",
+      "name_en": "Botanical garden of Zhytomyr Agrarian University",
+      "admin_area_uk": "Житомир",
+      "admin_area_en": "Zhytomyr",
+      "latitude": 50.2525,
+      "longitude": 28.7,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20073887"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4095111",
+      "name_uk": "Ботанічний сад Львівського лісотехнічного інституту",
+      "name_en": "Botanical Garden of Lviv Forestry Institute",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.825833,
+      "longitude": 24.003611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4095111"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4095113",
+      "name_uk": "Ботанічний сад Львівського медичного університету",
+      "name_en": "Lviv National Medical University Botanical Garden",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.835556,
+      "longitude": 24.049444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4095113"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4095114",
+      "name_uk": "Ботанічний сад Львівського університету",
+      "name_en": "Botanical garden of Lviv University",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.830278,
+      "longitude": 24.065556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4095114"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12135229",
+      "name_uk": "Ботанічний сад Одеського національного університету імені І. І. Мечникова",
+      "name_en": "Odesa Botanical Gardens",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.441944,
+      "longitude": 30.768889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12135229"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q4405768",
+      "name_uk": "Ботанічний сад при Таврійському університеті Салгирка",
+      "name_en": "Botanical garden, Simferopol",
+      "admin_area_uk": "Сімферополь",
+      "admin_area_en": "Simferopol",
+      "latitude": 44.943197,
+      "longitude": 34.130449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4405768"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12084364",
+      "name_uk": "Ботанічний сад при ХДУ",
+      "name_en": "Botanical Garden of Kherson State University",
+      "admin_area_uk": "Херсон",
+      "admin_area_en": "Kherson",
+      "latitude": 46.658247,
+      "longitude": 32.589995,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12084364"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q16693112",
+      "name_uk": "Ботанічний сад Сумського педагогічного університету",
+      "name_en": "SSTU A.S. Makanerko Botanical garden",
+      "admin_area_uk": "Сумська область",
+      "admin_area_en": "Sumy Oblast",
+      "latitude": 50.89658,
+      "longitude": 34.77453,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16693112"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q894650",
+      "name_uk": "Ботанічний сад імені академіка Олександра Фоміна",
+      "name_en": "A.V. Fomin Botanical Garden",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.4441,
+      "longitude": 30.5057,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894650"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q24206915",
+      "name_uk": "Галицький ботанічний сад лікарських рослин",
+      "name_en": "Halytskyi Botanical Garden",
+      "admin_area_uk": "Тернопільська область",
+      "admin_area_en": "Ternopil Oblast",
+      "latitude": 49.52741,
+      "longitude": 25.51179,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24206915"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4095109",
+      "name_uk": "Дніпропетровський ботанічний сад",
+      "name_en": "Dnipro Botanical Garden",
+      "admin_area_uk": "Дніпро",
+      "admin_area_en": "Dnipro",
+      "latitude": 48.436,
+      "longitude": 35.042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4095109"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q4166218",
+      "name_uk": "Донецький ботанічний сад",
+      "name_en": "Donetsk botanic garden",
+      "admin_area_uk": "Донецьк",
+      "admin_area_en": "Donetsk",
+      "latitude": 48.01,
+      "longitude": 37.880556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4166218"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q4240824",
+      "name_uk": "Криворізький ботанічний сад НАН України",
+      "name_en": "Botanical garden in Kryvyi Rih",
+      "admin_area_uk": "Дніпропетровська область",
+      "admin_area_en": "Dnipropetrovsk Oblast",
+      "latitude": 48.148787,
+      "longitude": 33.576974,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4240824"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q280791",
+      "name_uk": "Національний ботанічний сад імені Миколи Гришка НАН України",
+      "name_en": "Hryshko National Botanical Garden",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.41267,
+      "longitude": 30.56225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q280791"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q894654",
+      "name_uk": "Нікітський ботанічний сад",
+      "name_en": "Nikitsky Botanical Garden",
+      "admin_area_uk": "Нікіта",
+      "admin_area_en": "Nikita",
+      "latitude": 44.5094,
+      "longitude": 34.2328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894654"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q4469636",
+      "name_uk": "Ужгородський ботанічний сад",
+      "name_en": "Uzhhorod Botanical garden",
+      "admin_area_uk": "Ужгород",
+      "admin_area_en": "Uzhhorod",
+      "latitude": 48.62389,
+      "longitude": 22.295,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4469636"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q4095120",
+      "name_uk": "Харківський ботанічний сад",
+      "name_en": "Botanical Garden Kharkiv",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 49.999836,
+      "longitude": 36.228014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4095120"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q24228302",
+      "name_uk": "Червона калина (ботанічний сад)",
+      "name_en": "Chervona Kalyna Botanical Garden",
+      "admin_area_uk": "Тернопільська область",
+      "admin_area_en": "Ternopil Oblast",
+      "latitude": 49.372222,
+      "longitude": 25.665278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24228302"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q20096226",
+      "name_uk": "Ямпільський ботанічний сад",
+      "name_en": "Uampilskyy Botanical garden",
+      "admin_area_uk": "Ямпільська селищна громада",
+      "admin_area_en": "Yampil settlement hromada",
+      "latitude": 51.94972,
+      "longitude": 33.77167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20096226"
+    }
+  ],
+  "meta": {
+    "title": "Ботанічні сади України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «ботанічний сад» в Україні з відкритих даних Вікіданих (Wikidata), 20 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані. Містить 20 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Ботанічні сади України | ListBase",
+    "seo_description": "Завантажити Ботанічні сади України — 20 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 20 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

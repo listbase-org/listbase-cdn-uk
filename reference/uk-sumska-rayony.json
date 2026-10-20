@@ -1,0 +1,116 @@
+{
+  "id": "uk-sumska-rayony",
+  "name": "Райони Сумської області",
+  "title": "Райони Сумської області",
+  "description": "Список усіх 5 районів Сумської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA59020000000081905",
+      "name": "Конотопський район",
+      "name_en": "Konotopskyi raion",
+      "slug": "konotopskyi-raion",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska",
+      "parent_code": "UA59000000000057109"
+    },
+    {
+      "code": "UA59040000000045652",
+      "name": "Охтирський район",
+      "name_en": "Okhtyrskyi raion",
+      "slug": "okhtyrskyi-raion",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska",
+      "parent_code": "UA59000000000057109"
+    },
+    {
+      "code": "UA59060000000086008",
+      "name": "Роменський район",
+      "name_en": "Romenskyi raion",
+      "slug": "romenskyi-raion",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska",
+      "parent_code": "UA59000000000057109"
+    },
+    {
+      "code": "UA59080000000057897",
+      "name": "Сумський район",
+      "name_en": "Sumskyi raion",
+      "slug": "sumskyi-raion",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska",
+      "parent_code": "UA59000000000057109"
+    },
+    {
+      "code": "UA59100000000036457",
+      "name": "Шосткинський район",
+      "name_en": "Shostkynskyi raion",
+      "slug": "shostkynskyi-raion",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska",
+      "parent_code": "UA59000000000057109"
+    }
+  ],
+  "meta": {
+    "title": "Райони Сумської області - Безкоштовне завантаження",
+    "description": "Список усіх 5 районів Сумської області згідно з КАТОТТГ (реформа 2020 року). Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Сумської області | ListBase",
+    "seo_description": "Завантажити Райони Сумської області — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "id": "uk-sumska-mista",
+  "name": "Міста Сумської області",
+  "title": "Міста Сумської області",
+  "description": "Список 14 міст Сумської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA59020030010075600",
+      "name": "Буринь",
+      "name_en": "Buryn",
+      "slug": "buryn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59020030000072865",
+      "hromada_name": "Буринська міська громада",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020070010054283",
+      "name": "Конотоп",
+      "name_en": "Konotop",
+      "slug": "konotop",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59020070000032449",
+      "hromada_name": "Конотопська міська громада",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020090010081204",
+      "name": "Кролевець",
+      "name_en": "Krolevets",
+      "slug": "krolevets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59020090000085438",
+      "hromada_name": "Кролевецька міська громада",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020150010023159",
+      "name": "Путивль",
+      "name_en": "Putyvl",
+      "slug": "putyvl",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59020150000078955",
+      "hromada_name": "Путивльська міська громада",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040110010017443",
+      "name": "Охтирка",
+      "name_en": "Okhtyrka",
+      "slug": "okhtyrka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59040110000026694",
+      "hromada_name": "Охтирська міська громада",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040130010060037",
+      "name": "Тростянець",
+      "name_en": "Trostianets",
+      "slug": "trostianets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59040130000041676",
+      "hromada_name": "Тростянецька міська громада",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060110010062596",
+      "name": "Ромни",
+      "name_en": "Romny",
+      "slug": "romny",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59060110000049734",
+      "hromada_name": "Роменська міська громада",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080030010079123",
+      "name": "Білопілля",
+      "name_en": "Bilopillia",
+      "slug": "bilopillia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59080030000075526",
+      "hromada_name": "Білопільська міська громада",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080070010055315",
+      "name": "Ворожба",
+      "name_en": "Vorozhba",
+      "slug": "vorozhba",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59080070000062635",
+      "hromada_name": "Ворожбянська міська громада",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080110010031484",
+      "name": "Лебедин",
+      "name_en": "Lebedyn",
+      "slug": "lebedyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59080110000034361",
+      "hromada_name": "Лебединська міська громада",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100030010033445",
+      "name": "Глухів",
+      "name_en": "Hlukhiv",
+      "slug": "hlukhiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59100030000078744",
+      "hromada_name": "Глухівська міська громада",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100050010097062",
+      "name": "Хутір-Михайлівський",
+      "name_en": "Khutir-Mykhailivskyi",
+      "slug": "khutir-mykhailivskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59100050000059594",
+      "hromada_name": "Дружбівська міська громада",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100130010040668",
+      "name": "Середина-Буда",
+      "name_en": "Seredyna-Buda",
+      "slug": "seredyna-buda",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59100130000041016",
+      "hromada_name": "Середино-Будська міська громада",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100170010017917",
+      "name": "Шостка",
+      "name_en": "Shostka",
+      "slug": "shostka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA59100170000093676",
+      "hromada_name": "Шосткинська міська громада",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Сумської області - Безкоштовне завантаження",
+    "description": "Список 14 міст Сумської області (категорія М у КАТОТТГ). Містить 14 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Сумської області | ListBase",
+    "seo_description": "Завантажити Міста Сумської області — 14 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 14 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

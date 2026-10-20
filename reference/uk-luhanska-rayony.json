@@ -1,0 +1,146 @@
+{
+  "id": "uk-luhanska-rayony",
+  "name": "Райони Луганської області",
+  "title": "Райони Луганської області",
+  "description": "Список усіх 8 районів Луганської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA44020000000082097",
+      "name": "Алчевський район",
+      "name_en": "Alchevskyi raion",
+      "slug": "alchevskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44040000000032820",
+      "name": "Довжанський район",
+      "name_en": "Dovzhanskyi raion",
+      "slug": "dovzhanskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44060000000048093",
+      "name": "Луганський район",
+      "name_en": "Luhanskyi raion",
+      "slug": "luhanskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44080000000045512",
+      "name": "Ровеньківський район",
+      "name_en": "Rovenkivskyi raion",
+      "slug": "rovenkivskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44100000000052765",
+      "name": "Сватівський район",
+      "name_en": "Svativskyi raion",
+      "slug": "svativskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44120000000092852",
+      "name": "Сіверськодонецький район",
+      "name_en": "Siverskodonetskyi raion",
+      "slug": "siverskodonetskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44140000000031142",
+      "name": "Старобільський район",
+      "name_en": "Starobilskyi raion",
+      "slug": "starobilskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    },
+    {
+      "code": "UA44160000000057142",
+      "name": "Щастинський район",
+      "name_en": "Shchastynskyi raion",
+      "slug": "shchastynskyi-raion",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska",
+      "parent_code": "UA44000000000018893"
+    }
+  ],
+  "meta": {
+    "title": "Райони Луганської області - Безкоштовне завантаження",
+    "description": "Список усіх 8 районів Луганської області згідно з КАТОТТГ (реформа 2020 року). Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Луганської області | ListBase",
+    "seo_description": "Завантажити Райони Луганської області — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

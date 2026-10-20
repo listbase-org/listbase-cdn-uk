@@ -1,0 +1,648 @@
+{
+  "id": "uk-misiatsi-kalendaria",
+  "name": "Назви місяців за календарем (CLDR українською)",
+  "title": "Назви місяців за календарем (CLDR українською)",
+  "description": "Назви місяців із шести календарів (григоріанський, буддійський, китайський, дангі, єврейський, ісламський) — у локалі uk у CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalendar",
+      "label": "Kalendar",
+      "type": "string"
+    },
+    {
+      "key": "misiats_kod",
+      "label": "Misiats Kod",
+      "type": "number"
+    },
+    {
+      "key": "misiats_num",
+      "label": "Misiats Num",
+      "type": "number"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalendar": "gregorian",
+      "misiats_kod": "1",
+      "misiats_num": 1,
+      "nazva": "січня",
+      "skorochennia": "січ."
+    },
+    {
+      "id": 2,
+      "kalendar": "gregorian",
+      "misiats_kod": "2",
+      "misiats_num": 2,
+      "nazva": "лютого",
+      "skorochennia": "лют."
+    },
+    {
+      "id": 3,
+      "kalendar": "gregorian",
+      "misiats_kod": "3",
+      "misiats_num": 3,
+      "nazva": "березня",
+      "skorochennia": "бер."
+    },
+    {
+      "id": 4,
+      "kalendar": "gregorian",
+      "misiats_kod": "4",
+      "misiats_num": 4,
+      "nazva": "квітня",
+      "skorochennia": "квіт."
+    },
+    {
+      "id": 5,
+      "kalendar": "gregorian",
+      "misiats_kod": "5",
+      "misiats_num": 5,
+      "nazva": "травня",
+      "skorochennia": "трав."
+    },
+    {
+      "id": 6,
+      "kalendar": "gregorian",
+      "misiats_kod": "6",
+      "misiats_num": 6,
+      "nazva": "червня",
+      "skorochennia": "черв."
+    },
+    {
+      "id": 7,
+      "kalendar": "gregorian",
+      "misiats_kod": "7",
+      "misiats_num": 7,
+      "nazva": "липня",
+      "skorochennia": "лип."
+    },
+    {
+      "id": 8,
+      "kalendar": "gregorian",
+      "misiats_kod": "8",
+      "misiats_num": 8,
+      "nazva": "серпня",
+      "skorochennia": "серп."
+    },
+    {
+      "id": 9,
+      "kalendar": "gregorian",
+      "misiats_kod": "9",
+      "misiats_num": 9,
+      "nazva": "вересня",
+      "skorochennia": "вер."
+    },
+    {
+      "id": 10,
+      "kalendar": "gregorian",
+      "misiats_kod": "10",
+      "misiats_num": 10,
+      "nazva": "жовтня",
+      "skorochennia": "жовт."
+    },
+    {
+      "id": 11,
+      "kalendar": "gregorian",
+      "misiats_kod": "11",
+      "misiats_num": 11,
+      "nazva": "листопада",
+      "skorochennia": "лист."
+    },
+    {
+      "id": 12,
+      "kalendar": "gregorian",
+      "misiats_kod": "12",
+      "misiats_num": 12,
+      "nazva": "грудня",
+      "skorochennia": "груд."
+    },
+    {
+      "id": 13,
+      "kalendar": "buddhist",
+      "misiats_kod": "1",
+      "misiats_num": 1,
+      "nazva": "січня",
+      "skorochennia": "січ."
+    },
+    {
+      "id": 14,
+      "kalendar": "buddhist",
+      "misiats_kod": "2",
+      "misiats_num": 2,
+      "nazva": "лютого",
+      "skorochennia": "лют."
+    },
+    {
+      "id": 15,
+      "kalendar": "buddhist",
+      "misiats_kod": "3",
+      "misiats_num": 3,
+      "nazva": "березня",
+      "skorochennia": "бер."
+    },
+    {
+      "id": 16,
+      "kalendar": "buddhist",
+      "misiats_kod": "4",
+      "misiats_num": 4,
+      "nazva": "квітня",
+      "skorochennia": "квіт."
+    },
+    {
+      "id": 17,
+      "kalendar": "buddhist",
+      "misiats_kod": "5",
+      "misiats_num": 5,
+      "nazva": "травня",
+      "skorochennia": "трав."
+    },
+    {
+      "id": 18,
+      "kalendar": "buddhist",
+      "misiats_kod": "6",
+      "misiats_num": 6,
+      "nazva": "червня",
+      "skorochennia": "черв."
+    },
+    {
+      "id": 19,
+      "kalendar": "buddhist",
+      "misiats_kod": "7",
+      "misiats_num": 7,
+      "nazva": "липня",
+      "skorochennia": "лип."
+    },
+    {
+      "id": 20,
+      "kalendar": "buddhist",
+      "misiats_kod": "8",
+      "misiats_num": 8,
+      "nazva": "серпня",
+      "skorochennia": "серп."
+    },
+    {
+      "id": 21,
+      "kalendar": "buddhist",
+      "misiats_kod": "9",
+      "misiats_num": 9,
+      "nazva": "вересня",
+      "skorochennia": "вер."
+    },
+    {
+      "id": 22,
+      "kalendar": "buddhist",
+      "misiats_kod": "10",
+      "misiats_num": 10,
+      "nazva": "жовтня",
+      "skorochennia": "жовт."
+    },
+    {
+      "id": 23,
+      "kalendar": "buddhist",
+      "misiats_kod": "11",
+      "misiats_num": 11,
+      "nazva": "листопада",
+      "skorochennia": "лист."
+    },
+    {
+      "id": 24,
+      "kalendar": "buddhist",
+      "misiats_kod": "12",
+      "misiats_num": 12,
+      "nazva": "грудня",
+      "skorochennia": "груд."
+    },
+    {
+      "id": 25,
+      "kalendar": "chinese",
+      "misiats_kod": "1",
+      "misiats_num": 1,
+      "nazva": "M01",
+      "skorochennia": "M01"
+    },
+    {
+      "id": 26,
+      "kalendar": "chinese",
+      "misiats_kod": "2",
+      "misiats_num": 2,
+      "nazva": "M02",
+      "skorochennia": "M02"
+    },
+    {
+      "id": 27,
+      "kalendar": "chinese",
+      "misiats_kod": "3",
+      "misiats_num": 3,
+      "nazva": "M03",
+      "skorochennia": "M03"
+    },
+    {
+      "id": 28,
+      "kalendar": "chinese",
+      "misiats_kod": "4",
+      "misiats_num": 4,
+      "nazva": "M04",
+      "skorochennia": "M04"
+    },
+    {
+      "id": 29,
+      "kalendar": "chinese",
+      "misiats_kod": "5",
+      "misiats_num": 5,
+      "nazva": "M05",
+      "skorochennia": "M05"
+    },
+    {
+      "id": 30,
+      "kalendar": "chinese",
+      "misiats_kod": "6",
+      "misiats_num": 6,
+      "nazva": "M06",
+      "skorochennia": "M06"
+    },
+    {
+      "id": 31,
+      "kalendar": "chinese",
+      "misiats_kod": "7",
+      "misiats_num": 7,
+      "nazva": "M07",
+      "skorochennia": "M07"
+    },
+    {
+      "id": 32,
+      "kalendar": "chinese",
+      "misiats_kod": "8",
+      "misiats_num": 8,
+      "nazva": "M08",
+      "skorochennia": "M08"
+    },
+    {
+      "id": 33,
+      "kalendar": "chinese",
+      "misiats_kod": "9",
+      "misiats_num": 9,
+      "nazva": "M09",
+      "skorochennia": "M09"
+    },
+    {
+      "id": 34,
+      "kalendar": "chinese",
+      "misiats_kod": "10",
+      "misiats_num": 10,
+      "nazva": "M10",
+      "skorochennia": "M10"
+    },
+    {
+      "id": 35,
+      "kalendar": "chinese",
+      "misiats_kod": "11",
+      "misiats_num": 11,
+      "nazva": "M11",
+      "skorochennia": "M11"
+    },
+    {
+      "id": 36,
+      "kalendar": "chinese",
+      "misiats_kod": "12",
+      "misiats_num": 12,
+      "nazva": "M12",
+      "skorochennia": "M12"
+    },
+    {
+      "id": 37,
+      "kalendar": "dangi",
+      "misiats_kod": "1",
+      "misiats_num": 1,
+      "nazva": "M01",
+      "skorochennia": "M01"
+    },
+    {
+      "id": 38,
+      "kalendar": "dangi",
+      "misiats_kod": "2",
+      "misiats_num": 2,
+      "nazva": "M02",
+      "skorochennia": "M02"
+    },
+    {
+      "id": 39,
+      "kalendar": "dangi",
+      "misiats_kod": "3",
+      "misiats_num": 3,
+      "nazva": "M03",
+      "skorochennia": "M03"
+    },
+    {
+      "id": 40,
+      "kalendar": "dangi",
+      "misiats_kod": "4",
+      "misiats_num": 4,
+      "nazva": "M04",
+      "skorochennia": "M04"
+    },
+    {
+      "id": 41,
+      "kalendar": "dangi",
+      "misiats_kod": "5",
+      "misiats_num": 5,
+      "nazva": "M05",
+      "skorochennia": "M05"
+    },
+    {
+      "id": 42,
+      "kalendar": "dangi",
+      "misiats_kod": "6",
+      "misiats_num": 6,
+      "nazva": "M06",
+      "skorochennia": "M06"
+    },
+    {
+      "id": 43,
+      "kalendar": "dangi",
+      "misiats_kod": "7",
+      "misiats_num": 7,
+      "nazva": "M07",
+      "skorochennia": "M07"
+    },
+    {
+      "id": 44,
+      "kalendar": "dangi",
+      "misiats_kod": "8",
+      "misiats_num": 8,
+      "nazva": "M08",
+      "skorochennia": "M08"
+    },
+    {
+      "id": 45,
+      "kalendar": "dangi",
+      "misiats_kod": "9",
+      "misiats_num": 9,
+      "nazva": "M09",
+      "skorochennia": "M09"
+    },
+    {
+      "id": 46,
+      "kalendar": "dangi",
+      "misiats_kod": "10",
+      "misiats_num": 10,
+      "nazva": "M10",
+      "skorochennia": "M10"
+    },
+    {
+      "id": 47,
+      "kalendar": "dangi",
+      "misiats_kod": "11",
+      "misiats_num": 11,
+      "nazva": "M11",
+      "skorochennia": "M11"
+    },
+    {
+      "id": 48,
+      "kalendar": "dangi",
+      "misiats_kod": "12",
+      "misiats_num": 12,
+      "nazva": "M12",
+      "skorochennia": "M12"
+    },
+    {
+      "id": 49,
+      "kalendar": "hebrew",
+      "misiats_kod": "1",
+      "misiats_num": 1,
+      "nazva": "тішри",
+      "skorochennia": "тішри"
+    },
+    {
+      "id": 50,
+      "kalendar": "hebrew",
+      "misiats_kod": "2",
+      "misiats_num": 2,
+      "nazva": "марчешван",
+      "skorochennia": "марчешван"
+    },
+    {
+      "id": 51,
+      "kalendar": "hebrew",
+      "misiats_kod": "3",
+      "misiats_num": 3,
+      "nazva": "числьов",
+      "skorochennia": "числьов"
+    },
+    {
+      "id": 52,
+      "kalendar": "hebrew",
+      "misiats_kod": "4",
+      "misiats_num": 4,
+      "nazva": "тебет",
+      "skorochennia": "тебет"
+    },
+    {
+      "id": 53,
+      "kalendar": "hebrew",
+      "misiats_kod": "5",
+      "misiats_num": 5,
+      "nazva": "шеват",
+      "skorochennia": "шеват"
+    },
+    {
+      "id": 54,
+      "kalendar": "hebrew",
+      "misiats_kod": "6",
+      "misiats_num": 6,
+      "nazva": "адар I",
+      "skorochennia": "адар I"
+    },
+    {
+      "id": 55,
+      "kalendar": "hebrew",
+      "misiats_kod": "7",
+      "misiats_num": 7,
+      "nazva": "адар",
+      "skorochennia": "адар"
+    },
+    {
+      "id": 56,
+      "kalendar": "hebrew",
+      "misiats_kod": "7-yeartype-leap",
+      "misiats_num": "",
+      "nazva": "адар II",
+      "skorochennia": "адар II"
+    },
+    {
+      "id": 57,
+      "kalendar": "hebrew",
+      "misiats_kod": "8",
+      "misiats_num": 8,
+      "nazva": "нісан",
+      "skorochennia": "нісан"
+    },
+    {
+      "id": 58,
+      "kalendar": "hebrew",
+      "misiats_kod": "9",
+      "misiats_num": 9,
+      "nazva": "іар",
+      "skorochennia": "іар"
+    },
+    {
+      "id": 59,
+      "kalendar": "hebrew",
+      "misiats_kod": "10",
+      "misiats_num": 10,
+      "nazva": "сиван",
+      "skorochennia": "сиван"
+    },
+    {
+      "id": 60,
+      "kalendar": "hebrew",
+      "misiats_kod": "11",
+      "misiats_num": 11,
+      "nazva": "таммуз",
+      "skorochennia": "таммуз"
+    },
+    {
+      "id": 61,
+      "kalendar": "hebrew",
+      "misiats_kod": "12",
+      "misiats_num": 12,
+      "nazva": "аб",
+      "skorochennia": "аб"
+    },
+    {
+      "id": 62,
+      "kalendar": "hebrew",
+      "misiats_kod": "13",
+      "misiats_num": 13,
+      "nazva": "елул",
+      "skorochennia": "елул"
+    },
+    {
+      "id": 63,
+      "kalendar": "islamic",
+      "misiats_kod": "1",
+      "misiats_num": 1,
+      "nazva": "мухаррам",
+      "skorochennia": "мух."
+    },
+    {
+      "id": 64,
+      "kalendar": "islamic",
+      "misiats_kod": "2",
+      "misiats_num": 2,
+      "nazva": "сафар",
+      "skorochennia": "саф."
+    },
+    {
+      "id": 65,
+      "kalendar": "islamic",
+      "misiats_kod": "3",
+      "misiats_num": 3,
+      "nazva": "рабі I",
+      "skorochennia": "рабі I"
+    },
+    {
+      "id": 66,
+      "kalendar": "islamic",
+      "misiats_kod": "4",
+      "misiats_num": 4,
+      "nazva": "рабі II",
+      "skorochennia": "рабі II"
+    },
+    {
+      "id": 67,
+      "kalendar": "islamic",
+      "misiats_kod": "5",
+      "misiats_num": 5,
+      "nazva": "джумада I",
+      "skorochennia": "джум. I"
+    },
+    {
+      "id": 68,
+      "kalendar": "islamic",
+      "misiats_kod": "6",
+      "misiats_num": 6,
+      "nazva": "джумада II",
+      "skorochennia": "джум. II"
+    },
+    {
+      "id": 69,
+      "kalendar": "islamic",
+      "misiats_kod": "7",
+      "misiats_num": 7,
+      "nazva": "раджаб",
+      "skorochennia": "радж."
+    },
+    {
+      "id": 70,
+      "kalendar": "islamic",
+      "misiats_kod": "8",
+      "misiats_num": 8,
+      "nazva": "шаабан",
+      "skorochennia": "шааб."
+    },
+    {
+      "id": 71,
+      "kalendar": "islamic",
+      "misiats_kod": "9",
+      "misiats_num": 9,
+      "nazva": "рамадан",
+      "skorochennia": "рам."
+    },
+    {
+      "id": 72,
+      "kalendar": "islamic",
+      "misiats_kod": "10",
+      "misiats_num": 10,
+      "nazva": "даввал",
+      "skorochennia": "дав."
+    },
+    {
+      "id": 73,
+      "kalendar": "islamic",
+      "misiats_kod": "11",
+      "misiats_num": 11,
+      "nazva": "зу-ль-каада",
+      "skorochennia": "зу-ль-к."
+    },
+    {
+      "id": 74,
+      "kalendar": "islamic",
+      "misiats_kod": "12",
+      "misiats_num": 12,
+      "nazva": "зу-ль-хіджа",
+      "skorochennia": "зу-ль-х."
+    }
+  ],
+  "meta": {
+    "title": "Назви місяців за календарем (CLDR українською) - Безкоштовне завантаження",
+    "description": "Назви місяців із шести календарів (григоріанський, буддійський, китайський, дангі, єврейський, ісламський) — у локалі uk у CLDR. Містить 74 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Назви місяців за календарем (CLDR українською) | ListBase",
+    "seo_description": "Завантажити Назви місяців за календарем (CLDR українською) — 74 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 74 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

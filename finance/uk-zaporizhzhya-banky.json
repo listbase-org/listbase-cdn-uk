@@ -1,0 +1,79 @@
+{
+  "id": "uk-zaporizhzhya-banky",
+  "name": "Банки в Запоріжжі — коди SWIFT/BIC (Zaporizhzhia bank SWIFT/BIC codes)",
+  "title": "Банки в Запоріжжі — коди SWIFT/BIC (Zaporizhzhia bank SWIFT/BIC codes)",
+  "description": "Перелік: 4 банківських установ у місті Запоріжжя (Zaporizhzhia) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"ZAPORIZHZHYA\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 87,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "ZAPORIZHZHYA",
+      "branch": "(ZAPORIZHIA BRANCH)",
+      "swift_code": "EXBSUAUXZAP"
+    },
+    {
+      "id": 97,
+      "bank": "JSCB INDUSTRIALBANK UKRAINE",
+      "city": "ZAPORIZHZHYA",
+      "branch": "",
+      "swift_code": "IJSOUA2N"
+    },
+    {
+      "id": 205,
+      "bank": "PJSC 'MOTOR-BANK'",
+      "city": "ZAPORIZHZHYA",
+      "branch": "",
+      "swift_code": "MOOJUA2Z"
+    },
+    {
+      "id": 267,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "ZAPORIZHZHYA",
+      "branch": "(ZAPORIZHZHYA BRANCH)",
+      "swift_code": "OTPVUAU1200"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Запоріжжі — коди SWIFT/BIC (Zaporizhzhia bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 4 банківських установ у місті Запоріжжя (Zaporizhzhia) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"ZAPORIZHZHYA\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Запоріжжі — коди SWIFT/BIC (Zaporizhzhia bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Запоріжжі — коди SWIFT/BIC (Zaporizhzhia bank SWIFT/BIC codes) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

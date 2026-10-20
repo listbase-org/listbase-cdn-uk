@@ -1,0 +1,874 @@
+{
+  "id": "uk-poltavska-hromady",
+  "name": "Територіальні громади Полтавської області",
+  "title": "Територіальні громади Полтавської області",
+  "description": "Список 73 територіальних громад Полтавської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA53020010000035494",
+      "name": "Глобинська міська громада",
+      "name_en": "Hlobynska miska hromada",
+      "slug": "hlobynska-miska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020030000081709",
+      "name": "Горішньоплавнівська міська громада",
+      "name_en": "Horishnoplavnivska miska hromada",
+      "slug": "horishnoplavnivska-miska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020050000041411",
+      "name": "Градизька селищна громада",
+      "name_en": "Hradyzka selyshchna hromada",
+      "slug": "hradyzka-selyshchna-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020070000049284",
+      "name": "Кам'янопотоківська сільська громада",
+      "name_en": "Kamyanopotokivska silska hromada",
+      "slug": "kamyanopotokivska-silska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020090000045206",
+      "name": "Козельщинська селищна громада",
+      "name_en": "Kozelshchynska selyshchna hromada",
+      "slug": "kozelshchynska-selyshchna-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020110000092487",
+      "name": "Кременчуцька міська громада",
+      "name_en": "Kremenchutska miska hromada",
+      "slug": "kremenchutska-miska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020130000091122",
+      "name": "Новогалещинська селищна громада",
+      "name_en": "Novohaleshchynska selyshchna hromada",
+      "slug": "novohaleshchynska-selyshchna-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020150000098867",
+      "name": "Оболонська сільська громада",
+      "name_en": "Obolonska silska hromada",
+      "slug": "obolonska-silska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020170000049108",
+      "name": "Омельницька сільська громада",
+      "name_en": "Omelnytska silska hromada",
+      "slug": "omelnytska-silska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020190000090557",
+      "name": "Піщанська сільська рада",
+      "name_en": "Pishchanska silska rada",
+      "slug": "pishchanska-silska-rada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020190000090557",
+      "name": "Піщанська сільська громада",
+      "name_en": "Pishchanska silska hromada",
+      "slug": "pishchanska-silska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020210000023587",
+      "name": "Пришибська сільська рада (Кременчуцький район)",
+      "name_en": "Pryshybska silska rada (Kremenchutskyi raion)",
+      "slug": "pryshybska-silska-rada-kremenchutskyi-raion",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020210000023587",
+      "name": "Пришибська сільська громада",
+      "name_en": "Pryshybska silska hromada",
+      "slug": "pryshybska-silska-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020230000086353",
+      "name": "Семенівська селищна громада",
+      "name_en": "Semenivska selyshchna hromada",
+      "slug": "semenivska-selyshchna-hromada",
+      "rayon_code": "UA53020000000034761",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040010000091190",
+      "name": "Гребінківська міська громада",
+      "name_en": "Hrebinkivska miska hromada",
+      "slug": "hrebinkivska-miska-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040030000088898",
+      "name": "Лубенська міська громада",
+      "name_en": "Lubenska miska hromada",
+      "slug": "lubenska-miska-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040050000091161",
+      "name": "Новооржицька селищна громада",
+      "name_en": "Novoorzhytska selyshchna hromada",
+      "slug": "novoorzhytska-selyshchna-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040070000083099",
+      "name": "Оржицька селищна громада",
+      "name_en": "Orzhytska selyshchna hromada",
+      "slug": "orzhytska-selyshchna-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040090000048649",
+      "name": "Пирятинська міська громада",
+      "name_en": "Pyriatynska miska hromada",
+      "slug": "pyriatynska-miska-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040110000034949",
+      "name": "Хорольська міська громада",
+      "name_en": "Khorolska miska hromada",
+      "slug": "khorolska-miska-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040130000097690",
+      "name": "Чорнухинська селищна громада",
+      "name_en": "Chornukhynska selyshchna hromada",
+      "slug": "chornukhynska-selyshchna-hromada",
+      "rayon_code": "UA53040000000081308",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060010000060316",
+      "name": "Білоцерківська сільська громада",
+      "name_en": "Bilotserkivska silska hromada",
+      "slug": "bilotserkivska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060030000045288",
+      "name": "Великобагачанська селищна громада",
+      "name_en": "Velykobahachanska selyshchna hromada",
+      "slug": "velykobahachanska-selyshchna-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060050000024229",
+      "name": "Великобудищанська сільська громада",
+      "name_en": "Velykobudyshchanska silska hromada",
+      "slug": "velykobudyshchanska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060070000077527",
+      "name": "Великосорочинська сільська рада",
+      "name_en": "Velykosorochynska silska rada",
+      "slug": "velykosorochynska-silska-rada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060070000077527",
+      "name": "Великосорочинська сільська громада",
+      "name_en": "Velykosorochynska silska hromada",
+      "slug": "velykosorochynska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060090000098426",
+      "name": "Гадяцька міська громада",
+      "name_en": "Hadiatska miska hromada",
+      "slug": "hadiatska-miska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060110000084138",
+      "name": "Гоголівська селищна громада",
+      "name_en": "Hoholivska selyshchna hromada",
+      "slug": "hoholivska-selyshchna-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060130000040567",
+      "name": "Заводська міська громада",
+      "name_en": "Zavodska miska hromada",
+      "slug": "zavodska-miska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060150000093603",
+      "name": "Комишнянська селищна громада",
+      "name_en": "Komyshnianska selyshchna hromada",
+      "slug": "komyshnianska-selyshchna-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060170000064030",
+      "name": "Краснолуцька сільська рада",
+      "name_en": "Krasnolutska silska rada",
+      "slug": "krasnolutska-silska-rada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060170000064030",
+      "name": "Краснолуцька сільська громада",
+      "name_en": "Krasnolutska silska hromada",
+      "slug": "krasnolutska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060190000015369",
+      "name": "Лохвицька міська громада",
+      "name_en": "Lokhvytska miska hromada",
+      "slug": "lokhvytska-miska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060210000044776",
+      "name": "Лютенська сільська громада",
+      "name_en": "Liutenska silska hromada",
+      "slug": "liutenska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060230000098362",
+      "name": "Миргородська міська громада",
+      "name_en": "Myrhorodska miska hromada",
+      "slug": "myrhorodska-miska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060250000043118",
+      "name": "Петрівсько-Роменська сільська громада",
+      "name_en": "Petrivsko-Romenska silska hromada",
+      "slug": "petrivsko-romenska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060270000016329",
+      "name": "Ромоданівська селищна громада",
+      "name_en": "Romodanivska selyshchna hromada",
+      "slug": "romodanivska-selyshchna-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060290000047345",
+      "name": "Сенчанська сільська рада",
+      "name_en": "Senchanska silska rada",
+      "slug": "senchanska-silska-rada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060290000047345",
+      "name": "Сенчанська сільська громада",
+      "name_en": "Senchanska silska hromada",
+      "slug": "senchanska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060310000047988",
+      "name": "Сергіївська сільська громада",
+      "name_en": "Serhiivska silska hromada",
+      "slug": "serhiivska-silska-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060330000036503",
+      "name": "Шишацька селищна громада",
+      "name_en": "Shyshatska selyshchna hromada",
+      "slug": "shyshatska-selyshchna-hromada",
+      "rayon_code": "UA53060000000045271",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080010000088479",
+      "name": "Білицька селищна громада",
+      "name_en": "Bilytska selyshchna hromada",
+      "slug": "bilytska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080030000061078",
+      "name": "Великорублівська сільська рада",
+      "name_en": "Velykorublivska silska rada",
+      "slug": "velykorublivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080030000061078",
+      "name": "Великорублівська сільська громада",
+      "name_en": "Velykorublivska silska hromada",
+      "slug": "velykorublivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080050000011754",
+      "name": "Диканська селищна громада",
+      "name_en": "Dykanska selyshchna hromada",
+      "slug": "dykanska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080070000036333",
+      "name": "Драбинівська сільська рада",
+      "name_en": "Drabynivska silska rada",
+      "slug": "drabynivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080070000036333",
+      "name": "Драбинівська сільська громада",
+      "name_en": "Drabynivska silska hromada",
+      "slug": "drabynivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080090000014431",
+      "name": "Зіньківська міська громада",
+      "name_en": "Zinkivska miska hromada",
+      "slug": "zinkivska-miska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080110000062015",
+      "name": "Карлівська міська громада",
+      "name_en": "Karlivska miska hromada",
+      "slug": "karlivska-miska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080130000014699",
+      "name": "Кобеляцька міська громада",
+      "name_en": "Kobeliatska miska hromada",
+      "slug": "kobeliatska-miska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080150000085889",
+      "name": "Куликівська сільська рада",
+      "name_en": "Kulykivska silska rada",
+      "slug": "kulykivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080150000085889",
+      "name": "Коломацька сільська громада",
+      "name_en": "Kolomatska silska hromada",
+      "slug": "kolomatska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080170000047487",
+      "name": "Котелевська селищна громада",
+      "name_en": "Kotelevska selyshchna hromada",
+      "slug": "kotelevska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080190000081150",
+      "name": "Ланнівська сільська рада",
+      "name_en": "Lannivska silska rada",
+      "slug": "lannivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080190000081150",
+      "name": "Ланнівська селищна громада",
+      "name_en": "Lannivska selyshchna hromada",
+      "slug": "lannivska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080210000072644",
+      "name": "Мартинівська сільська рада",
+      "name_en": "Martynivska silska rada",
+      "slug": "martynivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080210000072644",
+      "name": "Мартинівська сільська громада",
+      "name_en": "Martynivska silska hromada",
+      "slug": "martynivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080230000047239",
+      "name": "Мачухівська сільська громада",
+      "name_en": "Machukhivska silska hromada",
+      "slug": "machukhivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080250000097618",
+      "name": "Машівська селищна громада",
+      "name_en": "Mashivska selyshchna hromada",
+      "slug": "mashivska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080270000062586",
+      "name": "Михайлівська сільська громада",
+      "name_en": "Mykhailivska silska hromada",
+      "slug": "mykhailivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080290000024637",
+      "name": "Нехворощанська сільська рада",
+      "name_en": "Nekhvoroshchanska silska rada",
+      "slug": "nekhvoroshchanska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080290000024637",
+      "name": "Нехворощанська сільська громада",
+      "name_en": "Nekhvoroshchanska silska hromada",
+      "slug": "nekhvoroshchanska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080310000072384",
+      "name": "Новосанжарська селищна громада",
+      "name_en": "Novosanzharska selyshchna hromada",
+      "slug": "novosanzharska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080330000062155",
+      "name": "Новоселівська сільська громада",
+      "name_en": "Novoselivska silska hromada",
+      "slug": "novoselivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080350000070563",
+      "name": "Опішнянська селищна громада",
+      "name_en": "Opishnianska selyshchna hromada",
+      "slug": "opishnianska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080370000025447",
+      "name": "Полтавська міська громада",
+      "name_en": "Poltavska miska hromada",
+      "slug": "poltavska-miska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080390000027656",
+      "name": "Решетилівська міська громада",
+      "name_en": "Reshetylivska miska hromada",
+      "slug": "reshetylivska-miska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080410000094938",
+      "name": "Скороходівська селищна громада",
+      "name_en": "Skorokhodivska selyshchna hromada",
+      "slug": "skorokhodivska-selyshchna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080430000085474",
+      "name": "Терешківська сільська рада",
+      "name_en": "Tereshkivska silska rada",
+      "slug": "tereshkivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080430000085474",
+      "name": "Терешківська сільська громада",
+      "name_en": "Tereshkivska silska hromada",
+      "slug": "tereshkivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080450000087891",
+      "name": "Чутівська територіальна громада",
+      "name_en": "Chutivska terytorialna hromada",
+      "slug": "chutivska-terytorialna-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080470000053547",
+      "name": "Щербанівська сільська рада",
+      "name_en": "Shcherbanivska silska rada",
+      "slug": "shcherbanivska-silska-rada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080470000053547",
+      "name": "Щербанівська сільська громада",
+      "name_en": "Shcherbanivska silska hromada",
+      "slug": "shcherbanivska-silska-hromada",
+      "rayon_code": "UA53080000000068029",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Полтавської області - Безкоштовне завантаження",
+    "description": "Список 73 територіальних громад Полтавської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 73 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Полтавської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Полтавської області — 73 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 73 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

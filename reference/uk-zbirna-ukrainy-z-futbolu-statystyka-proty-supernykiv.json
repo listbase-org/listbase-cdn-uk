@@ -1,0 +1,874 @@
+{
+  "id": "uk-zbirna-ukrainy-z-futbolu-statystyka-proty-supernykiv",
+  "name": "Збірна України з футболу — статистика проти кожного суперника (73)",
+  "title": "Збірна України з футболу — статистика проти кожного суперника (73)",
+  "description": "Збірна України з футболу: Загальна статистика проти кожного суперника, обчислена з усіх матчів у results.csv: матчі, перемоги, нічиї, поразки, забиті та пропущені голи, перший і останній матч. Результат за остаточним рахунком (без серії пенальті). Відсортовано за кількістю матчів.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "supernyk",
+      "label": "Supernyk",
+      "type": "string"
+    },
+    {
+      "key": "matchi",
+      "label": "Matchi",
+      "type": "number"
+    },
+    {
+      "key": "peremohy",
+      "label": "Peremohy",
+      "type": "number"
+    },
+    {
+      "key": "nichyi",
+      "label": "Nichyi",
+      "type": "number"
+    },
+    {
+      "key": "porazky",
+      "label": "Porazky",
+      "type": "number"
+    },
+    {
+      "key": "zabyti_haly",
+      "label": "Zabyti Haly",
+      "type": "number"
+    },
+    {
+      "key": "propushcheni_haly",
+      "label": "Propushcheni Haly",
+      "type": "number"
+    },
+    {
+      "key": "pershyi_match",
+      "label": "Pershyi Match",
+      "type": "date"
+    },
+    {
+      "key": "ostannii_match",
+      "label": "Ostannii Match",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "supernyk": "France",
+      "matchi": 14,
+      "peremohy": 1,
+      "nichyi": 5,
+      "porazky": 8,
+      "zabyti_haly": 8,
+      "propushcheni_haly": 29,
+      "pershyi_match": "1999-03-27",
+      "ostannii_match": "2025-11-13"
+    },
+    {
+      "supernyk": "Belarus",
+      "matchi": 11,
+      "peremohy": 6,
+      "nichyi": 4,
+      "porazky": 1,
+      "zabyti_haly": 18,
+      "propushcheni_haly": 7,
+      "pershyi_match": "1928-08-19",
+      "ostannii_match": "2015-09-05"
+    },
+    {
+      "supernyk": "Georgia",
+      "matchi": 11,
+      "peremohy": 7,
+      "nichyi": 4,
+      "porazky": 0,
+      "zabyti_haly": 18,
+      "propushcheni_haly": 7,
+      "pershyi_match": "1998-08-19",
+      "ostannii_match": "2024-11-16"
+    },
+    {
+      "supernyk": "Lithuania",
+      "matchi": 11,
+      "peremohy": 8,
+      "nichyi": 1,
+      "porazky": 2,
+      "zabyti_haly": 22,
+      "propushcheni_haly": 8,
+      "pershyi_match": "1979-07-28",
+      "ostannii_match": "2019-10-11"
+    },
+    {
+      "supernyk": "Poland",
+      "matchi": 11,
+      "peremohy": 4,
+      "nichyi": 2,
+      "porazky": 5,
+      "zabyti_haly": 12,
+      "propushcheni_haly": 14,
+      "pershyi_match": "1998-07-15",
+      "ostannii_match": "2026-05-31"
+    },
+    {
+      "supernyk": "Armenia",
+      "matchi": 10,
+      "peremohy": 7,
+      "nichyi": 3,
+      "porazky": 0,
+      "zabyti_haly": 25,
+      "propushcheni_haly": 8,
+      "pershyi_match": "1997-05-07",
+      "ostannii_match": "2022-09-24"
+    },
+    {
+      "supernyk": "England",
+      "matchi": 10,
+      "peremohy": 1,
+      "nichyi": 3,
+      "porazky": 6,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 16,
+      "pershyi_match": "2000-05-31",
+      "ostannii_match": "2023-09-09"
+    },
+    {
+      "supernyk": "Germany",
+      "matchi": 10,
+      "peremohy": 0,
+      "nichyi": 5,
+      "porazky": 5,
+      "zabyti_haly": 10,
+      "propushcheni_haly": 20,
+      "pershyi_match": "1997-04-30",
+      "ostannii_match": "2024-06-03"
+    },
+    {
+      "supernyk": "Italy",
+      "matchi": 10,
+      "peremohy": 0,
+      "nichyi": 3,
+      "porazky": 7,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 17,
+      "pershyi_match": "1995-03-29",
+      "ostannii_match": "2023-11-20"
+    },
+    {
+      "supernyk": "Albania",
+      "matchi": 9,
+      "peremohy": 7,
+      "nichyi": 1,
+      "porazky": 1,
+      "zabyti_haly": 17,
+      "propushcheni_haly": 7,
+      "pershyi_match": "1997-03-29",
+      "ostannii_match": "2026-03-31"
+    },
+    {
+      "supernyk": "Croatia",
+      "matchi": 9,
+      "peremohy": 1,
+      "nichyi": 3,
+      "porazky": 5,
+      "zabyti_haly": 5,
+      "propushcheni_haly": 15,
+      "pershyi_match": "1993-06-25",
+      "ostannii_match": "2017-10-09"
+    },
+    {
+      "supernyk": "Slovakia",
+      "matchi": 9,
+      "peremohy": 4,
+      "nichyi": 3,
+      "porazky": 2,
+      "zabyti_haly": 11,
+      "propushcheni_haly": 11,
+      "pershyi_match": "2002-11-20",
+      "ostannii_match": "2024-06-21"
+    },
+    {
+      "supernyk": "Turkey",
+      "matchi": 9,
+      "peremohy": 2,
+      "nichyi": 3,
+      "porazky": 4,
+      "zabyti_haly": 9,
+      "propushcheni_haly": 11,
+      "pershyi_match": "1996-05-01",
+      "ostannii_match": "2018-11-20"
+    },
+    {
+      "supernyk": "Czech Republic",
+      "matchi": 7,
+      "peremohy": 2,
+      "nichyi": 3,
+      "porazky": 2,
+      "zabyti_haly": 7,
+      "propushcheni_haly": 10,
+      "pershyi_match": "2011-09-06",
+      "ostannii_match": "2024-10-14"
+    },
+    {
+      "supernyk": "Iceland",
+      "matchi": 7,
+      "peremohy": 4,
+      "nichyi": 2,
+      "porazky": 1,
+      "zabyti_haly": 12,
+      "propushcheni_haly": 8,
+      "pershyi_match": "1999-03-31",
+      "ostannii_match": "2025-11-16"
+    },
+    {
+      "supernyk": "North Macedonia",
+      "matchi": 7,
+      "peremohy": 5,
+      "nichyi": 1,
+      "porazky": 1,
+      "zabyti_haly": 10,
+      "propushcheni_haly": 4,
+      "pershyi_match": "2003-10-11",
+      "ostannii_match": "2023-10-14"
+    },
+    {
+      "supernyk": "Romania",
+      "matchi": 7,
+      "peremohy": 2,
+      "nichyi": 1,
+      "porazky": 4,
+      "zabyti_haly": 10,
+      "propushcheni_haly": 17,
+      "pershyi_match": "2001-02-26",
+      "ostannii_match": "2024-06-17"
+    },
+    {
+      "supernyk": "Serbia",
+      "matchi": 7,
+      "peremohy": 6,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 16,
+      "propushcheni_haly": 3,
+      "pershyi_match": "2002-05-17",
+      "ostannii_match": "2019-11-17"
+    },
+    {
+      "supernyk": "Spain",
+      "matchi": 7,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 5,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 14,
+      "pershyi_match": "2003-03-29",
+      "ostannii_match": "2020-10-13"
+    },
+    {
+      "supernyk": "Bulgaria",
+      "matchi": 6,
+      "peremohy": 3,
+      "nichyi": 3,
+      "porazky": 0,
+      "zabyti_haly": 8,
+      "propushcheni_haly": 3,
+      "pershyi_match": "1994-06-03",
+      "ostannii_match": "2021-11-11"
+    },
+    {
+      "supernyk": "Greece",
+      "matchi": 6,
+      "peremohy": 2,
+      "nichyi": 2,
+      "porazky": 2,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 3,
+      "pershyi_match": "2002-10-12",
+      "ostannii_match": "2009-11-18"
+    },
+    {
+      "supernyk": "Israel",
+      "matchi": 6,
+      "peremohy": 2,
+      "nichyi": 3,
+      "porazky": 1,
+      "zabyti_haly": 7,
+      "propushcheni_haly": 5,
+      "pershyi_match": "1993-04-27",
+      "ostannii_match": "2013-08-14"
+    },
+    {
+      "supernyk": "Kazakhstan",
+      "matchi": 6,
+      "peremohy": 4,
+      "nichyi": 2,
+      "porazky": 0,
+      "zabyti_haly": 12,
+      "propushcheni_haly": 6,
+      "pershyi_match": "2004-09-08",
+      "ostannii_match": "2021-09-01"
+    },
+    {
+      "supernyk": "Northern Ireland",
+      "matchi": 6,
+      "peremohy": 3,
+      "nichyi": 2,
+      "porazky": 1,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 3,
+      "pershyi_match": "1996-08-31",
+      "ostannii_match": "2021-06-03"
+    },
+    {
+      "supernyk": "Slovenia",
+      "matchi": 6,
+      "peremohy": 1,
+      "nichyi": 3,
+      "porazky": 2,
+      "zabyti_haly": 7,
+      "propushcheni_haly": 7,
+      "pershyi_match": "1994-10-12",
+      "ostannii_match": "2015-11-17"
+    },
+    {
+      "supernyk": "Sweden",
+      "matchi": 6,
+      "peremohy": 3,
+      "nichyi": 1,
+      "porazky": 2,
+      "zabyti_haly": 7,
+      "propushcheni_haly": 7,
+      "pershyi_match": "2008-06-01",
+      "ostannii_match": "2026-03-26"
+    },
+    {
+      "supernyk": "Estonia",
+      "matchi": 5,
+      "peremohy": 5,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 11,
+      "propushcheni_haly": 0,
+      "pershyi_match": "1994-11-13",
+      "ostannii_match": "2019-11-14"
+    },
+    {
+      "supernyk": "Luxembourg",
+      "matchi": 5,
+      "peremohy": 5,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 12,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2006-06-08",
+      "ostannii_match": "2019-06-10"
+    },
+    {
+      "supernyk": "Moldova",
+      "matchi": 5,
+      "peremohy": 3,
+      "nichyi": 2,
+      "porazky": 0,
+      "zabyti_haly": 9,
+      "propushcheni_haly": 3,
+      "pershyi_match": "1996-04-09",
+      "ostannii_match": "2024-06-11"
+    },
+    {
+      "supernyk": "Norway",
+      "matchi": 5,
+      "peremohy": 4,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 5,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2000-10-11",
+      "ostannii_match": "2013-02-06"
+    },
+    {
+      "supernyk": "Scotland",
+      "matchi": 5,
+      "peremohy": 2,
+      "nichyi": 1,
+      "porazky": 2,
+      "zabyti_haly": 6,
+      "propushcheni_haly": 7,
+      "pershyi_match": "2006-10-11",
+      "ostannii_match": "2022-09-27"
+    },
+    {
+      "supernyk": "Andorra",
+      "matchi": 4,
+      "peremohy": 4,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 17,
+      "propushcheni_haly": 0,
+      "pershyi_match": "1998-10-10",
+      "ostannii_match": "2009-10-14"
+    },
+    {
+      "supernyk": "Azerbaijan",
+      "matchi": 4,
+      "peremohy": 2,
+      "nichyi": 2,
+      "porazky": 0,
+      "zabyti_haly": 9,
+      "propushcheni_haly": 2,
+      "pershyi_match": "2006-02-28",
+      "ostannii_match": "2025-10-13"
+    },
+    {
+      "supernyk": "Cyprus",
+      "matchi": 4,
+      "peremohy": 2,
+      "nichyi": 1,
+      "porazky": 1,
+      "zabyti_haly": 9,
+      "propushcheni_haly": 5,
+      "pershyi_match": "2001-02-28",
+      "ostannii_match": "2021-06-07"
+    },
+    {
+      "supernyk": "Denmark",
+      "matchi": 4,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 2,
+      "zabyti_haly": 3,
+      "propushcheni_haly": 4,
+      "pershyi_match": "2003-04-30",
+      "ostannii_match": "2026-06-07"
+    },
+    {
+      "supernyk": "Finland",
+      "matchi": 4,
+      "peremohy": 3,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 6,
+      "propushcheni_haly": 3,
+      "pershyi_match": "2016-11-12",
+      "ostannii_match": "2021-10-09"
+    },
+    {
+      "supernyk": "Portugal",
+      "matchi": 4,
+      "peremohy": 2,
+      "nichyi": 1,
+      "porazky": 1,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 3,
+      "pershyi_match": "1996-10-05",
+      "ostannii_match": "2019-10-14"
+    },
+    {
+      "supernyk": "Switzerland",
+      "matchi": 4,
+      "peremohy": 1,
+      "nichyi": 2,
+      "porazky": 1,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 6,
+      "pershyi_match": "2006-06-26",
+      "ostannii_match": "2020-11-17"
+    },
+    {
+      "supernyk": "United States",
+      "matchi": 4,
+      "peremohy": 3,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 5,
+      "propushcheni_haly": 1,
+      "pershyi_match": "1992-06-27",
+      "ostannii_match": "2014-03-05"
+    },
+    {
+      "supernyk": "Wales",
+      "matchi": 4,
+      "peremohy": 1,
+      "nichyi": 2,
+      "porazky": 1,
+      "zabyti_haly": 3,
+      "propushcheni_haly": 3,
+      "pershyi_match": "2001-03-28",
+      "ostannii_match": "2022-06-05"
+    },
+    {
+      "supernyk": "Austria",
+      "matchi": 3,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 2,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 5,
+      "pershyi_match": "2011-11-15",
+      "ostannii_match": "2021-06-21"
+    },
+    {
+      "supernyk": "Belgium",
+      "matchi": 3,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 1,
+      "zabyti_haly": 3,
+      "propushcheni_haly": 4,
+      "pershyi_match": "2024-06-26",
+      "ostannii_match": "2025-03-23"
+    },
+    {
+      "supernyk": "Bosnia and Herzegovina",
+      "matchi": 3,
+      "peremohy": 2,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 5,
+      "propushcheni_haly": 2,
+      "pershyi_match": "2021-10-12",
+      "ostannii_match": "2024-03-21"
+    },
+    {
+      "supernyk": "Japan",
+      "matchi": 3,
+      "peremohy": 2,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 3,
+      "propushcheni_haly": 2,
+      "pershyi_match": "2002-03-21",
+      "ostannii_match": "2018-03-27"
+    },
+    {
+      "supernyk": "Latvia",
+      "matchi": 3,
+      "peremohy": 2,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 3,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2001-08-15",
+      "ostannii_match": "2015-03-31"
+    },
+    {
+      "supernyk": "Malta",
+      "matchi": 3,
+      "peremohy": 2,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 2,
+      "pershyi_match": "2017-06-06",
+      "ostannii_match": "2023-10-17"
+    },
+    {
+      "supernyk": "Netherlands",
+      "matchi": 3,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 2,
+      "zabyti_haly": 3,
+      "propushcheni_haly": 7,
+      "pershyi_match": "2008-05-24",
+      "ostannii_match": "2021-06-13"
+    },
+    {
+      "supernyk": "Canada",
+      "matchi": 2,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 1,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 6,
+      "pershyi_match": "2010-10-08",
+      "ostannii_match": "2025-06-07"
+    },
+    {
+      "supernyk": "Faroe Islands",
+      "matchi": 2,
+      "peremohy": 2,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 7,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2007-03-24",
+      "ostannii_match": "2007-10-17"
+    },
+    {
+      "supernyk": "Hungary",
+      "matchi": 2,
+      "peremohy": 0,
+      "nichyi": 0,
+      "porazky": 2,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 5,
+      "pershyi_match": "1992-04-29",
+      "ostannii_match": "1992-08-26"
+    },
+    {
+      "supernyk": "Kosovo",
+      "matchi": 2,
+      "peremohy": 2,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 5,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2016-10-09",
+      "ostannii_match": "2017-10-06"
+    },
+    {
+      "supernyk": "Libya",
+      "matchi": 2,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2004-02-18",
+      "ostannii_match": "2006-06-05"
+    },
+    {
+      "supernyk": "Montenegro",
+      "matchi": 2,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2012-10-16",
+      "ostannii_match": "2013-06-07"
+    },
+    {
+      "supernyk": "Republic of Ireland",
+      "matchi": 2,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2022-06-08",
+      "ostannii_match": "2022-06-14"
+    },
+    {
+      "supernyk": "Russia",
+      "matchi": 2,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 3,
+      "pershyi_match": "1998-09-05",
+      "ostannii_match": "1999-10-09"
+    },
+    {
+      "supernyk": "San Marino",
+      "matchi": 2,
+      "peremohy": 2,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 17,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2013-09-06",
+      "ostannii_match": "2013-10-15"
+    },
+    {
+      "supernyk": "Saudi Arabia",
+      "matchi": 2,
+      "peremohy": 1,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 5,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2006-06-19",
+      "ostannii_match": "2018-03-23"
+    },
+    {
+      "supernyk": "South Korea",
+      "matchi": 2,
+      "peremohy": 0,
+      "nichyi": 0,
+      "porazky": 2,
+      "zabyti_haly": 0,
+      "propushcheni_haly": 3,
+      "pershyi_match": "1994-09-11",
+      "ostannii_match": "1994-09-13"
+    },
+    {
+      "supernyk": "Uzbekistan",
+      "matchi": 2,
+      "peremohy": 2,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2007-08-22",
+      "ostannii_match": "2011-06-01"
+    },
+    {
+      "supernyk": "Bahrain",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 1,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2021-05-23",
+      "ostannii_match": "2021-05-23"
+    },
+    {
+      "supernyk": "Brazil",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 0,
+      "propushcheni_haly": 2,
+      "pershyi_match": "2010-10-11",
+      "ostannii_match": "2010-10-11"
+    },
+    {
+      "supernyk": "Cameroon",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 0,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2013-06-02",
+      "ostannii_match": "2013-06-02"
+    },
+    {
+      "supernyk": "Chile",
+      "matchi": 1,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2010-09-07",
+      "ostannii_match": "2010-09-07"
+    },
+    {
+      "supernyk": "Costa Rica",
+      "matchi": 1,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 4,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2006-05-28",
+      "ostannii_match": "2006-05-28"
+    },
+    {
+      "supernyk": "Iran",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 0,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2002-08-21",
+      "ostannii_match": "2002-08-21"
+    },
+    {
+      "supernyk": "Mexico",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 1,
+      "propushcheni_haly": 2,
+      "pershyi_match": "1993-10-20",
+      "ostannii_match": "1993-10-20"
+    },
+    {
+      "supernyk": "Morocco",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 0,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2018-05-31",
+      "ostannii_match": "2018-05-31"
+    },
+    {
+      "supernyk": "New Zealand",
+      "matchi": 1,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2025-06-10",
+      "ostannii_match": "2025-06-10"
+    },
+    {
+      "supernyk": "Niger",
+      "matchi": 1,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 1,
+      "pershyi_match": "2014-05-22",
+      "ostannii_match": "2014-05-22"
+    },
+    {
+      "supernyk": "Nigeria",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 2,
+      "pershyi_match": "2019-09-10",
+      "ostannii_match": "2019-09-10"
+    },
+    {
+      "supernyk": "Tunisia",
+      "matchi": 1,
+      "peremohy": 1,
+      "nichyi": 0,
+      "porazky": 0,
+      "zabyti_haly": 1,
+      "propushcheni_haly": 0,
+      "pershyi_match": "2006-06-23",
+      "ostannii_match": "2006-06-23"
+    },
+    {
+      "supernyk": "United Arab Emirates",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 1,
+      "porazky": 0,
+      "zabyti_haly": 1,
+      "propushcheni_haly": 1,
+      "pershyi_match": "1994-08-26",
+      "ostannii_match": "1994-08-26"
+    },
+    {
+      "supernyk": "Uruguay",
+      "matchi": 1,
+      "peremohy": 0,
+      "nichyi": 0,
+      "porazky": 1,
+      "zabyti_haly": 2,
+      "propushcheni_haly": 3,
+      "pershyi_match": "2011-09-02",
+      "ostannii_match": "2011-09-02"
+    }
+  ],
+  "meta": {
+    "title": "Збірна України з футболу — статистика проти кожного суперника (73) - Безкоштовне завантаження",
+    "description": "Збірна України з футболу: Загальна статистика проти кожного суперника, обчислена з усіх матчів у results.csv: матчі, перемоги, нічиї, поразки, забиті та пропущені голи, перший і останній матч. Результат за остаточним рахунком (без серії пенальті). Відсортовано за кількістю матчів. Містить 73 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Збірна України з футболу — статистика проти кожного суперника (73) | ListBase",
+    "seo_description": "Завантажити Збірна України з футболу — статистика проти кожного суперника (73) — 73 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 73 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

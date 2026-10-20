@@ -1,0 +1,316 @@
+{
+  "id": "uk-azs-shell",
+  "name": "Україна — АЗС Shell",
+  "title": "Україна — АЗС Shell",
+  "description": "Автозаправні станції мережі Shell в Україні (20 записів) з публічного API-локатора оператора. Поля: бренд, назва/код, адреса, населений пункт, область (де визначено), координати WGS84, телефон, ідентифікатор станції.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "brand",
+      "label": "Brand",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "brand": "Shell",
+      "name": "SOKOLNIKI RIGHT",
+      "address": "LVOV CITY, SOKOLNIK VILLAGE, RIGHT",
+      "city": "Lvov",
+      "oblast": "",
+      "lat": 49.788576,
+      "lon": 23.944889,
+      "phone": "+380 67 224 3048",
+      "source_id": "10057921"
+    },
+    {
+      "id": 2,
+      "brand": "Shell",
+      "name": "LVOV, SHEVCHENKA",
+      "address": "LVOV CITY, ST. T. SHEVCHENKA, 186B",
+      "city": "Lvov",
+      "oblast": "",
+      "lat": 49.855885,
+      "lon": 23.981401,
+      "phone": "+380 67 214 4651",
+      "source_id": "10071463"
+    },
+    {
+      "id": 3,
+      "brand": "Shell",
+      "name": "PASIKY-ZUBRITSKIE",
+      "address": "LVIV REGION, DOROZHNA, 56",
+      "city": "Pasiky-Zybritskie",
+      "oblast": "",
+      "lat": 49.779356,
+      "lon": 24.093422,
+      "phone": "+380 67 214 4656",
+      "source_id": "10087106"
+    },
+    {
+      "id": 4,
+      "brand": "Shell",
+      "name": "DEREVACH",
+      "address": "LVIV REGION, STRYISKA STR., 55",
+      "city": "Lvov",
+      "oblast": "",
+      "lat": 49.655695,
+      "lon": 24.000585,
+      "phone": "+380 67 238 0236",
+      "source_id": "10061042"
+    },
+    {
+      "id": 5,
+      "brand": "Shell",
+      "name": "GRIBOVICHI",
+      "address": "LVIV DISTRICT, ST. LVIVSKA, 6",
+      "city": "Veliki Gribovichi",
+      "oblast": "",
+      "lat": 49.908296,
+      "lon": 24.055192,
+      "phone": "+380 67 214 4624",
+      "source_id": "10058174"
+    },
+    {
+      "id": 6,
+      "brand": "Shell",
+      "name": "RAKOVETS",
+      "address": "KYIV-CHOP ROAD, 560+380 KM (LEFT)",
+      "city": "Rakovets",
+      "oblast": "",
+      "lat": 49.653313,
+      "lon": 24.001357,
+      "phone": "+380 67 214 4639",
+      "source_id": "10071465"
+    },
+    {
+      "id": 7,
+      "brand": "Shell",
+      "name": "MUROVANE",
+      "address": "LVIV REG, MUROVANE VILLLAGE",
+      "city": "Lvov",
+      "oblast": "",
+      "lat": 49.89155,
+      "lon": 24.103958,
+      "phone": "+380 67 320 5563",
+      "source_id": "10061041"
+    },
+    {
+      "id": 8,
+      "brand": "Shell",
+      "name": "KAMYANOPOL",
+      "address": "LVOV CITY, CIRCLE ROAD",
+      "city": "Lvov",
+      "oblast": "",
+      "lat": 49.86606,
+      "lon": 24.168265,
+      "phone": "+380 67 320 6906",
+      "source_id": "10057923"
+    },
+    {
+      "id": 9,
+      "brand": "Shell",
+      "name": "CHIZHIKIV",
+      "address": "LVIV REGION, OSTRIVSKA STR., 1A",
+      "city": "Chizhikiv",
+      "oblast": "",
+      "lat": 49.796171,
+      "lon": 24.268246,
+      "phone": "+380 67 320 5484",
+      "source_id": "10078499"
+    },
+    {
+      "id": 10,
+      "brand": "Shell",
+      "name": "KRAKOVETS",
+      "address": "HW LVIV-KRAKIVETS 65 km 980 m",
+      "city": "Krakovets",
+      "oblast": "",
+      "lat": 49.947309,
+      "lon": 23.173804,
+      "phone": "+380 67 467 1368",
+      "source_id": "10090031"
+    },
+    {
+      "id": 11,
+      "brand": "Shell",
+      "name": "BUGAJOVKA",
+      "address": "Radivilov Dst, Kyivska, 10",
+      "city": "Bugayovka",
+      "oblast": "",
+      "lat": 50.154568,
+      "lon": 25.243783,
+      "phone": "+380 67 224 2693",
+      "source_id": "10057910"
+    },
+    {
+      "id": 12,
+      "brand": "Shell",
+      "name": "MIKHAJLOVKA",
+      "address": "Radivilov Dst, St. Kyivska, 2A",
+      "city": "Mikhaylovka",
+      "oblast": "",
+      "lat": 50.164001,
+      "lon": 25.369915,
+      "phone": "+380 67 219 0899",
+      "source_id": "10057909"
+    },
+    {
+      "id": 13,
+      "brand": "Shell",
+      "name": "IVANO-FRNKOVSK",
+      "address": "NADVORYANSKAYA STR., 86",
+      "city": "Cherneev",
+      "oblast": "",
+      "lat": 48.848031,
+      "lon": 24.705676,
+      "phone": "+380 67 214 4658",
+      "source_id": "10090713"
+    },
+    {
+      "id": 14,
+      "brand": "Shell",
+      "name": "BUDNOGO",
+      "address": "S. BUDNOGO STR., 36A",
+      "city": "Ternopil",
+      "oblast": "",
+      "lat": 49.5441,
+      "lon": 25.550567,
+      "phone": "+380 67 214 5691",
+      "source_id": "10078500"
+    },
+    {
+      "id": 15,
+      "brand": "Shell",
+      "name": "TERNOPІL' 2",
+      "address": "STR. MYKULYNETSKA, 46",
+      "city": "Ternopil",
+      "oblast": "",
+      "lat": 49.526205,
+      "lon": 25.604464,
+      "phone": "+380 67 214 5963",
+      "source_id": "10090991"
+    },
+    {
+      "id": 16,
+      "brand": "Shell",
+      "name": "LUTSK",
+      "address": "RIVNENSKA STR., 98",
+      "city": "Lutsk",
+      "oblast": "",
+      "lat": 50.744209,
+      "lon": 25.385671,
+      "phone": "+380 67 214 4855",
+      "source_id": "10089596"
+    },
+    {
+      "id": 17,
+      "brand": "Shell",
+      "name": "LUBOMIL",
+      "address": "Volyn, Kyiv-Yagodyn HW, 497 km 300m",
+      "city": "Lubomil",
+      "oblast": "",
+      "lat": 51.204898,
+      "lon": 23.918262,
+      "phone": "+380 67 214 4771",
+      "source_id": "10058173"
+    },
+    {
+      "id": 18,
+      "brand": "Shell",
+      "name": "MASARYKA",
+      "address": "MASARYKA STR., 3",
+      "city": "Mukachevo",
+      "oblast": "",
+      "lat": 48.440215,
+      "lon": 22.739599,
+      "phone": "+380 67 214 4709",
+      "source_id": "10089598"
+    },
+    {
+      "id": 19,
+      "brand": "Shell",
+      "name": "MUKACHEVO",
+      "address": "AVTOMOBILISTIV STR, 1",
+      "city": "Klyachanovo",
+      "oblast": "",
+      "lat": 48.450335,
+      "lon": 22.686597,
+      "phone": "+380 67 214 4661",
+      "source_id": "10057925"
+    },
+    {
+      "id": 20,
+      "brand": "Shell",
+      "name": "BARANINCI",
+      "address": "ZAKARPATTIA REG, BARANINCI VILLAGE",
+      "city": "Baraninci",
+      "oblast": "",
+      "lat": 48.589206,
+      "lon": 22.329122,
+      "phone": "+380 67 405 4952",
+      "source_id": "10084728"
+    }
+  ],
+  "meta": {
+    "title": "Україна — АЗС Shell - Безкоштовне завантаження",
+    "description": "Автозаправні станції мережі Shell в Україні (20 записів) з публічного API-локатора оператора. Поля: бренд, назва/код, адреса, населений пункт, область (де визначено), координати WGS84, телефон, ідентифікатор станції. Містить 20 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Україна — АЗС Shell | ListBase",
+    "seo_description": "Завантажити Україна — АЗС Shell — 20 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 20 записів / 10 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

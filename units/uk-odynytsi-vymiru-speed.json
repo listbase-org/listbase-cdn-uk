@@ -1,0 +1,115 @@
+{
+  "id": "uk-odynytsi-vymiru-speed",
+  "name": "Одиниці вимірювання — категорія 'speed' (6)",
+  "title": "Одиниці вимірювання — категорія 'speed' (6)",
+  "description": "Одиниці вимірювання категорії 'speed' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "katehoriia": "speed",
+      "nazva": "бали за шкалою Бофорта",
+      "skorochennia": "бали Бофорта",
+      "vuzka_forma": "бали",
+      "vzirets": "{0} бала за шкалою Бофорта"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "katehoriia": "speed",
+      "nazva": "кілометри за годину",
+      "skorochennia": "км/годину",
+      "vuzka_forma": "км/год",
+      "vzirets": "{0} кілометра за годину"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "katehoriia": "speed",
+      "nazva": "вузли",
+      "skorochennia": "вуз.",
+      "vuzka_forma": "вуз.",
+      "vzirets": "{0} вузла"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "katehoriia": "speed",
+      "nazva": "швидкості світла",
+      "skorochennia": "шв. св.",
+      "vuzka_forma": "шв.св.",
+      "vzirets": "{0} швидкості світла"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "katehoriia": "speed",
+      "nazva": "метри за секунду",
+      "skorochennia": "метри/с",
+      "vuzka_forma": "м/с",
+      "vzirets": "{0} метра за секунду"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "katehoriia": "speed",
+      "nazva": "милі за годину",
+      "skorochennia": "милі/год",
+      "vuzka_forma": "мл/год",
+      "vzirets": "{0} милі за годину"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'speed' (6) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'speed' з локалі uk у CLDR, з назвами українською. Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'speed' (6) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'speed' (6) — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

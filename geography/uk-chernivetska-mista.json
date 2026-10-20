@@ -1,0 +1,241 @@
+{
+  "id": "uk-chernivetska-mista",
+  "name": "Міста Чернівецької області",
+  "title": "Міста Чернівецької області",
+  "description": "Список 10 міст Чернівецької області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA73020070010063977",
+      "name": "Вашківці",
+      "name_en": "Vashkivtsi",
+      "slug": "vashkivtsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73020070000035367",
+      "hromada_name": "Вашківецька міська громада",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73020090010033414",
+      "name": "Вижниця",
+      "name_en": "Vyzhnytsia",
+      "slug": "vyzhnytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73020090000031499",
+      "hromada_name": "Вижницька міська громада",
+      "rayon_name": "Вижницький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040130010085979",
+      "name": "Новодністровськ",
+      "name_en": "Novodnistrovsk",
+      "slug": "novodnistrovsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73040130000087963",
+      "hromada_name": "Новодністровська міська громада",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040170010044151",
+      "name": "Сокиряни",
+      "name_en": "Sokyriany",
+      "slug": "sokyriany",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73040170000011490",
+      "hromada_name": "Сокирянська міська громада",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73040190010054219",
+      "name": "Хотин",
+      "name_en": "Khotyn",
+      "slug": "khotyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73040190000062796",
+      "hromada_name": "Хотинська міська громада",
+      "rayon_name": "Дністровський район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060130010067568",
+      "name": "Герца",
+      "name_en": "Hertsa",
+      "slug": "hertsa",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73060130000078771",
+      "hromada_name": "Герцаївська міська громада",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060190010067621",
+      "name": "Заставна",
+      "name_en": "Zastavna",
+      "slug": "zastavna",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73060190000043347",
+      "hromada_name": "Заставнівська міська громада",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060290010095467",
+      "name": "Кіцмань",
+      "name_en": "Kitsman",
+      "slug": "kitsman",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73060290000034305",
+      "hromada_name": "Кіцманська міська громада",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060410010023503",
+      "name": "Новоселиця",
+      "name_en": "Novoselytsia",
+      "slug": "novoselytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73060410000077092",
+      "hromada_name": "Новоселицька міська громада",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    },
+    {
+      "code": "UA73060490010033552",
+      "name": "Сторожинець",
+      "name_en": "Storozhynets",
+      "slug": "storozhynets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA73060490000033679",
+      "hromada_name": "Сторожинецька міська громада",
+      "rayon_name": "Чернівецький район",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Чернівецької області - Безкоштовне завантаження",
+    "description": "Список 10 міст Чернівецької області (категорія М у КАТОТТГ). Містить 10 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Чернівецької області | ListBase",
+    "seo_description": "Завантажити Міста Чернівецької області — 10 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 10 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

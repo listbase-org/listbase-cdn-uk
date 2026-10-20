@@ -1,0 +1,394 @@
+{
+  "id": "uk-chernihivska-unlocode",
+  "name": "Коди UN/LOCODE — Чернігівська область",
+  "title": "Коди UN/LOCODE — Чернігівська область",
+  "description": "Коди UN/LOCODE у межах адміністративної одиниці «Чернігівська область» (Chernihiv Oblast, UA-74), 9 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Multimodal transport facility (7), Road transport (2), Rail transport (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 74); all fields carried verbatim from the parent, nothing translated or recomputed.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_iso_3166_2",
+      "label": "Oblast Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "unlocode_subdivision_name",
+      "label": "Unlocode Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 37,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UACRY",
+      "country": "UA",
+      "location": "CRY",
+      "name": "Ripky",
+      "name_wo_diacritics": "Ripky",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5148N 03105E",
+      "latitude": 51.8,
+      "longitude": 31.0833,
+      "date_updated": "2017-07",
+      "remarks": ""
+    },
+    {
+      "id": 2,
+      "parent_index": 91,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAKKR",
+      "country": "UA",
+      "location": "KKR",
+      "name": "Koryukivka",
+      "name_wo_diacritics": "Koryukivka",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5146N 03216E",
+      "latitude": 51.7667,
+      "longitude": 32.2667,
+      "date_updated": "2016-07",
+      "remarks": ""
+    },
+    {
+      "id": 3,
+      "parent_index": 157,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAPLK",
+      "country": "UA",
+      "location": "PLK",
+      "name": "Pryluky",
+      "name_wo_diacritics": "Pryluky",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "5036N 03224E",
+      "latitude": 50.6,
+      "longitude": 32.4,
+      "date_updated": "2004-07",
+      "remarks": ""
+    },
+    {
+      "id": 4,
+      "parent_index": 225,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAVOL",
+      "country": "UA",
+      "location": "VOL",
+      "name": "Volynskiy",
+      "name_wo_diacritics": "Volynskiy",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5132N 03119E",
+      "latitude": 51.5333,
+      "longitude": 31.3167,
+      "date_updated": "2010-01",
+      "remarks": ""
+    },
+    {
+      "id": 5,
+      "parent_index": 256,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAZUD",
+      "country": "UA",
+      "location": "ZUD",
+      "name": "Bobrovitsa",
+      "name_wo_diacritics": "Bobrovitsa",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5045N 03122E",
+      "latitude": 50.75,
+      "longitude": 31.3667,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 6,
+      "parent_index": 263,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAZUK",
+      "country": "UA",
+      "location": "ZUK",
+      "name": "Ichnya",
+      "name_wo_diacritics": "Ichnya",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5052N 03223E",
+      "latitude": 50.8667,
+      "longitude": 32.3833,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 7,
+      "parent_index": 268,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAZUP",
+      "country": "UA",
+      "location": "ZUP",
+      "name": "Mena",
+      "name_wo_diacritics": "Mena",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5131N 03213E",
+      "latitude": 51.5167,
+      "longitude": 32.2167,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 8,
+      "parent_index": 269,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAZUQ",
+      "country": "UA",
+      "location": "ZUQ",
+      "name": "Chernihiv",
+      "name_wo_diacritics": "Chernihiv",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5130N 03118E",
+      "latitude": 51.5,
+      "longitude": 31.3,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 9,
+      "parent_index": 273,
+      "oblast_uk": "Чернігівська область",
+      "oblast_en": "Chernihiv Oblast",
+      "oblast_slug": "chernihivska",
+      "oblast_iso_3166_2": "UA-74",
+      "unlocode_subdivision_name": "Chernihivska oblast",
+      "locode": "UAZUU",
+      "country": "UA",
+      "location": "ZUU",
+      "name": "Nizhyn",
+      "name_wo_diacritics": "Nizhyn",
+      "subdivision_code": "74",
+      "subdivision_name": "Chernihivska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5103N 03153E",
+      "latitude": 51.05,
+      "longitude": 31.8833,
+      "date_updated": "2009-01",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Коди UN/LOCODE — Чернігівська область - Безкоштовне завантаження",
+    "description": "Коди UN/LOCODE у межах адміністративної одиниці «Чернігівська область» (Chernihiv Oblast, UA-74), 9 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Multimodal transport facility (7), Road transport (2), Rail transport (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 74); all fields carried verbatim from the parent, nothing translated or recomputed. Містить 9 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Коди UN/LOCODE — Чернігівська область | ListBase",
+    "seo_description": "Завантажити Коди UN/LOCODE — Чернігівська область — 9 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 9 записів / 25 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

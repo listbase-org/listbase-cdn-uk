@@ -1,0 +1,106 @@
+{
+  "id": "uk-odynytsi-vymiru-temperature",
+  "name": "Одиниці вимірювання — категорія 'temperature' (5)",
+  "title": "Одиниці вимірювання — категорія 'temperature' (5)",
+  "description": "Одиниці вимірювання категорії 'temperature' з локалі uk у CLDR, з назвами українською.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "katehoriia": "temperature",
+      "nazva": "градуси Цельсія",
+      "skorochennia": "°C",
+      "vuzka_forma": "°C",
+      "vzirets": "{0} градуса Цельсія"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "katehoriia": "temperature",
+      "nazva": "градуси Фаренгейта",
+      "skorochennia": "°F",
+      "vuzka_forma": "°F",
+      "vzirets": "{0} градуса Фаренгейта"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "katehoriia": "temperature",
+      "nazva": "°",
+      "skorochennia": "°",
+      "vuzka_forma": "°",
+      "vzirets": "{0}°"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "katehoriia": "temperature",
+      "nazva": "кельвіни",
+      "skorochennia": "К",
+      "vuzka_forma": "К",
+      "vzirets": "{0} кельвіна"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "katehoriia": "temperature",
+      "nazva": "°R",
+      "skorochennia": "°R",
+      "vuzka_forma": "°R",
+      "vzirets": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'temperature' (5) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'temperature' з локалі uk у CLDR, з назвами українською. Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'temperature' (5) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'temperature' (5) — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

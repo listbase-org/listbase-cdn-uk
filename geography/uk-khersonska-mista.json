@@ -1,0 +1,226 @@
+{
+  "id": "uk-khersonska-mista",
+  "name": "Міста Херсонської області",
+  "title": "Міста Херсонської області",
+  "description": "Список 9 міст Херсонської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA65020010010095508",
+      "name": "Берислав",
+      "name_en": "Beryslav",
+      "slug": "beryslav",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65020010000060480",
+      "hromada_name": "Бериславська міська громада",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65040010010040633",
+      "name": "Генічеськ",
+      "name_en": "Henichesk",
+      "slug": "henichesk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65040010000061104",
+      "hromada_name": "Генічеська міська громада",
+      "rayon_name": "Генічеський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060110010021041",
+      "name": "Каховка",
+      "name_en": "Kakhovka",
+      "slug": "kakhovka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65060110000017055",
+      "hromada_name": "Каховська міська громада",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060170010075325",
+      "name": "Нова Каховка",
+      "name_en": "Nova Kakhovka",
+      "slug": "nova-kakhovka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65060170000032937",
+      "hromada_name": "Новокаховська міська громада",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060250010044738",
+      "name": "Таврійськ",
+      "name_en": "Tavriisk",
+      "slug": "tavriisk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65060250000073379",
+      "hromada_name": "Таврійська міська громада",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080030010035864",
+      "name": "Гола Пристань",
+      "name_en": "Hola Prystan",
+      "slug": "hola-prystan",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65080030000058401",
+      "hromada_name": "Голопристанська міська громада",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080150010023642",
+      "name": "Скадовськ",
+      "name_en": "Skadovsk",
+      "slug": "skadovsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65080150000042499",
+      "hromada_name": "Скадовська міська громада",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100110010019482",
+      "name": "Олешки",
+      "name_en": "Oleshky",
+      "slug": "oleshky",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65100110000015344",
+      "hromada_name": "Олешківська міська громада",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100150010064384",
+      "name": "Херсон",
+      "name_en": "Kherson",
+      "slug": "kherson",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA65100150000057191",
+      "hromada_name": "Херсонська міська громада",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Херсонської області - Безкоштовне завантаження",
+    "description": "Список 9 міст Херсонської області (категорія М у КАТОТТГ). Містить 9 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Херсонської області | ListBase",
+    "seo_description": "Завантажити Міста Херсонської області — 9 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 9 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

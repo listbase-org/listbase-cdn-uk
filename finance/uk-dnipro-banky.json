@@ -1,0 +1,177 @@
+{
+  "id": "uk-dnipro-banky",
+  "name": "Банки в Дніпрі — коди SWIFT/BIC (Dnipro bank SWIFT/BIC codes)",
+  "title": "Банки в Дніпрі — коди SWIFT/BIC (Dnipro bank SWIFT/BIC codes)",
+  "description": "Перелік: 18 банківських установ у місті Дніпро (Dnipro) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"DNIPRO\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 17,
+      "bank": "CB 'ZEMELNY CAPITAL', LTD.",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "ZECPUAU1"
+    },
+    {
+      "id": 25,
+      "bank": "CREDIT UNION NARODNA",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "CRURUA21"
+    },
+    {
+      "id": 28,
+      "bank": "DIALOGBANK, LTD.",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "DIAOUA21"
+    },
+    {
+      "id": 35,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "DNIPRO",
+      "branch": "(DNIPRO BRANCH)",
+      "swift_code": "FUIBUA2XDNI"
+    },
+    {
+      "id": 53,
+      "bank": "JOINT STOCK COMPANY 'ACCENT-BANK'",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "UKCBUAUK"
+    },
+    {
+      "id": 66,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "DNIPRO",
+      "branch": "(DNIPRO BRANCH)",
+      "swift_code": "EXBSUAUXDNI"
+    },
+    {
+      "id": 89,
+      "bank": "JSCB INDUSTRIALBANK UKRAINE",
+      "city": "DNIPRO",
+      "branch": "(DNIPRO BRANCH)",
+      "swift_code": "IJSOUA2NDNI"
+    },
+    {
+      "id": 139,
+      "bank": "PJSC 'BANK VOSTOK'",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "ACJCUA2N"
+    },
+    {
+      "id": 216,
+      "bank": "PRICHERNOMORYE BANK",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "PRIHUA21"
+    },
+    {
+      "id": 217,
+      "bank": "PRIDNEPROVSK COMMODITY EXCHANGE",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "XPRIUA21"
+    },
+    {
+      "id": 224,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'INTERCREDITBANK'",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "ICBNUA21"
+    },
+    {
+      "id": 229,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "DNIPRO",
+      "branch": "(DNIPRO REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKDNI"
+    },
+    {
+      "id": 254,
+      "bank": "PUBLIC JOINT-STOCK COMPANY 'COMMERCIAL BANK 'AXIOM'",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "AXBNUA21"
+    },
+    {
+      "id": 256,
+      "bank": "PUBLIC JOINT-STOCK COMPANY 'MELIOR BANK'",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "MLRBUA21"
+    },
+    {
+      "id": 257,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "DNIPRO",
+      "branch": "(DNIPRO BRANCH)",
+      "swift_code": "OTPVUAU1300"
+    },
+    {
+      "id": 269,
+      "bank": "'RADABANK' JOINT STOCK BANK",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "RADAUA2N"
+    },
+    {
+      "id": 270,
+      "bank": "'RAIFFEISEN BANK AVAL' PUBLIC JOINT STOCK COMPANY",
+      "city": "DNIPRO",
+      "branch": "(DNIPRO BRANCH)",
+      "swift_code": "AVALUAUKDNI"
+    },
+    {
+      "id": 296,
+      "bank": "ZEMELNY CAPITAL CB PJSC",
+      "city": "DNIPRO",
+      "branch": "",
+      "swift_code": "ZECPUA2N"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Дніпрі — коди SWIFT/BIC (Dnipro bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 18 банківських установ у місті Дніпро (Dnipro) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"DNIPRO\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 18 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Дніпрі — коди SWIFT/BIC (Dnipro bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Дніпрі — коди SWIFT/BIC (Dnipro bank SWIFT/BIC codes) — 18 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 18 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

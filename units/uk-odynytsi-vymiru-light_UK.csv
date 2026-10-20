@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","light-candela","light","кандела","кд","кд","{0} кандели"
+"2","light-lumen","light","люмени","лм","лм","{0} люмена"
+"3","light-lux","light","люкси","люкс","лк","{0} люкса"
+"4","light-solar-luminosity","light","світності Сонця","світності Сонця","L☉","{0} світності Сонця"

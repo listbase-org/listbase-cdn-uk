@@ -1,0 +1,301 @@
+{
+  "id": "uk-zaporizka-mista",
+  "name": "Міста Запорізької області",
+  "title": "Міста Запорізької області",
+  "description": "Список 14 міст Запорізької області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA23020050010019935",
+      "name": "Бердянськ",
+      "name_en": "Berdiansk",
+      "slug": "berdiansk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23020050000046501",
+      "hromada_name": "Бердянська міська громада",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23020130010076068",
+      "name": "Приморськ",
+      "name_en": "Prymorsk",
+      "slug": "prymorsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23020130000081044",
+      "hromada_name": "Приморська міська громада",
+      "rayon_name": "Бердянський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040030010016724",
+      "name": "Василівка",
+      "name_en": "Vasylivka",
+      "slug": "vasylivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23040030000061166",
+      "hromada_name": "Василівська міська громада",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040090010050034",
+      "name": "Дніпрорудне",
+      "name_en": "Dniprorudne",
+      "slug": "dniprorudne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23040090000031823",
+      "hromada_name": "Дніпрорудненська міська громада",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040110010044100",
+      "name": "Енергодар",
+      "name_en": "Enerhodar",
+      "slug": "enerhodar",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23040110000019947",
+      "hromada_name": "Енергодарська міська громада",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23040130010014334",
+      "name": "Кам'янка-Дніпровська",
+      "name_en": "Kamyanka-Dniprovska",
+      "slug": "kamyanka-dniprovska",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23040130000044084",
+      "hromada_name": "Кам'янсько-Дніпровська міська громада",
+      "rayon_name": "Василівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060030010056906",
+      "name": "Вільнянськ",
+      "name_en": "Vilniansk",
+      "slug": "vilniansk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23060030000037089",
+      "hromada_name": "Вільнянська міська громада",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23060070010069526",
+      "name": "Запоріжжя",
+      "name_en": "Zaporizhzhia",
+      "slug": "zaporizhzhia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23060070000082704",
+      "hromada_name": "Запорізька міська громада",
+      "rayon_name": "Запорізький район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23080070010092407",
+      "name": "Мелітополь",
+      "name_en": "Melitopol",
+      "slug": "melitopol",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23080070000068953",
+      "hromada_name": "Мелітопольська міська громада",
+      "rayon_name": "Мелітопольський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100070010036682",
+      "name": "Гуляйполе",
+      "name_en": "Huliaipole",
+      "slug": "huliaipole",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23100070000026535",
+      "hromada_name": "Гуляйпільська міська громада",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100150010091297",
+      "name": "Молочанськ",
+      "name_en": "Molochansk",
+      "slug": "molochansk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23100150000023366",
+      "hromada_name": "Молочанська міська громада",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100170010023304",
+      "name": "Оріхів",
+      "name_en": "Orikhiv",
+      "slug": "orikhiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23100170000031289",
+      "hromada_name": "Оріхівська міська територіальна громада",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100190010032690",
+      "name": "Пологи",
+      "name_en": "Polohy",
+      "slug": "polohy",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23100190000020018",
+      "hromada_name": "Пологівська міська громада",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    },
+    {
+      "code": "UA23100270010029314",
+      "name": "Токмак",
+      "name_en": "Tokmak",
+      "slug": "tokmak",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA23100270000073418",
+      "hromada_name": "Токмацька міська громада",
+      "rayon_name": "Пологівський район",
+      "oblast_id": 8,
+      "oblast_name": "Запорізька область",
+      "oblast_slug": "zaporizka"
+    }
+  ],
+  "meta": {
+    "title": "Міста Запорізької області - Безкоштовне завантаження",
+    "description": "Список 14 міст Запорізької області (категорія М у КАТОТТГ). Містить 14 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Запорізької області | ListBase",
+    "seo_description": "Завантажити Міста Запорізької області — 14 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 14 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

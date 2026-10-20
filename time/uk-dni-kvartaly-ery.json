@@ -1,0 +1,212 @@
+{
+  "id": "uk-dni-kvartaly-ery",
+  "name": "Дні, квартали, частини доби та ери — назви українською (CLDR)",
+  "title": "Дні, квартали, частини доби та ери — назви українською (CLDR)",
+  "description": "Назви днів, кварталів, частин доби та ер григоріанського календаря українською з локалі uk у CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "typ": "den",
+      "code": "sun",
+      "nazva": "неділя",
+      "skorochennia": "нд"
+    },
+    {
+      "id": 2,
+      "typ": "den",
+      "code": "mon",
+      "nazva": "понеділок",
+      "skorochennia": "пн"
+    },
+    {
+      "id": 3,
+      "typ": "den",
+      "code": "tue",
+      "nazva": "вівторок",
+      "skorochennia": "вт"
+    },
+    {
+      "id": 4,
+      "typ": "den",
+      "code": "wed",
+      "nazva": "середа",
+      "skorochennia": "ср"
+    },
+    {
+      "id": 5,
+      "typ": "den",
+      "code": "thu",
+      "nazva": "четвер",
+      "skorochennia": "чт"
+    },
+    {
+      "id": 6,
+      "typ": "den",
+      "code": "fri",
+      "nazva": "пʼятниця",
+      "skorochennia": "пт"
+    },
+    {
+      "id": 7,
+      "typ": "den",
+      "code": "sat",
+      "nazva": "субота",
+      "skorochennia": "сб"
+    },
+    {
+      "id": 8,
+      "typ": "kvartal",
+      "code": "1",
+      "nazva": "1-й квартал",
+      "skorochennia": "1-й кв."
+    },
+    {
+      "id": 9,
+      "typ": "kvartal",
+      "code": "2",
+      "nazva": "2-й квартал",
+      "skorochennia": "2-й кв."
+    },
+    {
+      "id": 10,
+      "typ": "kvartal",
+      "code": "3",
+      "nazva": "3-й квартал",
+      "skorochennia": "3-й кв."
+    },
+    {
+      "id": 11,
+      "typ": "kvartal",
+      "code": "4",
+      "nazva": "4-й квартал",
+      "skorochennia": "4-й кв."
+    },
+    {
+      "id": 12,
+      "typ": "chastyna_doby",
+      "code": "midnight",
+      "nazva": "ночі",
+      "skorochennia": "ночі"
+    },
+    {
+      "id": 13,
+      "typ": "chastyna_doby",
+      "code": "am",
+      "nazva": "дп",
+      "skorochennia": "дп"
+    },
+    {
+      "id": 14,
+      "typ": "chastyna_doby",
+      "code": "noon",
+      "nazva": "дня",
+      "skorochennia": "дня"
+    },
+    {
+      "id": 15,
+      "typ": "chastyna_doby",
+      "code": "pm",
+      "nazva": "пп",
+      "skorochennia": "пп"
+    },
+    {
+      "id": 16,
+      "typ": "chastyna_doby",
+      "code": "morning1",
+      "nazva": "ранку",
+      "skorochennia": "ранку"
+    },
+    {
+      "id": 17,
+      "typ": "chastyna_doby",
+      "code": "afternoon1",
+      "nazva": "дня",
+      "skorochennia": "дня"
+    },
+    {
+      "id": 18,
+      "typ": "chastyna_doby",
+      "code": "evening1",
+      "nazva": "вечора",
+      "skorochennia": "вечора"
+    },
+    {
+      "id": 19,
+      "typ": "chastyna_doby",
+      "code": "night1",
+      "nazva": "ночі",
+      "skorochennia": "ночі"
+    },
+    {
+      "id": 20,
+      "typ": "era",
+      "code": "0",
+      "nazva": "до нашої ери",
+      "skorochennia": "до н. е."
+    },
+    {
+      "id": 21,
+      "typ": "era",
+      "code": "0-alt-variant",
+      "nazva": "до нової ери",
+      "skorochennia": "до н. е."
+    },
+    {
+      "id": 22,
+      "typ": "era",
+      "code": "1",
+      "nazva": "нашої ери",
+      "skorochennia": "н. е."
+    },
+    {
+      "id": 23,
+      "typ": "era",
+      "code": "1-alt-variant",
+      "nazva": "нової ери",
+      "skorochennia": "н. е."
+    }
+  ],
+  "meta": {
+    "title": "Дні, квартали, частини доби та ери — назви українською (CLDR) - Безкоштовне завантаження",
+    "description": "Назви днів, кварталів, частин доби та ер григоріанського календаря українською з локалі uk у CLDR. Містить 23 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Дні, квартали, частини доби та ери — назви українською (CLDR) | ListBase",
+    "seo_description": "Завантажити Дні, квартали, частини доби та ери — назви українською (CLDR) — 23 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 23 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

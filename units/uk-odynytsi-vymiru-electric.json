@@ -1,0 +1,133 @@
+{
+  "id": "uk-odynytsi-vymiru-electric",
+  "name": "Одиниці вимірювання — категорія 'electric' (8)",
+  "title": "Одиниці вимірювання — категорія 'electric' (8)",
+  "description": "Одиниці вимірювання категорії 'electric' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "katehoriia": "electric",
+      "nazva": "ампери",
+      "skorochennia": "А",
+      "vuzka_forma": "А",
+      "vzirets": "{0} ампера"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "katehoriia": "electric",
+      "nazva": "кулони",
+      "skorochennia": "Кл",
+      "vuzka_forma": "Кл",
+      "vzirets": "{0} кулона"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "katehoriia": "electric",
+      "nazva": "фаради",
+      "skorochennia": "Ф",
+      "vuzka_forma": "Ф",
+      "vzirets": "{0} фарада"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "katehoriia": "electric",
+      "nazva": "генрі",
+      "skorochennia": "Гн",
+      "vuzka_forma": "Гн",
+      "vzirets": "{0} генрі"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "katehoriia": "electric",
+      "nazva": "міліампери",
+      "skorochennia": "мА",
+      "vuzka_forma": "мА",
+      "vzirets": "{0} міліампера"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "katehoriia": "electric",
+      "nazva": "оми",
+      "skorochennia": "Ом",
+      "vuzka_forma": "Ом",
+      "vzirets": "{0} ома"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "katehoriia": "electric",
+      "nazva": "сіменси",
+      "skorochennia": "См",
+      "vuzka_forma": "См",
+      "vzirets": "{0} сіменса"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "katehoriia": "electric",
+      "nazva": "вольти",
+      "skorochennia": "В",
+      "vuzka_forma": "В",
+      "vzirets": "{0} вольта"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'electric' (8) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'electric' з локалі uk у CLDR, з назвами українською. Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'electric' (8) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'electric' (8) — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","acceleration-g-force","acceleration","прискорення вільного падіння","g","g","{0} g"
+"2","acceleration-meter-per-square-second","acceleration","метри на секунду у квадраті","метри/с²","м/с²","{0} метра на секунду у квадраті"

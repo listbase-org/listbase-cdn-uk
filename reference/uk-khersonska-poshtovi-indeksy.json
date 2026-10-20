@@ -1,0 +1,6640 @@
+{
+  "id": "uk-khersonska-poshtovi-indeksy",
+  "name": "Поштові індекси: Херсонська область",
+  "title": "Поштові індекси: Херсонська область",
+  "description": "Поштові індекси населених пунктів — Херсонська область (731 записів). Назви українською, координати WGS84, ISO 3166-2 UA-65. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 731,
+  "columns": [
+    {
+      "key": "zipcode",
+      "label": "Zipcode",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zipcode": "73000",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73002",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73003",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73005",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73006",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73008",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73009",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73011",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73013",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73020",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73021",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73022",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73025",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73026",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73027",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73028",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73030",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73032",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73033",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73034",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73035",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73036",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73037",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73039",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73040",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73042",
+      "place": "Херсон",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6558,
+      "longitude": 32.6178
+    },
+    {
+      "zipcode": "73481",
+      "place": "Зеленівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7126,
+      "longitude": 32.6328
+    },
+    {
+      "zipcode": "73482",
+      "place": "Сонячне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8201,
+      "longitude": 32.6943
+    },
+    {
+      "zipcode": "73483",
+      "place": "Наддніпрянське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7479,
+      "longitude": 32.7082
+    },
+    {
+      "zipcode": "73484",
+      "place": "Інженерне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5047,
+      "longitude": 36.0888
+    },
+    {
+      "zipcode": "73485",
+      "place": "Антонівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6788,
+      "longitude": 32.7327
+    },
+    {
+      "zipcode": "73486",
+      "place": "Антонівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6788,
+      "longitude": 32.7327
+    },
+    {
+      "zipcode": "73487",
+      "place": "Молодіжне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7313,
+      "longitude": 32.6886
+    },
+    {
+      "zipcode": "73488",
+      "place": "Степанівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6985,
+      "longitude": 32.5789
+    },
+    {
+      "zipcode": "73489",
+      "place": "Приозерне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6374,
+      "longitude": 32.4645
+    },
+    {
+      "zipcode": "73490",
+      "place": "Комишани",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6372,
+      "longitude": 32.5072
+    },
+    {
+      "zipcode": "73491",
+      "place": "Куйбишеве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6372,
+      "longitude": 32.5466
+    },
+    {
+      "zipcode": "73492",
+      "place": "Богданівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8108,
+      "longitude": 32.6392
+    },
+    {
+      "zipcode": "73493",
+      "place": "Петрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8293,
+      "longitude": 32.6336
+    },
+    {
+      "zipcode": "73494",
+      "place": "Петрівського",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7286,
+      "longitude": 32.5817
+    },
+    {
+      "zipcode": "74000",
+      "place": "Високопілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4919,
+      "longitude": 33.5306
+    },
+    {
+      "zipcode": "74003",
+      "place": "Потьомкине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4868,
+      "longitude": 33.5722
+    },
+    {
+      "zipcode": "74004",
+      "place": "Князівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5228,
+      "longitude": 33.5234
+    },
+    {
+      "zipcode": "74006",
+      "place": "Блакитне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4101,
+      "longitude": 33.4381
+    },
+    {
+      "zipcode": "74007",
+      "place": "Костирка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.395,
+      "longitude": 33.5491
+    },
+    {
+      "zipcode": "74008",
+      "place": "Червоноармійське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4778,
+      "longitude": 33.4528
+    },
+    {
+      "zipcode": "74009",
+      "place": "Краснівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5602,
+      "longitude": 33.1033
+    },
+    {
+      "zipcode": "74010",
+      "place": "Кам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5566,
+      "longitude": 33.1544
+    },
+    {
+      "zipcode": "74010",
+      "place": "Краснівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5602,
+      "longitude": 33.1033
+    },
+    {
+      "zipcode": "74010",
+      "place": "Пригір'я",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5566,
+      "longitude": 33.1544
+    },
+    {
+      "zipcode": "74010",
+      "place": "Розівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5558,
+      "longitude": 33.22
+    },
+    {
+      "zipcode": "74010",
+      "place": "Свободне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5537,
+      "longitude": 33.1399
+    },
+    {
+      "zipcode": "74011",
+      "place": "Заградівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5252,
+      "longitude": 33.2775
+    },
+    {
+      "zipcode": "74012",
+      "place": "Кочубеївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9551,
+      "longitude": 33.9164
+    },
+    {
+      "zipcode": "74013",
+      "place": "Орлове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4604,
+      "longitude": 33.2267
+    },
+    {
+      "zipcode": "74013",
+      "place": "Петрівське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.439,
+      "longitude": 33.2154
+    },
+    {
+      "zipcode": "74013",
+      "place": "Рівнопілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4411,
+      "longitude": 33.1811
+    },
+    {
+      "zipcode": "74015",
+      "place": "Кам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.46,
+      "longitude": 33.264
+    },
+    {
+      "zipcode": "74016",
+      "place": "Розівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5558,
+      "longitude": 33.22
+    },
+    {
+      "zipcode": "74017",
+      "place": "Свободне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5537,
+      "longitude": 33.1399
+    },
+    {
+      "zipcode": "74020",
+      "place": "Іванівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4704,
+      "longitude": 33.3788
+    },
+    {
+      "zipcode": "74021",
+      "place": "Зарічне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4453,
+      "longitude": 33.3757
+    },
+    {
+      "zipcode": "74022",
+      "place": "Архангельське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4567,
+      "longitude": 33.2839
+    },
+    {
+      "zipcode": "74026",
+      "place": "Петрівське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.439,
+      "longitude": 33.2154
+    },
+    {
+      "zipcode": "74027",
+      "place": "Рівнопілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4411,
+      "longitude": 33.1811
+    },
+    {
+      "zipcode": "74028",
+      "place": "Новобратське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4746,
+      "longitude": 33.2828
+    },
+    {
+      "zipcode": "74029",
+      "place": "Наталине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4697,
+      "longitude": 33.2694
+    },
+    {
+      "zipcode": "74030",
+      "place": "Мала Шестерня",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4681,
+      "longitude": 33.3715
+    },
+    {
+      "zipcode": "74040",
+      "place": "Новопетрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4297,
+      "longitude": 33.4699
+    },
+    {
+      "zipcode": "74041",
+      "place": "Миколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4948,
+      "longitude": 33.3936
+    },
+    {
+      "zipcode": "74042",
+      "place": "Нововознесенське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4319,
+      "longitude": 33.6012
+    },
+    {
+      "zipcode": "74043",
+      "place": "Новомиколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3413,
+      "longitude": 33.4929
+    },
+    {
+      "zipcode": "74044",
+      "place": "Мар'їне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4719,
+      "longitude": 33.339
+    },
+    {
+      "zipcode": "74045",
+      "place": "Благодатне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4731,
+      "longitude": 33.3187
+    },
+    {
+      "zipcode": "74046",
+      "place": "Новогригорівське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5496,
+      "longitude": 33.5047
+    },
+    {
+      "zipcode": "74047",
+      "place": "Федорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5815,
+      "longitude": 33.5406
+    },
+    {
+      "zipcode": "74048",
+      "place": "Тополине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5306,
+      "longitude": 33.5501
+    },
+    {
+      "zipcode": "74049",
+      "place": "Ольгине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4783,
+      "longitude": 33.4678
+    },
+    {
+      "zipcode": "74050",
+      "place": "Добрянка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4667,
+      "longitude": 33.6167
+    },
+    {
+      "zipcode": "74100",
+      "place": "Велика Олександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3197,
+      "longitude": 33.3037
+    },
+    {
+      "zipcode": "74103",
+      "place": "Микільське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4717,
+      "longitude": 33.1523
+    },
+    {
+      "zipcode": "74103",
+      "place": "Світлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4984,
+      "longitude": 33.1714
+    },
+    {
+      "zipcode": "74105",
+      "place": "Мала Олександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2939,
+      "longitude": 33.2787
+    },
+    {
+      "zipcode": "74106",
+      "place": "Білогірка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1993,
+      "longitude": 33.137
+    },
+    {
+      "zipcode": "74107",
+      "place": "Заповіт",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1031,
+      "longitude": 32.9651
+    },
+    {
+      "zipcode": "74108",
+      "place": "Сухий Ставок",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1582,
+      "longitude": 33.1047
+    },
+    {
+      "zipcode": "74109",
+      "place": "Андріївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1833,
+      "longitude": 33.05
+    },
+    {
+      "zipcode": "74110",
+      "place": "Нова Калуга",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4052,
+      "longitude": 33.0532
+    },
+    {
+      "zipcode": "74111",
+      "place": "Новопавлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3723,
+      "longitude": 33.147
+    },
+    {
+      "zipcode": "74112",
+      "place": "Біла Криниця",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3471,
+      "longitude": 33.1946
+    },
+    {
+      "zipcode": "74113",
+      "place": "Кар'єрне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 45.288,
+      "longitude": 33.6096
+    },
+    {
+      "zipcode": "74114",
+      "place": "Білоусове (Білоусівська сільська рада)",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0441,
+      "longitude": 33.2488
+    },
+    {
+      "zipcode": "74115",
+      "place": "Новодмитрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3618,
+      "longitude": 33.3549
+    },
+    {
+      "zipcode": "74116",
+      "place": "Старосілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3816,
+      "longitude": 33.3804
+    },
+    {
+      "zipcode": "74118",
+      "place": "Мала Сейдеменуха",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0441,
+      "longitude": 33.2488
+    },
+    {
+      "zipcode": "74119",
+      "place": "Новогреднєве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1528,
+      "longitude": 33.0022
+    },
+    {
+      "zipcode": "74120",
+      "place": "Давидів Брід",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2375,
+      "longitude": 33.1937
+    },
+    {
+      "zipcode": "74121",
+      "place": "Брускинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1579,
+      "longitude": 33.2094
+    },
+    {
+      "zipcode": "74122",
+      "place": "Іщенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.178,
+      "longitude": 33.2491
+    },
+    {
+      "zipcode": "74123",
+      "place": "Дмитренка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0087,
+      "longitude": 33.1671
+    },
+    {
+      "zipcode": "74124",
+      "place": "Карло- Марксівське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1118,
+      "longitude": 33.1607
+    },
+    {
+      "zipcode": "74125",
+      "place": "Довгове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3792,
+      "longitude": 33.3654
+    },
+    {
+      "zipcode": "74126",
+      "place": "Твердомедове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3522,
+      "longitude": 33.2846
+    },
+    {
+      "zipcode": "74130",
+      "place": "Благодатівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1766,
+      "longitude": 33.0104
+    },
+    {
+      "zipcode": "74131",
+      "place": "Калінінське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1145,
+      "longitude": 32.9752
+    },
+    {
+      "zipcode": "74133",
+      "place": "Новополтавка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1446,
+      "longitude": 32.9842
+    },
+    {
+      "zipcode": "74134",
+      "place": "Бобровий Кут",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1019,
+      "longitude": 32.947
+    },
+    {
+      "zipcode": "74135",
+      "place": "Краснолюбецьк",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.121,
+      "longitude": 32.9611
+    },
+    {
+      "zipcode": "74136",
+      "place": "Червона Людмилівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3941,
+      "longitude": 33.0813
+    },
+    {
+      "zipcode": "74137",
+      "place": "Буцівське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3884,
+      "longitude": 33.1689
+    },
+    {
+      "zipcode": "74138",
+      "place": "Первомайське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2176,
+      "longitude": 33.0369
+    },
+    {
+      "zipcode": "74139",
+      "place": "Токареве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2998,
+      "longitude": 33.1675
+    },
+    {
+      "zipcode": "74140",
+      "place": "Нова Кубань",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1163,
+      "longitude": 33.346
+    },
+    {
+      "zipcode": "74141",
+      "place": "Чкалове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0661,
+      "longitude": 33.2045
+    },
+    {
+      "zipcode": "74142",
+      "place": "Чарівне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0167,
+      "longitude": 33.2667
+    },
+    {
+      "zipcode": "74143",
+      "place": "Запоріжжя",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2794,
+      "longitude": 33.2033
+    },
+    {
+      "zipcode": "74144",
+      "place": "Костромка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1381,
+      "longitude": 33.1522
+    },
+    {
+      "zipcode": "74145",
+      "place": "Безводне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1731,
+      "longitude": 33.2837
+    },
+    {
+      "zipcode": "74146",
+      "place": "Зелений Гай",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1654,
+      "longitude": 32.979
+    },
+    {
+      "zipcode": "74147",
+      "place": "Стариця",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1353,
+      "longitude": 33.2837
+    },
+    {
+      "zipcode": "74148",
+      "place": "Вишневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0643,
+      "longitude": 33.2363
+    },
+    {
+      "zipcode": "74149",
+      "place": "Степове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0597,
+      "longitude": 33.1795
+    },
+    {
+      "zipcode": "74150",
+      "place": "Трифонівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2575,
+      "longitude": 33.5127
+    },
+    {
+      "zipcode": "74151",
+      "place": "Нова Кам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1381,
+      "longitude": 33.3664
+    },
+    {
+      "zipcode": "74152",
+      "place": "Борозенське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1794,
+      "longitude": 33.419
+    },
+    {
+      "zipcode": "74153",
+      "place": "Костомарове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0327,
+      "longitude": 33.2443
+    },
+    {
+      "zipcode": "74154",
+      "place": "Садок",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.173,
+      "longitude": 33.3339
+    },
+    {
+      "zipcode": "74155",
+      "place": "Кучерське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1529,
+      "longitude": 33.4052
+    },
+    {
+      "zipcode": "74156",
+      "place": "Красносільське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0333,
+      "longitude": 33.2833
+    },
+    {
+      "zipcode": "74159",
+      "place": "П'ятихатки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1381,
+      "longitude": 33.3664
+    },
+    {
+      "zipcode": "74160",
+      "place": "Криничанка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0404,
+      "longitude": 33.2023
+    },
+    {
+      "zipcode": "74161",
+      "place": "Шостакове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3967,
+      "longitude": 33.3649
+    },
+    {
+      "zipcode": "74162",
+      "place": "Кам'яне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.237,
+      "longitude": 33.4299
+    },
+    {
+      "zipcode": "74163",
+      "place": "Нововасилівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2656,
+      "longitude": 33.5567
+    },
+    {
+      "zipcode": "74164",
+      "place": "Новогригорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2453,
+      "longitude": 33.5956
+    },
+    {
+      "zipcode": "74200",
+      "place": "Нововоронцовка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.5004,
+      "longitude": 33.9175
+    },
+    {
+      "zipcode": "74210",
+      "place": "Осокорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4526,
+      "longitude": 33.9175
+    },
+    {
+      "zipcode": "74211",
+      "place": "Миролюбівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4167,
+      "longitude": 33.65
+    },
+    {
+      "zipcode": "74212",
+      "place": "Любимівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3941,
+      "longitude": 33.7161
+    },
+    {
+      "zipcode": "74213",
+      "place": "Хрещенівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3833,
+      "longitude": 33.8333
+    },
+    {
+      "zipcode": "74214",
+      "place": "Золота Балка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3805,
+      "longitude": 33.9671
+    },
+    {
+      "zipcode": "74215",
+      "place": "Трудолюбівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4467,
+      "longitude": 33.697
+    },
+    {
+      "zipcode": "74217",
+      "place": "Петрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4134,
+      "longitude": 33.7896
+    },
+    {
+      "zipcode": "74218",
+      "place": "Шевченківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3572,
+      "longitude": 33.8406
+    },
+    {
+      "zipcode": "74220",
+      "place": "Нововоскресенське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3309,
+      "longitude": 33.6017
+    },
+    {
+      "zipcode": "74221",
+      "place": "Біляївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3248,
+      "longitude": 33.7007
+    },
+    {
+      "zipcode": "74222",
+      "place": "Українка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.324,
+      "longitude": 33.7803
+    },
+    {
+      "zipcode": "74223",
+      "place": "Петропавлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2967,
+      "longitude": 33.5706
+    },
+    {
+      "zipcode": "74224",
+      "place": "Червоне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2602,
+      "longitude": 33.66
+    },
+    {
+      "zipcode": "74230",
+      "place": "Михайлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3108,
+      "longitude": 33.9558
+    },
+    {
+      "zipcode": "74231",
+      "place": "Новоолександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2623,
+      "longitude": 33.877
+    },
+    {
+      "zipcode": "74232",
+      "place": "Гаврилівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2217,
+      "longitude": 33.8784
+    },
+    {
+      "zipcode": "74233",
+      "place": "Дудчани",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1856,
+      "longitude": 33.7639
+    },
+    {
+      "zipcode": "74300",
+      "place": "Берислав",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8415,
+      "longitude": 33.4284
+    },
+    {
+      "zipcode": "74302",
+      "place": "Берислав",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8415,
+      "longitude": 33.4284
+    },
+    {
+      "zipcode": "74303",
+      "place": "Берислав",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8415,
+      "longitude": 33.4284
+    },
+    {
+      "zipcode": "74307",
+      "place": "Шляхове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8792,
+      "longitude": 33.4206
+    },
+    {
+      "zipcode": "74308",
+      "place": "Кошара",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6999,
+      "longitude": 30.5375
+    },
+    {
+      "zipcode": "74309",
+      "place": "Першотравневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9519,
+      "longitude": 33.2188
+    },
+    {
+      "zipcode": "74310",
+      "place": "Максима Горького",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9714,
+      "longitude": 33.2725
+    },
+    {
+      "zipcode": "74311",
+      "place": "Степне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0258,
+      "longitude": 33.3888
+    },
+    {
+      "zipcode": "74312",
+      "place": "Раківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.935,
+      "longitude": 33.253
+    },
+    {
+      "zipcode": "74313",
+      "place": "Новосілка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9701,
+      "longitude": 33.1846
+    },
+    {
+      "zipcode": "74314",
+      "place": "Урожайне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9684,
+      "longitude": 33.3846
+    },
+    {
+      "zipcode": "74315",
+      "place": "Тараса Шевченка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9572,
+      "longitude": 33.2855
+    },
+    {
+      "zipcode": "74316",
+      "place": "Інгулівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9055,
+      "longitude": 32.9396
+    },
+    {
+      "zipcode": "74317",
+      "place": "Матросівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9177,
+      "longitude": 33.1456
+    },
+    {
+      "zipcode": "74318",
+      "place": "Львівські Отруби",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9418,
+      "longitude": 33.0995
+    },
+    {
+      "zipcode": "74319",
+      "place": "Саблуківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1211,
+      "longitude": 33.7712
+    },
+    {
+      "zipcode": "74320",
+      "place": "Лиманець",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9936,
+      "longitude": 33.4015
+    },
+    {
+      "zipcode": "74321",
+      "place": "Куйбишеве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9761,
+      "longitude": 32.9858
+    },
+    {
+      "zipcode": "74322",
+      "place": "Чайкине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9154,
+      "longitude": 32.9895
+    },
+    {
+      "zipcode": "74323",
+      "place": "Високе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9936,
+      "longitude": 33.4015
+    },
+    {
+      "zipcode": "74324",
+      "place": "Таврійське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9936,
+      "longitude": 33.4015
+    },
+    {
+      "zipcode": "74325",
+      "place": "Червоний Яр",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0797,
+      "longitude": 33.5239
+    },
+    {
+      "zipcode": "74326",
+      "place": "Заможне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0233,
+      "longitude": 33.5263
+    },
+    {
+      "zipcode": "74327",
+      "place": "Ударник",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9624,
+      "longitude": 33.5499
+    },
+    {
+      "zipcode": "74328",
+      "place": "Крупиця",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9925,
+      "longitude": 33.583
+    },
+    {
+      "zipcode": "74329",
+      "place": "Республіканець",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0054,
+      "longitude": 33.6523
+    },
+    {
+      "zipcode": "74330",
+      "place": "Тягинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7817,
+      "longitude": 33.0539
+    },
+    {
+      "zipcode": "74331",
+      "place": "Львове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7916,
+      "longitude": 33.1543
+    },
+    {
+      "zipcode": "74332",
+      "place": "Ольгівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8196,
+      "longitude": 33.1509
+    },
+    {
+      "zipcode": "74333",
+      "place": "Вірівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8943,
+      "longitude": 33.1729
+    },
+    {
+      "zipcode": "74334",
+      "place": "Бургунка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8107,
+      "longitude": 33.2224
+    },
+    {
+      "zipcode": "74340",
+      "place": "Томарине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8773,
+      "longitude": 33.3071
+    },
+    {
+      "zipcode": "74341",
+      "place": "Одрадокам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.786,
+      "longitude": 33.2999
+    },
+    {
+      "zipcode": "74342",
+      "place": "Миколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7881,
+      "longitude": 33.2549
+    },
+    {
+      "zipcode": "74343",
+      "place": "Козацьке",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8117,
+      "longitude": 33.3038
+    },
+    {
+      "zipcode": "74344",
+      "place": "Веселе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7955,
+      "longitude": 33.3533
+    },
+    {
+      "zipcode": "74350",
+      "place": "Качкарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0967,
+      "longitude": 33.7471
+    },
+    {
+      "zipcode": "74351",
+      "place": "Милове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0662,
+      "longitude": 33.631
+    },
+    {
+      "zipcode": "74352",
+      "place": "Суханове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1304,
+      "longitude": 33.5369
+    },
+    {
+      "zipcode": "74360",
+      "place": "Новорайськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0092,
+      "longitude": 33.4857
+    },
+    {
+      "zipcode": "74361",
+      "place": "Костирка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9667,
+      "longitude": 33.4667
+    },
+    {
+      "zipcode": "74362",
+      "place": "Новокаїри",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0128,
+      "longitude": 33.6006
+    },
+    {
+      "zipcode": "74370",
+      "place": "Червоний Маяк",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9574,
+      "longitude": 33.6039
+    },
+    {
+      "zipcode": "74371",
+      "place": "Новоберислав",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8615,
+      "longitude": 33.4844
+    },
+    {
+      "zipcode": "74372",
+      "place": "Зміївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8677,
+      "longitude": 33.5839
+    },
+    {
+      "zipcode": "74401",
+      "place": "Верхній Рогачик",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2505,
+      "longitude": 34.338
+    },
+    {
+      "zipcode": "74402",
+      "place": "Верхній Рогачик",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2505,
+      "longitude": 34.338
+    },
+    {
+      "zipcode": "74405",
+      "place": "Вишневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.25,
+      "longitude": 34.45
+    },
+    {
+      "zipcode": "74406",
+      "place": "Зоря",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2895,
+      "longitude": 34.2715
+    },
+    {
+      "zipcode": "74407",
+      "place": "Трудовік",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2793,
+      "longitude": 34.2715
+    },
+    {
+      "zipcode": "74408",
+      "place": "Леніне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2207,
+      "longitude": 34.4669
+    },
+    {
+      "zipcode": "74409",
+      "place": "Михайлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4151,
+      "longitude": 34.2344
+    },
+    {
+      "zipcode": "74410",
+      "place": "Ушкалка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4167,
+      "longitude": 34.1344
+    },
+    {
+      "zipcode": "74411",
+      "place": "Бабине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4104,
+      "longitude": 34.0488
+    },
+    {
+      "zipcode": "74412",
+      "place": "Нижній Рогачик",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3463,
+      "longitude": 34.0328
+    },
+    {
+      "zipcode": "74413",
+      "place": "Пролетарій",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3303,
+      "longitude": 34.1401
+    },
+    {
+      "zipcode": "74414",
+      "place": "Олексіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2884,
+      "longitude": 34.2144
+    },
+    {
+      "zipcode": "74415",
+      "place": "Георгіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2951,
+      "longitude": 34.2494
+    },
+    {
+      "zipcode": "74416",
+      "place": "Кожум'яки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.248,
+      "longitude": 34.2293
+    },
+    {
+      "zipcode": "74417",
+      "place": "Павлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1376,
+      "longitude": 34.4026
+    },
+    {
+      "zipcode": "74418",
+      "place": "Лисиче",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1511,
+      "longitude": 34.4827
+    },
+    {
+      "zipcode": "74420",
+      "place": "Бережанка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4,
+      "longitude": 34.2167
+    },
+    {
+      "zipcode": "74422",
+      "place": "Новознам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4,
+      "longitude": 34.2167
+    },
+    {
+      "zipcode": "74430",
+      "place": "Первомаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3322,
+      "longitude": 34.0995
+    },
+    {
+      "zipcode": "74431",
+      "place": "Чистопілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2949,
+      "longitude": 34.1938
+    },
+    {
+      "zipcode": "74440",
+      "place": "Зелене",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1585,
+      "longitude": 34.2813
+    },
+    {
+      "zipcode": "74441",
+      "place": "Самійлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1334,
+      "longitude": 34.4588
+    },
+    {
+      "zipcode": "74501",
+      "place": "Велика Лепетиха",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1757,
+      "longitude": 33.9436
+    },
+    {
+      "zipcode": "74502",
+      "place": "Велика Лепетиха",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1757,
+      "longitude": 33.9436
+    },
+    {
+      "zipcode": "74505",
+      "place": "Сергіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2701,
+      "longitude": 34.0009
+    },
+    {
+      "zipcode": "74506",
+      "place": "Дмитрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2637,
+      "longitude": 34.1694
+    },
+    {
+      "zipcode": "74507",
+      "place": "Середне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0429,
+      "longitude": 33.9679
+    },
+    {
+      "zipcode": "74508",
+      "place": "Веселе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9635,
+      "longitude": 34.0566
+    },
+    {
+      "zipcode": "74510",
+      "place": "Мала Лепетиха",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2365,
+      "longitude": 34.0001
+    },
+    {
+      "zipcode": "74520",
+      "place": "Катеринівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1094,
+      "longitude": 34.1611
+    },
+    {
+      "zipcode": "74521",
+      "place": "Костянтинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1517,
+      "longitude": 34.1167
+    },
+    {
+      "zipcode": "74522",
+      "place": "Миколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1044,
+      "longitude": 34.2372
+    },
+    {
+      "zipcode": "74523",
+      "place": "Запоріжжя",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0789,
+      "longitude": 34.382
+    },
+    {
+      "zipcode": "74524",
+      "place": "Демидівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0598,
+      "longitude": 34.3071
+    },
+    {
+      "zipcode": "74530",
+      "place": "Князе-Григорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1168,
+      "longitude": 33.8552
+    },
+    {
+      "zipcode": "74531",
+      "place": "Рубанівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9964,
+      "longitude": 34.1676
+    },
+    {
+      "zipcode": "74601",
+      "place": "Горностаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0078,
+      "longitude": 33.729
+    },
+    {
+      "zipcode": "74603",
+      "place": "Червоноармійське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9755,
+      "longitude": 33.9595
+    },
+    {
+      "zipcode": "74604",
+      "place": "Красне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0187,
+      "longitude": 34.0531
+    },
+    {
+      "zipcode": "74605",
+      "place": "Лопатки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0186,
+      "longitude": 33.994
+    },
+    {
+      "zipcode": "74606",
+      "place": "Ясна Поляна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9883,
+      "longitude": 34.0042
+    },
+    {
+      "zipcode": "74607",
+      "place": "Зелений Под",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.94,
+      "longitude": 33.8864
+    },
+    {
+      "zipcode": "74608",
+      "place": "Кочубеївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9551,
+      "longitude": 33.9164
+    },
+    {
+      "zipcode": "74609",
+      "place": "Нові Олешки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9,
+      "longitude": 34.1333
+    },
+    {
+      "zipcode": "74610",
+      "place": "Заводівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0509,
+      "longitude": 33.8047
+    },
+    {
+      "zipcode": "74611",
+      "place": "Маринське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9951,
+      "longitude": 33.875
+    },
+    {
+      "zipcode": "74612",
+      "place": "Каїри",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9454,
+      "longitude": 33.7059
+    },
+    {
+      "zipcode": "74613",
+      "place": "Нова Благовещенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8842,
+      "longitude": 33.9137
+    },
+    {
+      "zipcode": "74614",
+      "place": "Софіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8977,
+      "longitude": 34.1018
+    },
+    {
+      "zipcode": "74615",
+      "place": "Василівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8506,
+      "longitude": 34.1253
+    },
+    {
+      "zipcode": "74616",
+      "place": "Новоєлізаветівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8076,
+      "longitude": 34.0159
+    },
+    {
+      "zipcode": "74617",
+      "place": "Братолюбівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8648,
+      "longitude": 33.865
+    },
+    {
+      "zipcode": "74618",
+      "place": "Антонівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7813,
+      "longitude": 33.8303
+    },
+    {
+      "zipcode": "74619",
+      "place": "Зірка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7642,
+      "longitude": 33.8994
+    },
+    {
+      "zipcode": "74620",
+      "place": "Червоноблагодатне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47,
+      "longitude": 34.0333
+    },
+    {
+      "zipcode": "74621",
+      "place": "Ольгине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8792,
+      "longitude": 33.9269
+    },
+    {
+      "zipcode": "74622",
+      "place": "Козачі Лагері",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9473,
+      "longitude": 34.0523
+    },
+    {
+      "zipcode": "74623",
+      "place": "Миколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8016,
+      "longitude": 33.8556
+    },
+    {
+      "zipcode": "74624",
+      "place": "Старолук'янівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7905,
+      "longitude": 33.7546
+    },
+    {
+      "zipcode": "74625",
+      "place": "Запорізьке",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8564,
+      "longitude": 33.9387
+    },
+    {
+      "zipcode": "74630",
+      "place": "Славне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.7606,
+      "longitude": 35.6858
+    },
+    {
+      "zipcode": "74631",
+      "place": "Велика Благовіщенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8672,
+      "longitude": 34.0708
+    },
+    {
+      "zipcode": "74640",
+      "place": "Костянтинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8266,
+      "longitude": 33.8721
+    },
+    {
+      "zipcode": "74641",
+      "place": "Червона Поляна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8,
+      "longitude": 33.8333
+    },
+    {
+      "zipcode": "74642",
+      "place": "Дубівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8167,
+      "longitude": 33.9333
+    },
+    {
+      "zipcode": "74701",
+      "place": "Нижні Сірогози",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8484,
+      "longitude": 34.3804
+    },
+    {
+      "zipcode": "74705",
+      "place": "Догмарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0579,
+      "longitude": 34.5391
+    },
+    {
+      "zipcode": "74707",
+      "place": "Богданівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47,
+      "longitude": 34.55
+    },
+    {
+      "zipcode": "74708",
+      "place": "Заповітне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7609,
+      "longitude": 34.1735
+    },
+    {
+      "zipcode": "74709",
+      "place": "Партизани",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8898,
+      "longitude": 34.6846
+    },
+    {
+      "zipcode": "74710",
+      "place": "Анатолівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0773,
+      "longitude": 34.4921
+    },
+    {
+      "zipcode": "74711",
+      "place": "Новопетрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0651,
+      "longitude": 34.4166
+    },
+    {
+      "zipcode": "74712",
+      "place": "Першопокровка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.0117,
+      "longitude": 34.4903
+    },
+    {
+      "zipcode": "74713",
+      "place": "Братське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7894,
+      "longitude": 34.1385
+    },
+    {
+      "zipcode": "74714",
+      "place": "Чеховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9648,
+      "longitude": 34.6027
+    },
+    {
+      "zipcode": "74715",
+      "place": "Комсомольське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8767,
+      "longitude": 34.5827
+    },
+    {
+      "zipcode": "74716",
+      "place": "Зернове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.941,
+      "longitude": 34.6915
+    },
+    {
+      "zipcode": "74717",
+      "place": "Змагання",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8419,
+      "longitude": 34.6695
+    },
+    {
+      "zipcode": "74718",
+      "place": "Новорогачинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8651,
+      "longitude": 34.737
+    },
+    {
+      "zipcode": "74719",
+      "place": "Дальне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.937,
+      "longitude": 34.5356
+    },
+    {
+      "zipcode": "74720",
+      "place": "Новоолександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9741,
+      "longitude": 34.4186
+    },
+    {
+      "zipcode": "74721",
+      "place": "Сірогози",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9472,
+      "longitude": 34.4131
+    },
+    {
+      "zipcode": "74722",
+      "place": "Верхні Сірогози",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9203,
+      "longitude": 34.4076
+    },
+    {
+      "zipcode": "74730",
+      "place": "Дем'янівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8749,
+      "longitude": 34.6588
+    },
+    {
+      "zipcode": "74731",
+      "place": "Верби",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9151,
+      "longitude": 34.6255
+    },
+    {
+      "zipcode": "74732",
+      "place": "Вільне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8446,
+      "longitude": 34.614
+    },
+    {
+      "zipcode": "74732",
+      "place": "Новорогачинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8651,
+      "longitude": 34.737
+    },
+    {
+      "zipcode": "74740",
+      "place": "Верхні Торгаї",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8796,
+      "longitude": 34.2463
+    },
+    {
+      "zipcode": "74741",
+      "place": "Нижні Торгаї",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7862,
+      "longitude": 34.2626
+    },
+    {
+      "zipcode": "74742",
+      "place": "Степне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7628,
+      "longitude": 34.0817
+    },
+    {
+      "zipcode": "74800",
+      "place": "Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8137,
+      "longitude": 33.487
+    },
+    {
+      "zipcode": "74801",
+      "place": "Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8137,
+      "longitude": 33.487
+    },
+    {
+      "zipcode": "74802",
+      "place": "Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8137,
+      "longitude": 33.487
+    },
+    {
+      "zipcode": "74803",
+      "place": "Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8137,
+      "longitude": 33.487
+    },
+    {
+      "zipcode": "74805",
+      "place": "Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8137,
+      "longitude": 33.487
+    },
+    {
+      "zipcode": "74807",
+      "place": "Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8137,
+      "longitude": 33.487
+    },
+    {
+      "zipcode": "74815",
+      "place": "Діброва",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7333,
+      "longitude": 33.7667
+    },
+    {
+      "zipcode": "74816",
+      "place": "Комишанка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7719,
+      "longitude": 33.6924
+    },
+    {
+      "zipcode": "74817",
+      "place": "Остапенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6978,
+      "longitude": 34.0234
+    },
+    {
+      "zipcode": "74818",
+      "place": "Слиненка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6623,
+      "longitude": 33.942
+    },
+    {
+      "zipcode": "74819",
+      "place": "Сокирки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6623,
+      "longitude": 33.942
+    },
+    {
+      "zipcode": "74820",
+      "place": "Василівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8513,
+      "longitude": 33.6483
+    },
+    {
+      "zipcode": "74821",
+      "place": "Софіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5963,
+      "longitude": 32.2561
+    },
+    {
+      "zipcode": "74822",
+      "place": "Любимівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.3941,
+      "longitude": 33.7161
+    },
+    {
+      "zipcode": "74823",
+      "place": "Малокаховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7814,
+      "longitude": 33.4479
+    },
+    {
+      "zipcode": "74824",
+      "place": "Коробки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7323,
+      "longitude": 33.4858
+    },
+    {
+      "zipcode": "74825",
+      "place": "Просторе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.708,
+      "longitude": 33.6943
+    },
+    {
+      "zipcode": "74826",
+      "place": "Лук'янівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9086,
+      "longitude": 33.4027
+    },
+    {
+      "zipcode": "74827",
+      "place": "Петропавлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2967,
+      "longitude": 33.5706
+    },
+    {
+      "zipcode": "74828",
+      "place": "Вільна Україна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9086,
+      "longitude": 33.4027
+    },
+    {
+      "zipcode": "74829",
+      "place": "Завітне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9086,
+      "longitude": 33.4027
+    },
+    {
+      "zipcode": "74830",
+      "place": "Кам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.624,
+      "longitude": 33.5489
+    },
+    {
+      "zipcode": "74831",
+      "place": "Сергіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6963,
+      "longitude": 33.3713
+    },
+    {
+      "zipcode": "74832",
+      "place": "Цукури",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7028,
+      "longitude": 33.4192
+    },
+    {
+      "zipcode": "74833",
+      "place": "Червоне Поділля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6777,
+      "longitude": 33.5163
+    },
+    {
+      "zipcode": "74834",
+      "place": "Богданівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5772,
+      "longitude": 33.5256
+    },
+    {
+      "zipcode": "74835",
+      "place": "Чорнянка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6522,
+      "longitude": 33.359
+    },
+    {
+      "zipcode": "74836",
+      "place": "Новокам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.624,
+      "longitude": 33.5489
+    },
+    {
+      "zipcode": "74837",
+      "place": "Любимо-Мар'ївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5971,
+      "longitude": 33.749
+    },
+    {
+      "zipcode": "74838",
+      "place": "Наталівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5605,
+      "longitude": 33.6218
+    },
+    {
+      "zipcode": "74839",
+      "place": "Солідарне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5285,
+      "longitude": 33.829
+    },
+    {
+      "zipcode": "74840",
+      "place": "Роздольне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6903,
+      "longitude": 33.5435
+    },
+    {
+      "zipcode": "74841",
+      "place": "Чорноморівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6493,
+      "longitude": 33.5798
+    },
+    {
+      "zipcode": "74842",
+      "place": "Архангельська Слобода",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6351,
+      "longitude": 33.7056
+    },
+    {
+      "zipcode": "74843",
+      "place": "Семенівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6085,
+      "longitude": 33.5968
+    },
+    {
+      "zipcode": "74844",
+      "place": "Костогризове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5614,
+      "longitude": 33.5848
+    },
+    {
+      "zipcode": "74845",
+      "place": "Дудчине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5644,
+      "longitude": 33.7296
+    },
+    {
+      "zipcode": "74846",
+      "place": "Любимо-Павлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5867,
+      "longitude": 33.6806
+    },
+    {
+      "zipcode": "74847",
+      "place": "Подове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5551,
+      "longitude": 34.1442
+    },
+    {
+      "zipcode": "74848",
+      "place": "Зелена Рубанівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6942,
+      "longitude": 33.7811
+    },
+    {
+      "zipcode": "74849",
+      "place": "Скворцівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5713,
+      "longitude": 33.9454
+    },
+    {
+      "zipcode": "74850",
+      "place": "Федорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7443,
+      "longitude": 33.9101
+    },
+    {
+      "zipcode": "74851",
+      "place": "Волинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7347,
+      "longitude": 33.9903
+    },
+    {
+      "zipcode": "74852",
+      "place": "Дмитрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7114,
+      "longitude": 33.8217
+    },
+    {
+      "zipcode": "74853",
+      "place": "Червоний Перекоп",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6778,
+      "longitude": 33.7829
+    },
+    {
+      "zipcode": "74855",
+      "place": "Калинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6553,
+      "longitude": 33.7839
+    },
+    {
+      "zipcode": "74860",
+      "place": "Заозерне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6003,
+      "longitude": 33.958
+    },
+    {
+      "zipcode": "74861",
+      "place": "Ольгівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5766,
+      "longitude": 33.8898
+    },
+    {
+      "zipcode": "74862",
+      "place": "Тавричанка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.553,
+      "longitude": 33.8216
+    },
+    {
+      "zipcode": "74863",
+      "place": "Мар'янівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5766,
+      "longitude": 33.8898
+    },
+    {
+      "zipcode": "74900",
+      "place": "Нова Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7545,
+      "longitude": 33.3486
+    },
+    {
+      "zipcode": "74905",
+      "place": "Нова Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7545,
+      "longitude": 33.3486
+    },
+    {
+      "zipcode": "74907",
+      "place": "Нова Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7545,
+      "longitude": 33.3486
+    },
+    {
+      "zipcode": "74909",
+      "place": "Нова Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7545,
+      "longitude": 33.3486
+    },
+    {
+      "zipcode": "74910",
+      "place": "Нова Каховка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7545,
+      "longitude": 33.3486
+    },
+    {
+      "zipcode": "74986",
+      "place": "Корсунка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7596,
+      "longitude": 33.1918
+    },
+    {
+      "zipcode": "74987",
+      "place": "Дніпряни",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7463,
+      "longitude": 33.2729
+    },
+    {
+      "zipcode": "74988",
+      "place": "Таврійськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7529,
+      "longitude": 33.4184
+    },
+    {
+      "zipcode": "74989",
+      "place": "Таврійськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7529,
+      "longitude": 33.4184
+    },
+    {
+      "zipcode": "74990",
+      "place": "Нові Лагері",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7338,
+      "longitude": 33.2155
+    },
+    {
+      "zipcode": "74991",
+      "place": "Райське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.708,
+      "longitude": 33.2608
+    },
+    {
+      "zipcode": "74992",
+      "place": "Плодове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7297,
+      "longitude": 33.3994
+    },
+    {
+      "zipcode": "74993",
+      "place": "Тополівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6903,
+      "longitude": 33.2877
+    },
+    {
+      "zipcode": "74994",
+      "place": "Обривка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6853,
+      "longitude": 33.2234
+    },
+    {
+      "zipcode": "74995",
+      "place": "Піщане",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7124,
+      "longitude": 33.2053
+    },
+    {
+      "zipcode": "74996",
+      "place": "Маслівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6963,
+      "longitude": 33.2333
+    },
+    {
+      "zipcode": "75000",
+      "place": "Білозерка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6248,
+      "longitude": 32.4425
+    },
+    {
+      "zipcode": "75003",
+      "place": "Дніпровське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5884,
+      "longitude": 32.4685
+    },
+    {
+      "zipcode": "75004",
+      "place": "Томина Балка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6242,
+      "longitude": 32.3065
+    },
+    {
+      "zipcode": "75005",
+      "place": "Кізомис",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5637,
+      "longitude": 32.3496
+    },
+    {
+      "zipcode": "75006",
+      "place": "Велетенське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5698,
+      "longitude": 32.3991
+    },
+    {
+      "zipcode": "75007",
+      "place": "Гончарне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5746,
+      "longitude": 32.3432
+    },
+    {
+      "zipcode": "75008",
+      "place": "Первомайське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5957,
+      "longitude": 32.3834
+    },
+    {
+      "zipcode": "75009",
+      "place": "Розлив",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6242,
+      "longitude": 32.3747
+    },
+    {
+      "zipcode": "75010",
+      "place": "Посад Покровське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8061,
+      "longitude": 32.263
+    },
+    {
+      "zipcode": "75011",
+      "place": "Петрівське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.439,
+      "longitude": 33.2154
+    },
+    {
+      "zipcode": "75012",
+      "place": "Правдине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8887,
+      "longitude": 32.681
+    },
+    {
+      "zipcode": "75013",
+      "place": "Таврійське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8887,
+      "longitude": 32.681
+    },
+    {
+      "zipcode": "75014",
+      "place": "Миролюбівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4167,
+      "longitude": 33.65
+    },
+    {
+      "zipcode": "75015",
+      "place": "Надеждівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7049,
+      "longitude": 32.3623
+    },
+    {
+      "zipcode": "75016",
+      "place": "Ромашкове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5995,
+      "longitude": 32.4349
+    },
+    {
+      "zipcode": "75017",
+      "place": "Черешеньки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6787,
+      "longitude": 32.3996
+    },
+    {
+      "zipcode": "75018",
+      "place": "Янтарне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5757,
+      "longitude": 32.4416
+    },
+    {
+      "zipcode": "75019",
+      "place": "Дослідне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8887,
+      "longitude": 32.681
+    },
+    {
+      "zipcode": "75020",
+      "place": "Східне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8145,
+      "longitude": 32.5984
+    },
+    {
+      "zipcode": "75021",
+      "place": "Загорянівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9448,
+      "longitude": 32.701
+    },
+    {
+      "zipcode": "75022",
+      "place": "Киселівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7581,
+      "longitude": 32.4082
+    },
+    {
+      "zipcode": "75023",
+      "place": "Музиківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.752,
+      "longitude": 32.5635
+    },
+    {
+      "zipcode": "75024",
+      "place": "Чорнобаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6941,
+      "longitude": 32.5537
+    },
+    {
+      "zipcode": "75025",
+      "place": "Новодмитрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6077,
+      "longitude": 32.3152
+    },
+    {
+      "zipcode": "75026",
+      "place": "Берегове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5698,
+      "longitude": 32.4141
+    },
+    {
+      "zipcode": "75027",
+      "place": "Солдатське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.6852,
+      "longitude": 33.5971
+    },
+    {
+      "zipcode": "75028",
+      "place": "Копані",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8061,
+      "longitude": 32.263
+    },
+    {
+      "zipcode": "75029",
+      "place": "Нова зоря",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.8153,
+      "longitude": 33.5958
+    },
+    {
+      "zipcode": "75030",
+      "place": "Федорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7996,
+      "longitude": 32.8112
+    },
+    {
+      "zipcode": "75031",
+      "place": "Інгулець",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7893,
+      "longitude": 32.8264
+    },
+    {
+      "zipcode": "75032",
+      "place": "Дар'ївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8645,
+      "longitude": 32.6602
+    },
+    {
+      "zipcode": "75033",
+      "place": "Микільське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.4717,
+      "longitude": 33.1523
+    },
+    {
+      "zipcode": "75034",
+      "place": "Понятівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7461,
+      "longitude": 32.9069
+    },
+    {
+      "zipcode": "75035",
+      "place": "Садове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9539,
+      "longitude": 32.7446
+    },
+    {
+      "zipcode": "75036",
+      "place": "Грозове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7384,
+      "longitude": 32.3226
+    },
+    {
+      "zipcode": "75037",
+      "place": "Молодецьке",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8645,
+      "longitude": 32.6602
+    },
+    {
+      "zipcode": "75038",
+      "place": "Паришеве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.711,
+      "longitude": 32.2708
+    },
+    {
+      "zipcode": "75039",
+      "place": "Червоний Поділ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7062,
+      "longitude": 32.2471
+    },
+    {
+      "zipcode": "75040",
+      "place": "Токарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7519,
+      "longitude": 32.958
+    },
+    {
+      "zipcode": "75041",
+      "place": "Новотягинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.748,
+      "longitude": 32.9987
+    },
+    {
+      "zipcode": "75042",
+      "place": "Іванівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7481,
+      "longitude": 33.0148
+    },
+    {
+      "zipcode": "75043",
+      "place": "Знам'янка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9602,
+      "longitude": 33.0736
+    },
+    {
+      "zipcode": "75044",
+      "place": "Зорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6816,
+      "longitude": 32.3801
+    },
+    {
+      "zipcode": "75045",
+      "place": "Барвінок",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.812,
+      "longitude": 32.4518
+    },
+    {
+      "zipcode": "75046",
+      "place": "Зелений Гай",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1654,
+      "longitude": 32.979
+    },
+    {
+      "zipcode": "75047",
+      "place": "Клапая",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7235,
+      "longitude": 32.4198
+    },
+    {
+      "zipcode": "75048",
+      "place": "Крутий Яр",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7736,
+      "longitude": 32.4849
+    },
+    {
+      "zipcode": "75049",
+      "place": "Ульянівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 48.2375,
+      "longitude": 35.9758
+    },
+    {
+      "zipcode": "75050",
+      "place": "Олександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3642,
+      "longitude": 34.4085
+    },
+    {
+      "zipcode": "75051",
+      "place": "Станіслав",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5691,
+      "longitude": 32.1478
+    },
+    {
+      "zipcode": "75052",
+      "place": "Широка Балка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7915,
+      "longitude": 34.5307
+    },
+    {
+      "zipcode": "75053",
+      "place": "Софіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8357,
+      "longitude": 33.6345
+    },
+    {
+      "zipcode": "75055",
+      "place": "Тельмана",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7736,
+      "longitude": 32.7731
+    },
+    {
+      "zipcode": "75056",
+      "place": "Ясна Поляна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9883,
+      "longitude": 34.0042
+    },
+    {
+      "zipcode": "75057",
+      "place": "Придніпровське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1532,
+      "longitude": 33.8252
+    },
+    {
+      "zipcode": "75058",
+      "place": "Вісунці",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1532,
+      "longitude": 33.8252
+    },
+    {
+      "zipcode": "75059",
+      "place": "Мірошниківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 49.7501,
+      "longitude": 35.2774
+    },
+    {
+      "zipcode": "75100",
+      "place": "Олешки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9,
+      "longitude": 34.1333
+    },
+    {
+      "zipcode": "75101",
+      "place": "Олешки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9,
+      "longitude": 34.1333
+    },
+    {
+      "zipcode": "75109",
+      "place": "Солонці",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5749,
+      "longitude": 32.6735
+    },
+    {
+      "zipcode": "75110",
+      "place": "Козачі Лагері",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7037,
+      "longitude": 32.9776
+    },
+    {
+      "zipcode": "75111",
+      "place": "Кринки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7281,
+      "longitude": 33.0694
+    },
+    {
+      "zipcode": "75112",
+      "place": "Підстепне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6604,
+      "longitude": 32.8939
+    },
+    {
+      "zipcode": "75113",
+      "place": "Раденськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5486,
+      "longitude": 32.9279
+    },
+    {
+      "zipcode": "75115",
+      "place": "Челбурда",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6248,
+      "longitude": 32.9455
+    },
+    {
+      "zipcode": "75116",
+      "place": "Саги",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6011,
+      "longitude": 32.7864
+    },
+    {
+      "zipcode": "75117",
+      "place": "Підлісне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5744,
+      "longitude": 32.7056
+    },
+    {
+      "zipcode": "75118",
+      "place": "Піщанівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6493,
+      "longitude": 32.8396
+    },
+    {
+      "zipcode": "75119",
+      "place": "Марченка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.533,
+      "longitude": 33.3639
+    },
+    {
+      "zipcode": "75120",
+      "place": "Нова Маячка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6,
+      "longitude": 33.2271
+    },
+    {
+      "zipcode": "75123",
+      "place": "Щасливе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.546,
+      "longitude": 33.2768
+    },
+    {
+      "zipcode": "75124",
+      "place": "Подо-Калинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4982,
+      "longitude": 33.0996
+    },
+    {
+      "zipcode": "75125",
+      "place": "Стара Маячка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5104,
+      "longitude": 33.1809
+    },
+    {
+      "zipcode": "75126",
+      "place": "Ювілейне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4859,
+      "longitude": 33.2121
+    },
+    {
+      "zipcode": "75127",
+      "place": "Привільне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 44.7995,
+      "longitude": 34.3424
+    },
+    {
+      "zipcode": "75128",
+      "place": "Дружне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4429,
+      "longitude": 33.2137
+    },
+    {
+      "zipcode": "75129",
+      "place": "Поди",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4629,
+      "longitude": 32.8136
+    },
+    {
+      "zipcode": "75130",
+      "place": "Костогризове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4983,
+      "longitude": 32.8574
+    },
+    {
+      "zipcode": "75131",
+      "place": "Великі Копані",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4868,
+      "longitude": 32.975
+    },
+    {
+      "zipcode": "75133",
+      "place": "Добросілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4477,
+      "longitude": 32.9999
+    },
+    {
+      "zipcode": "75134",
+      "place": "Абрикосівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4882,
+      "longitude": 33.0693
+    },
+    {
+      "zipcode": "75135",
+      "place": "Ленінка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3855,
+      "longitude": 33.108
+    },
+    {
+      "zipcode": "75136",
+      "place": "Мирне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3893,
+      "longitude": 33.1807
+    },
+    {
+      "zipcode": "75137",
+      "place": "Цюрупинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4493,
+      "longitude": 33.0317
+    },
+    {
+      "zipcode": "75140",
+      "place": "Тарасівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4201,
+      "longitude": 33.0757
+    },
+    {
+      "zipcode": "75141",
+      "place": "Клини",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4074,
+      "longitude": 33.0503
+    },
+    {
+      "zipcode": "75142",
+      "place": "Привітне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3697,
+      "longitude": 33.1041
+    },
+    {
+      "zipcode": "75143",
+      "place": "Брилівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4248,
+      "longitude": 33.1472
+    },
+    {
+      "zipcode": "75144",
+      "place": "Виноградове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3696,
+      "longitude": 32.9398
+    },
+    {
+      "zipcode": "75201",
+      "place": "Чаплинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3651,
+      "longitude": 33.5403
+    },
+    {
+      "zipcode": "75205",
+      "place": "Нове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3614,
+      "longitude": 33.6103
+    },
+    {
+      "zipcode": "75206",
+      "place": "Червоний Яр",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.304,
+      "longitude": 33.4835
+    },
+    {
+      "zipcode": "75207",
+      "place": "Андріївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4983,
+      "longitude": 33.4316
+    },
+    {
+      "zipcode": "75208",
+      "place": "Чорна Долина",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5277,
+      "longitude": 33.4711
+    },
+    {
+      "zipcode": "75209",
+      "place": "Морозівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4729,
+      "longitude": 33.3911
+    },
+    {
+      "zipcode": "75210",
+      "place": "Магдалинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4925,
+      "longitude": 33.4625
+    },
+    {
+      "zipcode": "75211",
+      "place": "Скадовка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4271,
+      "longitude": 33.3303
+    },
+    {
+      "zipcode": "75212",
+      "place": "Балтазарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4173,
+      "longitude": 33.4047
+    },
+    {
+      "zipcode": "75213",
+      "place": "Преображенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3976,
+      "longitude": 33.4794
+    },
+    {
+      "zipcode": "75214",
+      "place": "Білоцерківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4633,
+      "longitude": 33.3008
+    },
+    {
+      "zipcode": "75215",
+      "place": "Комиш",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4454,
+      "longitude": 33.9503
+    },
+    {
+      "zipcode": "75216",
+      "place": "Рачівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3903,
+      "longitude": 33.4045
+    },
+    {
+      "zipcode": "75217",
+      "place": "Жовтневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3711,
+      "longitude": 33.4321
+    },
+    {
+      "zipcode": "75218",
+      "place": "Кудряве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5077,
+      "longitude": 33.5266
+    },
+    {
+      "zipcode": "75219",
+      "place": "Новий Гай",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4618,
+      "longitude": 33.5206
+    },
+    {
+      "zipcode": "75220",
+      "place": "Кучерявоволодимирівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4901,
+      "longitude": 33.5368
+    },
+    {
+      "zipcode": "75221",
+      "place": "Червона Поляна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.462,
+      "longitude": 33.5567
+    },
+    {
+      "zipcode": "75222",
+      "place": "Новонаталівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5075,
+      "longitude": 33.6801
+    },
+    {
+      "zipcode": "75223",
+      "place": "Шевченка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4968,
+      "longitude": 33.7161
+    },
+    {
+      "zipcode": "75224",
+      "place": "Долинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4669,
+      "longitude": 33.6417
+    },
+    {
+      "zipcode": "75225",
+      "place": "Хрестівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4029,
+      "longitude": 33.7207
+    },
+    {
+      "zipcode": "75226",
+      "place": "Надеждівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3976,
+      "longitude": 33.6429
+    },
+    {
+      "zipcode": "75227",
+      "place": "Наталівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5112,
+      "longitude": 33.6388
+    },
+    {
+      "zipcode": "75230",
+      "place": "Асканія-Нова",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4513,
+      "longitude": 33.8689
+    },
+    {
+      "zipcode": "75231",
+      "place": "Питомник",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4876,
+      "longitude": 33.9006
+    },
+    {
+      "zipcode": "75232",
+      "place": "Іллінка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4511,
+      "longitude": 33.7893
+    },
+    {
+      "zipcode": "75233",
+      "place": "Молочне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4129,
+      "longitude": 33.8836
+    },
+    {
+      "zipcode": "75234",
+      "place": "Хлібодарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4003,
+      "longitude": 33.8692
+    },
+    {
+      "zipcode": "75235",
+      "place": "Маркєєв",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5209,
+      "longitude": 34.0533
+    },
+    {
+      "zipcode": "75236",
+      "place": "Світле",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3817,
+      "longitude": 33.7769
+    },
+    {
+      "zipcode": "75237",
+      "place": "Новий Етап",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.473,
+      "longitude": 33.8828
+    },
+    {
+      "zipcode": "75238",
+      "place": "Веселе Друге",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3788,
+      "longitude": 33.9222
+    },
+    {
+      "zipcode": "75239",
+      "place": "Нововолодимирівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.247,
+      "longitude": 32.3936
+    },
+    {
+      "zipcode": "75240",
+      "place": "Григорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2933,
+      "longitude": 33.7341
+    },
+    {
+      "zipcode": "75241",
+      "place": "Павлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.297,
+      "longitude": 33.7934
+    },
+    {
+      "zipcode": "75242",
+      "place": "Першокостянтинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.248,
+      "longitude": 33.6759
+    },
+    {
+      "zipcode": "75243",
+      "place": "Строганівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2567,
+      "longitude": 33.8786
+    },
+    {
+      "zipcode": "75244",
+      "place": "Іванівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.246,
+      "longitude": 33.9268
+    },
+    {
+      "zipcode": "75300",
+      "place": "Новотроїцьке",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3243,
+      "longitude": 34.2812
+    },
+    {
+      "zipcode": "75304",
+      "place": "Благовіщенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3017,
+      "longitude": 34.2431
+    },
+    {
+      "zipcode": "75305",
+      "place": "Захарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2687,
+      "longitude": 34.3175
+    },
+    {
+      "zipcode": "75306",
+      "place": "Заозерне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2339,
+      "longitude": 34.3066
+    },
+    {
+      "zipcode": "75307",
+      "place": "Овер'янівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2201,
+      "longitude": 34.3745
+    },
+    {
+      "zipcode": "75308",
+      "place": "Калинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3126,
+      "longitude": 34.436
+    },
+    {
+      "zipcode": "75309",
+      "place": "Катерінівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6085,
+      "longitude": 34.0093
+    },
+    {
+      "zipcode": "75310",
+      "place": "Володимиро-Іллінка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6374,
+      "longitude": 34.0362
+    },
+    {
+      "zipcode": "75311",
+      "place": "Новорепівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.702,
+      "longitude": 34.1264
+    },
+    {
+      "zipcode": "75312",
+      "place": "Софіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5566,
+      "longitude": 34.0464
+    },
+    {
+      "zipcode": "75313",
+      "place": "Подове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5551,
+      "longitude": 34.1442
+    },
+    {
+      "zipcode": "75314",
+      "place": "Новоукраїнка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.688,
+      "longitude": 34.1253
+    },
+    {
+      "zipcode": "75315",
+      "place": "Качкарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5709,
+      "longitude": 34.2289
+    },
+    {
+      "zipcode": "75316",
+      "place": "Двійне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4955,
+      "longitude": 34.1996
+    },
+    {
+      "zipcode": "75317",
+      "place": "Кривий Ріг",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4286,
+      "longitude": 34.2498
+    },
+    {
+      "zipcode": "75319",
+      "place": "Попелак",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5263,
+      "longitude": 34.4316
+    },
+    {
+      "zipcode": "75320",
+      "place": "Чкалове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4801,
+      "longitude": 34.1804
+    },
+    {
+      "zipcode": "75321",
+      "place": "Ковильне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4952,
+      "longitude": 34.1519
+    },
+    {
+      "zipcode": "75322",
+      "place": "Воскресенське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4399,
+      "longitude": 34.1722
+    },
+    {
+      "zipcode": "75323",
+      "place": "Свирідонівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4954,
+      "longitude": 34.3655
+    },
+    {
+      "zipcode": "75324",
+      "place": "Ясна Поляна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3902,
+      "longitude": 33.9962
+    },
+    {
+      "zipcode": "75325",
+      "place": "Перемога",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4744,
+      "longitude": 34.4232
+    },
+    {
+      "zipcode": "75326",
+      "place": "Вознесенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2631,
+      "longitude": 34.2244
+    },
+    {
+      "zipcode": "75327",
+      "place": "Дружелюбівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.182,
+      "longitude": 34.0542
+    },
+    {
+      "zipcode": "75328",
+      "place": "Садове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2729,
+      "longitude": 34.3995
+    },
+    {
+      "zipcode": "75329",
+      "place": "Водославка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.291,
+      "longitude": 34.5883
+    },
+    {
+      "zipcode": "75330",
+      "place": "Федорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4578,
+      "longitude": 34.2633
+    },
+    {
+      "zipcode": "75331",
+      "place": "Горностаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5171,
+      "longitude": 34.2883
+    },
+    {
+      "zipcode": "75332",
+      "place": "Метрополь",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4672,
+      "longitude": 34.3464
+    },
+    {
+      "zipcode": "75333",
+      "place": "Дивне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5201,
+      "longitude": 34.4124
+    },
+    {
+      "zipcode": "75334",
+      "place": "Зелене",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4882,
+      "longitude": 34.4686
+    },
+    {
+      "zipcode": "75340",
+      "place": "Одрадівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3804,
+      "longitude": 34.4483
+    },
+    {
+      "zipcode": "75341",
+      "place": "Сиваське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3874,
+      "longitude": 34.5712
+    },
+    {
+      "zipcode": "75342",
+      "place": "Сиваське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3874,
+      "longitude": 34.5712
+    },
+    {
+      "zipcode": "75343",
+      "place": "Олександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3642,
+      "longitude": 34.4085
+    },
+    {
+      "zipcode": "75350",
+      "place": "Воскресенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3265,
+      "longitude": 34.1573
+    },
+    {
+      "zipcode": "75351",
+      "place": "Сергіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3023,
+      "longitude": 34.1663
+    },
+    {
+      "zipcode": "75352",
+      "place": "Громівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3108,
+      "longitude": 34.095
+    },
+    {
+      "zipcode": "75353",
+      "place": "Новопокровка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2742,
+      "longitude": 34.0689
+    },
+    {
+      "zipcode": "75354",
+      "place": "Новомиколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2487,
+      "longitude": 34.0137
+    },
+    {
+      "zipcode": "75355",
+      "place": "Василівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2041,
+      "longitude": 34.0632
+    },
+    {
+      "zipcode": "75360",
+      "place": "Сивашівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2557,
+      "longitude": 34.4328
+    },
+    {
+      "zipcode": "75361",
+      "place": "Новомихайлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2411,
+      "longitude": 34.4859
+    },
+    {
+      "zipcode": "75362",
+      "place": "Маячка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.287,
+      "longitude": 34.5021
+    },
+    {
+      "zipcode": "75401",
+      "place": "Іванівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7208,
+      "longitude": 34.553
+    },
+    {
+      "zipcode": "75403",
+      "place": "Широка Балка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7915,
+      "longitude": 34.5307
+    },
+    {
+      "zipcode": "75404",
+      "place": "Захарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7488,
+      "longitude": 34.3229
+    },
+    {
+      "zipcode": "75405",
+      "place": "Кірове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7313,
+      "longitude": 34.4082
+    },
+    {
+      "zipcode": "75406",
+      "place": "Новодмитрівка Перша",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7736,
+      "longitude": 34.3645
+    },
+    {
+      "zipcode": "75407",
+      "place": "Веселівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7109,
+      "longitude": 34.4421
+    },
+    {
+      "zipcode": "75409",
+      "place": "Мартівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5702,
+      "longitude": 34.635
+    },
+    {
+      "zipcode": "75410",
+      "place": "Новомиколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.8125,
+      "longitude": 34.5181
+    },
+    {
+      "zipcode": "75411",
+      "place": "Дружбівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7904,
+      "longitude": 34.7302
+    },
+    {
+      "zipcode": "75412",
+      "place": "Першотравневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7833,
+      "longitude": 34.6333
+    },
+    {
+      "zipcode": "75413",
+      "place": "Червоний Прапор",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6164,
+      "longitude": 34.6707
+    },
+    {
+      "zipcode": "75414",
+      "place": "Дмитрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5729,
+      "longitude": 34.2871
+    },
+    {
+      "zipcode": "75415",
+      "place": "Федорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.615,
+      "longitude": 34.2858
+    },
+    {
+      "zipcode": "75416",
+      "place": "Новознаменка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5515,
+      "longitude": 34.3323
+    },
+    {
+      "zipcode": "75417",
+      "place": "Михайлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5867,
+      "longitude": 34.5638
+    },
+    {
+      "zipcode": "75420",
+      "place": "Трохимівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7292,
+      "longitude": 34.3595
+    },
+    {
+      "zipcode": "75421",
+      "place": "Шотівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.7092,
+      "longitude": 34.487
+    },
+    {
+      "zipcode": "75422",
+      "place": "Агаймани",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6911,
+      "longitude": 34.4056
+    },
+    {
+      "zipcode": "75424",
+      "place": "Балашове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6734,
+      "longitude": 34.4041
+    },
+    {
+      "zipcode": "75424",
+      "place": "Квіткове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6525,
+      "longitude": 34.3718
+    },
+    {
+      "zipcode": "75430",
+      "place": "Українське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6303,
+      "longitude": 34.6281
+    },
+    {
+      "zipcode": "75431",
+      "place": "Новосеменівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6303,
+      "longitude": 34.6281
+    },
+    {
+      "zipcode": "75432",
+      "place": "Новавасилівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6303,
+      "longitude": 34.6281
+    },
+    {
+      "zipcode": "75440",
+      "place": "Благодатне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6239,
+      "longitude": 34.4189
+    },
+    {
+      "zipcode": "75441",
+      "place": "Новодмитрівка Друга",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.594,
+      "longitude": 34.3191
+    },
+    {
+      "zipcode": "75442",
+      "place": "Воскресенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5983,
+      "longitude": 34.5586
+    },
+    {
+      "zipcode": "75443",
+      "place": "Любимівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5569,
+      "longitude": 34.5287
+    },
+    {
+      "zipcode": "75444",
+      "place": "Тимофіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5586,
+      "longitude": 34.4039
+    },
+    {
+      "zipcode": "75500",
+      "place": "Генічеськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1759,
+      "longitude": 34.8034
+    },
+    {
+      "zipcode": "75502",
+      "place": "Генічеськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1759,
+      "longitude": 34.8034
+    },
+    {
+      "zipcode": "75504",
+      "place": "Генічеськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1759,
+      "longitude": 34.8034
+    },
+    {
+      "zipcode": "75510",
+      "place": "Павлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5018,
+      "longitude": 34.6076
+    },
+    {
+      "zipcode": "75511",
+      "place": "Петрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4929,
+      "longitude": 34.6758
+    },
+    {
+      "zipcode": "75512",
+      "place": "Привільне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 44.7995,
+      "longitude": 34.3424
+    },
+    {
+      "zipcode": "75513",
+      "place": "Велетнівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5537,
+      "longitude": 34.744
+    },
+    {
+      "zipcode": "75514",
+      "place": "Жовтневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5196,
+      "longitude": 34.7769
+    },
+    {
+      "zipcode": "75517",
+      "place": "Червоне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.2602,
+      "longitude": 33.66
+    },
+    {
+      "zipcode": "75519",
+      "place": "Ясна Поляна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1811,
+      "longitude": 34.6259
+    },
+    {
+      "zipcode": "75520",
+      "place": "Плавське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5056,
+      "longitude": 34.87
+    },
+    {
+      "zipcode": "75521",
+      "place": "Сокологірне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5014,
+      "longitude": 34.9465
+    },
+    {
+      "zipcode": "75522",
+      "place": "Виноградний Клин",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4724,
+      "longitude": 34.9867
+    },
+    {
+      "zipcode": "75523",
+      "place": "Новоіванівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4578,
+      "longitude": 34.8337
+    },
+    {
+      "zipcode": "75524",
+      "place": "Пробудження",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4291,
+      "longitude": 34.8421
+    },
+    {
+      "zipcode": "75525",
+      "place": "Салькове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1751,
+      "longitude": 34.6015
+    },
+    {
+      "zipcode": "75526",
+      "place": "Роздолля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5186,
+      "longitude": 34.8682
+    },
+    {
+      "zipcode": "75528",
+      "place": "Вільне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5029,
+      "longitude": 34.8289
+    },
+    {
+      "zipcode": "75530",
+      "place": "Рівне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3627,
+      "longitude": 34.7579
+    },
+    {
+      "zipcode": "75531",
+      "place": "Вікторівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4206,
+      "longitude": 34.7596
+    },
+    {
+      "zipcode": "75532",
+      "place": "Новий Мир",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3818,
+      "longitude": 34.8636
+    },
+    {
+      "zipcode": "75533",
+      "place": "Новоєфремівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4795,
+      "longitude": 34.9382
+    },
+    {
+      "zipcode": "75536",
+      "place": "Сергіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3542,
+      "longitude": 34.7231
+    },
+    {
+      "zipcode": "75540",
+      "place": "Новогригорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4125,
+      "longitude": 34.9746
+    },
+    {
+      "zipcode": "75541",
+      "place": "Новогригорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4125,
+      "longitude": 34.9746
+    },
+    {
+      "zipcode": "75542",
+      "place": "Озеряни",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3585,
+      "longitude": 35.0416
+    },
+    {
+      "zipcode": "75543",
+      "place": "Новий Азов",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2947,
+      "longitude": 35.0414
+    },
+    {
+      "zipcode": "75544",
+      "place": "Шлях Незаможника",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3676,
+      "longitude": 34.8097
+    },
+    {
+      "zipcode": "75545",
+      "place": "Стокопані",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2832,
+      "longitude": 34.9198
+    },
+    {
+      "zipcode": "75546",
+      "place": "Азовське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9575,
+      "longitude": 37.3422
+    },
+    {
+      "zipcode": "75547",
+      "place": "Придорожнє",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2197,
+      "longitude": 34.8385
+    },
+    {
+      "zipcode": "75549",
+      "place": "Пчілка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3208,
+      "longitude": 35.0534
+    },
+    {
+      "zipcode": "75550",
+      "place": "Рикове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2856,
+      "longitude": 34.7153
+    },
+    {
+      "zipcode": "75551",
+      "place": "Догмарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3301,
+      "longitude": 34.6806
+    },
+    {
+      "zipcode": "75552",
+      "place": "Гайове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3265,
+      "longitude": 34.7941
+    },
+    {
+      "zipcode": "75553",
+      "place": "Москаленка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2882,
+      "longitude": 34.744
+    },
+    {
+      "zipcode": "75554",
+      "place": "Олексіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0685,
+      "longitude": 33.4457
+    },
+    {
+      "zipcode": "75555",
+      "place": "Перекоп",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3158,
+      "longitude": 35.0247
+    },
+    {
+      "zipcode": "75556",
+      "place": "Комісарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2664,
+      "longitude": 35.0116
+    },
+    {
+      "zipcode": "75557",
+      "place": "Драгоманове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3371,
+      "longitude": 34.9599
+    },
+    {
+      "zipcode": "75558",
+      "place": "Нова Праця",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3105,
+      "longitude": 34.9686
+    },
+    {
+      "zipcode": "75559",
+      "place": "Муравейник",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3272,
+      "longitude": 34.809
+    },
+    {
+      "zipcode": "75560",
+      "place": "Новоолексіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2247,
+      "longitude": 34.6403
+    },
+    {
+      "zipcode": "75566",
+      "place": "Новодмитрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2089,
+      "longitude": 34.5149
+    },
+    {
+      "zipcode": "75567",
+      "place": "Бойове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2876,
+      "longitude": 34.6516
+    },
+    {
+      "zipcode": "75568",
+      "place": "Семихатка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1721,
+      "longitude": 34.7326
+    },
+    {
+      "zipcode": "75569",
+      "place": "Ярошник",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2233,
+      "longitude": 34.6349
+    },
+    {
+      "zipcode": "75570",
+      "place": "Чонгар",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.032,
+      "longitude": 34.5473
+    },
+    {
+      "zipcode": "75571",
+      "place": "Новий Труд",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0781,
+      "longitude": 34.5544
+    },
+    {
+      "zipcode": "75572",
+      "place": "Миколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1082,
+      "longitude": 34.608
+    },
+    {
+      "zipcode": "75573",
+      "place": "Атамань",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.017,
+      "longitude": 34.5003
+    },
+    {
+      "zipcode": "75574",
+      "place": "Сиваш",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 45.9691,
+      "longitude": 34.4903
+    },
+    {
+      "zipcode": "75575",
+      "place": "Веснянка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1645,
+      "longitude": 34.517
+    },
+    {
+      "zipcode": "75576",
+      "place": "Люблинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1854,
+      "longitude": 34.5704
+    },
+    {
+      "zipcode": "75577",
+      "place": "Чернігівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1443,
+      "longitude": 34.6045
+    },
+    {
+      "zipcode": "75578",
+      "place": "Попівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0434,
+      "longitude": 34.4952
+    },
+    {
+      "zipcode": "75579",
+      "place": "Залізничне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0174,
+      "longitude": 34.5157
+    },
+    {
+      "zipcode": "75580",
+      "place": "Щасливцеве",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0354,
+      "longitude": 34.8344
+    },
+    {
+      "zipcode": "75581",
+      "place": "Генічеська Гірка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0805,
+      "longitude": 34.8307
+    },
+    {
+      "zipcode": "75582",
+      "place": "Приозерне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0697,
+      "longitude": 34.7827
+    },
+    {
+      "zipcode": "75583",
+      "place": "Стрілкове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 45.8989,
+      "longitude": 34.8781
+    },
+    {
+      "zipcode": "75600",
+      "place": "Гола Пристань",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5272,
+      "longitude": 32.5242
+    },
+    {
+      "zipcode": "75602",
+      "place": "Гола Пристань",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5272,
+      "longitude": 32.5242
+    },
+    {
+      "zipcode": "75605",
+      "place": "Білогрудове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5506,
+      "longitude": 32.5204
+    },
+    {
+      "zipcode": "75606",
+      "place": "Кохани",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5304,
+      "longitude": 32.6161
+    },
+    {
+      "zipcode": "75607",
+      "place": "Виноградне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.9668,
+      "longitude": 32.6779
+    },
+    {
+      "zipcode": "75608",
+      "place": "Забарине",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4648,
+      "longitude": 32.3008
+    },
+    {
+      "zipcode": "75609",
+      "place": "Індустріальне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5945,
+      "longitude": 32.5272
+    },
+    {
+      "zipcode": "75610",
+      "place": "Велика Кардашинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5071,
+      "longitude": 32.659
+    },
+    {
+      "zipcode": "75611",
+      "place": "Кардашинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5071,
+      "longitude": 32.659
+    },
+    {
+      "zipcode": "75612",
+      "place": "Мала Кардашинка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5049,
+      "longitude": 32.5815
+    },
+    {
+      "zipcode": "75613",
+      "place": "Вільна Дружина",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3501,
+      "longitude": 32.0752
+    },
+    {
+      "zipcode": "75614",
+      "place": "Буркути",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4024,
+      "longitude": 32.7992
+    },
+    {
+      "zipcode": "75615",
+      "place": "Рідна Україна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3265,
+      "longitude": 32.6585
+    },
+    {
+      "zipcode": "75616",
+      "place": "Очаківське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3457,
+      "longitude": 32.0083
+    },
+    {
+      "zipcode": "75617",
+      "place": "Вільна Україна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.391,
+      "longitude": 32.4174
+    },
+    {
+      "zipcode": "75618",
+      "place": "Лиманівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.286,
+      "longitude": 32.1411
+    },
+    {
+      "zipcode": "75619",
+      "place": "Суворовка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2897,
+      "longitude": 32.1751
+    },
+    {
+      "zipcode": "75620",
+      "place": "Геройське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 45.1386,
+      "longitude": 33.7468
+    },
+    {
+      "zipcode": "75621",
+      "place": "Рибальче",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4751,
+      "longitude": 32.2358
+    },
+    {
+      "zipcode": "75622",
+      "place": "Садове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3568,
+      "longitude": 32.1832
+    },
+    {
+      "zipcode": "75623",
+      "place": "Іванівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3857,
+      "longitude": 32.0992
+    },
+    {
+      "zipcode": "75624",
+      "place": "Пам'ятне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1634,
+      "longitude": 32.5625
+    },
+    {
+      "zipcode": "75625",
+      "place": "Чорноморські Криниці",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2768,
+      "longitude": 32.0962
+    },
+    {
+      "zipcode": "75626",
+      "place": "Комуна",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1576,
+      "longitude": 33.2334
+    },
+    {
+      "zipcode": "75627",
+      "place": "Сліпушінське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2002,
+      "longitude": 32.3923
+    },
+    {
+      "zipcode": "75628",
+      "place": "Жовтневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2641,
+      "longitude": 32.5438
+    },
+    {
+      "zipcode": "75629",
+      "place": "Київка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2158,
+      "longitude": 32.5316
+    },
+    {
+      "zipcode": "75630",
+      "place": "Стара Збур'ївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4713,
+      "longitude": 32.4202
+    },
+    {
+      "zipcode": "75631",
+      "place": "Нова Збру'ївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3462,
+      "longitude": 32.5385
+    },
+    {
+      "zipcode": "75632",
+      "place": "Малі Копані",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4353,
+      "longitude": 32.7179
+    },
+    {
+      "zipcode": "75633",
+      "place": "Гладківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4113,
+      "longitude": 32.646
+    },
+    {
+      "zipcode": "75634",
+      "place": "Великий Клин",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3292,
+      "longitude": 32.6025
+    },
+    {
+      "zipcode": "75635",
+      "place": "Чулаківка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3576,
+      "longitude": 32.3514
+    },
+    {
+      "zipcode": "75636",
+      "place": "Новоселівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1978,
+      "longitude": 32.5989
+    },
+    {
+      "zipcode": "75637",
+      "place": "Берегове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.5698,
+      "longitude": 32.4141
+    },
+    {
+      "zipcode": "75638",
+      "place": "Калинівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1548,
+      "longitude": 32.5549
+    },
+    {
+      "zipcode": "75639",
+      "place": "Петрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1886,
+      "longitude": 32.5405
+    },
+    {
+      "zipcode": "75640",
+      "place": "Олександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6133,
+      "longitude": 32.1115
+    },
+    {
+      "zipcode": "75641",
+      "place": "Чорноморське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.25,
+      "longitude": 32.1833
+    },
+    {
+      "zipcode": "75642",
+      "place": "Олексіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2896,
+      "longitude": 32.2384
+    },
+    {
+      "zipcode": "75643",
+      "place": "Збур'ївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3843,
+      "longitude": 32.1778
+    },
+    {
+      "zipcode": "75644",
+      "place": "Облої",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3843,
+      "longitude": 32.1778
+    },
+    {
+      "zipcode": "75650",
+      "place": "Бехтери",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2479,
+      "longitude": 32.2912
+    },
+    {
+      "zipcode": "75651",
+      "place": "Новочорномор'я",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1668,
+      "longitude": 32.3218
+    },
+    {
+      "zipcode": "75652",
+      "place": "Новофедорівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1713,
+      "longitude": 32.3178
+    },
+    {
+      "zipcode": "75653",
+      "place": "Залізний Порт",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1167,
+      "longitude": 32.2833
+    },
+    {
+      "zipcode": "75654",
+      "place": "Круглоозерка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1314,
+      "longitude": 32.3949
+    },
+    {
+      "zipcode": "75655",
+      "place": "Приморське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1668,
+      "longitude": 32.3218
+    },
+    {
+      "zipcode": "75656",
+      "place": "Таврійське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1668,
+      "longitude": 32.3218
+    },
+    {
+      "zipcode": "75660",
+      "place": "Нововолодимирівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.247,
+      "longitude": 32.3936
+    },
+    {
+      "zipcode": "75661",
+      "place": "Зеленотропинське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2712,
+      "longitude": 32.4457
+    },
+    {
+      "zipcode": "75662",
+      "place": "Долматівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2143,
+      "longitude": 32.4678
+    },
+    {
+      "zipcode": "75663",
+      "place": "Добропілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2344,
+      "longitude": 32.5825
+    },
+    {
+      "zipcode": "75664",
+      "place": "Новософіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1642,
+      "longitude": 32.5052
+    },
+    {
+      "zipcode": "75700",
+      "place": "Скадовськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1161,
+      "longitude": 32.9112
+    },
+    {
+      "zipcode": "75701",
+      "place": "Скадовськ",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1161,
+      "longitude": 32.9112
+    },
+    {
+      "zipcode": "75705",
+      "place": "Антонівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1432,
+      "longitude": 32.9507
+    },
+    {
+      "zipcode": "75706",
+      "place": "Озерне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1157,
+      "longitude": 32.8408
+    },
+    {
+      "zipcode": "75707",
+      "place": "Степне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1599,
+      "longitude": 32.8111
+    },
+    {
+      "zipcode": "75708",
+      "place": "Труд",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2936,
+      "longitude": 32.7287
+    },
+    {
+      "zipcode": "75709",
+      "place": "Промінь",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3359,
+      "longitude": 32.7568
+    },
+    {
+      "zipcode": "75710",
+      "place": "Михайлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.281,
+      "longitude": 32.6547
+    },
+    {
+      "zipcode": "75711",
+      "place": "Карабулат",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2703,
+      "longitude": 32.8033
+    },
+    {
+      "zipcode": "75712",
+      "place": "Новомиколаївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2281,
+      "longitude": 32.7362
+    },
+    {
+      "zipcode": "75713",
+      "place": "Біленьке",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2759,
+      "longitude": 32.7886
+    },
+    {
+      "zipcode": "75714",
+      "place": "Новосілка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3102,
+      "longitude": 32.8122
+    },
+    {
+      "zipcode": "75715",
+      "place": "Лиманське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2703,
+      "longitude": 32.8033
+    },
+    {
+      "zipcode": "75716",
+      "place": "Велика Андронівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2764,
+      "longitude": 32.8679
+    },
+    {
+      "zipcode": "75717",
+      "place": "Гостроподолянське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2703,
+      "longitude": 32.8033
+    },
+    {
+      "zipcode": "75718",
+      "place": "Андріївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2585,
+      "longitude": 32.9335
+    },
+    {
+      "zipcode": "75719",
+      "place": "Мала Андронівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2623,
+      "longitude": 32.8302
+    },
+    {
+      "zipcode": "75720",
+      "place": "Красне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1309,
+      "longitude": 32.7691
+    },
+    {
+      "zipcode": "75721",
+      "place": "Володимирівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1245,
+      "longitude": 32.6507
+    },
+    {
+      "zipcode": "75722",
+      "place": "Лазурне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.084,
+      "longitude": 32.5296
+    },
+    {
+      "zipcode": "75724",
+      "place": "Петрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2349,
+      "longitude": 32.8527
+    },
+    {
+      "zipcode": "75725",
+      "place": "Новоросійське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2271,
+      "longitude": 32.9007
+    },
+    {
+      "zipcode": "75726",
+      "place": "Хатки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3549,
+      "longitude": 33.0849
+    },
+    {
+      "zipcode": "75727",
+      "place": "Малоолександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3657,
+      "longitude": 33.1136
+    },
+    {
+      "zipcode": "75728",
+      "place": "Вишневе",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2618,
+      "longitude": 33.007
+    },
+    {
+      "zipcode": "75729",
+      "place": "Миколаівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2598,
+      "longitude": 33.1982
+    },
+    {
+      "zipcode": "75730",
+      "place": "Широке",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1995,
+      "longitude": 32.9019
+    },
+    {
+      "zipcode": "75731",
+      "place": "Ульянівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 48.2375,
+      "longitude": 35.9758
+    },
+    {
+      "zipcode": "75732",
+      "place": "Шевченка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.4968,
+      "longitude": 33.7161
+    },
+    {
+      "zipcode": "75733",
+      "place": "Комсомольське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3404,
+      "longitude": 33.1523
+    },
+    {
+      "zipcode": "75734",
+      "place": "Зелене",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.264,
+      "longitude": 33.1151
+    },
+    {
+      "zipcode": "75735",
+      "place": "Грушівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2254,
+      "longitude": 33.1128
+    },
+    {
+      "zipcode": "75736",
+      "place": "Дарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1963,
+      "longitude": 33.1937
+    },
+    {
+      "zipcode": "75740",
+      "place": "Птахівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2943,
+      "longitude": 33.0899
+    },
+    {
+      "zipcode": "75741",
+      "place": "Таврія",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3286,
+      "longitude": 33.028
+    },
+    {
+      "zipcode": "75742",
+      "place": "Радісне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 47.1832,
+      "longitude": 35.4009
+    },
+    {
+      "zipcode": "75743",
+      "place": "Благодатне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.6239,
+      "longitude": 34.4189
+    },
+    {
+      "zipcode": "75750",
+      "place": "Приморське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1496,
+      "longitude": 33.1353
+    },
+    {
+      "zipcode": "75751",
+      "place": "Тарасівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1447,
+      "longitude": 33.1164
+    },
+    {
+      "zipcode": "75752",
+      "place": "Новоукраїнка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1544,
+      "longitude": 33.1541
+    },
+    {
+      "zipcode": "75800",
+      "place": "Каланчак",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2562,
+      "longitude": 33.2907
+    },
+    {
+      "zipcode": "75804",
+      "place": "Новокиївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3591,
+      "longitude": 33.2361
+    },
+    {
+      "zipcode": "75805",
+      "place": "Каїрка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2781,
+      "longitude": 33.6058
+    },
+    {
+      "zipcode": "75806",
+      "place": "Вербове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.161,
+      "longitude": 33.2885
+    },
+    {
+      "zipcode": "75807",
+      "place": "Ставки",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.17,
+      "longitude": 33.5665
+    },
+    {
+      "zipcode": "75808",
+      "place": "Пам'ятник",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2616,
+      "longitude": 33.5295
+    },
+    {
+      "zipcode": "75809",
+      "place": "Польове",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2636,
+      "longitude": 33.5068
+    },
+    {
+      "zipcode": "75810",
+      "place": "Роздольне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1576,
+      "longitude": 33.2334
+    },
+    {
+      "zipcode": "75811",
+      "place": "Привілля",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1623,
+      "longitude": 33.3524
+    },
+    {
+      "zipcode": "75812",
+      "place": "Максима Горького",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1567,
+      "longitude": 33.3484
+    },
+    {
+      "zipcode": "75813",
+      "place": "Хорли",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.08,
+      "longitude": 33.2972
+    },
+    {
+      "zipcode": "75814",
+      "place": "Бабенківка Друга",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2019,
+      "longitude": 33.3639
+    },
+    {
+      "zipcode": "75815",
+      "place": "Бабенківка Перша",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1819,
+      "longitude": 33.4951
+    },
+    {
+      "zipcode": "75816",
+      "place": "Приморське",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1567,
+      "longitude": 33.3484
+    },
+    {
+      "zipcode": "75820",
+      "place": "Новопавлівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3242,
+      "longitude": 33.3986
+    },
+    {
+      "zipcode": "75821",
+      "place": "Новоолександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2635,
+      "longitude": 33.4016
+    },
+    {
+      "zipcode": "75822",
+      "place": "Мирне",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.2515,
+      "longitude": 33.465
+    },
+    {
+      "zipcode": "75830",
+      "place": "Преображенка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.3976,
+      "longitude": 33.4794
+    },
+    {
+      "zipcode": "75831",
+      "place": "Макарівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.236,
+      "longitude": 33.5299
+    },
+    {
+      "zipcode": "75832",
+      "place": "Гаврилівка Друга",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1794,
+      "longitude": 33.4688
+    },
+    {
+      "zipcode": "75840",
+      "place": "Олександрівка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.1183,
+      "longitude": 33.4788
+    },
+    {
+      "zipcode": "75841",
+      "place": "Олексіївка",
+      "oblast": "Херсонська область",
+      "oblast_en": "Kherson Oblast",
+      "iso_3166_2": "UA-65",
+      "latitude": 46.0685,
+      "longitude": 33.4457
+    }
+  ],
+  "meta": {
+    "title": "Поштові індекси: Херсонська область - Безкоштовне завантаження",
+    "description": "Поштові індекси населених пунктів — Херсонська область (731 записів). Назви українською, координати WGS84, ISO 3166-2 UA-65. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv. Містить 731 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Поштові індекси: Херсонська область | ListBase",
+    "seo_description": "Завантажити Поштові індекси: Херсонська область — 731 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 731 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

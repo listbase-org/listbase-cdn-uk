@@ -1,0 +1,361 @@
+{
+  "id": "uk-vinnytska-mista",
+  "name": "Міста Вінницької області",
+  "title": "Міста Вінницької області",
+  "description": "Список 18 міст Вінницької області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA05020030010063857",
+      "name": "Вінниця",
+      "name_en": "Vinnytsia",
+      "slug": "vinnytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05020030000031457",
+      "hromada_name": "Вінницька міська громада",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020070010053570",
+      "name": "Гнівань",
+      "name_en": "Hnivan",
+      "slug": "hnivan",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05020070000010139",
+      "hromada_name": "Гніванська міська громада",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020090010088788",
+      "name": "Іллінці",
+      "name_en": "Illintsi",
+      "slug": "illintsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05020090000067118",
+      "hromada_name": "Іллінецька міська громада",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020110010028819",
+      "name": "Липовець",
+      "name_en": "Lypovets",
+      "slug": "lypovets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05020110000052014",
+      "hromada_name": "Липовецька міська громада",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020170010087489",
+      "name": "Немирів",
+      "name_en": "Nemyriv",
+      "slug": "nemyriv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05020170000049432",
+      "hromada_name": "Немирівська міська громада",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020210010023649",
+      "name": "Погребище",
+      "name_en": "Pohrebyshche",
+      "slug": "pohrebyshche",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05020210000033427",
+      "hromada_name": "Погребищенська міська громада",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040010010024726",
+      "name": "Бершадь",
+      "name_en": "Bershad",
+      "slug": "bershad",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05040010000022470",
+      "hromada_name": "Бершадська міська громада",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040030010071792",
+      "name": "Гайсин",
+      "name_en": "Haisyn",
+      "slug": "haisyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05040030000050131",
+      "hromada_name": "Гайсинська міська громада",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040130010040578",
+      "name": "Ладижин",
+      "name_en": "Ladyzhyn",
+      "slug": "ladyzhyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05040130000025322",
+      "hromada_name": "Ладижинська міська громада",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060010010059821",
+      "name": "Бар",
+      "name_en": "Bar",
+      "slug": "bar",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05060010000053179",
+      "hromada_name": "Барська міська громада",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060050010030599",
+      "name": "Жмеринка",
+      "name_en": "Zhmerynka",
+      "slug": "zhmerynka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05060050000058111",
+      "hromada_name": "Жмеринська міська громада",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060150010066273",
+      "name": "Шаргород",
+      "name_en": "Sharhorod",
+      "slug": "sharhorod",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05060150000094411",
+      "hromada_name": "Шаргородська міська громада",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080050010069812",
+      "name": "Могилів-Подільський",
+      "name_en": "Mohyliv-Podilskyi",
+      "slug": "mohyliv-podilskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05080050000023603",
+      "hromada_name": "Могилів-Подільська міська громада",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080110010069634",
+      "name": "Ямпіль",
+      "name_en": "Yampil",
+      "slug": "yampil",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05080110000056824",
+      "hromada_name": "Ямпільська міська громада",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100150010035552",
+      "name": "Тульчин",
+      "name_en": "Tulchyn",
+      "slug": "tulchyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05100150000050790",
+      "hromada_name": "Тульчинська міська громада",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120070010068103",
+      "name": "Калинівка",
+      "name_en": "Kalynivka",
+      "slug": "kalynivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05120070000075759",
+      "hromada_name": "Калинівська міська громада",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120090010077573",
+      "name": "Козятин",
+      "name_en": "Koziatyn",
+      "slug": "koziatyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05120090000060589",
+      "hromada_name": "Козятинська міська громада",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120170010081140",
+      "name": "Хмільник",
+      "name_en": "Khmilnyk",
+      "slug": "khmilnyk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA05120170000013778",
+      "hromada_name": "Хмільницька міська громада",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Вінницької області - Безкоштовне завантаження",
+    "description": "Список 18 міст Вінницької області (категорія М у КАТОТТГ). Містить 18 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Вінницької області | ListBase",
+    "seo_description": "Завантажити Міста Вінницької області — 18 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 18 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

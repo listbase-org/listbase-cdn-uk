@@ -1,0 +1,116 @@
+{
+  "id": "uk-chernihivska-rayony",
+  "name": "Райони Чернігівської області",
+  "title": "Райони Чернігівської області",
+  "description": "Список усіх 5 районів Чернігівської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA74020000000089267",
+      "name": "Корюківський район",
+      "name_en": "Koriukivskyi raion",
+      "slug": "koriukivskyi-raion",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska",
+      "parent_code": "UA74000000000025378"
+    },
+    {
+      "code": "UA74040000000028062",
+      "name": "Ніжинський район",
+      "name_en": "Nizhynskyi raion",
+      "slug": "nizhynskyi-raion",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska",
+      "parent_code": "UA74000000000025378"
+    },
+    {
+      "code": "UA74060000000063946",
+      "name": "Новгород-Сіверський район",
+      "name_en": "Novhorod-Siverskyi raion",
+      "slug": "novhorod-siverskyi-raion",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska",
+      "parent_code": "UA74000000000025378"
+    },
+    {
+      "code": "UA74080000000030554",
+      "name": "Прилуцький район",
+      "name_en": "Prylutskyi raion",
+      "slug": "prylutskyi-raion",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska",
+      "parent_code": "UA74000000000025378"
+    },
+    {
+      "code": "UA74100000000047140",
+      "name": "Чернігівський район",
+      "name_en": "Chernihivskyi raion",
+      "slug": "chernihivskyi-raion",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska",
+      "parent_code": "UA74000000000025378"
+    }
+  ],
+  "meta": {
+    "title": "Райони Чернігівської області - Безкоштовне завантаження",
+    "description": "Список усіх 5 районів Чернігівської області згідно з КАТОТТГ (реформа 2020 року). Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Чернігівської області | ListBase",
+    "seo_description": "Завантажити Райони Чернігівської області — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

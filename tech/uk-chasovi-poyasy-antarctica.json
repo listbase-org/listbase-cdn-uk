@@ -1,0 +1,144 @@
+{
+  "id": "uk-chasovi-poyasy-antarctica",
+  "name": "Часові пояси — Antarctica (11)",
+  "title": "Часові пояси — Antarctica (11)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Antarctica/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Antarctica/Casey",
+      "rehion": "Antarctica",
+      "misto": "Кейсі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Antarctica/Davis",
+      "rehion": "Antarctica",
+      "misto": "Девіс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Antarctica/DumontDUrville",
+      "rehion": "Antarctica",
+      "misto": "Дюмон-дʼЮрвіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Antarctica/Macquarie",
+      "rehion": "Antarctica",
+      "misto": "Маккуорі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Antarctica/Mawson",
+      "rehion": "Antarctica",
+      "misto": "Моусон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Antarctica/McMurdo",
+      "rehion": "Antarctica",
+      "misto": "Мак-Мердо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Antarctica/Palmer",
+      "rehion": "Antarctica",
+      "misto": "Палмер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Antarctica/Rothera",
+      "rehion": "Antarctica",
+      "misto": "Ротера",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Antarctica/Syowa",
+      "rehion": "Antarctica",
+      "misto": "Сьова",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Antarctica/Troll",
+      "rehion": "Antarctica",
+      "misto": "Тролл",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Antarctica/Vostok",
+      "rehion": "Antarctica",
+      "misto": "Восток",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Antarctica (11) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Antarctica/', з назвами українською. Містить 11 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Antarctica (11) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Antarctica (11) — 11 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 11 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

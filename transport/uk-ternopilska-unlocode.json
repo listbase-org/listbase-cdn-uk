@@ -1,0 +1,367 @@
+{
+  "id": "uk-ternopilska-unlocode",
+  "name": "Коди UN/LOCODE — Тернопільська область",
+  "title": "Коди UN/LOCODE — Тернопільська область",
+  "description": "Коди UN/LOCODE у межах адміністративної одиниці «Тернопільська область» (Ternopil Oblast, UA-61), 8 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (6), Multimodal transport facility (1), Rail transport (1), Air transport (airport) (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 61); all fields carried verbatim from the parent, nothing translated or recomputed.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_iso_3166_2",
+      "label": "Oblast Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "unlocode_subdivision_name",
+      "label": "Unlocode Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 9,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UABCH",
+      "country": "UA",
+      "location": "BCH",
+      "name": "Buchach",
+      "name_wo_diacritics": "Buchach",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4905N 02524E",
+      "latitude": 49.0833,
+      "longitude": 25.4,
+      "date_updated": "2012-01",
+      "remarks": ""
+    },
+    {
+      "id": 2,
+      "parent_index": 126,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UAMKS",
+      "country": "UA",
+      "location": "MKS",
+      "name": "Shman'kovchyki",
+      "name_wo_diacritics": "Shman'kovchyki",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4858N 02554E",
+      "latitude": 48.9667,
+      "longitude": 25.9,
+      "date_updated": "2016-07",
+      "remarks": ""
+    },
+    {
+      "id": 3,
+      "parent_index": 151,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UAOZN",
+      "country": "UA",
+      "location": "OZN",
+      "name": "Ozerna",
+      "name_wo_diacritics": "Ozerna",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4937N 02519E",
+      "latitude": 49.6167,
+      "longitude": 25.3167,
+      "date_updated": "2010-01",
+      "remarks": ""
+    },
+    {
+      "id": 4,
+      "parent_index": 158,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UAPLO",
+      "country": "UA",
+      "location": "PLO",
+      "name": "Plotycha",
+      "name_wo_diacritics": "Plotycha",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4937N 02534E",
+      "latitude": 49.6167,
+      "longitude": 25.5667,
+      "date_updated": "2013-01",
+      "remarks": ""
+    },
+    {
+      "id": 5,
+      "parent_index": 188,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UASPA",
+      "country": "UA",
+      "location": "SPA",
+      "name": "Skala-Podil's'Ka",
+      "name_wo_diacritics": "Skala-Podil's'Ka",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4851N 02612E",
+      "latitude": 48.85,
+      "longitude": 26.2,
+      "date_updated": "2015-01",
+      "remarks": ""
+    },
+    {
+      "id": 6,
+      "parent_index": 197,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UATER",
+      "country": "UA",
+      "location": "TER",
+      "name": "Terebovlya",
+      "name_wo_diacritics": "Terebovlya",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4917N 02541E",
+      "latitude": 49.2833,
+      "longitude": 25.6833,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 7,
+      "parent_index": 200,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UATNL",
+      "country": "UA",
+      "location": "TNL",
+      "name": "Ternopol",
+      "name_wo_diacritics": "Ternopol",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "---4----",
+      "functions": "Air transport (airport)",
+      "iata": "",
+      "coordinates": "4933N 02535E",
+      "latitude": 49.55,
+      "longitude": 25.5833,
+      "date_updated": "2002-12",
+      "remarks": ""
+    },
+    {
+      "id": 8,
+      "parent_index": 218,
+      "oblast_uk": "Тернопільська область",
+      "oblast_en": "Ternopil Oblast",
+      "oblast_slug": "ternopilska",
+      "oblast_iso_3166_2": "UA-61",
+      "unlocode_subdivision_name": "Ternopilska oblast",
+      "locode": "UAVEY",
+      "country": "UA",
+      "location": "VEY",
+      "name": "Velikiy",
+      "name_wo_diacritics": "Velikiy",
+      "subdivision_code": "61",
+      "subdivision_name": "Ternopilska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4937N 02531E",
+      "latitude": 49.6167,
+      "longitude": 25.5167,
+      "date_updated": "2002-07",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Коди UN/LOCODE — Тернопільська область - Безкоштовне завантаження",
+    "description": "Коди UN/LOCODE у межах адміністративної одиниці «Тернопільська область» (Ternopil Oblast, UA-61), 8 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (6), Multimodal transport facility (1), Rail transport (1), Air transport (airport) (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 61); all fields carried verbatim from the parent, nothing translated or recomputed. Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Коди UN/LOCODE — Тернопільська область | ListBase",
+    "seo_description": "Завантажити Коди UN/LOCODE — Тернопільська область — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 25 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

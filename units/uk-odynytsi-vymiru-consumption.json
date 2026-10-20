@@ -1,0 +1,97 @@
+{
+  "id": "uk-odynytsi-vymiru-consumption",
+  "name": "Одиниці вимірювання — категорія 'consumption' (4)",
+  "title": "Одиниці вимірювання — категорія 'consumption' (4)",
+  "description": "Одиниці вимірювання категорії 'consumption' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "katehoriia": "consumption",
+      "nazva": "літри на 100 кілометрів",
+      "skorochennia": "л/100 км",
+      "vuzka_forma": "л/100 км",
+      "vzirets": "{0} літра на 100 кілометрів"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "katehoriia": "consumption",
+      "nazva": "літри на кілометр",
+      "skorochennia": "літри/км",
+      "vuzka_forma": "л/км",
+      "vzirets": "{0} літра на кілометр"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "katehoriia": "consumption",
+      "nazva": "милі на галон",
+      "skorochennia": "милі/гал",
+      "vuzka_forma": "мл/гал",
+      "vzirets": "{0} милі на галон"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "katehoriia": "consumption",
+      "nazva": "милі на англійський галон",
+      "skorochennia": "милі/англ. гал",
+      "vuzka_forma": "мл/англ.гал",
+      "vzirets": "{0} милі на англійський галон"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'consumption' (4) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'consumption' з локалі uk у CLDR, з назвами українською. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'consumption' (4) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'consumption' (4) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

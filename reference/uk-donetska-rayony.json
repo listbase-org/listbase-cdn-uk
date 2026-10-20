@@ -1,0 +1,146 @@
+{
+  "id": "uk-donetska-rayony",
+  "name": "Райони Донецької області",
+  "title": "Райони Донецької області",
+  "description": "Список усіх 8 районів Донецької області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA14020000000013572",
+      "name": "Бахмутський район",
+      "name_en": "Bakhmutskyi raion",
+      "slug": "bakhmutskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14040000000098211",
+      "name": "Волноваський район",
+      "name_en": "Volnovaskyi raion",
+      "slug": "volnovaskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14060000000024357",
+      "name": "Горлівський район",
+      "name_en": "Horlivskyi raion",
+      "slug": "horlivskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14080000000098686",
+      "name": "Донецький район",
+      "name_en": "Donetskyi raion",
+      "slug": "donetskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14100000000010319",
+      "name": "Кальміуський район",
+      "name_en": "Kalmiuskyi raion",
+      "slug": "kalmiuskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14120000000070232",
+      "name": "Краматорський район",
+      "name_en": "Kramatorskyi raion",
+      "slug": "kramatorskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14140000000070889",
+      "name": "Маріупольський район",
+      "name_en": "Mariupolskyi raion",
+      "slug": "mariupolskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    },
+    {
+      "code": "UA14160000000061982",
+      "name": "Покровський район",
+      "name_en": "Pokrovskyi raion",
+      "slug": "pokrovskyi-raion",
+      "oblast_id": 5,
+      "oblast_name": "Донецька область",
+      "oblast_slug": "donetska",
+      "parent_code": "UA14000000000091971"
+    }
+  ],
+  "meta": {
+    "title": "Райони Донецької області - Безкоштовне завантаження",
+    "description": "Список усіх 8 районів Донецької області згідно з КАТОТТГ (реформа 2020 року). Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Донецької області | ListBase",
+    "seo_description": "Завантажити Райони Донецької області — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

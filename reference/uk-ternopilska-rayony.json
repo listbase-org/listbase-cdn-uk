@@ -1,0 +1,106 @@
+{
+  "id": "uk-ternopilska-rayony",
+  "name": "Райони Тернопільської області",
+  "title": "Райони Тернопільської області",
+  "description": "Список усіх 4 районів Тернопільської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA61020000000016944",
+      "name": "Кременецький район",
+      "name_en": "Kremenetskyi raion",
+      "slug": "kremenetskyi-raion",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska",
+      "parent_code": "UA61000000000060328"
+    },
+    {
+      "code": "UA61040000000090285",
+      "name": "Тернопільський район",
+      "name_en": "Ternopilskyi raion",
+      "slug": "ternopilskyi-raion",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska",
+      "parent_code": "UA61000000000060328"
+    },
+    {
+      "code": "UA61040000000090285",
+      "name": "Тернопільський район",
+      "name_en": "Ternopilskyi raion",
+      "slug": "ternopilskyi-raion",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska",
+      "parent_code": "UA61000000000060328"
+    },
+    {
+      "code": "UA61060000000068766",
+      "name": "Чортківський район",
+      "name_en": "Chortkivskyi raion",
+      "slug": "chortkivskyi-raion",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska",
+      "parent_code": "UA61000000000060328"
+    }
+  ],
+  "meta": {
+    "title": "Райони Тернопільської області - Безкоштовне завантаження",
+    "description": "Список усіх 4 районів Тернопільської області згідно з КАТОТТГ (реформа 2020 року). Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Тернопільської області | ListBase",
+    "seo_description": "Завантажити Райони Тернопільської області — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

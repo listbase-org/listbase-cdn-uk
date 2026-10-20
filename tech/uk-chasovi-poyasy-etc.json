@@ -1,0 +1,72 @@
+{
+  "id": "uk-chasovi-poyasy-etc",
+  "name": "Часові пояси — Etc (2)",
+  "title": "Часові пояси — Etc (2)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Etc/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Etc/UTC",
+      "rehion": "Etc",
+      "misto": "",
+      "standartna_nazva": "за всесвітнім координованим часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Etc/Unknown",
+      "rehion": "Etc",
+      "misto": "Невідоме місто",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Etc (2) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Etc/', з назвами українською. Містить 2 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Etc (2) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Etc (2) — 2 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 2 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

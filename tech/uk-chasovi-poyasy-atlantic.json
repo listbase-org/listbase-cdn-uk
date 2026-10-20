@@ -1,0 +1,136 @@
+{
+  "id": "uk-chasovi-poyasy-atlantic",
+  "name": "Часові пояси — Atlantic (10)",
+  "title": "Часові пояси — Atlantic (10)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Atlantic/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "rehion": "Atlantic",
+      "misto": "Азорські острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Bermuda",
+      "rehion": "Atlantic",
+      "misto": "Бермуди",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Canary",
+      "rehion": "Atlantic",
+      "misto": "Канарські острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Cape_Verde",
+      "rehion": "Atlantic",
+      "misto": "Кабо-Верде",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Faeroe",
+      "rehion": "Atlantic",
+      "misto": "Фарерські острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/Madeira",
+      "rehion": "Atlantic",
+      "misto": "Мадейра",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/Reykjavik",
+      "rehion": "Atlantic",
+      "misto": "Рейкʼявік",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Atlantic/South_Georgia",
+      "rehion": "Atlantic",
+      "misto": "Південна Джорджія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Atlantic/St_Helena",
+      "rehion": "Atlantic",
+      "misto": "Острів Святої Єлени",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Atlantic/Stanley",
+      "rehion": "Atlantic",
+      "misto": "Стенлі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Atlantic (10) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Atlantic/', з назвами українською. Містить 10 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Atlantic (10) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Atlantic (10) — 10 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 10 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

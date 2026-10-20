@@ -1,0 +1,79 @@
+{
+  "id": "uk-cherkasy-banky",
+  "name": "Банки в Черкасах — коди SWIFT/BIC (Cherkasy bank SWIFT/BIC codes)",
+  "title": "Банки в Черкасах — коди SWIFT/BIC (Cherkasy bank SWIFT/BIC codes)",
+  "description": "Перелік: 4 банківських установ у місті Черкаси (Cherkasy) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"CHERKASY\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 63,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "CHERKASY",
+      "branch": "(CHERKASY BRANCH)",
+      "swift_code": "EXBSUAUXCHK"
+    },
+    {
+      "id": 106,
+      "bank": "MEGABANK PJSC",
+      "city": "CHERKASY",
+      "branch": "",
+      "swift_code": "DBBKUA2KCHK"
+    },
+    {
+      "id": 144,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "CHERKASY",
+      "branch": "",
+      "swift_code": "PBANUA2XCHK"
+    },
+    {
+      "id": 226,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "CHERKASY",
+      "branch": "(CHERKASY REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKCHK"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Черкасах — коди SWIFT/BIC (Cherkasy bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 4 банківських установ у місті Черкаси (Cherkasy) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"CHERKASY\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Черкасах — коди SWIFT/BIC (Cherkasy bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Черкасах — коди SWIFT/BIC (Cherkasy bank SWIFT/BIC codes) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

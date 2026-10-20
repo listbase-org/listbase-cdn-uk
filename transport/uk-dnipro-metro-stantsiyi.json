@@ -1,0 +1,247 @@
+{
+  "id": "uk-dnipro-metro-stantsiyi",
+  "name": "Станції метро — Дніпро",
+  "title": "Станції метро — Дніпро",
+  "description": "6 станцій метро міста Дніпро. Джерело: HeadHunter API через nalgeon/metro (коміт e368582, 2026-04-21). Примітка: вихідне джерело (HeadHunter API) надає назви українських міст у російській формі (Киев / Днепр / Харьков); у полі city_name_localized збережено канонічну українську форму (Київ / Дніпро / Харків), а в city_name_source_localized — оригінальну версію джерела.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_localized",
+      "label": "Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "line_id",
+      "label": "Line Id",
+      "type": "number"
+    },
+    {
+      "key": "line_name_localized",
+      "label": "Line Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "line_name_romanized",
+      "label": "Line Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "line_color",
+      "label": "Line Color",
+      "type": "string"
+    },
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_name_localized",
+      "label": "City Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_romanized",
+      "label": "City Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_source_localized",
+      "label": "City Name Source Localized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_source_romanized",
+      "label": "City Name Source Romanized",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "station_order",
+      "label": "Station Order",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_localized",
+      "label": "Country Localized",
+      "type": "string"
+    },
+    {
+      "key": "country_romanized",
+      "label": "Country Romanized",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "58.367",
+      "name_localized": "Вокзальная",
+      "name_romanized": "Vokzalna",
+      "line_id": "58",
+      "line_name_localized": "Центрально-Заводская",
+      "line_name_romanized": "Tsentralno-Zavodska",
+      "line_color": "BD1018",
+      "city_id": "117",
+      "city_slug": "dnipro",
+      "city_name_localized": "Дніпро",
+      "city_name_romanized": "Dnipro",
+      "city_name_source_localized": "Днепр (Днепропетровск)",
+      "city_name_source_romanized": "Dnieper (Dnepropetrovsk)",
+      "latitude": 48.475457,
+      "longitude": 35.015926,
+      "station_order": 0,
+      "country_code": "UA",
+      "country_localized": "Україна",
+      "country_romanized": "Ukraine"
+    },
+    {
+      "id": "58.368",
+      "name_localized": "Метростроителей",
+      "name_romanized": "Metrobudivnykiv",
+      "line_id": "58",
+      "line_name_localized": "Центрально-Заводская",
+      "line_name_romanized": "Tsentralno-Zavodska",
+      "line_color": "BD1018",
+      "city_id": "117",
+      "city_slug": "dnipro",
+      "city_name_localized": "Дніпро",
+      "city_name_romanized": "Dnipro",
+      "city_name_source_localized": "Днепр (Днепропетровск)",
+      "city_name_source_romanized": "Dnieper (Dnepropetrovsk)",
+      "latitude": 48.475218,
+      "longitude": 34.995731,
+      "station_order": 1,
+      "country_code": "UA",
+      "country_localized": "Україна",
+      "country_romanized": "Ukraine"
+    },
+    {
+      "id": "58.369",
+      "name_localized": "Металлургов",
+      "name_romanized": "Metalurhiv",
+      "line_id": "58",
+      "line_name_localized": "Центрально-Заводская",
+      "line_name_romanized": "Tsentralno-Zavodska",
+      "line_color": "BD1018",
+      "city_id": "117",
+      "city_slug": "dnipro",
+      "city_name_localized": "Дніпро",
+      "city_name_romanized": "Dnipro",
+      "city_name_source_localized": "Днепр (Днепропетровск)",
+      "city_name_source_romanized": "Dnieper (Dnepropetrovsk)",
+      "latitude": 48.476634,
+      "longitude": 34.979517,
+      "station_order": 2,
+      "country_code": "UA",
+      "country_localized": "Україна",
+      "country_romanized": "Ukraine"
+    },
+    {
+      "id": "58.370",
+      "name_localized": "Заводская",
+      "name_romanized": "Zavodska",
+      "line_id": "58",
+      "line_name_localized": "Центрально-Заводская",
+      "line_name_romanized": "Tsentralno-Zavodska",
+      "line_color": "BD1018",
+      "city_id": "117",
+      "city_slug": "dnipro",
+      "city_name_localized": "Дніпро",
+      "city_name_romanized": "Dnipro",
+      "city_name_source_localized": "Днепр (Днепропетровск)",
+      "city_name_source_romanized": "Dnieper (Dnepropetrovsk)",
+      "latitude": 48.475821,
+      "longitude": 34.959422,
+      "station_order": 3,
+      "country_code": "UA",
+      "country_localized": "Україна",
+      "country_romanized": "Ukraine"
+    },
+    {
+      "id": "58.371",
+      "name_localized": "Проспект свободы",
+      "name_romanized": "Prospekt Svobody",
+      "line_id": "58",
+      "line_name_localized": "Центрально-Заводская",
+      "line_name_romanized": "Tsentralno-Zavodska",
+      "line_color": "BD1018",
+      "city_id": "117",
+      "city_slug": "dnipro",
+      "city_name_localized": "Дніпро",
+      "city_name_romanized": "Dnipro",
+      "city_name_source_localized": "Днепр (Днепропетровск)",
+      "city_name_source_romanized": "Dnieper (Dnepropetrovsk)",
+      "latitude": 48.479871,
+      "longitude": 34.943027,
+      "station_order": 4,
+      "country_code": "UA",
+      "country_localized": "Україна",
+      "country_romanized": "Ukraine"
+    },
+    {
+      "id": "58.372",
+      "name_localized": "Коммунаровская",
+      "name_romanized": "Komunarivska",
+      "line_id": "58",
+      "line_name_localized": "Центрально-Заводская",
+      "line_name_romanized": "Tsentralno-Zavodska",
+      "line_color": "BD1018",
+      "city_id": "117",
+      "city_slug": "dnipro",
+      "city_name_localized": "Дніпро",
+      "city_name_romanized": "Dnipro",
+      "city_name_source_localized": "Днепр (Днепропетровск)",
+      "city_name_source_romanized": "Dnieper (Dnepropetrovsk)",
+      "latitude": 48.479298,
+      "longitude": 34.92657,
+      "station_order": 5,
+      "country_code": "UA",
+      "country_localized": "Україна",
+      "country_romanized": "Ukraine"
+    }
+  ],
+  "meta": {
+    "title": "Станції метро — Дніпро - Безкоштовне завантаження",
+    "description": "6 станцій метро міста Дніпро. Джерело: HeadHunter API через nalgeon/metro (коміт e368582, 2026-04-21). Примітка: вихідне джерело (HeadHunter API) надає назви українських міст у російській формі (Киев / Днепр / Харьков); у полі city_name_localized збережено канонічну українську форму (Київ / Дніпро / Харків), а в city_name_source_localized — оригінальну версію джерела. Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Станції метро — Дніпро | ListBase",
+    "seo_description": "Завантажити Станції метро — Дніпро — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 19 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

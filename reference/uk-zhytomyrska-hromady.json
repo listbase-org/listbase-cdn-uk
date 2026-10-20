@@ -1,0 +1,797 @@
+{
+  "id": "uk-zhytomyrska-hromady",
+  "name": "Територіальні громади Житомирської області",
+  "title": "Територіальні громади Житомирської області",
+  "description": "Список 66 територіальних громад Житомирської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA18020010000059904",
+      "name": "Андрушівська міська громада",
+      "name_en": "Andrushivska miska hromada",
+      "slug": "andrushivska-miska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020030000035625",
+      "name": "Бердичівська міська громада",
+      "name_en": "Berdychivska miska hromada",
+      "slug": "berdychivska-miska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020050000058053",
+      "name": "Вчорайшенська сільська громада",
+      "name_en": "Vchoraishenska silska hromada",
+      "slug": "vchoraishenska-silska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020070000083539",
+      "name": "Гришковецька селищна громада",
+      "name_en": "Hryshkovetska selyshchna hromada",
+      "slug": "hryshkovetska-selyshchna-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020090000092001",
+      "name": "Краснопільська сільська громада",
+      "name_en": "Krasnopilska silska hromada",
+      "slug": "krasnopilska-silska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020110000026941",
+      "name": "Райгородоцька сільська громада",
+      "name_en": "Raihorodotska silska hromada",
+      "slug": "raihorodotska-silska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020130000096761",
+      "name": "Ружинська селищна громада",
+      "name_en": "Ruzhynska selyshchna hromada",
+      "slug": "ruzhynska-selyshchna-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020150000084693",
+      "name": "Семенівська сільська громада",
+      "name_en": "Semenivska silska hromada",
+      "slug": "semenivska-silska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020170000036711",
+      "name": "Червоненська селищна громада",
+      "name_en": "Chervonenska selyshchna hromada",
+      "slug": "chervonenska-selyshchna-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020190000022756",
+      "name": "Швайківська сільська громада",
+      "name_en": "Shvaikivska silska hromada",
+      "slug": "shvaikivska-silska-hromada",
+      "rayon_code": "UA18020000000072859",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040010000031446",
+      "name": "Андрушківська сільська громада",
+      "name_en": "Andrushkivska silska hromada",
+      "slug": "andrushkivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040030000089649",
+      "name": "Березівська сільська громада",
+      "name_en": "Berezivska silska hromada",
+      "slug": "berezivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040050000049937",
+      "name": "Брусилівська селищна громада",
+      "name_en": "Brusylivska selyshchna hromada",
+      "slug": "brusylivska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040070000059677",
+      "name": "Високівська сільська громада",
+      "name_en": "Vysokivska silska hromada",
+      "slug": "vysokivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040090000077574",
+      "name": "Вишевицька сільська громада",
+      "name_en": "Vyshevytska silska hromada",
+      "slug": "vyshevytska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040110000034222",
+      "name": "Вільшанська сільська громада",
+      "name_en": "Vilshanska silska hromada",
+      "slug": "vilshanska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040130000075048",
+      "name": "Волицька сільська громада",
+      "name_en": "Volytska silska hromada",
+      "slug": "volytska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040150000019024",
+      "name": "Глибочицька сільська громада",
+      "name_en": "Hlybochytska silska hromada",
+      "slug": "hlybochytska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040170000089964",
+      "name": "Городоцька селищна громада",
+      "name_en": "Horodotska selyshchna hromada",
+      "slug": "horodotska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040190000029215",
+      "name": "Житомирська міська громада",
+      "name_en": "Zhytomyrska miska hromada",
+      "slug": "zhytomyrska-miska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040210000044466",
+      "name": "Квітнева сільська громада",
+      "name_en": "Kvitneva silska hromada",
+      "slug": "kvitneva-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040230000036046",
+      "name": "Корнинська селищна громада",
+      "name_en": "Kornynska selyshchna hromada",
+      "slug": "kornynska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040250000068141",
+      "name": "Коростишівська міська громада",
+      "name_en": "Korostyshivska miska hromada",
+      "slug": "korostyshivska-miska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040270000050167",
+      "name": "Курненська сільська громада",
+      "name_en": "Kurnenska silska hromada",
+      "slug": "kurnenska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040290000063354",
+      "name": "Любарська селищна громада",
+      "name_en": "Liubarska selyshchna hromada",
+      "slug": "liubarska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040310000093693",
+      "name": "Миропільська селищна громада",
+      "name_en": "Myropilska selyshchna hromada",
+      "slug": "myropilska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040330000027310",
+      "name": "Новоборівська селищна громада",
+      "name_en": "Novoborivska selyshchna hromada",
+      "slug": "novoborivska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040350000040746",
+      "name": "Новогуйвинська селищна громада",
+      "name_en": "Novohuivynska selyshchna hromada",
+      "slug": "novohuivynska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040370000055940",
+      "name": "Оліївська сільська громада",
+      "name_en": "Oliivska silska hromada",
+      "slug": "oliivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040390000055900",
+      "name": "Попільнянська селищна громада",
+      "name_en": "Popilnianska selyshchna hromada",
+      "slug": "popilnianska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040410000025491",
+      "name": "Потіївська сільська  громада",
+      "name_en": "Potiivska silska  hromada",
+      "slug": "potiivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040430000080827",
+      "name": "Пулинська селищна громада",
+      "name_en": "Pulynska selyshchna hromada",
+      "slug": "pulynska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040450000079138",
+      "name": "Радомишльська міська громада",
+      "name_en": "Radomyshlska miska hromada",
+      "slug": "radomyshlska-miska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040470000074046",
+      "name": "Романівська селищна громада",
+      "name_en": "Romanivska selyshchna hromada",
+      "slug": "romanivska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040490000014752",
+      "name": "Станишівська територіальна громада",
+      "name_en": "Stanyshivska terytorialna hromada",
+      "slug": "stanyshivska-terytorialna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040510000013419",
+      "name": "Старосілецька сільська громада",
+      "name_en": "Starosiletska silska hromada",
+      "slug": "starosiletska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040530000045696",
+      "name": "Тетерівська сільська громада",
+      "name_en": "Teterivska silska hromada",
+      "slug": "teterivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040550000062361",
+      "name": "Харитонівська сільська громада",
+      "name_en": "Kharytonivska silska hromada",
+      "slug": "kharytonivska-silska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040570000099817",
+      "name": "Хорошівська селищна громада",
+      "name_en": "Khoroshivska selyshchna hromada",
+      "slug": "khoroshivska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040590000064402",
+      "name": "Черняхівська селищна громада",
+      "name_en": "Cherniakhivska selyshchna hromada",
+      "slug": "cherniakhivska-selyshchna-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040610000049084",
+      "name": "Чуднівська міська громада",
+      "name_en": "Chudnivska miska hromada",
+      "slug": "chudnivska-miska-hromada",
+      "rayon_code": "UA18040000000058965",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060010000047628",
+      "name": "Білокоровицька сільська громада",
+      "name_en": "Bilokorovytska silska hromada",
+      "slug": "bilokorovytska-silska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060030000039943",
+      "name": "Гладковицька сільська громада",
+      "name_en": "Hladkovytska silska hromada",
+      "slug": "hladkovytska-silska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060050000027575",
+      "name": "Горщиківська сільська громада",
+      "name_en": "Horshchykivska silska hromada",
+      "slug": "horshchykivska-silska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060070000095797",
+      "name": "Іршанська селищна громада",
+      "name_en": "Irshanska selyshchna hromada",
+      "slug": "irshanska-selyshchna-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060090000061708",
+      "name": "Коростенська міська громада",
+      "name_en": "Korostenska miska hromada",
+      "slug": "korostenska-miska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060110000061631",
+      "name": "Лугинська селищна громада",
+      "name_en": "Luhynska selyshchna hromada",
+      "slug": "luhynska-selyshchna-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060130000061781",
+      "name": "Малинська міська громада",
+      "name_en": "Malynska miska hromada",
+      "slug": "malynska-miska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060150000038188",
+      "name": "Народицька селищна громада",
+      "name_en": "Narodytska selyshchna hromada",
+      "slug": "narodytska-selyshchna-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060170000069581",
+      "name": "Овруцька міська громада",
+      "name_en": "Ovrutska miska hromada",
+      "slug": "ovrutska-miska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060190000071101",
+      "name": "Олевська міська громада",
+      "name_en": "Olevska miska hromada",
+      "slug": "olevska-miska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060210000083283",
+      "name": "Словечанська сільська громада",
+      "name_en": "Slovechanska silska hromada",
+      "slug": "slovechanska-silska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060230000071114",
+      "name": "Ушомирська сільська громада",
+      "name_en": "Ushomyrska silska hromada",
+      "slug": "ushomyrska-silska-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060250000078729",
+      "name": "Чоповицька селищна громада",
+      "name_en": "Chopovytska selyshchna hromada",
+      "slug": "chopovytska-selyshchna-hromada",
+      "rayon_code": "UA18060000000021754",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080010000090720",
+      "name": "Баранівська міська громада",
+      "name_en": "Baranivska miska hromada",
+      "slug": "baranivska-miska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080030000019784",
+      "name": "Барашівська сільська громада",
+      "name_en": "Barashivska silska hromada",
+      "slug": "barashivska-silska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080050000083590",
+      "name": "Брониківська сільська громада",
+      "name_en": "Bronykivska silska hromada",
+      "slug": "bronykivska-silska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080070000029133",
+      "name": "Городницька селищна громада",
+      "name_en": "Horodnytska selyshchna hromada",
+      "slug": "horodnytska-selyshchna-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080090000055832",
+      "name": "Довбиська селищна громада",
+      "name_en": "Dovbyska selyshchna hromada",
+      "slug": "dovbyska-selyshchna-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080110000095378",
+      "name": "Дубрівська сільська громада",
+      "name_en": "Dubrivska silska hromada",
+      "slug": "dubrivska-silska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080130000032098",
+      "name": "Ємільчинська селищна громада",
+      "name_en": "Yemilchynska selyshchna hromada",
+      "slug": "yemilchynska-selyshchna-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080150000022496",
+      "name": "Звягельська міська громада",
+      "name_en": "Zviahelska miska hromada",
+      "slug": "zviahelska-miska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080170000023999",
+      "name": "Піщівська сільська громада",
+      "name_en": "Pishchivska silska hromada",
+      "slug": "pishchivska-silska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080190000029932",
+      "name": "Стриївська сільська громада",
+      "name_en": "Stryivska silska hromada",
+      "slug": "stryivska-silska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080210000038722",
+      "name": "Чижівська сільська громада",
+      "name_en": "Chyzhivska silska hromada",
+      "slug": "chyzhivska-silska-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080230000071226",
+      "name": "Ярунська територіальна громада",
+      "name_en": "Yarunska terytorialna hromada",
+      "slug": "yarunska-terytorialna-hromada",
+      "rayon_code": "UA18080000000016657",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Житомирської області - Безкоштовне завантаження",
+    "description": "Список 66 територіальних громад Житомирської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 66 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Житомирської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Житомирської області — 66 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 66 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

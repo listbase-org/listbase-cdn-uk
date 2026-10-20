@@ -1,0 +1,133 @@
+{
+  "id": "uk-odynytsi-vymiru-graphics",
+  "name": "Одиниці вимірювання — категорія 'graphics' (8)",
+  "title": "Одиниці вимірювання — категорія 'graphics' (8)",
+  "description": "Одиниці вимірювання категорії 'graphics' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "katehoriia": "graphics",
+      "nazva": "точки",
+      "skorochennia": "тчк",
+      "vuzka_forma": "тчк",
+      "vzirets": "{0} точки"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "katehoriia": "graphics",
+      "nazva": "точки на сантиметр",
+      "skorochennia": "точки на см",
+      "vuzka_forma": "тчк/см",
+      "vzirets": "{0} точки на сантиметр"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "katehoriia": "graphics",
+      "nazva": "точки на дюйм",
+      "skorochennia": "тчк/дюйм",
+      "vuzka_forma": "тчк/“",
+      "vzirets": "{0} точки на дюйм"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "katehoriia": "graphics",
+      "nazva": "типографські еми",
+      "skorochennia": "ем",
+      "vuzka_forma": "ем",
+      "vzirets": "{0} типографського ема"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "katehoriia": "graphics",
+      "nazva": "мегапікселі",
+      "skorochennia": "Мпкс",
+      "vuzka_forma": "Мп",
+      "vzirets": "{0} мегапікселя"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "katehoriia": "graphics",
+      "nazva": "пікселі",
+      "skorochennia": "пкс",
+      "vuzka_forma": "п",
+      "vzirets": "{0} пікселя"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "katehoriia": "graphics",
+      "nazva": "пікселі на сантиметр",
+      "skorochennia": "пкс на см",
+      "vuzka_forma": "пкс/см",
+      "vzirets": "{0} пікселя на сантиметр"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "katehoriia": "graphics",
+      "nazva": "пікселі на дюйм",
+      "skorochennia": "пкс на дюйм",
+      "vuzka_forma": "пкс/“",
+      "vzirets": "{0} пікселя на дюйм"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'graphics' (8) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'graphics' з локалі uk у CLDR, з назвами українською. Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'graphics' (8) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'graphics' (8) — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

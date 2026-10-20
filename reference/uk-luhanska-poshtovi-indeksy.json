@@ -1,0 +1,5398 @@
+{
+  "id": "uk-luhanska-poshtovi-indeksy",
+  "name": "Поштові індекси: Луганська область",
+  "title": "Поштові індекси: Луганська область",
+  "description": "Поштові індекси населених пунктів — Луганська область (593 записів). Назви українською, координати WGS84, ISO 3166-2 UA-09. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 593,
+  "columns": [
+    {
+      "key": "zipcode",
+      "label": "Zipcode",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zipcode": "91480",
+      "place": "Щастя",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7396,
+      "longitude": 39.2323
+    },
+    {
+      "zipcode": "92100",
+      "place": "Троїцьке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.842,
+      "longitude": 38.5212
+    },
+    {
+      "zipcode": "92103",
+      "place": "Загір'я",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.842,
+      "longitude": 38.5212
+    },
+    {
+      "zipcode": "92104",
+      "place": "Вільшани",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8726,
+      "longitude": 38.4971
+    },
+    {
+      "zipcode": "92105",
+      "place": "Березівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9058,
+      "longitude": 38.5244
+    },
+    {
+      "zipcode": "92106",
+      "place": "Головкове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8261,
+      "longitude": 38.4854
+    },
+    {
+      "zipcode": "92107",
+      "place": "Чапліївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7679,
+      "longitude": 38.5689
+    },
+    {
+      "zipcode": "92108",
+      "place": "Лугове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8771,
+      "longitude": 38.562
+    },
+    {
+      "zipcode": "92109",
+      "place": "Шахове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8028,
+      "longitude": 38.4895
+    },
+    {
+      "zipcode": "92110",
+      "place": "Демино-Олександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.042,
+      "longitude": 38.2298
+    },
+    {
+      "zipcode": "92111",
+      "place": "Сиротине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.0532,
+      "longitude": 38.2949
+    },
+    {
+      "zipcode": "92112",
+      "place": "Багачка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.985,
+      "longitude": 38.3769
+    },
+    {
+      "zipcode": "92113",
+      "place": "Максимівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9198,
+      "longitude": 38.3956
+    },
+    {
+      "zipcode": "92114",
+      "place": "Лантратівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9395,
+      "longitude": 38.2616
+    },
+    {
+      "zipcode": "92115",
+      "place": "Бабичеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.944,
+      "longitude": 38.2237
+    },
+    {
+      "zipcode": "92116",
+      "place": "Джерельне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9353,
+      "longitude": 38.4113
+    },
+    {
+      "zipcode": "92117",
+      "place": "Дуванка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8362,
+      "longitude": 38.6621
+    },
+    {
+      "zipcode": "92118",
+      "place": "Маслакове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8453,
+      "longitude": 38.6455
+    },
+    {
+      "zipcode": "92119",
+      "place": "Трудродительське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8527,
+      "longitude": 38.612
+    },
+    {
+      "zipcode": "92120",
+      "place": "Розсипне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.966,
+      "longitude": 38.6127
+    },
+    {
+      "zipcode": "92121",
+      "place": "Воєводське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9423,
+      "longitude": 38.5395
+    },
+    {
+      "zipcode": "92122",
+      "place": "Зайцеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.429,
+      "longitude": 35.6736
+    },
+    {
+      "zipcode": "92123",
+      "place": "Привілля",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8489,
+      "longitude": 38.52
+    },
+    {
+      "zipcode": "92124",
+      "place": "Вівчарове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8541,
+      "longitude": 38.5846
+    },
+    {
+      "zipcode": "92125",
+      "place": "Маслівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9471,
+      "longitude": 38.5866
+    },
+    {
+      "zipcode": "92126",
+      "place": "Озеро",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9359,
+      "longitude": 38.5786
+    },
+    {
+      "zipcode": "92127",
+      "place": "Полтавське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9548,
+      "longitude": 38.4976
+    },
+    {
+      "zipcode": "92128",
+      "place": "Судьбинка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9458,
+      "longitude": 38.5694
+    },
+    {
+      "zipcode": "92130",
+      "place": "Тополі",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8129,
+      "longitude": 38.1566
+    },
+    {
+      "zipcode": "92131",
+      "place": "Кашкарне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8631,
+      "longitude": 38.1053
+    },
+    {
+      "zipcode": "92131",
+      "place": "Новознам'янка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8833,
+      "longitude": 38.1244
+    },
+    {
+      "zipcode": "92131",
+      "place": "Солонці",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9034,
+      "longitude": 38.1436
+    },
+    {
+      "zipcode": "92133",
+      "place": "Аношкине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8376,
+      "longitude": 38.1921
+    },
+    {
+      "zipcode": "92134",
+      "place": "Новоолександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7868,
+      "longitude": 38.1383
+    },
+    {
+      "zipcode": "92135",
+      "place": "Богородицьке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7247,
+      "longitude": 38.1204
+    },
+    {
+      "zipcode": "92135",
+      "place": "Покровське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.741,
+      "longitude": 38.2253
+    },
+    {
+      "zipcode": "92136",
+      "place": "Арапівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7394,
+      "longitude": 38.0365
+    },
+    {
+      "zipcode": "92137",
+      "place": "Давидівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7986,
+      "longitude": 38.185
+    },
+    {
+      "zipcode": "92138",
+      "place": "Глотівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.79,
+      "longitude": 38.0841
+    },
+    {
+      "zipcode": "92139",
+      "place": "Іллінка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8159,
+      "longitude": 38.037
+    },
+    {
+      "zipcode": "92140",
+      "place": "Розпасіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8297,
+      "longitude": 38.3821
+    },
+    {
+      "zipcode": "92141",
+      "place": "Клинуватка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8058,
+      "longitude": 38.2531
+    },
+    {
+      "zipcode": "92141",
+      "place": "Ями",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7616,
+      "longitude": 38.3722
+    },
+    {
+      "zipcode": "92142",
+      "place": "Тимонове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7476,
+      "longitude": 38.4466
+    },
+    {
+      "zipcode": "92143",
+      "place": "Малоолександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7059,
+      "longitude": 38.4736
+    },
+    {
+      "zipcode": "92144",
+      "place": "Тарасівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6642,
+      "longitude": 38.392
+    },
+    {
+      "zipcode": "92145",
+      "place": "Новочервоне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6311,
+      "longitude": 38.2985
+    },
+    {
+      "zipcode": "92146",
+      "place": "Бараничеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7493,
+      "longitude": 38.1179
+    },
+    {
+      "zipcode": "92148",
+      "place": "Кошелівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7609,
+      "longitude": 38.0478
+    },
+    {
+      "zipcode": "92151",
+      "place": "Роднички",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.9885,
+      "longitude": 38.4356
+    },
+    {
+      "zipcode": "92152",
+      "place": "Шатківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.005,
+      "longitude": 38.6802
+    },
+    {
+      "zipcode": "92153",
+      "place": "Жовтневе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8404,
+      "longitude": 38.1487
+    },
+    {
+      "zipcode": "92154",
+      "place": "Караїчне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8018,
+      "longitude": 38.2974
+    },
+    {
+      "zipcode": "92155",
+      "place": "Коченове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7937,
+      "longitude": 38.3757
+    },
+    {
+      "zipcode": "92156",
+      "place": "Красногригорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.678,
+      "longitude": 38.416
+    },
+    {
+      "zipcode": "92157",
+      "place": "Михайлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7052,
+      "longitude": 38.4414
+    },
+    {
+      "zipcode": "92158",
+      "place": "Федосіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.871,
+      "longitude": 38.4406
+    },
+    {
+      "zipcode": "92159",
+      "place": "Царівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8358,
+      "longitude": 38.4431
+    },
+    {
+      "zipcode": "92201",
+      "place": "Білокуракине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5341,
+      "longitude": 38.7307
+    },
+    {
+      "zipcode": "92202",
+      "place": "Білокуракине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5341,
+      "longitude": 38.7307
+    },
+    {
+      "zipcode": "92208",
+      "place": "Олексапіль",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8522,
+      "longitude": 38.7564
+    },
+    {
+      "zipcode": "92209",
+      "place": "Петрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8676,
+      "longitude": 38.802
+    },
+    {
+      "zipcode": "92210",
+      "place": "Шарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8522,
+      "longitude": 38.8993
+    },
+    {
+      "zipcode": "92211",
+      "place": "Лозно-Олександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8391,
+      "longitude": 38.741
+    },
+    {
+      "zipcode": "92212",
+      "place": "Мирне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.3643,
+      "longitude": 39.0802
+    },
+    {
+      "zipcode": "92213",
+      "place": "Солідарне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7864,
+      "longitude": 38.6169
+    },
+    {
+      "zipcode": "92214",
+      "place": "Гладкове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7403,
+      "longitude": 38.6026
+    },
+    {
+      "zipcode": "92215",
+      "place": "Тимошине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6755,
+      "longitude": 38.8042
+    },
+    {
+      "zipcode": "92216",
+      "place": "Осикове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7473,
+      "longitude": 38.6361
+    },
+    {
+      "zipcode": "92217",
+      "place": "Калинова балка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7481,
+      "longitude": 38.5684
+    },
+    {
+      "zipcode": "92218",
+      "place": "Миколаївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7089,
+      "longitude": 38.574
+    },
+    {
+      "zipcode": "92219",
+      "place": "Лозне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.867,
+      "longitude": 38.8262
+    },
+    {
+      "zipcode": "92220",
+      "place": "Ляшківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6866,
+      "longitude": 38.8939
+    },
+    {
+      "zipcode": "92220",
+      "place": "Олександропіль",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.691,
+      "longitude": 38.8487
+    },
+    {
+      "zipcode": "92220",
+      "place": "Романівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6705,
+      "longitude": 38.9326
+    },
+    {
+      "zipcode": "92222",
+      "place": "Павлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6086,
+      "longitude": 38.7092
+    },
+    {
+      "zipcode": "92223",
+      "place": "Заводянка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6174,
+      "longitude": 38.812
+    },
+    {
+      "zipcode": "92226",
+      "place": "Приходьківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.626,
+      "longitude": 38.9081
+    },
+    {
+      "zipcode": "92227",
+      "place": "Кочено-роспасіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6574,
+      "longitude": 38.8402
+    },
+    {
+      "zipcode": "92229",
+      "place": "Новоандріївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7018,
+      "longitude": 38.7765
+    },
+    {
+      "zipcode": "92230",
+      "place": "Попівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6108,
+      "longitude": 38.5844
+    },
+    {
+      "zipcode": "92230",
+      "place": "Просторе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6499,
+      "longitude": 38.4941
+    },
+    {
+      "zipcode": "92231",
+      "place": "Плахо-Петрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6284,
+      "longitude": 38.4835
+    },
+    {
+      "zipcode": "92232",
+      "place": "Курячівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6518,
+      "longitude": 38.6854
+    },
+    {
+      "zipcode": "92234",
+      "place": "Картамишеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6333,
+      "longitude": 38.4833
+    },
+    {
+      "zipcode": "92236",
+      "place": "Рудове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.627,
+      "longitude": 38.6233
+    },
+    {
+      "zipcode": "92237",
+      "place": "Хоменкове перше",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6689,
+      "longitude": 38.6876
+    },
+    {
+      "zipcode": "92238",
+      "place": "Маньківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5585,
+      "longitude": 38.4536
+    },
+    {
+      "zipcode": "92239",
+      "place": "Світленьке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6112,
+      "longitude": 38.515
+    },
+    {
+      "zipcode": "92240",
+      "place": "Дем'янівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3228,
+      "longitude": 37.9131
+    },
+    {
+      "zipcode": "92241",
+      "place": "Бунчуківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4857,
+      "longitude": 38.6553
+    },
+    {
+      "zipcode": "92242",
+      "place": "Олексіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0181,
+      "longitude": 39.1794
+    },
+    {
+      "zipcode": "92243",
+      "place": "Луб'янка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3228,
+      "longitude": 37.9131
+    },
+    {
+      "zipcode": "92244",
+      "place": "Заїківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3228,
+      "longitude": 37.9131
+    },
+    {
+      "zipcode": "92245",
+      "place": "Грицаївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0709,
+      "longitude": 34.3071
+    },
+    {
+      "zipcode": "92246",
+      "place": "Коноплянівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3228,
+      "longitude": 37.9131
+    },
+    {
+      "zipcode": "92247",
+      "place": "Шовкунівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.543,
+      "longitude": 38.5708
+    },
+    {
+      "zipcode": "92248",
+      "place": "Шапарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4964,
+      "longitude": 38.8528
+    },
+    {
+      "zipcode": "92249",
+      "place": "Калинівське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3228,
+      "longitude": 37.9131
+    },
+    {
+      "zipcode": "92250",
+      "place": "Лизине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.697,
+      "longitude": 38.7459
+    },
+    {
+      "zipcode": "92252",
+      "place": "Нещеретове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.697,
+      "longitude": 38.7459
+    },
+    {
+      "zipcode": "92253",
+      "place": "Паньківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4375,
+      "longitude": 38.8008
+    },
+    {
+      "zipcode": "92254",
+      "place": "Цілуйкове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.697,
+      "longitude": 38.7459
+    },
+    {
+      "zipcode": "92255",
+      "place": "Куплювате",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7259,
+      "longitude": 38.7734
+    },
+    {
+      "zipcode": "92256",
+      "place": "Новопокровка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7557,
+      "longitude": 38.7667
+    },
+    {
+      "zipcode": "92257",
+      "place": "Нянчине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7603,
+      "longitude": 38.7068
+    },
+    {
+      "zipcode": "92258",
+      "place": "Попасне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7759,
+      "longitude": 38.7356
+    },
+    {
+      "zipcode": "92259",
+      "place": "Чабанове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7268,
+      "longitude": 38.6922
+    },
+    {
+      "zipcode": "92260",
+      "place": "Стативчине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5916,
+      "longitude": 38.8155
+    },
+    {
+      "zipcode": "92261",
+      "place": "Хоменкове друге",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6501,
+      "longitude": 38.8239
+    },
+    {
+      "zipcode": "92262",
+      "place": "Климівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6477,
+      "longitude": 38.9326
+    },
+    {
+      "zipcode": "92301",
+      "place": "Новопсков",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5464,
+      "longitude": 39.0899
+    },
+    {
+      "zipcode": "92302",
+      "place": "Новопсков",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5464,
+      "longitude": 39.0899
+    },
+    {
+      "zipcode": "92303",
+      "place": "Новопсков",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5464,
+      "longitude": 39.0899
+    },
+    {
+      "zipcode": "92310",
+      "place": "Новобіла",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7702,
+      "longitude": 39.1822
+    },
+    {
+      "zipcode": "92311",
+      "place": "Козлове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8628,
+      "longitude": 39.1658
+    },
+    {
+      "zipcode": "92312",
+      "place": "Танюшівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7701,
+      "longitude": 38.9328
+    },
+    {
+      "zipcode": "92313",
+      "place": "Соснівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7725,
+      "longitude": 38.9608
+    },
+    {
+      "zipcode": "92314",
+      "place": "Березівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7504,
+      "longitude": 38.8527
+    },
+    {
+      "zipcode": "92315",
+      "place": "Синельникове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7181,
+      "longitude": 38.7954
+    },
+    {
+      "zipcode": "92316",
+      "place": "Залісне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8483,
+      "longitude": 39.1306
+    },
+    {
+      "zipcode": "92317",
+      "place": "Литвинове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8508,
+      "longitude": 39.2003
+    },
+    {
+      "zipcode": "92318",
+      "place": "Світле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7966,
+      "longitude": 39.0827
+    },
+    {
+      "zipcode": "92319",
+      "place": "Шапран",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8367,
+      "longitude": 39.1342
+    },
+    {
+      "zipcode": "92320",
+      "place": "Павленкове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7094,
+      "longitude": 39.0792
+    },
+    {
+      "zipcode": "92321",
+      "place": "Трембачеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7261,
+      "longitude": 39.1415
+    },
+    {
+      "zipcode": "92322",
+      "place": "Білолуцьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7026,
+      "longitude": 39.0173
+    },
+    {
+      "zipcode": "92323",
+      "place": "Білолуцьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7026,
+      "longitude": 39.0173
+    },
+    {
+      "zipcode": "92326",
+      "place": "Зелений Гай (Зеленый Гай)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6563,
+      "longitude": 39.0616
+    },
+    {
+      "zipcode": "92326",
+      "place": "Можняківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6563,
+      "longitude": 39.0616
+    },
+    {
+      "zipcode": "92328",
+      "place": "Кубань",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6513,
+      "longitude": 39.0293
+    },
+    {
+      "zipcode": "92329",
+      "place": "Солоне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7355,
+      "longitude": 39.3487
+    },
+    {
+      "zipcode": "92330",
+      "place": "Ганусівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7029,
+      "longitude": 39.3702
+    },
+    {
+      "zipcode": "92331",
+      "place": "Пантюхине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7524,
+      "longitude": 39.4476
+    },
+    {
+      "zipcode": "92332",
+      "place": "Кам'янка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6729,
+      "longitude": 39.329
+    },
+    {
+      "zipcode": "92332",
+      "place": "Степне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6729,
+      "longitude": 39.329
+    },
+    {
+      "zipcode": "92334",
+      "place": "Донцівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6018,
+      "longitude": 39.269
+    },
+    {
+      "zipcode": "92335",
+      "place": "Новорозсош",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5457,
+      "longitude": 39.2363
+    },
+    {
+      "zipcode": "92336",
+      "place": "Костянтинівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7417,
+      "longitude": 38.9632
+    },
+    {
+      "zipcode": "92337",
+      "place": "Пелагіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7868,
+      "longitude": 38.946
+    },
+    {
+      "zipcode": "92340",
+      "place": "Заайдарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5851,
+      "longitude": 39.0971
+    },
+    {
+      "zipcode": "92341",
+      "place": "Рогове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6224,
+      "longitude": 39.0312
+    },
+    {
+      "zipcode": "92342",
+      "place": "Осинове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5795,
+      "longitude": 39.0565
+    },
+    {
+      "zipcode": "92343",
+      "place": "Макартетине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5784,
+      "longitude": 38.9276
+    },
+    {
+      "zipcode": "92343",
+      "place": "Осинове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5795,
+      "longitude": 39.0565
+    },
+    {
+      "zipcode": "92347",
+      "place": "Ікове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5244,
+      "longitude": 39.0911
+    },
+    {
+      "zipcode": "92348",
+      "place": "Хворостяне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5139,
+      "longitude": 39.0572
+    },
+    {
+      "zipcode": "92350",
+      "place": "Риб'янцеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4837,
+      "longitude": 39.0247
+    },
+    {
+      "zipcode": "92351",
+      "place": "Писарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5,
+      "longitude": 39.0833
+    },
+    {
+      "zipcode": "92352",
+      "place": "Закотне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4683,
+      "longitude": 38.9736
+    },
+    {
+      "zipcode": "92353",
+      "place": "Лисогорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2791,
+      "longitude": 39.0887
+    },
+    {
+      "zipcode": "92354",
+      "place": "Піски",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6644,
+      "longitude": 39.2732
+    },
+    {
+      "zipcode": "92355",
+      "place": "Булавинівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2791,
+      "longitude": 39.0887
+    },
+    {
+      "zipcode": "92356",
+      "place": "Тев'яшеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2791,
+      "longitude": 39.0887
+    },
+    {
+      "zipcode": "92400",
+      "place": "Марківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5229,
+      "longitude": 39.5705
+    },
+    {
+      "zipcode": "92410",
+      "place": "Красне Поле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6694,
+      "longitude": 39.5169
+    },
+    {
+      "zipcode": "92411",
+      "place": "Височинівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7065,
+      "longitude": 39.5501
+    },
+    {
+      "zipcode": "92412",
+      "place": "Первомайське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6175,
+      "longitude": 39.3794
+    },
+    {
+      "zipcode": "92413",
+      "place": "Гераськівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6078,
+      "longitude": 39.5439
+    },
+    {
+      "zipcode": "92414",
+      "place": "Рудівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4011,
+      "longitude": 38.4513
+    },
+    {
+      "zipcode": "92415",
+      "place": "Тернівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6148,
+      "longitude": 39.4835
+    },
+    {
+      "zipcode": "92416",
+      "place": "Гераськівське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6472,
+      "longitude": 39.5268
+    },
+    {
+      "zipcode": "92417",
+      "place": "Каськівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6757,
+      "longitude": 39.5831
+    },
+    {
+      "zipcode": "92420",
+      "place": "Просяне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5922,
+      "longitude": 39.6656
+    },
+    {
+      "zipcode": "92421",
+      "place": "Розсохувате",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5436,
+      "longitude": 39.6433
+    },
+    {
+      "zipcode": "92422",
+      "place": "Кабичівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4573,
+      "longitude": 39.7447
+    },
+    {
+      "zipcode": "92423",
+      "place": "Веселе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5136,
+      "longitude": 39.8334
+    },
+    {
+      "zipcode": "92424",
+      "place": "Кризьке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4516,
+      "longitude": 39.6277
+    },
+    {
+      "zipcode": "92425",
+      "place": "Сичівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4415,
+      "longitude": 39.5915
+    },
+    {
+      "zipcode": "92426",
+      "place": "Лимарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3255,
+      "longitude": 39.5962
+    },
+    {
+      "zipcode": "92427",
+      "place": "Липове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.4093,
+      "longitude": 39.7212
+    },
+    {
+      "zipcode": "92428",
+      "place": "Деркульське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.995,
+      "longitude": 39.694
+    },
+    {
+      "zipcode": "92430",
+      "place": "Лісна Поляна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5242,
+      "longitude": 39.4723
+    },
+    {
+      "zipcode": "92431",
+      "place": "Крупчанське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5711,
+      "longitude": 39.4347
+    },
+    {
+      "zipcode": "92432",
+      "place": "Скородна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4934,
+      "longitude": 39.4881
+    },
+    {
+      "zipcode": "92433",
+      "place": "Марківське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4881,
+      "longitude": 39.4069
+    },
+    {
+      "zipcode": "92434",
+      "place": "Тишківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4663,
+      "longitude": 39.4949
+    },
+    {
+      "zipcode": "92440",
+      "place": "Сичанське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4363,
+      "longitude": 39.3981
+    },
+    {
+      "zipcode": "92441",
+      "place": "Караван-Солодкий",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4216,
+      "longitude": 39.3136
+    },
+    {
+      "zipcode": "92442",
+      "place": "Виноградне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3957,
+      "longitude": 39.4064
+    },
+    {
+      "zipcode": "92443",
+      "place": "Бондарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4042,
+      "longitude": 39.6344
+    },
+    {
+      "zipcode": "92444",
+      "place": "Курячівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.39,
+      "longitude": 39.6096
+    },
+    {
+      "zipcode": "92445",
+      "place": "Бондарне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4333,
+      "longitude": 39.3833
+    },
+    {
+      "zipcode": "92445",
+      "place": "Городище",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4289,
+      "longitude": 39.2542
+    },
+    {
+      "zipcode": "92446",
+      "place": "Крейдяне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4539,
+      "longitude": 39.3256
+    },
+    {
+      "zipcode": "92446",
+      "place": "Лобасове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4314,
+      "longitude": 39.4452
+    },
+    {
+      "zipcode": "92447",
+      "place": "Нова Україна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3909,
+      "longitude": 39.5161
+    },
+    {
+      "zipcode": "92448",
+      "place": "Фартуківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5468,
+      "longitude": 39.4582
+    },
+    {
+      "zipcode": "92500",
+      "place": "Мілове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3753,
+      "longitude": 40.1322
+    },
+    {
+      "zipcode": "92505",
+      "place": "Великоцьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3487,
+      "longitude": 40.0278
+    },
+    {
+      "zipcode": "92506",
+      "place": "Травневе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3956,
+      "longitude": 40.0878
+    },
+    {
+      "zipcode": "92507",
+      "place": "Криничне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3024,
+      "longitude": 40.0952
+    },
+    {
+      "zipcode": "92508",
+      "place": "Ярське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2295,
+      "longitude": 40.1003
+    },
+    {
+      "zipcode": "92509",
+      "place": "Яснопроминське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3441,
+      "longitude": 40.1137
+    },
+    {
+      "zipcode": "92510",
+      "place": "Микільське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5249,
+      "longitude": 39.9571
+    },
+    {
+      "zipcode": "92510",
+      "place": "Шелестівка (Шелестовка)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4867,
+      "longitude": 39.9182
+    },
+    {
+      "zipcode": "92513",
+      "place": "Діброва",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5817,
+      "longitude": 40.1099
+    },
+    {
+      "zipcode": "92515",
+      "place": "Хоминське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5681,
+      "longitude": 40.0811
+    },
+    {
+      "zipcode": "92516",
+      "place": "Благодатне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5903,
+      "longitude": 40.0588
+    },
+    {
+      "zipcode": "92517",
+      "place": "Бондарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4067,
+      "longitude": 40.0432
+    },
+    {
+      "zipcode": "92518",
+      "place": "Водянолипове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5447,
+      "longitude": 39.8622
+    },
+    {
+      "zipcode": "92519",
+      "place": "Олексіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.443,
+      "longitude": 40.0552
+    },
+    {
+      "zipcode": "92520",
+      "place": "Морозівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4669,
+      "longitude": 39.8985
+    },
+    {
+      "zipcode": "92521",
+      "place": "Шелестівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4867,
+      "longitude": 39.9182
+    },
+    {
+      "zipcode": "92522",
+      "place": "Зоринівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4744,
+      "longitude": 40.0253
+    },
+    {
+      "zipcode": "92523",
+      "place": "Зориківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3963,
+      "longitude": 39.8406
+    },
+    {
+      "zipcode": "92524",
+      "place": "Півнівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4446,
+      "longitude": 39.8861
+    },
+    {
+      "zipcode": "92530",
+      "place": "Стрільцівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3037,
+      "longitude": 39.8528
+    },
+    {
+      "zipcode": "92531",
+      "place": "Новомикільське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3489,
+      "longitude": 39.8446
+    },
+    {
+      "zipcode": "92532",
+      "place": "Калмиківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2756,
+      "longitude": 39.8559
+    },
+    {
+      "zipcode": "92533",
+      "place": "Мусіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2353,
+      "longitude": 39.8486
+    },
+    {
+      "zipcode": "92534",
+      "place": "Кирносове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2179,
+      "longitude": 39.9725
+    },
+    {
+      "zipcode": "92540",
+      "place": "Новострільцівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3221,
+      "longitude": 39.9147
+    },
+    {
+      "zipcode": "92541",
+      "place": "Березове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3978,
+      "longitude": 39.1419
+    },
+    {
+      "zipcode": "92542",
+      "place": "Журавське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2577,
+      "longitude": 40.0726
+    },
+    {
+      "zipcode": "92543",
+      "place": "Рання Зоря",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3294,
+      "longitude": 39.7733
+    },
+    {
+      "zipcode": "92544",
+      "place": "Зарічне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3399,
+      "longitude": 39.9638
+    },
+    {
+      "zipcode": "92601",
+      "place": "Сватове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4103,
+      "longitude": 38.1504
+    },
+    {
+      "zipcode": "92602",
+      "place": "Сватове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4103,
+      "longitude": 38.1504
+    },
+    {
+      "zipcode": "92603",
+      "place": "Високе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8373,
+      "longitude": 38.2518
+    },
+    {
+      "zipcode": "92603",
+      "place": "Козарик",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.85,
+      "longitude": 38.2731
+    },
+    {
+      "zipcode": "92603",
+      "place": "Сватове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4103,
+      "longitude": 38.1504
+    },
+    {
+      "zipcode": "92606",
+      "place": "Сосновий",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.1734,
+      "longitude": 36.9087
+    },
+    {
+      "zipcode": "92607",
+      "place": "Ковалівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3362,
+      "longitude": 38.0097
+    },
+    {
+      "zipcode": "92607",
+      "place": "Стельмахівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4886,
+      "longitude": 37.9064
+    },
+    {
+      "zipcode": "92610",
+      "place": "Верхня Дуванка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6915,
+      "longitude": 38.0621
+    },
+    {
+      "zipcode": "92611",
+      "place": "Полтава",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6238,
+      "longitude": 38.1201
+    },
+    {
+      "zipcode": "92612",
+      "place": "Нижня Дуванка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5846,
+      "longitude": 38.1743
+    },
+    {
+      "zipcode": "92613",
+      "place": "Новониканорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6628,
+      "longitude": 38.2015
+    },
+    {
+      "zipcode": "92613",
+      "place": "Олександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6371,
+      "longitude": 38.1789
+    },
+    {
+      "zipcode": "92614",
+      "place": "Оборотнівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5897,
+      "longitude": 38.0422
+    },
+    {
+      "zipcode": "92615",
+      "place": "Наугольне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.558,
+      "longitude": 38.0708
+    },
+    {
+      "zipcode": "92616",
+      "place": "Доля",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6295,
+      "longitude": 38.0982
+    },
+    {
+      "zipcode": "92617",
+      "place": "Лебедівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6674,
+      "longitude": 38.0824
+    },
+    {
+      "zipcode": "92618",
+      "place": "Яблунівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6484,
+      "longitude": 38.0936
+    },
+    {
+      "zipcode": "92620",
+      "place": "Куземівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5197,
+      "longitude": 37.9832
+    },
+    {
+      "zipcode": "92621",
+      "place": "Володимирівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5931,
+      "longitude": 37.9736
+    },
+    {
+      "zipcode": "92621",
+      "place": "Новоселівське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5223,
+      "longitude": 37.9517
+    },
+    {
+      "zipcode": "92622",
+      "place": "Коломийчиха",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3626,
+      "longitude": 38.2076
+    },
+    {
+      "zipcode": "92624",
+      "place": "Райгородка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8186,
+      "longitude": 39.0557
+    },
+    {
+      "zipcode": "92626",
+      "place": "Кармазинівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3626,
+      "longitude": 38.2076
+    },
+    {
+      "zipcode": "92627",
+      "place": "Нежурине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3626,
+      "longitude": 38.2076
+    },
+    {
+      "zipcode": "92628",
+      "place": "Попівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3591,
+      "longitude": 38.0738
+    },
+    {
+      "zipcode": "92629",
+      "place": "Джерельне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3626,
+      "longitude": 38.2076
+    },
+    {
+      "zipcode": "92630",
+      "place": "Преображенне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5312,
+      "longitude": 38.1505
+    },
+    {
+      "zipcode": "92631",
+      "place": "Гончарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5106,
+      "longitude": 38.1664
+    },
+    {
+      "zipcode": "92632",
+      "place": "Хомівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5022,
+      "longitude": 38.1528
+    },
+    {
+      "zipcode": "92633",
+      "place": "Мілуватка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3348,
+      "longitude": 38.1687
+    },
+    {
+      "zipcode": "92635",
+      "place": "Андріївка (Стельмахівська сільська рада)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5106,
+      "longitude": 38.1664
+    },
+    {
+      "zipcode": "92636",
+      "place": "Сторожівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5106,
+      "longitude": 38.1664
+    },
+    {
+      "zipcode": "92637",
+      "place": "Кривошиївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5106,
+      "longitude": 38.1664
+    },
+    {
+      "zipcode": "92638",
+      "place": "Підкуйчанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5106,
+      "longitude": 38.1664
+    },
+    {
+      "zipcode": "92639",
+      "place": "Куликівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.674,
+      "longitude": 38.1934
+    },
+    {
+      "zipcode": "92640",
+      "place": "Маньківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5906,
+      "longitude": 38.4052
+    },
+    {
+      "zipcode": "92640",
+      "place": "Новопреображенне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5518,
+      "longitude": 38.358
+    },
+    {
+      "zipcode": "92640",
+      "place": "Павлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5405,
+      "longitude": 38.395
+    },
+    {
+      "zipcode": "92642",
+      "place": "Свистунівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2563,
+      "longitude": 34.7546
+    },
+    {
+      "zipcode": "92643",
+      "place": "Травневе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3956,
+      "longitude": 40.0878
+    },
+    {
+      "zipcode": "92644",
+      "place": "Новоєгорівка (Н-Дуванська)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5114,
+      "longitude": 37.9963
+    },
+    {
+      "zipcode": "92645",
+      "place": "Паталахівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.4042,
+      "longitude": 38.0056
+    },
+    {
+      "zipcode": "92646",
+      "place": "Новоєгорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8406,
+      "longitude": 37.968
+    },
+    {
+      "zipcode": "92647",
+      "place": "Сергіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5114,
+      "longitude": 37.9963
+    },
+    {
+      "zipcode": "92648",
+      "place": "Вестатівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5114,
+      "longitude": 37.9963
+    },
+    {
+      "zipcode": "92649",
+      "place": "Твердохлібове (Райгородська)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5114,
+      "longitude": 37.9963
+    },
+    {
+      "zipcode": "92650",
+      "place": "Рудівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.4219,
+      "longitude": 35.4213
+    },
+    {
+      "zipcode": "92651",
+      "place": "Кругле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 51.524,
+      "longitude": 31.0829
+    },
+    {
+      "zipcode": "92652",
+      "place": "Коржове (Коржовое)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.4219,
+      "longitude": 35.4213
+    },
+    {
+      "zipcode": "92653",
+      "place": "Лагідне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.4219,
+      "longitude": 35.4213
+    },
+    {
+      "zipcode": "92654",
+      "place": "Містки",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 52.0092,
+      "longitude": 32.0482
+    },
+    {
+      "zipcode": "92655",
+      "place": "Чепигівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 50.4219,
+      "longitude": 35.4213
+    },
+    {
+      "zipcode": "92656",
+      "place": "Промінь",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3333,
+      "longitude": 37.9333
+    },
+    {
+      "zipcode": "92657",
+      "place": "Пилипівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6163,
+      "longitude": 38.0123
+    },
+    {
+      "zipcode": "92658",
+      "place": "Софіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6264,
+      "longitude": 38.0296
+    },
+    {
+      "zipcode": "92661",
+      "place": "Барикине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6487,
+      "longitude": 37.3485
+    },
+    {
+      "zipcode": "92662",
+      "place": "Дачне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3911,
+      "longitude": 38.0946
+    },
+    {
+      "zipcode": "92663",
+      "place": "Західний",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.3,
+      "longitude": 39.8105
+    },
+    {
+      "zipcode": "92664",
+      "place": "Зміївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6487,
+      "longitude": 37.3485
+    },
+    {
+      "zipcode": "92665",
+      "place": "Іванівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6487,
+      "longitude": 37.3485
+    },
+    {
+      "zipcode": "92666",
+      "place": "Андріївка (Рудівська сільська рада)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6487,
+      "longitude": 37.3485
+    },
+    {
+      "zipcode": "92667",
+      "place": "Надія",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.255,
+      "longitude": 34.1403
+    },
+    {
+      "zipcode": "92668",
+      "place": "М'ясожарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6487,
+      "longitude": 37.3485
+    },
+    {
+      "zipcode": "92700",
+      "place": "Старобільськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2783,
+      "longitude": 38.9107
+    },
+    {
+      "zipcode": "92701",
+      "place": "Старобільськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2783,
+      "longitude": 38.9107
+    },
+    {
+      "zipcode": "92702",
+      "place": "Старобільськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2783,
+      "longitude": 38.9107
+    },
+    {
+      "zipcode": "92703",
+      "place": "Старобільськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2783,
+      "longitude": 38.9107
+    },
+    {
+      "zipcode": "92704",
+      "place": "Старобільськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2783,
+      "longitude": 38.9107
+    },
+    {
+      "zipcode": "92710",
+      "place": "Світле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3775,
+      "longitude": 38.6539
+    },
+    {
+      "zipcode": "92711",
+      "place": "Калмиківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2756,
+      "longitude": 39.8559
+    },
+    {
+      "zipcode": "92712",
+      "place": "Новоборове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2459,
+      "longitude": 38.55
+    },
+    {
+      "zipcode": "92713",
+      "place": "Верхня Покровка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1135,
+      "longitude": 38.6239
+    },
+    {
+      "zipcode": "92714",
+      "place": "Нижньопокровка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2136,
+      "longitude": 38.6378
+    },
+    {
+      "zipcode": "92715",
+      "place": "Маринівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.1813,
+      "longitude": 37.348
+    },
+    {
+      "zipcode": "92716",
+      "place": "Суханівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1823,
+      "longitude": 38.7307
+    },
+    {
+      "zipcode": "92717",
+      "place": "Джемільне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3186,
+      "longitude": 38.5908
+    },
+    {
+      "zipcode": "92720",
+      "place": "Бутківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3883,
+      "longitude": 38.9355
+    },
+    {
+      "zipcode": "92720",
+      "place": "Лиман",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3452,
+      "longitude": 38.9436
+    },
+    {
+      "zipcode": "92722",
+      "place": "Проїждже",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0348,
+      "longitude": 38.8595
+    },
+    {
+      "zipcode": "92723",
+      "place": "Проказине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0348,
+      "longitude": 38.8595
+    },
+    {
+      "zipcode": "92723",
+      "place": "Підгорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0348,
+      "longitude": 38.8595
+    },
+    {
+      "zipcode": "92724",
+      "place": "Курячівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6518,
+      "longitude": 38.6854
+    },
+    {
+      "zipcode": "92725",
+      "place": "Єгорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 47.9805,
+      "longitude": 39.1913
+    },
+    {
+      "zipcode": "92726",
+      "place": "Балакірівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0348,
+      "longitude": 38.8595
+    },
+    {
+      "zipcode": "92727",
+      "place": "Ганнівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.4806,
+      "longitude": 38.5464
+    },
+    {
+      "zipcode": "92728",
+      "place": "Дубовівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3622,
+      "longitude": 38.855
+    },
+    {
+      "zipcode": "92730",
+      "place": "Караяшник",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3706,
+      "longitude": 39.2312
+    },
+    {
+      "zipcode": "92731",
+      "place": "Бондареве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3804,
+      "longitude": 39.1914
+    },
+    {
+      "zipcode": "92732",
+      "place": "Садки",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3081,
+      "longitude": 39.2528
+    },
+    {
+      "zipcode": "92733",
+      "place": "Веселе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3017,
+      "longitude": 39.1714
+    },
+    {
+      "zipcode": "92734",
+      "place": "Петрівське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3314,
+      "longitude": 39.1464
+    },
+    {
+      "zipcode": "92735",
+      "place": "Тарабани",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3375,
+      "longitude": 39.2667
+    },
+    {
+      "zipcode": "92736",
+      "place": "Роздольне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3025,
+      "longitude": 39.0135
+    },
+    {
+      "zipcode": "92737",
+      "place": "Антонівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2907,
+      "longitude": 39.2145
+    },
+    {
+      "zipcode": "92738",
+      "place": "Західне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3,
+      "longitude": 39.2817
+    },
+    {
+      "zipcode": "92739",
+      "place": "Лозове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3552,
+      "longitude": 39.2828
+    },
+    {
+      "zipcode": "92740",
+      "place": "Запорізьке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.314,
+      "longitude": 38.9602
+    },
+    {
+      "zipcode": "92740",
+      "place": "Чмирівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.314,
+      "longitude": 38.9602
+    },
+    {
+      "zipcode": "92742",
+      "place": "Вишневе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2439,
+      "longitude": 39.0913
+    },
+    {
+      "zipcode": "92743",
+      "place": "Оріхове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7226,
+      "longitude": 38.564
+    },
+    {
+      "zipcode": "92744",
+      "place": "Шпотине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1785,
+      "longitude": 39.1934
+    },
+    {
+      "zipcode": "92745",
+      "place": "Тецьке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1382,
+      "longitude": 39.1895
+    },
+    {
+      "zipcode": "92746",
+      "place": "Сенькове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1456,
+      "longitude": 39.2532
+    },
+    {
+      "zipcode": "92747",
+      "place": "Новоамелькове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.163,
+      "longitude": 39.0562
+    },
+    {
+      "zipcode": "92748",
+      "place": "Березове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3978,
+      "longitude": 39.1419
+    },
+    {
+      "zipcode": "92750",
+      "place": "Титарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2427,
+      "longitude": 38.8251
+    },
+    {
+      "zipcode": "92751",
+      "place": "Новоселівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.259,
+      "longitude": 38.8857
+    },
+    {
+      "zipcode": "92752",
+      "place": "Хворостянівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2427,
+      "longitude": 38.8251
+    },
+    {
+      "zipcode": "92753",
+      "place": "Лозовівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1931,
+      "longitude": 38.8817
+    },
+    {
+      "zipcode": "92754",
+      "place": "Кам'янка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2427,
+      "longitude": 38.8251
+    },
+    {
+      "zipcode": "92755",
+      "place": "Малохатка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1129,
+      "longitude": 38.8065
+    },
+    {
+      "zipcode": "92756",
+      "place": "Кринички",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2941,
+      "longitude": 38.7116
+    },
+    {
+      "zipcode": "92757",
+      "place": "Новодонбаське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2666,
+      "longitude": 38.6252
+    },
+    {
+      "zipcode": "92758",
+      "place": "Левадне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3077,
+      "longitude": 38.7144
+    },
+    {
+      "zipcode": "92759",
+      "place": "Степове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2653,
+      "longitude": 39.1507
+    },
+    {
+      "zipcode": "92760",
+      "place": "Половинкине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0842,
+      "longitude": 38.9643
+    },
+    {
+      "zipcode": "92761",
+      "place": "Піщане",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7565,
+      "longitude": 39.3589
+    },
+    {
+      "zipcode": "92762",
+      "place": "Бутове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2589,
+      "longitude": 38.9402
+    },
+    {
+      "zipcode": "92763",
+      "place": "Байдівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0842,
+      "longitude": 38.9643
+    },
+    {
+      "zipcode": "92764",
+      "place": "Омелькове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1363,
+      "longitude": 39.0849
+    },
+    {
+      "zipcode": "92764",
+      "place": "Шульгинка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1479,
+      "longitude": 38.9291
+    },
+    {
+      "zipcode": "92765",
+      "place": "Валуйки",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0842,
+      "longitude": 38.9643
+    },
+    {
+      "zipcode": "92767",
+      "place": "Новоастраханське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1227,
+      "longitude": 38.7451
+    },
+    {
+      "zipcode": "92768",
+      "place": "Орлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0826,
+      "longitude": 38.7279
+    },
+    {
+      "zipcode": "92769",
+      "place": "Федчине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0842,
+      "longitude": 38.9643
+    },
+    {
+      "zipcode": "92801",
+      "place": "Біловодськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2442,
+      "longitude": 39.6979
+    },
+    {
+      "zipcode": "92803",
+      "place": "Семикозівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2372,
+      "longitude": 39.5699
+    },
+    {
+      "zipcode": "92806",
+      "place": "Плугатар",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2302,
+      "longitude": 39.7379
+    },
+    {
+      "zipcode": "92807",
+      "place": "Новоспасівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2653,
+      "longitude": 39.7858
+    },
+    {
+      "zipcode": "92810",
+      "place": "Кононівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3322,
+      "longitude": 39.6256
+    },
+    {
+      "zipcode": "92811",
+      "place": "Гармашівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3639,
+      "longitude": 39.6294
+    },
+    {
+      "zipcode": "92812",
+      "place": "Лимарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3255,
+      "longitude": 39.5962
+    },
+    {
+      "zipcode": "92813",
+      "place": "Новолимарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2789,
+      "longitude": 39.6033
+    },
+    {
+      "zipcode": "92814",
+      "place": "Брусівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3271,
+      "longitude": 39.3974
+    },
+    {
+      "zipcode": "92815",
+      "place": "Крейдяне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2996,
+      "longitude": 39.6625
+    },
+    {
+      "zipcode": "92815",
+      "place": "Литвинівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3066,
+      "longitude": 39.4477
+    },
+    {
+      "zipcode": "92816",
+      "place": "Шуліківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3164,
+      "longitude": 39.4937
+    },
+    {
+      "zipcode": "92817",
+      "place": "Первомайськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6299,
+      "longitude": 38.5481
+    },
+    {
+      "zipcode": "92818",
+      "place": "Ноздрівка (Городищенська сільська рада)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2422,
+      "longitude": 39.4449
+    },
+    {
+      "zipcode": "92820",
+      "place": "Євсуг",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2043,
+      "longitude": 39.312
+    },
+    {
+      "zipcode": "92822",
+      "place": "Копані",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2417,
+      "longitude": 39.3939
+    },
+    {
+      "zipcode": "92822",
+      "place": "Парневе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2037,
+      "longitude": 39.4058
+    },
+    {
+      "zipcode": "92823",
+      "place": "Новоолександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1328,
+      "longitude": 39.2842
+    },
+    {
+      "zipcode": "92824",
+      "place": "Степове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1251,
+      "longitude": 39.3841
+    },
+    {
+      "zipcode": "92825",
+      "place": "Тернове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0868,
+      "longitude": 39.4203
+    },
+    {
+      "zipcode": "92826",
+      "place": "Гончарове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2333,
+      "longitude": 39.4332
+    },
+    {
+      "zipcode": "92827",
+      "place": "Привільне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2184,
+      "longitude": 39.3987
+    },
+    {
+      "zipcode": "92830",
+      "place": "Бараниківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1518,
+      "longitude": 39.8598
+    },
+    {
+      "zipcode": "92831",
+      "place": "Зелеківка (Бараниківська сільська рада)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1252,
+      "longitude": 39.7139
+    },
+    {
+      "zipcode": "92832",
+      "place": "Нижньобараниківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0865,
+      "longitude": 39.8253
+    },
+    {
+      "zipcode": "92833",
+      "place": "Данилівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1208,
+      "longitude": 39.6205
+    },
+    {
+      "zipcode": "92834",
+      "place": "Третяківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1324,
+      "longitude": 39.5785
+    },
+    {
+      "zipcode": "92835",
+      "place": "Городище",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0561,
+      "longitude": 39.6702
+    },
+    {
+      "zipcode": "92836",
+      "place": "Узлісся",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1769,
+      "longitude": 39.785
+    },
+    {
+      "zipcode": "92837",
+      "place": "Вітрогон",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1492,
+      "longitude": 39.744
+    },
+    {
+      "zipcode": "92838",
+      "place": "Городнє (Данилівська сільська рада)",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1252,
+      "longitude": 39.7139
+    },
+    {
+      "zipcode": "92839",
+      "place": "Новодеркул",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1278,
+      "longitude": 39.6281
+    },
+    {
+      "zipcode": "92900",
+      "place": "Кремінна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0495,
+      "longitude": 38.2179
+    },
+    {
+      "zipcode": "92901",
+      "place": "Кремінна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0495,
+      "longitude": 38.2179
+    },
+    {
+      "zipcode": "92902",
+      "place": "Кремінна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0495,
+      "longitude": 38.2179
+    },
+    {
+      "zipcode": "92903",
+      "place": "Кремінна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0495,
+      "longitude": 38.2179
+    },
+    {
+      "zipcode": "92905",
+      "place": "Кремінна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0495,
+      "longitude": 38.2179
+    },
+    {
+      "zipcode": "92906",
+      "place": "Житлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1732,
+      "longitude": 38.5299
+    },
+    {
+      "zipcode": "92907",
+      "place": "Стара Краснянка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1732,
+      "longitude": 38.5299
+    },
+    {
+      "zipcode": "92908",
+      "place": "Діброва",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.5817,
+      "longitude": 40.1099
+    },
+    {
+      "zipcode": "92909",
+      "place": "Новоолександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2596,
+      "longitude": 38.1976
+    },
+    {
+      "zipcode": "92910",
+      "place": "Новомикільське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.3489,
+      "longitude": 39.8446
+    },
+    {
+      "zipcode": "92911",
+      "place": "Макіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.0478,
+      "longitude": 37.9258
+    },
+    {
+      "zipcode": "92912",
+      "place": "Нововодяне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 47.4297,
+      "longitude": 34.6907
+    },
+    {
+      "zipcode": "92913",
+      "place": "Красноріченське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2146,
+      "longitude": 38.2114
+    },
+    {
+      "zipcode": "92913",
+      "place": "Площанка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2146,
+      "longitude": 38.2114
+    },
+    {
+      "zipcode": "92914",
+      "place": "Красноріченське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2146,
+      "longitude": 38.2114
+    },
+    {
+      "zipcode": "92916",
+      "place": "Залиман",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.262,
+      "longitude": 38.1688
+    },
+    {
+      "zipcode": "92917",
+      "place": "Невське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1561,
+      "longitude": 37.9725
+    },
+    {
+      "zipcode": "92918",
+      "place": "Новолюбівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8105,
+      "longitude": 37.8607
+    },
+    {
+      "zipcode": "92919",
+      "place": "Площанка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8105,
+      "longitude": 37.8607
+    },
+    {
+      "zipcode": "92920",
+      "place": "Голубівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8843,
+      "longitude": 35.322
+    },
+    {
+      "zipcode": "92922",
+      "place": "Бараниківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.2264,
+      "longitude": 38.3012
+    },
+    {
+      "zipcode": "92923",
+      "place": "Новокраснянка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1342,
+      "longitude": 38.2788
+    },
+    {
+      "zipcode": "92923",
+      "place": "Суровцівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1342,
+      "longitude": 38.2788
+    },
+    {
+      "zipcode": "92924",
+      "place": "Червонопопівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1324,
+      "longitude": 38.1572
+    },
+    {
+      "zipcode": "92925",
+      "place": "Голикове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0268,
+      "longitude": 37.8836
+    },
+    {
+      "zipcode": "92926",
+      "place": "Піщане",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7565,
+      "longitude": 39.3589
+    },
+    {
+      "zipcode": "92927",
+      "place": "Скаргівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0268,
+      "longitude": 37.8836
+    },
+    {
+      "zipcode": "92928",
+      "place": "Кузьмине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0268,
+      "longitude": 37.8836
+    },
+    {
+      "zipcode": "92929",
+      "place": "Греківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0268,
+      "longitude": 37.8836
+    },
+    {
+      "zipcode": "92930",
+      "place": "Булгаківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9938,
+      "longitude": 38.1701
+    },
+    {
+      "zipcode": "92931",
+      "place": "Кудряшівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9938,
+      "longitude": 38.1701
+    },
+    {
+      "zipcode": "92932",
+      "place": "Півневе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9938,
+      "longitude": 38.1701
+    },
+    {
+      "zipcode": "92934",
+      "place": "Варварівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0736,
+      "longitude": 38.4091
+    },
+    {
+      "zipcode": "92935",
+      "place": "Затишне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8125,
+      "longitude": 35.9296
+    },
+    {
+      "zipcode": "92936",
+      "place": "Крутеньке",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1772,
+      "longitude": 38.4181
+    },
+    {
+      "zipcode": "92937",
+      "place": "Пшеничне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7153,
+      "longitude": 39.5055
+    },
+    {
+      "zipcode": "92938",
+      "place": "Прогрес",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9938,
+      "longitude": 38.1701
+    },
+    {
+      "zipcode": "92939",
+      "place": "Шевченко",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1905,
+      "longitude": 38.5881
+    },
+    {
+      "zipcode": "92940",
+      "place": "Нова Астрахань",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1265,
+      "longitude": 38.605
+    },
+    {
+      "zipcode": "92941",
+      "place": "Михайлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.925,
+      "longitude": 39.0529
+    },
+    {
+      "zipcode": "92942",
+      "place": "Єпіфанівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1868,
+      "longitude": 38.7886
+    },
+    {
+      "zipcode": "92943",
+      "place": "Боровеньки",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.048,
+      "longitude": 38.5637
+    },
+    {
+      "zipcode": "92944",
+      "place": "Пристине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1868,
+      "longitude": 38.7886
+    },
+    {
+      "zipcode": "92945",
+      "place": "Климівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6477,
+      "longitude": 38.9326
+    },
+    {
+      "zipcode": "93000",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93001",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93002",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93003",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93006",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93007",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93008",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93009",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93010",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93011",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93012",
+      "place": "Рубіжне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0123,
+      "longitude": 38.3797
+    },
+    {
+      "zipcode": "93100",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93103",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93105",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93106",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93107",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93108",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93109",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93110",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93113",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93115",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93117",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93118",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93120",
+      "place": "Лисичанськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9048,
+      "longitude": 38.4421
+    },
+    {
+      "zipcode": "93191",
+      "place": "Привілля",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8489,
+      "longitude": 38.52
+    },
+    {
+      "zipcode": "93192",
+      "place": "Привілля",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.8489,
+      "longitude": 38.52
+    },
+    {
+      "zipcode": "93193",
+      "place": "Новодружеськ",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9627,
+      "longitude": 38.3573
+    },
+    {
+      "zipcode": "93280",
+      "place": "Тошківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7791,
+      "longitude": 38.579
+    },
+    {
+      "zipcode": "93281",
+      "place": "Тошківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7791,
+      "longitude": 38.579
+    },
+    {
+      "zipcode": "93290",
+      "place": "Нижнє",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7753,
+      "longitude": 38.6239
+    },
+    {
+      "zipcode": "93292",
+      "place": "Гірське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7133,
+      "longitude": 38.5419
+    },
+    {
+      "zipcode": "93293",
+      "place": "Гірське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7133,
+      "longitude": 38.5419
+    },
+    {
+      "zipcode": "93295",
+      "place": "Золоте",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6926,
+      "longitude": 38.5146
+    },
+    {
+      "zipcode": "93296",
+      "place": "Золоте",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6926,
+      "longitude": 38.5146
+    },
+    {
+      "zipcode": "93297",
+      "place": "Золоте",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6926,
+      "longitude": 38.5146
+    },
+    {
+      "zipcode": "93301",
+      "place": "Попасна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6333,
+      "longitude": 38.378
+    },
+    {
+      "zipcode": "93302",
+      "place": "Калинове борщувате",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6197,
+      "longitude": 38.4919
+    },
+    {
+      "zipcode": "93302",
+      "place": "Попасна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6333,
+      "longitude": 38.378
+    },
+    {
+      "zipcode": "93305",
+      "place": "Попасна",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6333,
+      "longitude": 38.378
+    },
+    {
+      "zipcode": "93310",
+      "place": "Білогорівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.925,
+      "longitude": 38.2482
+    },
+    {
+      "zipcode": "93311",
+      "place": "Шипилівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9673,
+      "longitude": 38.2729
+    },
+    {
+      "zipcode": "93312",
+      "place": "Золотарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.878,
+      "longitude": 38.2722
+    },
+    {
+      "zipcode": "93313",
+      "place": "Лисичанський",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8932,
+      "longitude": 38.4008
+    },
+    {
+      "zipcode": "93313",
+      "place": "Малорязанцеве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.886,
+      "longitude": 38.3868
+    },
+    {
+      "zipcode": "93315",
+      "place": "Вовчоярівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8456,
+      "longitude": 38.3769
+    },
+    {
+      "zipcode": "93316",
+      "place": "Верхньокам'янка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8942,
+      "longitude": 38.326
+    },
+    {
+      "zipcode": "93317",
+      "place": "Тополівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.864,
+      "longitude": 38.3241
+    },
+    {
+      "zipcode": "93320",
+      "place": "Устинівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8224,
+      "longitude": 38.5674
+    },
+    {
+      "zipcode": "93321",
+      "place": "Мирна Долина",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.81,
+      "longitude": 38.479
+    },
+    {
+      "zipcode": "93322",
+      "place": "Біла Гора",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8495,
+      "longitude": 38.5123
+    },
+    {
+      "zipcode": "93323",
+      "place": "Лоскутівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8052,
+      "longitude": 38.412
+    },
+    {
+      "zipcode": "93324",
+      "place": "Підлісне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.803,
+      "longitude": 38.4461
+    },
+    {
+      "zipcode": "93325",
+      "place": "Рай-Олександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7892,
+      "longitude": 38.4166
+    },
+    {
+      "zipcode": "93326",
+      "place": "Вискрива",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.5916,
+      "longitude": 38.2862
+    },
+    {
+      "zipcode": "93328",
+      "place": "Новозванівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.5838,
+      "longitude": 38.3572
+    },
+    {
+      "zipcode": "93330",
+      "place": "Врубівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7643,
+      "longitude": 38.3839
+    },
+    {
+      "zipcode": "93330",
+      "place": "Миколаївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7725,
+      "longitude": 38.3352
+    },
+    {
+      "zipcode": "93332",
+      "place": "Новоіванівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7462,
+      "longitude": 38.4626
+    },
+    {
+      "zipcode": "93338",
+      "place": "Олександропілля",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6735,
+      "longitude": 38.3685
+    },
+    {
+      "zipcode": "93339",
+      "place": "Дружба",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6446,
+      "longitude": 38.3019
+    },
+    {
+      "zipcode": "93340",
+      "place": "Комишуваха",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6973,
+      "longitude": 38.3851
+    },
+    {
+      "zipcode": "93341",
+      "place": "Комишуваха",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6973,
+      "longitude": 38.3851
+    },
+    {
+      "zipcode": "93344",
+      "place": "Катеринівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6651,
+      "longitude": 38.4726
+    },
+    {
+      "zipcode": "93346",
+      "place": "Вікторівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7031,
+      "longitude": 38.3372
+    },
+    {
+      "zipcode": "93347",
+      "place": "Ниркове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7393,
+      "longitude": 38.3105
+    },
+    {
+      "zipcode": "93348",
+      "place": "Глинокар'єр",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.669,
+      "longitude": 38.3151
+    },
+    {
+      "zipcode": "93400",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93401",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93402",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93403",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93404",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93405",
+      "place": "Павлоград",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9245,
+      "longitude": 38.4541
+    },
+    {
+      "zipcode": "93405",
+      "place": "Синецький",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9471,
+      "longitude": 38.4119
+    },
+    {
+      "zipcode": "93405",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93406",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93408",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93411",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93412",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93413",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93416",
+      "place": "Воронове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8975,
+      "longitude": 38.5728
+    },
+    {
+      "zipcode": "93416",
+      "place": "Метьолкіне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9304,
+      "longitude": 38.5537
+    },
+    {
+      "zipcode": "93416",
+      "place": "Сєвєродонецьк",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9483,
+      "longitude": 38.4917
+    },
+    {
+      "zipcode": "93481",
+      "place": "Воєводівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9803,
+      "longitude": 38.4468
+    },
+    {
+      "zipcode": "93490",
+      "place": "Лісна Дача",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9239,
+      "longitude": 38.4884
+    },
+    {
+      "zipcode": "93490",
+      "place": "Сиротине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9157,
+      "longitude": 38.515
+    },
+    {
+      "zipcode": "93493",
+      "place": "Борівське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8669,
+      "longitude": 38.5693
+    },
+    {
+      "zipcode": "93494",
+      "place": "Боброве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8111,
+      "longitude": 38.6418
+    },
+    {
+      "zipcode": "93495",
+      "place": "Осколонівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8527,
+      "longitude": 38.66
+    },
+    {
+      "zipcode": "93500",
+      "place": "Новоайдар",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9639,
+      "longitude": 39.0058
+    },
+    {
+      "zipcode": "93500",
+      "place": "Чистопілля",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 47.3706,
+      "longitude": 35.6655
+    },
+    {
+      "zipcode": "93501",
+      "place": "Новоайдар",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9639,
+      "longitude": 39.0058
+    },
+    {
+      "zipcode": "93506",
+      "place": "Айдар-Миколаївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.963,
+      "longitude": 38.9723
+    },
+    {
+      "zipcode": "93507",
+      "place": "Маловенделівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0237,
+      "longitude": 38.9205
+    },
+    {
+      "zipcode": "93508",
+      "place": "Безгінове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7296,
+      "longitude": 38.4315
+    },
+    {
+      "zipcode": "93509",
+      "place": "Ковпаки",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0927,
+      "longitude": 39.0191
+    },
+    {
+      "zipcode": "93510",
+      "place": "Штормове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1008,
+      "longitude": 38.9135
+    },
+    {
+      "zipcode": "93511",
+      "place": "Денежникове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1403,
+      "longitude": 38.736
+    },
+    {
+      "zipcode": "93512",
+      "place": "Співаківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0451,
+      "longitude": 38.9075
+    },
+    {
+      "zipcode": "93513",
+      "place": "Чабанівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0325,
+      "longitude": 38.7588
+    },
+    {
+      "zipcode": "93514",
+      "place": "Гаврилівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1403,
+      "longitude": 38.736
+    },
+    {
+      "zipcode": "93515",
+      "place": "Олександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.6371,
+      "longitude": 38.1789
+    },
+    {
+      "zipcode": "93516",
+      "place": "Пурдівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9776,
+      "longitude": 38.5795
+    },
+    {
+      "zipcode": "93517",
+      "place": "Нижній Суходіл",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1403,
+      "longitude": 38.736
+    },
+    {
+      "zipcode": "93518",
+      "place": "Переможне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0851,
+      "longitude": 38.9355
+    },
+    {
+      "zipcode": "93519",
+      "place": "Петренкове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.1038,
+      "longitude": 38.8783
+    },
+    {
+      "zipcode": "93520",
+      "place": "Колядівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0846,
+      "longitude": 39.201
+    },
+    {
+      "zipcode": "93521",
+      "place": "Вовкодаєве",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0688,
+      "longitude": 39.2986
+    },
+    {
+      "zipcode": "93522",
+      "place": "Олексіївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0181,
+      "longitude": 39.1794
+    },
+    {
+      "zipcode": "93523",
+      "place": "Побєда",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6119,
+      "longitude": 38.3975
+    },
+    {
+      "zipcode": "93524",
+      "place": "Михайлюки",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9858,
+      "longitude": 39.2989
+    },
+    {
+      "zipcode": "93526",
+      "place": "Трудове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 47.9576,
+      "longitude": 36.0199
+    },
+    {
+      "zipcode": "93527",
+      "place": "Попасне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.0033,
+      "longitude": 38.84
+    },
+    {
+      "zipcode": "93528",
+      "place": "Путилине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8281,
+      "longitude": 38.8652
+    },
+    {
+      "zipcode": "93530",
+      "place": "Новоохтирка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9156,
+      "longitude": 38.812
+    },
+    {
+      "zipcode": "93531",
+      "place": "Степний Яр",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9764,
+      "longitude": 38.8593
+    },
+    {
+      "zipcode": "93532",
+      "place": "Смолянинове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9447,
+      "longitude": 38.7075
+    },
+    {
+      "zipcode": "93533",
+      "place": "Гречишкине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8675,
+      "longitude": 38.8969
+    },
+    {
+      "zipcode": "93534",
+      "place": "Окнине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8898,
+      "longitude": 38.7956
+    },
+    {
+      "zipcode": "93535",
+      "place": "Муратове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8035,
+      "longitude": 38.7365
+    },
+    {
+      "zipcode": "93536",
+      "place": "Капітанове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8312,
+      "longitude": 38.7613
+    },
+    {
+      "zipcode": "93540",
+      "place": "Дмитрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9275,
+      "longitude": 39.1588
+    },
+    {
+      "zipcode": "93541",
+      "place": "Бахмутівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8678,
+      "longitude": 39.0521
+    },
+    {
+      "zipcode": "93541",
+      "place": "Царівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8857,
+      "longitude": 39.0581
+    },
+    {
+      "zipcode": "93543",
+      "place": "Райгородка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8186,
+      "longitude": 39.0557
+    },
+    {
+      "zipcode": "93544",
+      "place": "Дубове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.878,
+      "longitude": 38.9487
+    },
+    {
+      "zipcode": "93545",
+      "place": "Деменкове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9031,
+      "longitude": 39.0583
+    },
+    {
+      "zipcode": "93546",
+      "place": "Михайлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.925,
+      "longitude": 39.0529
+    },
+    {
+      "zipcode": "93601",
+      "place": "Станично-Луганське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6543,
+      "longitude": 39.4794
+    },
+    {
+      "zipcode": "93602",
+      "place": "Станично-Луганське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6543,
+      "longitude": 39.4794
+    },
+    {
+      "zipcode": "93611",
+      "place": "Велика Чернігівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9591,
+      "longitude": 39.4169
+    },
+    {
+      "zipcode": "93612",
+      "place": "Сотенне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8083,
+      "longitude": 38.4316
+    },
+    {
+      "zipcode": "93613",
+      "place": "Петропавлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 47.9892,
+      "longitude": 34.9712
+    },
+    {
+      "zipcode": "93615",
+      "place": "Передільське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7539,
+      "longitude": 39.1505
+    },
+    {
+      "zipcode": "93615",
+      "place": "Старий Айдар",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7218,
+      "longitude": 39.1839
+    },
+    {
+      "zipcode": "93617",
+      "place": "Михайлівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 49.7052,
+      "longitude": 38.4414
+    },
+    {
+      "zipcode": "93618",
+      "place": "Гаївка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8083,
+      "longitude": 38.4316
+    },
+    {
+      "zipcode": "93619",
+      "place": "Малинове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7204,
+      "longitude": 39.4255
+    },
+    {
+      "zipcode": "93620",
+      "place": "Чугинка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9212,
+      "longitude": 39.6625
+    },
+    {
+      "zipcode": "93621",
+      "place": "Красна Талівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8558,
+      "longitude": 39.8494
+    },
+    {
+      "zipcode": "93623",
+      "place": "Благовіщенка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9072,
+      "longitude": 40.0251
+    },
+    {
+      "zipcode": "93623",
+      "place": "Талове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8586,
+      "longitude": 39.9604
+    },
+    {
+      "zipcode": "93624",
+      "place": "Широкий",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8315,
+      "longitude": 39.6381
+    },
+    {
+      "zipcode": "93625",
+      "place": "Розквіт",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9535,
+      "longitude": 39.5771
+    },
+    {
+      "zipcode": "93626",
+      "place": "Козачий",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8872,
+      "longitude": 39.5742
+    },
+    {
+      "zipcode": "93627",
+      "place": "Степове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7767,
+      "longitude": 39.5738
+    },
+    {
+      "zipcode": "93628",
+      "place": "Деркульське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.995,
+      "longitude": 39.694
+    },
+    {
+      "zipcode": "93629",
+      "place": "Красний Деркул",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8544,
+      "longitude": 39.825
+    },
+    {
+      "zipcode": "93630",
+      "place": "Тепле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8368,
+      "longitude": 39.4256
+    },
+    {
+      "zipcode": "93631",
+      "place": "Верхній Мінченок",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8818,
+      "longitude": 39.4745
+    },
+    {
+      "zipcode": "93632",
+      "place": "Артема",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7881,
+      "longitude": 39.3073
+    },
+    {
+      "zipcode": "93632",
+      "place": "Нижньотепле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7949,
+      "longitude": 39.3506
+    },
+    {
+      "zipcode": "93634",
+      "place": "Нижній Мінченок",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8475,
+      "longitude": 39.4649
+    },
+    {
+      "zipcode": "93635",
+      "place": "Крепи",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9312,
+      "longitude": 39.5149
+    },
+    {
+      "zipcode": "93636",
+      "place": "Середньотепле",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.8225,
+      "longitude": 39.3794
+    },
+    {
+      "zipcode": "93637",
+      "place": "Вільне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9501,
+      "longitude": 39.7588
+    },
+    {
+      "zipcode": "93638",
+      "place": "Золотарівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9069,
+      "longitude": 39.7919
+    },
+    {
+      "zipcode": "93639",
+      "place": "Олександрівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.9745,
+      "longitude": 38.6227
+    },
+    {
+      "zipcode": "93640",
+      "place": "Гарасимівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.782,
+      "longitude": 39.705
+    },
+    {
+      "zipcode": "93641",
+      "place": "Нижня Вільхова",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7392,
+      "longitude": 39.5714
+    },
+    {
+      "zipcode": "93643",
+      "place": "Плотина",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7986,
+      "longitude": 39.4743
+    },
+    {
+      "zipcode": "93644",
+      "place": "Комишне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7165,
+      "longitude": 39.6701
+    },
+    {
+      "zipcode": "93645",
+      "place": "Колесниківка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6675,
+      "longitude": 39.6795
+    },
+    {
+      "zipcode": "93646",
+      "place": "Юганівка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6842,
+      "longitude": 39.7138
+    },
+    {
+      "zipcode": "93650",
+      "place": "Валуйське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6747,
+      "longitude": 39.5368
+    },
+    {
+      "zipcode": "93651",
+      "place": "Валуйське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6747,
+      "longitude": 39.5368
+    },
+    {
+      "zipcode": "93652",
+      "place": "Макарове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6838,
+      "longitude": 39.5169
+    },
+    {
+      "zipcode": "93653",
+      "place": "Вільхове",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6764,
+      "longitude": 39.572
+    },
+    {
+      "zipcode": "93656",
+      "place": "Болотине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6706,
+      "longitude": 39.5494
+    },
+    {
+      "zipcode": "93657",
+      "place": "Сизе",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.5989,
+      "longitude": 39.6281
+    },
+    {
+      "zipcode": "93658",
+      "place": "Пшеничне",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7153,
+      "longitude": 39.5055
+    },
+    {
+      "zipcode": "93660",
+      "place": "Піщане",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7565,
+      "longitude": 39.3589
+    },
+    {
+      "zipcode": "93710",
+      "place": "Лопаскине",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.6679,
+      "longitude": 39.0343
+    },
+    {
+      "zipcode": "93710",
+      "place": "Трьохізбенка",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7575,
+      "longitude": 38.9633
+    },
+    {
+      "zipcode": "93891",
+      "place": "Новотошківське",
+      "oblast": "Луганська область",
+      "oblast_en": "Luhansk Oblast",
+      "iso_3166_2": "UA-09",
+      "latitude": 48.7234,
+      "longitude": 38.6351
+    }
+  ],
+  "meta": {
+    "title": "Поштові індекси: Луганська область - Безкоштовне завантаження",
+    "description": "Поштові індекси населених пунктів — Луганська область (593 записів). Назви українською, координати WGS84, ISO 3166-2 UA-09. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv. Містить 593 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Поштові індекси: Луганська область | ListBase",
+    "seo_description": "Завантажити Поштові індекси: Луганська область — 593 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 593 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

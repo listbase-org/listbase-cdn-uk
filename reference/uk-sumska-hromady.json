@@ -1,0 +1,654 @@
+{
+  "id": "uk-sumska-hromady",
+  "name": "Територіальні громади Сумської області",
+  "title": "Територіальні громади Сумської області",
+  "description": "Список 53 територіальних громад Сумської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA59020010000024157",
+      "name": "Бочечківська сільська громада",
+      "name_en": "Bochechkivska silska hromada",
+      "slug": "bochechkivska-silska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020030000072865",
+      "name": "Буринська міська громада",
+      "name_en": "Burynska miska hromada",
+      "slug": "burynska-miska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020050000012539",
+      "name": "Дубов'язівська селищна громада",
+      "name_en": "Dubovyazivska selyshchna hromada",
+      "slug": "dubovyazivska-selyshchna-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020070000032449",
+      "name": "Конотопська міська громада",
+      "name_en": "Konotopska miska hromada",
+      "slug": "konotopska-miska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020090000085438",
+      "name": "Кролевецька міська громада",
+      "name_en": "Krolevetska miska hromada",
+      "slug": "krolevetska-miska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020110000066430",
+      "name": "Новослобідська сільська громада",
+      "name_en": "Novoslobidska silska hromada",
+      "slug": "novoslobidska-silska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020130000060377",
+      "name": "Попівська сільська громада",
+      "name_en": "Popivska silska hromada",
+      "slug": "popivska-silska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59020150000078955",
+      "name": "Путивльська міська громада",
+      "name_en": "Putyvlska miska hromada",
+      "slug": "putyvlska-miska-hromada",
+      "rayon_code": "UA59020000000081905",
+      "rayon_name": "Конотопський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040010000075530",
+      "name": "Боромлянська сільська громада",
+      "name_en": "Boromlianska silska hromada",
+      "slug": "boromlianska-silska-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040030000060142",
+      "name": "Великописарівська селищна громада",
+      "name_en": "Velykopysarivska selyshchna hromada",
+      "slug": "velykopysarivska-selyshchna-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040050000033127",
+      "name": "Грунська сільська громада",
+      "name_en": "Hrunska silska hromada",
+      "slug": "hrunska-silska-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040070000045520",
+      "name": "Кириківська селищна громада",
+      "name_en": "Kyrykivska selyshchna hromada",
+      "slug": "kyrykivska-selyshchna-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040090000041737",
+      "name": "Комишанська сільська громада",
+      "name_en": "Komyshanska silska hromada",
+      "slug": "komyshanska-silska-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040110000026694",
+      "name": "Охтирська міська громада",
+      "name_en": "Okhtyrska miska hromada",
+      "slug": "okhtyrska-miska-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040130000041676",
+      "name": "Тростянецька міська громада",
+      "name_en": "Trostianetska miska hromada",
+      "slug": "trostianetska-miska-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040150000076482",
+      "name": "Чернеччинська сільська громада",
+      "name_en": "Chernechchynska silska hromada",
+      "slug": "chernechchynska-silska-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59040170000054314",
+      "name": "Чупахівська селищна громада",
+      "name_en": "Chupakhivska selyshchna hromada",
+      "slug": "chupakhivska-selyshchna-hromada",
+      "rayon_code": "UA59040000000045652",
+      "rayon_name": "Охтирський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060010000042952",
+      "name": "Андріяшівська сільська громада",
+      "name_en": "Andriiashivska silska hromada",
+      "slug": "andriiashivska-silska-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060030000069916",
+      "name": "Вільшанська сільська громада",
+      "name_en": "Vilshanska silska hromada",
+      "slug": "vilshanska-silska-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060050000060884",
+      "name": "Коровинська сільська громада",
+      "name_en": "Korovynska silska hromada",
+      "slug": "korovynska-silska-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060070000040784",
+      "name": "Липоводолинська селищна громада",
+      "name_en": "Lypovodolynska selyshchna hromada",
+      "slug": "lypovodolynska-selyshchna-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060090000012687",
+      "name": "Недригайлівська селищна громада",
+      "name_en": "Nedryhailivska selyshchna hromada",
+      "slug": "nedryhailivska-selyshchna-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060110000049734",
+      "name": "Роменська міська громада",
+      "name_en": "Romenska miska hromada",
+      "slug": "romenska-miska-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060130000041204",
+      "name": "Синівська сільська рада (Липоводолинський район)",
+      "name_en": "Synivska silska rada (Lypovodolynskyi raion)",
+      "slug": "synivska-silska-rada-lypovodolynskyi-raion",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060130000041204",
+      "name": "Синівська сільська громада",
+      "name_en": "Synivska silska hromada",
+      "slug": "synivska-silska-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59060150000055022",
+      "name": "Хмелівська сільська громада",
+      "name_en": "Khmelivska silska hromada",
+      "slug": "khmelivska-silska-hromada",
+      "rayon_code": "UA59060000000086008",
+      "rayon_name": "Роменський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080010000078468",
+      "name": "Бездрицька сільська громада",
+      "name_en": "Bezdrytska silska hromada",
+      "slug": "bezdrytska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080030000075526",
+      "name": "Білопільська міська громада",
+      "name_en": "Bilopilska miska hromada",
+      "slug": "bilopilska-miska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080050000061215",
+      "name": "Верхньосироватська сільська громада",
+      "name_en": "Verkhnosyrovatska silska hromada",
+      "slug": "verkhnosyrovatska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080070000062635",
+      "name": "Ворожбянська міська громада",
+      "name_en": "Vorozhbianska miska hromada",
+      "slug": "vorozhbianska-miska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080090000092991",
+      "name": "Краснопільська селищна громада",
+      "name_en": "Krasnopilska selyshchna hromada",
+      "slug": "krasnopilska-selyshchna-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080110000034361",
+      "name": "Лебединська міська громада",
+      "name_en": "Lebedynska miska hromada",
+      "slug": "lebedynska-miska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080111000092834",
+      "name": "Стеблянки",
+      "name_en": "Steblianky",
+      "slug": "steblianky",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080130000022249",
+      "name": "Миколаївська селищна громада",
+      "name_en": "Mykolaivska selyshchna hromada",
+      "slug": "mykolaivska-selyshchna-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080150000013842",
+      "name": "Миколаївська сільська громада",
+      "name_en": "Mykolaivska silska hromada",
+      "slug": "mykolaivska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080170000056499",
+      "name": "Миропільська сільська громада",
+      "name_en": "Myropilska silska hromada",
+      "slug": "myropilska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080190000095280",
+      "name": "Нижньосироватська сільська громада",
+      "name_en": "Nyzhnosyrovatska silska hromada",
+      "slug": "nyzhnosyrovatska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080210000075243",
+      "name": "Річківська сільська громада",
+      "name_en": "Richkivska silska hromada",
+      "slug": "richkivska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080230000084731",
+      "name": "Садівська сільська громада",
+      "name_en": "Sadivska silska hromada",
+      "slug": "sadivska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080250000082875",
+      "name": "Степанівська селищна громада",
+      "name_en": "Stepanivska selyshchna hromada",
+      "slug": "stepanivska-selyshchna-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080270000073662",
+      "name": "Сумська міська громада",
+      "name_en": "Sumska miska hromada",
+      "slug": "sumska-miska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080290000021284",
+      "name": "Хотінська селищна громада",
+      "name_en": "Khotinska selyshchna hromada",
+      "slug": "khotinska-selyshchna-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59080310000049988",
+      "name": "Юнаківська сільська громада",
+      "name_en": "Yunakivska silska hromada",
+      "slug": "yunakivska-silska-hromada",
+      "rayon_code": "UA59080000000057897",
+      "rayon_name": "Сумський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100010000064812",
+      "name": "Березівська сільська громада",
+      "name_en": "Berezivska silska hromada",
+      "slug": "berezivska-silska-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100030000078744",
+      "name": "Глухівська міська громада",
+      "name_en": "Hlukhivska miska hromada",
+      "slug": "hlukhivska-miska-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100050000059594",
+      "name": "Дружбівська міська громада",
+      "name_en": "Druzhbivska miska hromada",
+      "slug": "druzhbivska-miska-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100070000019079",
+      "name": "Есманьська селищна громада",
+      "name_en": "Esmanska selyshchna hromada",
+      "slug": "esmanska-selyshchna-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100090000041284",
+      "name": "Зноб-Новгородська селищна громада",
+      "name_en": "Znob-Novhorodska selyshchna hromada",
+      "slug": "znob-novhorodska-selyshchna-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100110000012703",
+      "name": "Свеська селищна громада",
+      "name_en": "Sveska selyshchna hromada",
+      "slug": "sveska-selyshchna-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100130000041016",
+      "name": "Середино-Будська міська громада",
+      "name_en": "Seredyno-Budska miska hromada",
+      "slug": "seredyno-budska-miska-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100150000074932",
+      "name": "Шалигинська селищна громада",
+      "name_en": "Shalyhynska selyshchna hromada",
+      "slug": "shalyhynska-selyshchna-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100170000093676",
+      "name": "Шосткинська міська громада",
+      "name_en": "Shostkynska miska hromada",
+      "slug": "shostkynska-miska-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    },
+    {
+      "code": "UA59100190000010734",
+      "name": "Ямпільська селищна громада",
+      "name_en": "Yampilska selyshchna hromada",
+      "slug": "yampilska-selyshchna-hromada",
+      "rayon_code": "UA59100000000036457",
+      "rayon_name": "Шосткинський район",
+      "oblast_id": 18,
+      "oblast_name": "Сумська область",
+      "oblast_slug": "sumska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Сумської області - Безкоштовне завантаження",
+    "description": "Список 53 територіальних громад Сумської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 53 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Сумської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Сумської області — 53 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 53 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

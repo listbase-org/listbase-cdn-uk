@@ -1,0 +1,214 @@
+{
+  "id": "uk-odynytsi-vymiru-mass",
+  "name": "Одиниці вимірювання — категорія 'mass' (17)",
+  "title": "Одиниці вимірювання — категорія 'mass' (17)",
+  "description": "Одиниці вимірювання категорії 'mass' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "katehoriia": "mass",
+      "nazva": "карати",
+      "skorochennia": "кар.",
+      "vuzka_forma": "кар",
+      "vzirets": "{0} карата"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "katehoriia": "mass",
+      "nazva": "дальтони",
+      "skorochennia": "дальтони",
+      "vuzka_forma": "Да",
+      "vzirets": "{0} дальтона"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "katehoriia": "mass",
+      "nazva": "маси Землі",
+      "skorochennia": "маси Землі",
+      "vuzka_forma": "M⊕",
+      "vzirets": "{0} маси Землі"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "katehoriia": "mass",
+      "nazva": "fun [JP]",
+      "skorochennia": "fun [JP]",
+      "vuzka_forma": "fun [JP]",
+      "vzirets": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "katehoriia": "mass",
+      "nazva": "грани",
+      "skorochennia": "гран",
+      "vuzka_forma": "гр.",
+      "vzirets": "{0} грана"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "katehoriia": "mass",
+      "nazva": "грами",
+      "skorochennia": "г",
+      "vuzka_forma": "г",
+      "vzirets": "{0} грама"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "katehoriia": "mass",
+      "nazva": "кілограми",
+      "skorochennia": "кг",
+      "vuzka_forma": "кг",
+      "vzirets": "{0} кілограма"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "katehoriia": "mass",
+      "nazva": "мікрограми",
+      "skorochennia": "мкг",
+      "vuzka_forma": "мкг",
+      "vzirets": "{0} мікрограма"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "katehoriia": "mass",
+      "nazva": "міліграми",
+      "skorochennia": "мг",
+      "vuzka_forma": "мг",
+      "vzirets": "{0} міліграма"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "katehoriia": "mass",
+      "nazva": "унції",
+      "skorochennia": "унц.",
+      "vuzka_forma": "ун.",
+      "vzirets": "{0} унції"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "katehoriia": "mass",
+      "nazva": "тройські унції",
+      "skorochennia": "тр. унції",
+      "vuzka_forma": "тр. ун.",
+      "vzirets": "{0} тройської унції"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "katehoriia": "mass",
+      "nazva": "фунти",
+      "skorochennia": "фнт",
+      "vuzka_forma": "фнт",
+      "vzirets": "{0} фунта"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "katehoriia": "mass",
+      "nazva": "slug",
+      "skorochennia": "slug",
+      "vuzka_forma": "slug",
+      "vzirets": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "katehoriia": "mass",
+      "nazva": "маси Сонця",
+      "skorochennia": "маси Сонця",
+      "vuzka_forma": "M☉",
+      "vzirets": "{0} маси Сонця"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "katehoriia": "mass",
+      "nazva": "стоуни",
+      "skorochennia": "стн",
+      "vuzka_forma": "стн",
+      "vzirets": "{0} стоуна"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "katehoriia": "mass",
+      "nazva": "тонни",
+      "skorochennia": "т",
+      "vuzka_forma": "т",
+      "vzirets": "{0} тонни"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "katehoriia": "mass",
+      "nazva": "метричні тонни",
+      "skorochennia": "метр. т",
+      "vuzka_forma": "т",
+      "vzirets": "{0} метричної тонни"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'mass' (17) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'mass' з локалі uk у CLDR, з назвами українською. Містить 17 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'mass' (17) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'mass' (17) — 17 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 17 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "id": "uk-chernihivska-hromady",
+  "name": "Територіальні громади Чернігівської області",
+  "title": "Територіальні громади Чернігівської області",
+  "description": "Список 61 територіальних громад Чернігівської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA74020010000010449",
+      "name": "Корюківська міська громада",
+      "name_en": "Koriukivska miska hromada",
+      "slug": "koriukivska-miska-hromada",
+      "rayon_code": "UA74020000000089267",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74020030000069340",
+      "name": "Менська міська громада",
+      "name_en": "Menska miska hromada",
+      "slug": "menska-miska-hromada",
+      "rayon_code": "UA74020000000089267",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74020050000033944",
+      "name": "Сновська міська громада",
+      "name_en": "Snovska miska hromada",
+      "slug": "snovska-miska-hromada",
+      "rayon_code": "UA74020000000089267",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74020070000037186",
+      "name": "Сосницька селищна громада",
+      "name_en": "Sosnytska selyshchna hromada",
+      "slug": "sosnytska-selyshchna-hromada",
+      "rayon_code": "UA74020000000089267",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74020090000083820",
+      "name": "Холминська селищна громада",
+      "name_en": "Kholmynska selyshchna hromada",
+      "slug": "kholmynska-selyshchna-hromada",
+      "rayon_code": "UA74020000000089267",
+      "rayon_name": "Корюківський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040010000076097",
+      "name": "Батуринська міська громада",
+      "name_en": "Baturynska miska hromada",
+      "slug": "baturynska-miska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040030000093042",
+      "name": "Бахмацька міська громада",
+      "name_en": "Bakhmatska miska hromada",
+      "slug": "bakhmatska-miska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040050000013413",
+      "name": "Бобровицька міська громада",
+      "name_en": "Bobrovytska miska hromada",
+      "slug": "bobrovytska-miska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040070000086652",
+      "name": "Борзнянська міська громада",
+      "name_en": "Borznianska miska hromada",
+      "slug": "borznianska-miska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040090000047246",
+      "name": "Вертіївська сільська рада",
+      "name_en": "Vertiivska silska rada",
+      "slug": "vertiivska-silska-rada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040090000047246",
+      "name": "Вертіївська сільська громада",
+      "name_en": "Vertiivska silska hromada",
+      "slug": "vertiivska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040110000021989",
+      "name": "Височанська сільська громада",
+      "name_en": "Vysochanska silska hromada",
+      "slug": "vysochanska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040130000094076",
+      "name": "Дмитрівська селищна громада",
+      "name_en": "Dmytrivska selyshchna hromada",
+      "slug": "dmytrivska-selyshchna-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040150000010608",
+      "name": "Комарівська сільська громада",
+      "name_en": "Komarivska silska hromada",
+      "slug": "komarivska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040170000037628",
+      "name": "Крутівська сільська громада",
+      "name_en": "Krutivska silska hromada",
+      "slug": "krutivska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040190000070909",
+      "name": "Лосинівська селищна громада",
+      "name_en": "Losynivska selyshchna hromada",
+      "slug": "losynivska-selyshchna-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040210000018988",
+      "name": "Макіївська сільська громада",
+      "name_en": "Makiivska silska hromada",
+      "slug": "makiivska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040230000022565",
+      "name": "Мринська сільська рада",
+      "name_en": "Mrynska silska rada",
+      "slug": "mrynska-silska-rada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040230000022565",
+      "name": "Мринська сільська громада",
+      "name_en": "Mrynska silska hromada",
+      "slug": "mrynska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040250000063494",
+      "name": "Ніжинська міська громада",
+      "name_en": "Nizhynska miska hromada",
+      "slug": "nizhynska-miska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040270000069132",
+      "name": "Новобасанська сільська громада",
+      "name_en": "Novobasanska silska hromada",
+      "slug": "novobasanska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040290000072674",
+      "name": "Носівська міська громада",
+      "name_en": "Nosivska miska hromada",
+      "slug": "nosivska-miska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040310000039217",
+      "name": "Плисківська сільська громада",
+      "name_en": "Plyskivska silska hromada",
+      "slug": "plyskivska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74040330000024949",
+      "name": "Талалаївська сільська громада",
+      "name_en": "Talalaivska silska hromada",
+      "slug": "talalaivska-silska-hromada",
+      "rayon_code": "UA74040000000028062",
+      "rayon_name": "Ніжинський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74060010000052907",
+      "name": "Коропська селищна громада",
+      "name_en": "Koropska selyshchna hromada",
+      "slug": "koropska-selyshchna-hromada",
+      "rayon_code": "UA74060000000063946",
+      "rayon_name": "Новгород-Сіверський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74060030000026607",
+      "name": "Новгород-Сіверська міська громада",
+      "name_en": "Novhorod-Siverska miska hromada",
+      "slug": "novhorod-siverska-miska-hromada",
+      "rayon_code": "UA74060000000063946",
+      "rayon_name": "Новгород-Сіверський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74060050000061355",
+      "name": "Понорницька селищна громада",
+      "name_en": "Ponornytska selyshchna hromada",
+      "slug": "ponornytska-selyshchna-hromada",
+      "rayon_code": "UA74060000000063946",
+      "rayon_name": "Новгород-Сіверський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74060070000028810",
+      "name": "Семенівська міська громада",
+      "name_en": "Semenivska miska hromada",
+      "slug": "semenivska-miska-hromada",
+      "rayon_code": "UA74060000000063946",
+      "rayon_name": "Новгород-Сіверський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080010000063011",
+      "name": "Варвинська селищна громада",
+      "name_en": "Varvynska selyshchna hromada",
+      "slug": "varvynska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080030000040714",
+      "name": "Ічнянська міська громада",
+      "name_en": "Ichnianska miska hromada",
+      "slug": "ichnianska-miska-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080050000033938",
+      "name": "Ладанська селищна громада",
+      "name_en": "Ladanska selyshchna hromada",
+      "slug": "ladanska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080070000022285",
+      "name": "Линовицька селищна громада",
+      "name_en": "Lynovytska selyshchna hromada",
+      "slug": "lynovytska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080090000092409",
+      "name": "Малодівицька селищна громада",
+      "name_en": "Malodivytska selyshchna hromada",
+      "slug": "malodivytska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080110000023749",
+      "name": "Парафіївська селищна громада",
+      "name_en": "Parafiivska selyshchna hromada",
+      "slug": "parafiivska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080130000060606",
+      "name": "Прилуцька міська громада",
+      "name_en": "Prylutska miska hromada",
+      "slug": "prylutska-miska-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080150000033167",
+      "name": "Срібнянська селищна громада",
+      "name_en": "Sribnianska selyshchna hromada",
+      "slug": "sribnianska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080170000055617",
+      "name": "Сухополов'янська сільська громада",
+      "name_en": "Sukhopolovyanska silska hromada",
+      "slug": "sukhopolovyanska-silska-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080190000091939",
+      "name": "Талалаївська селищна громада",
+      "name_en": "Talalaivska selyshchna hromada",
+      "slug": "talalaivska-selyshchna-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080210000098421",
+      "name": "Яблунівська сільська рада",
+      "name_en": "Yablunivska silska rada",
+      "slug": "yablunivska-silska-rada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74080210000098421",
+      "name": "Яблунівська сільська громада",
+      "name_en": "Yablunivska silska hromada",
+      "slug": "yablunivska-silska-hromada",
+      "rayon_code": "UA74080000000030554",
+      "rayon_name": "Прилуцький район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100010000063674",
+      "name": "Березнянська селищна громада",
+      "name_en": "Bereznianska selyshchna hromada",
+      "slug": "bereznianska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100030000076377",
+      "name": "Гончарівська селищна громада",
+      "name_en": "Honcharivska selyshchna hromada",
+      "slug": "honcharivska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100050000019554",
+      "name": "Городнянська міська громада",
+      "name_en": "Horodnianska miska hromada",
+      "slug": "horodnianska-miska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100070000057810",
+      "name": "Деснянська селищна громада",
+      "name_en": "Desnianska selyshchna hromada",
+      "slug": "desnianska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100090000064336",
+      "name": "Добрянська селищна громада",
+      "name_en": "Dobrianska selyshchna hromada",
+      "slug": "dobrianska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100110000030364",
+      "name": "Іванівська сільська рада",
+      "name_en": "Ivanivska silska rada",
+      "slug": "ivanivska-silska-rada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100110000030364",
+      "name": "Іванівська сільська громада",
+      "name_en": "Ivanivska silska hromada",
+      "slug": "ivanivska-silska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100130000039404",
+      "name": "Киїнська сільська громада",
+      "name_en": "Kyinska silska hromada",
+      "slug": "kyinska-silska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100150000090847",
+      "name": "Киселівська сільська громада",
+      "name_en": "Kyselivska silska hromada",
+      "slug": "kyselivska-silska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100170000043593",
+      "name": "Кіптівська сільська громада",
+      "name_en": "Kiptivska silska hromada",
+      "slug": "kiptivska-silska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100190000086457",
+      "name": "Козелецька селищна громада",
+      "name_en": "Kozeletska selyshchna hromada",
+      "slug": "kozeletska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100210000053397",
+      "name": "Куликівська селищна громада",
+      "name_en": "Kulykivska selyshchna hromada",
+      "slug": "kulykivska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100230000068041",
+      "name": "Любецька селищна громада",
+      "name_en": "Liubetska selyshchna hromada",
+      "slug": "liubetska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100250000038291",
+      "name": "Михайло-Коцюбинська селищна громада",
+      "name_en": "Mykhailo-Kotsiubynska selyshchna hromada",
+      "slug": "mykhailo-kotsiubynska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100270000049748",
+      "name": "Новобілоуська сільська громада",
+      "name_en": "Novobilouska silska hromada",
+      "slug": "novobilouska-silska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100290000084770",
+      "name": "Олишівська селищна громада",
+      "name_en": "Olyshivska selyshchna hromada",
+      "slug": "olyshivska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100310000091595",
+      "name": "Остерська міська громада",
+      "name_en": "Osterska miska hromada",
+      "slug": "osterska-miska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100330000029082",
+      "name": "Ріпкинська селищна громада",
+      "name_en": "Ripkynska selyshchna hromada",
+      "slug": "ripkynska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100350000075160",
+      "name": "Седнівська селищна громада",
+      "name_en": "Sednivska selyshchna hromada",
+      "slug": "sednivska-selyshchna-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100370000041962",
+      "name": "Тупичівська сільська громада",
+      "name_en": "Tupychivska silska hromada",
+      "slug": "tupychivska-silska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    },
+    {
+      "code": "UA74100390000073425",
+      "name": "Чернігівська міська громада",
+      "name_en": "Chernihivska miska hromada",
+      "slug": "chernihivska-miska-hromada",
+      "rayon_code": "UA74100000000047140",
+      "rayon_name": "Чернігівський район",
+      "oblast_id": 25,
+      "oblast_name": "Чернігівська область",
+      "oblast_slug": "chernihivska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Чернігівської області - Безкоштовне завантаження",
+    "description": "Список 61 територіальних громад Чернігівської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 61 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Чернігівської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Чернігівської області — 61 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 61 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

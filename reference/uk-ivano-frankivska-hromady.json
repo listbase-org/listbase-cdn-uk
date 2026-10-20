@@ -1,0 +1,808 @@
+{
+  "id": "uk-ivano-frankivska-hromady",
+  "name": "Територіальні громади Івано-Франківської області",
+  "title": "Територіальні громади Івано-Франківської області",
+  "description": "Список 67 територіальних громад Івано-Франківської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA26020010000096556",
+      "name": "Білоберізька сільська громада",
+      "name_en": "Biloberizka silska hromada",
+      "slug": "biloberizka-silska-hromada",
+      "rayon_code": "UA26020000000044654",
+      "rayon_name": "Верховинський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26020030000088465",
+      "name": "Верховинська селищна громада",
+      "name_en": "Verkhovynska selyshchna hromada",
+      "slug": "verkhovynska-selyshchna-hromada",
+      "rayon_code": "UA26020000000044654",
+      "rayon_name": "Верховинський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26020050000098694",
+      "name": "Зеленська сільська громада",
+      "name_en": "Zelenska silska hromada",
+      "slug": "zelenska-silska-hromada",
+      "rayon_code": "UA26020000000044654",
+      "rayon_name": "Верховинський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040010000011271",
+      "name": "Більшівцівська селищна громада",
+      "name_en": "Bilshivtsivska selyshchna hromada",
+      "slug": "bilshivtsivska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040030000091528",
+      "name": "Богородчанська селищна громада",
+      "name_en": "Bohorodchanska selyshchna hromada",
+      "slug": "bohorodchanska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040050000080752",
+      "name": "Букачівська селищна громада",
+      "name_en": "Bukachivska selyshchna hromada",
+      "slug": "bukachivska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040070000065724",
+      "name": "Бурштинська міська громада",
+      "name_en": "Burshtynska miska hromada",
+      "slug": "burshtynska-miska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040090000025932",
+      "name": "Галицька міська громада",
+      "name_en": "Halytska miska hromada",
+      "slug": "halytska-miska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040110000023512",
+      "name": "Дзвиняцька сільська громада",
+      "name_en": "Dzvyniatska silska hromada",
+      "slug": "dzvyniatska-silska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040150000053322",
+      "name": "Єзупільська селищна громада",
+      "name_en": "Yezupilska selyshchna hromada",
+      "slug": "yezupilska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040170000097347",
+      "name": "Загвіздянська сільська громада",
+      "name_en": "Zahvizdianska silska hromada",
+      "slug": "zahvizdianska-silska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040190000081578",
+      "name": "Івано-Франківська міська громада",
+      "name_en": "Ivano-Frankivska miska hromada",
+      "slug": "ivano-frankivska-miska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040210000094444",
+      "name": "Лисецька селищна громада",
+      "name_en": "Lysetska selyshchna hromada",
+      "slug": "lysetska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040230000035526",
+      "name": "Обертинська селищна громада",
+      "name_en": "Obertynska selyshchna hromada",
+      "slug": "obertynska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040250000061081",
+      "name": "Олешанська сільська громада",
+      "name_en": "Oleshanska silska hromada",
+      "slug": "oleshanska-silska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040270000047749",
+      "name": "Рогатинська міська громада",
+      "name_en": "Rohatynska miska hromada",
+      "slug": "rohatynska-miska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040290000025886",
+      "name": "Солотвинська селищна громада",
+      "name_en": "Solotvynska selyshchna hromada",
+      "slug": "solotvynska-selyshchna-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040310000066064",
+      "name": "Старобогородчанська сільська рада",
+      "name_en": "Starobohorodchanska silska rada",
+      "slug": "starobohorodchanska-silska-rada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040310000066064",
+      "name": "Старобогородчанська сільська громада",
+      "name_en": "Starobohorodchanska silska hromada",
+      "slug": "starobohorodchanska-silska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040330000019235",
+      "name": "Тисменицька міська громада",
+      "name_en": "Tysmenytska miska hromada",
+      "slug": "tysmenytska-miska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040350000024417",
+      "name": "Тлумацька міська громада",
+      "name_en": "Tlumatska miska hromada",
+      "slug": "tlumatska-miska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040370000057019",
+      "name": "Угринівська сільська громада",
+      "name_en": "Uhrynivska silska hromada",
+      "slug": "uhrynivska-silska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26040390000023006",
+      "name": "Ямницька сільська громада",
+      "name_en": "Yamnytska silska hromada",
+      "slug": "yamnytska-silska-hromada",
+      "rayon_code": "UA26040000000044761",
+      "rayon_name": "Івано-Франківський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060010000037638",
+      "name": "Болехівська міська громада",
+      "name_en": "Bolekhivska miska hromada",
+      "slug": "bolekhivska-miska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060030000011364",
+      "name": "Брошнів-Осадська селищна громада",
+      "name_en": "Broshniv-Osadska selyshchna hromada",
+      "slug": "broshniv-osadska-selyshchna-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060050000042523",
+      "name": "Верхнянська сільська рада",
+      "name_en": "Verkhnianska silska rada",
+      "slug": "verkhnianska-silska-rada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060050000042523",
+      "name": "Верхнянська сільська громада",
+      "name_en": "Verkhnianska silska hromada",
+      "slug": "verkhnianska-silska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060070000011203",
+      "name": "Вигодська селищна громада",
+      "name_en": "Vyhodska selyshchna hromada",
+      "slug": "vyhodska-selyshchna-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060090000054411",
+      "name": "Витвицька сільська громада",
+      "name_en": "Vytvytska silska hromada",
+      "slug": "vytvytska-silska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060110000025739",
+      "name": "Войнилівська селищна громада",
+      "name_en": "Voinylivska selyshchna hromada",
+      "slug": "voinylivska-selyshchna-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060130000047466",
+      "name": "Долинська міська громада",
+      "name_en": "Dolynska miska hromada",
+      "slug": "dolynska-miska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060150000074921",
+      "name": "Дубівська сільська громада",
+      "name_en": "Dubivska silska hromada",
+      "slug": "dubivska-silska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060170000091466",
+      "name": "Калуська міська громада",
+      "name_en": "Kaluska miska hromada",
+      "slug": "kaluska-miska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060190000099075",
+      "name": "Новицька сільська рада (Калуський район)",
+      "name_en": "Novytska silska rada (Kaluskyi raion)",
+      "slug": "novytska-silska-rada-kaluskyi-raion",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060190000099075",
+      "name": "Новицька сільська громада",
+      "name_en": "Novytska silska hromada",
+      "slug": "novytska-silska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060210000091421",
+      "name": "Перегінська селищна громада",
+      "name_en": "Perehinska selyshchna hromada",
+      "slug": "perehinska-selyshchna-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060230000053464",
+      "name": "Рожнятівська селищна громада",
+      "name_en": "Rozhniativska selyshchna hromada",
+      "slug": "rozhniativska-selyshchna-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26060250000064599",
+      "name": "Спаська сільська громада",
+      "name_en": "Spaska silska hromada",
+      "slug": "spaska-silska-hromada",
+      "rayon_code": "UA26060000000042554",
+      "rayon_name": "Калуський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080010000036750",
+      "name": "Гвіздецька селищна громада",
+      "name_en": "Hvizdetska selyshchna hromada",
+      "slug": "hvizdetska-selyshchna-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080030000014307",
+      "name": "Городенківська міська громада",
+      "name_en": "Horodenkivska miska hromada",
+      "slug": "horodenkivska-miska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080050000081474",
+      "name": "Заболотівська селищна громада",
+      "name_en": "Zabolotivska selyshchna hromada",
+      "slug": "zabolotivska-selyshchna-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080070000092582",
+      "name": "Коломийська міська територіальна громада",
+      "name_en": "Kolomyiska miska terytorialna hromada",
+      "slug": "kolomyiska-miska-terytorialna-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080090000095729",
+      "name": "Коршівська сільська рада",
+      "name_en": "Korshivska silska rada",
+      "slug": "korshivska-silska-rada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080090000095729",
+      "name": "Коршівська сільська громада",
+      "name_en": "Korshivska silska hromada",
+      "slug": "korshivska-silska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080110000076323",
+      "name": "Матеєвецька сільська рада",
+      "name_en": "Mateievetska silska rada",
+      "slug": "mateievetska-silska-rada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080110000076323",
+      "name": "Матеївецька сільська громада",
+      "name_en": "Mateivetska silska hromada",
+      "slug": "mateivetska-silska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080130000058024",
+      "name": "Нижньовербізька сільська громада",
+      "name_en": "Nyzhnoverbizka silska hromada",
+      "slug": "nyzhnoverbizka-silska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080150000032640",
+      "name": "Отинійська селищна громада",
+      "name_en": "Otyniiska selyshchna hromada",
+      "slug": "otyniiska-selyshchna-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080170000041182",
+      "name": "Печеніжинська селищна громада",
+      "name_en": "Pechenizhynska selyshchna hromada",
+      "slug": "pechenizhynska-selyshchna-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080190000080618",
+      "name": "Підгайчиківська сільська громада",
+      "name_en": "Pidhaichykivska silska hromada",
+      "slug": "pidhaichykivska-silska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080210000049380",
+      "name": "П'ядицька сільська рада",
+      "name_en": "Pyadytska silska rada",
+      "slug": "pyadytska-silska-rada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080210000049380",
+      "name": "П'ядицька сільська громада",
+      "name_en": "Pyadytska silska hromada",
+      "slug": "pyadytska-silska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080230000035462",
+      "name": "Снятинська міська громада",
+      "name_en": "Sniatynska miska hromada",
+      "slug": "sniatynska-miska-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26080250000056546",
+      "name": "Чернелицька селищна громада",
+      "name_en": "Chernelytska selyshchna hromada",
+      "slug": "chernelytska-selyshchna-hromada",
+      "rayon_code": "UA26080000000050130",
+      "rayon_name": "Коломийський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26100010000076570",
+      "name": "Косівська міська громада",
+      "name_en": "Kosivska miska hromada",
+      "slug": "kosivska-miska-hromada",
+      "rayon_code": "UA26100000000092255",
+      "rayon_name": "Косівський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26100030000012148",
+      "name": "Космацька сільська громада",
+      "name_en": "Kosmatska silska hromada",
+      "slug": "kosmatska-silska-hromada",
+      "rayon_code": "UA26100000000092255",
+      "rayon_name": "Косівський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26100050000019570",
+      "name": "Кутська селищна громада",
+      "name_en": "Kutska selyshchna hromada",
+      "slug": "kutska-selyshchna-hromada",
+      "rayon_code": "UA26100000000092255",
+      "rayon_name": "Косівський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26100070000078132",
+      "name": "Рожнівська сільська громада",
+      "name_en": "Rozhnivska silska hromada",
+      "slug": "rozhnivska-silska-hromada",
+      "rayon_code": "UA26100000000092255",
+      "rayon_name": "Косівський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26100090000038366",
+      "name": "Яблунівська селищна громада",
+      "name_en": "Yablunivska selyshchna hromada",
+      "slug": "yablunivska-selyshchna-hromada",
+      "rayon_code": "UA26100000000092255",
+      "rayon_name": "Косівський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120010000096774",
+      "name": "Ворохтянська селищна громада",
+      "name_en": "Vorokhtianska selyshchna hromada",
+      "slug": "vorokhtianska-selyshchna-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120030000018265",
+      "name": "Делятинська селищна громада",
+      "name_en": "Deliatynska selyshchna hromada",
+      "slug": "deliatynska-selyshchna-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120050000087602",
+      "name": "Ланчинська селищна територіальна громада",
+      "name_en": "Lanchynska selyshchna terytorialna hromada",
+      "slug": "lanchynska-selyshchna-terytorialna-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120070000067596",
+      "name": "Надвірнянська міська громада",
+      "name_en": "Nadvirnianska miska hromada",
+      "slug": "nadvirnianska-miska-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120090000072057",
+      "name": "Пасічнянська сільська громада",
+      "name_en": "Pasichnianska silska hromada",
+      "slug": "pasichnianska-silska-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120110000086381",
+      "name": "Переріслянська сільська громада",
+      "name_en": "Pererislianska silska hromada",
+      "slug": "pererislianska-silska-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120130000088448",
+      "name": "Поляницька сільська громада",
+      "name_en": "Polianytska silska hromada",
+      "slug": "polianytska-silska-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    },
+    {
+      "code": "UA26120150000021671",
+      "name": "Яремчанська міська громада",
+      "name_en": "Yaremchanska miska hromada",
+      "slug": "yaremchanska-miska-hromada",
+      "rayon_code": "UA26120000000036058",
+      "rayon_name": "Надвірнянський район",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Івано-Франківської області - Безкоштовне завантаження",
+    "description": "Список 67 територіальних громад Івано-Франківської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 67 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Івано-Франківської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Івано-Франківської області — 67 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 67 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

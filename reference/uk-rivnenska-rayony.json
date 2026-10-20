@@ -1,0 +1,116 @@
+{
+  "id": "uk-rivnenska-rayony",
+  "name": "Райони Рівненської області",
+  "title": "Райони Рівненської області",
+  "description": "Список усіх 5 районів Рівненської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA56020000000011586",
+      "name": "Вараський район",
+      "name_en": "Varaskyi raion",
+      "slug": "varaskyi-raion",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska",
+      "parent_code": "UA56000000000066151"
+    },
+    {
+      "code": "UA56040000000062179",
+      "name": "Дубенський район",
+      "name_en": "Dubenskyi raion",
+      "slug": "dubenskyi-raion",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska",
+      "parent_code": "UA56000000000066151"
+    },
+    {
+      "code": "UA56060000000041446",
+      "name": "Рівненський район",
+      "name_en": "Rivnenskyi raion",
+      "slug": "rivnenskyi-raion",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska",
+      "parent_code": "UA56000000000066151"
+    },
+    {
+      "code": "UA56080000000096146",
+      "name": "Сарненський район",
+      "name_en": "Sarnenskyi raion",
+      "slug": "sarnenskyi-raion",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska",
+      "parent_code": "UA56000000000066151"
+    },
+    {
+      "code": "UA56080000000096146",
+      "name": "Сарненський район",
+      "name_en": "Sarnenskyi raion",
+      "slug": "sarnenskyi-raion",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska",
+      "parent_code": "UA56000000000066151"
+    }
+  ],
+  "meta": {
+    "title": "Райони Рівненської області - Безкоштовне завантаження",
+    "description": "Список усіх 5 районів Рівненської області згідно з КАТОТТГ (реформа 2020 року). Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Рівненської області | ListBase",
+    "seo_description": "Завантажити Райони Рівненської області — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

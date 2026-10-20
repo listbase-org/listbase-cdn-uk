@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","frequency-gigahertz","frequency","гігагерци","ГГц","ГГц","{0} гігагерца"
+"2","frequency-hertz","frequency","герци","Гц","Гц","{0} герца"
+"3","frequency-kilohertz","frequency","кілогерци","кГц","кГц","{0} кілогерца"
+"4","frequency-megahertz","frequency","мегагерци","МГц","МГц","{0} мегагерца"

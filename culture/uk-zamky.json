@@ -1,0 +1,2176 @@
+{
+  "id": "uk-zamky",
+  "name": "Замки України",
+  "title": "Замки України",
+  "description": "Перелік об'єктів типу «замок» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 235,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_uk",
+      "label": "Wikipedia Uk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q1968086",
+      "wikidata_id": "Q1968086",
+      "name_uk": "Аккерманська фортеця",
+      "name_en": "Bilhorod-Dnistrovskyi Fortress",
+      "latitude": 46.200588,
+      "longitude": 30.350702,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q16618867",
+      "wikidata_id": "Q16618867",
+      "name_uk": "Баворівський замок",
+      "name_en": "Zamek w Baworowie",
+      "latitude": 49.44,
+      "longitude": 25.7172,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B2%D0%BE%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q114830999",
+      "wikidata_id": "Q114830999",
+      "name_uk": "Базалійський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12081090",
+      "wikidata_id": "Q12081090",
+      "name_uk": "Барський замок",
+      "name_en": "Bar Castle",
+      "latitude": 49.0667,
+      "longitude": 27.6667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12081224",
+      "wikidata_id": "Q12081224",
+      "name_uk": "Батуринська фортеця",
+      "name_en": "Baturyn Fortress",
+      "latitude": 51.342623,
+      "longitude": 32.886883,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D1%83%D1%80%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q28705165",
+      "wikidata_id": "Q28705165",
+      "name_uk": "Белзький замок",
+      "name_en": "",
+      "latitude": 50.38,
+      "longitude": 24.001667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12081989",
+      "wikidata_id": "Q12081989",
+      "name_uk": "Бердичівський замок",
+      "name_en": "Berdychiv Castle",
+      "latitude": 49.897586,
+      "longitude": 28.573764,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B4%D0%B8%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2629344",
+      "wikidata_id": "Q2629344",
+      "name_uk": "Бережанський замок",
+      "name_en": "Berezhany Castle",
+      "latitude": 49.446247,
+      "longitude": 24.944961,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B6%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618881",
+      "wikidata_id": "Q16618881",
+      "name_uk": "Богуславський замок",
+      "name_en": "Castle Bohusławiu",
+      "latitude": 49.5467,
+      "longitude": 30.8728,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q606744",
+      "wikidata_id": "Q606744",
+      "name_uk": "Боржавський замок",
+      "name_en": "Château de Borjova",
+      "latitude": 48.4,
+      "longitude": 23.266667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B6%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16693005",
+      "wikidata_id": "Q16693005",
+      "name_uk": "Борисоглібська фортеця",
+      "name_en": "Borysohlibska Fortress",
+      "latitude": 48.514444,
+      "longitude": 34.939444,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D1%96%D0%B1%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q16618884",
+      "wikidata_id": "Q16618884",
+      "name_uk": "Борщагівський замок",
+      "name_en": "Castle Borszczahówce",
+      "latitude": 49.4922,
+      "longitude": 29.5447,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89%D0%B0%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q28705561",
+      "wikidata_id": "Q28705561",
+      "name_uk": "Борщівський замок",
+      "name_en": "Borshchiv castle",
+      "latitude": 48.801528,
+      "longitude": 26.036944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q1989520",
+      "wikidata_id": "Q1989520",
+      "name_uk": "Бродівський замок",
+      "name_en": "Brody Castle",
+      "latitude": 50.085556,
+      "longitude": 25.137778,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B4%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q790193",
+      "wikidata_id": "Q790193",
+      "name_uk": "Бронецький замок",
+      "name_en": "Castle in Bronka",
+      "latitude": 48.410833,
+      "longitude": 23.287778,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q25421335",
+      "wikidata_id": "Q25421335",
+      "name_uk": "Булганацьке городище",
+      "name_en": "",
+      "latitude": 44.919722,
+      "longitude": 33.878611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BD%D0%B0%D1%86%D1%8C%D0%BA%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5"
+    },
+    {
+      "id": "Q16618890",
+      "wikidata_id": "Q16618890",
+      "name_uk": "Буцнівський замок",
+      "name_en": "Butsniv castle",
+      "latitude": 49.4783,
+      "longitude": 25.5661,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D1%86%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4100615",
+      "wikidata_id": "Q4100615",
+      "name_uk": "Бучацький замок",
+      "name_en": "Buchach Castle",
+      "latitude": 49.0597,
+      "longitude": 25.3914,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D1%87%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4081707",
+      "wikidata_id": "Q4081707",
+      "name_uk": "Білгород Київський",
+      "name_en": "Belgorod Kievsky",
+      "latitude": 50.383499,
+      "longitude": 30.216672,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9"
+    },
+    {
+      "id": "Q16619006",
+      "wikidata_id": "Q16619006",
+      "name_uk": "Білогірський замок",
+      "name_en": "Castle Lachowcach",
+      "latitude": 50.005,
+      "longitude": 26.4158,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q20074240",
+      "wikidata_id": "Q20074240",
+      "name_uk": "Білоцерківський замок",
+      "name_en": "Castle Białej Cerkwi",
+      "latitude": 49.7913,
+      "longitude": 30.1099,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%BE%D1%86%D0%B5%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12086873",
+      "wikidata_id": "Q12086873",
+      "name_uk": "Більче-Золотецький замок",
+      "name_en": "",
+      "latitude": 48.7764,
+      "longitude": 25.8825,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D1%8C%D1%87%D0%B5-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q61112851",
+      "wikidata_id": "Q61112851",
+      "name_uk": "Білівський замок",
+      "name_en": "Bila Castle",
+      "latitude": 49.04,
+      "longitude": 25.763611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q20074585",
+      "wikidata_id": "Q20074585",
+      "name_uk": "Винниківський замок",
+      "name_en": "Vinnytsia Castle",
+      "latitude": 49.815556,
+      "longitude": 24.137222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4212501",
+      "wikidata_id": "Q4212501",
+      "name_uk": "Виноградівський замок",
+      "name_en": "Vynohradiv Castle",
+      "latitude": 48.141111,
+      "longitude": 23.051389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2623848",
+      "wikidata_id": "Q2623848",
+      "name_uk": "Високий замок",
+      "name_en": "Lviv High Castle",
+      "latitude": 49.848333,
+      "longitude": 24.038889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108770611",
+      "wikidata_id": "Q108770611",
+      "name_uk": "Вишгородоцький замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D1%88%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q604579",
+      "wikidata_id": "Q604579",
+      "name_uk": "Вишківський замок",
+      "name_en": "Visk Castle",
+      "latitude": 48.4,
+      "longitude": 23.266667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D1%88%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4155880",
+      "wikidata_id": "Q4155880",
+      "name_uk": "Вишнівецький палац",
+      "name_en": "Vyshnivets Palace",
+      "latitude": 49.899167,
+      "longitude": 25.738611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D1%88%D0%BD%D1%96%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B0%D1%86"
+    },
+    {
+      "id": "Q128788752",
+      "wikidata_id": "Q128788752",
+      "name_uk": "Вишнівчиківський замок",
+      "name_en": "Vyshnivchyk Castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q12093369",
+      "wikidata_id": "Q12093369",
+      "name_uk": "Вінницький замок",
+      "name_en": "Vinnytsia Castle",
+      "latitude": 49.23,
+      "longitude": 28.48,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q1571231",
+      "wikidata_id": "Q1571231",
+      "name_uk": "Галицький замок",
+      "name_en": "Halych Castle",
+      "latitude": 49.121667,
+      "longitude": 24.730278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108770674",
+      "wikidata_id": "Q108770674",
+      "name_uk": "Глинницький замок",
+      "name_en": "Hlynna castle",
+      "latitude": 49.587472,
+      "longitude": 25.184139,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133860",
+      "wikidata_id": "Q118133860",
+      "name_uk": "Гоголівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12096618",
+      "wikidata_id": "Q12096618",
+      "name_uk": "Гологірський замок",
+      "name_en": "Castle in Holohory",
+      "latitude": 49.7519,
+      "longitude": 24.7214,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12097057",
+      "wikidata_id": "Q12097057",
+      "name_uk": "Городенківський замок",
+      "name_en": "",
+      "latitude": 48.672222,
+      "longitude": 25.506917,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q25421254",
+      "wikidata_id": "Q25421254",
+      "name_uk": "Городище Кермен-Кир",
+      "name_en": "Kermen Qır",
+      "latitude": 44.977778,
+      "longitude": 34.060556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5_%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%9A%D0%B8%D1%80"
+    },
+    {
+      "id": "Q128789251",
+      "wikidata_id": "Q128789251",
+      "name_uk": "Городоцький замок",
+      "name_en": "Horodok castle",
+      "latitude": 48.625417,
+      "longitude": 25.855389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": "Q18431649",
+      "wikidata_id": "Q18431649",
+      "name_uk": "Горожанківський замок-палац",
+      "name_en": "Horozhanka Castle",
+      "latitude": 49.15,
+      "longitude": 24.9167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B6%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA-%D0%BF%D0%B0%D0%BB%D0%B0%D1%86"
+    },
+    {
+      "id": "Q16618955",
+      "wikidata_id": "Q16618955",
+      "name_uk": "Гощанський замок",
+      "name_en": "",
+      "latitude": 50.5986,
+      "longitude": 26.6753,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%89%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108689118",
+      "wikidata_id": "Q108689118",
+      "name_uk": "Гримайлівський замок-палац",
+      "name_en": "Hrymailiv Castle",
+      "latitude": 49.335444,
+      "longitude": 26.010222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%BC%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA-%D0%BF%D0%B0%D0%BB%D0%B0%D1%86"
+    },
+    {
+      "id": "Q118133848",
+      "wikidata_id": "Q118133848",
+      "name_uk": "Грицівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D1%86%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12098260",
+      "wikidata_id": "Q12098260",
+      "name_uk": "Губківський замок",
+      "name_en": "Gubkiv Castle",
+      "latitude": 50.830556,
+      "longitude": 27.051111,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D1%83%D0%B1%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133850",
+      "wikidata_id": "Q118133850",
+      "name_uk": "Деражнянський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B0%D0%B6%D0%BD%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q25412851",
+      "wikidata_id": "Q25412851",
+      "name_uk": "Дзвенигородський замок",
+      "name_en": "Castle Dźwinogrodzie",
+      "latitude": 48.539482,
+      "longitude": 26.276965,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B7%D0%B2%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133861",
+      "wikidata_id": "Q118133861",
+      "name_uk": "Димерський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D0%BC%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4163719",
+      "wikidata_id": "Q4163719",
+      "name_uk": "Добромильський замок",
+      "name_en": "Herburt castle in Dobromyl",
+      "latitude": 49.5445,
+      "longitude": 22.7851,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%BC%D0%B8%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12101678",
+      "wikidata_id": "Q12101678",
+      "name_uk": "Довжанський замок",
+      "name_en": "Dolha Castle (Dovhe)",
+      "latitude": 48.4,
+      "longitude": 23.266667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B2%D0%B6%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2658050",
+      "wikidata_id": "Q2658050",
+      "name_uk": "Дубенський замок",
+      "name_en": "Dubno Castle",
+      "latitude": 50.41954,
+      "longitude": 25.74808,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618922",
+      "wikidata_id": "Q16618922",
+      "name_uk": "Дунаївський замок",
+      "name_en": "",
+      "latitude": 49.6167,
+      "longitude": 24.8236,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D1%83%D0%BD%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108783620",
+      "wikidata_id": "Q108783620",
+      "name_uk": "Жабиняцький замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q4178404",
+      "wikidata_id": "Q4178404",
+      "name_uk": "Жванецький замок",
+      "name_en": "Zhvantsem Castle",
+      "latitude": 48.551667,
+      "longitude": 26.484722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%96%D0%B2%D0%B0%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q15078961",
+      "wikidata_id": "Q15078961",
+      "name_uk": "Жидачівський замок",
+      "name_en": "Zhydachiv Castle",
+      "latitude": 49.3667,
+      "longitude": 24.1167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D0%B4%D0%B0%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2425762",
+      "wikidata_id": "Q2425762",
+      "name_uk": "Жовківський замок",
+      "name_en": "Zhovkva Castle",
+      "latitude": 50.0544,
+      "longitude": 23.9689,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%96%D0%BE%D0%B2%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619130",
+      "wikidata_id": "Q16619130",
+      "name_uk": "Завалівський замок",
+      "name_en": "Zavaliv Castle",
+      "latitude": 49.205944,
+      "longitude": 25.042194,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B0%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12105597",
+      "wikidata_id": "Q12105597",
+      "name_uk": "Залозецький замок",
+      "name_en": "Zaliztsi Castle",
+      "latitude": 49.795,
+      "longitude": 25.3789,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BB%D0%BE%D0%B7%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12105744",
+      "wikidata_id": "Q12105744",
+      "name_uk": "Замок Берегвар",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%B2%D0%B0%D1%80"
+    },
+    {
+      "id": "Q12105743",
+      "wikidata_id": "Q12105743",
+      "name_uk": "Замок Бодулів",
+      "name_en": "",
+      "latitude": 48.296944,
+      "longitude": 23.022222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%91%D0%BE%D0%B4%D1%83%D0%BB%D1%96%D0%B2"
+    },
+    {
+      "id": "Q30961107",
+      "wikidata_id": "Q30961107",
+      "name_uk": "Замок Дийда-Тоувар",
+      "name_en": "",
+      "latitude": 48.218889,
+      "longitude": 22.574444,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%94%D0%B8%D0%B9%D0%B4%D0%B0-%D0%A2%D0%BE%D1%83%D0%B2%D0%B0%D1%80"
+    },
+    {
+      "id": "Q20077009",
+      "wikidata_id": "Q20077009",
+      "name_uk": "Замок Монастирища",
+      "name_en": "Monastyryska Castle",
+      "latitude": 49.066667,
+      "longitude": 25.116667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%D0%B8%D1%89%D0%B0"
+    },
+    {
+      "id": "Q1109403",
+      "wikidata_id": "Q1109403",
+      "name_uk": "Замок Нялаб",
+      "name_en": "Castle in Korolevo",
+      "latitude": 48.159126,
+      "longitude": 23.131682,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9D%D1%8F%D0%BB%D0%B0%D0%B1"
+    },
+    {
+      "id": "Q4440428",
+      "wikidata_id": "Q4440428",
+      "name_uk": "Замок Острозьких (Старокостянтинів)",
+      "name_en": "Starokostiantyniv Castle",
+      "latitude": 49.757778,
+      "longitude": 27.227222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B7%D1%8C%D0%BA%D0%B8%D1%85_(%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D1%81%D1%82%D1%8F%D0%BD%D1%82%D0%B8%D0%BD%D1%96%D0%B2)"
+    },
+    {
+      "id": "Q1013472",
+      "wikidata_id": "Q1013472",
+      "name_uk": "Замок Паланок",
+      "name_en": "Palanok Castle",
+      "latitude": 48.431506,
+      "longitude": 22.687797,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q11838309",
+      "wikidata_id": "Q11838309",
+      "name_uk": "Замок у Білому Камені",
+      "name_en": "Castle Białym Kamieniu",
+      "latitude": 49.8958,
+      "longitude": 24.85,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%83_%D0%91%D1%96%D0%BB%D0%BE%D0%BC%D1%83_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%96"
+    },
+    {
+      "id": "Q118133852",
+      "wikidata_id": "Q118133852",
+      "name_uk": "Замок у Вербка-Мурованій",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%83_%D0%92%D0%B5%D1%80%D0%B1%D1%86%D1%96-%D0%9C%D1%83%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%96%D0%B9"
+    },
+    {
+      "id": "Q12105755",
+      "wikidata_id": "Q12105755",
+      "name_uk": "Замок у Мурованому",
+      "name_en": "Laszki Murowane Castle",
+      "latitude": 49.5211,
+      "longitude": 22.9372,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%83_%D0%9C%D1%83%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%D0%BC%D1%83"
+    },
+    {
+      "id": "Q30961137",
+      "wikidata_id": "Q30961137",
+      "name_uk": "Замок Шашвар",
+      "name_en": "",
+      "latitude": 48.1,
+      "longitude": 22.950278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A8%D0%B0%D1%88%D0%B2%D0%B0%D1%80"
+    },
+    {
+      "id": "Q30961100",
+      "wikidata_id": "Q30961100",
+      "name_uk": "Замок Ґутівар",
+      "name_en": "",
+      "latitude": 48.31,
+      "longitude": 22.582778,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D2%90%D1%83%D1%82%D1%96%D0%B2%D0%B0%D1%80"
+    },
+    {
+      "id": "Q16618989",
+      "wikidata_id": "Q16618989",
+      "name_uk": "Замок-палац Бествінського",
+      "name_en": "Baworowski palace, Kopychyntsi",
+      "latitude": 49.1,
+      "longitude": 25.9,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA-%D0%BF%D0%B0%D0%BB%D0%B0%D1%86_%D0%91%D0%B5%D1%81%D1%82%D0%B2%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%9A%D0%BE%D0%BF%D0%B8%D1%87%D0%B8%D0%BD%D1%86%D1%96)"
+    },
+    {
+      "id": "Q108783720",
+      "wikidata_id": "Q108783720",
+      "name_uk": "Зарудянський замок",
+      "name_en": "",
+      "latitude": 49.653389,
+      "longitude": 25.067806,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D1%80%D1%83%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q30963416",
+      "wikidata_id": "Q30963416",
+      "name_uk": "Заріччя",
+      "name_en": "",
+      "latitude": 50.151972,
+      "longitude": 30.428083,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D1%80%D1%96%D1%87%D1%87%D1%8F_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5)"
+    },
+    {
+      "id": "Q2385597",
+      "wikidata_id": "Q2385597",
+      "name_uk": "Збаразький замок",
+      "name_en": "Zbarazh Castle",
+      "latitude": 49.663364,
+      "longitude": 25.785361,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q128784827",
+      "wikidata_id": "Q128784827",
+      "name_uk": "Зборівський замок",
+      "name_en": "Zboriv castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q16619041",
+      "wikidata_id": "Q16619041",
+      "name_uk": "Звягельський замок",
+      "name_en": "Castle Nowogrodzie Wołyńskim",
+      "latitude": 50.5978,
+      "longitude": 27.6364,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D1%8F%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619143",
+      "wikidata_id": "Q16619143",
+      "name_uk": "Золотниківський замок",
+      "name_en": "Zolotnyky castle",
+      "latitude": 49.2875,
+      "longitude": 25.3797,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4193351",
+      "wikidata_id": "Q4193351",
+      "name_uk": "Золотопотіцький замок",
+      "name_en": "Zolotyy Potik Castle",
+      "latitude": 48.9075,
+      "longitude": 25.3383,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%BF%D0%BE%D1%82%D1%96%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2971093",
+      "wikidata_id": "Q2971093",
+      "name_uk": "Золочівський замок",
+      "name_en": "Zolochiv Castle",
+      "latitude": 49.802006,
+      "longitude": 24.906242,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108765337",
+      "wikidata_id": "Q108765337",
+      "name_uk": "Кала-Фатлар",
+      "name_en": "Kalafatlar",
+      "latitude": 44.463889,
+      "longitude": 33.641667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0-%D0%A4%D0%B0%D1%82%D0%BB%D0%B0%D1%80"
+    },
+    {
+      "id": "Q16618980",
+      "wikidata_id": "Q16618980",
+      "name_uk": "Калуський замок",
+      "name_en": "",
+      "latitude": 49.0167,
+      "longitude": 24.3667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2375603",
+      "wikidata_id": "Q2375603",
+      "name_uk": "Кам'янець-Подільська фортеця",
+      "name_en": "Kamianets-Podilskyi Castle",
+      "latitude": 48.673333,
+      "longitude": 26.5625,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%27%D1%8F%D0%BD%D0%B5%D1%86%D1%8C-%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q4210727",
+      "wikidata_id": "Q4210727",
+      "name_uk": "Камара Ісар",
+      "name_en": "Kamara-Isar",
+      "latitude": 44.50556,
+      "longitude": 33.65278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B0%D1%80%D0%B0_%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q52708307",
+      "wikidata_id": "Q52708307",
+      "name_uk": "Кара-Тобе",
+      "name_en": "Kara-Tobe Castle",
+      "latitude": 45.139167,
+      "longitude": 33.519444,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0-%D0%A2%D0%BE%D0%B1%D0%B5"
+    },
+    {
+      "id": "Q108762164",
+      "wikidata_id": "Q108762164",
+      "name_uk": "Касперівський замок",
+      "name_en": "Kasperivtsi castle",
+      "latitude": 48.659639,
+      "longitude": 25.842028,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BF%D0%B5%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618971",
+      "wikidata_id": "Q16618971",
+      "name_uk": "Качинський замок",
+      "name_en": "",
+      "latitude": 51.6167,
+      "longitude": 24.9667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q265210",
+      "wikidata_id": "Q265210",
+      "name_uk": "Квасівський замок",
+      "name_en": "Castle in Kvasovo",
+      "latitude": 48.1874,
+      "longitude": 22.7756,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%81%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12109790",
+      "wikidata_id": "Q12109790",
+      "name_uk": "Киз-Куле",
+      "name_en": "Kyz-Kule",
+      "latitude": 44.617093,
+      "longitude": 33.735861,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B7-%D0%9A%D1%83%D0%BB%D0%B5"
+    },
+    {
+      "id": "Q4220211",
+      "wikidata_id": "Q4220211",
+      "name_uk": "Київський замок",
+      "name_en": "Kyiv Castle",
+      "latitude": 50.4625,
+      "longitude": 30.5108,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q1778194",
+      "wikidata_id": "Q1778194",
+      "name_uk": "Кодацька фортеця",
+      "name_en": "Kodak Fortress",
+      "latitude": 48.381389,
+      "longitude": 35.136694,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%B0%D1%86%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q16618993",
+      "wikidata_id": "Q16618993",
+      "name_uk": "Козівський замок",
+      "name_en": "Kozova castle",
+      "latitude": 49.431917,
+      "longitude": 25.149361,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618983",
+      "wikidata_id": "Q16618983",
+      "name_uk": "Колиндянський палац-замок",
+      "name_en": "Horodyski palace",
+      "latitude": 48.962665,
+      "longitude": 25.95404,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B8%D0%BD%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B0%D1%86-%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108784532",
+      "wikidata_id": "Q108784532",
+      "name_uk": "Колодненський замок",
+      "name_en": "",
+      "latitude": 49.759667,
+      "longitude": 25.713972,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618999",
+      "wikidata_id": "Q16618999",
+      "name_uk": "Коломийський замок",
+      "name_en": "",
+      "latitude": 48.5167,
+      "longitude": 25.0333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q30961984",
+      "wikidata_id": "Q30961984",
+      "name_uk": "Конотопська фортеця",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BF%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q108784660",
+      "wikidata_id": "Q108784660",
+      "name_uk": "Конюхівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%8E%D1%85%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q6432174",
+      "wikidata_id": "Q6432174",
+      "name_uk": "Корецький замок",
+      "name_en": "Korets Castle",
+      "latitude": 50.616667,
+      "longitude": 27.1575,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q19401682",
+      "wikidata_id": "Q19401682",
+      "name_uk": "Корсунський замок",
+      "name_en": "Korsun Castle",
+      "latitude": 49.4194,
+      "longitude": 31.2772,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%81%D1%83%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108772151",
+      "wikidata_id": "Q108772151",
+      "name_uk": "Котівський замок",
+      "name_en": "Kotiv castle",
+      "latitude": 49.3565,
+      "longitude": 24.981639,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108763908",
+      "wikidata_id": "Q108763908",
+      "name_uk": "Коцюбинський замок",
+      "name_en": "Kotsiubyntsi Castle",
+      "latitude": 49.077479,
+      "longitude": 25.982989,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%86%D1%8E%D0%B1%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q691833",
+      "wikidata_id": "Q691833",
+      "name_uk": "Кременецький замок",
+      "name_en": "Kremenets Castle",
+      "latitude": 50.095,
+      "longitude": 25.730833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12114730",
+      "wikidata_id": "Q12114730",
+      "name_uk": "Кривченський замок",
+      "name_en": "Kryvche Castle",
+      "latitude": 48.699972,
+      "longitude": 26.100167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q20078368",
+      "wikidata_id": "Q20078368",
+      "name_uk": "Кряжева фортеця",
+      "name_en": "",
+      "latitude": 47.662484,
+      "longitude": 35.679457,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D1%8F%D0%B6%D0%B5%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q537764",
+      "wikidata_id": "Q537764",
+      "name_uk": "Кудринецький замок",
+      "name_en": "Kudryntsi Castle",
+      "latitude": 48.61,
+      "longitude": 26.28,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D1%80%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618986",
+      "wikidata_id": "Q16618986",
+      "name_uk": "Кукільницький замок",
+      "name_en": "",
+      "latitude": 49.1853,
+      "longitude": 24.8108,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q25421638",
+      "wikidata_id": "Q25421638",
+      "name_uk": "Кульчуцьке городище",
+      "name_en": "",
+      "latitude": 45.366667,
+      "longitude": 32.863889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%87%D1%83%D1%86%D1%8C%D0%BA%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5"
+    },
+    {
+      "id": "Q108784826",
+      "wikidata_id": "Q108784826",
+      "name_uk": "Купчинецький замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D1%87%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108784917",
+      "wikidata_id": "Q108784917",
+      "name_uk": "Куропатницький замок",
+      "name_en": "Kuropatnyky castle",
+      "latitude": 49.502783,
+      "longitude": 25.000533,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619146",
+      "wikidata_id": "Q16619146",
+      "name_uk": "Лановецький замок",
+      "name_en": "",
+      "latitude": 49.8667,
+      "longitude": 26,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108762457",
+      "wikidata_id": "Q108762457",
+      "name_uk": "Лановецький замок (Борщівська громада)",
+      "name_en": "",
+      "latitude": 48.845083,
+      "longitude": 25.993694,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%91%D0%BE%D1%80%D1%89%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D0%B0)"
+    },
+    {
+      "id": "Q6533891",
+      "wikidata_id": "Q6533891",
+      "name_uk": "Летичівський замок",
+      "name_en": "Letychiv Fortress",
+      "latitude": 49.385028,
+      "longitude": 27.624225,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%B8%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12118093",
+      "wikidata_id": "Q12118093",
+      "name_uk": "Лисянський замок",
+      "name_en": "Lysianka Castle",
+      "latitude": 49.2569,
+      "longitude": 30.8233,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619013",
+      "wikidata_id": "Q16619013",
+      "name_uk": "Личковецький замок",
+      "name_en": "Lychkivtsi Castle",
+      "latitude": 49.1475,
+      "longitude": 26.153083,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%87%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619149",
+      "wikidata_id": "Q16619149",
+      "name_uk": "Локачівський замок",
+      "name_en": "",
+      "latitude": 50.7333,
+      "longitude": 24.65,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BA%D0%B0%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q1866166",
+      "wikidata_id": "Q1866166",
+      "name_uk": "Луцький замок",
+      "name_en": "Lubart's Castle",
+      "latitude": 50.738889,
+      "longitude": 25.323333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12119227",
+      "wikidata_id": "Q12119227",
+      "name_uk": "Любецький замок",
+      "name_en": "",
+      "latitude": 51.709903,
+      "longitude": 30.660251,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108785017",
+      "wikidata_id": "Q108785017",
+      "name_uk": "Лідихівський замок",
+      "name_en": "Lidykhiv Castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%B4%D0%B8%D1%85%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12120002",
+      "wikidata_id": "Q12120002",
+      "name_uk": "Літинський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619127",
+      "wikidata_id": "Q16619127",
+      "name_uk": "Малозагаєцький замок",
+      "name_en": "",
+      "latitude": 50.0097,
+      "longitude": 26.0422,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D0%B7%D0%B0%D0%B3%D0%B0%D1%94%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2387627",
+      "wikidata_id": "Q2387627",
+      "name_uk": "Меджибізький замок",
+      "name_en": "Medzhybizh Fortress",
+      "latitude": 49.436543,
+      "longitude": 27.412108,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B6%D0%B8%D0%B1%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619025",
+      "wikidata_id": "Q16619025",
+      "name_uk": "Межиріцький замок",
+      "name_en": "Castle Międzyrzeczu Ostrogskim",
+      "latitude": 50.3011,
+      "longitude": 26.475,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B8%D1%80%D1%96%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108783135",
+      "wikidata_id": "Q108783135",
+      "name_uk": "Мельнице-Подільський замок",
+      "name_en": "Melnytsia-Podilska castle",
+      "latitude": 48.606306,
+      "longitude": 26.149167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%96-%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12123358",
+      "wikidata_id": "Q12123358",
+      "name_uk": "Микулинецький замок",
+      "name_en": "Mykulyntsi Castle",
+      "latitude": 49.3833,
+      "longitude": 25.6,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4319223",
+      "wikidata_id": "Q4319223",
+      "name_uk": "Низький замок",
+      "name_en": "",
+      "latitude": 49.8439,
+      "longitude": 24.0278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12134084",
+      "wikidata_id": "Q12134084",
+      "name_uk": "Новозаславський замок",
+      "name_en": "Novozaslavsky Castle",
+      "latitude": 50.116667,
+      "longitude": 26.820417,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133853",
+      "wikidata_id": "Q118133853",
+      "name_uk": "Новокостянтинівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BA%D0%BE%D1%81%D1%82%D1%8F%D0%BD%D1%82%D0%B8%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12134108",
+      "wikidata_id": "Q12134108",
+      "name_uk": "Новомалинський замок",
+      "name_en": "Novomalyn Castle",
+      "latitude": 50.2981,
+      "longitude": 26.3664,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q20083061",
+      "wikidata_id": "Q20083061",
+      "name_uk": "Новосергіївська фортеця",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B5%D1%80%D0%B3%D1%96%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q16619044",
+      "wikidata_id": "Q16619044",
+      "name_uk": "Новосілківський замок",
+      "name_en": "Novosilka Castle",
+      "latitude": 48.7125,
+      "longitude": 25.9203,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%96%D0%BB%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619038",
+      "wikidata_id": "Q16619038",
+      "name_uk": "Новочетвертинський замок",
+      "name_en": "Castle Nowej Czetwertni",
+      "latitude": 51.0447,
+      "longitude": 25.4753,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619035",
+      "wikidata_id": "Q16619035",
+      "name_uk": "Новочорторийський замок",
+      "name_en": "Castle Nowej Czartorii",
+      "latitude": 50.0283,
+      "longitude": 27.7081,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%87%D0%BE%D1%80%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12134575",
+      "wikidata_id": "Q12134575",
+      "name_uk": "Ніжинська фортеця",
+      "name_en": "Nizhyn Fortress",
+      "latitude": 51.047333,
+      "longitude": 31.886861,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%B6%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q4330780",
+      "wikidata_id": "Q4330780",
+      "name_uk": "Овруцький замок",
+      "name_en": "",
+      "latitude": 51.3158,
+      "longitude": 28.7962,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B2%D1%80%D1%83%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108783102",
+      "wikidata_id": "Q108783102",
+      "name_uk": "Озернянський замок",
+      "name_en": "Ozerna Castle",
+      "latitude": 49.636846,
+      "longitude": 25.328295,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B7%D0%B5%D1%80%D0%BD%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q30969768",
+      "wikidata_id": "Q30969768",
+      "name_uk": "Озерянський замок",
+      "name_en": "Ozeriany castle",
+      "latitude": 48.87755,
+      "longitude": 25.948866,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B7%D0%B5%D1%80%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q785544",
+      "wikidata_id": "Q785544",
+      "name_uk": "Олеський замок",
+      "name_en": "Olesko Castle",
+      "latitude": 49.968336,
+      "longitude": 24.900556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2577195",
+      "wikidata_id": "Q2577195",
+      "name_uk": "Олицький замок",
+      "name_en": "Olyka Castle",
+      "latitude": 50.723333,
+      "longitude": 25.808611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q25406384",
+      "wikidata_id": "Q25406384",
+      "name_uk": "Остапковецький замок",
+      "name_en": "Castle Ostapkowcach",
+      "latitude": 49.3125,
+      "longitude": 26.526667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D0%BF%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q140998",
+      "wikidata_id": "Q140998",
+      "name_uk": "Острозький замок",
+      "name_en": "Ostroh Castle",
+      "latitude": 50.333333,
+      "longitude": 26.516667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12137149",
+      "wikidata_id": "Q12137149",
+      "name_uk": "П'ятничанська вежа",
+      "name_en": "Defense tower in Piatnychany",
+      "latitude": 49.5625,
+      "longitude": 24.301944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%27%D1%8F%D1%82%D0%BD%D0%B8%D1%87%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D0%B5%D0%B6%D0%B0"
+    },
+    {
+      "id": "Q16586984",
+      "wikidata_id": "Q16586984",
+      "name_uk": "Палац в Аннополі",
+      "name_en": "",
+      "latitude": 50.4442,
+      "longitude": 26.8961,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D1%85_(%D0%93%D0%B0%D0%BD%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C)"
+    },
+    {
+      "id": "Q12137546",
+      "wikidata_id": "Q12137546",
+      "name_uk": "Палац графа Шувалова",
+      "name_en": "Hunting lodges of Shuvalov",
+      "latitude": 48.8725,
+      "longitude": 30.697389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%B3%D1%80%D0%B0%D1%84%D0%B0_%D0%A8%D1%83%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": "Q11912975",
+      "wikidata_id": "Q11912975",
+      "name_uk": "Палац графів Шенборнів",
+      "name_en": "Schoenborn Palace",
+      "latitude": 48.525,
+      "longitude": 22.874722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B2_%D0%A8%D0%B5%D0%BD%D0%B1%D0%BE%D1%80%D0%BD%D1%96%D0%B2"
+    },
+    {
+      "id": "Q20083535",
+      "wikidata_id": "Q20083535",
+      "name_uk": "Палац Держка в Михайлівцях",
+      "name_en": "Palace in Mikhailivtsi, Vinnytsia Oblast",
+      "latitude": 48.871464,
+      "longitude": 27.525415,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%A1%D0%BE%D0%B1%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_(%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%86%D1%96)"
+    },
+    {
+      "id": "Q56364672",
+      "wikidata_id": "Q56364672",
+      "name_uk": "Палац Залеських у Водичках",
+      "name_en": "Palace in Vodychky, Khmelnytskyi Raion",
+      "latitude": 49.4225,
+      "longitude": 26.746944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%97%D0%B0%D0%BB%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D1%83_%D0%92%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%D1%85"
+    },
+    {
+      "id": "Q56364674",
+      "wikidata_id": "Q56364674",
+      "name_uk": "Палац Косельських у Маниківцях",
+      "name_en": "",
+      "latitude": 49.223611,
+      "longitude": 27.201944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9A%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D1%83_%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%96%D0%B2%D1%86%D1%8F%D1%85"
+    },
+    {
+      "id": "Q56364687",
+      "wikidata_id": "Q56364687",
+      "name_uk": "Палац Крупинських у Кривчику",
+      "name_en": "",
+      "latitude": 48.810278,
+      "longitude": 26.830278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9A%D1%80%D1%83%D0%BF%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D1%83_%D0%9A%D1%80%D0%B8%D0%B2%D1%87%D0%B8%D0%BA%D1%83"
+    },
+    {
+      "id": "Q12137525",
+      "wikidata_id": "Q12137525",
+      "name_uk": "Палац Мсциховського",
+      "name_en": "Mścichowski manor",
+      "latitude": 48.398333,
+      "longitude": 38.787222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9C%D1%81%D1%86%D0%B8%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q56364688",
+      "wikidata_id": "Q56364688",
+      "name_uk": "Палац Олександрової у Вербці Дерев'яній",
+      "name_en": "",
+      "latitude": 49.213889,
+      "longitude": 27.055556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BE%D1%97_%D1%83_%D0%92%D0%B5%D1%80%D0%B1%D1%86%D1%96_%D0%94%D0%B5%D1%80%D0%B5%D0%B2%27%D1%8F%D0%BD%D1%96%D0%B9"
+    },
+    {
+      "id": "Q56364714",
+      "wikidata_id": "Q56364714",
+      "name_uk": "Палац Патона",
+      "name_en": "",
+      "latitude": 48.662222,
+      "longitude": 27.244722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9F%D0%B0%D1%82%D0%BE%D0%BD%D0%B0_(%D0%A5%D1%80%D0%B5%D0%B1%D1%82%D1%96%D1%97%D0%B2)"
+    },
+    {
+      "id": "Q20069034",
+      "wikidata_id": "Q20069034",
+      "name_uk": "Палац Потоцьких",
+      "name_en": "Potocki Palace in Dashiv",
+      "latitude": 49.001802,
+      "longitude": 29.437029,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9F%D0%BE%D1%82%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D1%85_(%D0%94%D0%B0%D1%88%D1%96%D0%B2)"
+    },
+    {
+      "id": "Q12137530",
+      "wikidata_id": "Q12137530",
+      "name_uk": "Палац Потоцьких (Одеса)",
+      "name_en": "Potocki Palace in Odesa",
+      "latitude": 46.49332,
+      "longitude": 30.7287,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9F%D0%BE%D1%82%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D1%85_(%D0%9E%D0%B4%D0%B5%D1%81%D0%B0)"
+    },
+    {
+      "id": "Q56364723",
+      "wikidata_id": "Q56364723",
+      "name_uk": "Палац Потоцьких-Коссецьких у Савинцях",
+      "name_en": "",
+      "latitude": 49.088056,
+      "longitude": 26.789167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%9F%D0%BE%D1%82%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D1%85-%D0%9A%D0%BE%D1%81%D1%81%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D1%85_%D1%83_%D0%A1%D0%B0%D0%B2%D0%B8%D0%BD%D1%86%D1%8F%D1%85"
+    },
+    {
+      "id": "Q20083551",
+      "wikidata_id": "Q20083551",
+      "name_uk": "Палац Ярошинських в Дзвонисі",
+      "name_en": "Jaroszyński Palace in Dzvonykha",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%AF%D1%80%D0%BE%D1%88%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_(%D0%94%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%85%D0%B0)"
+    },
+    {
+      "id": "Q12140324",
+      "wikidata_id": "Q12140324",
+      "name_uk": "Палац-Садиба Курісів",
+      "name_en": "Manor-Palace in Kurisove",
+      "latitude": 46.963956,
+      "longitude": 30.965272,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86-%D0%A1%D0%B0%D0%B4%D0%B8%D0%B1%D0%B0_%D0%9A%D1%83%D1%80%D1%96%D1%81%D1%96%D0%B2"
+    },
+    {
+      "id": "Q606733",
+      "wikidata_id": "Q606733",
+      "name_uk": "Палац-фортеця графів Телекі",
+      "name_en": "Dolha Castle in Dovhe",
+      "latitude": 48.36691,
+      "longitude": 23.282492,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86-%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B2_%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D1%96"
+    },
+    {
+      "id": "Q118120408",
+      "wikidata_id": "Q118120408",
+      "name_uk": "Перегінський замок",
+      "name_en": "",
+      "latitude": 48.814444,
+      "longitude": 24.195,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108783070",
+      "wikidata_id": "Q108783070",
+      "name_uk": "Передмірківський замок",
+      "name_en": "",
+      "latitude": 49.900973,
+      "longitude": 25.891764,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BC%D1%96%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16711356",
+      "wikidata_id": "Q16711356",
+      "name_uk": "Переяславська фортеця",
+      "name_en": "Cossack fortress in Pereiaslav-Khmelnytskyi",
+      "latitude": 50.064226,
+      "longitude": 31.462984,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q4361177",
+      "wikidata_id": "Q4361177",
+      "name_uk": "Петрівська фортеця (Дніпровська лінія)",
+      "name_en": "",
+      "latitude": 46.816667,
+      "longitude": 36.9,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_(%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D1%96%D0%BD%D1%96%D1%8F)"
+    },
+    {
+      "id": "Q25420305",
+      "wikidata_id": "Q25420305",
+      "name_uk": "Печеніжинський замок",
+      "name_en": "",
+      "latitude": 48.51,
+      "longitude": 24.889167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D1%96%D0%B6%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12141168",
+      "wikidata_id": "Q12141168",
+      "name_uk": "Пнівський замок",
+      "name_en": "Pniv Castle",
+      "latitude": 48.6227,
+      "longitude": 24.555,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12141841",
+      "wikidata_id": "Q12141841",
+      "name_uk": "Полонська фортеця",
+      "name_en": "Castle Połonnem",
+      "latitude": 50.120083,
+      "longitude": 27.509389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q12141905",
+      "wikidata_id": "Q12141905",
+      "name_uk": "Полтавська фортеця",
+      "name_en": "",
+      "latitude": 49.581944,
+      "longitude": 34.551389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q5244000",
+      "wikidata_id": "Q5244000",
+      "name_uk": "Поморянський замок",
+      "name_en": "Pomoriany Castle",
+      "latitude": 49.643611,
+      "longitude": 24.9325,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q28704194",
+      "wikidata_id": "Q28704194",
+      "name_uk": "Пробіжнянський замок",
+      "name_en": "Probizhna castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D1%96%D0%B6%D0%BD%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q128796607",
+      "wikidata_id": "Q128796607",
+      "name_uk": "Підволочиський замок",
+      "name_en": "Pidvolochysk castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q16619053",
+      "wikidata_id": "Q16619053",
+      "name_uk": "Підгаєцький замок",
+      "name_en": "Pidhaitsi Castle",
+      "latitude": 49.268908,
+      "longitude": 25.139807,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B3%D0%B0%D1%94%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q943794",
+      "wikidata_id": "Q943794",
+      "name_uk": "Підгорецький замок",
+      "name_en": "Pidhirtsi Castle",
+      "latitude": 49.9431,
+      "longitude": 24.9835,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q9386554",
+      "wikidata_id": "Q9386554",
+      "name_uk": "Раковецький замок",
+      "name_en": "Bieniewski castle in Rakovets",
+      "latitude": 48.8031,
+      "longitude": 25.3011,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619069",
+      "wikidata_id": "Q16619069",
+      "name_uk": "Ржищівський замок",
+      "name_en": "Castle Rzyszczowie",
+      "latitude": 49.9611,
+      "longitude": 31.0436,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B8%D1%89%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108782936",
+      "wikidata_id": "Q108782936",
+      "name_uk": "Ридомильський замок",
+      "name_en": "Rydomyl castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B4%D0%BE%D0%BC%D0%B8%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619068",
+      "wikidata_id": "Q16619068",
+      "name_uk": "Рогатинський замок",
+      "name_en": "Castle Rohatynie",
+      "latitude": 49.4115,
+      "longitude": 24.6205,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B3%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133855",
+      "wikidata_id": "Q118133855",
+      "name_uk": "Рожівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q56373970",
+      "wikidata_id": "Q56373970",
+      "name_uk": "Роменська фортеця",
+      "name_en": "",
+      "latitude": 50.746667,
+      "longitude": 33.487417,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q108782952",
+      "wikidata_id": "Q108782952",
+      "name_uk": "Рохманівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%85%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q30892460",
+      "wikidata_id": "Q30892460",
+      "name_uk": "Сарджик",
+      "name_en": "Sardjik",
+      "latitude": 44.505,
+      "longitude": 33.761667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D0%B6%D0%B8%D0%BA"
+    },
+    {
+      "id": "Q1979628",
+      "wikidata_id": "Q1979628",
+      "name_uk": "Свірзький замок",
+      "name_en": "Svirzh Castle",
+      "latitude": 49.652461,
+      "longitude": 24.431961,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%96%D1%80%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q925650",
+      "wikidata_id": "Q925650",
+      "name_uk": "Середнянський замок",
+      "name_en": "Serednie Castle",
+      "latitude": 48.538973,
+      "longitude": 22.497518,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q1977679",
+      "wikidata_id": "Q1977679",
+      "name_uk": "Сидорівський замок",
+      "name_en": "Sydoriv Castle",
+      "latitude": 49.002778,
+      "longitude": 26.170278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%BE%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4421467",
+      "wikidata_id": "Q4421467",
+      "name_uk": "Скалатський замок",
+      "name_en": "Skalat Castle",
+      "latitude": 49.4167,
+      "longitude": 25.9667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133849",
+      "wikidata_id": "Q118133849",
+      "name_uk": "Смотрицький замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133859",
+      "wikidata_id": "Q118133859",
+      "name_uk": "Ставищенський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%B2%D0%B8%D1%89%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4456095",
+      "wikidata_id": "Q4456095",
+      "name_uk": "Старий замок (Тернопіль)",
+      "name_en": "Ternopil Castle",
+      "latitude": 49.553333,
+      "longitude": 25.5875,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C)"
+    },
+    {
+      "id": "Q108782881",
+      "wikidata_id": "Q108782881",
+      "name_uk": "Старовишнівецький замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%88%D0%BD%D1%96%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619155",
+      "wikidata_id": "Q16619155",
+      "name_uk": "Старожуківський замок",
+      "name_en": "",
+      "latitude": 50.69,
+      "longitude": 25.96,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B6%D1%83%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12157402",
+      "wikidata_id": "Q12157402",
+      "name_uk": "Старозаславський замок",
+      "name_en": "Starozaslavsky Castle",
+      "latitude": 50.121111,
+      "longitude": 26.810278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B7%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12157403",
+      "wikidata_id": "Q12157403",
+      "name_uk": "Старозбаразька фортеця",
+      "name_en": "Staryi Zbarazh Castle",
+      "latitude": 49.658925,
+      "longitude": 25.749734,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B7%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q16619081",
+      "wikidata_id": "Q16619081",
+      "name_uk": "Староолексинецький замок",
+      "name_en": "Castle Starym Oleksińcu",
+      "latitude": 49.843056,
+      "longitude": 25.551389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2411826",
+      "wikidata_id": "Q2411826",
+      "name_uk": "Старосільський замок",
+      "name_en": "Stare Selo Castle",
+      "latitude": 49.7019,
+      "longitude": 24.1947,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%81%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108794810",
+      "wikidata_id": "Q108794810",
+      "name_uk": "Старочортківський замок",
+      "name_en": "Chortkiv Castle (old)",
+      "latitude": 49.01925,
+      "longitude": 25.796222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%87%D0%BE%D1%80%D1%82%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q25403358",
+      "wikidata_id": "Q25403358",
+      "name_uk": "Стеблівський замок",
+      "name_en": "Castle Steblowie",
+      "latitude": 49.399722,
+      "longitude": 31.0975,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%B1%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619084",
+      "wikidata_id": "Q16619084",
+      "name_uk": "Степаньський замок",
+      "name_en": "Castle Stepaniu",
+      "latitude": 51.1333,
+      "longitude": 26.3,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q15640927",
+      "wikidata_id": "Q15640927",
+      "name_uk": "Стратинський замок",
+      "name_en": "",
+      "latitude": 49.4667,
+      "longitude": 24.6833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12158223",
+      "wikidata_id": "Q12158223",
+      "name_uk": "Стрийський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619090",
+      "wikidata_id": "Q16619090",
+      "name_uk": "Струсівський замок",
+      "name_en": "Strusiv Castle",
+      "latitude": 49.342417,
+      "longitude": 25.626528,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D1%81%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133851",
+      "wikidata_id": "Q118133851",
+      "name_uk": "Студеницький замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619087",
+      "wikidata_id": "Q16619087",
+      "name_uk": "Стіжоцький замок",
+      "name_en": "Castle Stożku",
+      "latitude": 50.1797,
+      "longitude": 25.8658,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%96%D0%B6%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q110319542",
+      "wikidata_id": "Q110319542",
+      "name_uk": "Сіваг-Кермен",
+      "name_en": "",
+      "latitude": 44.663889,
+      "longitude": 33.706944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%96%D0%B2%D0%B0%D0%B3-%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD"
+    },
+    {
+      "id": "Q16619101",
+      "wikidata_id": "Q16619101",
+      "name_uk": "Тайкурський замок",
+      "name_en": "Taikury Castle",
+      "latitude": 50.5319,
+      "longitude": 26.3708,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BA%D1%83%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q30970863",
+      "wikidata_id": "Q30970863",
+      "name_uk": "Татарбунарська фортеця",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D0%B1%D1%83%D0%BD%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q12160680",
+      "wikidata_id": "Q12160680",
+      "name_uk": "Теребовлянський замок",
+      "name_en": "Terebovlia Castle",
+      "latitude": 49.299389,
+      "longitude": 25.683278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%BB%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108761718",
+      "wikidata_id": "Q108761718",
+      "name_uk": "Товстенський замок",
+      "name_en": "",
+      "latitude": 48.846722,
+      "longitude": 25.727417,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B2%D1%81%D1%82%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%A2%D0%BE%D0%B2%D1%81%D1%82%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D0%B0)"
+    },
+    {
+      "id": "Q616423",
+      "wikidata_id": "Q616423",
+      "name_uk": "Токівський замок",
+      "name_en": "Castle in Toky",
+      "latitude": 49.65,
+      "longitude": 26.226556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619104",
+      "wikidata_id": "Q16619104",
+      "name_uk": "Торчинський замок",
+      "name_en": "Castle Torczynie",
+      "latitude": 50.7636,
+      "longitude": 24.9986,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D1%87%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619106",
+      "wikidata_id": "Q16619106",
+      "name_uk": "Тульчинський замок",
+      "name_en": "Castle Tulczynie",
+      "latitude": 48.68,
+      "longitude": 28.87,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D1%8C%D1%87%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619109",
+      "wikidata_id": "Q16619109",
+      "name_uk": "Турійський замок",
+      "name_en": "Castle Turzysku",
+      "latitude": 51.0883,
+      "longitude": 24.5244,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12163113",
+      "wikidata_id": "Q12163113",
+      "name_uk": "Тюремний замок (Глухів)",
+      "name_en": "Prison Castle, Hlukhiv",
+      "latitude": 51.679094,
+      "longitude": 33.911326,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%93%D0%BB%D1%83%D1%85%D1%96%D0%B2)"
+    },
+    {
+      "id": "Q20097053",
+      "wikidata_id": "Q20097053",
+      "name_uk": "Тягинь",
+      "name_en": "Tyahyn Castle",
+      "latitude": 46.763353,
+      "longitude": 33.050676,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D1%8F%D0%B3%D0%B8%D0%BD%D1%8C"
+    },
+    {
+      "id": "Q832656",
+      "wikidata_id": "Q832656",
+      "name_uk": "Ужгородський замок",
+      "name_en": "Uzhhorod Castle",
+      "latitude": 48.621668,
+      "longitude": 22.306687,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619112",
+      "wikidata_id": "Q16619112",
+      "name_uk": "Уланівський замок",
+      "name_en": "",
+      "latitude": 49.6958,
+      "longitude": 28.1358,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q128789180",
+      "wikidata_id": "Q128789180",
+      "name_uk": "Устечківський замок",
+      "name_en": "Ustechko castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q118133854",
+      "wikidata_id": "Q118133854",
+      "name_uk": "Фастівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%81%D1%82%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618941",
+      "wikidata_id": "Q16618941",
+      "name_uk": "Фельштинський замок (Скелівка)",
+      "name_en": "Castle Felsztynie",
+      "latitude": 49.5353,
+      "longitude": 22.9625,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%A1%D0%BA%D0%B5%D0%BB%D1%96%D0%B2%D0%BA%D0%B0)"
+    },
+    {
+      "id": "Q118133857",
+      "wikidata_id": "Q118133857",
+      "name_uk": "Хабенський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q28704219",
+      "wikidata_id": "Q28704219",
+      "name_uk": "Хоростківський замок",
+      "name_en": "Khorostkiv Castle",
+      "latitude": 49.2125,
+      "longitude": 25.927611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q141012",
+      "wikidata_id": "Q141012",
+      "name_uk": "Хотинська фортеця",
+      "name_en": "Khotyn Fortress",
+      "latitude": 48.521944,
+      "longitude": 26.498333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q4505401",
+      "wikidata_id": "Q4505401",
+      "name_uk": "Цецинська фортеця",
+      "name_en": "Tsetsyno Fortress",
+      "latitude": 48.296389,
+      "longitude": 25.843611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A6%D0%B5%D1%86%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q28706555",
+      "wikidata_id": "Q28706555",
+      "name_uk": "Червоний замок",
+      "name_en": "Chervonyi Castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_(%D0%9A%D0%BE%D0%BF%D0%B8%D1%87%D0%B8%D0%BD%D1%86%D1%96)"
+    },
+    {
+      "id": "Q16618914",
+      "wikidata_id": "Q16618914",
+      "name_uk": "Червоногородський замок",
+      "name_en": "Chervonohorod Castle",
+      "latitude": 48.804197,
+      "longitude": 25.596724,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q10698902",
+      "wikidata_id": "Q10698902",
+      "name_uk": "Черкаський замок",
+      "name_en": "Cherkasy Castle",
+      "latitude": 49.447778,
+      "longitude": 32.064722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q128796702",
+      "wikidata_id": "Q128796702",
+      "name_uk": "Чернелево-Руський замок",
+      "name_en": "Cherneliv-Ruskyi castle",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q12169883",
+      "wikidata_id": "Q12169883",
+      "name_uk": "Чернелицький замок",
+      "name_en": "Chernelytsia Castle",
+      "latitude": 48.8,
+      "longitude": 25.4167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BB%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q108771896",
+      "wikidata_id": "Q108771896",
+      "name_uk": "Чернихівський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B8%D1%85%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618911",
+      "wikidata_id": "Q16618911",
+      "name_uk": "Чигиринський замок",
+      "name_en": "Chyhyryn Castle",
+      "latitude": 49.078333,
+      "longitude": 32.658056,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B8%D0%B3%D0%B8%D1%80%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q258316",
+      "wikidata_id": "Q258316",
+      "name_uk": "Чинадієвський замок",
+      "name_en": "Chynadiiovo Castle",
+      "latitude": 48.5019,
+      "longitude": 22.8417,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BD%D0%B0%D0%B4%D1%96%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q30232486",
+      "wikidata_id": "Q30232486",
+      "name_uk": "Чоргунський (Бібіковський) ісар",
+      "name_en": "",
+      "latitude": 44.531389,
+      "longitude": 33.698889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%B3%D1%83%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_(%D0%91%D1%96%D0%B1%D1%96%D0%BA%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9)_%D1%96%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q16618905",
+      "wikidata_id": "Q16618905",
+      "name_uk": "Чорнобильський замок",
+      "name_en": "Chernobyl Castle",
+      "latitude": 51.274661,
+      "longitude": 30.238113,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133856",
+      "wikidata_id": "Q118133856",
+      "name_uk": "Чорногородський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4514002",
+      "wikidata_id": "Q4514002",
+      "name_uk": "Чорнокозинський замок",
+      "name_en": "Chornokozyntsi Castle",
+      "latitude": 48.6592,
+      "longitude": 26.2819,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%BA%D0%BE%D0%B7%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q3274242",
+      "wikidata_id": "Q3274242",
+      "name_uk": "Чортківський замок",
+      "name_en": "Chortkiv Castle",
+      "latitude": 49.021389,
+      "longitude": 25.802222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D1%82%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q67103125",
+      "wikidata_id": "Q67103125",
+      "name_uk": "Чорторийський дитинець",
+      "name_en": "Gord Zamok in Staryi Chortoryisk",
+      "latitude": 51.226191,
+      "longitude": 25.899019,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D0%B5%D1%86%D1%8C"
+    },
+    {
+      "id": "Q25442113",
+      "wikidata_id": "Q25442113",
+      "name_uk": "Шманьківський замок",
+      "name_en": "Place of Shmankivtsi Castle",
+      "latitude": 48.992778,
+      "longitude": 25.926667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B0%D0%BD%D1%8C%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16619099",
+      "wikidata_id": "Q16619099",
+      "name_uk": "Шумський замок",
+      "name_en": "Shumsk Castle",
+      "latitude": 50.1167,
+      "longitude": 26.1167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q16618967",
+      "wikidata_id": "Q16618967",
+      "name_uk": "Єзупільський замок",
+      "name_en": "Castle Jezupolu",
+      "latitude": 49.0444,
+      "longitude": 24.7903,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%84%D0%B7%D1%83%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q118133858",
+      "wikidata_id": "Q118133858",
+      "name_uk": "Іванківський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%86%D0%B2%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12075428",
+      "wikidata_id": "Q12075428",
+      "name_uk": "Ічнянський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%86%D1%87%D0%BD%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    }
+  ],
+  "meta": {
+    "title": "Замки України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «замок» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності. Містить 235 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Замки України | ListBase",
+    "seo_description": "Завантажити Замки України — 235 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 235 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

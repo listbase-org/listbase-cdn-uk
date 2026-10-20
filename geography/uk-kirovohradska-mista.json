@@ -1,0 +1,271 @@
+{
+  "id": "uk-kirovohradska-mista",
+  "name": "Міста Кіровоградської області",
+  "title": "Міста Кіровоградської області",
+  "description": "Список 12 міст Кіровоградської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA35020010010060566",
+      "name": "Благовіщенське",
+      "name_en": "Blahovishchenske",
+      "slug": "blahovishchenske",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35020010000028961",
+      "hromada_name": "Благовіщенська міська громада",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020050010071459",
+      "name": "Гайворон",
+      "name_en": "Haivoron",
+      "slug": "haivoron",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35020050000014205",
+      "hromada_name": "Гайворонська міська громада",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040030010012943",
+      "name": "Бобринець",
+      "name_en": "Bobrynets",
+      "slug": "bobrynets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35040030000074104",
+      "hromada_name": "Бобринецька міська громада",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040110010034377",
+      "name": "Долинська",
+      "name_en": "Dolynska",
+      "slug": "dolynska",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35040110000055821",
+      "hromada_name": "Долинська міська громада",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040130010097956",
+      "name": "Знам'янка",
+      "name_en": "Znamyanka",
+      "slug": "znamyanka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35040130000021732",
+      "hromada_name": "Знам'янська міська громада",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040210010019355",
+      "name": "Кропивницький",
+      "name_en": "Kropyvnytskyi",
+      "slug": "kropyvnytskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35040210000014072",
+      "hromada_name": "Кропивницька міська громада",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060090010061989",
+      "name": "Мала Виска",
+      "name_en": "Mala Vyska",
+      "slug": "mala-vyska",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35060090000091976",
+      "hromada_name": "Маловисківська міська громада",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060130010042714",
+      "name": "Новомиргород",
+      "name_en": "Novomyrhorod",
+      "slug": "novomyrhorod",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35060130000087718",
+      "hromada_name": "Новомиргородська міська громада",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060150010035817",
+      "name": "Новоукраїнка",
+      "name_en": "Novoukrainka",
+      "slug": "novoukrainka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35060150000073710",
+      "hromada_name": "Новоукраїнська міська громада",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060190010082095",
+      "name": "Помічна",
+      "name_en": "Pomichna",
+      "slug": "pomichna",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35060190000079777",
+      "hromada_name": "Помічнянська міська громада",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080050010051027",
+      "name": "Олександрія",
+      "name_en": "Oleksandriia",
+      "slug": "oleksandriia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35080050000038829",
+      "hromada_name": "Олександрійська міська громада",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080170010073614",
+      "name": "Світловодськ",
+      "name_en": "Svitlovodsk",
+      "slug": "svitlovodsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA35080170000077673",
+      "hromada_name": "Світловодська міська громада",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Кіровоградської області - Безкоштовне завантаження",
+    "description": "Список 12 міст Кіровоградської області (категорія М у КАТОТТГ). Містить 12 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Кіровоградської області | ListBase",
+    "seo_description": "Завантажити Міста Кіровоградської області — 12 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 12 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "uk-vinnytsia-banky",
+  "name": "Банки в Вінниці — коди SWIFT/BIC (Vinnytsia bank SWIFT/BIC codes)",
+  "title": "Банки в Вінниці — коди SWIFT/BIC (Vinnytsia bank SWIFT/BIC codes)",
+  "description": "Перелік: 4 банківських установ у місті Вінниця (Vinnytsia) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"VINNYTSIA\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 86,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "VINNYTSIA",
+      "branch": "(VINNITSA BRANCH)",
+      "swift_code": "EXBSUAUXVIN"
+    },
+    {
+      "id": 116,
+      "bank": "MEGABANK PJSC",
+      "city": "VINNYTSIA",
+      "branch": "",
+      "swift_code": "DBBKUA2KVIN"
+    },
+    {
+      "id": 186,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "VINNYTSIA",
+      "branch": "(VINNITSIA BRANCH)",
+      "swift_code": "PBANUA2XVIF"
+    },
+    {
+      "id": 249,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "VINNYTSIA",
+      "branch": "(VINNITSIA REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKVIN"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Вінниці — коди SWIFT/BIC (Vinnytsia bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 4 банківських установ у місті Вінниця (Vinnytsia) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"VINNYTSIA\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Вінниці — коди SWIFT/BIC (Vinnytsia bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Вінниці — коди SWIFT/BIC (Vinnytsia bank SWIFT/BIC codes) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

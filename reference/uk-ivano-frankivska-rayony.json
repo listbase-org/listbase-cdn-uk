@@ -1,0 +1,126 @@
+{
+  "id": "uk-ivano-frankivska-rayony",
+  "name": "Райони Івано-Франківської області",
+  "title": "Райони Івано-Франківської області",
+  "description": "Список усіх 6 районів Івано-Франківської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA26020000000044654",
+      "name": "Верховинський район",
+      "name_en": "Verkhovynskyi raion",
+      "slug": "verkhovynskyi-raion",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska",
+      "parent_code": "UA26000000000069363"
+    },
+    {
+      "code": "UA26040000000044761",
+      "name": "Івано-Франківський район",
+      "name_en": "Ivano-Frankivskyi raion",
+      "slug": "ivano-frankivskyi-raion",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska",
+      "parent_code": "UA26000000000069363"
+    },
+    {
+      "code": "UA26060000000042554",
+      "name": "Калуський район",
+      "name_en": "Kaluskyi raion",
+      "slug": "kaluskyi-raion",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska",
+      "parent_code": "UA26000000000069363"
+    },
+    {
+      "code": "UA26080000000050130",
+      "name": "Коломийський район",
+      "name_en": "Kolomyiskyi raion",
+      "slug": "kolomyiskyi-raion",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska",
+      "parent_code": "UA26000000000069363"
+    },
+    {
+      "code": "UA26100000000092255",
+      "name": "Косівський район",
+      "name_en": "Kosivskyi raion",
+      "slug": "kosivskyi-raion",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska",
+      "parent_code": "UA26000000000069363"
+    },
+    {
+      "code": "UA26120000000036058",
+      "name": "Надвірнянський район",
+      "name_en": "Nadvirnianskyi raion",
+      "slug": "nadvirnianskyi-raion",
+      "oblast_id": 9,
+      "oblast_name": "Івано-Франківська область",
+      "oblast_slug": "ivano-frankivska",
+      "parent_code": "UA26000000000069363"
+    }
+  ],
+  "meta": {
+    "title": "Райони Івано-Франківської області - Безкоштовне завантаження",
+    "description": "Список усіх 6 районів Івано-Франківської області згідно з КАТОТТГ (реформа 2020 року). Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Івано-Франківської області | ListBase",
+    "seo_description": "Завантажити Райони Івано-Франківської області — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

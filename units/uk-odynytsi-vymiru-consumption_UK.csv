@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","consumption-liter-per-100-kilometer","consumption","літри на 100 кілометрів","л/100 км","л/100 км","{0} літра на 100 кілометрів"
+"2","consumption-liter-per-kilometer","consumption","літри на кілометр","літри/км","л/км","{0} літра на кілометр"
+"3","consumption-mile-per-gallon","consumption","милі на галон","милі/гал","мл/гал","{0} милі на галон"
+"4","consumption-mile-per-gallon-imperial","consumption","милі на англійський галон","милі/англ. гал","мл/англ.гал","{0} милі на англійський галон"

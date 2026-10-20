@@ -1,0 +1,106 @@
+{
+  "id": "uk-mykolaivska-rayony",
+  "name": "Райони Миколаївської області",
+  "title": "Райони Миколаївської області",
+  "description": "Список усіх 4 районів Миколаївської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA48020000000033544",
+      "name": "Баштанський район",
+      "name_en": "Bashtanskyi raion",
+      "slug": "bashtanskyi-raion",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska",
+      "parent_code": "UA48000000000039575"
+    },
+    {
+      "code": "UA48040000000011780",
+      "name": "Вознесенський район",
+      "name_en": "Voznesenskyi raion",
+      "slug": "voznesenskyi-raion",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska",
+      "parent_code": "UA48000000000039575"
+    },
+    {
+      "code": "UA48060000000094390",
+      "name": "Миколаївський район",
+      "name_en": "Mykolaivskyi raion",
+      "slug": "mykolaivskyi-raion",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska",
+      "parent_code": "UA48000000000039575"
+    },
+    {
+      "code": "UA48080000000082320",
+      "name": "Первомайський район",
+      "name_en": "Pervomaiskyi raion",
+      "slug": "pervomaiskyi-raion",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska",
+      "parent_code": "UA48000000000039575"
+    }
+  ],
+  "meta": {
+    "title": "Райони Миколаївської області - Безкоштовне завантаження",
+    "description": "Список усіх 4 районів Миколаївської області згідно з КАТОТТГ (реформа 2020 року). Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Миколаївської області | ListBase",
+    "seo_description": "Завантажити Райони Миколаївської області — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

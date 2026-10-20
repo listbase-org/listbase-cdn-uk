@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","power-gigawatt","power","гігавати","ГВт","ГВт","{0} гігавата"
+"2","power-horsepower","power","кінські сили","к. с.","к. с.","{0} кінської сили"
+"3","power-kilowatt","power","кіловати","кВт","кВт","{0} кіловата"
+"4","power-megawatt","power","мегавати","МВт","МВт","{0} мегавата"
+"5","power-milliwatt","power","мілівати","мВт","мВт","{0} мілівата"
+"6","power-watt","power","вати","Вт","Вт","{0} вата"

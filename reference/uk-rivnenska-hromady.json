@@ -1,0 +1,973 @@
+{
+  "id": "uk-rivnenska-hromady",
+  "name": "Територіальні громади Рівненської області",
+  "title": "Територіальні громади Рівненської області",
+  "description": "Список 82 територіальних громад Рівненської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA56020010000027956",
+      "name": "Антонівська сільська рада",
+      "name_en": "Antonivska silska rada",
+      "slug": "antonivska-silska-rada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020010000027956",
+      "name": "Антонівська сільська громада",
+      "name_en": "Antonivska silska hromada",
+      "slug": "antonivska-silska-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020030000068439",
+      "name": "Вараська міська громада",
+      "name_en": "Varaska miska hromada",
+      "slug": "varaska-miska-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020050000087443",
+      "name": "Володимирецька селищна громада",
+      "name_en": "Volodymyretska selyshchna hromada",
+      "slug": "volodymyretska-selyshchna-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020070000060676",
+      "name": "Зарічненська селищна громада",
+      "name_en": "Zarichnenska selyshchna hromada",
+      "slug": "zarichnenska-selyshchna-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020090000066575",
+      "name": "Каноницька сільська громада",
+      "name_en": "Kanonytska silska hromada",
+      "slug": "kanonytska-silska-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020110000024586",
+      "name": "Локницька сільська рада",
+      "name_en": "Loknytska silska rada",
+      "slug": "loknytska-silska-rada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020110000024586",
+      "name": "Локницька сільська громада",
+      "name_en": "Loknytska silska hromada",
+      "slug": "loknytska-silska-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020130000066130",
+      "name": "Полицька сільська рада",
+      "name_en": "Polytska silska rada",
+      "slug": "polytska-silska-rada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020130000066130",
+      "name": "Полицька сільська громада",
+      "name_en": "Polytska silska hromada",
+      "slug": "polytska-silska-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56020150000079107",
+      "name": "Рафалівська селищна громада",
+      "name_en": "Rafalivska selyshchna hromada",
+      "slug": "rafalivska-selyshchna-hromada",
+      "rayon_code": "UA56020000000011586",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040010000048910",
+      "name": "Бокіймівська сільська громада",
+      "name_en": "Bokiimivska silska hromada",
+      "slug": "bokiimivska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040030000031906",
+      "name": "Боремельська сільська рада",
+      "name_en": "Boremelska silska rada",
+      "slug": "boremelska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040030000031906",
+      "name": "Боремельська сільська громада",
+      "name_en": "Boremelska silska hromada",
+      "slug": "boremelska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040050000074861",
+      "name": "Варковицька сільська рада",
+      "name_en": "Varkovytska silska rada",
+      "slug": "varkovytska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040050000074861",
+      "name": "Варковицька сільська громада",
+      "name_en": "Varkovytska silska hromada",
+      "slug": "varkovytska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040070000046270",
+      "name": "Вербська сільська громада",
+      "name_en": "Verbska silska hromada",
+      "slug": "verbska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040090000093293",
+      "name": "Демидівська селищна громада",
+      "name_en": "Demydivska selyshchna hromada",
+      "slug": "demydivska-selyshchna-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040110000061997",
+      "name": "Дубенська міська громада",
+      "name_en": "Dubenska miska hromada",
+      "slug": "dubenska-miska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040130000011543",
+      "name": "Козинська сільська громада",
+      "name_en": "Kozynska silska hromada",
+      "slug": "kozynska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040150000039275",
+      "name": "Крупецька сільська рада",
+      "name_en": "Krupetska silska rada",
+      "slug": "krupetska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040150000039275",
+      "name": "Крупецька сільська громада",
+      "name_en": "Krupetska silska hromada",
+      "slug": "krupetska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040170000050651",
+      "name": "Мирогощанська сільська рада",
+      "name_en": "Myrohoshchanska silska rada",
+      "slug": "myrohoshchanska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040170000050651",
+      "name": "Мирогощанська сільська громада",
+      "name_en": "Myrohoshchanska silska hromada",
+      "slug": "myrohoshchanska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040190000045841",
+      "name": "Млинівська селищна громада",
+      "name_en": "Mlynivska selyshchna hromada",
+      "slug": "mlynivska-selyshchna-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040210000047101",
+      "name": "Острожецька сільська громада",
+      "name_en": "Ostrozhetska silska hromada",
+      "slug": "ostrozhetska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040230000032182",
+      "name": "Підлозцівська сільська громада",
+      "name_en": "Pidloztsivska silska hromada",
+      "slug": "pidloztsivska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040250000064519",
+      "name": "Повчанська сільська рада",
+      "name_en": "Povchanska silska rada",
+      "slug": "povchanska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040250000064519",
+      "name": "Повчанська сільська громада",
+      "name_en": "Povchanska silska hromada",
+      "slug": "povchanska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040270000014394",
+      "name": "Привільненська сільська рада",
+      "name_en": "Pryvilnenska silska rada",
+      "slug": "pryvilnenska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040270000014394",
+      "name": "Привільненська сільська громада",
+      "name_en": "Pryvilnenska silska hromada",
+      "slug": "pryvilnenska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040290000025511",
+      "name": "Радивилівська міська громада",
+      "name_en": "Radyvylivska miska hromada",
+      "slug": "radyvylivska-miska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040310000052028",
+      "name": "Семидубська сільська рада",
+      "name_en": "Semydubska silska rada",
+      "slug": "semydubska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040310000052028",
+      "name": "Семидубська сільська громада",
+      "name_en": "Semydubska silska hromada",
+      "slug": "semydubska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040330000091100",
+      "name": "Смизька селищна громада",
+      "name_en": "Smyzka selyshchna hromada",
+      "slug": "smyzka-selyshchna-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040350000014945",
+      "name": "Тараканівська сільська громада",
+      "name_en": "Tarakanivska silska hromada",
+      "slug": "tarakanivska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040370000063056",
+      "name": "Ярославицька сільська рада",
+      "name_en": "Yaroslavytska silska rada",
+      "slug": "yaroslavytska-silska-rada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040370000063056",
+      "name": "Ярославицька сільська громада",
+      "name_en": "Yaroslavytska silska hromada",
+      "slug": "yaroslavytska-silska-hromada",
+      "rayon_code": "UA56040000000062179",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060010000018261",
+      "name": "Бабинська сільська рада (Гощанський район)",
+      "name_en": "Babynska silska rada (Hoshchanskyi raion)",
+      "slug": "babynska-silska-rada-hoshchanskyi-raion",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060010000018261",
+      "name": "Бабинська сільська об'єднана територіальна громада",
+      "name_en": "Babynska silska obyednana terytorialna hromada",
+      "slug": "babynska-silska-obyednana-terytorialna-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060030000057923",
+      "name": "Березнівська міська громада",
+      "name_en": "Bereznivska miska hromada",
+      "slug": "bereznivska-miska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060050000010769",
+      "name": "Білокриницька сільська громада",
+      "name_en": "Bilokrynytska silska hromada",
+      "slug": "bilokrynytska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060070000034529",
+      "name": "Бугринська сільська громада",
+      "name_en": "Buhrynska silska hromada",
+      "slug": "buhrynska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060090000066065",
+      "name": "Великомежиріцька сільська громада",
+      "name_en": "Velykomezhyritska silska hromada",
+      "slug": "velykomezhyritska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060110000087064",
+      "name": "Великоомелянська сільська рада",
+      "name_en": "Velykoomelianska silska rada",
+      "slug": "velykoomelianska-silska-rada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060110000087064",
+      "name": "Великоомелянська сільська громада",
+      "name_en": "Velykoomelianska silska hromada",
+      "slug": "velykoomelianska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060130000072276",
+      "name": "Головинська сільська громада",
+      "name_en": "Holovynska silska hromada",
+      "slug": "holovynska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060150000079268",
+      "name": "Городоцька сільська рада",
+      "name_en": "Horodotska silska rada",
+      "slug": "horodotska-silska-rada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060150000079268",
+      "name": "Городоцька сільська громада",
+      "name_en": "Horodotska silska hromada",
+      "slug": "horodotska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060170000073171",
+      "name": "Гощанська селищна громада",
+      "name_en": "Hoshchanska selyshchna hromada",
+      "slug": "hoshchanska-selyshchna-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060190000073111",
+      "name": "Деражненська сільська рада",
+      "name_en": "Derazhnenska silska rada",
+      "slug": "derazhnenska-silska-rada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060190000073111",
+      "name": "Деражненська сільська громада",
+      "name_en": "Derazhnenska silska hromada",
+      "slug": "derazhnenska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060210000017052",
+      "name": "Дядьковицька сільська громада",
+      "name_en": "Diadkovytska silska hromada",
+      "slug": "diadkovytska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060230000076543",
+      "name": "Здовбицька сільська громада",
+      "name_en": "Zdovbytska silska hromada",
+      "slug": "zdovbytska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060250000052338",
+      "name": "Здолбунівська міська громада",
+      "name_en": "Zdolbunivska miska hromada",
+      "slug": "zdolbunivska-miska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060270000047362",
+      "name": "Зорянська сільська громада",
+      "name_en": "Zorianska silska hromada",
+      "slug": "zorianska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060290000044465",
+      "name": "Клеванська селищна громада",
+      "name_en": "Klevanska selyshchna hromada",
+      "slug": "klevanska-selyshchna-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060310000066585",
+      "name": "Корецька міська громада",
+      "name_en": "Koretska miska hromada",
+      "slug": "koretska-miska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060330000075139",
+      "name": "Корнинська сільська рада",
+      "name_en": "Kornynska silska rada",
+      "slug": "kornynska-silska-rada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060330000075139",
+      "name": "Корнинська сільська громада",
+      "name_en": "Kornynska silska hromada",
+      "slug": "kornynska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060350000045909",
+      "name": "Костопільська міська громада",
+      "name_en": "Kostopilska miska hromada",
+      "slug": "kostopilska-miska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060370000023028",
+      "name": "Малинська сільська громада",
+      "name_en": "Malynska silska hromada",
+      "slug": "malynska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060390000090915",
+      "name": "Малолюбашанська сільська громада",
+      "name_en": "Maloliubashanska silska hromada",
+      "slug": "maloliubashanska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060410000055190",
+      "name": "Мізоцька селищна громада",
+      "name_en": "Mizotska selyshchna hromada",
+      "slug": "mizotska-selyshchna-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060430000081857",
+      "name": "Олександрійська сільська рада",
+      "name_en": "Oleksandriiska silska rada",
+      "slug": "oleksandriiska-silska-rada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060430000081857",
+      "name": "Олександрійська сільська громада",
+      "name_en": "Oleksandriiska silska hromada",
+      "slug": "oleksandriiska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060450000083945",
+      "name": "Острозька міська громада",
+      "name_en": "Ostrozka miska hromada",
+      "slug": "ostrozka-miska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060470000086729",
+      "name": "Рівненська міська громада",
+      "name_en": "Rivnenska miska hromada",
+      "slug": "rivnenska-miska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060490000031684",
+      "name": "Соснівська селищна громада",
+      "name_en": "Sosnivska selyshchna hromada",
+      "slug": "sosnivska-selyshchna-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060510000062151",
+      "name": "Шпанівська сільська громада",
+      "name_en": "Shpanivska silska hromada",
+      "slug": "shpanivska-silska-hromada",
+      "rayon_code": "UA56060000000041446",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080010000083302",
+      "name": "Березівська сільська громада",
+      "name_en": "Berezivska silska hromada",
+      "slug": "berezivska-silska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080030000069650",
+      "name": "Вирівська сільська громада",
+      "name_en": "Vyrivska silska hromada",
+      "slug": "vyrivska-silska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080050000068593",
+      "name": "Висоцька сільська громада",
+      "name_en": "Vysotska silska hromada",
+      "slug": "vysotska-silska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080070000040721",
+      "name": "Дубровицька міська громада",
+      "name_en": "Dubrovytska miska hromada",
+      "slug": "dubrovytska-miska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080090000098391",
+      "name": "Клесівська селищна громада",
+      "name_en": "Klesivska selyshchna hromada",
+      "slug": "klesivska-selyshchna-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080110000056503",
+      "name": "Миляцька сільська громада",
+      "name_en": "Myliatska silska hromada",
+      "slug": "myliatska-silska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080130000056682",
+      "name": "Немовицька сільська рада",
+      "name_en": "Nemovytska silska rada",
+      "slug": "nemovytska-silska-rada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080130000056682",
+      "name": "Немовицька сільська громада",
+      "name_en": "Nemovytska silska hromada",
+      "slug": "nemovytska-silska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080150000069525",
+      "name": "Рокитнівська селищна громада",
+      "name_en": "Rokytnivska selyshchna hromada",
+      "slug": "rokytnivska-selyshchna-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080170000055864",
+      "name": "Сарненська міська громада",
+      "name_en": "Sarnenska miska hromada",
+      "slug": "sarnenska-miska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080190000032614",
+      "name": "Старосільська сільська громада",
+      "name_en": "Starosilska silska hromada",
+      "slug": "starosilska-silska-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080210000074337",
+      "name": "Степанська селищна громада",
+      "name_en": "Stepanska selyshchna hromada",
+      "slug": "stepanska-selyshchna-hromada",
+      "rayon_code": "UA56080000000096146",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Рівненської області - Безкоштовне завантаження",
+    "description": "Список 82 територіальних громад Рівненської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 82 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Рівненської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Рівненської області — 82 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 82 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

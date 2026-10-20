@@ -1,0 +1,796 @@
+{
+  "id": "uk-systemy-pysma",
+  "name": "Системи письма світу (ISO 15924 / CLDR українською)",
+  "title": "Системи письма світу (ISO 15924 / CLDR українською)",
+  "description": "Коди ISO 15924 систем письма та їхні назви українською з локалі uk у CLDR.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "nazva": "адлам"
+    },
+    {
+      "id": 2,
+      "code": "Afak",
+      "nazva": "афака"
+    },
+    {
+      "id": 3,
+      "code": "Aghb",
+      "nazva": "кавказька албанська"
+    },
+    {
+      "id": 4,
+      "code": "Ahom",
+      "nazva": "ахом"
+    },
+    {
+      "id": 5,
+      "code": "Arab",
+      "nazva": "арабиця"
+    },
+    {
+      "id": 6,
+      "code": "Arab-alt-variant",
+      "nazva": "персько-арабська"
+    },
+    {
+      "id": 7,
+      "code": "Aran",
+      "nazva": "насталік"
+    },
+    {
+      "id": 8,
+      "code": "Armi",
+      "nazva": "армі"
+    },
+    {
+      "id": 9,
+      "code": "Armn",
+      "nazva": "вірменська"
+    },
+    {
+      "id": 10,
+      "code": "Avst",
+      "nazva": "авестійський"
+    },
+    {
+      "id": 11,
+      "code": "Bali",
+      "nazva": "балійський"
+    },
+    {
+      "id": 12,
+      "code": "Bamu",
+      "nazva": "бамум"
+    },
+    {
+      "id": 13,
+      "code": "Bass",
+      "nazva": "басса"
+    },
+    {
+      "id": 14,
+      "code": "Batk",
+      "nazva": "батак"
+    },
+    {
+      "id": 15,
+      "code": "Beng",
+      "nazva": "бенгальська"
+    },
+    {
+      "id": 16,
+      "code": "Blis",
+      "nazva": "символи Блісса"
+    },
+    {
+      "id": 17,
+      "code": "Bopo",
+      "nazva": "бопомофо"
+    },
+    {
+      "id": 18,
+      "code": "Brah",
+      "nazva": "брахмі"
+    },
+    {
+      "id": 19,
+      "code": "Brai",
+      "nazva": "шрифт Брайля"
+    },
+    {
+      "id": 20,
+      "code": "Bugi",
+      "nazva": "бугійський"
+    },
+    {
+      "id": 21,
+      "code": "Buhd",
+      "nazva": "бухід"
+    },
+    {
+      "id": 22,
+      "code": "Cakm",
+      "nazva": "чакма"
+    },
+    {
+      "id": 23,
+      "code": "Cans",
+      "nazva": "уніфіковані символи канадських тубільців"
+    },
+    {
+      "id": 24,
+      "code": "Cari",
+      "nazva": "каріанський"
+    },
+    {
+      "id": 25,
+      "code": "Cham",
+      "nazva": "хамітський"
+    },
+    {
+      "id": 26,
+      "code": "Cher",
+      "nazva": "черокі"
+    },
+    {
+      "id": 27,
+      "code": "Cirt",
+      "nazva": "кирт"
+    },
+    {
+      "id": 28,
+      "code": "Copt",
+      "nazva": "коптський"
+    },
+    {
+      "id": 29,
+      "code": "Cprt",
+      "nazva": "кіпрський"
+    },
+    {
+      "id": 30,
+      "code": "Cyrl",
+      "nazva": "кирилиця"
+    },
+    {
+      "id": 31,
+      "code": "Cyrs",
+      "nazva": "давньоцерковнословʼянський"
+    },
+    {
+      "id": 32,
+      "code": "Deva",
+      "nazva": "деванагарі"
+    },
+    {
+      "id": 33,
+      "code": "Dsrt",
+      "nazva": "дезерет"
+    },
+    {
+      "id": 34,
+      "code": "Egyd",
+      "nazva": "єгипетський демотичний"
+    },
+    {
+      "id": 35,
+      "code": "Egyh",
+      "nazva": "єгипетський ієратичний"
+    },
+    {
+      "id": 36,
+      "code": "Egyp",
+      "nazva": "єгипетський ієрогліфічний"
+    },
+    {
+      "id": 37,
+      "code": "Ethi",
+      "nazva": "ефіопська"
+    },
+    {
+      "id": 38,
+      "code": "Geok",
+      "nazva": "кхутсурі"
+    },
+    {
+      "id": 39,
+      "code": "Geor",
+      "nazva": "грузинська"
+    },
+    {
+      "id": 40,
+      "code": "Glag",
+      "nazva": "глаголичний"
+    },
+    {
+      "id": 41,
+      "code": "Goth",
+      "nazva": "готичний"
+    },
+    {
+      "id": 42,
+      "code": "Grek",
+      "nazva": "грецька"
+    },
+    {
+      "id": 43,
+      "code": "Gujr",
+      "nazva": "гуджараті"
+    },
+    {
+      "id": 44,
+      "code": "Guru",
+      "nazva": "гурмухі"
+    },
+    {
+      "id": 45,
+      "code": "Hanb",
+      "nazva": "хань"
+    },
+    {
+      "id": 46,
+      "code": "Hang",
+      "nazva": "хангиль"
+    },
+    {
+      "id": 47,
+      "code": "Hani",
+      "nazva": "китайська"
+    },
+    {
+      "id": 48,
+      "code": "Hano",
+      "nazva": "хануну"
+    },
+    {
+      "id": 49,
+      "code": "Hans",
+      "nazva": "спрощена"
+    },
+    {
+      "id": 50,
+      "code": "Hans-alt-stand-alone",
+      "nazva": "китайська спрощена"
+    },
+    {
+      "id": 51,
+      "code": "Hant",
+      "nazva": "традиційна"
+    },
+    {
+      "id": 52,
+      "code": "Hant-alt-stand-alone",
+      "nazva": "китайська традиційна"
+    },
+    {
+      "id": 53,
+      "code": "Hebr",
+      "nazva": "іврит"
+    },
+    {
+      "id": 54,
+      "code": "Hira",
+      "nazva": "хірагана"
+    },
+    {
+      "id": 55,
+      "code": "Hmng",
+      "nazva": "пахау хмонг"
+    },
+    {
+      "id": 56,
+      "code": "Hrkt",
+      "nazva": "японські силабарії"
+    },
+    {
+      "id": 57,
+      "code": "Hung",
+      "nazva": "давньоугорський"
+    },
+    {
+      "id": 58,
+      "code": "Inds",
+      "nazva": "харапський"
+    },
+    {
+      "id": 59,
+      "code": "Ital",
+      "nazva": "давньоіталійський"
+    },
+    {
+      "id": 60,
+      "code": "Jamo",
+      "nazva": "чамо"
+    },
+    {
+      "id": 61,
+      "code": "Java",
+      "nazva": "яванський"
+    },
+    {
+      "id": 62,
+      "code": "Jpan",
+      "nazva": "японська"
+    },
+    {
+      "id": 63,
+      "code": "Kali",
+      "nazva": "кая лі"
+    },
+    {
+      "id": 64,
+      "code": "Kana",
+      "nazva": "катакана"
+    },
+    {
+      "id": 65,
+      "code": "Khar",
+      "nazva": "кхароштхі"
+    },
+    {
+      "id": 66,
+      "code": "Khmr",
+      "nazva": "кхмерська"
+    },
+    {
+      "id": 67,
+      "code": "Knda",
+      "nazva": "каннада"
+    },
+    {
+      "id": 68,
+      "code": "Kore",
+      "nazva": "корейська"
+    },
+    {
+      "id": 69,
+      "code": "Kthi",
+      "nazva": "каїті"
+    },
+    {
+      "id": 70,
+      "code": "Lana",
+      "nazva": "ланна"
+    },
+    {
+      "id": 71,
+      "code": "Laoo",
+      "nazva": "лаоська"
+    },
+    {
+      "id": 72,
+      "code": "Latf",
+      "nazva": "латинський фрактурний"
+    },
+    {
+      "id": 73,
+      "code": "Latg",
+      "nazva": "латинський гельський"
+    },
+    {
+      "id": 74,
+      "code": "Latn",
+      "nazva": "латиниця"
+    },
+    {
+      "id": 75,
+      "code": "Lepc",
+      "nazva": "лепча"
+    },
+    {
+      "id": 76,
+      "code": "Limb",
+      "nazva": "лімбу"
+    },
+    {
+      "id": 77,
+      "code": "Lina",
+      "nazva": "лінійний А"
+    },
+    {
+      "id": 78,
+      "code": "Linb",
+      "nazva": "лінійний В"
+    },
+    {
+      "id": 79,
+      "code": "Lisu",
+      "nazva": "абетка Фрейзера"
+    },
+    {
+      "id": 80,
+      "code": "Loma",
+      "nazva": "лома"
+    },
+    {
+      "id": 81,
+      "code": "Lyci",
+      "nazva": "лікійський"
+    },
+    {
+      "id": 82,
+      "code": "Lydi",
+      "nazva": "лідійський"
+    },
+    {
+      "id": 83,
+      "code": "Mand",
+      "nazva": "мандейський"
+    },
+    {
+      "id": 84,
+      "code": "Mani",
+      "nazva": "маніхейський"
+    },
+    {
+      "id": 85,
+      "code": "Maya",
+      "nazva": "майя ієрогліфічний"
+    },
+    {
+      "id": 86,
+      "code": "Mero",
+      "nazva": "мероїтський"
+    },
+    {
+      "id": 87,
+      "code": "Mlym",
+      "nazva": "малаяламська"
+    },
+    {
+      "id": 88,
+      "code": "Mong",
+      "nazva": "монгольська"
+    },
+    {
+      "id": 89,
+      "code": "Moon",
+      "nazva": "мун"
+    },
+    {
+      "id": 90,
+      "code": "Mtei",
+      "nazva": "мейтей майєк"
+    },
+    {
+      "id": 91,
+      "code": "Mymr",
+      "nazva": "мʼянмська"
+    },
+    {
+      "id": 92,
+      "code": "Newa",
+      "nazva": "нева"
+    },
+    {
+      "id": 93,
+      "code": "Nkoo",
+      "nazva": "нко"
+    },
+    {
+      "id": 94,
+      "code": "Ogam",
+      "nazva": "огамічний"
+    },
+    {
+      "id": 95,
+      "code": "Olck",
+      "nazva": "ол-чикі"
+    },
+    {
+      "id": 96,
+      "code": "Olck-alt-variant",
+      "nazva": "сантальська"
+    },
+    {
+      "id": 97,
+      "code": "Orkh",
+      "nazva": "орхонський"
+    },
+    {
+      "id": 98,
+      "code": "Orya",
+      "nazva": "орія"
+    },
+    {
+      "id": 99,
+      "code": "Osge",
+      "nazva": "осейджиська"
+    },
+    {
+      "id": 100,
+      "code": "Osma",
+      "nazva": "османський"
+    },
+    {
+      "id": 101,
+      "code": "Perm",
+      "nazva": "давньопермський"
+    },
+    {
+      "id": 102,
+      "code": "Phag",
+      "nazva": "пхагс-па"
+    },
+    {
+      "id": 103,
+      "code": "Phli",
+      "nazva": "пехлеві написів"
+    },
+    {
+      "id": 104,
+      "code": "Phlp",
+      "nazva": "пехлеві релігійний"
+    },
+    {
+      "id": 105,
+      "code": "Phlv",
+      "nazva": "пехлеві літературний"
+    },
+    {
+      "id": 106,
+      "code": "Phnx",
+      "nazva": "фінікійський"
+    },
+    {
+      "id": 107,
+      "code": "Plrd",
+      "nazva": "писемність Полларда"
+    },
+    {
+      "id": 108,
+      "code": "Prti",
+      "nazva": "парфянський"
+    },
+    {
+      "id": 109,
+      "code": "Qaag",
+      "nazva": "зоджі"
+    },
+    {
+      "id": 110,
+      "code": "Rjng",
+      "nazva": "реджанг"
+    },
+    {
+      "id": 111,
+      "code": "Rohg",
+      "nazva": "ханіфі"
+    },
+    {
+      "id": 112,
+      "code": "Roro",
+      "nazva": "ронго-ронго"
+    },
+    {
+      "id": 113,
+      "code": "Runr",
+      "nazva": "рунічний"
+    },
+    {
+      "id": 114,
+      "code": "Samr",
+      "nazva": "самаритянський"
+    },
+    {
+      "id": 115,
+      "code": "Sara",
+      "nazva": "сараті"
+    },
+    {
+      "id": 116,
+      "code": "Saur",
+      "nazva": "саураштра"
+    },
+    {
+      "id": 117,
+      "code": "Sgnw",
+      "nazva": "знаковий"
+    },
+    {
+      "id": 118,
+      "code": "Shaw",
+      "nazva": "шоу"
+    },
+    {
+      "id": 119,
+      "code": "Sinh",
+      "nazva": "сингальська"
+    },
+    {
+      "id": 120,
+      "code": "Sund",
+      "nazva": "сунданська"
+    },
+    {
+      "id": 121,
+      "code": "Sylo",
+      "nazva": "сілоті нагрі"
+    },
+    {
+      "id": 122,
+      "code": "Syrc",
+      "nazva": "сирійська"
+    },
+    {
+      "id": 123,
+      "code": "Syre",
+      "nazva": "давньосирійський естрангело"
+    },
+    {
+      "id": 124,
+      "code": "Syrj",
+      "nazva": "давньосирійський західний"
+    },
+    {
+      "id": 125,
+      "code": "Syrn",
+      "nazva": "давньосирійський східний"
+    },
+    {
+      "id": 126,
+      "code": "Tagb",
+      "nazva": "тагбанва"
+    },
+    {
+      "id": 127,
+      "code": "Tale",
+      "nazva": "тай-лі"
+    },
+    {
+      "id": 128,
+      "code": "Talu",
+      "nazva": "новий тайський луе"
+    },
+    {
+      "id": 129,
+      "code": "Taml",
+      "nazva": "тамільська"
+    },
+    {
+      "id": 130,
+      "code": "Tang",
+      "nazva": "тангут"
+    },
+    {
+      "id": 131,
+      "code": "Tavt",
+      "nazva": "тай-вʼєт"
+    },
+    {
+      "id": 132,
+      "code": "Telu",
+      "nazva": "телугу"
+    },
+    {
+      "id": 133,
+      "code": "Teng",
+      "nazva": "тенгвар"
+    },
+    {
+      "id": 134,
+      "code": "Tfng",
+      "nazva": "тифінаг"
+    },
+    {
+      "id": 135,
+      "code": "Tglg",
+      "nazva": "тагальський"
+    },
+    {
+      "id": 136,
+      "code": "Thaa",
+      "nazva": "таана"
+    },
+    {
+      "id": 137,
+      "code": "Thai",
+      "nazva": "тайська"
+    },
+    {
+      "id": 138,
+      "code": "Tibt",
+      "nazva": "тибетська"
+    },
+    {
+      "id": 139,
+      "code": "Ugar",
+      "nazva": "угаритський"
+    },
+    {
+      "id": 140,
+      "code": "Vaii",
+      "nazva": "ваї"
+    },
+    {
+      "id": 141,
+      "code": "Visp",
+      "nazva": "видиме мовлення"
+    },
+    {
+      "id": 142,
+      "code": "Xpeo",
+      "nazva": "давньоперський"
+    },
+    {
+      "id": 143,
+      "code": "Xsux",
+      "nazva": "шумеро-аккадський клінопис"
+    },
+    {
+      "id": 144,
+      "code": "Yiii",
+      "nazva": "йї"
+    },
+    {
+      "id": 145,
+      "code": "Zinh",
+      "nazva": "успадкована"
+    },
+    {
+      "id": 146,
+      "code": "Zmth",
+      "nazva": "математична"
+    },
+    {
+      "id": 147,
+      "code": "Zsye",
+      "nazva": "емодзі"
+    },
+    {
+      "id": 148,
+      "code": "Zsym",
+      "nazva": "символьна"
+    },
+    {
+      "id": 149,
+      "code": "Zxxx",
+      "nazva": "безписемна"
+    },
+    {
+      "id": 150,
+      "code": "Zyyy",
+      "nazva": "звичайна"
+    },
+    {
+      "id": 151,
+      "code": "Zzzz",
+      "nazva": "невідома система письма"
+    }
+  ],
+  "meta": {
+    "title": "Системи письма світу (ISO 15924 / CLDR українською) - Безкоштовне завантаження",
+    "description": "Коди ISO 15924 систем письма та їхні назви українською з локалі uk у CLDR. Містить 151 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Системи письма світу (ISO 15924 / CLDR українською) | ListBase",
+    "seo_description": "Завантажити Системи письма світу (ISO 15924 / CLDR українською) — 151 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 151 записів / 3 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

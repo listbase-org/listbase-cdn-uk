@@ -1,0 +1,800 @@
+{
+  "id": "uk-kyiv-banky",
+  "name": "Банки в Києві — коди SWIFT/BIC (Kyiv bank SWIFT/BIC codes)",
+  "title": "Банки в Києві — коди SWIFT/BIC (Kyiv bank SWIFT/BIC codes)",
+  "description": "Перелік: 107 банківських установ у місті Київ (Kyiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"KIEV\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ACCORDBANK COMMERCIAL BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ACDCUAUK"
+    },
+    {
+      "id": 2,
+      "bank": "AGROPROSPERIS BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ASTRUAUK"
+    },
+    {
+      "id": 3,
+      "bank": "APEKS-BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "APKSUAUK"
+    },
+    {
+      "id": 4,
+      "bank": "ARCADA JSCB",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ARJSUAUK"
+    },
+    {
+      "id": 7,
+      "bank": "BANK 3/4",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "BKVKUAUK"
+    },
+    {
+      "id": 8,
+      "bank": "BANK ALLIANCE PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ALJJUAU1"
+    },
+    {
+      "id": 9,
+      "bank": "BANK FOR INVESTMENTS AND SAVINGS",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "BFISUAUK"
+    },
+    {
+      "id": 11,
+      "bank": "BANK PORTAL PUBLIC JOINT STOCK COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "BPRTUAUK"
+    },
+    {
+      "id": 12,
+      "bank": "BANK PRESTIGE JSB",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SLAPUAU1"
+    },
+    {
+      "id": 13,
+      "bank": "BANK SICH",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SICHUAUK"
+    },
+    {
+      "id": 14,
+      "bank": "BM BANK, PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "BMLTUAUK"
+    },
+    {
+      "id": 15,
+      "bank": "BOHUSLAV BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "BOHUUAUK"
+    },
+    {
+      "id": 16,
+      "bank": "CAPITALIUM LLC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CILCUAU1"
+    },
+    {
+      "id": 18,
+      "bank": "CENTER COMMERCIAL BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CENTUAUK"
+    },
+    {
+      "id": 20,
+      "bank": "CITIBANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CITIUAUK"
+    },
+    {
+      "id": 21,
+      "bank": "CREDIT AGRICOLE BANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "AGRIUAUK"
+    },
+    {
+      "id": 23,
+      "bank": "CREDIT EUROPE BANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "FBHLUAUK"
+    },
+    {
+      "id": 24,
+      "bank": "CREDIT OPTIMA BANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CEOIUAU1"
+    },
+    {
+      "id": 26,
+      "bank": "CRISTALBANK JOINT STOCK PUBLIC BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CRBPUAUK"
+    },
+    {
+      "id": 27,
+      "bank": "DELTA BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DELTUAU1"
+    },
+    {
+      "id": 29,
+      "bank": "DRAGON CAPITAL",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DRCPUAU1"
+    },
+    {
+      "id": 30,
+      "bank": "DRGN LIMITED",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DRAOUAU1"
+    },
+    {
+      "id": 31,
+      "bank": "DV BANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DVBKUAUK"
+    },
+    {
+      "id": 33,
+      "bank": "ETALON BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ETALUAU1"
+    },
+    {
+      "id": 34,
+      "bank": "FANAK CAPITAL LLC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "FAPCUAU1"
+    },
+    {
+      "id": 38,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "KIEV",
+      "branch": "(MAIN COMMERCIAL BRANCH)",
+      "swift_code": "FUIBUA2XKIE"
+    },
+    {
+      "id": 46,
+      "bank": "FOYIL SECURITIES NEW EUROPE ZAT",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "FSNEUAU1"
+    },
+    {
+      "id": 47,
+      "bank": "GASBANK, JOINT STOCK BANK UKRAINE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "GJSAUAU1"
+    },
+    {
+      "id": 48,
+      "bank": "GLOBUS BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "GLIBUA22"
+    },
+    {
+      "id": 49,
+      "bank": "ING BANK UKRAINE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "INGBUAUK"
+    },
+    {
+      "id": 50,
+      "bank": "INTERNATIONAL INVESTMENT BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "IINBUAUK"
+    },
+    {
+      "id": 51,
+      "bank": "INTERREGIONAL FINANCIAL COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "INFYUAU1"
+    },
+    {
+      "id": 55,
+      "bank": "JOINT STOCK COMPANY TMM-BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "JSOTUAU1"
+    },
+    {
+      "id": 56,
+      "bank": "JSB 'CLEARING HOUSE'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CLHSUAUX"
+    },
+    {
+      "id": 57,
+      "bank": "JSB OLUMPIC UKRAINE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "JSOUUAU1"
+    },
+    {
+      "id": 58,
+      "bank": "JSB 'UKOOPSPILKA'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "JSUKUAU1"
+    },
+    {
+      "id": 59,
+      "bank": "JSB'COMMERCIAL INDUSTRIAL BANK'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CIBFUAUK"
+    },
+    {
+      "id": 62,
+      "bank": "JSC SETTLEMENT CENTER",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "IRSUUAUK"
+    },
+    {
+      "id": 72,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "KIEV",
+      "branch": "(KYIV BRANCH)",
+      "swift_code": "EXBSUAUXKIV"
+    },
+    {
+      "id": 91,
+      "bank": "JSCB INDUSTRIALBANK UKRAINE",
+      "city": "KIEV",
+      "branch": "(KIEV BRANCH)",
+      "swift_code": "IJSOUA2NKIE"
+    },
+    {
+      "id": 100,
+      "bank": "KIEV UNIVERSAL EXCHANGE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "XKIEUAU1"
+    },
+    {
+      "id": 111,
+      "bank": "MEGABANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DBBKUA2KKIE"
+    },
+    {
+      "id": 119,
+      "bank": "NATIONAL BANK OF UKRAINE",
+      "city": "KIEV",
+      "branch": "(PROJECT MONITORING UNIT)",
+      "swift_code": "NBUAUAU1PMU"
+    },
+    {
+      "id": 120,
+      "bank": "NATIONAL BANK OF UKRAINE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "NBUAUAUX"
+    },
+    {
+      "id": 121,
+      "bank": "NATIONAL DEPOSITORY OF UKRAINE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "NADUUAUK"
+    },
+    {
+      "id": 122,
+      "bank": "NATIONAL ELECTRONIC REGISTRY OF UKRAINE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "NERKUAU1"
+    },
+    {
+      "id": 126,
+      "bank": "PC BANK  JSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "JSCJUAU1"
+    },
+    {
+      "id": 127,
+      "bank": "PIRAEUS BANK ICB, JSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ICBIUAUK"
+    },
+    {
+      "id": 128,
+      "bank": "PJSC ALFA-BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ALFAUAUK"
+    },
+    {
+      "id": 129,
+      "bank": "PJSC 'ALPARI BANK'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ALPAUAUK"
+    },
+    {
+      "id": 130,
+      "bank": "PJSC ALTBANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "AVTOUA22"
+    },
+    {
+      "id": 132,
+      "bank": "PJSC BANK AVANGARD",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "AVGDUAUK"
+    },
+    {
+      "id": 134,
+      "bank": "PJSC BANK FORWARD",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "FRWDUAUK"
+    },
+    {
+      "id": 138,
+      "bank": "PJSC BANK GRANT",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "GRBKUA2XKIE"
+    },
+    {
+      "id": 141,
+      "bank": "PJSC BTA BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UCTBUAUK"
+    },
+    {
+      "id": 160,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "KIEV",
+      "branch": "(BRANCH NO 1)",
+      "swift_code": "PBANUA2XKIE"
+    },
+    {
+      "id": 161,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "KIEV",
+      "branch": "(PECHERSKY BRANCH (BRANCH NO 3))",
+      "swift_code": "PBANUA2XK3F"
+    },
+    {
+      "id": 162,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "KIEV",
+      "branch": "(RASCHETNY CENTR (BRANCH NO 2))",
+      "swift_code": "PBANUA2XK2F"
+    },
+    {
+      "id": 163,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "PBANUA2X"
+    },
+    {
+      "id": 192,
+      "bank": "PJSC CREDITWEST BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "CREWUAUK"
+    },
+    {
+      "id": 193,
+      "bank": "PJSC DEUTSCHE BANK DBU",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DEUTUAUK"
+    },
+    {
+      "id": 194,
+      "bank": "PJSC 'EUROINDUSTRIBANK'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "EUOMUA2X"
+    },
+    {
+      "id": 197,
+      "bank": "PJSC 'EXPRESS-BANK'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "EXPBUAUK"
+    },
+    {
+      "id": 201,
+      "bank": "PJSC IBOX BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "AGCBUAUK"
+    },
+    {
+      "id": 203,
+      "bank": "PJSC JSC BANK TRUST-CAPITAL",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "TCBNUAUK"
+    },
+    {
+      "id": 206,
+      "bank": "PJSC RODOVID BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "PERCUAU1"
+    },
+    {
+      "id": 207,
+      "bank": "PJSC RWS BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "RWSPUAUK"
+    },
+    {
+      "id": 208,
+      "bank": "PJSC SEB CORPORATE BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ESSEUAUK"
+    },
+    {
+      "id": 210,
+      "bank": "PJSC UKRSOTSBANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UKRSUAUX"
+    },
+    {
+      "id": 212,
+      "bank": "PJSC 'VTB BANK'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "VTBRUAUK"
+    },
+    {
+      "id": 215,
+      "bank": "PORTAL BANK PUBLIC JOINT STOCK COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "PPJCUAU1"
+    },
+    {
+      "id": 218,
+      "bank": "PROCREDIT BANK, PUBLIC JOINT STOCK COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "MIFCUAUK"
+    },
+    {
+      "id": 219,
+      "bank": "PROMINVESTBANK",
+      "city": "KIEV",
+      "branch": "(THIRD PARTY STATEMENTS)",
+      "swift_code": "UPIBUAUXKIE"
+    },
+    {
+      "id": 220,
+      "bank": "PROMINVESTBANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UPIBUAUX"
+    },
+    {
+      "id": 221,
+      "bank": "PUBLIC JOINT STOCK COMPANY BANK ALLIANCE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "ALJSUAUK"
+    },
+    {
+      "id": 222,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'BANK FAMILNY'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "DOBYUA2T"
+    },
+    {
+      "id": 223,
+      "bank": "PUBLIC JOINT STOCK COMPANY FIRST INVESTMENT BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "FIBXUAUK"
+    },
+    {
+      "id": 235,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "KIEV",
+      "branch": "(CITI KIEV)",
+      "swift_code": "COSBUAUKCRI"
+    },
+    {
+      "id": 236,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "KIEV",
+      "branch": "(KYIV REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKKIE"
+    },
+    {
+      "id": 237,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "COSBUAUK"
+    },
+    {
+      "id": 252,
+      "bank": "PUBLIC JOINT STOCK COMPANY UNEX BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UNJTUAUK"
+    },
+    {
+      "id": 253,
+      "bank": "PUBLIC JOINT-STOCK COMPANY 'BANK' 'UNISON'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UNSBUAUK"
+    },
+    {
+      "id": 255,
+      "bank": "PUBLIC JOINT-STOCK COMPANY COMMERCIAL BANK 'PRAVEX-BANK'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "PRAVUAUK"
+    },
+    {
+      "id": 260,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "KIEV",
+      "branch": "(BESARABSKY BRANCH)",
+      "swift_code": "OTPVUAU1002"
+    },
+    {
+      "id": 261,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "KIEV",
+      "branch": "(MYKHAILIVSKY BRANCH)",
+      "swift_code": "OTPVUAU1003"
+    },
+    {
+      "id": 262,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "KIEV",
+      "branch": "(OBOLONSKY BRANCH)",
+      "swift_code": "OTPVUAU1005"
+    },
+    {
+      "id": 263,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "KIEV",
+      "branch": "(PECHERSKY BRANCH)",
+      "swift_code": "OTPVUAU1004"
+    },
+    {
+      "id": 264,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "OTPVUAUK"
+    },
+    {
+      "id": 268,
+      "bank": "PUBLIC JOINT-STOCK COMPANY VERNUM BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "VERNUAUK"
+    },
+    {
+      "id": 272,
+      "bank": "'RAIFFEISEN BANK AVAL' PUBLIC JOINT STOCK COMPANY",
+      "city": "KIEV",
+      "branch": "(CENTRAL KIEV BRANCH)",
+      "swift_code": "AVALUAUKCKB"
+    },
+    {
+      "id": 273,
+      "bank": "'RAIFFEISEN BANK AVAL' PUBLIC JOINT STOCK COMPANY",
+      "city": "KIEV",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "AVALUAUK"
+    },
+    {
+      "id": 276,
+      "bank": "SAMSUNG ELECTRONICS UKRAINE COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SECTUAU1"
+    },
+    {
+      "id": 277,
+      "bank": "SAMSUNG ELECTRONICS UKRAINE COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SECTUAU1960"
+    },
+    {
+      "id": 278,
+      "bank": "SAMSUNG ELECTRONICS UKRAINE COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SECTUAU1962"
+    },
+    {
+      "id": 279,
+      "bank": "SBERBANK PJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SABRUAUK"
+    },
+    {
+      "id": 280,
+      "bank": "SKY BANK,PUBLIC JOINT STOCK COMPANY",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "REGBUA2K"
+    },
+    {
+      "id": 281,
+      "bank": "TASCOMBANK JSC (FORMERLY BANK BUSINESS STANDARD)",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "MUNIUA22"
+    },
+    {
+      "id": 282,
+      "bank": "UKRAINIAN BANK OF RECONSTRUCTION AND DEVELOPMENT",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UKRDUAUK"
+    },
+    {
+      "id": 283,
+      "bank": "UKRAINIAN CAPITAL BANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UKCAUAUK"
+    },
+    {
+      "id": 284,
+      "bank": "UKRAINIAN COMMODITY EXCHANGE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "XUKCUAU1"
+    },
+    {
+      "id": 285,
+      "bank": "'UKRAINIAN FINANCIAL GROUP' COMMERCIAL BANK B",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UFGCUAU1"
+    },
+    {
+      "id": 286,
+      "bank": "UKRAINIAN STATE ENTERPRISE OF POSTS 'UKRPOSHTA'",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "USEUUAU1"
+    },
+    {
+      "id": 287,
+      "bank": "UKRAINIAN UNIVERSAL COMMODITY EXCHANGE",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "XUKRUAU1"
+    },
+    {
+      "id": 288,
+      "bank": "UKRGASBANK JSB",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UGASUAUK"
+    },
+    {
+      "id": 289,
+      "bank": "UKRPOSHTA UKRAINIAN STATE ENTERPRISE OF POSTS",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "SEPSUAU1"
+    },
+    {
+      "id": 290,
+      "bank": "UKRSIBBANK",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "KHABUA2K"
+    },
+    {
+      "id": 295,
+      "bank": "UNIVERSAL BANK OJSC",
+      "city": "KIEV",
+      "branch": "",
+      "swift_code": "UNJSUAUK"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Києві — коди SWIFT/BIC (Kyiv bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 107 банківських установ у місті Київ (Kyiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"KIEV\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 107 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Києві — коди SWIFT/BIC (Kyiv bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Києві — коди SWIFT/BIC (Kyiv bank SWIFT/BIC codes) — 107 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 107 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,1208 @@
+{
+  "id": "uk-chasovi-poyasy-america",
+  "name": "Часові пояси — America (144)",
+  "title": "Часові пояси — America (144)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'America/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Adak",
+      "rehion": "America",
+      "misto": "Адак",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Anchorage",
+      "rehion": "America",
+      "misto": "Анкоридж",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Anguilla",
+      "rehion": "America",
+      "misto": "Анґілья",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Antigua",
+      "rehion": "America",
+      "misto": "Антиґуа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Araguaina",
+      "rehion": "America",
+      "misto": "Араґуаіна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Argentina/La_Rioja",
+      "rehion": "America",
+      "misto": "Ла-Ріоха",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "rehion": "America",
+      "misto": "Ріо-Ґальєґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Argentina/Salta",
+      "rehion": "America",
+      "misto": "Сальта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Argentina/San_Juan",
+      "rehion": "America",
+      "misto": "Сан-Хуан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Argentina/San_Luis",
+      "rehion": "America",
+      "misto": "Сан-Луїс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Argentina/Tucuman",
+      "rehion": "America",
+      "misto": "Тукуман",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Argentina/Ushuaia",
+      "rehion": "America",
+      "misto": "Ушуая",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Aruba",
+      "rehion": "America",
+      "misto": "Аруба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Asuncion",
+      "rehion": "America",
+      "misto": "Асунсьйон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Bahia",
+      "rehion": "America",
+      "misto": "Байя",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Bahia_Banderas",
+      "rehion": "America",
+      "misto": "Баїя Бандерас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Barbados",
+      "rehion": "America",
+      "misto": "Барбадос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Belem",
+      "rehion": "America",
+      "misto": "Белен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Belize",
+      "rehion": "America",
+      "misto": "Беліз",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Blanc-Sablon",
+      "rehion": "America",
+      "misto": "Блан-Саблон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Boa_Vista",
+      "rehion": "America",
+      "misto": "Боа-Віста",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Bogota",
+      "rehion": "America",
+      "misto": "Боґота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Boise",
+      "rehion": "America",
+      "misto": "Бойсе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Buenos_Aires",
+      "rehion": "America",
+      "misto": "Буенос-Айрес",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Cambridge_Bay",
+      "rehion": "America",
+      "misto": "Кеймбрідж-Бей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Campo_Grande",
+      "rehion": "America",
+      "misto": "Кампу-Ґранді",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Cancun",
+      "rehion": "America",
+      "misto": "Канкун",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Caracas",
+      "rehion": "America",
+      "misto": "Каракас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Catamarca",
+      "rehion": "America",
+      "misto": "Катамарка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Cayenne",
+      "rehion": "America",
+      "misto": "Каєнна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Cayman",
+      "rehion": "America",
+      "misto": "Кайманові Острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Chicago",
+      "rehion": "America",
+      "misto": "Чікаґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Chihuahua",
+      "rehion": "America",
+      "misto": "Чіуауа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Ciudad_Juarez",
+      "rehion": "America",
+      "misto": "С’юдад-Хуарес",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Coral_Harbour",
+      "rehion": "America",
+      "misto": "Атікокан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Cordoba",
+      "rehion": "America",
+      "misto": "Кордова",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Costa_Rica",
+      "rehion": "America",
+      "misto": "Коста-Ріка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Coyhaique",
+      "rehion": "America",
+      "misto": "Кояїке",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Creston",
+      "rehion": "America",
+      "misto": "Крестон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Cuiaba",
+      "rehion": "America",
+      "misto": "Куяба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Curacao",
+      "rehion": "America",
+      "misto": "Кюрасао",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Danmarkshavn",
+      "rehion": "America",
+      "misto": "Денмарксхавн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Dawson",
+      "rehion": "America",
+      "misto": "Доусон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Dawson_Creek",
+      "rehion": "America",
+      "misto": "Доусон-Крік",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Denver",
+      "rehion": "America",
+      "misto": "Денвер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Detroit",
+      "rehion": "America",
+      "misto": "Детройт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Dominica",
+      "rehion": "America",
+      "misto": "Домініка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Edmonton",
+      "rehion": "America",
+      "misto": "Едмонтон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Eirunepe",
+      "rehion": "America",
+      "misto": "Ейрунепе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/El_Salvador",
+      "rehion": "America",
+      "misto": "Сальвадор",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Fort_Nelson",
+      "rehion": "America",
+      "misto": "Форт Нельсон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Fortaleza",
+      "rehion": "America",
+      "misto": "Форталеза",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Glace_Bay",
+      "rehion": "America",
+      "misto": "Ґлейс-Бей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Godthab",
+      "rehion": "America",
+      "misto": "Нуук",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Goose_Bay",
+      "rehion": "America",
+      "misto": "Ґус-Бей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/Grand_Turk",
+      "rehion": "America",
+      "misto": "Ґранд-Терк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/Grenada",
+      "rehion": "America",
+      "misto": "Ґренада",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/Guadeloupe",
+      "rehion": "America",
+      "misto": "Ґваделупа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/Guatemala",
+      "rehion": "America",
+      "misto": "Ґватемала",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/Guayaquil",
+      "rehion": "America",
+      "misto": "Ґуаякіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/Guyana",
+      "rehion": "America",
+      "misto": "Ґайана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/Halifax",
+      "rehion": "America",
+      "misto": "Галіфакс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "America/Havana",
+      "rehion": "America",
+      "misto": "Гавана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "America/Hermosillo",
+      "rehion": "America",
+      "misto": "Ермосільйо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "America/Indiana/Knox",
+      "rehion": "America",
+      "misto": "Нокс, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "America/Indiana/Marengo",
+      "rehion": "America",
+      "misto": "Маренго, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "America/Indiana/Petersburg",
+      "rehion": "America",
+      "misto": "Пітерсберг, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "America/Indiana/Tell_City",
+      "rehion": "America",
+      "misto": "Телл-Сіті, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "America/Indiana/Vevay",
+      "rehion": "America",
+      "misto": "Вівей, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "America/Indiana/Vincennes",
+      "rehion": "America",
+      "misto": "Вінсенс, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "America/Indiana/Winamac",
+      "rehion": "America",
+      "misto": "Вінамак, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "America/Indianapolis",
+      "rehion": "America",
+      "misto": "Індіанаполіс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "America/Inuvik",
+      "rehion": "America",
+      "misto": "Інувік",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "America/Iqaluit",
+      "rehion": "America",
+      "misto": "Ікалуїт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "America/Jamaica",
+      "rehion": "America",
+      "misto": "Ямайка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "America/Jujuy",
+      "rehion": "America",
+      "misto": "Жужуй",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "America/Juneau",
+      "rehion": "America",
+      "misto": "Джуно",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "America/Kentucky/Monticello",
+      "rehion": "America",
+      "misto": "Монтіселло, Кентуккі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "America/Kralendijk",
+      "rehion": "America",
+      "misto": "Кралендейк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "America/La_Paz",
+      "rehion": "America",
+      "misto": "Ла-Пас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "America/Lima",
+      "rehion": "America",
+      "misto": "Ліма",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "America/Los_Angeles",
+      "rehion": "America",
+      "misto": "Лос-Анджелес",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "America/Louisville",
+      "rehion": "America",
+      "misto": "Луїсвілл",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "America/Lower_Princes",
+      "rehion": "America",
+      "misto": "Лоуер-Принсес-Квотер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "America/Maceio",
+      "rehion": "America",
+      "misto": "Масейо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "America/Managua",
+      "rehion": "America",
+      "misto": "Манаґуа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "America/Manaus",
+      "rehion": "America",
+      "misto": "Манаус",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "America/Marigot",
+      "rehion": "America",
+      "misto": "Маріґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "America/Martinique",
+      "rehion": "America",
+      "misto": "Мартініка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "America/Matamoros",
+      "rehion": "America",
+      "misto": "Матаморос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "America/Mazatlan",
+      "rehion": "America",
+      "misto": "Масатлан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "America/Mendoza",
+      "rehion": "America",
+      "misto": "Мендоса",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "America/Menominee",
+      "rehion": "America",
+      "misto": "Меноміні",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "America/Merida",
+      "rehion": "America",
+      "misto": "Меріда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "America/Metlakatla",
+      "rehion": "America",
+      "misto": "Метлакатла",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "America/Mexico_City",
+      "rehion": "America",
+      "misto": "Мехіко",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "America/Miquelon",
+      "rehion": "America",
+      "misto": "Мікелон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "America/Moncton",
+      "rehion": "America",
+      "misto": "Монктон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "America/Monterrey",
+      "rehion": "America",
+      "misto": "Монтерей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "America/Montevideo",
+      "rehion": "America",
+      "misto": "Монтевідео",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "America/Montserrat",
+      "rehion": "America",
+      "misto": "Монтсеррат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "America/Nassau",
+      "rehion": "America",
+      "misto": "Насау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "America/New_York",
+      "rehion": "America",
+      "misto": "Нью-Йорк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "America/Nome",
+      "rehion": "America",
+      "misto": "Ном",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "America/Noronha",
+      "rehion": "America",
+      "misto": "Норонья",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "America/North_Dakota/Beulah",
+      "rehion": "America",
+      "misto": "Бʼюла, Північна Дакота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "America/North_Dakota/Center",
+      "rehion": "America",
+      "misto": "Сентр, Північна Дакота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "rehion": "America",
+      "misto": "Нью-Салем, Північна Дакота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "America/Ojinaga",
+      "rehion": "America",
+      "misto": "Охінаґа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "America/Panama",
+      "rehion": "America",
+      "misto": "Панама",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "America/Paramaribo",
+      "rehion": "America",
+      "misto": "Парамарибо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "America/Phoenix",
+      "rehion": "America",
+      "misto": "Фінікс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "America/Port-au-Prince",
+      "rehion": "America",
+      "misto": "Порт-о-Пренс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "America/Port_of_Spain",
+      "rehion": "America",
+      "misto": "Порт-оф-Спейн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "America/Porto_Velho",
+      "rehion": "America",
+      "misto": "Порту-Велью",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "America/Puerto_Rico",
+      "rehion": "America",
+      "misto": "Пуерто-Ріко",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "America/Punta_Arenas",
+      "rehion": "America",
+      "misto": "Пунта-Аренас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "America/Rankin_Inlet",
+      "rehion": "America",
+      "misto": "Ренкін-Інлет",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "America/Recife",
+      "rehion": "America",
+      "misto": "Ресіфі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "America/Regina",
+      "rehion": "America",
+      "misto": "Реджайна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "America/Resolute",
+      "rehion": "America",
+      "misto": "Резольют",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "America/Rio_Branco",
+      "rehion": "America",
+      "misto": "Ріо-Бранко",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "America/Santarem",
+      "rehion": "America",
+      "misto": "Сантарен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "America/Santiago",
+      "rehion": "America",
+      "misto": "Сантьяґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "America/Santo_Domingo",
+      "rehion": "America",
+      "misto": "Санто-Домінґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "America/Sao_Paulo",
+      "rehion": "America",
+      "misto": "Сан-Паулу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "America/Scoresbysund",
+      "rehion": "America",
+      "misto": "Іттоккортоорміут",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "America/Sitka",
+      "rehion": "America",
+      "misto": "Сітка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "America/St_Barthelemy",
+      "rehion": "America",
+      "misto": "Сен-Бартелемі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "America/St_Johns",
+      "rehion": "America",
+      "misto": "Сент-Джонс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "America/St_Kitts",
+      "rehion": "America",
+      "misto": "Сент-Кіттс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "America/St_Lucia",
+      "rehion": "America",
+      "misto": "Сент-Люсія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "America/St_Thomas",
+      "rehion": "America",
+      "misto": "Сент-Томас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "America/St_Vincent",
+      "rehion": "America",
+      "misto": "Сент-Вінсент",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "America/Swift_Current",
+      "rehion": "America",
+      "misto": "Свіфт-Каррент",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "America/Tegucigalpa",
+      "rehion": "America",
+      "misto": "Теґусіґальпа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "America/Thule",
+      "rehion": "America",
+      "misto": "Туле",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "America/Tijuana",
+      "rehion": "America",
+      "misto": "Тіхуана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "America/Toronto",
+      "rehion": "America",
+      "misto": "Торонто",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "America/Tortola",
+      "rehion": "America",
+      "misto": "Тортола",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "America/Vancouver",
+      "rehion": "America",
+      "misto": "Ванкувер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "America/Whitehorse",
+      "rehion": "America",
+      "misto": "Вайтгорс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "America/Winnipeg",
+      "rehion": "America",
+      "misto": "Вінніпеґ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "America/Yakutat",
+      "rehion": "America",
+      "misto": "Якутат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — America (144) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'America/', з назвами українською. Містить 144 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — America (144) | ListBase",
+    "seo_description": "Завантажити Часові пояси — America (144) — 144 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 144 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

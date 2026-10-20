@@ -1,0 +1,97 @@
+{
+  "id": "uk-odynytsi-vymiru-frequency",
+  "name": "Одиниці вимірювання — категорія 'frequency' (4)",
+  "title": "Одиниці вимірювання — категорія 'frequency' (4)",
+  "description": "Одиниці вимірювання категорії 'frequency' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "katehoriia": "frequency",
+      "nazva": "гігагерци",
+      "skorochennia": "ГГц",
+      "vuzka_forma": "ГГц",
+      "vzirets": "{0} гігагерца"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "katehoriia": "frequency",
+      "nazva": "герци",
+      "skorochennia": "Гц",
+      "vuzka_forma": "Гц",
+      "vzirets": "{0} герца"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "katehoriia": "frequency",
+      "nazva": "кілогерци",
+      "skorochennia": "кГц",
+      "vuzka_forma": "кГц",
+      "vzirets": "{0} кілогерца"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "katehoriia": "frequency",
+      "nazva": "мегагерци",
+      "skorochennia": "МГц",
+      "vuzka_forma": "МГц",
+      "vzirets": "{0} мегагерца"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'frequency' (4) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'frequency' з локалі uk у CLDR, з назвами українською. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'frequency' (4) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'frequency' (4) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,1591 @@
+{
+  "id": "uk-kyiv-poshtovi-indeksy",
+  "name": "Поштові індекси: Київ",
+  "title": "Поштові індекси: Київ",
+  "description": "Поштові індекси населених пунктів — Київ (170 записів). Назви українською, координати WGS84, ISO 3166-2 UA-30. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "zipcode",
+      "label": "Zipcode",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zipcode": "01001",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01004",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01008",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01010",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01011",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01013",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01014",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01015",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01016",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01018",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01019",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01021",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01024",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01029",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01030",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01032",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01033",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01042",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01043",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01044",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01046",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01051",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01054",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01103",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01133",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01135",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01196",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "01220",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02002",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02025",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02034",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02063",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02068",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02081",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02088",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02089",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02090",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02091",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02092",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02093",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02094",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02095",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02096",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02097",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02098",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02099",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02100",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02105",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02121",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02122",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02125",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02132",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02139",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02140",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02147",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02152",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02154",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02156",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02160",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02166",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02167",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02175",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02183",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02192",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02206",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02217",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02218",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02222",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02223",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02225",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02230",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "02232",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03005",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03006",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03020",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03022",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03026",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03028",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03031",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03035",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03036",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03037",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03038",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03039",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03040",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03041",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03045",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03047",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03048",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03049",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03056",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03057",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03058",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03061",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03062",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03065",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03067",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03069",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03083",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03084",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03087",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03109",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03110",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03113",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03115",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03118",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03124",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03126",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03127",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03129",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03131",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03134",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03138",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03141",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03142",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03143",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03146",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03148",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03150",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03151",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03158",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03162",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03164",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03165",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03168",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03169",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03170",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03179",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03186",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03187",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03189",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03190",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03191",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "03194",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04023",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04050",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04052",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04053",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04060",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04070",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04071",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04073",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04074",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04075",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04077",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04078",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04080",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04086",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04107",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04108",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04111",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04112",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04114",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04116",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04119",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04123",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04128",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04136",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04176",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04200",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04201",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04205",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04208",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04209",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04210",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04211",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04212",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04213",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04214",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    {
+      "zipcode": "04215",
+      "place": "Київ",
+      "oblast": "Київ",
+      "oblast_en": "Kyiv",
+      "iso_3166_2": "UA-30",
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    }
+  ],
+  "meta": {
+    "title": "Поштові індекси: Київ - Безкоштовне завантаження",
+    "description": "Поштові індекси населених пунктів — Київ (170 записів). Назви українською, координати WGS84, ISO 3166-2 UA-30. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv. Містить 170 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Поштові індекси: Київ | ListBase",
+    "seo_description": "Завантажити Поштові індекси: Київ — 170 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 170 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

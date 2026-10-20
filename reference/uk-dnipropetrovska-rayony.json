@@ -1,0 +1,136 @@
+{
+  "id": "uk-dnipropetrovska-rayony",
+  "name": "Райони Дніпропетровської області",
+  "title": "Райони Дніпропетровської області",
+  "description": "Список усіх 7 районів Дніпропетровської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA12020000000052809",
+      "name": "Дніпровський район",
+      "name_en": "Dniprovskyi raion",
+      "slug": "dniprovskyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    },
+    {
+      "code": "UA12060000000022633",
+      "name": "Криворізький район",
+      "name_en": "Kryvorizkyi raion",
+      "slug": "kryvorizkyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    },
+    {
+      "code": "UA12080000000023578",
+      "name": "Нікопольський район",
+      "name_en": "Nikopolskyi raion",
+      "slug": "nikopolskyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    },
+    {
+      "code": "UA12100000000039307",
+      "name": "Самарівський район",
+      "name_en": "Samarivskyi raion",
+      "slug": "samarivskyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    },
+    {
+      "code": "UA12120000000089862",
+      "name": "Павлоградський район",
+      "name_en": "Pavlohradskyi raion",
+      "slug": "pavlohradskyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    },
+    {
+      "code": "UA12140000000011720",
+      "name": "Синельниківський район",
+      "name_en": "Synelnykivskyi raion",
+      "slug": "synelnykivskyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    },
+    {
+      "code": "UA12140000000011720",
+      "name": "Синельниківський район",
+      "name_en": "Synelnykivskyi raion",
+      "slug": "synelnykivskyi-raion",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska",
+      "parent_code": "UA12000000000090473"
+    }
+  ],
+  "meta": {
+    "title": "Райони Дніпропетровської області - Безкоштовне завантаження",
+    "description": "Список усіх 7 районів Дніпропетровської області згідно з КАТОТТГ (реформа 2020 року). Містить 7 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Дніпропетровської області | ListBase",
+    "seo_description": "Завантажити Райони Дніпропетровської області — 7 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 7 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

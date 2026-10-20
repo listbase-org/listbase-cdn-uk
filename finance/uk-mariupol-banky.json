@@ -1,0 +1,72 @@
+{
+  "id": "uk-mariupol-banky",
+  "name": "Банки в Маріуполі — коди SWIFT/BIC (Mariupol bank SWIFT/BIC codes)",
+  "title": "Банки в Маріуполі — коди SWIFT/BIC (Mariupol bank SWIFT/BIC codes)",
+  "description": "Перелік: 3 банківських установ у місті Маріуполь (Mariupol) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"MARIUPOL\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 42,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "MARIUPOL",
+      "branch": "(MARIUPOL BRANCH)",
+      "swift_code": "FUIBUA2XMPL"
+    },
+    {
+      "id": 78,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "MARIUPOL",
+      "branch": "(MARIUPOL BRANCH)",
+      "swift_code": "EXBSUAUXMAR"
+    },
+    {
+      "id": 172,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "MARIUPOL",
+      "branch": "(MARIUPOL BRANCH)",
+      "swift_code": "PBANUA2XMRF"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Маріуполі — коди SWIFT/BIC (Mariupol bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 3 банківських установ у місті Маріуполь (Mariupol) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"MARIUPOL\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 3 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Маріуполі — коди SWIFT/BIC (Mariupol bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Маріуполі — коди SWIFT/BIC (Mariupol bank SWIFT/BIC codes) — 3 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 3 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

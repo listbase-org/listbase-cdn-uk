@@ -1,0 +1,952 @@
+{
+  "id": "uk-teatry",
+  "name": "Театри України",
+  "title": "Театри України",
+  "description": "Перелік об'єктів типу «театр» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_uk",
+      "label": "Wikipedia Uk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q122505765",
+      "wikidata_id": "Q122505765",
+      "name_uk": "Будинок культури (Хотин)",
+      "name_en": "Khotyn House of Culture",
+      "latitude": 48.50691,
+      "longitude": 26.49085,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q20073981",
+      "wikidata_id": "Q20073981",
+      "name_uk": "Будинок Маранца",
+      "name_en": "Budinok Maranca",
+      "latitude": 49.422222,
+      "longitude": 26.9875,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%9C%D0%B0%D1%80%D0%B0%D0%BD%D1%86%D0%B0"
+    },
+    {
+      "id": "Q118799010",
+      "wikidata_id": "Q118799010",
+      "name_uk": "будівля Донецького національного академічного українського музично-драматичного театру",
+      "name_en": "building of the Donetsk National Academic Ukrainian Musical and Drama Theatre",
+      "latitude": 48.00194,
+      "longitude": 37.80278,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q86262780",
+      "wikidata_id": "Q86262780",
+      "name_uk": "Будівля театру імені Станіслава Монюшка",
+      "name_en": "Stanislaw Moniuszko Theatre Building",
+      "latitude": 48.921389,
+      "longitude": 24.7125,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D1%96%D0%B2%D0%BB%D1%8F_%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%83_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D0%BE%D0%BD%D1%8E%D1%88%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q12090330",
+      "wikidata_id": "Q12090330",
+      "name_uk": "Волинський академічний обласний театр ляльок",
+      "name_en": "Volhynian Regional Academic heatre",
+      "latitude": 50.745634,
+      "longitude": 25.319312,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BB%D1%8F%D0%BB%D1%8C%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q12090336",
+      "wikidata_id": "Q12090336",
+      "name_uk": "Волинський обласний академічний музично-драматичний театр імені Тараса Шевченка",
+      "name_en": "Volhynian Regional Academic Musical-Dramatic Theatre Taras Shevchenko",
+      "latitude": 50.74726,
+      "longitude": 25.32408,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q16632097",
+      "wikidata_id": "Q16632097",
+      "name_uk": "Время",
+      "name_en": "Vremia",
+      "latitude": 46.842778,
+      "longitude": 35.374722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D1%8F_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q12096735",
+      "wikidata_id": "Q12096735",
+      "name_uk": "Гомельський державний театр ляльок",
+      "name_en": "Gomel State Puppet Theatre",
+      "latitude": 52.43192,
+      "longitude": 31.01245,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BB%D1%8F%D0%BB%D1%8C%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4155333",
+      "wikidata_id": "Q4155333",
+      "name_uk": "Дах",
+      "name_en": "Center of Contemporary Art \"Dakh\"",
+      "latitude": 50.414,
+      "longitude": 30.524,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D1%85_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q25448274",
+      "wikidata_id": "Q25448274",
+      "name_uk": "Державний драматичний театр",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q123614889",
+      "wikidata_id": "Q123614889",
+      "name_uk": "Детский театр Золотой Ключик",
+      "name_en": "Crimean Youth Theatre",
+      "latitude": 45.191539,
+      "longitude": 33.372842,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q4163218",
+      "wikidata_id": "Q4163218",
+      "name_uk": "Дніпровський академічний театр драми і комедії",
+      "name_en": "Dnipro Academic Drama and Comedy Theatre",
+      "latitude": 48.470556,
+      "longitude": 35.033056,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D0%B8_%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D1%96%D1%97"
+    },
+    {
+      "id": "Q4163232",
+      "wikidata_id": "Q4163232",
+      "name_uk": "Дніпровський академічний український музично-драматичний театр імені Тараса Шевченка",
+      "name_en": "Shevchenko Drama Theatre in Dnipro",
+      "latitude": 48.46824,
+      "longitude": 35.0437,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q56365261",
+      "wikidata_id": "Q56365261",
+      "name_uk": "Дніпропетровський академічний обласний український молодіжний театр",
+      "name_en": "",
+      "latitude": 48.468423,
+      "longitude": 35.046341,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%96%D0%B6%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q4166247",
+      "wikidata_id": "Q4166247",
+      "name_uk": "Донецький академічний обласний драматичний театр",
+      "name_en": "Donetsk Academic Regional Drama Theatre",
+      "latitude": 47.096111,
+      "longitude": 37.548611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q4166248",
+      "wikidata_id": "Q4166248",
+      "name_uk": "Донецький обласний російський театр юного глядача",
+      "name_en": "Young Spectator's Theatre in Makeevka",
+      "latitude": 48.047917,
+      "longitude": 37.96556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%8E%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BB%D1%8F%D0%B4%D0%B0%D1%87%D0%B0"
+    },
+    {
+      "id": "Q122250368",
+      "wikidata_id": "Q122250368",
+      "name_uk": "Житловий будинок, в якому знаходився міський комітет КСМУ та комсомольський клуб ім. А. Бебеля",
+      "name_en": "Building of the Mykolaiv Puppet Theatre",
+      "latitude": 46.971165,
+      "longitude": 31.986268,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q12104633",
+      "wikidata_id": "Q12104633",
+      "name_uk": "Житомирська обласна філармонія",
+      "name_en": "Zhytomyr Philharmonic",
+      "latitude": 50.249444,
+      "longitude": 28.664722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B0_%D1%84%D1%96%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D1%96%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%A0%D1%96%D1%85%D1%82%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": "Q12104646",
+      "wikidata_id": "Q12104646",
+      "name_uk": "Житомирський театр імені Івана Кочерги",
+      "name_en": "Zhytomyr Regional Ukrainian Music and Drama Theatre Ivan Kocherga",
+      "latitude": 50.2536,
+      "longitude": 28.65936,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0_%D0%9A%D0%BE%D1%87%D0%B5%D1%80%D0%B3%D0%B8"
+    },
+    {
+      "id": "Q4184635",
+      "wikidata_id": "Q4184635",
+      "name_uk": "Закарпатський академічний обласний український музично-драматичний театр імені братів Юрія-Августина та Євгена Шерегіїв",
+      "name_en": "Transcarpathain academic regional Ukrainian Musical and Drama Theatre Brothers Yuri-Augustin and Yevgeni Seregij",
+      "latitude": 48.6213,
+      "longitude": 22.2947,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%B1%D1%80%D0%B0%D1%82%D1%96%D0%B2_%D0%AE%D1%80%D1%96%D1%8F-%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D1%82%D0%B0_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD%D0%B0_%D0%A8%D0%B5%D1%80%D0%B5%D0%B3%D1%96%D1%97%D0%B2"
+    },
+    {
+      "id": "Q12105398",
+      "wikidata_id": "Q12105398",
+      "name_uk": "Закарпатський обласний театр ляльок «Бавка»",
+      "name_en": "Uzhhorod Puppet Theatre",
+      "latitude": 48.621944,
+      "longitude": 22.298611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BB%D1%8F%D0%BB%D1%8C%D0%BE%D0%BA_%C2%AB%D0%91%D0%B0%D0%B2%D0%BA%D0%B0%C2%BB"
+    },
+    {
+      "id": "Q118463075",
+      "wikidata_id": "Q118463075",
+      "name_uk": "Запорізький академічний обласний український музично-драматичний театр імені Володимира Магара",
+      "name_en": "Zaporizhzhya Musical and Drama Theatre",
+      "latitude": 47.812639,
+      "longitude": 35.180528,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q16653255",
+      "wikidata_id": "Q16653255",
+      "name_uk": "Запорізький академічний театр молоді",
+      "name_en": "Zaporizhzhia Academic Youth Theatre",
+      "latitude": 47.844694,
+      "longitude": 35.135806,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%96"
+    },
+    {
+      "id": "Q17302933",
+      "wikidata_id": "Q17302933",
+      "name_uk": "Зелений театр",
+      "name_en": "Green theatre",
+      "latitude": 50.447091,
+      "longitude": 30.546489,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_(%D0%9A%D0%B8%D1%97%D0%B2)"
+    },
+    {
+      "id": "Q30897441",
+      "wikidata_id": "Q30897441",
+      "name_uk": "Зелений театр",
+      "name_en": "Green Theater",
+      "latitude": 46.47842,
+      "longitude": 30.7514,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_(%D0%9E%D0%B4%D0%B5%D1%81%D0%B0)"
+    },
+    {
+      "id": "Q56641017",
+      "wikidata_id": "Q56641017",
+      "name_uk": "Зимовий театр",
+      "name_en": "Municipal Theatre of Berdiansk",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q4220193",
+      "wikidata_id": "Q4220193",
+      "name_uk": "Київський академічний обласний музично-драматичний театр імені П. К. Саксаганського",
+      "name_en": "Kyiv Academic Regional Music and Drama Theater",
+      "latitude": 49.796111,
+      "longitude": 30.1125,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9F._%D0%9A._%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q4220195",
+      "wikidata_id": "Q4220195",
+      "name_uk": "Київський академічний театр «Колесо»",
+      "name_en": "Kyiv Academic Theatre \"Koleso\"",
+      "latitude": 50.461195,
+      "longitude": 30.515738,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B5%D1%81%D0%BE_(%D1%82%D0%B5%D0%B0%D1%82%D1%80,_%D0%9A%D0%B8%D1%97%D0%B2)"
+    },
+    {
+      "id": "Q3394855",
+      "wikidata_id": "Q3394855",
+      "name_uk": "Київський академічний театр драми і комедії на лівому березі Дніпра",
+      "name_en": "Kyiv National Academic Theatre of Drama and Comedy",
+      "latitude": 50.453331,
+      "longitude": 30.599447,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D0%B8_%D1%96_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D1%96%D1%97_%D0%BD%D0%B0_%D0%BB%D1%96%D0%B2%D0%BE%D0%BC%D1%83_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D1%96_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%B0"
+    },
+    {
+      "id": "Q3394823",
+      "wikidata_id": "Q3394823",
+      "name_uk": "Київський державний академічний театр ляльок",
+      "name_en": "Kyiv State Academic Puppet Theatre",
+      "latitude": 50.451944,
+      "longitude": 30.530556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BB%D1%8F%D0%BB%D1%8C%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q2065511",
+      "wikidata_id": "Q2065511",
+      "name_uk": "Київський національний академічний Молодий театр",
+      "name_en": "Kyiv National Academic Molodyi Theatre",
+      "latitude": 50.448333,
+      "longitude": 30.516944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q136799649",
+      "wikidata_id": "Q136799649",
+      "name_uk": "Київський театр естради",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B5%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B8"
+    },
+    {
+      "id": "Q85427261",
+      "wikidata_id": "Q85427261",
+      "name_uk": "Київський театр транспорту",
+      "name_en": "Kiev Theatre of Transport",
+      "latitude": 50.406486,
+      "longitude": 30.5172,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83"
+    },
+    {
+      "id": "Q113621310",
+      "wikidata_id": "Q113621310",
+      "name_uk": "Клуб «Металіст»",
+      "name_en": "Klub Metalist",
+      "latitude": 47.802195,
+      "longitude": 35.182616,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q12111711",
+      "wikidata_id": "Q12111711",
+      "name_uk": "Коломийський академічний обласний український драматичний театр імені Івана Озаркевича",
+      "name_en": "Kolomyia Dramatic Theatre Ivan Ozarkevych",
+      "latitude": 48.528079,
+      "longitude": 25.037322,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0_%D0%9E%D0%B7%D0%B0%D1%80%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": "Q55663694",
+      "wikidata_id": "Q55663694",
+      "name_uk": "Корсо",
+      "name_en": "Corso Theater",
+      "latitude": 49.038333,
+      "longitude": 33.430556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%81%D0%BE_(%D1%82%D0%B5%D0%B0%D1%82%D1%80,_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D1%83%D0%BA)"
+    },
+    {
+      "id": "Q16667221",
+      "wikidata_id": "Q16667221",
+      "name_uk": "Криворізький театр драми та музичної комедії імені Тараса Шевченка",
+      "name_en": "Shevchenko Theatre",
+      "latitude": 47.904722,
+      "longitude": 33.341667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D0%B8_%D1%82%D0%B0_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE%D1%97_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D1%96%D1%97_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q4242935",
+      "wikidata_id": "Q4242935",
+      "name_uk": "Кримський академічний російський драматичний театр імені Максима Горького",
+      "name_en": "Gorky Drama Theatre",
+      "latitude": 44.949824,
+      "longitude": 34.096527,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q4242959",
+      "wikidata_id": "Q4242959",
+      "name_uk": "Кримський академічний український музичний театр",
+      "name_en": "State Academic Musical Theater of the Republic of Crimea",
+      "latitude": 44.948778,
+      "longitude": 34.100944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q4242986",
+      "wikidata_id": "Q4242986",
+      "name_uk": "Кримськотатарський академічний музично-драматичний театр",
+      "name_en": "Crimean Tatar academic music and drama theater",
+      "latitude": 44.9555,
+      "longitude": 34.103,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D1%8C%D0%BA%D0%BE%D1%82%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q12116598",
+      "wikidata_id": "Q12116598",
+      "name_uk": "Кропивницький академічний український музично-драматичний театр імені Марка Кропивницького",
+      "name_en": "Kirovohrad Academic Ukrainian Music and Drama Theater",
+      "latitude": 48.5138,
+      "longitude": 32.2585,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC._%D0%9C._%D0%9B._%D0%9A%D1%80%D0%BE%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q12111771",
+      "wikidata_id": "Q12111771",
+      "name_uk": "Кінотеатр Колос",
+      "name_en": "Kinoteatr Kolos",
+      "latitude": 49.584167,
+      "longitude": 34.554444,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%81_(%D0%BA%D1%96%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q7235641",
+      "wikidata_id": "Q7235641",
+      "name_uk": "Луганський академічний обласний російський драматичний театр",
+      "name_en": "Luhansk Academic Regional Russian Drama Theatre Pavel Luspekayev",
+      "latitude": 48.57294,
+      "longitude": 39.3079,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q7235700",
+      "wikidata_id": "Q7235700",
+      "name_uk": "Луганський академічний обласний театр ляльок",
+      "name_en": "Academic Regional Puppet Theatre of Luhansk",
+      "latitude": 48.573136,
+      "longitude": 39.313931,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BB%D1%8F%D0%BB%D1%8C%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4271077",
+      "wikidata_id": "Q4271077",
+      "name_uk": "Львівський академічний драматичний театр імені Лесі Українки",
+      "name_en": "Lesia Ukrainka Lviv Academic Dramatic Theatre",
+      "latitude": 49.8419,
+      "longitude": 24.0261,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
+    },
+    {
+      "id": "Q4271078",
+      "wikidata_id": "Q4271078",
+      "name_uk": "Львівський академічний духовний театр «Воскресіння»",
+      "name_en": "",
+      "latitude": 49.841861,
+      "longitude": 24.023049,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D1%96%D0%BD%D0%BD%D1%8F_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q4271087",
+      "wikidata_id": "Q4271087",
+      "name_uk": "Львівський академічний театр імені Леся Курбаса",
+      "name_en": "Lviv Les Kurbas Academic Theater",
+      "latitude": 49.842,
+      "longitude": 24.0254,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9B%D0%B5%D1%81%D1%8F_%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D1%81%D0%B0"
+    },
+    {
+      "id": "Q20081717",
+      "wikidata_id": "Q20081717",
+      "name_uk": "Львівський державний драматичний театр імені Лесі Українки",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_(1939%E2%80%941941)"
+    },
+    {
+      "id": "Q4271098",
+      "wikidata_id": "Q4271098",
+      "name_uk": "Львівський обласний академічний музично-драматичний театр імені Юрія Дрогобича",
+      "name_en": "Musical-Dramatic Theatre Yuriy Drohobych",
+      "latitude": 49.351111,
+      "longitude": 23.509167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%AE%D1%80%D1%96%D1%8F_%D0%94%D1%80%D0%BE%D0%B3%D0%BE%D0%B1%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": "Q22009866",
+      "wikidata_id": "Q22009866",
+      "name_uk": "Матроський клуб (Севастополь)",
+      "name_en": "Sailor's Club (Sevastopol)",
+      "latitude": 44.600278,
+      "longitude": 33.524167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%BE%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1_(%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C)"
+    },
+    {
+      "id": "Q4320472",
+      "wikidata_id": "Q4320472",
+      "name_uk": "Миколаївський академічний художній драматичний театр",
+      "name_en": "Mykolayiv Academic Art Theatre of Drama",
+      "latitude": 46.9754,
+      "longitude": 31.9924,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D1%96%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q4184632",
+      "wikidata_id": "Q4184632",
+      "name_uk": "Мукачівський драматичний театр",
+      "name_en": "Drama Theatre Mukachevo",
+      "latitude": 48.44234,
+      "longitude": 22.71899,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D0%BA%D0%B0%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q1986941",
+      "wikidata_id": "Q1986941",
+      "name_uk": "Національний академічний український драматичний театр імені Марії Заньковецької",
+      "name_en": "Ukrainian Dramatic Theatre of Maria Zankovetska",
+      "latitude": 49.84395,
+      "longitude": 24.027244,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9C%D0%B0%D1%80%D1%96%D1%97_%D0%97%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D1%97"
+    },
+    {
+      "id": "Q21843189",
+      "wikidata_id": "Q21843189",
+      "name_uk": "Новий театр",
+      "name_en": "New theater",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q4331439",
+      "wikidata_id": "Q4331439",
+      "name_uk": "Одеський академічний театр музичної комедії імені М. Водяного",
+      "name_en": "Odesa Music Comedy Theater",
+      "latitude": 46.468322,
+      "longitude": 30.750936,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE%D1%97_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D1%96%D1%97_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9C._%D0%92%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q4331438",
+      "wikidata_id": "Q4331438",
+      "name_uk": "Одеський академічний український музично-драматичний театр імені В. Василька",
+      "name_en": "Ukrainian Musical-Dramatic Theater V. Vasylka",
+      "latitude": 46.490709,
+      "longitude": 30.726888,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8F_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q195513",
+      "wikidata_id": "Q195513",
+      "name_uk": "Одеський національний академічний театр опери та балету",
+      "name_en": "Odesa Opera and Ballet Theater",
+      "latitude": 46.4855,
+      "longitude": 30.7413,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BE%D0%BF%D0%B5%D1%80%D0%B8_%D1%82%D0%B0_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D1%83"
+    },
+    {
+      "id": "Q12135644",
+      "wikidata_id": "Q12135644",
+      "name_uk": "Олександрійський театр",
+      "name_en": "Oleksandriia Theatre",
+      "latitude": 48.67434,
+      "longitude": 33.1086,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q25448279",
+      "wikidata_id": "Q25448279",
+      "name_uk": "Оперний театр «Музична драма»",
+      "name_en": "\"Muzychna drama\" Opera Theatre",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%C2%AB%D0%9C%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%B0_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%C2%BB"
+    },
+    {
+      "id": "Q124499522",
+      "wikidata_id": "Q124499522",
+      "name_uk": "Павлоградський драматичний театр імені Б. Є. Захави",
+      "name_en": "",
+      "latitude": 48.534482,
+      "longitude": 35.875215,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%91._%D0%84._%D0%97%D0%B0%D1%85%D0%B0%D0%B2%D0%B8"
+    },
+    {
+      "id": "Q12141914",
+      "wikidata_id": "Q12141914",
+      "name_uk": "Полтавське українське драматичне товариство",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B5_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B5_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B2%D0%BE"
+    },
+    {
+      "id": "Q12141915",
+      "wikidata_id": "Q12141915",
+      "name_uk": "Полтавський академічний обласний театр ляльок",
+      "name_en": "Academic Regional Puppet Theatre of Poltava",
+      "latitude": 49.586756,
+      "longitude": 34.548701,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BB%D1%8F%D0%BB%D1%8C%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q4370830",
+      "wikidata_id": "Q4370830",
+      "name_uk": "Полтавський академічний обласний український музично-драматичний театр імені Миколи Гоголя",
+      "name_en": "Regional Musical-Dramatic Theatre Nikolai Gogol",
+      "latitude": 49.58603,
+      "longitude": 34.55633,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8_%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F"
+    },
+    {
+      "id": "Q12141917",
+      "wikidata_id": "Q12141917",
+      "name_uk": "Полтавський вільний театр",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q12141931",
+      "wikidata_id": "Q12141931",
+      "name_uk": "Полтавський просвітницький будинок імені Миколи Гоголя",
+      "name_en": "Educational House N. Gogol",
+      "latitude": 49.584167,
+      "longitude": 34.554444,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8_%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F"
+    },
+    {
+      "id": "Q28705555",
+      "wikidata_id": "Q28705555",
+      "name_uk": "Полтавський український драматичний театр «Рух»",
+      "name_en": "Drama Theatre Rukh",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%C2%AB%D0%A0%D1%83%D1%85%C2%BB"
+    },
+    {
+      "id": "Q28705144",
+      "wikidata_id": "Q28705144",
+      "name_uk": "Полтавський український пересувний театр сатири «Червоний Перець»",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B2%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8_%C2%AB%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D0%9F%D0%B5%D1%80%D0%B5%D1%86%D1%8C%C2%BB"
+    },
+    {
+      "id": "Q28705554",
+      "wikidata_id": "Q28705554",
+      "name_uk": "Полтавський український театр «Жовтень»",
+      "name_en": "Zhovten Theatre",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%C2%AB%D0%96%D0%BE%D0%B2%D1%82%D0%B5%D0%BD%D1%8C%C2%BB"
+    },
+    {
+      "id": "Q106684505",
+      "wikidata_id": "Q106684505",
+      "name_uk": "Прилуцький Міський Будинок культури",
+      "name_en": "Pryluky Municipal House of Culture",
+      "latitude": 50.5916,
+      "longitude": 32.38164,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q113989518",
+      "wikidata_id": "Q113989518",
+      "name_uk": "Рівненський академічний обласний театр ляльок",
+      "name_en": "Rivne Regional Academic Puppet Theatre",
+      "latitude": 50.62305,
+      "longitude": 26.24838,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q118495260",
+      "wikidata_id": "Q118495260",
+      "name_uk": "Рівненський обласний академічний український музично-драматичний театр",
+      "name_en": "Rivne Musical-Dramatic Theatre",
+      "latitude": 50.6209,
+      "longitude": 26.2461,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q12151419",
+      "wikidata_id": "Q12151419",
+      "name_uk": "Севастопольський академічний російський драматичний театр імені Анатолія Луначарського",
+      "name_en": "Lunacharsky Theatre",
+      "latitude": 44.613918,
+      "longitude": 33.521732,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D1%8F_%D0%9B%D1%83%D0%BD%D0%B0%D1%87%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q4412579",
+      "wikidata_id": "Q4412579",
+      "name_uk": "Сєвєродонецький міський театр драми",
+      "name_en": "Sievierodonetsk City Drama Theatre",
+      "latitude": 48.9525,
+      "longitude": 38.4833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D0%B8"
+    },
+    {
+      "id": "Q41207500",
+      "wikidata_id": "Q41207500",
+      "name_uk": "Театр \"Актор\"",
+      "name_en": "",
+      "latitude": 50.455446,
+      "longitude": 30.507712,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D1%82%D0%BE%D1%80_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q97161794",
+      "wikidata_id": "Q97161794",
+      "name_uk": "Театр «Нафта»",
+      "name_en": "Nafta Theatre",
+      "latitude": 49.9933,
+      "longitude": 36.2431,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%C2%AB%D0%9D%D0%B0%D1%84%D1%82%D0%B0%C2%BB"
+    },
+    {
+      "id": "Q123071011",
+      "wikidata_id": "Q123071011",
+      "name_uk": "Театр Драматургів",
+      "name_en": "Theatre of Playwrights",
+      "latitude": 50.460164,
+      "longitude": 30.521966,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D1%96%D0%B2"
+    },
+    {
+      "id": "Q4453421",
+      "wikidata_id": "Q4453421",
+      "name_uk": "Театр Київського військового округу",
+      "name_en": "Kyiv Military District Theater",
+      "latitude": 50.4467,
+      "longitude": 30.5244,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83"
+    },
+    {
+      "id": "Q50357064",
+      "wikidata_id": "Q50357064",
+      "name_uk": "Театр комедії «МО»",
+      "name_en": "",
+      "latitude": 49.065556,
+      "longitude": 33.421667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D1%96%D1%97_%C2%AB%D0%9C%D0%9E%C2%BB"
+    },
+    {
+      "id": "Q12160266",
+      "wikidata_id": "Q12160266",
+      "name_uk": "Театр Корифеїв",
+      "name_en": "Theatre of Coryphaei",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%BA%D0%BE%D1%80%D0%B8%D1%84%D0%B5%D1%97%D0%B2"
+    },
+    {
+      "id": "Q4453439",
+      "wikidata_id": "Q4453439",
+      "name_uk": "Театр Миколи Садовського",
+      "name_en": "",
+      "latitude": 50.43362,
+      "longitude": 30.51839,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8_%D0%A1%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": "Q4453431",
+      "wikidata_id": "Q4453431",
+      "name_uk": "Театр Муссурі",
+      "name_en": "Mussuri Theatre",
+      "latitude": 49.989324,
+      "longitude": 36.21629,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%9C%D1%83%D1%81%D1%81%D1%83%D1%80%D1%96"
+    },
+    {
+      "id": "Q12101418",
+      "wikidata_id": "Q12101418",
+      "name_uk": "Театр одного актора «Крик»",
+      "name_en": "Academic Ukrainian Theater of One Actor «Kryk»",
+      "latitude": 48.4625,
+      "longitude": 35.046667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BA_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q108122502",
+      "wikidata_id": "Q108122502",
+      "name_uk": "Театр Романс",
+      "name_en": "Romance Theatre",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q122727303",
+      "wikidata_id": "Q122727303",
+      "name_uk": "Театр ім. М. Заньковецької (Скарбека)",
+      "name_en": "",
+      "latitude": 49.844068,
+      "longitude": 24.027566,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q12160858",
+      "wikidata_id": "Q12160858",
+      "name_uk": "Тернопільський академічний обласний драматичний театр імені Тараса Шевченка",
+      "name_en": "Ternopil Oblast Academic Drama T. H. Shevchenko Theatre",
+      "latitude": 49.554111,
+      "longitude": 25.59475,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2._%D0%93._%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q12161235",
+      "wikidata_id": "Q12161235",
+      "name_uk": "Тимур (театр, Харків)",
+      "name_en": "",
+      "latitude": 49.984722,
+      "longitude": 36.246389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D1%83%D1%80_(%D1%82%D0%B5%D0%B0%D1%82%D1%80,_%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2)"
+    },
+    {
+      "id": "Q12164159",
+      "wikidata_id": "Q12164159",
+      "name_uk": "Український народний театр імені Івана Тобілевича",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0_%D0%A2%D0%BE%D0%B1%D1%96%D0%BB%D0%B5%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": "Q4496348",
+      "wikidata_id": "Q4496348",
+      "name_uk": "Харківський академічний драматичний театр",
+      "name_en": "Kharkiv Academic Drama Theater",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q4496305",
+      "wikidata_id": "Q4496305",
+      "name_uk": "Харківський академічний український драматичний театр імені Тараса Шевченка",
+      "name_en": "Kharkiv Ukrainian Drama Theatre",
+      "latitude": 49.995,
+      "longitude": 36.231667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q113989467",
+      "wikidata_id": "Q113989467",
+      "name_uk": "Харківський державний академічний театр ляльок імені В. А. Афанасьєва",
+      "name_en": "State Academic Puppet Theatre",
+      "latitude": 49.992,
+      "longitude": 36.2326,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q4496353",
+      "wikidata_id": "Q4496353",
+      "name_uk": "Харківський театр для дітей та юнацтва",
+      "name_en": "Kharkiv Theatre for Children and Youth",
+      "latitude": 49.988249,
+      "longitude": 36.220251,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D0%BB%D1%8F_%D0%B4%D1%96%D1%82%D0%B5%D0%B9_%D1%82%D0%B0_%D1%8E%D0%BD%D0%B0%D1%86%D1%82%D0%B2%D0%B0"
+    },
+    {
+      "id": "Q12169802",
+      "wikidata_id": "Q12169802",
+      "name_uk": "Черкаський академічний обласний український музично-драматичний театр імені Т. Г. Шевченка",
+      "name_en": "Cherkasy Academic Regional Ukrainian Musical-Dramatic Theatre T. H. Shevchenko",
+      "latitude": 49.441955,
+      "longitude": 32.06137,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2._%D0%93._%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q12170034",
+      "wikidata_id": "Q12170034",
+      "name_uk": "Чернівецький український музично-драматичний театр імені Ольги Кобилянської",
+      "name_en": "Olha Kobylyanska Theatre",
+      "latitude": 48.29176,
+      "longitude": 25.93085,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B8_%D0%9A%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97"
+    },
+    {
+      "id": "Q4513548",
+      "wikidata_id": "Q4513548",
+      "name_uk": "Чернігівський обласний академічний український музично-драматичний театр імені Тараса Шевченка",
+      "name_en": "Taras Shevchenko Chernihiv Regional Academic Music and Drama Theatre",
+      "latitude": 51.491444,
+      "longitude": 31.299444,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": "Q12170076",
+      "wikidata_id": "Q12170076",
+      "name_uk": "Чернігівський обласний молодіжний театр",
+      "name_en": "Chernihiv Youth Theatre",
+      "latitude": 51.492361,
+      "longitude": 31.304556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%96%D0%B6%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q38182641",
+      "wikidata_id": "Q38182641",
+      "name_uk": "Чесний театр",
+      "name_en": "Chesnyi theatre",
+      "latitude": 50.45204,
+      "longitude": 30.516491,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80"
+    },
+    {
+      "id": "Q4453392",
+      "wikidata_id": "Q4453392",
+      "name_uk": "Чорний квадрат",
+      "name_en": "",
+      "latitude": 50.4552,
+      "longitude": 30.5046,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82_(%D1%82%D0%B5%D0%B0%D1%82%D1%80)"
+    },
+    {
+      "id": "Q4173050",
+      "wikidata_id": "Q4173050",
+      "name_uk": "Євпаторійський театр імені О. Пушкіна",
+      "name_en": "Pushkin Theatre",
+      "latitude": 45.19,
+      "longitude": 33.367778,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%84%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%9E._%D0%9F%D1%83%D1%88%D0%BA%D1%96%D0%BD%D0%B0"
+    },
+    {
+      "id": "Q12073697",
+      "wikidata_id": "Q12073697",
+      "name_uk": "Івано-Франківський національний академічний обласний музично-драматичний театр імені Івана Франка",
+      "name_en": "Ivan Franko Musical and Dramatic Theatre",
+      "latitude": 48.91765,
+      "longitude": 24.71892,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%86%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0"
+    }
+  ],
+  "meta": {
+    "title": "Театри України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «театр» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності. Містить 99 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Театри України | ListBase",
+    "seo_description": "Завантажити Театри України — 99 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 99 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

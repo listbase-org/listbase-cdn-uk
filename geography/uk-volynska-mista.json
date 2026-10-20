@@ -1,0 +1,271 @@
+{
+  "id": "uk-volynska-mista",
+  "name": "Міста Волинської області",
+  "title": "Міста Волинської області",
+  "description": "Список 12 міст Волинської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA07020010010041660",
+      "name": "Володимир",
+      "name_en": "Volodymyr",
+      "slug": "volodymyr",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07020010000096841",
+      "hromada_name": "Володимирська міська територіальна громада",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020130010041880",
+      "name": "Нововолинськ",
+      "name_en": "Novovolynsk",
+      "slug": "novovolynsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07020130000036300",
+      "hromada_name": "Нововолинська міська громада",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020210010031545",
+      "name": "Устилуг",
+      "name_en": "Ustyluh",
+      "slug": "ustyluh",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07020210000033081",
+      "hromada_name": "Устилузька міська громада",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07040010010025318",
+      "name": "Камінь-Каширський",
+      "name_en": "Kamin-Kashyrskyi",
+      "slug": "kamin-kashyrskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07040010000033507",
+      "hromada_name": "Камінь-Каширська міська громада",
+      "rayon_name": "Камінь-Каширський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060190010068509",
+      "name": "Ковель",
+      "name_en": "Kovel",
+      "slug": "kovel",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07060190000036342",
+      "hromada_name": "Ковельська міська громада",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060270010018151",
+      "name": "Любомль",
+      "name_en": "Liuboml",
+      "slug": "liuboml",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07060270000021892",
+      "hromada_name": "Любомльська міська громада",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080010010043939",
+      "name": "Берестечко",
+      "name_en": "Berestechko",
+      "slug": "berestechko",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07080010000062933",
+      "hromada_name": "Берестечківська міська громада",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080070010026475",
+      "name": "Горохів",
+      "name_en": "Horokhiv",
+      "slug": "horokhiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07080070000052255",
+      "hromada_name": "Горохівська міська громада",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080110010029699",
+      "name": "Ківерці",
+      "name_en": "Kivertsi",
+      "slug": "kivertsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07080110000043895",
+      "hromada_name": "Ківерцівська міська громада",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080170010083384",
+      "name": "Луцьк",
+      "name_en": "Lutsk",
+      "slug": "lutsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07080170000013585",
+      "hromada_name": "Луцька міська громада",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080210010079720",
+      "name": "Олика",
+      "name_en": "Olyka",
+      "slug": "olyka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07080210000090779",
+      "hromada_name": "Олицька селищна громада",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080250010017534",
+      "name": "Рожище",
+      "name_en": "Rozhyshche",
+      "slug": "rozhyshche",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA07080250000053335",
+      "hromada_name": "Рожищенська міська громада",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Волинської області - Безкоштовне завантаження",
+    "description": "Список 12 міст Волинської області (категорія М у КАТОТТГ). Містить 12 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Волинської області | ListBase",
+    "seo_description": "Завантажити Міста Волинської області — 12 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 12 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "uk-poltavska-mista",
+  "name": "Міста Полтавської області",
+  "title": "Міста Полтавської області",
+  "description": "Список 16 міст Полтавської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA53020010010016768",
+      "name": "Глобине",
+      "name_en": "Hlobyne",
+      "slug": "hlobyne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53020010000035494",
+      "hromada_name": "Глобинська міська громада",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020030010087471",
+      "name": "Горішні Плавні",
+      "name_en": "Horishni Plavni",
+      "slug": "horishni-plavni",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53020030000081709",
+      "hromada_name": "Горішньоплавнівська міська громада",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53020110010031694",
+      "name": "Кременчук",
+      "name_en": "Kremenchuk",
+      "slug": "kremenchuk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53020110000092487",
+      "hromada_name": "Кременчуцька міська громада",
+      "rayon_name": "Кременчуцький район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040010010092378",
+      "name": "Гребінка",
+      "name_en": "Hrebinka",
+      "slug": "hrebinka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53040010000091190",
+      "hromada_name": "Гребінківська міська громада",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040030010081016",
+      "name": "Лубни",
+      "name_en": "Lubny",
+      "slug": "lubny",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53040030000088898",
+      "hromada_name": "Лубенська міська громада",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040090010096696",
+      "name": "Пирятин",
+      "name_en": "Pyriatyn",
+      "slug": "pyriatyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53040090000048649",
+      "hromada_name": "Пирятинська міська громада",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53040110010080324",
+      "name": "Хорол",
+      "name_en": "Khorol",
+      "slug": "khorol",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53040110000034949",
+      "hromada_name": "Хорольська міська громада",
+      "rayon_name": "Лубенський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060090010040802",
+      "name": "Гадяч",
+      "name_en": "Hadiach",
+      "slug": "hadiach",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53060090000098426",
+      "hromada_name": "Гадяцька міська громада",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060130010028447",
+      "name": "Заводське",
+      "name_en": "Zavodske",
+      "slug": "zavodske",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53060130000040567",
+      "hromada_name": "Заводська міська громада",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060190010016735",
+      "name": "Лохвиця",
+      "name_en": "Lokhvytsia",
+      "slug": "lokhvytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53060190000015369",
+      "hromada_name": "Лохвицька міська громада",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53060230010027681",
+      "name": "Миргород",
+      "name_en": "Myrhorod",
+      "slug": "myrhorod",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53060230000098362",
+      "hromada_name": "Миргородська міська громада",
+      "rayon_name": "Миргородський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080090010093569",
+      "name": "Зіньків",
+      "name_en": "Zinkiv",
+      "slug": "zinkiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53080090000014431",
+      "hromada_name": "Зіньківська міська громада",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080110010062221",
+      "name": "Карлівка",
+      "name_en": "Karlivka",
+      "slug": "karlivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53080110000062015",
+      "hromada_name": "Карлівська міська громада",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080130010037756",
+      "name": "Кобеляки",
+      "name_en": "Kobeliaky",
+      "slug": "kobeliaky",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53080130000014699",
+      "hromada_name": "Кобеляцька міська громада",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080370010073240",
+      "name": "Полтава",
+      "name_en": "Poltava",
+      "slug": "poltava",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53080370000025447",
+      "hromada_name": "Полтавська міська громада",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    },
+    {
+      "code": "UA53080390010041197",
+      "name": "Решетилівка",
+      "name_en": "Reshetylivka",
+      "slug": "reshetylivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA53080390000027656",
+      "hromada_name": "Решетилівська міська громада",
+      "rayon_name": "Полтавський район",
+      "oblast_id": 16,
+      "oblast_name": "Полтавська область",
+      "oblast_slug": "poltavska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Полтавської області - Безкоштовне завантаження",
+    "description": "Список 16 міст Полтавської області (категорія М у КАТОТТГ). Містить 16 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Полтавської області | ListBase",
+    "seo_description": "Завантажити Міста Полтавської області — 16 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 16 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

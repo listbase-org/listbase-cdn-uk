@@ -1,0 +1,144 @@
+{
+  "id": "uk-chasovi-poyasy-indian",
+  "name": "Часові пояси — Indian (11)",
+  "title": "Часові пояси — Indian (11)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Indian/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Indian/Antananarivo",
+      "rehion": "Indian",
+      "misto": "Антананаріву",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Indian/Chagos",
+      "rehion": "Indian",
+      "misto": "Чаґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Indian/Christmas",
+      "rehion": "Indian",
+      "misto": "Острів Різдва",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Indian/Cocos",
+      "rehion": "Indian",
+      "misto": "Кокосові острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Indian/Comoro",
+      "rehion": "Indian",
+      "misto": "Комори",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Indian/Kerguelen",
+      "rehion": "Indian",
+      "misto": "Керґелен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Indian/Mahe",
+      "rehion": "Indian",
+      "misto": "Махе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Indian/Maldives",
+      "rehion": "Indian",
+      "misto": "Мальдіви",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Indian/Mauritius",
+      "rehion": "Indian",
+      "misto": "Маврикій",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Indian/Mayotte",
+      "rehion": "Indian",
+      "misto": "Майотта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Indian/Reunion",
+      "rehion": "Indian",
+      "misto": "Реюньйон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Indian (11) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Indian/', з назвами українською. Містить 11 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Indian (11) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Indian (11) — 11 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 11 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

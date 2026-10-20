@@ -1,0 +1,896 @@
+{
+  "id": "uk-kyivska-hromady",
+  "name": "Територіальні громади Київської області",
+  "title": "Територіальні громади Київської області",
+  "description": "Список 75 територіальних громад Київської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA32020010000093088",
+      "name": "Білоцерківська міська громада",
+      "name_en": "Bilotserkivska miska hromada",
+      "slug": "bilotserkivska-miska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020030000029575",
+      "name": "Володарська селищна громада",
+      "name_en": "Volodarska selyshchna hromada",
+      "slug": "volodarska-selyshchna-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020050000062595",
+      "name": "Гребінківська селищна громада",
+      "name_en": "Hrebinkivska selyshchna hromada",
+      "slug": "hrebinkivska-selyshchna-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020070000027895",
+      "name": "Ковалівська сільська рада",
+      "name_en": "Kovalivska silska rada",
+      "slug": "kovalivska-silska-rada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020070000027895",
+      "name": "Ковалівська сільська громада",
+      "name_en": "Kovalivska silska hromada",
+      "slug": "kovalivska-silska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020090000022264",
+      "name": "Маловільшанська сільська громада",
+      "name_en": "Malovilshanska silska hromada",
+      "slug": "malovilshanska-silska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020110000085875",
+      "name": "Медвинська сільська громада",
+      "name_en": "Medvynska silska hromada",
+      "slug": "medvynska-silska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020130000010013",
+      "name": "Рокитнянська селищна громада",
+      "name_en": "Rokytnianska selyshchna hromada",
+      "slug": "rokytnianska-selyshchna-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020150000040878",
+      "name": "Сквирська міська громада",
+      "name_en": "Skvyrska miska hromada",
+      "slug": "skvyrska-miska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020170000020698",
+      "name": "Ставищенська селищна громада",
+      "name_en": "Stavyshchenska selyshchna hromada",
+      "slug": "stavyshchenska-selyshchna-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020190000084133",
+      "name": "Таращанська міська громада",
+      "name_en": "Tarashchanska miska hromada",
+      "slug": "tarashchanska-miska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020210000064694",
+      "name": "Тетіївська міська громада",
+      "name_en": "Tetiivska miska hromada",
+      "slug": "tetiivska-miska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020230000012716",
+      "name": "Узинська міська громада",
+      "name_en": "Uzynska miska hromada",
+      "slug": "uzynska-miska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020250000099079",
+      "name": "Фурсівська сільська рада",
+      "name_en": "Fursivska silska rada",
+      "slug": "fursivska-silska-rada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32020250000099079",
+      "name": "Фурсівська сільська громада",
+      "name_en": "Fursivska silska hromada",
+      "slug": "fursivska-silska-hromada",
+      "rayon_code": "UA32020000000057002",
+      "rayon_name": "Білоцерківський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040010000010116",
+      "name": "Бориспільська міська громада",
+      "name_en": "Boryspilska miska hromada",
+      "slug": "boryspilska-miska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040030000083910",
+      "name": "Вороньківська сільська громада",
+      "name_en": "Voronkivska silska hromada",
+      "slug": "voronkivska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040050000077950",
+      "name": "Гірська сільська громада",
+      "name_en": "Hirska silska hromada",
+      "slug": "hirska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040070000056247",
+      "name": "Дівичківська сільська рада",
+      "name_en": "Divychkivska silska rada",
+      "slug": "divychkivska-silska-rada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040070000056247",
+      "name": "Дівичківська сільська громада",
+      "name_en": "Divychkivska silska hromada",
+      "slug": "divychkivska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040090000083028",
+      "name": "Золочівська сільська громада",
+      "name_en": "Zolochivska silska hromada",
+      "slug": "zolochivska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040110000047477",
+      "name": "Переяславська міська громада",
+      "name_en": "Pereiaslavska miska hromada",
+      "slug": "pereiaslavska-miska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040130000049927",
+      "name": "Пристолична сільська громада",
+      "name_en": "Prystolychna silska hromada",
+      "slug": "prystolychna-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040150000073245",
+      "name": "Жовтнева сільська рада",
+      "name_en": "Zhovtneva silska rada",
+      "slug": "zhovtneva-silska-rada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040150000073245",
+      "name": "Студениківська сільська громада",
+      "name_en": "Studenykivska silska hromada",
+      "slug": "studenykivska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040170000034173",
+      "name": "Ташанська сільська громада",
+      "name_en": "Tashanska silska hromada",
+      "slug": "tashanska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040190000043384",
+      "name": "Циблівська сільська громада",
+      "name_en": "Tsyblivska silska hromada",
+      "slug": "tsyblivska-silska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32040210000086086",
+      "name": "Яготинська міська громада",
+      "name_en": "Yahotynska miska hromada",
+      "slug": "yahotynska-miska-hromada",
+      "rayon_code": "UA32040000000054694",
+      "rayon_name": "Бориспільський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060010000086043",
+      "name": "Баришівська селищна громада",
+      "name_en": "Baryshivska selyshchna hromada",
+      "slug": "baryshivska-selyshchna-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060030000048241",
+      "name": "Березанська міська громада",
+      "name_en": "Berezanska miska hromada",
+      "slug": "berezanska-miska-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060050000030591",
+      "name": "Броварська міська громада",
+      "name_en": "Brovarska miska hromada",
+      "slug": "brovarska-miska-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060070000092009",
+      "name": "Великодимерська селищна громада",
+      "name_en": "Velykodymerska selyshchna hromada",
+      "slug": "velykodymerska-selyshchna-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060090000096236",
+      "name": "Зазимська сільська громада",
+      "name_en": "Zazymska silska hromada",
+      "slug": "zazymska-silska-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060110000050416",
+      "name": "Згурівська селищна громада",
+      "name_en": "Zhurivska selyshchna hromada",
+      "slug": "zhurivska-selyshchna-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32060150000031409",
+      "name": "Калитянська селищна громада",
+      "name_en": "Kalytianska selyshchna hromada",
+      "slug": "kalytianska-selyshchna-hromada",
+      "rayon_code": "UA32060000000012455",
+      "rayon_name": "Броварський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080010000060215",
+      "name": "Білогородська сільська громада",
+      "name_en": "Bilohorodska silska hromada",
+      "slug": "bilohorodska-silska-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080030000070006",
+      "name": "Бородянська селищна громада",
+      "name_en": "Borodianska selyshchna hromada",
+      "slug": "borodianska-selyshchna-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080050000052660",
+      "name": "Петропавлівсько-Борщагівська сільська рада",
+      "name_en": "Petropavlivsko-Borshchahivska silska rada",
+      "slug": "petropavlivsko-borshchahivska-silska-rada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080050000052660",
+      "name": "Борщагівська сільська громада",
+      "name_en": "Borshchahivska silska hromada",
+      "slug": "borshchahivska-silska-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080070000050759",
+      "name": "Бучанська міська громада",
+      "name_en": "Buchanska miska hromada",
+      "slug": "buchanska-miska-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080090000011038",
+      "name": "Вишнева міська громада",
+      "name_en": "Vyshneva miska hromada",
+      "slug": "vyshneva-miska-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080110000056605",
+      "name": "Гостомельська селищна громада",
+      "name_en": "Hostomelska selyshchna hromada",
+      "slug": "hostomelska-selyshchna-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080130000056481",
+      "name": "Дмитрівська сільська громада",
+      "name_en": "Dmytrivska silska hromada",
+      "slug": "dmytrivska-silska-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080150000035443",
+      "name": "Ірпінська міська громада",
+      "name_en": "Irpinska miska hromada",
+      "slug": "irpinska-miska-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080170000086616",
+      "name": "Коцюбинська селищна громада",
+      "name_en": "Kotsiubynska selyshchna hromada",
+      "slug": "kotsiubynska-selyshchna-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080190000081428",
+      "name": "Макарівська селищна громада",
+      "name_en": "Makarivska selyshchna hromada",
+      "slug": "makarivska-selyshchna-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080210000074136",
+      "name": "Немішаївська селищна громада",
+      "name_en": "Nemishaivska selyshchna hromada",
+      "slug": "nemishaivska-selyshchna-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32080230000026180",
+      "name": "Пісківська селищна громада",
+      "name_en": "Piskivska selyshchna hromada",
+      "slug": "piskivska-selyshchna-hromada",
+      "rayon_code": "UA32080000000084076",
+      "rayon_name": "Бучанський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100010000094393",
+      "name": "Вишгородська міська громада",
+      "name_en": "Vyshhorodska miska hromada",
+      "slug": "vyshhorodska-miska-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100030000066252",
+      "name": "Димерська селищна громада",
+      "name_en": "Dymerska selyshchna hromada",
+      "slug": "dymerska-selyshchna-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100050000082904",
+      "name": "Іванківська селищна громада",
+      "name_en": "Ivankivska selyshchna hromada",
+      "slug": "ivankivska-selyshchna-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100070000076283",
+      "name": "Петрівська сільська громада",
+      "name_en": "Petrivska silska hromada",
+      "slug": "petrivska-silska-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100090000060111",
+      "name": "Пірнівська сільська громада",
+      "name_en": "Pirnivska silska hromada",
+      "slug": "pirnivska-silska-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100110000030685",
+      "name": "Поліська селищна громада",
+      "name_en": "Poliska selyshchna hromada",
+      "slug": "poliska-selyshchna-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32100130000093505",
+      "name": "Славутицька міська громада",
+      "name_en": "Slavutytska miska hromada",
+      "slug": "slavutytska-miska-hromada",
+      "rayon_code": "UA32100000000065867",
+      "rayon_name": "Вишгородський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120010000062762",
+      "name": "Богуславська міська громада",
+      "name_en": "Bohuslavska miska hromada",
+      "slug": "bohuslavska-miska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120030000030458",
+      "name": "Васильківська міська громада",
+      "name_en": "Vasylkivska miska hromada",
+      "slug": "vasylkivska-miska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120050000067577",
+      "name": "Кагарлицька міська громада",
+      "name_en": "Kaharlytska miska hromada",
+      "slug": "kaharlytska-miska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120070000050717",
+      "name": "Козинська селищна громада",
+      "name_en": "Kozynska selyshchna hromada",
+      "slug": "kozynska-selyshchna-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120090000034281",
+      "name": "Миронівська міська громада",
+      "name_en": "Myronivska miska hromada",
+      "slug": "myronivska-miska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120130000012946",
+      "name": "Ржищівська міська громада",
+      "name_en": "Rzhyshchivska miska hromada",
+      "slug": "rzhyshchivska-miska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120150000062718",
+      "name": "Українська міська громада",
+      "name_en": "Ukrainska miska hromada",
+      "slug": "ukrainska-miska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120170000094084",
+      "name": "Ходосівська сільська рада",
+      "name_en": "Khodosivska silska rada",
+      "slug": "khodosivska-silska-rada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32120170000094084",
+      "name": "Феодосіївська сільська громада",
+      "name_en": "Feodosiivska silska hromada",
+      "slug": "feodosiivska-silska-hromada",
+      "rayon_code": "UA32120000000081110",
+      "rayon_name": "Обухівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140010000049369",
+      "name": "Бишівська сільська рада",
+      "name_en": "Byshivska silska rada",
+      "slug": "byshivska-silska-rada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140010000049369",
+      "name": "Бишівська сільська громада",
+      "name_en": "Byshivska silska hromada",
+      "slug": "byshivska-silska-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140030000074165",
+      "name": "Боярська міська громада",
+      "name_en": "Boiarska miska hromada",
+      "slug": "boiarska-miska-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140050000046018",
+      "name": "Гатненська сільська рада",
+      "name_en": "Hatnenska silska rada",
+      "slug": "hatnenska-silska-rada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140050000046018",
+      "name": "Гатненська сільська громада",
+      "name_en": "Hatnenska silska hromada",
+      "slug": "hatnenska-silska-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140070000012102",
+      "name": "Глеваська селищна громада",
+      "name_en": "Hlevaska selyshchna hromada",
+      "slug": "hlevaska-selyshchna-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140090000085800",
+      "name": "Калинівська селищна громада",
+      "name_en": "Kalynivska selyshchna hromada",
+      "slug": "kalynivska-selyshchna-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140110000089620",
+      "name": "Кожанська селищна громада",
+      "name_en": "Kozhanska selyshchna hromada",
+      "slug": "kozhanska-selyshchna-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140130000030648",
+      "name": "Томашівська сільська громада",
+      "name_en": "Tomashivska silska hromada",
+      "slug": "tomashivska-silska-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140150000040954",
+      "name": "Фастівська міська громада",
+      "name_en": "Fastivska miska hromada",
+      "slug": "fastivska-miska-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    },
+    {
+      "code": "UA32140170000038368",
+      "name": "Чабанівська селищна громада",
+      "name_en": "Chabanivska selyshchna hromada",
+      "slug": "chabanivska-selyshchna-hromada",
+      "rayon_code": "UA32140000000020217",
+      "rayon_name": "Фастівський район",
+      "oblast_id": 10,
+      "oblast_name": "Київська область",
+      "oblast_slug": "kyivska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Київської області - Безкоштовне завантаження",
+    "description": "Список 75 територіальних громад Київської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 75 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Київської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Київської області — 75 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 75 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

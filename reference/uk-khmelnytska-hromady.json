@@ -1,0 +1,786 @@
+{
+  "id": "uk-khmelnytska-hromady",
+  "name": "Територіальні громади Хмельницької області",
+  "title": "Територіальні громади Хмельницької області",
+  "description": "Список 65 територіальних громад Хмельницької області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA68020010000017180",
+      "name": "Гуківська сільська громада",
+      "name_en": "Hukivska silska hromada",
+      "slug": "hukivska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020030000032574",
+      "name": "Гуменецька сільська громада",
+      "name_en": "Humenetska silska hromada",
+      "slug": "humenetska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020050000040518",
+      "name": "Дунаєвецька міська громада",
+      "name_en": "Dunaievetska miska hromada",
+      "slug": "dunaievetska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020070000084437",
+      "name": "Жванецька сільська громада",
+      "name_en": "Zhvanetska silska hromada",
+      "slug": "zhvanetska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020090000037732",
+      "name": "Закупненська селищна громада",
+      "name_en": "Zakupnenska selyshchna hromada",
+      "slug": "zakupnenska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020110000071202",
+      "name": "Кам'янець-Подільська міська громада",
+      "name_en": "Kamyanets-Podilska miska hromada",
+      "slug": "kamyanets-podilska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020130000052994",
+      "name": "Китайгородська сільська громада",
+      "name_en": "Kytaihorodska silska hromada",
+      "slug": "kytaihorodska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020150000089666",
+      "name": "Маківська сільська громада",
+      "name_en": "Makivska silska hromada",
+      "slug": "makivska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020170000033495",
+      "name": "Новодунаєвецька селищна громада",
+      "name_en": "Novodunaievetska selyshchna hromada",
+      "slug": "novodunaievetska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020190000052031",
+      "name": "Новоушицька селищна об'єднана територіальна громада",
+      "name_en": "Novoushytska selyshchna obyednana terytorialna hromada",
+      "slug": "novoushytska-selyshchna-obyednana-terytorialna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020210000024765",
+      "name": "Орининська сільська громада",
+      "name_en": "Orynynska silska hromada",
+      "slug": "orynynska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020230000069135",
+      "name": "Слобідсько-Кульчієвецька сільська громада",
+      "name_en": "Slobidsko-Kulchiievetska silska hromada",
+      "slug": "slobidsko-kulchiievetska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020250000080044",
+      "name": "Смотрицька селищна громада",
+      "name_en": "Smotrytska selyshchna hromada",
+      "slug": "smotrytska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020270000040572",
+      "name": "Староушицька селищна громада",
+      "name_en": "Staroushytska selyshchna hromada",
+      "slug": "staroushytska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020290000026103",
+      "name": "Чемеровецька селищна громада",
+      "name_en": "Chemerovetska selyshchna hromada",
+      "slug": "chemerovetska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040010000025276",
+      "name": "Антонінська селищна громада",
+      "name_en": "Antoninska selyshchna hromada",
+      "slug": "antoninska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040030000027335",
+      "name": "Війтовецька селищна громада",
+      "name_en": "Viitovetska selyshchna hromada",
+      "slug": "viitovetska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040050000052367",
+      "name": "Віньковецька селищна громада",
+      "name_en": "Vinkovetska selyshchna hromada",
+      "slug": "vinkovetska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040070000035730",
+      "name": "Вовковинецька селищна громада",
+      "name_en": "Vovkovynetska selyshchna hromada",
+      "slug": "vovkovynetska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040090000087566",
+      "name": "Волочиська міська громада",
+      "name_en": "Volochyska miska hromada",
+      "slug": "volochyska-miska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040110000011931",
+      "name": "Гвардійська сільська громада",
+      "name_en": "Hvardiiska silska hromada",
+      "slug": "hvardiiska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040130000024471",
+      "name": "Городоцька міська громада",
+      "name_en": "Horodotska miska hromada",
+      "slug": "horodotska-miska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040150000077185",
+      "name": "Деражнянська міська громада",
+      "name_en": "Derazhnianska miska hromada",
+      "slug": "derazhnianska-miska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040170000061140",
+      "name": "Заслучненська сільська громада",
+      "name_en": "Zasluchnenska silska hromada",
+      "slug": "zasluchnenska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040190000021840",
+      "name": "Зіньківська сільська громада",
+      "name_en": "Zinkivska silska hromada",
+      "slug": "zinkivska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040210000089917",
+      "name": "Красилівська міська громада",
+      "name_en": "Krasylivska miska hromada",
+      "slug": "krasylivska-miska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040230000081901",
+      "name": "Летичівська селищна громада",
+      "name_en": "Letychivska selyshchna hromada",
+      "slug": "letychivska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040250000053378",
+      "name": "Лісовогринівецька сільська громада",
+      "name_en": "Lisovohrynivetska silska hromada",
+      "slug": "lisovohrynivetska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040250000053378",
+      "name": "Лісовогринівецька сільська рада",
+      "name_en": "Lisovohrynivetska silska rada",
+      "slug": "lisovohrynivetska-silska-rada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040270000072985",
+      "name": "Меджибізька селищна громада",
+      "name_en": "Medzhybizka selyshchna hromada",
+      "slug": "medzhybizka-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040290000010822",
+      "name": "Миролюбненська сільська рада",
+      "name_en": "Myroliubnenska silska rada",
+      "slug": "myroliubnenska-silska-rada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040290000010822",
+      "name": "Миролюбненська сільська громада",
+      "name_en": "Myroliubnenska silska hromada",
+      "slug": "myroliubnenska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040310000052042",
+      "name": "Наркевицька селищна громада",
+      "name_en": "Narkevytska selyshchna hromada",
+      "slug": "narkevytska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040330000086970",
+      "name": "Розсошанська сільська громада",
+      "name_en": "Rozsoshanska silska hromada",
+      "slug": "rozsoshanska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040350000083350",
+      "name": "Сатанівська селищна громада",
+      "name_en": "Satanivska selyshchna hromada",
+      "slug": "satanivska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040370000082743",
+      "name": "Солобковецька сільська громада",
+      "name_en": "Solobkovetska silska hromada",
+      "slug": "solobkovetska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040390000011141",
+      "name": "Старокостянтинівська міська громада",
+      "name_en": "Starokostiantynivska miska hromada",
+      "slug": "starokostiantynivska-miska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040410000062890",
+      "name": "Староостропільська сільська громада",
+      "name_en": "Staroostropilska silska hromada",
+      "slug": "staroostropilska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040430000052699",
+      "name": "Старосинявська селищна громада",
+      "name_en": "Starosyniavska selyshchna hromada",
+      "slug": "starosyniavska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040450000097735",
+      "name": "Теофіпольська селищна громада",
+      "name_en": "Teofipolska selyshchna hromada",
+      "slug": "teofipolska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040470000053519",
+      "name": "Хмельницька міська громада",
+      "name_en": "Khmelnytska miska hromada",
+      "slug": "khmelnytska-miska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040490000093353",
+      "name": "Чорноострівська селищна громада",
+      "name_en": "Chornoostrivska selyshchna hromada",
+      "slug": "chornoostrivska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040510000019366",
+      "name": "Щиборівська сільська громада",
+      "name_en": "Shchyborivska silska hromada",
+      "slug": "shchyborivska-silska-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040530000044109",
+      "name": "Ярмолинецька селищна громада",
+      "name_en": "Yarmolynetska selyshchna hromada",
+      "slug": "yarmolynetska-selyshchna-hromada",
+      "rayon_code": "UA68040000000086061",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060010000056690",
+      "name": "Берездівська сільська рада",
+      "name_en": "Berezdivska silska rada",
+      "slug": "berezdivska-silska-rada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060010000056690",
+      "name": "Берездівська сільська громада",
+      "name_en": "Berezdivska silska hromada",
+      "slug": "berezdivska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060030000077318",
+      "name": "Білогірська селищна громада",
+      "name_en": "Bilohirska selyshchna hromada",
+      "slug": "bilohirska-selyshchna-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060050000037587",
+      "name": "Ганнопільська сільська громада",
+      "name_en": "Hannopilska silska hromada",
+      "slug": "hannopilska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060070000048275",
+      "name": "Грицівська селищна громада",
+      "name_en": "Hrytsivska selyshchna hromada",
+      "slug": "hrytsivska-selyshchna-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060090000093924",
+      "name": "Ізяславська міська громада",
+      "name_en": "Iziaslavska miska hromada",
+      "slug": "iziaslavska-miska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060110000046608",
+      "name": "Крупецька сільська громада",
+      "name_en": "Krupetska silska hromada",
+      "slug": "krupetska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060130000034298",
+      "name": "Ленковецька сільська об'єднана територіальна громада",
+      "name_en": "Lenkovetska silska obyednana terytorialna hromada",
+      "slug": "lenkovetska-silska-obyednana-terytorialna-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060150000029549",
+      "name": "Михайлюцька сільська громада",
+      "name_en": "Mykhailiutska silska hromada",
+      "slug": "mykhailiutska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060170000075276",
+      "name": "Нетішинська міська громада",
+      "name_en": "Netishynska miska hromada",
+      "slug": "netishynska-miska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060190000075749",
+      "name": "Плужненська сільська рада",
+      "name_en": "Pluzhnenska silska rada",
+      "slug": "pluzhnenska-silska-rada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060190000075749",
+      "name": "Плужненська сільська громада",
+      "name_en": "Pluzhnenska silska hromada",
+      "slug": "pluzhnenska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060210000095851",
+      "name": "Полонська міська громада",
+      "name_en": "Polonska miska hromada",
+      "slug": "polonska-miska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060230000028195",
+      "name": "Понінківська селищна громада",
+      "name_en": "Poninkivska selyshchna hromada",
+      "slug": "poninkivska-selyshchna-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060250000078635",
+      "name": "Сахновецька сільська громада",
+      "name_en": "Sakhnovetska silska hromada",
+      "slug": "sakhnovetska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060270000042174",
+      "name": "Славутська міська громада",
+      "name_en": "Slavutska miska hromada",
+      "slug": "slavutska-miska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060290000039941",
+      "name": "Судилківська сільська громада",
+      "name_en": "Sudylkivska silska hromada",
+      "slug": "sudylkivska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060310000022172",
+      "name": "Улашанівська сільська рада (Славутський район)",
+      "name_en": "Ulashanivska silska rada (Slavutskyi raion)",
+      "slug": "ulashanivska-silska-rada-slavutskyi-raion",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060310000022172",
+      "name": "Улашанівська сільська громада",
+      "name_en": "Ulashanivska silska hromada",
+      "slug": "ulashanivska-silska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060330000029010",
+      "name": "Шепетівська міська громада",
+      "name_en": "Shepetivska miska hromada",
+      "slug": "shepetivska-miska-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060350000035460",
+      "name": "Ямпільська селищна громада",
+      "name_en": "Yampilska selyshchna hromada",
+      "slug": "yampilska-selyshchna-hromada",
+      "rayon_code": "UA68060000000040570",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Хмельницької області - Безкоштовне завантаження",
+    "description": "Список 65 територіальних громад Хмельницької області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 65 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Хмельницької області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Хмельницької області — 65 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 65 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

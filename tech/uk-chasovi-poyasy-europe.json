@@ -1,0 +1,520 @@
+{
+  "id": "uk-chasovi-poyasy-europe",
+  "name": "Часові пояси — Europe (58)",
+  "title": "Часові пояси — Europe (58)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Europe/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Amsterdam",
+      "rehion": "Europe",
+      "misto": "Амстердам",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Andorra",
+      "rehion": "Europe",
+      "misto": "Андорра",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Astrakhan",
+      "rehion": "Europe",
+      "misto": "Астрахань",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Athens",
+      "rehion": "Europe",
+      "misto": "Афіни",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Belgrade",
+      "rehion": "Europe",
+      "misto": "Белград",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Berlin",
+      "rehion": "Europe",
+      "misto": "Берлін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Bratislava",
+      "rehion": "Europe",
+      "misto": "Братислава",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Brussels",
+      "rehion": "Europe",
+      "misto": "Брюссель",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Bucharest",
+      "rehion": "Europe",
+      "misto": "Бухарест",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Budapest",
+      "rehion": "Europe",
+      "misto": "Будапешт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Busingen",
+      "rehion": "Europe",
+      "misto": "Бюзінген",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Chisinau",
+      "rehion": "Europe",
+      "misto": "Кишинів",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Copenhagen",
+      "rehion": "Europe",
+      "misto": "Копенгаген",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Dublin",
+      "rehion": "Europe",
+      "misto": "Дублін",
+      "standartna_nazva": "",
+      "litnia_nazva": "за літнім часом в Ірландії"
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Gibraltar",
+      "rehion": "Europe",
+      "misto": "Гібралтар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Guernsey",
+      "rehion": "Europe",
+      "misto": "Гернсі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Helsinki",
+      "rehion": "Europe",
+      "misto": "Гельсінкі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Isle_of_Man",
+      "rehion": "Europe",
+      "misto": "Острів Мен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Istanbul",
+      "rehion": "Europe",
+      "misto": "Стамбул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Jersey",
+      "rehion": "Europe",
+      "misto": "Джерсі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Kaliningrad",
+      "rehion": "Europe",
+      "misto": "Калінінград",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Kiev",
+      "rehion": "Europe",
+      "misto": "Київ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Kirov",
+      "rehion": "Europe",
+      "misto": "Кіров",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Lisbon",
+      "rehion": "Europe",
+      "misto": "Лісабон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Ljubljana",
+      "rehion": "Europe",
+      "misto": "Любляна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/London",
+      "rehion": "Europe",
+      "misto": "Лондон",
+      "standartna_nazva": "",
+      "litnia_nazva": "за літнім часом у Великій Британії"
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Luxembourg",
+      "rehion": "Europe",
+      "misto": "Люксембург",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Madrid",
+      "rehion": "Europe",
+      "misto": "Мадрид",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Malta",
+      "rehion": "Europe",
+      "misto": "Мальта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Mariehamn",
+      "rehion": "Europe",
+      "misto": "Марієгамн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Minsk",
+      "rehion": "Europe",
+      "misto": "Мінськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Europe/Monaco",
+      "rehion": "Europe",
+      "misto": "Монако",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Europe/Moscow",
+      "rehion": "Europe",
+      "misto": "Москва",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Europe/Oslo",
+      "rehion": "Europe",
+      "misto": "Осло",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Europe/Paris",
+      "rehion": "Europe",
+      "misto": "Париж",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Europe/Podgorica",
+      "rehion": "Europe",
+      "misto": "Подгориця",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Europe/Prague",
+      "rehion": "Europe",
+      "misto": "Прага",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Europe/Riga",
+      "rehion": "Europe",
+      "misto": "Рига",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Europe/Rome",
+      "rehion": "Europe",
+      "misto": "Рим",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Europe/Samara",
+      "rehion": "Europe",
+      "misto": "Самара",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Europe/San_Marino",
+      "rehion": "Europe",
+      "misto": "Сан-Марино",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Europe/Sarajevo",
+      "rehion": "Europe",
+      "misto": "Сараєво",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Europe/Saratov",
+      "rehion": "Europe",
+      "misto": "Саратов",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Europe/Simferopol",
+      "rehion": "Europe",
+      "misto": "Сімферополь",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Europe/Skopje",
+      "rehion": "Europe",
+      "misto": "Скопʼє",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Europe/Sofia",
+      "rehion": "Europe",
+      "misto": "Софія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Europe/Stockholm",
+      "rehion": "Europe",
+      "misto": "Стокгольм",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Europe/Tallinn",
+      "rehion": "Europe",
+      "misto": "Таллінн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Europe/Tirane",
+      "rehion": "Europe",
+      "misto": "Тирана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Europe/Ulyanovsk",
+      "rehion": "Europe",
+      "misto": "Ульянівськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Europe/Vaduz",
+      "rehion": "Europe",
+      "misto": "Вадуц",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Europe/Vatican",
+      "rehion": "Europe",
+      "misto": "Ватикан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Europe/Vienna",
+      "rehion": "Europe",
+      "misto": "Відень",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Europe/Vilnius",
+      "rehion": "Europe",
+      "misto": "Вільнюс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Europe/Volgograd",
+      "rehion": "Europe",
+      "misto": "Волгоград",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Europe/Warsaw",
+      "rehion": "Europe",
+      "misto": "Варшава",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Europe/Zagreb",
+      "rehion": "Europe",
+      "misto": "Загреб",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Europe/Zurich",
+      "rehion": "Europe",
+      "misto": "Цюріх",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Europe (58) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Europe/', з назвами українською. Містить 58 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Europe (58) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Europe (58) — 58 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 58 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

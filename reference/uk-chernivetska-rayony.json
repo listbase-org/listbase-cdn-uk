@@ -1,0 +1,96 @@
+{
+  "id": "uk-chernivetska-rayony",
+  "name": "Райони Чернівецької області",
+  "title": "Райони Чернівецької області",
+  "description": "Список усіх 3 районів Чернівецької області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA73020000000038148",
+      "name": "Вижницький район",
+      "name_en": "Vyzhnytskyi raion",
+      "slug": "vyzhnytskyi-raion",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska",
+      "parent_code": "UA73000000000044923"
+    },
+    {
+      "code": "UA73040000000031528",
+      "name": "Дністровський район",
+      "name_en": "Dnistrovskyi raion",
+      "slug": "dnistrovskyi-raion",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska",
+      "parent_code": "UA73000000000044923"
+    },
+    {
+      "code": "UA73060000000061247",
+      "name": "Чернівецький район",
+      "name_en": "Chernivetskyi raion",
+      "slug": "chernivetskyi-raion",
+      "oblast_id": 24,
+      "oblast_name": "Чернівецька область",
+      "oblast_slug": "chernivetska",
+      "parent_code": "UA73000000000044923"
+    }
+  ],
+  "meta": {
+    "title": "Райони Чернівецької області - Безкоштовне завантаження",
+    "description": "Список усіх 3 районів Чернівецької області згідно з КАТОТТГ (реформа 2020 року). Містить 3 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Чернівецької області | ListBase",
+    "seo_description": "Завантажити Райони Чернівецької області — 3 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 3 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

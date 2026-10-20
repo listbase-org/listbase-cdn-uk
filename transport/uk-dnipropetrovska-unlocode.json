@@ -1,0 +1,313 @@
+{
+  "id": "uk-dnipropetrovska-unlocode",
+  "name": "Коди UN/LOCODE — Дніпропетровська область",
+  "title": "Коди UN/LOCODE — Дніпропетровська область",
+  "description": "Коди UN/LOCODE у межах адміністративної одиниці «Дніпропетровська область» (Dnipropetrovsk Oblast, UA-12), 6 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (5), Rail transport (2), Air transport (airport) (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 12); all fields carried verbatim from the parent, nothing translated or recomputed.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_iso_3166_2",
+      "label": "Oblast Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "unlocode_subdivision_name",
+      "label": "Unlocode Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 45,
+      "oblast_uk": "Дніпропетровська область",
+      "oblast_en": "Dnipropetrovsk Oblast",
+      "oblast_slug": "dnipropetrovska",
+      "oblast_iso_3166_2": "UA-12",
+      "unlocode_subdivision_name": "Dnipropetrovska oblast",
+      "locode": "UADNK",
+      "country": "UA",
+      "location": "DNK",
+      "name": "Dnipro",
+      "name_wo_diacritics": "Dnipro",
+      "subdivision_code": "12",
+      "subdivision_name": "Dnipropetrovska oblast",
+      "subdivision_type": "Region",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "-2-4----",
+      "functions": "Rail transport, Air transport (airport)",
+      "iata": "",
+      "coordinates": "4827N 03459E",
+      "latitude": 48.45,
+      "longitude": 34.9833,
+      "date_updated": "2020-07",
+      "remarks": ""
+    },
+    {
+      "id": 2,
+      "parent_index": 48,
+      "oblast_uk": "Дніпропетровська область",
+      "oblast_en": "Dnipropetrovsk Oblast",
+      "oblast_slug": "dnipropetrovska",
+      "oblast_iso_3166_2": "UA-12",
+      "unlocode_subdivision_name": "Dnipropetrovska oblast",
+      "locode": "UADPS",
+      "country": "UA",
+      "location": "DPS",
+      "name": "Dniprovs'Ke",
+      "name_wo_diacritics": "Dniprovs'Ke",
+      "subdivision_code": "12",
+      "subdivision_name": "Dnipropetrovska oblast",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4836N 03425E",
+      "latitude": 48.6,
+      "longitude": 34.4167,
+      "date_updated": "2022-01",
+      "remarks": ""
+    },
+    {
+      "id": 3,
+      "parent_index": 51,
+      "oblast_uk": "Дніпропетровська область",
+      "oblast_en": "Dnipropetrovsk Oblast",
+      "oblast_slug": "dnipropetrovska",
+      "oblast_iso_3166_2": "UA-12",
+      "unlocode_subdivision_name": "Dnipropetrovska oblast",
+      "locode": "UADZK",
+      "country": "UA",
+      "location": "DZK",
+      "name": "Kamianske",
+      "name_wo_diacritics": "Kamianske",
+      "subdivision_code": "12",
+      "subdivision_name": "Dnipropetrovska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4830N 03437E",
+      "latitude": 48.5,
+      "longitude": 34.6167,
+      "date_updated": "2017-01",
+      "remarks": ""
+    },
+    {
+      "id": 4,
+      "parent_index": 137,
+      "oblast_uk": "Дніпропетровська область",
+      "oblast_en": "Dnipropetrovsk Oblast",
+      "oblast_slug": "dnipropetrovska",
+      "oblast_iso_3166_2": "UA-12",
+      "unlocode_subdivision_name": "Dnipropetrovska oblast",
+      "locode": "UANMK",
+      "country": "UA",
+      "location": "NMK",
+      "name": "Novomoskovsk",
+      "name_wo_diacritics": "Novomoskovsk",
+      "subdivision_code": "12",
+      "subdivision_name": "Dnipropetrovska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4837N 03512E",
+      "latitude": 48.6167,
+      "longitude": 35.2,
+      "date_updated": "2012-07",
+      "remarks": ""
+    },
+    {
+      "id": 5,
+      "parent_index": 152,
+      "oblast_uk": "Дніпропетровська область",
+      "oblast_en": "Dnipropetrovsk Oblast",
+      "oblast_slug": "dnipropetrovska",
+      "oblast_iso_3166_2": "UA-12",
+      "unlocode_subdivision_name": "Dnipropetrovska oblast",
+      "locode": "UAPAH",
+      "country": "UA",
+      "location": "PAH",
+      "name": "Pavlohrad",
+      "name_wo_diacritics": "Pavlohrad",
+      "subdivision_code": "12",
+      "subdivision_name": "Dnipropetrovska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4831N 03552E",
+      "latitude": 48.5167,
+      "longitude": 35.8667,
+      "date_updated": "2002-12",
+      "remarks": ""
+    },
+    {
+      "id": 6,
+      "parent_index": 163,
+      "oblast_uk": "Дніпропетровська область",
+      "oblast_en": "Dnipropetrovsk Oblast",
+      "oblast_slug": "dnipropetrovska",
+      "oblast_iso_3166_2": "UA-12",
+      "unlocode_subdivision_name": "Dnipropetrovska oblast",
+      "locode": "UAPOL",
+      "country": "UA",
+      "location": "POL",
+      "name": "Nikopol",
+      "name_wo_diacritics": "Nikopol",
+      "subdivision_code": "12",
+      "subdivision_name": "Dnipropetrovska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4734N 03423E",
+      "latitude": 47.5667,
+      "longitude": 34.3833,
+      "date_updated": "2022-07",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Коди UN/LOCODE — Дніпропетровська область - Безкоштовне завантаження",
+    "description": "Коди UN/LOCODE у межах адміністративної одиниці «Дніпропетровська область» (Dnipropetrovsk Oblast, UA-12), 6 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (5), Rail transport (2), Air transport (airport) (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 12); all fields carried verbatim from the parent, nothing translated or recomputed. Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Коди UN/LOCODE — Дніпропетровська область | ListBase",
+    "seo_description": "Завантажити Коди UN/LOCODE — Дніпропетровська область — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 25 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

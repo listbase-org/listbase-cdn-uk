@@ -1,0 +1,211 @@
+{
+  "id": "uk-mykolaivska-mista",
+  "name": "Міста Миколаївської області",
+  "title": "Міста Миколаївської області",
+  "description": "Список 8 міст Миколаївської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA48020010010072548",
+      "name": "Баштанка",
+      "name_en": "Bashtanka",
+      "slug": "bashtanka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48020010000091496",
+      "hromada_name": "Баштанська міська громада",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020150010063715",
+      "name": "Новий Буг",
+      "name_en": "Novyi Buh",
+      "slug": "novyi-buh",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48020150000051082",
+      "hromada_name": "Новобузька міська громада",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48020190010089719",
+      "name": "Снігурівка",
+      "name_en": "Snihurivka",
+      "slug": "snihurivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48020190000083597",
+      "hromada_name": "Снігурівська міська громада",
+      "rayon_name": "Баштанський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040070010053688",
+      "name": "Вознесенськ",
+      "name_en": "Voznesensk",
+      "slug": "voznesensk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48040250010045068",
+      "name": "Південноукраїнськ",
+      "name_en": "Pivdennoukrainsk",
+      "slug": "pivdennoukrainsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48040250000044166",
+      "hromada_name": "Південноукраїнська міська громада",
+      "rayon_name": "Вознесенський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060210010099689",
+      "name": "Нова Одеса",
+      "name_en": "Nova Odesa",
+      "slug": "nova-odesa",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48060210000081533",
+      "hromada_name": "Новоодеська міська громада",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48060250010045389",
+      "name": "Очаків",
+      "name_en": "Ochakiv",
+      "slug": "ochakiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48060250000061313",
+      "hromada_name": "Очаківська міська громада",
+      "rayon_name": "Миколаївський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    },
+    {
+      "code": "UA48080130010068596",
+      "name": "Первомайськ",
+      "name_en": "Pervomaisk",
+      "slug": "pervomaisk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA48080130000028458",
+      "hromada_name": "Первомайська міська громада",
+      "rayon_name": "Первомайський район",
+      "oblast_id": 14,
+      "oblast_name": "Миколаївська область",
+      "oblast_slug": "mykolaivska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Миколаївської області - Безкоштовне завантаження",
+    "description": "Список 8 міст Миколаївської області (категорія М у КАТОТТГ). Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Миколаївської області | ListBase",
+    "seo_description": "Завантажити Міста Миколаївської області — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

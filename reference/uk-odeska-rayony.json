@@ -1,0 +1,136 @@
+{
+  "id": "uk-odeska-rayony",
+  "name": "Райони Одеської області",
+  "title": "Райони Одеської області",
+  "description": "Список усіх 7 районів Одеської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA51020000000097683",
+      "name": "Березівський район",
+      "name_en": "Berezivskyi raion",
+      "slug": "berezivskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    },
+    {
+      "code": "UA51040000000032911",
+      "name": "Білгород-Дністровський район",
+      "name_en": "Bilhorod-Dnistrovskyi raion",
+      "slug": "bilhorod-dnistrovskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    },
+    {
+      "code": "UA51060000000057808",
+      "name": "Болградський район",
+      "name_en": "Bolhradskyi raion",
+      "slug": "bolhradskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    },
+    {
+      "code": "UA51080000000061776",
+      "name": "Ізмаїльський район",
+      "name_en": "Izmailskyi raion",
+      "slug": "izmailskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    },
+    {
+      "code": "UA51100000000095786",
+      "name": "Одеський район",
+      "name_en": "Odeskyi raion",
+      "slug": "odeskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    },
+    {
+      "code": "UA51120000000021678",
+      "name": "Подільський район",
+      "name_en": "Podilskyi raion",
+      "slug": "podilskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    },
+    {
+      "code": "UA51140000000094970",
+      "name": "Роздільнянський район",
+      "name_en": "Rozdilnianskyi raion",
+      "slug": "rozdilnianskyi-raion",
+      "oblast_id": 15,
+      "oblast_name": "Одеська область",
+      "oblast_slug": "odeska",
+      "parent_code": "UA51000000000030770"
+    }
+  ],
+  "meta": {
+    "title": "Райони Одеської області - Безкоштовне завантаження",
+    "description": "Список усіх 7 районів Одеської області згідно з КАТОТТГ (реформа 2020 року). Містить 7 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Одеської області | ListBase",
+    "seo_description": "Завантажити Райони Одеської області — 7 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 7 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "id": "uk-chasovi-poyasy-africa",
+  "name": "Часові пояси — Africa (52)",
+  "title": "Часові пояси — Africa (52)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Africa/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "rehion": "Africa",
+      "misto": "Абіджан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "rehion": "Africa",
+      "misto": "Аккра",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "rehion": "Africa",
+      "misto": "Аддис-Абеба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "rehion": "Africa",
+      "misto": "Алжир",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "rehion": "Africa",
+      "misto": "Асмера",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bamako",
+      "rehion": "Africa",
+      "misto": "Бамако",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Bangui",
+      "rehion": "Africa",
+      "misto": "Банґі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Banjul",
+      "rehion": "Africa",
+      "misto": "Банжул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Bissau",
+      "rehion": "Africa",
+      "misto": "Бісау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Blantyre",
+      "rehion": "Africa",
+      "misto": "Блантайр",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Brazzaville",
+      "rehion": "Africa",
+      "misto": "Браззавіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Bujumbura",
+      "rehion": "Africa",
+      "misto": "Бужумбура",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Cairo",
+      "rehion": "Africa",
+      "misto": "Каїр",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Casablanca",
+      "rehion": "Africa",
+      "misto": "Касабланка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Ceuta",
+      "rehion": "Africa",
+      "misto": "Сеута",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Conakry",
+      "rehion": "Africa",
+      "misto": "Конакрі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Dakar",
+      "rehion": "Africa",
+      "misto": "Дакар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "rehion": "Africa",
+      "misto": "Дар-ес-Салам",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Djibouti",
+      "rehion": "Africa",
+      "misto": "Джібуті",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Douala",
+      "rehion": "Africa",
+      "misto": "Дуала",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/El_Aaiun",
+      "rehion": "Africa",
+      "misto": "Ель-Аюн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Freetown",
+      "rehion": "Africa",
+      "misto": "Фрітаун",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Gaborone",
+      "rehion": "Africa",
+      "misto": "Ґабороне",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Africa/Harare",
+      "rehion": "Africa",
+      "misto": "Хараре",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Africa/Johannesburg",
+      "rehion": "Africa",
+      "misto": "Йоганнесбурґ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Africa/Juba",
+      "rehion": "Africa",
+      "misto": "Джуба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Africa/Kampala",
+      "rehion": "Africa",
+      "misto": "Кампала",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Africa/Khartoum",
+      "rehion": "Africa",
+      "misto": "Хартум",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Africa/Kigali",
+      "rehion": "Africa",
+      "misto": "Кігалі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Africa/Kinshasa",
+      "rehion": "Africa",
+      "misto": "Кіншаса",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Africa/Lagos",
+      "rehion": "Africa",
+      "misto": "Лаґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Africa/Libreville",
+      "rehion": "Africa",
+      "misto": "Лібревіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Africa/Lome",
+      "rehion": "Africa",
+      "misto": "Ломе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Africa/Luanda",
+      "rehion": "Africa",
+      "misto": "Луанда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Africa/Lubumbashi",
+      "rehion": "Africa",
+      "misto": "Лубумбаші",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Africa/Lusaka",
+      "rehion": "Africa",
+      "misto": "Лусака",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Africa/Malabo",
+      "rehion": "Africa",
+      "misto": "Малабо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Africa/Maputo",
+      "rehion": "Africa",
+      "misto": "Мапуту",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Africa/Maseru",
+      "rehion": "Africa",
+      "misto": "Масеру",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Africa/Mbabane",
+      "rehion": "Africa",
+      "misto": "Мбабане",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Africa/Mogadishu",
+      "rehion": "Africa",
+      "misto": "Моґадішо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Africa/Monrovia",
+      "rehion": "Africa",
+      "misto": "Монровія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Africa/Nairobi",
+      "rehion": "Africa",
+      "misto": "Найробі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Africa/Ndjamena",
+      "rehion": "Africa",
+      "misto": "Нджамена",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Africa/Niamey",
+      "rehion": "Africa",
+      "misto": "Ніамей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Africa/Nouakchott",
+      "rehion": "Africa",
+      "misto": "Нуакшотт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Africa/Ouagadougou",
+      "rehion": "Africa",
+      "misto": "Уаґадуґу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Africa/Porto-Novo",
+      "rehion": "Africa",
+      "misto": "Порто-Ново",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Africa/Sao_Tome",
+      "rehion": "Africa",
+      "misto": "Сан-Томе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Africa/Tripoli",
+      "rehion": "Africa",
+      "misto": "Триполі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Africa/Tunis",
+      "rehion": "Africa",
+      "misto": "Туніс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Africa/Windhoek",
+      "rehion": "Africa",
+      "misto": "Віндгук",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Africa (52) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Africa/', з назвами українською. Містить 52 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Africa (52) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Africa (52) — 52 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 52 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

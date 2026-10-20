@@ -1,0 +1,286 @@
+{
+  "id": "uk-khmelnytska-mista",
+  "name": "Міста Хмельницької області",
+  "title": "Міста Хмельницької області",
+  "description": "Список 13 міст Хмельницької області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA68020050010075833",
+      "name": "Дунаївці",
+      "name_en": "Dunaivtsi",
+      "slug": "dunaivtsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68020050000040518",
+      "hromada_name": "Дунаєвецька міська громада",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68020110010097898",
+      "name": "Кам'янець-Подільський",
+      "name_en": "Kamyanets-Podilskyi",
+      "slug": "kamyanets-podilskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68020110000071202",
+      "hromada_name": "Кам'янець-Подільська міська громада",
+      "rayon_name": "",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040090010095929",
+      "name": "Волочиськ",
+      "name_en": "Volochysk",
+      "slug": "volochysk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68040090000087566",
+      "hromada_name": "Волочиська міська громада",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040130010039416",
+      "name": "Городок",
+      "name_en": "Horodok",
+      "slug": "horodok",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68040130000024471",
+      "hromada_name": "Городоцька міська громада",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040150010024820",
+      "name": "Деражня",
+      "name_en": "Derazhnia",
+      "slug": "derazhnia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68040150000077185",
+      "hromada_name": "Деражнянська міська громада",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040210010032567",
+      "name": "Красилів",
+      "name_en": "Krasyliv",
+      "slug": "krasyliv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68040210000089917",
+      "hromada_name": "Красилівська міська громада",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040390010084208",
+      "name": "Старокостянтинів",
+      "name_en": "Starokostiantyniv",
+      "slug": "starokostiantyniv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68040390000011141",
+      "hromada_name": "Старокостянтинівська міська громада",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68040470010096613",
+      "name": "Хмельницький",
+      "name_en": "Khmelnytskyi",
+      "slug": "khmelnytskyi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68040470000053519",
+      "hromada_name": "Хмельницька міська громада",
+      "rayon_name": "Хмельницький район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060090010061527",
+      "name": "Ізяслав",
+      "name_en": "Iziaslav",
+      "slug": "iziaslav",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68060090000093924",
+      "hromada_name": "Ізяславська міська громада",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060170010043609",
+      "name": "Нетішин",
+      "name_en": "Netishyn",
+      "slug": "netishyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68060170000075276",
+      "hromada_name": "Нетішинська міська громада",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060210010068447",
+      "name": "Полонне",
+      "name_en": "Polonne",
+      "slug": "polonne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68060210000095851",
+      "hromada_name": "Полонська міська громада",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060270010040268",
+      "name": "Славута",
+      "name_en": "Slavuta",
+      "slug": "slavuta",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68060270000042174",
+      "hromada_name": "Славутська міська громада",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    },
+    {
+      "code": "UA68060330010023704",
+      "name": "Шепетівка",
+      "name_en": "Shepetivka",
+      "slug": "shepetivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA68060330000029010",
+      "hromada_name": "Шепетівська міська громада",
+      "rayon_name": "Шепетівський район",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Хмельницької області - Безкоштовне завантаження",
+    "description": "Список 13 міст Хмельницької області (категорія М у КАТОТТГ). Містить 13 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Хмельницької області | ListBase",
+    "seo_description": "Завантажити Міста Хмельницької області — 13 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 13 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

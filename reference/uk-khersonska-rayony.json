@@ -1,0 +1,116 @@
+{
+  "id": "uk-khersonska-rayony",
+  "name": "Райони Херсонської області",
+  "title": "Райони Херсонської області",
+  "description": "Список усіх 5 районів Херсонської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA65020000000032929",
+      "name": "Бериславський район",
+      "name_en": "Beryslavskyi raion",
+      "slug": "beryslavskyi-raion",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska",
+      "parent_code": "UA65000000000030969"
+    },
+    {
+      "code": "UA65040000000088940",
+      "name": "Генічеський район",
+      "name_en": "Henicheskyi raion",
+      "slug": "henicheskyi-raion",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska",
+      "parent_code": "UA65000000000030969"
+    },
+    {
+      "code": "UA65060000000061947",
+      "name": "Каховський район",
+      "name_en": "Kakhovskyi raion",
+      "slug": "kakhovskyi-raion",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska",
+      "parent_code": "UA65000000000030969"
+    },
+    {
+      "code": "UA65080000000090947",
+      "name": "Скадовський район",
+      "name_en": "Skadovskyi raion",
+      "slug": "skadovskyi-raion",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska",
+      "parent_code": "UA65000000000030969"
+    },
+    {
+      "code": "UA65100000000029736",
+      "name": "Херсонський район",
+      "name_en": "Khersonskyi raion",
+      "slug": "khersonskyi-raion",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska",
+      "parent_code": "UA65000000000030969"
+    }
+  ],
+  "meta": {
+    "title": "Райони Херсонської області - Безкоштовне завантаження",
+    "description": "Список усіх 5 районів Херсонської області згідно з КАТОТТГ (реформа 2020 року). Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Херсонської області | ListBase",
+    "seo_description": "Завантажити Райони Херсонської області — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

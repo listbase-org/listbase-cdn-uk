@@ -1,0 +1,367 @@
+{
+  "id": "uk-zhytomyrska-unlocode",
+  "name": "Коди UN/LOCODE — Житомирська область",
+  "title": "Коди UN/LOCODE — Житомирська область",
+  "description": "Коди UN/LOCODE у межах адміністративної одиниці «Житомирська область» (Zhytomyr Oblast, UA-18), 8 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (6), Multimodal transport facility (2), Rail transport (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 18); all fields carried verbatim from the parent, nothing translated or recomputed.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_iso_3166_2",
+      "label": "Oblast Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "unlocode_subdivision_name",
+      "label": "Unlocode Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 11,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UABDV",
+      "country": "UA",
+      "location": "BDV",
+      "name": "Berdychiv",
+      "name_wo_diacritics": "Berdychiv",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4954N 02835E",
+      "latitude": 49.9,
+      "longitude": 28.5833,
+      "date_updated": "2012-07",
+      "remarks": ""
+    },
+    {
+      "id": 2,
+      "parent_index": 102,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UAKRT",
+      "country": "UA",
+      "location": "KRT",
+      "name": "Korosten'",
+      "name_wo_diacritics": "Korosten'",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "5057N 02838E",
+      "latitude": 50.95,
+      "longitude": 28.6333,
+      "date_updated": "2012-07",
+      "remarks": ""
+    },
+    {
+      "id": 3,
+      "parent_index": 128,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UAMLN",
+      "country": "UA",
+      "location": "MLN",
+      "name": "Malin",
+      "name_wo_diacritics": "Malin",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5046N 02914E",
+      "latitude": 50.7667,
+      "longitude": 29.2333,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 4,
+      "parent_index": 147,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UAOLK",
+      "country": "UA",
+      "location": "OLK",
+      "name": "Olevsk",
+      "name_wo_diacritics": "Olevsk",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5131N 02738E",
+      "latitude": 51.5167,
+      "longitude": 27.6333,
+      "date_updated": "2002-07",
+      "remarks": ""
+    },
+    {
+      "id": 5,
+      "parent_index": 150,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UAOVR",
+      "country": "UA",
+      "location": "OVR",
+      "name": "Ovruch",
+      "name_wo_diacritics": "Ovruch",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5119N 02848E",
+      "latitude": 51.3167,
+      "longitude": 28.8,
+      "date_updated": "2013-01",
+      "remarks": ""
+    },
+    {
+      "id": 6,
+      "parent_index": 185,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UASLY",
+      "country": "UA",
+      "location": "SLY",
+      "name": "Susly",
+      "name_wo_diacritics": "Susly",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "AA",
+      "status_description": "Approved by competent national government agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "5033N 02737E",
+      "latitude": 50.55,
+      "longitude": 27.6167,
+      "date_updated": "2017-07",
+      "remarks": ""
+    },
+    {
+      "id": 7,
+      "parent_index": 248,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UAZKC",
+      "country": "UA",
+      "location": "ZKC",
+      "name": "Zhytomyr",
+      "name_wo_diacritics": "Zhytomyr",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5015N 02840E",
+      "latitude": 50.25,
+      "longitude": 28.6667,
+      "date_updated": "2009-01",
+      "remarks": ""
+    },
+    {
+      "id": 8,
+      "parent_index": 267,
+      "oblast_uk": "Житомирська область",
+      "oblast_en": "Zhytomyr Oblast",
+      "oblast_slug": "zhytomyrska",
+      "oblast_iso_3166_2": "UA-18",
+      "unlocode_subdivision_name": "Zhytomyrska oblast",
+      "locode": "UAZUO",
+      "country": "UA",
+      "location": "ZUO",
+      "name": "Korostyshiv",
+      "name_wo_diacritics": "Korostyshiv",
+      "subdivision_code": "18",
+      "subdivision_name": "Zhytomyrska oblast",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "5019N 02904E",
+      "latitude": 50.3167,
+      "longitude": 29.0667,
+      "date_updated": "2009-01",
+      "remarks": ""
+    }
+  ],
+  "meta": {
+    "title": "Коди UN/LOCODE — Житомирська область - Безкоштовне завантаження",
+    "description": "Коди UN/LOCODE у межах адміністративної одиниці «Житомирська область» (Zhytomyr Oblast, UA-18), 8 записів. Підмножина національного набору «uk-unlocode» (UNECE UN/LOCODE через datasets/un-locode). Кожен запис містить код LOCODE, назву місця (з діакритикою і без), класифікатори функцій, статус за реєстром UNECE, код IATA (за наявності) та координати WGS84. Функції: Road transport (6), Multimodal transport facility (2), Rail transport (1). Записів з кодом IATA: 0. Per-oblast subset of the national uk-unlocode list, split on UNECE's own Subdivision column (ISO 3166-2 numeric suffix 18); all fields carried verbatim from the parent, nothing translated or recomputed. Містить 8 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Коди UN/LOCODE — Житомирська область | ListBase",
+    "seo_description": "Завантажити Коди UN/LOCODE — Житомирська область — 8 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 8 записів / 25 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

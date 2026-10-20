@@ -1,0 +1,322 @@
+{
+  "id": "uk-mayaky",
+  "name": "Маяки України",
+  "title": "Маяки України",
+  "description": "Перелік об'єктів типу «маяк» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_uk",
+      "label": "Wikipedia Uk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q380270",
+      "wikidata_id": "Q380270",
+      "name_uk": "Аджигольський маяк",
+      "name_en": "Stanislav-Adziogol Lighthouse",
+      "latitude": 46.492333,
+      "longitude": 32.232611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q4058664",
+      "wikidata_id": "Q4058664",
+      "name_uk": "Ай-Тодорський маяк",
+      "name_en": "Ai-Todorsky lighthouse",
+      "latitude": 44.428455,
+      "longitude": 34.122465,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%B9-%D0%A2%D0%BE%D0%B4%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q97176326",
+      "wikidata_id": "Q97176326",
+      "name_uk": "Будаки",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%B0%D0%BA%D0%B8_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": "Q4108645",
+      "wikidata_id": "Q4108645",
+      "name_uk": "Верхній Бердянський маяк",
+      "name_en": "Upper Berdiansk Lighthouse",
+      "latitude": 46.766739,
+      "longitude": 36.764153,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%96%D0%B9_%D0%91%D0%B5%D1%80%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q1976702",
+      "wikidata_id": "Q1976702",
+      "name_uk": "Воронцовський маяк",
+      "name_en": "Vorontsov Lighthouse",
+      "latitude": 46.496556,
+      "longitude": 30.760056,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q97517504",
+      "wikidata_id": "Q97517504",
+      "name_uk": "Генічеський маяк",
+      "name_en": "Henichesk Lighthouse",
+      "latitude": 46.182222,
+      "longitude": 34.820833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%96%D1%87%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q97162749",
+      "wikidata_id": "Q97162749",
+      "name_uk": "Григорівський маяк",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q56366000",
+      "wikidata_id": "Q56366000",
+      "name_uk": "Джарилгацький маяк",
+      "name_en": "Dzharylhach lighthouse",
+      "latitude": 46.013062,
+      "longitude": 33.064279,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D1%80%D0%B8%D0%BB%D0%B3%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q97746520",
+      "wikidata_id": "Q97746520",
+      "name_uk": "Дністровсько-Цареградський маяк",
+      "name_en": "",
+      "latitude": 46.07405,
+      "longitude": 30.46959,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE-%D0%A6%D0%B0%D1%80%D0%B5%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q97174763",
+      "wikidata_id": "Q97174763",
+      "name_uk": "Лузанівський маяк",
+      "name_en": "",
+      "latitude": 46.552066,
+      "longitude": 30.826728,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D0%B7%D0%B0%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q26257039",
+      "wikidata_id": "Q26257039",
+      "name_uk": "Маяк Бирючий",
+      "name_en": "Lighthouse on Byriuchyi Island",
+      "latitude": 46.090833,
+      "longitude": 34.990833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA_%D0%91%D0%B8%D1%80%D1%8E%D1%87%D0%B8%D0%B9"
+    },
+    {
+      "id": "Q12122083",
+      "wikidata_id": "Q12122083",
+      "name_uk": "Маяк Меганом",
+      "name_en": "Meganom lighthouse",
+      "latitude": 44.793767,
+      "longitude": 35.077763,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA_%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%D0%BE%D0%BC"
+    },
+    {
+      "id": "Q107377542",
+      "wikidata_id": "Q107377542",
+      "name_uk": "Маяк на острові Зміїний",
+      "name_en": "Zmiinyi Lighthouse",
+      "latitude": 45.255081,
+      "longitude": 30.202781,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q122304304",
+      "wikidata_id": "Q122304304",
+      "name_uk": "Маяк Сіверсів передній",
+      "name_en": "Siversov Front Lighthouse",
+      "latitude": 46.894039,
+      "longitude": 32.011261,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q97177779",
+      "wikidata_id": "Q97177779",
+      "name_uk": "Маяк Шагани",
+      "name_en": "Shahany Lighthouse",
+      "latitude": 45.67294,
+      "longitude": 29.88352,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B3%D0%B0%D0%BD%D0%B8_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": "Q4319083",
+      "wikidata_id": "Q4319083",
+      "name_uk": "Нижній Бердянський маяк",
+      "name_en": "Lower Berdiansk Lighthouse",
+      "latitude": 46.6391,
+      "longitude": 36.7606,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D1%96%D0%B9_%D0%91%D0%B5%D1%80%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q97380226",
+      "wikidata_id": "Q97380226",
+      "name_uk": "Санжійський маяк",
+      "name_en": "Sanjeyka Lighthouse",
+      "latitude": 46.225611,
+      "longitude": 30.608967,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B6%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q7599046",
+      "wikidata_id": "Q7599046",
+      "name_uk": "Станіславський маяк",
+      "name_en": "Stanislav Range Front Light",
+      "latitude": 46.511944,
+      "longitude": 32.151111,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q4452231",
+      "wikidata_id": "Q4452231",
+      "name_uk": "Тарханкутський маяк",
+      "name_en": "Tarkhankut Lighthouse",
+      "latitude": 45.346944,
+      "longitude": 32.494167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D0%BA%D1%83%D1%82%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q12160505",
+      "wikidata_id": "Q12160505",
+      "name_uk": "Тендрівський маяк",
+      "name_en": "Tendra Lighthouse",
+      "latitude": 46.322778,
+      "longitude": 31.514722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%B4%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q131154328",
+      "wikidata_id": "Q131154328",
+      "name_uk": "Хаблівський задній маяк",
+      "name_en": "Rear Khabliv Lighthouse",
+      "latitude": 46.671435,
+      "longitude": 32.030045,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%B4%D0%BD%D1%96%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q19916081",
+      "wikidata_id": "Q19916081",
+      "name_uk": "Херсонеський маяк",
+      "name_en": "Chersonese Lighthouse",
+      "latitude": 44.58306,
+      "longitude": 33.37861,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q64435188",
+      "wikidata_id": "Q64435188",
+      "name_uk": "Чаудинський маяк",
+      "name_en": "Chaudynskyi Light",
+      "latitude": 45.00444,
+      "longitude": 35.836823,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%83%D0%B4%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q28706182",
+      "wikidata_id": "Q28706182",
+      "name_uk": "Чорноморський маяк",
+      "name_en": "Chornomorsk Lighthouse",
+      "latitude": 46.315595,
+      "longitude": 30.68095,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q20816300",
+      "wikidata_id": "Q20816300",
+      "name_uk": "Ялтинський маяк",
+      "name_en": "Yalta lighthouse",
+      "latitude": 44.491554,
+      "longitude": 34.169111,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%AF%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q21639186",
+      "wikidata_id": "Q21639186",
+      "name_uk": "Євпаторійський маяк",
+      "name_en": "Yevpatoriya Lighthouse",
+      "latitude": 45.151111,
+      "longitude": 33.268889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%84%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q4175622",
+      "wikidata_id": "Q4175622",
+      "name_uk": "Єнікальський маяк",
+      "name_en": "Yenikalsky Lighthouse",
+      "latitude": 45.385556,
+      "longitude": 36.638889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%84%D0%BD%D1%96%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": "Q21639906",
+      "wikidata_id": "Q21639906",
+      "name_uk": "Іллінський маяк",
+      "name_en": "Ilyinsky lighthouse",
+      "latitude": 45.0125,
+      "longitude": 35.42222,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q21639918",
+      "wikidata_id": "Q21639918",
+      "name_uk": "Інкерманські маяки",
+      "name_en": "",
+      "latitude": 44.618333,
+      "longitude": 33.588333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D0%BA%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8"
+    }
+  ],
+  "meta": {
+    "title": "Маяки України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «маяк» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності. Містить 29 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Маяки України | ListBase",
+    "seo_description": "Завантажити Маяки України — 29 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 29 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

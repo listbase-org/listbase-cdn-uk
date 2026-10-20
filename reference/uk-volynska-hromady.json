@@ -1,0 +1,687 @@
+{
+  "id": "uk-volynska-hromady",
+  "name": "Територіальні громади Волинської області",
+  "title": "Територіальні громади Волинської області",
+  "description": "Список 56 територіальних громад Волинської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA07020010000096841",
+      "name": "Володимирська міська територіальна громада",
+      "name_en": "Volodymyrska miska terytorialna hromada",
+      "slug": "volodymyrska-miska-terytorialna-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020030000052032",
+      "name": "Затурцівська сільська громада",
+      "name_en": "Zaturtsivska silska hromada",
+      "slug": "zaturtsivska-silska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020050000082369",
+      "name": "Зимнівська сільська громада",
+      "name_en": "Zymnivska silska hromada",
+      "slug": "zymnivska-silska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020070000082628",
+      "name": "Іваничівська селищна громада",
+      "name_en": "Ivanychivska selyshchna hromada",
+      "slug": "ivanychivska-selyshchna-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020090000019505",
+      "name": "Литовезька сільська громада",
+      "name_en": "Lytovezka silska hromada",
+      "slug": "lytovezka-silska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020110000037373",
+      "name": "Локачинська селищна громада",
+      "name_en": "Lokachynska selyshchna hromada",
+      "slug": "lokachynska-selyshchna-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020130000036300",
+      "name": "Нововолинська міська громада",
+      "name_en": "Novovolynska miska hromada",
+      "slug": "novovolynska-miska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020150000092012",
+      "name": "Оваднівська сільська громада",
+      "name_en": "Ovadnivska silska hromada",
+      "slug": "ovadnivska-silska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020170000049971",
+      "name": "Павлівська сільська громада",
+      "name_en": "Pavlivska silska hromada",
+      "slug": "pavlivska-silska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020190000043658",
+      "name": "Поромівська сільська громада",
+      "name_en": "Poromivska silska hromada",
+      "slug": "poromivska-silska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07020210000033081",
+      "name": "Устилузька міська громада",
+      "name_en": "Ustyluzka miska hromada",
+      "slug": "ustyluzka-miska-hromada",
+      "rayon_code": "UA07020000000048211",
+      "rayon_name": "Володимирський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07040010000033507",
+      "name": "Камінь-Каширська міська громада",
+      "name_en": "Kamin-Kashyrska miska hromada",
+      "slug": "kamin-kashyrska-miska-hromada",
+      "rayon_code": "UA07040000000026412",
+      "rayon_name": "Камінь-Каширський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07040030000028082",
+      "name": "Любешівська селищна громада",
+      "name_en": "Liubeshivska selyshchna hromada",
+      "slug": "liubeshivska-selyshchna-hromada",
+      "rayon_code": "UA07040000000026412",
+      "rayon_name": "Камінь-Каширський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07040050000080830",
+      "name": "Маневицька селищна громада",
+      "name_en": "Manevytska selyshchna hromada",
+      "slug": "manevytska-selyshchna-hromada",
+      "rayon_code": "UA07040000000026412",
+      "rayon_name": "Камінь-Каширський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07040070000058434",
+      "name": "Прилісненська сільська громада",
+      "name_en": "Prylisnenska silska hromada",
+      "slug": "prylisnenska-silska-hromada",
+      "rayon_code": "UA07040000000026412",
+      "rayon_name": "Камінь-Каширський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07040090000043197",
+      "name": "Сошичненська сільська громада",
+      "name_en": "Soshychnenska silska hromada",
+      "slug": "soshychnenska-silska-hromada",
+      "rayon_code": "UA07040000000026412",
+      "rayon_name": "Камінь-Каширський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060010000090019",
+      "name": "Велимченська сільська громада",
+      "name_en": "Velymchenska silska hromada",
+      "slug": "velymchenska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060030000041840",
+      "name": "Велицька сільська громада",
+      "name_en": "Velytska silska hromada",
+      "slug": "velytska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060050000091514",
+      "name": "Вишнівська сільська громада",
+      "name_en": "Vyshnivska silska hromada",
+      "slug": "vyshnivska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060070000063773",
+      "name": "Голобська селищна громада",
+      "name_en": "Holobska selyshchna hromada",
+      "slug": "holobska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060090000026043",
+      "name": "Головненська селищна громада",
+      "name_en": "Holovnenska selyshchna hromada",
+      "slug": "holovnenska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060110000041168",
+      "name": "Дубечненська сільська громада",
+      "name_en": "Dubechnenska silska hromada",
+      "slug": "dubechnenska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060130000030797",
+      "name": "Дубівська сільська громада",
+      "name_en": "Dubivska silska hromada",
+      "slug": "dubivska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060150000038564",
+      "name": "Заболоттівська селищна громада",
+      "name_en": "Zabolottivska selyshchna hromada",
+      "slug": "zabolottivska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060170000059479",
+      "name": "Забродівська сільська громада",
+      "name_en": "Zabrodivska silska hromada",
+      "slug": "zabrodivska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060190000036342",
+      "name": "Ковельська міська громада",
+      "name_en": "Kovelska miska hromada",
+      "slug": "kovelska-miska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060210000030014",
+      "name": "Колодяжненська сільська громада",
+      "name_en": "Kolodiazhnenska silska hromada",
+      "slug": "kolodiazhnenska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060230000029166",
+      "name": "Луківська селищна громада",
+      "name_en": "Lukivska selyshchna hromada",
+      "slug": "lukivska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060230000029166",
+      "name": "Луківська селищна громада",
+      "name_en": "Lukivska selyshchna hromada",
+      "slug": "lukivska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060250000039902",
+      "name": "Люблинецька селищна громада",
+      "name_en": "Liublynetska selyshchna hromada",
+      "slug": "liublynetska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060270000021892",
+      "name": "Любомльська міська громада",
+      "name_en": "Liubomlska miska hromada",
+      "slug": "liubomlska-miska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060290000054842",
+      "name": "Поворська сільська громада",
+      "name_en": "Povorska silska hromada",
+      "slug": "povorska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060310000037369",
+      "name": "Ратнівська селищна громада",
+      "name_en": "Ratnivska selyshchna hromada",
+      "slug": "ratnivska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060330000052414",
+      "name": "Рівненська сільська громада",
+      "name_en": "Rivnenska silska hromada",
+      "slug": "rivnenska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060350000084520",
+      "name": "Самарівська сільська громада",
+      "name_en": "Samarivska silska hromada",
+      "slug": "samarivska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060370000022360",
+      "name": "Сереховичівська сільська рада",
+      "name_en": "Serekhovychivska silska rada",
+      "slug": "serekhovychivska-silska-rada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060370000022360",
+      "name": "Сереховичівська сільська громада",
+      "name_en": "Serekhovychivska silska hromada",
+      "slug": "serekhovychivska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060390000098670",
+      "name": "Смідинська сільська громада",
+      "name_en": "Smidynska silska hromada",
+      "slug": "smidynska-silska-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060410000041366",
+      "name": "Старовижівська селищна громада",
+      "name_en": "Starovyzhivska selyshchna hromada",
+      "slug": "starovyzhivska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060430000041345",
+      "name": "Турійська селищна громада",
+      "name_en": "Turiiska selyshchna hromada",
+      "slug": "turiiska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07060450000051170",
+      "name": "Шацька селищна громада",
+      "name_en": "Shatska selyshchna hromada",
+      "slug": "shatska-selyshchna-hromada",
+      "rayon_code": "UA07060000000092268",
+      "rayon_name": "Ковельський район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080010000062933",
+      "name": "Берестечківська міська громада",
+      "name_en": "Berestechkivska miska hromada",
+      "slug": "berestechkivska-miska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080030000051738",
+      "name": "Боратинська сільська громада",
+      "name_en": "Boratynska silska hromada",
+      "slug": "boratynska-silska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080050000014573",
+      "name": "Городищенська сільська громада",
+      "name_en": "Horodyshchenska silska hromada",
+      "slug": "horodyshchenska-silska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080070000052255",
+      "name": "Горохівська міська громада",
+      "name_en": "Horokhivska miska hromada",
+      "slug": "horokhivska-miska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080090000017614",
+      "name": "Доросинівська сільська громада",
+      "name_en": "Dorosynivska silska hromada",
+      "slug": "dorosynivska-silska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080110000043895",
+      "name": "Ківерцівська міська громада",
+      "name_en": "Kivertsivska miska hromada",
+      "slug": "kivertsivska-miska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080130000017070",
+      "name": "Колківська селищна громада",
+      "name_en": "Kolkivska selyshchna hromada",
+      "slug": "kolkivska-selyshchna-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080150000089103",
+      "name": "Копачівська сільська громада",
+      "name_en": "Kopachivska silska hromada",
+      "slug": "kopachivska-silska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080170000013585",
+      "name": "Луцька міська громада",
+      "name_en": "Lutska miska hromada",
+      "slug": "lutska-miska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080190000072811",
+      "name": "Мар'янівська селищна громада",
+      "name_en": "Maryanivska selyshchna hromada",
+      "slug": "maryanivska-selyshchna-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080210000090779",
+      "name": "Олицька селищна громада",
+      "name_en": "Olytska selyshchna hromada",
+      "slug": "olytska-selyshchna-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080230000046097",
+      "name": "Підгайцівська сільська громада",
+      "name_en": "Pidhaitsivska silska hromada",
+      "slug": "pidhaitsivska-silska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080250000053335",
+      "name": "Рожищенська міська громада",
+      "name_en": "Rozhyshchenska miska hromada",
+      "slug": "rozhyshchenska-miska-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080270000067148",
+      "name": "Торчинська селищна громада",
+      "name_en": "Torchynska selyshchna hromada",
+      "slug": "torchynska-selyshchna-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    },
+    {
+      "code": "UA07080290000088287",
+      "name": "Цуманська селищна громада",
+      "name_en": "Tsumanska selyshchna hromada",
+      "slug": "tsumanska-selyshchna-hromada",
+      "rayon_code": "UA07080000000034745",
+      "rayon_name": "Луцький район",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Волинської області - Безкоштовне завантаження",
+    "description": "Список 56 територіальних громад Волинської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 56 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Волинської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Волинської області — 56 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 56 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

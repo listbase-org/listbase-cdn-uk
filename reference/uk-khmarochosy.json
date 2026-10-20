@@ -1,0 +1,192 @@
+{
+  "id": "uk-khmarochosy",
+  "name": "Хмарочоси України",
+  "title": "Хмарочоси України",
+  "description": "Перелік об'єктів типу «хмарочос» в Україні з відкритих даних Вікіданих (Wikidata), 11 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q61115625",
+      "name_uk": "Taryan Towers",
+      "name_en": "Taryan Towers",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.419722,
+      "longitude": 30.533056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61115625"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2333736",
+      "name_uk": "Багатофункціональний комплекс «Gulliver»",
+      "name_en": "Gulliver",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.438611,
+      "longitude": 30.523056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2333736"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q12080115",
+      "name_uk": "Багатофункціональний комплекс «H-Tower»",
+      "name_en": "Hilton Kyiv",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.445574,
+      "longitude": 30.504935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12080115"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2083408",
+      "name_uk": "Бізнес-центр «Парус»",
+      "name_en": "Parus Business Centre",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.437069,
+      "longitude": 30.527361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2083408"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12089600",
+      "name_uk": "Висотки на масиві Перемога (Дніпропетровськ)",
+      "name_en": "",
+      "admin_area_uk": "Дніпро",
+      "admin_area_en": "Dnipro",
+      "latitude": 48.421516,
+      "longitude": 35.064241,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12089600"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12093186",
+      "name_uk": "Вікторія (готель, Донецьк)",
+      "name_en": "",
+      "admin_area_uk": "Донецьк",
+      "admin_area_en": "Donetsk",
+      "latitude": 48.018056,
+      "longitude": 37.815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12093186"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12104571",
+      "name_uk": "Житловий комплекс «Дніпровські Вежі»",
+      "name_en": "Residential complex «Dnipro Towers»",
+      "admin_area_uk": "Деснянський район",
+      "admin_area_en": "Desnianskyi District",
+      "latitude": 50.497749,
+      "longitude": 30.579652,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12104571"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12104591",
+      "name_uk": "Житловий комплекс «Ультра»",
+      "name_en": "",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 50.024963,
+      "longitude": 36.21858,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12104591"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12104593",
+      "name_uk": "Житловий комплекс на Кловському узвозі, 7",
+      "name_en": "Klovski Descent 7A",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.4385,
+      "longitude": 30.539167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12104593"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12104595",
+      "name_uk": "Житловий комплекс на проспекті Героїв Сталінграда, 2 (Київ)",
+      "name_en": "",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.490278,
+      "longitude": 30.528333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12104595"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q12108793",
+      "name_uk": "Карпатська столиця (готель)",
+      "name_en": "",
+      "admin_area_uk": "Трускавець",
+      "admin_area_en": "Truskavets",
+      "latitude": 49.279722,
+      "longitude": 23.492222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12108793"
+    }
+  ],
+  "meta": {
+    "title": "Хмарочоси України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «хмарочос» в Україні з відкритих даних Вікіданих (Wikidata), 11 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані. Містить 11 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Хмарочоси України | ListBase",
+    "seo_description": "Завантажити Хмарочоси України — 11 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 11 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

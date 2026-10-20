@@ -1,0 +1,225 @@
+{
+  "id": "uk-torhovi-tsentry",
+  "name": "Торгові центри України",
+  "title": "Торгові центри України",
+  "description": "Перелік об'єктів типу «торговий центр» в Україні з відкритих даних Вікіданих (Wikidata), 14 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q16835736",
+      "name_uk": "",
+      "name_en": "Donetsk City",
+      "admin_area_uk": "Донецьк",
+      "admin_area_en": "Donetsk",
+      "latitude": 48.030556,
+      "longitude": 37.7875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16835736"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q20095752",
+      "name_uk": "Forum Lviv",
+      "name_en": "Forum Lviv",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.849694,
+      "longitude": 24.0235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20095752"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q6411412",
+      "name_uk": "King Cross Leopolis",
+      "name_en": "King Cross Leopolis",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.773056,
+      "longitude": 24.010556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6411412"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q28225263",
+      "name_uk": "",
+      "name_en": "Metrohrad Shopping Mall",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.440833,
+      "longitude": 30.519722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28225263"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q111363161",
+      "name_uk": "Retroville",
+      "name_en": "Retroville",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.5036,
+      "longitude": 30.41659,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111363161"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q113360207",
+      "name_uk": "Silver Breeze",
+      "name_en": "Silver Breeze",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.428556,
+      "longitude": 30.593528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113360207"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q4259079",
+      "name_uk": "Victoria Gardens",
+      "name_en": "Victoria Gardens",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.806389,
+      "longitude": 23.977222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4259079"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12086615",
+      "name_uk": "Білий лебідь (торговий центр)",
+      "name_en": "",
+      "admin_area_uk": "Донецьк",
+      "admin_area_en": "Donetsk",
+      "latitude": 48.016,
+      "longitude": 37.805,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12086615"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q15121141",
+      "name_uk": "Міст-Сіті Центр",
+      "name_en": "",
+      "admin_area_uk": "Дніпро",
+      "admin_area_en": "Dnipro",
+      "latitude": 48.46688,
+      "longitude": 35.05106,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15121141"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q19972111",
+      "name_uk": "Океан Плаза",
+      "name_en": "Ocean Plaza",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.412139,
+      "longitude": 30.5225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19972111"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q12159539",
+      "name_uk": "Сіті-Центр",
+      "name_en": "",
+      "admin_area_uk": "Миколаїв",
+      "admin_area_en": "Mykolaiv",
+      "latitude": 46.966797,
+      "longitude": 32.001951,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12159539"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q12162043",
+      "name_uk": "Торговельно-розважальний центр «Термінал»",
+      "name_en": "Terminal Ice Arena",
+      "admin_area_uk": "Бровари",
+      "admin_area_en": "Brovary",
+      "latitude": 50.526567,
+      "longitude": 30.795472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12162043"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q84082154",
+      "name_uk": "ТРЦ Hollywood",
+      "name_en": "Hollywood Shopping Mall",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 51.515361,
+      "longitude": 31.306806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q84082154"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q92963665",
+      "name_uk": "ТРЦ «Gagarinn Plaza»",
+      "name_en": "Gagarinn Plaza",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.431861,
+      "longitude": 30.761778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q92963665"
+    }
+  ],
+  "meta": {
+    "title": "Торгові центри України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «торговий центр» в Україні з відкритих даних Вікіданих (Wikidata), 14 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані. Містить 14 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Торгові центри України | ListBase",
+    "seo_description": "Завантажити Торгові центри України — 14 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 14 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

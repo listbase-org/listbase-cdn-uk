@@ -1,0 +1,100 @@
+{
+  "id": "uk-chernihiv-banky",
+  "name": "Банки в Чернігові — коди SWIFT/BIC (Chernihiv bank SWIFT/BIC codes)",
+  "title": "Банки в Чернігові — коди SWIFT/BIC (Chernihiv bank SWIFT/BIC codes)",
+  "description": "Перелік: 7 банківських установ у місті Чернігів (Chernihiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"CHERNIHIV\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 19,
+      "bank": "CHERNIGIV BANK",
+      "city": "CHERNIHIV",
+      "branch": "",
+      "swift_code": "CHRKUA21"
+    },
+    {
+      "id": 64,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "CHERNIHIV",
+      "branch": "(CHERNIGIV BRANCH)",
+      "swift_code": "EXBSUAUXCHH"
+    },
+    {
+      "id": 107,
+      "bank": "MEGABANK PJSC",
+      "city": "CHERNIHIV",
+      "branch": "",
+      "swift_code": "DBBKUA2KCHE"
+    },
+    {
+      "id": 131,
+      "bank": "PJSC ASVIO BANK",
+      "city": "CHERNIHIV",
+      "branch": "",
+      "swift_code": "ASVBUA2C"
+    },
+    {
+      "id": 145,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "CHERNIHIV",
+      "branch": "(CHERNIHIV REGIONAL BRANCH)",
+      "swift_code": "PBANUA2XCHR"
+    },
+    {
+      "id": 213,
+      "bank": "POLICOMBANK JSCB",
+      "city": "CHERNIHIV",
+      "branch": "",
+      "swift_code": "PLICUA22"
+    },
+    {
+      "id": 227,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "CHERNIHIV",
+      "branch": "(CHERNIHIV REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKCHG"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Чернігові — коди SWIFT/BIC (Chernihiv bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 7 банківських установ у місті Чернігів (Chernihiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"CHERNIHIV\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 7 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Чернігові — коди SWIFT/BIC (Chernihiv bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Чернігові — коди SWIFT/BIC (Chernihiv bank SWIFT/BIC codes) — 7 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 7 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

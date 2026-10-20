@@ -1,0 +1,126 @@
+{
+  "id": "uk-volynska-rayony",
+  "name": "Райони Волинської області",
+  "title": "Райони Волинської області",
+  "description": "Список усіх 6 районів Волинської області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA07020000000048211",
+      "name": "Володимирський район",
+      "name_en": "Volodymyrskyi raion",
+      "slug": "volodymyrskyi-raion",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska",
+      "parent_code": "UA07000000000024379"
+    },
+    {
+      "code": "UA07040000000026412",
+      "name": "Камінь-Каширський район",
+      "name_en": "Kamin-Kashyrskyi raion",
+      "slug": "kamin-kashyrskyi-raion",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska",
+      "parent_code": "UA07000000000024379"
+    },
+    {
+      "code": "UA07040000000026412",
+      "name": "Камінь-Каширський район",
+      "name_en": "Kamin-Kashyrskyi raion",
+      "slug": "kamin-kashyrskyi-raion",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska",
+      "parent_code": "UA07000000000024379"
+    },
+    {
+      "code": "UA07060000000092268",
+      "name": "Ковельський район",
+      "name_en": "Kovelskyi raion",
+      "slug": "kovelskyi-raion",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska",
+      "parent_code": "UA07000000000024379"
+    },
+    {
+      "code": "UA07080000000034745",
+      "name": "Луцький район",
+      "name_en": "Lutskyi raion",
+      "slug": "lutskyi-raion",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska",
+      "parent_code": "UA07000000000024379"
+    },
+    {
+      "code": "UA07080000000034745",
+      "name": "Луцький район",
+      "name_en": "Lutskyi raion",
+      "slug": "lutskyi-raion",
+      "oblast_id": 3,
+      "oblast_name": "Волинська область",
+      "oblast_slug": "volynska",
+      "parent_code": "UA07000000000024379"
+    }
+  ],
+  "meta": {
+    "title": "Райони Волинської області - Безкоштовне завантаження",
+    "description": "Список усіх 6 районів Волинської області згідно з КАТОТТГ (реформа 2020 року). Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Волинської області | ListBase",
+    "seo_description": "Завантажити Райони Волинської області — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

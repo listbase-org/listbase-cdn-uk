@@ -1,0 +1,4012 @@
+{
+  "id": "uk-chernivetska-poshtovi-indeksy",
+  "name": "Поштові індекси: Чернівецька область",
+  "title": "Поштові індекси: Чернівецька область",
+  "description": "Поштові індекси населених пунктів — Чернівецька область (439 записів). Назви українською, координати WGS84, ISO 3166-2 UA-73. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 439,
+  "columns": [
+    {
+      "key": "zipcode",
+      "label": "Zipcode",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zipcode": "58000",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58001",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58002",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58003",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58004",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58005",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58007",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58008",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58010",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58011",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58012",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58013",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58014",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58018",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58019",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58020",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58021",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58022",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58023",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58025",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58026",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58029",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "58032",
+      "place": "Чернівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2915,
+      "longitude": 25.9403
+    },
+    {
+      "zipcode": "59000",
+      "place": "Сторожинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1643,
+      "longitude": 25.7203
+    },
+    {
+      "zipcode": "59005",
+      "place": "Снячів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1685,
+      "longitude": 25.692
+    },
+    {
+      "zipcode": "59006",
+      "place": "Панка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1728,
+      "longitude": 25.6637
+    },
+    {
+      "zipcode": "59010",
+      "place": "Косованка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59011",
+      "place": "Костинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59012",
+      "place": "Ясени",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59013",
+      "place": "Бобівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59014",
+      "place": "Комарівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59015",
+      "place": "Зруб-Комарівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59016",
+      "place": "Слобода-Комарівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59017",
+      "place": "Стара Жадова",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59018",
+      "place": "Дібрівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59019",
+      "place": "Нова Жадова",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4734,
+      "longitude": 25.8415
+    },
+    {
+      "zipcode": "59020",
+      "place": "Банилів-Підгірний",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0867,
+      "longitude": 25.5933
+    },
+    {
+      "zipcode": "59021",
+      "place": "Давидівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.121,
+      "longitude": 25.5646
+    },
+    {
+      "zipcode": "59022",
+      "place": "Красноїльськ",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0867,
+      "longitude": 25.5933
+    },
+    {
+      "zipcode": "59023",
+      "place": "Стара Красношора",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0867,
+      "longitude": 25.5933
+    },
+    {
+      "zipcode": "59024",
+      "place": "Чудей",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0525,
+      "longitude": 25.6221
+    },
+    {
+      "zipcode": "59025",
+      "place": "Нова Красношора",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0867,
+      "longitude": 25.5933
+    },
+    {
+      "zipcode": "59030",
+      "place": "Буденець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0713,
+      "longitude": 25.6938
+    },
+    {
+      "zipcode": "59031",
+      "place": "Череш",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0974,
+      "longitude": 25.6154
+    },
+    {
+      "zipcode": "59032",
+      "place": "Ропча",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1199,
+      "longitude": 25.7742
+    },
+    {
+      "zipcode": "59033",
+      "place": "Їжівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0396,
+      "longitude": 25.6623
+    },
+    {
+      "zipcode": "59034",
+      "place": "Верхні Петрівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0713,
+      "longitude": 25.6938
+    },
+    {
+      "zipcode": "59035",
+      "place": "Нижні Петрівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0285,
+      "longitude": 25.7233
+    },
+    {
+      "zipcode": "59040",
+      "place": "Михальча",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2487,
+      "longitude": 25.8507
+    },
+    {
+      "zipcode": "59041",
+      "place": "Дубове",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.172,
+      "longitude": 23.8895
+    },
+    {
+      "zipcode": "59042",
+      "place": "Заволока",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1325,
+      "longitude": 24.6416
+    },
+    {
+      "zipcode": "59043",
+      "place": "Спаська",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1325,
+      "longitude": 24.6416
+    },
+    {
+      "zipcode": "59044",
+      "place": "Нові Бросківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1325,
+      "longitude": 24.6416
+    },
+    {
+      "zipcode": "59045",
+      "place": "Заболоття",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.9767,
+      "longitude": 24.1847
+    },
+    {
+      "zipcode": "59046",
+      "place": "Аршиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1325,
+      "longitude": 24.6416
+    },
+    {
+      "zipcode": "59047",
+      "place": "Глибочок (Кам янська сільська рада)",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1325,
+      "longitude": 24.6416
+    },
+    {
+      "zipcode": "59048",
+      "place": "Старі Бросківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1325,
+      "longitude": 24.6416
+    },
+    {
+      "zipcode": "59050",
+      "place": "Кам'яна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0491,
+      "longitude": 23.7694
+    },
+    {
+      "zipcode": "59051",
+      "place": "Глибочок (Снячівська сільська рада)",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0491,
+      "longitude": 23.7694
+    },
+    {
+      "zipcode": "59052",
+      "place": "Великий Кучурів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0491,
+      "longitude": 23.7694
+    },
+    {
+      "zipcode": "59053",
+      "place": "Годилів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0491,
+      "longitude": 23.7694
+    },
+    {
+      "zipcode": "59054",
+      "place": "Тисовець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0491,
+      "longitude": 23.7694
+    },
+    {
+      "zipcode": "59100",
+      "place": "Поляківське",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.982,
+      "longitude": 25.1116
+    },
+    {
+      "zipcode": "59101",
+      "place": "Путила",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9887,
+      "longitude": 25.0945
+    },
+    {
+      "zipcode": "59107",
+      "place": "Сергії",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9752,
+      "longitude": 25.1286
+    },
+    {
+      "zipcode": "59108",
+      "place": "Паркулина",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.982,
+      "longitude": 25.1116
+    },
+    {
+      "zipcode": "59109",
+      "place": "Околена",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.982,
+      "longitude": 25.1116
+    },
+    {
+      "zipcode": "59110",
+      "place": "Підзахаричі",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3532,
+      "longitude": 25.3949
+    },
+    {
+      "zipcode": "59111",
+      "place": "Розтоки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0736,
+      "longitude": 24.2713
+    },
+    {
+      "zipcode": "59112",
+      "place": "Мариничі",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1292,
+      "longitude": 25.0652
+    },
+    {
+      "zipcode": "59113",
+      "place": "Петраші",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1009,
+      "longitude": 27.1961
+    },
+    {
+      "zipcode": "59114",
+      "place": "Усть-Путила",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1091,
+      "longitude": 25.0468
+    },
+    {
+      "zipcode": "59115",
+      "place": "Дихтинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3532,
+      "longitude": 25.3949
+    },
+    {
+      "zipcode": "59116",
+      "place": "Греблина (Дихтинецька сільска рада)",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3532,
+      "longitude": 25.3949
+    },
+    {
+      "zipcode": "59117",
+      "place": "Замогила",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3532,
+      "longitude": 25.3949
+    },
+    {
+      "zipcode": "59118",
+      "place": "Греблина (Довгопільська сільська рада)",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3532,
+      "longitude": 25.3949
+    },
+    {
+      "zipcode": "59119",
+      "place": "Малий Дихтинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3532,
+      "longitude": 25.3949
+    },
+    {
+      "zipcode": "59120",
+      "place": "Довгопілля",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0671,
+      "longitude": 24.8817
+    },
+    {
+      "zipcode": "59121",
+      "place": "Стебні",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.101,
+      "longitude": 24.9823
+    },
+    {
+      "zipcode": "59122",
+      "place": "Конятин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0671,
+      "longitude": 24.8817
+    },
+    {
+      "zipcode": "59123",
+      "place": "Самакова",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0073,
+      "longitude": 24.9695
+    },
+    {
+      "zipcode": "59124",
+      "place": "Киселиці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0671,
+      "longitude": 24.8817
+    },
+    {
+      "zipcode": "59125",
+      "place": "Голошина",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9328,
+      "longitude": 24.9353
+    },
+    {
+      "zipcode": "59126",
+      "place": "Яблуниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3174,
+      "longitude": 24.4845
+    },
+    {
+      "zipcode": "59127",
+      "place": "Міжброди",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0671,
+      "longitude": 24.8817
+    },
+    {
+      "zipcode": "59128",
+      "place": "Плай",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9864,
+      "longitude": 24.9306
+    },
+    {
+      "zipcode": "59129",
+      "place": "Плита",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0575,
+      "longitude": 24.9878
+    },
+    {
+      "zipcode": "59130",
+      "place": "Плоска",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9091,
+      "longitude": 25.1381
+    },
+    {
+      "zipcode": "59131",
+      "place": "Селятин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.8799,
+      "longitude": 25.1281
+    },
+    {
+      "zipcode": "59132",
+      "place": "Галицівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.8799,
+      "longitude": 25.1281
+    },
+    {
+      "zipcode": "59133",
+      "place": "Шепіт",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.7973,
+      "longitude": 25.1545
+    },
+    {
+      "zipcode": "59134",
+      "place": "Нижній Яловець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.8799,
+      "longitude": 25.1281
+    },
+    {
+      "zipcode": "59135",
+      "place": "Андреківське",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.8002,
+      "longitude": 25.1125
+    },
+    {
+      "zipcode": "59136",
+      "place": "Лустун",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9199,
+      "longitude": 25.1706
+    },
+    {
+      "zipcode": "59137",
+      "place": "Площі",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.8799,
+      "longitude": 25.1281
+    },
+    {
+      "zipcode": "59139",
+      "place": "Рижа",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9731,
+      "longitude": 25.0648
+    },
+    {
+      "zipcode": "59140",
+      "place": "Рипень",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9413,
+      "longitude": 25.1012
+    },
+    {
+      "zipcode": "59141",
+      "place": "Руська",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.8975,
+      "longitude": 25.252
+    },
+    {
+      "zipcode": "59142",
+      "place": "Сарата",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.7344,
+      "longitude": 24.988
+    },
+    {
+      "zipcode": "59143",
+      "place": "Соколій",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.912,
+      "longitude": 25.1199
+    },
+    {
+      "zipcode": "59144",
+      "place": "Тесницька",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.912,
+      "longitude": 25.1199
+    },
+    {
+      "zipcode": "59145",
+      "place": "Товарниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.912,
+      "longitude": 25.1199
+    },
+    {
+      "zipcode": "59146",
+      "place": "Тораки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0216,
+      "longitude": 25.068
+    },
+    {
+      "zipcode": "59148",
+      "place": "Фошки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9653,
+      "longitude": 25.1901
+    },
+    {
+      "zipcode": "59149",
+      "place": "Хорови",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.912,
+      "longitude": 25.1199
+    },
+    {
+      "zipcode": "59150",
+      "place": "Шпетки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1097,
+      "longitude": 25.022
+    },
+    {
+      "zipcode": "59151",
+      "place": "Ями",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0767,
+      "longitude": 24.9986
+    },
+    {
+      "zipcode": "59152",
+      "place": "Гробище",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0767,
+      "longitude": 24.9986
+    },
+    {
+      "zipcode": "59153",
+      "place": "Бисків",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0767,
+      "longitude": 24.9986
+    },
+    {
+      "zipcode": "59154",
+      "place": "Бісків",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0767,
+      "longitude": 24.9986
+    },
+    {
+      "zipcode": "59155",
+      "place": "Великий Липовець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0438,
+      "longitude": 24.9752
+    },
+    {
+      "zipcode": "59156",
+      "place": "Верхній Яловець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0767,
+      "longitude": 24.9986
+    },
+    {
+      "zipcode": "59157",
+      "place": "Випчина",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0767,
+      "longitude": 24.9986
+    },
+    {
+      "zipcode": "59200",
+      "place": "Вижниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.248,
+      "longitude": 25.1945
+    },
+    {
+      "zipcode": "59206",
+      "place": "Чорногузи",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2277,
+      "longitude": 25.1998
+    },
+    {
+      "zipcode": "59207",
+      "place": "Черешенька",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2277,
+      "longitude": 25.1998
+    },
+    {
+      "zipcode": "59208",
+      "place": "Багна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2246,
+      "longitude": 25.225
+    },
+    {
+      "zipcode": "59209",
+      "place": "Виженка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2105,
+      "longitude": 25.1798
+    },
+    {
+      "zipcode": "59210",
+      "place": "Вашківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3849,
+      "longitude": 25.5102
+    },
+    {
+      "zipcode": "59213",
+      "place": "Волока",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3342,
+      "longitude": 25.5304
+    },
+    {
+      "zipcode": "59214",
+      "place": "Замостя",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6367,
+      "longitude": 24.876
+    },
+    {
+      "zipcode": "59215",
+      "place": "Слобода-Банилів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6367,
+      "longitude": 24.876
+    },
+    {
+      "zipcode": "59216",
+      "place": "Банилів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3661,
+      "longitude": 25.3455
+    },
+    {
+      "zipcode": "59217",
+      "place": "Бережниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.4616,
+      "longitude": 23.118
+    },
+    {
+      "zipcode": "59219",
+      "place": "Середній Майдан",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6367,
+      "longitude": 24.876
+    },
+    {
+      "zipcode": "59220",
+      "place": "Мілієве",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2783,
+      "longitude": 25.1664
+    },
+    {
+      "zipcode": "59221",
+      "place": "Вахнівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2783,
+      "longitude": 25.1664
+    },
+    {
+      "zipcode": "59222",
+      "place": "Іспас",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2973,
+      "longitude": 25.2741
+    },
+    {
+      "zipcode": "59223",
+      "place": "Коритне",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.3097,
+      "longitude": 25.2578
+    },
+    {
+      "zipcode": "59224",
+      "place": "Бережонка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2783,
+      "longitude": 25.1664
+    },
+    {
+      "zipcode": "59225",
+      "place": "Карапчів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3228,
+      "longitude": 25.4502
+    },
+    {
+      "zipcode": "59226",
+      "place": "Бабине",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.1833,
+      "longitude": 24.6833
+    },
+    {
+      "zipcode": "59227",
+      "place": "Вали",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2783,
+      "longitude": 25.1664
+    },
+    {
+      "zipcode": "59228",
+      "place": "Кибаки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2783,
+      "longitude": 25.1664
+    },
+    {
+      "zipcode": "59229",
+      "place": "Липовани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2783,
+      "longitude": 25.1664
+    },
+    {
+      "zipcode": "59230",
+      "place": "Луківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8167,
+      "longitude": 24.8153
+    },
+    {
+      "zipcode": "59231",
+      "place": "Майдан",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6031,
+      "longitude": 23.4741
+    },
+    {
+      "zipcode": "59232",
+      "place": "Вовчинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7495,
+      "longitude": 28.5616
+    },
+    {
+      "zipcode": "59233",
+      "place": "Берегомет",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59234",
+      "place": "Заріччя",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5176,
+      "longitude": 22.7894
+    },
+    {
+      "zipcode": "59236",
+      "place": "Мигове",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1575,
+      "longitude": 25.379
+    },
+    {
+      "zipcode": "59237",
+      "place": "Велике",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5468,
+      "longitude": 22.7366
+    },
+    {
+      "zipcode": "59238",
+      "place": "Майдан (Луківецька сільська рада)",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8167,
+      "longitude": 24.8153
+    },
+    {
+      "zipcode": "59239",
+      "place": "Фальків",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9639,
+      "longitude": 25.4181
+    },
+    {
+      "zipcode": "59240",
+      "place": "Долішній Шепіт",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1018,
+      "longitude": 25.2171
+    },
+    {
+      "zipcode": "59241",
+      "place": "Лопушна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0869,
+      "longitude": 25.2843
+    },
+    {
+      "zipcode": "59242",
+      "place": "Лекечі",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1167,
+      "longitude": 25.15
+    },
+    {
+      "zipcode": "59300",
+      "place": "Кіцмань",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4436,
+      "longitude": 25.7668
+    },
+    {
+      "zipcode": "59307",
+      "place": "Суховерхів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4603,
+      "longitude": 25.7586
+    },
+    {
+      "zipcode": "59308",
+      "place": "Кліводин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.477,
+      "longitude": 25.7504
+    },
+    {
+      "zipcode": "59309",
+      "place": "Давидівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4603,
+      "longitude": 25.7586
+    },
+    {
+      "zipcode": "59310",
+      "place": "Киселів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59311",
+      "place": "Борівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59312",
+      "place": "Шишківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59313",
+      "place": "Южинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59314",
+      "place": "Малятинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59315",
+      "place": "Хлівище",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59316",
+      "place": "Ставчани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59317",
+      "place": "Кальнівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59319",
+      "place": "Гаврилівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "59320",
+      "place": "Іванківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59321",
+      "place": "Оршівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59322",
+      "place": "Ошихліби",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59323",
+      "place": "Лашківка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59324",
+      "place": "Витилівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59330",
+      "place": "Неполоківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59331",
+      "place": "П'ядиківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59332",
+      "place": "Берегомет",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59333",
+      "place": "Реваківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59334",
+      "place": "Дубівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59335",
+      "place": "Клокічка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1788,
+      "longitude": 25.3485
+    },
+    {
+      "zipcode": "59340",
+      "place": "Валява",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5099,
+      "longitude": 26.2991
+    },
+    {
+      "zipcode": "59341",
+      "place": "Шипинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3768,
+      "longitude": 25.7466
+    },
+    {
+      "zipcode": "59342",
+      "place": "Лужани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3649,
+      "longitude": 25.7717
+    },
+    {
+      "zipcode": "59343",
+      "place": "Мамаївці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5099,
+      "longitude": 26.2991
+    },
+    {
+      "zipcode": "59344",
+      "place": "Бурдей",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5099,
+      "longitude": 26.2991
+    },
+    {
+      "zipcode": "59345",
+      "place": "Стрілецький Кут",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5099,
+      "longitude": 26.2991
+    },
+    {
+      "zipcode": "59346",
+      "place": "Біла",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.029,
+      "longitude": 25.7706
+    },
+    {
+      "zipcode": "59347",
+      "place": "Рівне",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.6231,
+      "longitude": 26.2274
+    },
+    {
+      "zipcode": "59349",
+      "place": "Діброва",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.1556,
+      "longitude": 27.979
+    },
+    {
+      "zipcode": "59350",
+      "place": "Брусниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59351",
+      "place": "Зеленів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59352",
+      "place": "Чортория",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59353",
+      "place": "Драчинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59354",
+      "place": "Нові Драчинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59355",
+      "place": "Глиниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4428,
+      "longitude": 29.1063
+    },
+    {
+      "zipcode": "59356",
+      "place": "Верхні Станівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59357",
+      "place": "Нижні Станівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59358",
+      "place": "Брусенки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8415,
+      "longitude": 29.8269
+    },
+    {
+      "zipcode": "59359",
+      "place": "Виноград",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2403,
+      "longitude": 30.5476
+    },
+    {
+      "zipcode": "59360",
+      "place": "Новий Киселів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59361",
+      "place": "Коростувата",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59362",
+      "place": "Остра",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2812,
+      "longitude": 26.5312
+    },
+    {
+      "zipcode": "59400",
+      "place": "Заставна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.0193,
+      "longitude": 31.653
+    },
+    {
+      "zipcode": "59401",
+      "place": "Яблунівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4648,
+      "longitude": 32.1829
+    },
+    {
+      "zipcode": "59406",
+      "place": "Мосорівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.0193,
+      "longitude": 31.653
+    },
+    {
+      "zipcode": "59409",
+      "place": "Рудка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.5737,
+      "longitude": 31.1232
+    },
+    {
+      "zipcode": "59410",
+      "place": "Кострижівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6546,
+      "longitude": 25.7132
+    },
+    {
+      "zipcode": "59411",
+      "place": "Бабин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5249,
+      "longitude": 26.8616
+    },
+    {
+      "zipcode": "59412",
+      "place": "Прилипче",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59413",
+      "place": "Звенячин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59414",
+      "place": "Репужинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59415",
+      "place": "Хрещатик",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59416",
+      "place": "Василів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59417",
+      "place": "Кулівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59418",
+      "place": "Йосипівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.3002,
+      "longitude": 24.5962
+    },
+    {
+      "zipcode": "59419",
+      "place": "Вимушів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1599,
+      "longitude": 25.7236
+    },
+    {
+      "zipcode": "59420",
+      "place": "Веренчанка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5465,
+      "longitude": 25.7453
+    },
+    {
+      "zipcode": "59421",
+      "place": "Кадубівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5834,
+      "longitude": 25.7687
+    },
+    {
+      "zipcode": "59422",
+      "place": "Чуньків",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.565,
+      "longitude": 25.757
+    },
+    {
+      "zipcode": "59423",
+      "place": "Дорошівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.565,
+      "longitude": 25.757
+    },
+    {
+      "zipcode": "59424",
+      "place": "Товтри",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.565,
+      "longitude": 25.757
+    },
+    {
+      "zipcode": "59430",
+      "place": "Брідок",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.6838,
+      "longitude": 27.8978
+    },
+    {
+      "zipcode": "59431",
+      "place": "Митків",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.473,
+      "longitude": 28.4957
+    },
+    {
+      "zipcode": "59432",
+      "place": "Самушин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.473,
+      "longitude": 28.4957
+    },
+    {
+      "zipcode": "59433",
+      "place": "Вікно",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5729,
+      "longitude": 25.9738
+    },
+    {
+      "zipcode": "59434",
+      "place": "Онут",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5691,
+      "longitude": 26.0503
+    },
+    {
+      "zipcode": "59435",
+      "place": "Чорний Потік",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1828,
+      "longitude": 22.9019
+    },
+    {
+      "zipcode": "59436",
+      "place": "Погорілівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.6636,
+      "longitude": 33.1662
+    },
+    {
+      "zipcode": "59437",
+      "place": "Баламутівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.473,
+      "longitude": 28.4957
+    },
+    {
+      "zipcode": "59439",
+      "place": "Степанівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1656,
+      "longitude": 34.9843
+    },
+    {
+      "zipcode": "59440",
+      "place": "Юрківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.779,
+      "longitude": 32.9337
+    },
+    {
+      "zipcode": "59441",
+      "place": "Вербівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.779,
+      "longitude": 32.9337
+    },
+    {
+      "zipcode": "59442",
+      "place": "Горошівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.779,
+      "longitude": 32.9337
+    },
+    {
+      "zipcode": "59443",
+      "place": "Боянчук",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.779,
+      "longitude": 32.9337
+    },
+    {
+      "zipcode": "59444",
+      "place": "Добринівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.779,
+      "longitude": 32.9337
+    },
+    {
+      "zipcode": "59445",
+      "place": "Ржавинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.779,
+      "longitude": 32.9337
+    },
+    {
+      "zipcode": "59450",
+      "place": "Малий Кучурів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5904,
+      "longitude": 28.2785
+    },
+    {
+      "zipcode": "59451",
+      "place": "Васловівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5904,
+      "longitude": 28.2785
+    },
+    {
+      "zipcode": "59452",
+      "place": "Горішні Шерівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5904,
+      "longitude": 28.2785
+    },
+    {
+      "zipcode": "59453",
+      "place": "Задубрівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5904,
+      "longitude": 28.2785
+    },
+    {
+      "zipcode": "59454",
+      "place": "Шубранець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.5904,
+      "longitude": 28.2785
+    },
+    {
+      "zipcode": "60000",
+      "place": "Хотин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5069,
+      "longitude": 26.4912
+    },
+    {
+      "zipcode": "60006",
+      "place": "Пригородок",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5319,
+      "longitude": 26.4075
+    },
+    {
+      "zipcode": "60007",
+      "place": "Орестівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.527,
+      "longitude": 26.4602
+    },
+    {
+      "zipcode": "60008",
+      "place": "Атаки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5422,
+      "longitude": 26.4817
+    },
+    {
+      "zipcode": "60009",
+      "place": "Анадоли",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.527,
+      "longitude": 26.4602
+    },
+    {
+      "zipcode": "60010",
+      "place": "Перебиківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60011",
+      "place": "Зелена Липа",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60012",
+      "place": "Рухотин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5156,
+      "longitude": 26.2058
+    },
+    {
+      "zipcode": "60013",
+      "place": "Гринячка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60014",
+      "place": "Клішківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4316,
+      "longitude": 26.2623
+    },
+    {
+      "zipcode": "60015",
+      "place": "Млинки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60016",
+      "place": "Поляна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6261,
+      "longitude": 22.9723
+    },
+    {
+      "zipcode": "60017",
+      "place": "Рашків",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60018",
+      "place": "Гордівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60019",
+      "place": "Корнешти",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5244,
+      "longitude": 25.1468
+    },
+    {
+      "zipcode": "60020",
+      "place": "Грозинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60021",
+      "place": "Бочківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60022",
+      "place": "Шилівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60023",
+      "place": "Колінківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60024",
+      "place": "Малинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60025",
+      "place": "Санківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60026",
+      "place": "Блищадь",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8837,
+      "longitude": 25.5993
+    },
+    {
+      "zipcode": "60030",
+      "place": "Рукшин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4889,
+      "longitude": 26.4002
+    },
+    {
+      "zipcode": "60031",
+      "place": "Чепоноси",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4889,
+      "longitude": 26.4002
+    },
+    {
+      "zipcode": "60032",
+      "place": "Ширівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4889,
+      "longitude": 26.4002
+    },
+    {
+      "zipcode": "60033",
+      "place": "Владична",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4889,
+      "longitude": 26.4002
+    },
+    {
+      "zipcode": "60034",
+      "place": "Зарожани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4889,
+      "longitude": 26.4002
+    },
+    {
+      "zipcode": "60035",
+      "place": "Недобоївці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4889,
+      "longitude": 26.4002
+    },
+    {
+      "zipcode": "60040",
+      "place": "Каплівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8677,
+      "longitude": 25.3627
+    },
+    {
+      "zipcode": "60041",
+      "place": "Данківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.9736,
+      "longitude": 26.8976
+    },
+    {
+      "zipcode": "60042",
+      "place": "Ворничани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8677,
+      "longitude": 25.3627
+    },
+    {
+      "zipcode": "60043",
+      "place": "Долиняни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8677,
+      "longitude": 25.3627
+    },
+    {
+      "zipcode": "60044",
+      "place": "Ставчани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7618,
+      "longitude": 23.8278
+    },
+    {
+      "zipcode": "60050",
+      "place": "Керстенці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0273,
+      "longitude": 25.2111
+    },
+    {
+      "zipcode": "60051",
+      "place": "Круглик",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3736,
+      "longitude": 26.4494
+    },
+    {
+      "zipcode": "60052",
+      "place": "Пашківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8163,
+      "longitude": 22.9437
+    },
+    {
+      "zipcode": "60053",
+      "place": "Білівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.0273,
+      "longitude": 25.2111
+    },
+    {
+      "zipcode": "60054",
+      "place": "Крутеньки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3729,
+      "longitude": 26.5495
+    },
+    {
+      "zipcode": "60055",
+      "place": "Ярівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.5464,
+      "longitude": 24.9018
+    },
+    {
+      "zipcode": "60100",
+      "place": "Кельменці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.465,
+      "longitude": 26.8346
+    },
+    {
+      "zipcode": "60110",
+      "place": "Вороновиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1095,
+      "longitude": 28.6808
+    },
+    {
+      "zipcode": "60111",
+      "place": "Ленківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3258,
+      "longitude": 25.9001
+    },
+    {
+      "zipcode": "60112",
+      "place": "Коновка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5085,
+      "longitude": 26.7215
+    },
+    {
+      "zipcode": "60113",
+      "place": "Грушівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2864,
+      "longitude": 27.6652
+    },
+    {
+      "zipcode": "60114",
+      "place": "Нагоряни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.3681,
+      "longitude": 28.5367
+    },
+    {
+      "zipcode": "60115",
+      "place": "Бабин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5249,
+      "longitude": 26.8616
+    },
+    {
+      "zipcode": "60116",
+      "place": "Макарівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.8817,
+      "longitude": 29.2904
+    },
+    {
+      "zipcode": "60119",
+      "place": "Кроква",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2864,
+      "longitude": 27.6652
+    },
+    {
+      "zipcode": "60120",
+      "place": "Бернове",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60121",
+      "place": "Мошанець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60122",
+      "place": "Перківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60123",
+      "place": "Путрине",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60124",
+      "place": "Оселівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60125",
+      "place": "Лівинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60126",
+      "place": "Михайлівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.1336,
+      "longitude": 26.8767
+    },
+    {
+      "zipcode": "60130",
+      "place": "Вартиківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6956,
+      "longitude": 26.6375
+    },
+    {
+      "zipcode": "60131",
+      "place": "Слобідка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.028,
+      "longitude": 26.5399
+    },
+    {
+      "zipcode": "60132",
+      "place": "Козиряни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6956,
+      "longitude": 26.6375
+    },
+    {
+      "zipcode": "60133",
+      "place": "Зелена",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3631,
+      "longitude": 26.7351
+    },
+    {
+      "zipcode": "60134",
+      "place": "Подвір'ївка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6956,
+      "longitude": 26.6375
+    },
+    {
+      "zipcode": "60140",
+      "place": "Комарів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.4011,
+      "longitude": 24.3172
+    },
+    {
+      "zipcode": "60141",
+      "place": "Дністрівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5367,
+      "longitude": 26.9272
+    },
+    {
+      "zipcode": "60142",
+      "place": "Бузовиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.4421,
+      "longitude": 25.1155
+    },
+    {
+      "zipcode": "60143",
+      "place": "Бурдюг",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.4421,
+      "longitude": 25.1155
+    },
+    {
+      "zipcode": "60144",
+      "place": "Іванівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.3885,
+      "longitude": 24.1022
+    },
+    {
+      "zipcode": "60147",
+      "place": "Майорка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.4421,
+      "longitude": 25.1155
+    },
+    {
+      "zipcode": "60150",
+      "place": "Вовчинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.7495,
+      "longitude": 28.5616
+    },
+    {
+      "zipcode": "60151",
+      "place": "Новоселиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2193,
+      "longitude": 26.2653
+    },
+    {
+      "zipcode": "60152",
+      "place": "Нелипівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9844,
+      "longitude": 27.4135
+    },
+    {
+      "zipcode": "60153",
+      "place": "Лукачівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9844,
+      "longitude": 27.4135
+    },
+    {
+      "zipcode": "60154",
+      "place": "Росошани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9844,
+      "longitude": 27.4135
+    },
+    {
+      "zipcode": "60155",
+      "place": "Браїлівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9844,
+      "longitude": 27.4135
+    },
+    {
+      "zipcode": "60200",
+      "place": "Сокиряни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4475,
+      "longitude": 27.4168
+    },
+    {
+      "zipcode": "60209",
+      "place": "Волошкове",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4475,
+      "longitude": 27.4168
+    },
+    {
+      "zipcode": "60210",
+      "place": "Братанівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2227,
+      "longitude": 27.3068
+    },
+    {
+      "zipcode": "60211",
+      "place": "Шебутинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2227,
+      "longitude": 27.3068
+    },
+    {
+      "zipcode": "60212",
+      "place": "Лопатів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2227,
+      "longitude": 27.3068
+    },
+    {
+      "zipcode": "60213",
+      "place": "Кормань",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2227,
+      "longitude": 27.3068
+    },
+    {
+      "zipcode": "60214",
+      "place": "Вітрянка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.2227,
+      "longitude": 27.3068
+    },
+    {
+      "zipcode": "60215",
+      "place": "Кулішівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.2454,
+      "longitude": 29.0635
+    },
+    {
+      "zipcode": "60216",
+      "place": "Селище",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2,
+      "longitude": 25.55
+    },
+    {
+      "zipcode": "60220",
+      "place": "Грубна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.4557,
+      "longitude": 27.0731
+    },
+    {
+      "zipcode": "60221",
+      "place": "Шишківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5995,
+      "longitude": 26.8823
+    },
+    {
+      "zipcode": "60222",
+      "place": "Вашківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3849,
+      "longitude": 25.5102
+    },
+    {
+      "zipcode": "60223",
+      "place": "Олексіївка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9579,
+      "longitude": 28.0637
+    },
+    {
+      "zipcode": "60224",
+      "place": "Новоолексіївка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5995,
+      "longitude": 26.8823
+    },
+    {
+      "zipcode": "60225",
+      "place": "Гвіздівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5995,
+      "longitude": 26.8823
+    },
+    {
+      "zipcode": "60226",
+      "place": "Романківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5995,
+      "longitude": 26.8823
+    },
+    {
+      "zipcode": "60228",
+      "place": "Нова Слобода",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5995,
+      "longitude": 26.8823
+    },
+    {
+      "zipcode": "60229",
+      "place": "Покровка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5995,
+      "longitude": 26.8823
+    },
+    {
+      "zipcode": "60230",
+      "place": "Сербичани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60231",
+      "place": "Коболчин",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60232",
+      "place": "Василівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60233",
+      "place": "Білоусівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60234",
+      "place": "Михалкове",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60235",
+      "place": "Ломачинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60236",
+      "place": "Новодністровськ",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60237",
+      "place": "Ожеве",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60238",
+      "place": "Галиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60239",
+      "place": "Непоротове",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60240",
+      "place": "Розкопинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60241",
+      "place": "Струмок",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.7819,
+      "longitude": 27.1129
+    },
+    {
+      "zipcode": "60300",
+      "place": "Новоселиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2193,
+      "longitude": 26.2653
+    },
+    {
+      "zipcode": "60307",
+      "place": "Зелений Гай",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5638,
+      "longitude": 27.2824
+    },
+    {
+      "zipcode": "60308",
+      "place": "Строїнці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9082,
+      "longitude": 28.2994
+    },
+    {
+      "zipcode": "60309",
+      "place": "Маршинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5638,
+      "longitude": 27.2824
+    },
+    {
+      "zipcode": "60310",
+      "place": "Чорнівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3008,
+      "longitude": 26.0394
+    },
+    {
+      "zipcode": "60311",
+      "place": "Топорівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3008,
+      "longitude": 26.0394
+    },
+    {
+      "zipcode": "60312",
+      "place": "Рідківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3008,
+      "longitude": 26.0394
+    },
+    {
+      "zipcode": "60313",
+      "place": "Магала",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2967,
+      "longitude": 26.048
+    },
+    {
+      "zipcode": "60314",
+      "place": "Буда",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3049,
+      "longitude": 26.0307
+    },
+    {
+      "zipcode": "60315",
+      "place": "Остриця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3008,
+      "longitude": 26.0394
+    },
+    {
+      "zipcode": "60320",
+      "place": "Рокитне",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 51.2796,
+      "longitude": 27.214
+    },
+    {
+      "zipcode": "60321",
+      "place": "Бояни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.089,
+      "longitude": 26.5898
+    },
+    {
+      "zipcode": "60322",
+      "place": "Малинівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.089,
+      "longitude": 26.5898
+    },
+    {
+      "zipcode": "60323",
+      "place": "Слобода",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2787,
+      "longitude": 26.2021
+    },
+    {
+      "zipcode": "60324",
+      "place": "Ревківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.089,
+      "longitude": 26.5898
+    },
+    {
+      "zipcode": "60325",
+      "place": "Припруття",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.089,
+      "longitude": 26.5898
+    },
+    {
+      "zipcode": "60326",
+      "place": "Прут",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.089,
+      "longitude": 26.5898
+    },
+    {
+      "zipcode": "60327",
+      "place": "Боянівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.7087,
+      "longitude": 26.3533
+    },
+    {
+      "zipcode": "60328",
+      "place": "Гай",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.089,
+      "longitude": 26.5898
+    },
+    {
+      "zipcode": "60330",
+      "place": "Рингач",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2377,
+      "longitude": 28.5185
+    },
+    {
+      "zipcode": "60331",
+      "place": "Динівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2377,
+      "longitude": 28.5185
+    },
+    {
+      "zipcode": "60332",
+      "place": "Шишківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2377,
+      "longitude": 28.5185
+    },
+    {
+      "zipcode": "60333",
+      "place": "Берестя",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2377,
+      "longitude": 28.5185
+    },
+    {
+      "zipcode": "60334",
+      "place": "Довжок",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2377,
+      "longitude": 28.5185
+    },
+    {
+      "zipcode": "60340",
+      "place": "Котелеве",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60341",
+      "place": "Форосна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60342",
+      "place": "Жилівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60344",
+      "place": "Щербинці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60345",
+      "place": "Черленівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60349",
+      "place": "Ванчинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60350",
+      "place": "Тарасівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60351",
+      "place": "Ванчиківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60352",
+      "place": "Костичани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60353",
+      "place": "Думени",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60355",
+      "place": "Новоіванківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60356",
+      "place": "Драниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60357",
+      "place": "Негринці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.9433,
+      "longitude": 26.8353
+    },
+    {
+      "zipcode": "60360",
+      "place": "Балківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2557,
+      "longitude": 26.5867
+    },
+    {
+      "zipcode": "60361",
+      "place": "Несвоя",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2557,
+      "longitude": 26.5867
+    },
+    {
+      "zipcode": "60362",
+      "place": "Стальнівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2557,
+      "longitude": 26.5867
+    },
+    {
+      "zipcode": "60363",
+      "place": "Подвірне",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2557,
+      "longitude": 26.5867
+    },
+    {
+      "zipcode": "60364",
+      "place": "Мамалига",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2557,
+      "longitude": 26.5867
+    },
+    {
+      "zipcode": "60365",
+      "place": "Кошуляни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2557,
+      "longitude": 26.5867
+    },
+    {
+      "zipcode": "60400",
+      "place": "Глибока",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.2723,
+      "longitude": 35.2224
+    },
+    {
+      "zipcode": "60407",
+      "place": "Димка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.2723,
+      "longitude": 35.2224
+    },
+    {
+      "zipcode": "60408",
+      "place": "Михайлівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.2723,
+      "longitude": 35.2224
+    },
+    {
+      "zipcode": "60409",
+      "place": "Червона Діброва",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.2723,
+      "longitude": 35.2224
+    },
+    {
+      "zipcode": "60410",
+      "place": "Коровія",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2477,
+      "longitude": 25.9416
+    },
+    {
+      "zipcode": "60411",
+      "place": "Валя Кузьмина",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2477,
+      "longitude": 25.9416
+    },
+    {
+      "zipcode": "60412",
+      "place": "Чагор",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2433,
+      "longitude": 25.9939
+    },
+    {
+      "zipcode": "60413",
+      "place": "Волока",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1923,
+      "longitude": 25.9307
+    },
+    {
+      "zipcode": "60414",
+      "place": "Грушівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2477,
+      "longitude": 25.9416
+    },
+    {
+      "zipcode": "60415",
+      "place": "Молодія",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2233,
+      "longitude": 26.0214
+    },
+    {
+      "zipcode": "60416",
+      "place": "Луковиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2477,
+      "longitude": 25.9416
+    },
+    {
+      "zipcode": "60417",
+      "place": "Кут",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3319,
+      "longitude": 25.8204
+    },
+    {
+      "zipcode": "60420",
+      "place": "Карапчів",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3228,
+      "longitude": 25.4502
+    },
+    {
+      "zipcode": "60421",
+      "place": "Йорданешти",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8138,
+      "longitude": 26.193
+    },
+    {
+      "zipcode": "60422",
+      "place": "Сучевени",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8138,
+      "longitude": 26.193
+    },
+    {
+      "zipcode": "60423",
+      "place": "Петричанка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0544,
+      "longitude": 25.8828
+    },
+    {
+      "zipcode": "60424",
+      "place": "Просіка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 50.8316,
+      "longitude": 27.6543
+    },
+    {
+      "zipcode": "60425",
+      "place": "Купка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0463,
+      "longitude": 25.7847
+    },
+    {
+      "zipcode": "60426",
+      "place": "Корчівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8138,
+      "longitude": 26.193
+    },
+    {
+      "zipcode": "60427",
+      "place": "Кам'янка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8138,
+      "longitude": 26.193
+    },
+    {
+      "zipcode": "60428",
+      "place": "Просикуряни",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8138,
+      "longitude": 26.193
+    },
+    {
+      "zipcode": "60430",
+      "place": "Тарашани",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2274,
+      "longitude": 25.0241
+    },
+    {
+      "zipcode": "60431",
+      "place": "Привороки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2274,
+      "longitude": 25.0241
+    },
+    {
+      "zipcode": "60432",
+      "place": "Станівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2274,
+      "longitude": 25.0241
+    },
+    {
+      "zipcode": "60433",
+      "place": "Турятка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2274,
+      "longitude": 25.0241
+    },
+    {
+      "zipcode": "60434",
+      "place": "Поляна",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6261,
+      "longitude": 22.9723
+    },
+    {
+      "zipcode": "60435",
+      "place": "Тереблече",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.024,
+      "longitude": 26.0645
+    },
+    {
+      "zipcode": "60437",
+      "place": "Горбівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.2274,
+      "longitude": 25.0241
+    },
+    {
+      "zipcode": "60438",
+      "place": "Стерче",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0321,
+      "longitude": 26.0353
+    },
+    {
+      "zipcode": "60440",
+      "place": "Старий Вовчинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3542,
+      "longitude": 26.1529
+    },
+    {
+      "zipcode": "60441",
+      "place": "Багринівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3542,
+      "longitude": 26.1529
+    },
+    {
+      "zipcode": "60442",
+      "place": "Біла Криниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.9763,
+      "longitude": 25.8862
+    },
+    {
+      "zipcode": "60444",
+      "place": "Черепківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3542,
+      "longitude": 26.1529
+    },
+    {
+      "zipcode": "60445",
+      "place": "Опришени",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.0584,
+      "longitude": 26.0327
+    },
+    {
+      "zipcode": "60446",
+      "place": "Нижні Синівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3542,
+      "longitude": 26.1529
+    },
+    {
+      "zipcode": "60447",
+      "place": "Новий Вовчинець",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3542,
+      "longitude": 26.1529
+    },
+    {
+      "zipcode": "60448",
+      "place": "Верхні Синівці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3542,
+      "longitude": 26.1529
+    },
+    {
+      "zipcode": "60449",
+      "place": "Слобідка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.028,
+      "longitude": 26.5399
+    },
+    {
+      "zipcode": "60501",
+      "place": "Герца",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1509,
+      "longitude": 26.2612
+    },
+    {
+      "zipcode": "60510",
+      "place": "Лунка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1834,
+      "longitude": 26.2935
+    },
+    {
+      "zipcode": "60511",
+      "place": "Великосілля",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 49.3946,
+      "longitude": 22.822
+    },
+    {
+      "zipcode": "60512",
+      "place": "Могилівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.789,
+      "longitude": 24.5578
+    },
+    {
+      "zipcode": "60513",
+      "place": "Молниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.789,
+      "longitude": 24.5578
+    },
+    {
+      "zipcode": "60520",
+      "place": "Остриця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60521",
+      "place": "Цурень",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60522",
+      "place": "Горбова",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60523",
+      "place": "Банчени",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60524",
+      "place": "Годинівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60525",
+      "place": "Луковиця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60526",
+      "place": "Маморниця",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60527",
+      "place": "Радгоспівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 47.4096,
+      "longitude": 32.1842
+    },
+    {
+      "zipcode": "60530",
+      "place": "Хряцька",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3818,
+      "longitude": 27.8266
+    },
+    {
+      "zipcode": "60531",
+      "place": "Велика Буда",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3818,
+      "longitude": 27.8266
+    },
+    {
+      "zipcode": "60532",
+      "place": "Мала Буда",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3818,
+      "longitude": 27.8266
+    },
+    {
+      "zipcode": "60533",
+      "place": "Круп'янське",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.3818,
+      "longitude": 27.8266
+    },
+    {
+      "zipcode": "60540",
+      "place": "Байраки",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.6069,
+      "longitude": 32.3369
+    },
+    {
+      "zipcode": "60541",
+      "place": "Підвальне",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5114,
+      "longitude": 29.0751
+    },
+    {
+      "zipcode": "60542",
+      "place": "Петрашівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.8024,
+      "longitude": 28.6724
+    },
+    {
+      "zipcode": "60543",
+      "place": "Тернавка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.1248,
+      "longitude": 26.2161
+    },
+    {
+      "zipcode": "60544",
+      "place": "Дяківці",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5114,
+      "longitude": 29.0751
+    },
+    {
+      "zipcode": "60545",
+      "place": "Куликівка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5114,
+      "longitude": 29.0751
+    },
+    {
+      "zipcode": "60546",
+      "place": "Буківка",
+      "oblast": "Чернівецька область",
+      "oblast_en": "Chernivtsi Oblast",
+      "iso_3166_2": "UA-73",
+      "latitude": 48.5114,
+      "longitude": 29.0751
+    }
+  ],
+  "meta": {
+    "title": "Поштові індекси: Чернівецька область - Безкоштовне завантаження",
+    "description": "Поштові індекси населених пунктів — Чернівецька область (439 записів). Назви українською, координати WGS84, ISO 3166-2 UA-73. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv. Містить 439 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Поштові індекси: Чернівецька область | ListBase",
+    "seo_description": "Завантажити Поштові індекси: Чернівецька область — 439 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 439 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","temperature-celsius","temperature","градуси Цельсія","°C","°C","{0} градуса Цельсія"
+"2","temperature-fahrenheit","temperature","градуси Фаренгейта","°F","°F","{0} градуса Фаренгейта"
+"3","temperature-generic","temperature","°","°","°","{0}°"
+"4","temperature-kelvin","temperature","кельвіни","К","К","{0} кельвіна"
+"5","temperature-rankine","temperature","°R","°R","°R","{0} °R"

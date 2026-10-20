@@ -1,0 +1,266 @@
+{
+  "id": "uk-polia-daty-chasu",
+  "name": "Поля дати й часу — назви українською (CLDR)",
+  "title": "Поля дати й часу — назви українською (CLDR)",
+  "description": "Назви полів дати й часу (ера, рік, місяць, день, година...) з локалі uk у CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "era",
+      "nazva": "ера"
+    },
+    {
+      "id": 2,
+      "code": "era-short",
+      "nazva": "е."
+    },
+    {
+      "id": 3,
+      "code": "era-narrow",
+      "nazva": "е"
+    },
+    {
+      "id": 4,
+      "code": "year",
+      "nazva": "рік"
+    },
+    {
+      "id": 5,
+      "code": "year-short",
+      "nazva": "р."
+    },
+    {
+      "id": 6,
+      "code": "year-narrow",
+      "nazva": "р"
+    },
+    {
+      "id": 7,
+      "code": "quarter",
+      "nazva": "квартал"
+    },
+    {
+      "id": 8,
+      "code": "quarter-short",
+      "nazva": "кв."
+    },
+    {
+      "id": 9,
+      "code": "quarter-narrow",
+      "nazva": "кв"
+    },
+    {
+      "id": 10,
+      "code": "month",
+      "nazva": "місяць"
+    },
+    {
+      "id": 11,
+      "code": "month-short",
+      "nazva": "міс."
+    },
+    {
+      "id": 12,
+      "code": "month-narrow",
+      "nazva": "м"
+    },
+    {
+      "id": 13,
+      "code": "week",
+      "nazva": "тиждень"
+    },
+    {
+      "id": 14,
+      "code": "week-short",
+      "nazva": "тиж."
+    },
+    {
+      "id": 15,
+      "code": "week-narrow",
+      "nazva": "т"
+    },
+    {
+      "id": 16,
+      "code": "weekOfMonth",
+      "nazva": "тиждень місяця"
+    },
+    {
+      "id": 17,
+      "code": "weekOfMonth-short",
+      "nazva": "тиж. місяця"
+    },
+    {
+      "id": 18,
+      "code": "weekOfMonth-narrow",
+      "nazva": "тиж. міс."
+    },
+    {
+      "id": 19,
+      "code": "day",
+      "nazva": "день"
+    },
+    {
+      "id": 20,
+      "code": "day-short",
+      "nazva": "д."
+    },
+    {
+      "id": 21,
+      "code": "day-narrow",
+      "nazva": "д"
+    },
+    {
+      "id": 22,
+      "code": "dayOfYear",
+      "nazva": "день року"
+    },
+    {
+      "id": 23,
+      "code": "dayOfYear-short",
+      "nazva": "д. року"
+    },
+    {
+      "id": 24,
+      "code": "dayOfYear-narrow",
+      "nazva": "д. р."
+    },
+    {
+      "id": 25,
+      "code": "weekday",
+      "nazva": "день тижня"
+    },
+    {
+      "id": 26,
+      "code": "weekday-short",
+      "nazva": "д. тижня"
+    },
+    {
+      "id": 27,
+      "code": "weekday-narrow",
+      "nazva": "д. тиж."
+    },
+    {
+      "id": 28,
+      "code": "weekdayOfMonth",
+      "nazva": "день місяця"
+    },
+    {
+      "id": 29,
+      "code": "weekdayOfMonth-short",
+      "nazva": "д. місяця"
+    },
+    {
+      "id": 30,
+      "code": "weekdayOfMonth-narrow",
+      "nazva": "д. міс."
+    },
+    {
+      "id": 31,
+      "code": "dayperiod-short",
+      "nazva": "дп/пп"
+    },
+    {
+      "id": 32,
+      "code": "dayperiod",
+      "nazva": "дп/пп"
+    },
+    {
+      "id": 33,
+      "code": "dayperiod-narrow",
+      "nazva": "дп/пп"
+    },
+    {
+      "id": 34,
+      "code": "hour",
+      "nazva": "година"
+    },
+    {
+      "id": 35,
+      "code": "hour-short",
+      "nazva": "год."
+    },
+    {
+      "id": 36,
+      "code": "hour-narrow",
+      "nazva": "год"
+    },
+    {
+      "id": 37,
+      "code": "minute",
+      "nazva": "хвилина"
+    },
+    {
+      "id": 38,
+      "code": "minute-short",
+      "nazva": "хв."
+    },
+    {
+      "id": 39,
+      "code": "minute-narrow",
+      "nazva": "хв"
+    },
+    {
+      "id": 40,
+      "code": "second",
+      "nazva": "секунда"
+    },
+    {
+      "id": 41,
+      "code": "second-short",
+      "nazva": "с"
+    },
+    {
+      "id": 42,
+      "code": "second-narrow",
+      "nazva": "с"
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "nazva": "часовий пояс"
+    },
+    {
+      "id": 44,
+      "code": "zone-short",
+      "nazva": "час. пояс"
+    },
+    {
+      "id": 45,
+      "code": "zone-narrow",
+      "nazva": "час. п."
+    }
+  ],
+  "meta": {
+    "title": "Поля дати й часу — назви українською (CLDR) - Безкоштовне завантаження",
+    "description": "Назви полів дати й часу (ера, рік, місяць, день, година...) з локалі uk у CLDR. Містить 45 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Поля дати й часу — назви українською (CLDR) | ListBase",
+    "seo_description": "Завантажити Поля дати й часу — назви українською (CLDR) — 45 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 45 записів / 3 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,1115 @@
+{
+  "id": "uk-chasovi-poyasy-metazona",
+  "name": "Метазони (макрорегіональні часові пояси) — назви українською",
+  "title": "Метазони (макрорегіональні часові пояси) — назви українською",
+  "description": "Метазони (макрорегіональні часові пояси) з локалі uk у CLDR — із загальною назвою, стандартною назвою та літньою назвою.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 152,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "zahalna_nazva",
+      "label": "Zahalna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "zahalna_nazva": "час: Акрі",
+      "standartna_nazva": "час: Акрі, стандартний",
+      "litnia_nazva": "час: Акрі, літній"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом в Афганістані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за центральноафриканським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за східноафриканським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за південноафриканським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за західноафриканським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "zahalna_nazva": "за часом на Алясці",
+      "standartna_nazva": "за стандартним часом на Алясці",
+      "litnia_nazva": "за літнім часом на Алясці"
+    },
+    {
+      "id": 8,
+      "code": "Amazon",
+      "zahalna_nazva": "за часом на Амазонці",
+      "standartna_nazva": "за стандартним часом на Амазонці",
+      "litnia_nazva": "за літнім часом на Амазонці"
+    },
+    {
+      "id": 9,
+      "code": "America_Central",
+      "zahalna_nazva": "за північноамериканським центральним часом",
+      "standartna_nazva": "за північноамериканським центральним стандартним часом",
+      "litnia_nazva": "за північноамериканським центральним літнім часом"
+    },
+    {
+      "id": 10,
+      "code": "America_Eastern",
+      "zahalna_nazva": "за північноамериканським східним часом",
+      "standartna_nazva": "за північноамериканським східним стандартним часом",
+      "litnia_nazva": "за північноамериканським східним літнім часом"
+    },
+    {
+      "id": 11,
+      "code": "America_Mountain",
+      "zahalna_nazva": "за північноамериканським гірським часом",
+      "standartna_nazva": "за північноамериканським гірським стандартним часом",
+      "litnia_nazva": "за північноамериканським гірським літнім часом"
+    },
+    {
+      "id": 12,
+      "code": "America_Pacific",
+      "zahalna_nazva": "за північноамериканським тихоокеанським часом",
+      "standartna_nazva": "за північноамериканським тихоокеанським стандартним часом",
+      "litnia_nazva": "за північноамериканським тихоокеанським літнім часом"
+    },
+    {
+      "id": 13,
+      "code": "Anadyr",
+      "zahalna_nazva": "час: Анадир",
+      "standartna_nazva": "час: Анадир, стандартний",
+      "litnia_nazva": "час: Анадир, літній"
+    },
+    {
+      "id": 14,
+      "code": "Apia",
+      "zahalna_nazva": "за часом в Апіа",
+      "standartna_nazva": "за стандартним часом в Апіа",
+      "litnia_nazva": "за літнім часом в Апіа"
+    },
+    {
+      "id": 15,
+      "code": "Arabian",
+      "zahalna_nazva": "за арабським часом",
+      "standartna_nazva": "за арабським стандартним часом",
+      "litnia_nazva": "за арабським літнім часом"
+    },
+    {
+      "id": 16,
+      "code": "Argentina",
+      "zahalna_nazva": "за аргентинським часом",
+      "standartna_nazva": "за стандартним аргентинським часом",
+      "litnia_nazva": "за літнім аргентинським часом"
+    },
+    {
+      "id": 17,
+      "code": "Argentina_Western",
+      "zahalna_nazva": "за західноаргентинським часом",
+      "standartna_nazva": "за стандартним західноаргентинським часом",
+      "litnia_nazva": "за літнім за західноаргентинським часом"
+    },
+    {
+      "id": 18,
+      "code": "Armenia",
+      "zahalna_nazva": "за вірменським часом",
+      "standartna_nazva": "за вірменським стандартним часом",
+      "litnia_nazva": "за вірменським літнім часом"
+    },
+    {
+      "id": 19,
+      "code": "Atlantic",
+      "zahalna_nazva": "за атлантичним часом",
+      "standartna_nazva": "за атлантичним стандартним часом",
+      "litnia_nazva": "за атлантичним літнім часом"
+    },
+    {
+      "id": 20,
+      "code": "Australia_Central",
+      "zahalna_nazva": "за центральноавстралійським часом",
+      "standartna_nazva": "за стандартним центральноавстралійським часом",
+      "litnia_nazva": "за літнім центральноавстралійським часом"
+    },
+    {
+      "id": 21,
+      "code": "Australia_CentralWestern",
+      "zahalna_nazva": "за центральнозахідним австралійським часом",
+      "standartna_nazva": "за стандартним центральнозахідним австралійським часом",
+      "litnia_nazva": "за літнім центральнозахідним австралійським часом"
+    },
+    {
+      "id": 22,
+      "code": "Australia_Eastern",
+      "zahalna_nazva": "за східноавстралійським часом",
+      "standartna_nazva": "за стандартним східноавстралійським часом",
+      "litnia_nazva": "за літнім східноавстралійським часом"
+    },
+    {
+      "id": 23,
+      "code": "Australia_Western",
+      "zahalna_nazva": "за західноавстралійським часом",
+      "standartna_nazva": "за стандартним західноавстралійським часом",
+      "litnia_nazva": "за літнім західноавстралійським часом"
+    },
+    {
+      "id": 24,
+      "code": "Azerbaijan",
+      "zahalna_nazva": "за азербайджанським часом",
+      "standartna_nazva": "за стандартним азербайджанським часом",
+      "litnia_nazva": "за літнім азербайджанським часом"
+    },
+    {
+      "id": 25,
+      "code": "Azores",
+      "zahalna_nazva": "за часом на Азорських островах",
+      "standartna_nazva": "за стандартним часом на Азорських островах",
+      "litnia_nazva": "за літнім часом на Азорських островах"
+    },
+    {
+      "id": 26,
+      "code": "Bangladesh",
+      "zahalna_nazva": "за часом у Бангладеш",
+      "standartna_nazva": "за стандартним часом у Бангладеш",
+      "litnia_nazva": "за літнім часом у Бангладеш"
+    },
+    {
+      "id": 27,
+      "code": "Bhutan",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Бутані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "code": "Bolivia",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за болівійським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "code": "Brasilia",
+      "zahalna_nazva": "за бразильським часом",
+      "standartna_nazva": "за стандартним бразильським часом",
+      "litnia_nazva": "за літнім бразильським часом"
+    },
+    {
+      "id": 30,
+      "code": "Brunei",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Брунеї",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "code": "Cape_Verde",
+      "zahalna_nazva": "за часом на островах Кабо-Верде",
+      "standartna_nazva": "за стандартним часом на островах Кабо-Верде",
+      "litnia_nazva": "за літнім часом на островах Кабо-Верде"
+    },
+    {
+      "id": 32,
+      "code": "Chamorro",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Північних Маріанських островах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "code": "Chatham",
+      "zahalna_nazva": "за часом на архіпелазі Чатем",
+      "standartna_nazva": "за стандартним часом на архіпелазі Чатем",
+      "litnia_nazva": "за літнім часом на архіпелазі Чатем"
+    },
+    {
+      "id": 34,
+      "code": "Chile",
+      "zahalna_nazva": "за чилійським часом",
+      "standartna_nazva": "за стандартним чилійським часом",
+      "litnia_nazva": "за літнім чилійським часом"
+    },
+    {
+      "id": 35,
+      "code": "China",
+      "zahalna_nazva": "за китайським часом",
+      "standartna_nazva": "за китайським стандартним часом",
+      "litnia_nazva": "за китайським літнім часом"
+    },
+    {
+      "id": 36,
+      "code": "Christmas",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Різдва",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "code": "Cocos",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Кокосових островах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "code": "Colombia",
+      "zahalna_nazva": "за колумбійським часом",
+      "standartna_nazva": "за стандартним колумбійським часом",
+      "litnia_nazva": "за літнім колумбійським часом"
+    },
+    {
+      "id": 39,
+      "code": "Cook",
+      "zahalna_nazva": "за часом на Островах Кука",
+      "standartna_nazva": "за стандартним часом на Островах Кука",
+      "litnia_nazva": "за літнім часом на Островах Кука"
+    },
+    {
+      "id": 40,
+      "code": "Cuba",
+      "zahalna_nazva": "за часом на Кубі",
+      "standartna_nazva": "за стандартним часом на Кубі",
+      "litnia_nazva": "за літнім часом на Кубі"
+    },
+    {
+      "id": 41,
+      "code": "Davis",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на станції Девіс",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 42,
+      "code": "DumontDUrville",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на станції Дюмон дʼЮрвіль",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 43,
+      "code": "East_Timor",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Східному Тиморі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 44,
+      "code": "Easter",
+      "zahalna_nazva": "за часом на острові Пасхи",
+      "standartna_nazva": "за стандартним часом на острові Пасхи",
+      "litnia_nazva": "за літнім часом на острові Пасхи"
+    },
+    {
+      "id": 45,
+      "code": "Ecuador",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом в Еквадорі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 46,
+      "code": "Europe_Central",
+      "zahalna_nazva": "за центральноєвропейським часом",
+      "standartna_nazva": "за центральноєвропейським стандартним часом",
+      "litnia_nazva": "за центральноєвропейським літнім часом"
+    },
+    {
+      "id": 47,
+      "code": "Europe_Eastern",
+      "zahalna_nazva": "за східноєвропейським часом",
+      "standartna_nazva": "за східноєвропейським стандартним часом",
+      "litnia_nazva": "за східноєвропейським літнім часом"
+    },
+    {
+      "id": 48,
+      "code": "Europe_Further_Eastern",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за далекосхідним європейським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 49,
+      "code": "Europe_Western",
+      "zahalna_nazva": "за західноєвропейським часом",
+      "standartna_nazva": "за західноєвропейським стандартним часом",
+      "litnia_nazva": "за західноєвропейським літнім часом"
+    },
+    {
+      "id": 50,
+      "code": "Falkland",
+      "zahalna_nazva": "за часом на Фолклендських Островах",
+      "standartna_nazva": "за стандартним часом на Фолклендських Островах",
+      "litnia_nazva": "за літнім часом на Фолклендських Островах"
+    },
+    {
+      "id": 51,
+      "code": "Fiji",
+      "zahalna_nazva": "за часом у Фіджі",
+      "standartna_nazva": "за стандартним часом у Фіджі",
+      "litnia_nazva": "за літнім часом у Фіджі"
+    },
+    {
+      "id": 52,
+      "code": "French_Guiana",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом Французької Ґвіани",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 53,
+      "code": "French_Southern",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Французьких Південних і Антарктичних територіях",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 54,
+      "code": "GMT",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за Гринвічем",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 55,
+      "code": "Galapagos",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом Ґалапаґосу",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 56,
+      "code": "Gambier",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Ґамбʼє",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 57,
+      "code": "Georgia",
+      "zahalna_nazva": "за грузинським часом",
+      "standartna_nazva": "за стандартним грузинським часом",
+      "litnia_nazva": "за літнім грузинським часом"
+    },
+    {
+      "id": 58,
+      "code": "Gilbert_Islands",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Гілберта",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 59,
+      "code": "Greenland_Eastern",
+      "zahalna_nazva": "за східним часом у Ґренландії",
+      "standartna_nazva": "за стандартним східним часом у Ґренландії",
+      "litnia_nazva": "за літнім східним часом у Ґренландії"
+    },
+    {
+      "id": 60,
+      "code": "Greenland_Western",
+      "zahalna_nazva": "за західним часом у Ґренландії",
+      "standartna_nazva": "за стандартним західним часом у Ґренландії",
+      "litnia_nazva": "за літнім західним часом у Ґренландії"
+    },
+    {
+      "id": 61,
+      "code": "Gulf",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом Перської затоки",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 62,
+      "code": "Guyana",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Ґаяні",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 63,
+      "code": "Hawaii",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за стандартним гавайсько-алеутським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 64,
+      "code": "Hawaii_Aleutian",
+      "zahalna_nazva": "за гавайсько-алеутським часом",
+      "standartna_nazva": "за стандартним гавайсько-алеутським часом",
+      "litnia_nazva": "за літнім гавайсько-алеутським часом"
+    },
+    {
+      "id": 65,
+      "code": "Hong_Kong",
+      "zahalna_nazva": "за часом у Гонконзі",
+      "standartna_nazva": "за стандартним часом у Гонконзі",
+      "litnia_nazva": "за літнім часом у Гонконзі"
+    },
+    {
+      "id": 66,
+      "code": "Hovd",
+      "zahalna_nazva": "за часом у Ховді",
+      "standartna_nazva": "за стандартним часом у Ховді",
+      "litnia_nazva": "за літнім часом у Ховді"
+    },
+    {
+      "id": 67,
+      "code": "India",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за індійським стандартним часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 68,
+      "code": "Indian_Ocean",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом в Індійському Океані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 69,
+      "code": "Indochina",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом в Індокитаї",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 70,
+      "code": "Indonesia_Central",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за центральноіндонезійським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 71,
+      "code": "Indonesia_Eastern",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за східноіндонезійським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 72,
+      "code": "Indonesia_Western",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за західноіндонезійським часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 73,
+      "code": "Iran",
+      "zahalna_nazva": "за іранським часом",
+      "standartna_nazva": "за іранським стандартним часом",
+      "litnia_nazva": "за іранським літнім часом"
+    },
+    {
+      "id": 74,
+      "code": "Irkutsk",
+      "zahalna_nazva": "за іркутським часом",
+      "standartna_nazva": "за іркутським стандартним часом",
+      "litnia_nazva": "за іркутським літнім часом"
+    },
+    {
+      "id": 75,
+      "code": "Israel",
+      "zahalna_nazva": "за ізраїльським часом",
+      "standartna_nazva": "за ізраїльським стандартним часом",
+      "litnia_nazva": "за ізраїльським літнім часом"
+    },
+    {
+      "id": 76,
+      "code": "Japan",
+      "zahalna_nazva": "за японським часом",
+      "standartna_nazva": "за японським стандартним часом",
+      "litnia_nazva": "за японським літнім часом"
+    },
+    {
+      "id": 77,
+      "code": "Kamchatka",
+      "zahalna_nazva": "за камчатським часом",
+      "standartna_nazva": "за камчатським стандартним часом",
+      "litnia_nazva": "за камчатським літнім часом"
+    },
+    {
+      "id": 78,
+      "code": "Kazakhstan",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Казахстані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 79,
+      "code": "Kazakhstan_Eastern",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за східним часом у Казахстані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 80,
+      "code": "Kazakhstan_Western",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за західним часом у Казахстані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 81,
+      "code": "Korea",
+      "zahalna_nazva": "за корейським часом",
+      "standartna_nazva": "за корейським стандартним часом",
+      "litnia_nazva": "за корейським літнім часом"
+    },
+    {
+      "id": 82,
+      "code": "Kosrae",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Косрае",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 83,
+      "code": "Krasnoyarsk",
+      "zahalna_nazva": "за красноярським часом",
+      "standartna_nazva": "за красноярським стандартним часом",
+      "litnia_nazva": "за красноярським літнім часом"
+    },
+    {
+      "id": 84,
+      "code": "Kyrgystan",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Киргизстані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 85,
+      "code": "Lanka",
+      "zahalna_nazva": "",
+      "standartna_nazva": "час: Ланка",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 86,
+      "code": "Line_Islands",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Лайн",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 87,
+      "code": "Lord_Howe",
+      "zahalna_nazva": "за часом на острові Лорд-Хау",
+      "standartna_nazva": "за стандартним часом на острові Лорд-Хау",
+      "litnia_nazva": "за літнім часом на острові Лорд-Хау"
+    },
+    {
+      "id": 88,
+      "code": "Magadan",
+      "zahalna_nazva": "за магаданським часом",
+      "standartna_nazva": "за магаданським стандартним часом",
+      "litnia_nazva": "за магаданським літнім часом"
+    },
+    {
+      "id": 89,
+      "code": "Malaysia",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Малайзії",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 90,
+      "code": "Maldives",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Мальдівах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 91,
+      "code": "Marquesas",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Маркізьких островах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 92,
+      "code": "Marshall_Islands",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Маршаллових Островах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 93,
+      "code": "Mauritius",
+      "zahalna_nazva": "за часом на острові Маврикій",
+      "standartna_nazva": "за стандартним часом на острові Маврикій",
+      "litnia_nazva": "за літнім часом на острові Маврикій"
+    },
+    {
+      "id": 94,
+      "code": "Mawson",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на станції Моусон",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 95,
+      "code": "Mexico_Pacific",
+      "zahalna_nazva": "за тихоокеанським часом у Мексиці",
+      "standartna_nazva": "за стандартним тихоокеанським часом у Мексиці",
+      "litnia_nazva": "за літнім тихоокеанським часом у Мексиці"
+    },
+    {
+      "id": 96,
+      "code": "Mongolia",
+      "zahalna_nazva": "за часом в Улан-Баторі",
+      "standartna_nazva": "за стандартним часом в Улан-Баторі",
+      "litnia_nazva": "за літнім часом в Улан-Баторі"
+    },
+    {
+      "id": 97,
+      "code": "Moscow",
+      "zahalna_nazva": "за московським часом",
+      "standartna_nazva": "за московським стандартним часом",
+      "litnia_nazva": "за московським літнім часом"
+    },
+    {
+      "id": 98,
+      "code": "Myanmar",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Мʼянмі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 99,
+      "code": "Nauru",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Науру",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 100,
+      "code": "Nepal",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Непалі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 101,
+      "code": "New_Caledonia",
+      "zahalna_nazva": "за часом на островах Нової Каледонії",
+      "standartna_nazva": "за стандартним часом на островах Нової Каледонії",
+      "litnia_nazva": "за літнім часом на островах Нової Каледонії"
+    },
+    {
+      "id": 102,
+      "code": "New_Zealand",
+      "zahalna_nazva": "за часом у Новій Зеландії",
+      "standartna_nazva": "за стандартним часом у Новій Зеландії",
+      "litnia_nazva": "за літнім часом у Новій Зеландії"
+    },
+    {
+      "id": 103,
+      "code": "Newfoundland",
+      "zahalna_nazva": "за часом на острові Ньюфаундленд",
+      "standartna_nazva": "за стандартним часом на острові Ньюфаундленд",
+      "litnia_nazva": "за літнім часом у Ньюфаундленд"
+    },
+    {
+      "id": 104,
+      "code": "Niue",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Ніуе",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 105,
+      "code": "Norfolk",
+      "zahalna_nazva": "за часом на острові Норфолк",
+      "standartna_nazva": "за стандартним часом на острові Норфолк",
+      "litnia_nazva": "за літнім часом на острові Норфолк"
+    },
+    {
+      "id": 106,
+      "code": "Noronha",
+      "zahalna_nazva": "за часом на архіпелазі Фернанду-ді-Норонья",
+      "standartna_nazva": "за стандартним часом на архіпелазі Фернанду-ді-Норонья",
+      "litnia_nazva": "за літнім часом на архіпелазі Фернанду-ді-Норонья"
+    },
+    {
+      "id": 107,
+      "code": "Novosibirsk",
+      "zahalna_nazva": "за новосибірським часом",
+      "standartna_nazva": "за новосибірським стандартним часом",
+      "litnia_nazva": "за новосибірським літнім часом"
+    },
+    {
+      "id": 108,
+      "code": "Omsk",
+      "zahalna_nazva": "за омським часом",
+      "standartna_nazva": "за омським стандартним часом",
+      "litnia_nazva": "за омським літнім часом"
+    },
+    {
+      "id": 109,
+      "code": "Pakistan",
+      "zahalna_nazva": "за часом у Пакистані",
+      "standartna_nazva": "за стандартним часом у Пакистані",
+      "litnia_nazva": "за літнім часом у Пакистані"
+    },
+    {
+      "id": 110,
+      "code": "Palau",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Палау",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 111,
+      "code": "Papua_New_Guinea",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Папуа-Нова Ґвінея",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 112,
+      "code": "Paraguay",
+      "zahalna_nazva": "за параґвайським часом",
+      "standartna_nazva": "за стандартним параґвайським часом",
+      "litnia_nazva": "за літнім параґвайським часом"
+    },
+    {
+      "id": 113,
+      "code": "Peru",
+      "zahalna_nazva": "за часом у Перу",
+      "standartna_nazva": "за стандартним часом у Перу",
+      "litnia_nazva": "за літнім часом у Перу"
+    },
+    {
+      "id": 114,
+      "code": "Philippines",
+      "zahalna_nazva": "за часом на Філіппінах",
+      "standartna_nazva": "за стандартним часом на Філіппінах",
+      "litnia_nazva": "за літнім часом на Філіппінах"
+    },
+    {
+      "id": 115,
+      "code": "Phoenix_Islands",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Фенікс",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 116,
+      "code": "Pierre_Miquelon",
+      "zahalna_nazva": "за часом на островах Сен-П’єр і Мікелон",
+      "standartna_nazva": "за стандартним часом на островах Сен-П’єр і Мікелон",
+      "litnia_nazva": "за літнім часом на островах Сен-П’єр і Мікелон"
+    },
+    {
+      "id": 117,
+      "code": "Pitcairn",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Піткерн",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 118,
+      "code": "Ponape",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Понапе",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 119,
+      "code": "Pyongyang",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Пхеньяні",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 120,
+      "code": "Qyzylorda",
+      "zahalna_nazva": "час: Кизилорда",
+      "standartna_nazva": "час: Кизилорда, стандартний",
+      "litnia_nazva": "час: Кизилорда, літній"
+    },
+    {
+      "id": 121,
+      "code": "Reunion",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Реюньйон",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 122,
+      "code": "Rothera",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на станції Ротера",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 123,
+      "code": "Sakhalin",
+      "zahalna_nazva": "за сахалінським часом",
+      "standartna_nazva": "за сахалінським стандартним часом",
+      "litnia_nazva": "за сахалінським літнім часом"
+    },
+    {
+      "id": 124,
+      "code": "Samara",
+      "zahalna_nazva": "за самарським часом",
+      "standartna_nazva": "за самарським стандартним часом",
+      "litnia_nazva": "за самарським літнім часом"
+    },
+    {
+      "id": 125,
+      "code": "Samoa",
+      "zahalna_nazva": "за часом на острові Самоа",
+      "standartna_nazva": "за стандартним часом на острові Самоа",
+      "litnia_nazva": "за літнім часом на острові Самоа"
+    },
+    {
+      "id": 126,
+      "code": "Seychelles",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Сейшельських Островах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 127,
+      "code": "Singapore",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Сінгапурі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 128,
+      "code": "Solomon",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на Соломонових Островах",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 129,
+      "code": "South_Georgia",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Південна Джорджія",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 130,
+      "code": "Suriname",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Суринамі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 131,
+      "code": "Syowa",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на станції Сева",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 132,
+      "code": "Tahiti",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Таїті",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 133,
+      "code": "Taipei",
+      "zahalna_nazva": "за часом у Тайбеї",
+      "standartna_nazva": "за стандартним часом у Тайбеї",
+      "litnia_nazva": "за літнім часом у Тайбеї"
+    },
+    {
+      "id": 134,
+      "code": "Tajikistan",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Таджикистані",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 135,
+      "code": "Tokelau",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Токелау",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 136,
+      "code": "Tonga",
+      "zahalna_nazva": "за часом на островах Тонга",
+      "standartna_nazva": "за стандартним часом на островах Тонга",
+      "litnia_nazva": "за літнім часом на островах Тонга"
+    },
+    {
+      "id": 137,
+      "code": "Truk",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Чуук",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 138,
+      "code": "Turkey",
+      "zahalna_nazva": "за турецьким часом",
+      "standartna_nazva": "за турецьким стандартним часом",
+      "litnia_nazva": "за турецьким літнім часом"
+    },
+    {
+      "id": 139,
+      "code": "Turkmenistan",
+      "zahalna_nazva": "за часом у Туркменістані",
+      "standartna_nazva": "за стандартним часом у Туркменістані",
+      "litnia_nazva": "за літнім часом у Туркменістані"
+    },
+    {
+      "id": 140,
+      "code": "Tuvalu",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Тувалу",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 141,
+      "code": "Uruguay",
+      "zahalna_nazva": "за часом в Уруґваї",
+      "standartna_nazva": "за стандартним часом в Уруґваї",
+      "litnia_nazva": "за літнім часом в Уруґваї"
+    },
+    {
+      "id": 142,
+      "code": "Uzbekistan",
+      "zahalna_nazva": "за часом в Узбекистані",
+      "standartna_nazva": "за стандартним часом в Узбекистані",
+      "litnia_nazva": "за літнім часом в Узбекистані"
+    },
+    {
+      "id": 143,
+      "code": "Vanuatu",
+      "zahalna_nazva": "за часом на островах Вануату",
+      "standartna_nazva": "за стандартним часом на островах Вануату",
+      "litnia_nazva": "за літнім часом на островах Вануату"
+    },
+    {
+      "id": 144,
+      "code": "Venezuela",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом у Венесуелі",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 145,
+      "code": "Vladivostok",
+      "zahalna_nazva": "за владивостоцьким часом",
+      "standartna_nazva": "за владивостоцьким стандартним часом",
+      "litnia_nazva": "за владивостоцьким літнім часом"
+    },
+    {
+      "id": 146,
+      "code": "Volgograd",
+      "zahalna_nazva": "за волгоградським часом",
+      "standartna_nazva": "за волгоградським стандартним часом",
+      "litnia_nazva": "за волгоградським літнім часом"
+    },
+    {
+      "id": 147,
+      "code": "Vostok",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на станції Восток",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 148,
+      "code": "Wake",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на острові Вейк",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 149,
+      "code": "Wallis",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за часом на островах Уолліс і Футуна",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 150,
+      "code": "Yakutsk",
+      "zahalna_nazva": "за якутським часом",
+      "standartna_nazva": "за якутським стандартним часом",
+      "litnia_nazva": "за якутським літнім часом"
+    },
+    {
+      "id": 151,
+      "code": "Yekaterinburg",
+      "zahalna_nazva": "за єкатеринбурзьким часом",
+      "standartna_nazva": "за єкатеринбурзьким стандартним часом",
+      "litnia_nazva": "за єкатеринбурзьким літнім часом"
+    },
+    {
+      "id": 152,
+      "code": "Yukon",
+      "zahalna_nazva": "",
+      "standartna_nazva": "за стандартним часом на Юконі",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Метазони (макрорегіональні часові пояси) — назви українською - Безкоштовне завантаження",
+    "description": "Метазони (макрорегіональні часові пояси) з локалі uk у CLDR — із загальною назвою, стандартною назвою та літньою назвою. Містить 152 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Метазони (макрорегіональні часові пояси) — назви українською | ListBase",
+    "seo_description": "Завантажити Метазони (макрорегіональні часові пояси) — назви українською — 152 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 152 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

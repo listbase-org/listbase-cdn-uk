@@ -1,0 +1,301 @@
+{
+  "id": "uk-mizhnarodni-aeroporty",
+  "name": "Міжнародні аеропорти України (International Airports of Ukraine)",
+  "title": "Міжнародні аеропорти України (International Airports of Ukraine)",
+  "description": "The 10 facilities classified as international airports for UA in the aero-db open airport database, with ICAO/IATA codes and coordinates.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "BORYSPIL",
+      "icao_code": "UKBB",
+      "iata_code": "KBP",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 50.345,
+      "longitude": 30.8947,
+      "elevation_ft": 130,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "IVANO-FRANKIVSK",
+      "icao_code": "UKLI",
+      "iata_code": "IFO",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 48.883888888889,
+      "longitude": 24.684444444444,
+      "elevation_ft": 280,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "KHARKIV /  SOKOLNYKY",
+      "icao_code": "UKHD",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 50.025,
+      "longitude": 36.267222222222,
+      "elevation_ft": 180,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "KIEV/ZHULIANY",
+      "icao_code": "UKKK",
+      "iata_code": "IEV",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 50.4017,
+      "longitude": 30.4497,
+      "elevation_ft": 179,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "LVIV",
+      "icao_code": "UKLL",
+      "iata_code": "LWO",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 49.8125,
+      "longitude": 23.9561,
+      "elevation_ft": 315,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "ODESSA",
+      "icao_code": "UKOO",
+      "iata_code": "ODS",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 46.4268,
+      "longitude": 30.6765,
+      "elevation_ft": 52,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "RIVNE",
+      "icao_code": "UKLR",
+      "iata_code": "RWN",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 50.608333333333,
+      "longitude": 26.139722222222,
+      "elevation_ft": 230,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "SIMFEROPOL",
+      "icao_code": "URFF",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 45.051944444444,
+      "longitude": 33.973611111111,
+      "elevation_ft": 179,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "TERNOPIL",
+      "icao_code": "UKLT",
+      "iata_code": "TNL",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 49.525,
+      "longitude": 25.698888888889,
+      "elevation_ft": 316,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "UZHHOROD",
+      "icao_code": "UKLU",
+      "iata_code": "UDJ",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 48.63445458361466,
+      "longitude": 22.26318361755526,
+      "elevation_ft": 112,
+      "country_code": "UA",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "Міжнародні аеропорти України (International Airports of Ukraine) - Безкоштовне завантаження",
+    "description": "The 10 facilities classified as international airports for UA in the aero-db open airport database, with ICAO/IATA codes and coordinates. Містить 10 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міжнародні аеропорти України (International Airports of Ukraine) | ListBase",
+    "seo_description": "Завантажити Міжнародні аеропорти України (International Airports of Ukraine) — 10 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 10 записів / 17 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

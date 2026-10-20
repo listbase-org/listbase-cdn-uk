@@ -1,0 +1,808 @@
+{
+  "id": "uk-fortetsi",
+  "name": "Фортеці України",
+  "title": "Фортеці України",
+  "description": "Перелік об'єктів типу «фортеця» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_uk",
+      "label": "Wikipedia Uk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q1797358",
+      "wikidata_id": "Q1797358",
+      "name_uk": "30-а берегова батарея",
+      "name_en": "Shore Battery No. 30",
+      "latitude": 44.663611,
+      "longitude": 33.559167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/30-%D1%82%D0%B0_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%B0_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F"
+    },
+    {
+      "id": "Q109322982",
+      "wikidata_id": "Q109322982",
+      "name_uk": "Ай-Йорі",
+      "name_en": "Ai-yori fortress",
+      "latitude": 44.6734,
+      "longitude": 34.3391,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%B9-%D0%99%D0%BE%D1%80%D1%96_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q110319503",
+      "wikidata_id": "Q110319503",
+      "name_uk": "Ай-Тодор",
+      "name_en": "",
+      "latitude": 44.430556,
+      "longitude": 34.128611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%B9-%D0%A2%D0%BE%D0%B4%D0%BE%D1%80_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q109329538",
+      "wikidata_id": "Q109329538",
+      "name_uk": "Ай-Тодор II",
+      "name_en": "Ay-TodorII",
+      "latitude": 44.618056,
+      "longitude": 34.3575,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%B9-%D0%A2%D0%BE%D0%B4%D0%BE%D1%80_II"
+    },
+    {
+      "id": "Q108810328",
+      "wikidata_id": "Q108810328",
+      "name_uk": "Алупка-Ісар",
+      "name_en": "Alupka Isar",
+      "latitude": 44.431944,
+      "longitude": 34.055556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%83%D0%BF%D0%BA%D0%B0-%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q4240274",
+      "wikidata_id": "Q4240274",
+      "name_uk": "Алустон",
+      "name_en": "Aluston",
+      "latitude": 44.672222,
+      "longitude": 34.411944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%83%D1%81%D1%82%D0%BE%D0%BD_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q4068363",
+      "wikidata_id": "Q4068363",
+      "name_uk": "Арабат",
+      "name_en": "Arabat Fortress",
+      "latitude": 45.295833,
+      "longitude": 35.478333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%B0%D1%82"
+    },
+    {
+      "id": "Q108898897",
+      "wikidata_id": "Q108898897",
+      "name_uk": "Асаране-Бурун",
+      "name_en": "Asarane Burun",
+      "latitude": 44.498611,
+      "longitude": 33.772222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D1%81%D0%B0%D1%80%D0%B0%D0%BD%D0%B5-%D0%91%D1%83%D1%80%D1%83%D0%BD"
+    },
+    {
+      "id": "Q109422838",
+      "wikidata_id": "Q109422838",
+      "name_uk": "Аю-Даг (фортеця)",
+      "name_en": "Ayu-Dag Fortress",
+      "latitude": 44.561667,
+      "longitude": 34.330556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%90%D1%8E-%D0%94%D0%B0%D0%B3_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q109026932",
+      "wikidata_id": "Q109026932",
+      "name_uk": "Бага",
+      "name_en": "Isar Baga",
+      "latitude": 44.506944,
+      "longitude": 33.85,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q109321387",
+      "wikidata_id": "Q109321387",
+      "name_uk": "Басман",
+      "name_en": "Basman Fortress",
+      "latitude": 44.6085,
+      "longitude": 34.1682,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BC%D0%B0%D0%BD_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q4089679",
+      "wikidata_id": "Q4089679",
+      "name_uk": "Богородицька фортеця",
+      "name_en": "Novobohorodytska Fortress",
+      "latitude": 48.500711,
+      "longitude": 35.163417,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q108933434",
+      "wikidata_id": "Q108933434",
+      "name_uk": "Бурун-Кая",
+      "name_en": "Burun Kaia",
+      "latitude": 44.681944,
+      "longitude": 33.8875,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%83%D0%BD-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": "Q4083629",
+      "wikidata_id": "Q4083629",
+      "name_uk": "Бєльовська фортеця",
+      "name_en": "Bilevska fortress",
+      "latitude": 49.36921,
+      "longitude": 35.451294,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%91%D1%94%D0%BB%D1%8C%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q12093136",
+      "wikidata_id": "Q12093136",
+      "name_uk": "Військово-історичний комплекс «Михайлівська батарея»",
+      "name_en": "Museum Mikhailovskaya battery",
+      "latitude": 44.627778,
+      "longitude": 33.525833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%BE-%D1%96%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%C2%AB%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F%C2%BB"
+    },
+    {
+      "id": "Q109538708",
+      "wikidata_id": "Q109538708",
+      "name_uk": "Гелін-Кая",
+      "name_en": "Gelin-Kaya",
+      "latitude": 44.569722,
+      "longitude": 34.285833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%96%D0%BD-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": "Q4135566",
+      "wikidata_id": "Q4135566",
+      "name_uk": "Генуезька фортеця",
+      "name_en": "Kaffa genoese fortress",
+      "latitude": 45.022035,
+      "longitude": 35.4001,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D0%B5%D0%B7%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_(%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D1%96%D1%8F)"
+    },
+    {
+      "id": "Q25443404",
+      "wikidata_id": "Q25443404",
+      "name_uk": "Генуезька фортеця",
+      "name_en": "Gurzuf Fortress",
+      "latitude": 44.5425,
+      "longitude": 34.283889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D0%B5%D0%B7%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_(%D0%93%D1%83%D1%80%D0%B7%D1%83%D1%84)"
+    },
+    {
+      "id": "Q4135567",
+      "wikidata_id": "Q4135567",
+      "name_uk": "Генуезька фортеця (Судак)",
+      "name_en": "Genoese Fortress",
+      "latitude": 44.841554,
+      "longitude": 34.957852,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D0%B5%D0%B7%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_(%D0%A1%D1%83%D0%B4%D0%B0%D0%BA)"
+    },
+    {
+      "id": "Q4140310",
+      "wikidata_id": "Q4140310",
+      "name_uk": "Глухівська фортеця",
+      "name_en": "Hlukhiv Fortress",
+      "latitude": 51.674722,
+      "longitude": 33.913333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%85%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q108864875",
+      "wikidata_id": "Q108864875",
+      "name_uk": "Демерджі II",
+      "name_en": "Demerdji Isar",
+      "latitude": 44.745833,
+      "longitude": 34.4125,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D1%96_II"
+    },
+    {
+      "id": "Q131427576",
+      "wikidata_id": "Q131427576",
+      "name_uk": "Есеньський замок",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%95%D1%81%D0%B5%D0%BD%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q24765618",
+      "wikidata_id": "Q24765618",
+      "name_uk": "Залишки укріплень сотенного містечка Веприк",
+      "name_en": "Festung Weprik",
+      "latitude": 50.374444,
+      "longitude": 34.183889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BB%D0%B8%D1%88%D0%BA%D0%B8_%D1%83%D0%BA%D1%80%D1%96%D0%BF%D0%BB%D0%B5%D0%BD%D1%8C_%D1%81%D0%BE%D1%82%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%96%D1%81%D1%82%D0%B5%D1%87%D0%BA%D0%B0_%D0%92%D0%B5%D0%BF%D1%80%D0%B8%D0%BA"
+    },
+    {
+      "id": "Q11797062",
+      "wikidata_id": "Q11797062",
+      "name_uk": "Замок Окопи Святої Трійці",
+      "name_en": "Okopy Castle",
+      "latitude": 48.5389,
+      "longitude": 26.415,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%97_%D0%A2%D1%80%D1%96%D0%B9%D1%86%D1%96"
+    },
+    {
+      "id": "Q4516998",
+      "wikidata_id": "Q4516998",
+      "name_uk": "Замок Чобан-Куле",
+      "name_en": "Choban-Kule",
+      "latitude": 44.81139,
+      "longitude": 34.745754,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A7%D0%BE%D0%B1%D0%B0%D0%BD-%D0%9A%D1%83%D0%BB%D0%B5"
+    },
+    {
+      "id": "Q111287054",
+      "wikidata_id": "Q111287054",
+      "name_uk": "Калієра",
+      "name_en": "",
+      "latitude": 44.909,
+      "longitude": 35.181,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%96%D1%94%D1%80%D0%B0"
+    },
+    {
+      "id": "Q16618976",
+      "wikidata_id": "Q16618976",
+      "name_uk": "Кам'янкобузький замок",
+      "name_en": "",
+      "latitude": 50.1081,
+      "longitude": 24.5956,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%27%D1%8F%D0%BD%D0%BA%D0%BE%D0%B1%D1%83%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": "Q9386651",
+      "wikidata_id": "Q9386651",
+      "name_uk": "Канівська фортеця",
+      "name_en": "",
+      "latitude": 49.7447,
+      "longitude": 31.4558,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110319514",
+      "wikidata_id": "Q110319514",
+      "name_uk": "Кастель",
+      "name_en": "",
+      "latitude": 44.6396,
+      "longitude": 34.3855,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D1%8C_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q110319518",
+      "wikidata_id": "Q110319518",
+      "name_uk": "Кастропуло",
+      "name_en": "Kastropulo",
+      "latitude": 44.404722,
+      "longitude": 33.884722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%83%D0%BB%D0%BE"
+    },
+    {
+      "id": "Q110319492",
+      "wikidata_id": "Q110319492",
+      "name_uk": "Кермен-Кая",
+      "name_en": "",
+      "latitude": 44.62361,
+      "longitude": 34.15278,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": "Q108531451",
+      "wikidata_id": "Q108531451",
+      "name_uk": "Керменчик (фортеця)",
+      "name_en": "Kermenchik",
+      "latitude": 44.628889,
+      "longitude": 33.951111,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%BA_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q4219730",
+      "wikidata_id": "Q4219730",
+      "name_uk": "Керченська фортеця",
+      "name_en": "Kerch",
+      "latitude": 45.31496,
+      "longitude": 36.479754,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q20077653",
+      "wikidata_id": "Q20077653",
+      "name_uk": "Кирилівська фортеця",
+      "name_en": "Kyrylivska Fortress",
+      "latitude": 47.339722,
+      "longitude": 36.274722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110319520",
+      "wikidata_id": "Q110319520",
+      "name_uk": "Кобоплу",
+      "name_en": "",
+      "latitude": 44.581944,
+      "longitude": 34.253333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B1%D0%BE%D0%BF%D0%BB%D1%83_(%D0%86%D1%81%D0%B0%D1%80)"
+    },
+    {
+      "id": "Q110319461",
+      "wikidata_id": "Q110319461",
+      "name_uk": "Кокія-Ісар",
+      "name_en": "",
+      "latitude": 44.427778,
+      "longitude": 33.656944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D1%96%D1%8F-%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q79337728",
+      "wikidata_id": "Q79337728",
+      "name_uk": "Костянтинівська батарея (Севастополь)",
+      "name_en": "Konstantin Battery",
+      "latitude": 44.626667,
+      "longitude": 33.512222,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%8F%D0%BD%D1%82%D0%B8%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F_(%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C)"
+    },
+    {
+      "id": "Q110319462",
+      "wikidata_id": "Q110319462",
+      "name_uk": "Кучук-Ісар",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%87%D1%83%D0%BA-%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q110319494",
+      "wikidata_id": "Q110319494",
+      "name_uk": "Кючюк-Озенбаш",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%8E%D1%87%D1%8E%D0%BA-%D0%9E%D0%B7%D0%B5%D0%BD%D0%B1%D0%B0%D1%88_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q2467458",
+      "wikidata_id": "Q2467458",
+      "name_uk": "Кінбурн",
+      "name_en": "Kinburn",
+      "latitude": 46.561111,
+      "longitude": 31.524167,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD"
+    },
+    {
+      "id": "Q110319493",
+      "wikidata_id": "Q110319493",
+      "name_uk": "Кіпія",
+      "name_en": "Kipia",
+      "latitude": 44.570833,
+      "longitude": 34.090833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BF%D1%96%D1%8F"
+    },
+    {
+      "id": "Q18541332",
+      "wikidata_id": "Q18541332",
+      "name_uk": "Лікостомо",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%BE"
+    },
+    {
+      "id": "Q108838371",
+      "wikidata_id": "Q108838371",
+      "name_uk": "Лімена-Кале",
+      "name_en": "Limena Kale",
+      "latitude": 44.404167,
+      "longitude": 33.993056,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BC%D0%B5%D0%BD%D0%B0-%D0%9A%D0%B0%D0%BB%D0%B5"
+    },
+    {
+      "id": "Q104869256",
+      "wikidata_id": "Q104869256",
+      "name_uk": "Мердвень-Ісар",
+      "name_en": "Merdven-Isar",
+      "latitude": 44.423056,
+      "longitude": 33.856667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B4%D0%B2%D0%B5%D0%BD%D1%8C-%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q12123759",
+      "wikidata_id": "Q12123759",
+      "name_uk": "Михайлівська батарея (Севастополь)",
+      "name_en": "Mikhailovsky ravelin",
+      "latitude": 44.627778,
+      "longitude": 33.525833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F_(%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C)"
+    },
+    {
+      "id": "Q110319524",
+      "wikidata_id": "Q110319524",
+      "name_uk": "Монастир Святого Іоанна",
+      "name_en": "",
+      "latitude": 44.495833,
+      "longitude": 34.173056,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%86%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_(%D0%AF%D0%BB%D1%82%D0%B0)"
+    },
+    {
+      "id": "Q4322466",
+      "wikidata_id": "Q4322466",
+      "name_uk": "Новгород-Сіверська фортеця",
+      "name_en": "Novhorod-Siverskyi Fortress",
+      "latitude": 52.013333,
+      "longitude": 33.261389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q106267611",
+      "wikidata_id": "Q106267611",
+      "name_uk": "Об'єкт «Буря»",
+      "name_en": "Battery 330",
+      "latitude": 44.514444,
+      "longitude": 33.475556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%27%D1%94%D0%BA%D1%82_%C2%AB%D0%91%D1%83%D1%80%D1%8F%C2%BB"
+    },
+    {
+      "id": "Q13360164",
+      "wikidata_id": "Q13360164",
+      "name_uk": "Одеський карантин",
+      "name_en": "Odesa Quarantine",
+      "latitude": 46.482408,
+      "longitude": 30.754881,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D0%BD"
+    },
+    {
+      "id": "Q4061417",
+      "wikidata_id": "Q4061417",
+      "name_uk": "Олександрівська фортеця",
+      "name_en": "Oleksandrivska Fortress",
+      "latitude": 47.833333,
+      "longitude": 35.166667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110319523",
+      "wikidata_id": "Q110319523",
+      "name_uk": "Ореанда-Ісар",
+      "name_en": "",
+      "latitude": 44.454111,
+      "longitude": 34.1355,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9E%D1%80%D0%B5%D0%B0%D0%BD%D0%B4%D0%B0-%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q20108585",
+      "wikidata_id": "Q20108585",
+      "name_uk": "Палакіон (фортеця)",
+      "name_en": "Palakion",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BA%D1%96%D0%BE%D0%BD_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q110319528",
+      "wikidata_id": "Q110319528",
+      "name_uk": "Палекур",
+      "name_en": "",
+      "latitude": 44.501111,
+      "longitude": 34.175833,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BA%D1%83%D1%80"
+    },
+    {
+      "id": "Q109752566",
+      "wikidata_id": "Q109752566",
+      "name_uk": "Палеокастрон",
+      "name_en": "Paleokastron",
+      "latitude": 44.520278,
+      "longitude": 34.226667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BA%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD"
+    },
+    {
+      "id": "Q109321452",
+      "wikidata_id": "Q109321452",
+      "name_uk": "Пампук-Кая",
+      "name_en": "Pampuk-Kaya",
+      "latitude": 44.601389,
+      "longitude": 33.881944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D0%BF%D1%83%D0%BA-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": "Q110319550",
+      "wikidata_id": "Q110319550",
+      "name_uk": "Панеа",
+      "name_en": "",
+      "latitude": 44.4019,
+      "longitude": 33.9997,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B5%D0%B0_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q4350408",
+      "wikidata_id": "Q4350408",
+      "name_uk": "Перекопська фортеця",
+      "name_en": "Or Qapi",
+      "latitude": 46.152222,
+      "longitude": 33.7015,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D0%BF%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110319554",
+      "wikidata_id": "Q110319554",
+      "name_uk": "Плака",
+      "name_en": "",
+      "latitude": 44.591667,
+      "longitude": 34.368333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q4384290",
+      "wikidata_id": "Q4384290",
+      "name_uk": "Путивльська фортеця",
+      "name_en": "Putyvl Fortress",
+      "latitude": 51.33005,
+      "longitude": 33.86299,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%B2%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110319559",
+      "wikidata_id": "Q110319559",
+      "name_uk": "Рускофіль-Кале",
+      "name_en": "",
+      "latitude": 44.506111,
+      "longitude": 34.243889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%BA%D0%BE%D1%84%D1%96%D0%BB%D1%8C-%D0%9A%D0%B0%D0%BB%D0%B5"
+    },
+    {
+      "id": "Q55094648",
+      "wikidata_id": "Q55094648",
+      "name_uk": "Сандик-Кая",
+      "name_en": "Sandyk-Kaya",
+      "latitude": 44.532222,
+      "longitude": 33.901944,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B8%D0%BA-%D0%9A%D0%B0%D1%8F_(%D1%96%D1%81%D0%B0%D1%80)"
+    },
+    {
+      "id": "Q108775455",
+      "wikidata_id": "Q108775455",
+      "name_uk": "Саримамбаш-Кермен",
+      "name_en": "Sarymambash",
+      "latitude": 44.773611,
+      "longitude": 34.018056,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BC%D0%B0%D0%BC%D0%B1%D0%B0%D1%88-%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD"
+    },
+    {
+      "id": "Q4446036",
+      "wikidata_id": "Q4446036",
+      "name_uk": "Сумська фортеця",
+      "name_en": "Sumy Fortress",
+      "latitude": 50.905515,
+      "longitude": 34.801117,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q4448500",
+      "wikidata_id": "Q4448500",
+      "name_uk": "Сюйренська фортеця",
+      "name_en": "Suiren Fortress",
+      "latitude": 44.6325,
+      "longitude": 33.83528,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%8E%D0%B9%D1%80%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110319497",
+      "wikidata_id": "Q110319497",
+      "name_uk": "Сююрю-Кая",
+      "name_en": "Shuya-Kaya Fortress",
+      "latitude": 44.519444,
+      "longitude": 33.977778,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D1%8E%D1%8E%D1%80%D1%8E-%D0%9A%D0%B0%D1%8F_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q65201784",
+      "wikidata_id": "Q65201784",
+      "name_uk": "Тор",
+      "name_en": "Thor (fortress)",
+      "latitude": 48.866632,
+      "longitude": 37.625712,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q4465385",
+      "wikidata_id": "Q4465385",
+      "name_uk": "Тумащ",
+      "name_en": "Tumashch Hill Fort",
+      "latitude": 50.156033,
+      "longitude": 30.566025,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D1%89"
+    },
+    {
+      "id": "Q110280585",
+      "wikidata_id": "Q110280585",
+      "name_uk": "Учансу-Ісар",
+      "name_en": "Uchan-su-isar",
+      "latitude": 44.492222,
+      "longitude": 34.105556,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D0%BD%D1%81%D1%83-%D0%86%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q106291431",
+      "wikidata_id": "Q106291431",
+      "name_uk": "Фортеця Аджидер",
+      "name_en": "Acidere Fortress",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_%D0%90%D0%B4%D0%B6%D0%B8%D0%B4%D0%B5%D1%80"
+    },
+    {
+      "id": "Q3258805",
+      "wikidata_id": "Q3258805",
+      "name_uk": "Фортеця Кілія",
+      "name_en": "Kilia Fortress",
+      "latitude": 45.43385,
+      "longitude": 29.26834,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q4240278",
+      "wikidata_id": "Q4240278",
+      "name_uk": "Фортеця святої Єлисавети",
+      "name_en": "Saint Elisabeth Fortress",
+      "latitude": 48.498,
+      "longitude": 32.254,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D1%97_%D0%84%D0%BB%D0%B8%D1%81%D0%B0%D0%B2%D0%B5%D1%82%D0%B8"
+    },
+    {
+      "id": "Q4198580",
+      "wikidata_id": "Q4198580",
+      "name_uk": "Фортеця Ізмаїл",
+      "name_en": "Izmail Fortress",
+      "latitude": 45.340037,
+      "longitude": 28.810187,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%86%D0%B7%D0%BC%D0%B0%D1%97%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q113866917",
+      "wikidata_id": "Q113866917",
+      "name_uk": "Фортечний ансамбль Мангупа",
+      "name_en": "fortress ensemble of Mangup",
+      "latitude": 44.593056,
+      "longitude": 33.801389,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D1%82%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9C%D0%B0%D0%BD%D0%B3%D1%83%D0%BF%D0%B0"
+    },
+    {
+      "id": "Q4493365",
+      "wikidata_id": "Q4493365",
+      "name_uk": "Фуна",
+      "name_en": "Funa Fortress",
+      "latitude": 44.751667,
+      "longitude": 34.388333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%B0_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q37895788",
+      "wikidata_id": "Q37895788",
+      "name_uk": "Харківська фортеця",
+      "name_en": "Kharkov Fortress",
+      "latitude": 49.989778,
+      "longitude": 36.231361,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q141012",
+      "wikidata_id": "Q141012",
+      "name_uk": "Хотинська фортеця",
+      "name_en": "Khotyn Fortress",
+      "latitude": 48.521944,
+      "longitude": 26.498333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F"
+    },
+    {
+      "id": "Q110995292",
+      "wikidata_id": "Q110995292",
+      "name_uk": "Цитадель",
+      "name_en": "Citadel",
+      "latitude": 44.594444,
+      "longitude": 33.808333,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%9C%D0%B0%D0%BD%D0%B3%D1%83%D0%BF)"
+    },
+    {
+      "id": "Q111287038",
+      "wikidata_id": "Q111287038",
+      "name_uk": "Чатирдазький ісар",
+      "name_en": "",
+      "latitude": 44.7325,
+      "longitude": 34.293889,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%82%D0%B8%D1%80%D0%B4%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": "Q6668620",
+      "wikidata_id": "Q6668620",
+      "name_uk": "Чембало (фортеця)",
+      "name_en": "Cembalo",
+      "latitude": 44.494485,
+      "longitude": 33.599547,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%B1%D0%B0%D0%BB%D0%BE_(%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F)"
+    },
+    {
+      "id": "Q12169861",
+      "wikidata_id": "Q12169861",
+      "name_uk": "Черн",
+      "name_en": "Lenkovets",
+      "latitude": 48.335,
+      "longitude": 25.893611,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD"
+    },
+    {
+      "id": "Q1017178",
+      "wikidata_id": "Q1017178",
+      "name_uk": "Чуфут-Кале",
+      "name_en": "Chufut-Kale",
+      "latitude": 44.741028,
+      "longitude": 33.924467,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D1%83%D1%84%D1%83%D1%82-%D0%9A%D0%B0%D0%BB%D0%B5"
+    },
+    {
+      "id": "Q109269714",
+      "wikidata_id": "Q109269714",
+      "name_uk": "Яман-Таш",
+      "name_en": "Yamantash Fortress",
+      "latitude": 44.577026,
+      "longitude": 34.14002,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%AF%D0%BC%D0%B0%D0%BD%D1%82%D0%B0%D1%88"
+    },
+    {
+      "id": "Q4175612",
+      "wikidata_id": "Q4175612",
+      "name_uk": "Єні-Дунья",
+      "name_en": "Yeni Dünya",
+      "latitude": 46.49014,
+      "longitude": 30.7388,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%84%D0%BD%D1%96-%D0%94%D1%83%D0%BD%D1%8C%D1%8F"
+    }
+  ],
+  "meta": {
+    "title": "Фортеці України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «фортеця» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності. Містить 83 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Фортеці України | ListBase",
+    "seo_description": "Завантажити Фортеці України — 83 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 83 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

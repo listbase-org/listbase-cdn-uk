@@ -1,0 +1,361 @@
+{
+  "id": "uk-krym-mista",
+  "name": "Міста Автономної Республіки Крим",
+  "title": "Міста Автономної Республіки Крим",
+  "description": "Список 18 міст Автономної Республіки Крим (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA01020050010045207",
+      "name": "Бахчисарай",
+      "name_en": "Bakhchysarai",
+      "slug": "bakhchysarai",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "Бахчисарайський район",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01020210010017308",
+      "name": "Інкерман",
+      "name_en": "Inkerman",
+      "slug": "inkerman",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "Бахчисарайський район",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01040050010076142",
+      "name": "Білогірськ",
+      "name_en": "Bilohirsk",
+      "slug": "bilohirsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "Білогірський район (1921—2023)",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01060050010078305",
+      "name": "Джанкой",
+      "name_en": "Dzhankoi",
+      "slug": "dzhankoi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "Джанкойський район (1921—2023)",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01080150010090810",
+      "name": "Євпаторія",
+      "name_en": "Yevpatoriia",
+      "slug": "yevpatoriia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01080650010078157",
+      "name": "Саки",
+      "name_en": "Saky",
+      "slug": "saky",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01100210010057785",
+      "name": "Керч",
+      "name_en": "Kerch",
+      "slug": "kerch",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01100550010023633",
+      "name": "Щолкіне",
+      "name_en": "Shcholkine",
+      "slug": "shcholkine",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01140010010085478",
+      "name": "Армянськ",
+      "name_en": "Armiansk",
+      "slug": "armiansk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01140230010018772",
+      "name": "Яни Капу",
+      "name_en": "Yany Kapu",
+      "slug": "yany-kapu",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01180630010017505",
+      "name": "Старий Крим",
+      "name_en": "Staryi Krym",
+      "slug": "staryi-krym",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01180650010079746",
+      "name": "Судак",
+      "name_en": "Sudak",
+      "slug": "sudak",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01180710010062019",
+      "name": "Феодосія",
+      "name_en": "Feodosiia",
+      "slug": "feodosiia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01200010010092886",
+      "name": "Алупка",
+      "name_en": "Alupka",
+      "slug": "alupka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01200030010082401",
+      "name": "Алушта",
+      "name_en": "Alushta",
+      "slug": "alushta",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01200110010025305",
+      "name": "Кореїз",
+      "name_en": "Koreiz",
+      "slug": "koreiz",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01200290010052206",
+      "name": "Форос",
+      "name_en": "Foros",
+      "slug": "foros",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    },
+    {
+      "code": "UA01200310010053783",
+      "name": "Ялта",
+      "name_en": "Yalta",
+      "slug": "yalta",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "",
+      "hromada_name": "",
+      "rayon_name": "",
+      "oblast_id": 1,
+      "oblast_name": "Автономна Республіка Крим",
+      "oblast_slug": "krym"
+    }
+  ],
+  "meta": {
+    "title": "Міста Автономної Республіки Крим - Безкоштовне завантаження",
+    "description": "Список 18 міст Автономної Республіки Крим (категорія М у КАТОТТГ). Містить 18 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Автономної Республіки Крим | ListBase",
+    "seo_description": "Завантажити Міста Автономної Республіки Крим — 18 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 18 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

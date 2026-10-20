@@ -1,0 +1,142 @@
+{
+  "id": "uk-kharkiv-banky",
+  "name": "Банки в Харкові — коди SWIFT/BIC (Kharkiv bank SWIFT/BIC codes)",
+  "title": "Банки в Харкові — коди SWIFT/BIC (Kharkiv bank SWIFT/BIC codes)",
+  "description": "Перелік: 13 банківських установ у місті Харків (Kharkiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"KHARKIV\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 37,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV BRANCH)",
+      "swift_code": "FUIBUA2XKHA"
+    },
+    {
+      "id": 52,
+      "bank": "INVEST-BANK UKRAINE JSC",
+      "city": "KHARKIV",
+      "branch": "",
+      "swift_code": "KIBBUA21"
+    },
+    {
+      "id": 69,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV BRANCH)",
+      "swift_code": "EXBSUAUXKHA"
+    },
+    {
+      "id": 99,
+      "bank": "KHARKOV COMMODITY EXCHANGE",
+      "city": "KHARKIV",
+      "branch": "",
+      "swift_code": "XKHRUA21"
+    },
+    {
+      "id": 109,
+      "bank": "MEGABANK PJSC",
+      "city": "KHARKIV",
+      "branch": "",
+      "swift_code": "DBBKUA2K"
+    },
+    {
+      "id": 135,
+      "bank": "PJSC BANK GRANT",
+      "city": "KHARKIV",
+      "branch": "(1ST SUBSIDIARY)",
+      "swift_code": "GRBKUA2X011"
+    },
+    {
+      "id": 136,
+      "bank": "PJSC BANK GRANT",
+      "city": "KHARKIV",
+      "branch": "(2ND SUBSIDIARY)",
+      "swift_code": "GRBKUA2X012"
+    },
+    {
+      "id": 137,
+      "bank": "PJSC BANK GRANT",
+      "city": "KHARKIV",
+      "branch": "",
+      "swift_code": "GRBKUA2X"
+    },
+    {
+      "id": 156,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV BRANCH)",
+      "swift_code": "PBANUA2XHAF"
+    },
+    {
+      "id": 196,
+      "bank": "PJSC 'EXPRESS-BANK'",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV BRANCH)",
+      "swift_code": "EXPBUAUKKHA"
+    },
+    {
+      "id": 232,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKKHA"
+    },
+    {
+      "id": 259,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV BRANCH)",
+      "swift_code": "OTPVUAU1700"
+    },
+    {
+      "id": 271,
+      "bank": "'RAIFFEISEN BANK AVAL' PUBLIC JOINT STOCK COMPANY",
+      "city": "KHARKIV",
+      "branch": "(KHARKIV BRANCH)",
+      "swift_code": "AVALUAUKKHA"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Харкові — коди SWIFT/BIC (Kharkiv bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 13 банківських установ у місті Харків (Kharkiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"KHARKIV\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 13 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Харкові — коди SWIFT/BIC (Kharkiv bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Харкові — коди SWIFT/BIC (Kharkiv bank SWIFT/BIC codes) — 13 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 13 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

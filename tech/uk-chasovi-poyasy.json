@@ -1,0 +1,3416 @@
+{
+  "id": "uk-chasovi-poyasy",
+  "name": "Часові пояси світу (IANA / CLDR українською)",
+  "title": "Часові пояси світу (IANA / CLDR українською)",
+  "description": "Ідентифікатори часових поясів IANA та репрезентативні назви міст українською з локалі uk у CLDR. 'rehion' — це перший сегмент ідентифікатора.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 420,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "rehion": "Africa",
+      "misto": "Абіджан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "rehion": "Africa",
+      "misto": "Аккра",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "rehion": "Africa",
+      "misto": "Аддис-Абеба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "rehion": "Africa",
+      "misto": "Алжир",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "rehion": "Africa",
+      "misto": "Асмера",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bamako",
+      "rehion": "Africa",
+      "misto": "Бамако",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Bangui",
+      "rehion": "Africa",
+      "misto": "Банґі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Banjul",
+      "rehion": "Africa",
+      "misto": "Банжул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Bissau",
+      "rehion": "Africa",
+      "misto": "Бісау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Blantyre",
+      "rehion": "Africa",
+      "misto": "Блантайр",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Brazzaville",
+      "rehion": "Africa",
+      "misto": "Браззавіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Bujumbura",
+      "rehion": "Africa",
+      "misto": "Бужумбура",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Cairo",
+      "rehion": "Africa",
+      "misto": "Каїр",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Casablanca",
+      "rehion": "Africa",
+      "misto": "Касабланка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Ceuta",
+      "rehion": "Africa",
+      "misto": "Сеута",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Conakry",
+      "rehion": "Africa",
+      "misto": "Конакрі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Dakar",
+      "rehion": "Africa",
+      "misto": "Дакар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "rehion": "Africa",
+      "misto": "Дар-ес-Салам",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Djibouti",
+      "rehion": "Africa",
+      "misto": "Джібуті",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Douala",
+      "rehion": "Africa",
+      "misto": "Дуала",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/El_Aaiun",
+      "rehion": "Africa",
+      "misto": "Ель-Аюн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Freetown",
+      "rehion": "Africa",
+      "misto": "Фрітаун",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Gaborone",
+      "rehion": "Africa",
+      "misto": "Ґабороне",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Africa/Harare",
+      "rehion": "Africa",
+      "misto": "Хараре",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Africa/Johannesburg",
+      "rehion": "Africa",
+      "misto": "Йоганнесбурґ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Africa/Juba",
+      "rehion": "Africa",
+      "misto": "Джуба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Africa/Kampala",
+      "rehion": "Africa",
+      "misto": "Кампала",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Africa/Khartoum",
+      "rehion": "Africa",
+      "misto": "Хартум",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Africa/Kigali",
+      "rehion": "Africa",
+      "misto": "Кігалі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Africa/Kinshasa",
+      "rehion": "Africa",
+      "misto": "Кіншаса",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Africa/Lagos",
+      "rehion": "Africa",
+      "misto": "Лаґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Africa/Libreville",
+      "rehion": "Africa",
+      "misto": "Лібревіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Africa/Lome",
+      "rehion": "Africa",
+      "misto": "Ломе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Africa/Luanda",
+      "rehion": "Africa",
+      "misto": "Луанда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Africa/Lubumbashi",
+      "rehion": "Africa",
+      "misto": "Лубумбаші",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Africa/Lusaka",
+      "rehion": "Africa",
+      "misto": "Лусака",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Africa/Malabo",
+      "rehion": "Africa",
+      "misto": "Малабо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Africa/Maputo",
+      "rehion": "Africa",
+      "misto": "Мапуту",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Africa/Maseru",
+      "rehion": "Africa",
+      "misto": "Масеру",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Africa/Mbabane",
+      "rehion": "Africa",
+      "misto": "Мбабане",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Africa/Mogadishu",
+      "rehion": "Africa",
+      "misto": "Моґадішо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Africa/Monrovia",
+      "rehion": "Africa",
+      "misto": "Монровія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Africa/Nairobi",
+      "rehion": "Africa",
+      "misto": "Найробі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Africa/Ndjamena",
+      "rehion": "Africa",
+      "misto": "Нджамена",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Africa/Niamey",
+      "rehion": "Africa",
+      "misto": "Ніамей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Africa/Nouakchott",
+      "rehion": "Africa",
+      "misto": "Нуакшотт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Africa/Ouagadougou",
+      "rehion": "Africa",
+      "misto": "Уаґадуґу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Africa/Porto-Novo",
+      "rehion": "Africa",
+      "misto": "Порто-Ново",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Africa/Sao_Tome",
+      "rehion": "Africa",
+      "misto": "Сан-Томе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Africa/Tripoli",
+      "rehion": "Africa",
+      "misto": "Триполі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Africa/Tunis",
+      "rehion": "Africa",
+      "misto": "Туніс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Africa/Windhoek",
+      "rehion": "Africa",
+      "misto": "Віндгук",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Adak",
+      "rehion": "America",
+      "misto": "Адак",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Anchorage",
+      "rehion": "America",
+      "misto": "Анкоридж",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Anguilla",
+      "rehion": "America",
+      "misto": "Анґілья",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/Antigua",
+      "rehion": "America",
+      "misto": "Антиґуа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/Araguaina",
+      "rehion": "America",
+      "misto": "Араґуаіна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/Argentina/La_Rioja",
+      "rehion": "America",
+      "misto": "Ла-Ріоха",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "rehion": "America",
+      "misto": "Ріо-Ґальєґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/Argentina/Salta",
+      "rehion": "America",
+      "misto": "Сальта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/Argentina/San_Juan",
+      "rehion": "America",
+      "misto": "Сан-Хуан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/Argentina/San_Luis",
+      "rehion": "America",
+      "misto": "Сан-Луїс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "America/Argentina/Tucuman",
+      "rehion": "America",
+      "misto": "Тукуман",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "America/Argentina/Ushuaia",
+      "rehion": "America",
+      "misto": "Ушуая",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "America/Aruba",
+      "rehion": "America",
+      "misto": "Аруба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "America/Asuncion",
+      "rehion": "America",
+      "misto": "Асунсьйон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "America/Bahia",
+      "rehion": "America",
+      "misto": "Байя",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "America/Bahia_Banderas",
+      "rehion": "America",
+      "misto": "Баїя Бандерас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "America/Barbados",
+      "rehion": "America",
+      "misto": "Барбадос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "America/Belem",
+      "rehion": "America",
+      "misto": "Белен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "America/Belize",
+      "rehion": "America",
+      "misto": "Беліз",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "America/Blanc-Sablon",
+      "rehion": "America",
+      "misto": "Блан-Саблон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "America/Boa_Vista",
+      "rehion": "America",
+      "misto": "Боа-Віста",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "America/Bogota",
+      "rehion": "America",
+      "misto": "Боґота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "America/Boise",
+      "rehion": "America",
+      "misto": "Бойсе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "America/Buenos_Aires",
+      "rehion": "America",
+      "misto": "Буенос-Айрес",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "America/Cambridge_Bay",
+      "rehion": "America",
+      "misto": "Кеймбрідж-Бей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "America/Campo_Grande",
+      "rehion": "America",
+      "misto": "Кампу-Ґранді",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "America/Cancun",
+      "rehion": "America",
+      "misto": "Канкун",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "America/Caracas",
+      "rehion": "America",
+      "misto": "Каракас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "America/Catamarca",
+      "rehion": "America",
+      "misto": "Катамарка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "America/Cayenne",
+      "rehion": "America",
+      "misto": "Каєнна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "America/Cayman",
+      "rehion": "America",
+      "misto": "Кайманові Острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "America/Chicago",
+      "rehion": "America",
+      "misto": "Чікаґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "America/Chihuahua",
+      "rehion": "America",
+      "misto": "Чіуауа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "America/Ciudad_Juarez",
+      "rehion": "America",
+      "misto": "С’юдад-Хуарес",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "America/Coral_Harbour",
+      "rehion": "America",
+      "misto": "Атікокан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "America/Cordoba",
+      "rehion": "America",
+      "misto": "Кордова",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "America/Costa_Rica",
+      "rehion": "America",
+      "misto": "Коста-Ріка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "America/Coyhaique",
+      "rehion": "America",
+      "misto": "Кояїке",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "America/Creston",
+      "rehion": "America",
+      "misto": "Крестон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "America/Cuiaba",
+      "rehion": "America",
+      "misto": "Куяба",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "America/Curacao",
+      "rehion": "America",
+      "misto": "Кюрасао",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "America/Danmarkshavn",
+      "rehion": "America",
+      "misto": "Денмарксхавн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "America/Dawson",
+      "rehion": "America",
+      "misto": "Доусон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "America/Dawson_Creek",
+      "rehion": "America",
+      "misto": "Доусон-Крік",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "America/Denver",
+      "rehion": "America",
+      "misto": "Денвер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "America/Detroit",
+      "rehion": "America",
+      "misto": "Детройт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "America/Dominica",
+      "rehion": "America",
+      "misto": "Домініка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "America/Edmonton",
+      "rehion": "America",
+      "misto": "Едмонтон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "America/Eirunepe",
+      "rehion": "America",
+      "misto": "Ейрунепе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "America/El_Salvador",
+      "rehion": "America",
+      "misto": "Сальвадор",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "America/Fort_Nelson",
+      "rehion": "America",
+      "misto": "Форт Нельсон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "America/Fortaleza",
+      "rehion": "America",
+      "misto": "Форталеза",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "America/Glace_Bay",
+      "rehion": "America",
+      "misto": "Ґлейс-Бей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "America/Godthab",
+      "rehion": "America",
+      "misto": "Нуук",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "America/Goose_Bay",
+      "rehion": "America",
+      "misto": "Ґус-Бей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "America/Grand_Turk",
+      "rehion": "America",
+      "misto": "Ґранд-Терк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "America/Grenada",
+      "rehion": "America",
+      "misto": "Ґренада",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "America/Guadeloupe",
+      "rehion": "America",
+      "misto": "Ґваделупа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "America/Guatemala",
+      "rehion": "America",
+      "misto": "Ґватемала",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "America/Guayaquil",
+      "rehion": "America",
+      "misto": "Ґуаякіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "America/Guyana",
+      "rehion": "America",
+      "misto": "Ґайана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "America/Halifax",
+      "rehion": "America",
+      "misto": "Галіфакс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "America/Havana",
+      "rehion": "America",
+      "misto": "Гавана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "America/Hermosillo",
+      "rehion": "America",
+      "misto": "Ермосільйо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "America/Indiana/Knox",
+      "rehion": "America",
+      "misto": "Нокс, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "America/Indiana/Marengo",
+      "rehion": "America",
+      "misto": "Маренго, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "America/Indiana/Petersburg",
+      "rehion": "America",
+      "misto": "Пітерсберг, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "America/Indiana/Tell_City",
+      "rehion": "America",
+      "misto": "Телл-Сіті, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "America/Indiana/Vevay",
+      "rehion": "America",
+      "misto": "Вівей, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "America/Indiana/Vincennes",
+      "rehion": "America",
+      "misto": "Вінсенс, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "America/Indiana/Winamac",
+      "rehion": "America",
+      "misto": "Вінамак, Індіана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "America/Indianapolis",
+      "rehion": "America",
+      "misto": "Індіанаполіс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "America/Inuvik",
+      "rehion": "America",
+      "misto": "Інувік",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "America/Iqaluit",
+      "rehion": "America",
+      "misto": "Ікалуїт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "America/Jamaica",
+      "rehion": "America",
+      "misto": "Ямайка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "America/Jujuy",
+      "rehion": "America",
+      "misto": "Жужуй",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "America/Juneau",
+      "rehion": "America",
+      "misto": "Джуно",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "America/Kentucky/Monticello",
+      "rehion": "America",
+      "misto": "Монтіселло, Кентуккі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "America/Kralendijk",
+      "rehion": "America",
+      "misto": "Кралендейк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "America/La_Paz",
+      "rehion": "America",
+      "misto": "Ла-Пас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "America/Lima",
+      "rehion": "America",
+      "misto": "Ліма",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "America/Los_Angeles",
+      "rehion": "America",
+      "misto": "Лос-Анджелес",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "America/Louisville",
+      "rehion": "America",
+      "misto": "Луїсвілл",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "America/Lower_Princes",
+      "rehion": "America",
+      "misto": "Лоуер-Принсес-Квотер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "America/Maceio",
+      "rehion": "America",
+      "misto": "Масейо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "America/Managua",
+      "rehion": "America",
+      "misto": "Манаґуа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "America/Manaus",
+      "rehion": "America",
+      "misto": "Манаус",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "America/Marigot",
+      "rehion": "America",
+      "misto": "Маріґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "America/Martinique",
+      "rehion": "America",
+      "misto": "Мартініка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "America/Matamoros",
+      "rehion": "America",
+      "misto": "Матаморос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "America/Mazatlan",
+      "rehion": "America",
+      "misto": "Масатлан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "America/Mendoza",
+      "rehion": "America",
+      "misto": "Мендоса",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 145,
+      "tz_id": "America/Menominee",
+      "rehion": "America",
+      "misto": "Меноміні",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 146,
+      "tz_id": "America/Merida",
+      "rehion": "America",
+      "misto": "Меріда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 147,
+      "tz_id": "America/Metlakatla",
+      "rehion": "America",
+      "misto": "Метлакатла",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 148,
+      "tz_id": "America/Mexico_City",
+      "rehion": "America",
+      "misto": "Мехіко",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 149,
+      "tz_id": "America/Miquelon",
+      "rehion": "America",
+      "misto": "Мікелон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 150,
+      "tz_id": "America/Moncton",
+      "rehion": "America",
+      "misto": "Монктон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 151,
+      "tz_id": "America/Monterrey",
+      "rehion": "America",
+      "misto": "Монтерей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 152,
+      "tz_id": "America/Montevideo",
+      "rehion": "America",
+      "misto": "Монтевідео",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 153,
+      "tz_id": "America/Montserrat",
+      "rehion": "America",
+      "misto": "Монтсеррат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 154,
+      "tz_id": "America/Nassau",
+      "rehion": "America",
+      "misto": "Насау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 155,
+      "tz_id": "America/New_York",
+      "rehion": "America",
+      "misto": "Нью-Йорк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 156,
+      "tz_id": "America/Nome",
+      "rehion": "America",
+      "misto": "Ном",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 157,
+      "tz_id": "America/Noronha",
+      "rehion": "America",
+      "misto": "Норонья",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 158,
+      "tz_id": "America/North_Dakota/Beulah",
+      "rehion": "America",
+      "misto": "Бʼюла, Північна Дакота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 159,
+      "tz_id": "America/North_Dakota/Center",
+      "rehion": "America",
+      "misto": "Сентр, Північна Дакота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 160,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "rehion": "America",
+      "misto": "Нью-Салем, Північна Дакота",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 161,
+      "tz_id": "America/Ojinaga",
+      "rehion": "America",
+      "misto": "Охінаґа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 162,
+      "tz_id": "America/Panama",
+      "rehion": "America",
+      "misto": "Панама",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 163,
+      "tz_id": "America/Paramaribo",
+      "rehion": "America",
+      "misto": "Парамарибо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 164,
+      "tz_id": "America/Phoenix",
+      "rehion": "America",
+      "misto": "Фінікс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 165,
+      "tz_id": "America/Port-au-Prince",
+      "rehion": "America",
+      "misto": "Порт-о-Пренс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 166,
+      "tz_id": "America/Port_of_Spain",
+      "rehion": "America",
+      "misto": "Порт-оф-Спейн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 167,
+      "tz_id": "America/Porto_Velho",
+      "rehion": "America",
+      "misto": "Порту-Велью",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 168,
+      "tz_id": "America/Puerto_Rico",
+      "rehion": "America",
+      "misto": "Пуерто-Ріко",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 169,
+      "tz_id": "America/Punta_Arenas",
+      "rehion": "America",
+      "misto": "Пунта-Аренас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 170,
+      "tz_id": "America/Rankin_Inlet",
+      "rehion": "America",
+      "misto": "Ренкін-Інлет",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 171,
+      "tz_id": "America/Recife",
+      "rehion": "America",
+      "misto": "Ресіфі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 172,
+      "tz_id": "America/Regina",
+      "rehion": "America",
+      "misto": "Реджайна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 173,
+      "tz_id": "America/Resolute",
+      "rehion": "America",
+      "misto": "Резольют",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 174,
+      "tz_id": "America/Rio_Branco",
+      "rehion": "America",
+      "misto": "Ріо-Бранко",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 175,
+      "tz_id": "America/Santarem",
+      "rehion": "America",
+      "misto": "Сантарен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 176,
+      "tz_id": "America/Santiago",
+      "rehion": "America",
+      "misto": "Сантьяґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 177,
+      "tz_id": "America/Santo_Domingo",
+      "rehion": "America",
+      "misto": "Санто-Домінґо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 178,
+      "tz_id": "America/Sao_Paulo",
+      "rehion": "America",
+      "misto": "Сан-Паулу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 179,
+      "tz_id": "America/Scoresbysund",
+      "rehion": "America",
+      "misto": "Іттоккортоорміут",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 180,
+      "tz_id": "America/Sitka",
+      "rehion": "America",
+      "misto": "Сітка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 181,
+      "tz_id": "America/St_Barthelemy",
+      "rehion": "America",
+      "misto": "Сен-Бартелемі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 182,
+      "tz_id": "America/St_Johns",
+      "rehion": "America",
+      "misto": "Сент-Джонс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 183,
+      "tz_id": "America/St_Kitts",
+      "rehion": "America",
+      "misto": "Сент-Кіттс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 184,
+      "tz_id": "America/St_Lucia",
+      "rehion": "America",
+      "misto": "Сент-Люсія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 185,
+      "tz_id": "America/St_Thomas",
+      "rehion": "America",
+      "misto": "Сент-Томас",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 186,
+      "tz_id": "America/St_Vincent",
+      "rehion": "America",
+      "misto": "Сент-Вінсент",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 187,
+      "tz_id": "America/Swift_Current",
+      "rehion": "America",
+      "misto": "Свіфт-Каррент",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 188,
+      "tz_id": "America/Tegucigalpa",
+      "rehion": "America",
+      "misto": "Теґусіґальпа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 189,
+      "tz_id": "America/Thule",
+      "rehion": "America",
+      "misto": "Туле",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 190,
+      "tz_id": "America/Tijuana",
+      "rehion": "America",
+      "misto": "Тіхуана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 191,
+      "tz_id": "America/Toronto",
+      "rehion": "America",
+      "misto": "Торонто",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 192,
+      "tz_id": "America/Tortola",
+      "rehion": "America",
+      "misto": "Тортола",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 193,
+      "tz_id": "America/Vancouver",
+      "rehion": "America",
+      "misto": "Ванкувер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 194,
+      "tz_id": "America/Whitehorse",
+      "rehion": "America",
+      "misto": "Вайтгорс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 195,
+      "tz_id": "America/Winnipeg",
+      "rehion": "America",
+      "misto": "Вінніпеґ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 196,
+      "tz_id": "America/Yakutat",
+      "rehion": "America",
+      "misto": "Якутат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 197,
+      "tz_id": "Antarctica/Casey",
+      "rehion": "Antarctica",
+      "misto": "Кейсі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 198,
+      "tz_id": "Antarctica/Davis",
+      "rehion": "Antarctica",
+      "misto": "Девіс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 199,
+      "tz_id": "Antarctica/DumontDUrville",
+      "rehion": "Antarctica",
+      "misto": "Дюмон-дʼЮрвіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 200,
+      "tz_id": "Antarctica/Macquarie",
+      "rehion": "Antarctica",
+      "misto": "Маккуорі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 201,
+      "tz_id": "Antarctica/Mawson",
+      "rehion": "Antarctica",
+      "misto": "Моусон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 202,
+      "tz_id": "Antarctica/McMurdo",
+      "rehion": "Antarctica",
+      "misto": "Мак-Мердо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 203,
+      "tz_id": "Antarctica/Palmer",
+      "rehion": "Antarctica",
+      "misto": "Палмер",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 204,
+      "tz_id": "Antarctica/Rothera",
+      "rehion": "Antarctica",
+      "misto": "Ротера",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 205,
+      "tz_id": "Antarctica/Syowa",
+      "rehion": "Antarctica",
+      "misto": "Сьова",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 206,
+      "tz_id": "Antarctica/Troll",
+      "rehion": "Antarctica",
+      "misto": "Тролл",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 207,
+      "tz_id": "Antarctica/Vostok",
+      "rehion": "Antarctica",
+      "misto": "Восток",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 208,
+      "tz_id": "Arctic/Longyearbyen",
+      "rehion": "Arctic",
+      "misto": "Лонгʼїр",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 209,
+      "tz_id": "Asia/Aden",
+      "rehion": "Asia",
+      "misto": "Аден",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 210,
+      "tz_id": "Asia/Almaty",
+      "rehion": "Asia",
+      "misto": "Алмати",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 211,
+      "tz_id": "Asia/Amman",
+      "rehion": "Asia",
+      "misto": "Амман",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 212,
+      "tz_id": "Asia/Anadyr",
+      "rehion": "Asia",
+      "misto": "Анадир",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 213,
+      "tz_id": "Asia/Aqtau",
+      "rehion": "Asia",
+      "misto": "Актау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 214,
+      "tz_id": "Asia/Aqtobe",
+      "rehion": "Asia",
+      "misto": "Актобе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 215,
+      "tz_id": "Asia/Ashgabat",
+      "rehion": "Asia",
+      "misto": "Ашгабат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 216,
+      "tz_id": "Asia/Atyrau",
+      "rehion": "Asia",
+      "misto": "Атирау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 217,
+      "tz_id": "Asia/Baghdad",
+      "rehion": "Asia",
+      "misto": "Багдад",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 218,
+      "tz_id": "Asia/Bahrain",
+      "rehion": "Asia",
+      "misto": "Бахрейн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 219,
+      "tz_id": "Asia/Baku",
+      "rehion": "Asia",
+      "misto": "Баку",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 220,
+      "tz_id": "Asia/Bangkok",
+      "rehion": "Asia",
+      "misto": "Бангкок",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 221,
+      "tz_id": "Asia/Barnaul",
+      "rehion": "Asia",
+      "misto": "Барнаул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 222,
+      "tz_id": "Asia/Beirut",
+      "rehion": "Asia",
+      "misto": "Бейрут",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 223,
+      "tz_id": "Asia/Bishkek",
+      "rehion": "Asia",
+      "misto": "Бішкек",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 224,
+      "tz_id": "Asia/Brunei",
+      "rehion": "Asia",
+      "misto": "Бруней",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 225,
+      "tz_id": "Asia/Calcutta",
+      "rehion": "Asia",
+      "misto": "Колката",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 226,
+      "tz_id": "Asia/Chita",
+      "rehion": "Asia",
+      "misto": "Чита",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 227,
+      "tz_id": "Asia/Colombo",
+      "rehion": "Asia",
+      "misto": "Коломбо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 228,
+      "tz_id": "Asia/Damascus",
+      "rehion": "Asia",
+      "misto": "Дамаск",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 229,
+      "tz_id": "Asia/Dhaka",
+      "rehion": "Asia",
+      "misto": "Дакка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 230,
+      "tz_id": "Asia/Dili",
+      "rehion": "Asia",
+      "misto": "Ділі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 231,
+      "tz_id": "Asia/Dubai",
+      "rehion": "Asia",
+      "misto": "Дубай",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 232,
+      "tz_id": "Asia/Dushanbe",
+      "rehion": "Asia",
+      "misto": "Душанбе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 233,
+      "tz_id": "Asia/Famagusta",
+      "rehion": "Asia",
+      "misto": "Фамагуста",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 234,
+      "tz_id": "Asia/Gaza",
+      "rehion": "Asia",
+      "misto": "Газа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 235,
+      "tz_id": "Asia/Hebron",
+      "rehion": "Asia",
+      "misto": "Хеврон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 236,
+      "tz_id": "Asia/Hong_Kong",
+      "rehion": "Asia",
+      "misto": "Гонконг",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 237,
+      "tz_id": "Asia/Hovd",
+      "rehion": "Asia",
+      "misto": "Ховд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 238,
+      "tz_id": "Asia/Irkutsk",
+      "rehion": "Asia",
+      "misto": "Іркутськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 239,
+      "tz_id": "Asia/Jakarta",
+      "rehion": "Asia",
+      "misto": "Джакарта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 240,
+      "tz_id": "Asia/Jayapura",
+      "rehion": "Asia",
+      "misto": "Джайпур",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 241,
+      "tz_id": "Asia/Jerusalem",
+      "rehion": "Asia",
+      "misto": "Єрусалим",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 242,
+      "tz_id": "Asia/Kabul",
+      "rehion": "Asia",
+      "misto": "Кабул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 243,
+      "tz_id": "Asia/Kamchatka",
+      "rehion": "Asia",
+      "misto": "Камчатка",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 244,
+      "tz_id": "Asia/Karachi",
+      "rehion": "Asia",
+      "misto": "Карачі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 245,
+      "tz_id": "Asia/Katmandu",
+      "rehion": "Asia",
+      "misto": "Катманду",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 246,
+      "tz_id": "Asia/Khandyga",
+      "rehion": "Asia",
+      "misto": "Хандига",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 247,
+      "tz_id": "Asia/Krasnoyarsk",
+      "rehion": "Asia",
+      "misto": "Красноярськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 248,
+      "tz_id": "Asia/Kuala_Lumpur",
+      "rehion": "Asia",
+      "misto": "Куала-Лумпур",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 249,
+      "tz_id": "Asia/Kuching",
+      "rehion": "Asia",
+      "misto": "Кучинг",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 250,
+      "tz_id": "Asia/Kuwait",
+      "rehion": "Asia",
+      "misto": "Кувейт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 251,
+      "tz_id": "Asia/Macau",
+      "rehion": "Asia",
+      "misto": "Макао",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 252,
+      "tz_id": "Asia/Magadan",
+      "rehion": "Asia",
+      "misto": "Магадан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 253,
+      "tz_id": "Asia/Makassar",
+      "rehion": "Asia",
+      "misto": "Макассар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 254,
+      "tz_id": "Asia/Manila",
+      "rehion": "Asia",
+      "misto": "Маніла",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 255,
+      "tz_id": "Asia/Muscat",
+      "rehion": "Asia",
+      "misto": "Маскат",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 256,
+      "tz_id": "Asia/Nicosia",
+      "rehion": "Asia",
+      "misto": "Нікосія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 257,
+      "tz_id": "Asia/Novokuznetsk",
+      "rehion": "Asia",
+      "misto": "Новокузнецьк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 258,
+      "tz_id": "Asia/Novosibirsk",
+      "rehion": "Asia",
+      "misto": "Новосибірськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 259,
+      "tz_id": "Asia/Omsk",
+      "rehion": "Asia",
+      "misto": "Омськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 260,
+      "tz_id": "Asia/Oral",
+      "rehion": "Asia",
+      "misto": "Орал",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 261,
+      "tz_id": "Asia/Phnom_Penh",
+      "rehion": "Asia",
+      "misto": "Пномпень",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 262,
+      "tz_id": "Asia/Pontianak",
+      "rehion": "Asia",
+      "misto": "Понтіанак",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 263,
+      "tz_id": "Asia/Pyongyang",
+      "rehion": "Asia",
+      "misto": "Пхеньян",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 264,
+      "tz_id": "Asia/Qatar",
+      "rehion": "Asia",
+      "misto": "Катар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 265,
+      "tz_id": "Asia/Qostanay",
+      "rehion": "Asia",
+      "misto": "Костанай",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 266,
+      "tz_id": "Asia/Qyzylorda",
+      "rehion": "Asia",
+      "misto": "Кизилорда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 267,
+      "tz_id": "Asia/Rangoon",
+      "rehion": "Asia",
+      "misto": "Янгон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 268,
+      "tz_id": "Asia/Riyadh",
+      "rehion": "Asia",
+      "misto": "Ер-Ріяд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 269,
+      "tz_id": "Asia/Saigon",
+      "rehion": "Asia",
+      "misto": "Хошимін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 270,
+      "tz_id": "Asia/Sakhalin",
+      "rehion": "Asia",
+      "misto": "Сахалін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 271,
+      "tz_id": "Asia/Samarkand",
+      "rehion": "Asia",
+      "misto": "Самарканд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 272,
+      "tz_id": "Asia/Seoul",
+      "rehion": "Asia",
+      "misto": "Сеул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 273,
+      "tz_id": "Asia/Shanghai",
+      "rehion": "Asia",
+      "misto": "Шанхай",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 274,
+      "tz_id": "Asia/Singapore",
+      "rehion": "Asia",
+      "misto": "Сінгапур",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 275,
+      "tz_id": "Asia/Srednekolymsk",
+      "rehion": "Asia",
+      "misto": "Середньоколимськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 276,
+      "tz_id": "Asia/Taipei",
+      "rehion": "Asia",
+      "misto": "Тайбей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 277,
+      "tz_id": "Asia/Tashkent",
+      "rehion": "Asia",
+      "misto": "Ташкент",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 278,
+      "tz_id": "Asia/Tbilisi",
+      "rehion": "Asia",
+      "misto": "Тбілісі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 279,
+      "tz_id": "Asia/Tehran",
+      "rehion": "Asia",
+      "misto": "Тегеран",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 280,
+      "tz_id": "Asia/Thimphu",
+      "rehion": "Asia",
+      "misto": "Тхімпху",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 281,
+      "tz_id": "Asia/Tokyo",
+      "rehion": "Asia",
+      "misto": "Токіо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 282,
+      "tz_id": "Asia/Tomsk",
+      "rehion": "Asia",
+      "misto": "Томськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 283,
+      "tz_id": "Asia/Ulaanbaatar",
+      "rehion": "Asia",
+      "misto": "Улан-Батор",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 284,
+      "tz_id": "Asia/Urumqi",
+      "rehion": "Asia",
+      "misto": "Урумчі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 285,
+      "tz_id": "Asia/Ust-Nera",
+      "rehion": "Asia",
+      "misto": "Усть-Нера",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 286,
+      "tz_id": "Asia/Vientiane",
+      "rehion": "Asia",
+      "misto": "Вʼєнтьян",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 287,
+      "tz_id": "Asia/Vladivostok",
+      "rehion": "Asia",
+      "misto": "Владивосток",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 288,
+      "tz_id": "Asia/Yakutsk",
+      "rehion": "Asia",
+      "misto": "Якутськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 289,
+      "tz_id": "Asia/Yekaterinburg",
+      "rehion": "Asia",
+      "misto": "Єкатеринбург",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 290,
+      "tz_id": "Asia/Yerevan",
+      "rehion": "Asia",
+      "misto": "Єреван",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 291,
+      "tz_id": "Atlantic/Azores",
+      "rehion": "Atlantic",
+      "misto": "Азорські острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 292,
+      "tz_id": "Atlantic/Bermuda",
+      "rehion": "Atlantic",
+      "misto": "Бермуди",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 293,
+      "tz_id": "Atlantic/Canary",
+      "rehion": "Atlantic",
+      "misto": "Канарські острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 294,
+      "tz_id": "Atlantic/Cape_Verde",
+      "rehion": "Atlantic",
+      "misto": "Кабо-Верде",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 295,
+      "tz_id": "Atlantic/Faeroe",
+      "rehion": "Atlantic",
+      "misto": "Фарерські острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 296,
+      "tz_id": "Atlantic/Madeira",
+      "rehion": "Atlantic",
+      "misto": "Мадейра",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 297,
+      "tz_id": "Atlantic/Reykjavik",
+      "rehion": "Atlantic",
+      "misto": "Рейкʼявік",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 298,
+      "tz_id": "Atlantic/South_Georgia",
+      "rehion": "Atlantic",
+      "misto": "Південна Джорджія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 299,
+      "tz_id": "Atlantic/St_Helena",
+      "rehion": "Atlantic",
+      "misto": "Острів Святої Єлени",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 300,
+      "tz_id": "Atlantic/Stanley",
+      "rehion": "Atlantic",
+      "misto": "Стенлі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 301,
+      "tz_id": "Australia/Adelaide",
+      "rehion": "Australia",
+      "misto": "Аделаїда",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 302,
+      "tz_id": "Australia/Brisbane",
+      "rehion": "Australia",
+      "misto": "Брісбен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 303,
+      "tz_id": "Australia/Broken_Hill",
+      "rehion": "Australia",
+      "misto": "Брокен-Хілл",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 304,
+      "tz_id": "Australia/Darwin",
+      "rehion": "Australia",
+      "misto": "Дарвін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 305,
+      "tz_id": "Australia/Eucla",
+      "rehion": "Australia",
+      "misto": "Евкла",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 306,
+      "tz_id": "Australia/Hobart",
+      "rehion": "Australia",
+      "misto": "Гобарт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 307,
+      "tz_id": "Australia/Lindeman",
+      "rehion": "Australia",
+      "misto": "Ліндеман",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 308,
+      "tz_id": "Australia/Lord_Howe",
+      "rehion": "Australia",
+      "misto": "Лорд-Хау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 309,
+      "tz_id": "Australia/Melbourne",
+      "rehion": "Australia",
+      "misto": "Мельбурн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 310,
+      "tz_id": "Australia/Perth",
+      "rehion": "Australia",
+      "misto": "Перт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 311,
+      "tz_id": "Australia/Sydney",
+      "rehion": "Australia",
+      "misto": "Сідней",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 312,
+      "tz_id": "Etc/UTC",
+      "rehion": "Etc",
+      "misto": "",
+      "standartna_nazva": "за всесвітнім координованим часом",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 313,
+      "tz_id": "Etc/Unknown",
+      "rehion": "Etc",
+      "misto": "Невідоме місто",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 314,
+      "tz_id": "Europe/Amsterdam",
+      "rehion": "Europe",
+      "misto": "Амстердам",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 315,
+      "tz_id": "Europe/Andorra",
+      "rehion": "Europe",
+      "misto": "Андорра",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 316,
+      "tz_id": "Europe/Astrakhan",
+      "rehion": "Europe",
+      "misto": "Астрахань",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 317,
+      "tz_id": "Europe/Athens",
+      "rehion": "Europe",
+      "misto": "Афіни",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 318,
+      "tz_id": "Europe/Belgrade",
+      "rehion": "Europe",
+      "misto": "Белград",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 319,
+      "tz_id": "Europe/Berlin",
+      "rehion": "Europe",
+      "misto": "Берлін",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 320,
+      "tz_id": "Europe/Bratislava",
+      "rehion": "Europe",
+      "misto": "Братислава",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 321,
+      "tz_id": "Europe/Brussels",
+      "rehion": "Europe",
+      "misto": "Брюссель",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 322,
+      "tz_id": "Europe/Bucharest",
+      "rehion": "Europe",
+      "misto": "Бухарест",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 323,
+      "tz_id": "Europe/Budapest",
+      "rehion": "Europe",
+      "misto": "Будапешт",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 324,
+      "tz_id": "Europe/Busingen",
+      "rehion": "Europe",
+      "misto": "Бюзінген",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 325,
+      "tz_id": "Europe/Chisinau",
+      "rehion": "Europe",
+      "misto": "Кишинів",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 326,
+      "tz_id": "Europe/Copenhagen",
+      "rehion": "Europe",
+      "misto": "Копенгаген",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 327,
+      "tz_id": "Europe/Dublin",
+      "rehion": "Europe",
+      "misto": "Дублін",
+      "standartna_nazva": "",
+      "litnia_nazva": "за літнім часом в Ірландії"
+    },
+    {
+      "id": 328,
+      "tz_id": "Europe/Gibraltar",
+      "rehion": "Europe",
+      "misto": "Гібралтар",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 329,
+      "tz_id": "Europe/Guernsey",
+      "rehion": "Europe",
+      "misto": "Гернсі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 330,
+      "tz_id": "Europe/Helsinki",
+      "rehion": "Europe",
+      "misto": "Гельсінкі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 331,
+      "tz_id": "Europe/Isle_of_Man",
+      "rehion": "Europe",
+      "misto": "Острів Мен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 332,
+      "tz_id": "Europe/Istanbul",
+      "rehion": "Europe",
+      "misto": "Стамбул",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 333,
+      "tz_id": "Europe/Jersey",
+      "rehion": "Europe",
+      "misto": "Джерсі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 334,
+      "tz_id": "Europe/Kaliningrad",
+      "rehion": "Europe",
+      "misto": "Калінінград",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 335,
+      "tz_id": "Europe/Kiev",
+      "rehion": "Europe",
+      "misto": "Київ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 336,
+      "tz_id": "Europe/Kirov",
+      "rehion": "Europe",
+      "misto": "Кіров",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 337,
+      "tz_id": "Europe/Lisbon",
+      "rehion": "Europe",
+      "misto": "Лісабон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 338,
+      "tz_id": "Europe/Ljubljana",
+      "rehion": "Europe",
+      "misto": "Любляна",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 339,
+      "tz_id": "Europe/London",
+      "rehion": "Europe",
+      "misto": "Лондон",
+      "standartna_nazva": "",
+      "litnia_nazva": "за літнім часом у Великій Британії"
+    },
+    {
+      "id": 340,
+      "tz_id": "Europe/Luxembourg",
+      "rehion": "Europe",
+      "misto": "Люксембург",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 341,
+      "tz_id": "Europe/Madrid",
+      "rehion": "Europe",
+      "misto": "Мадрид",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 342,
+      "tz_id": "Europe/Malta",
+      "rehion": "Europe",
+      "misto": "Мальта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 343,
+      "tz_id": "Europe/Mariehamn",
+      "rehion": "Europe",
+      "misto": "Марієгамн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 344,
+      "tz_id": "Europe/Minsk",
+      "rehion": "Europe",
+      "misto": "Мінськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 345,
+      "tz_id": "Europe/Monaco",
+      "rehion": "Europe",
+      "misto": "Монако",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 346,
+      "tz_id": "Europe/Moscow",
+      "rehion": "Europe",
+      "misto": "Москва",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 347,
+      "tz_id": "Europe/Oslo",
+      "rehion": "Europe",
+      "misto": "Осло",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 348,
+      "tz_id": "Europe/Paris",
+      "rehion": "Europe",
+      "misto": "Париж",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 349,
+      "tz_id": "Europe/Podgorica",
+      "rehion": "Europe",
+      "misto": "Подгориця",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 350,
+      "tz_id": "Europe/Prague",
+      "rehion": "Europe",
+      "misto": "Прага",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 351,
+      "tz_id": "Europe/Riga",
+      "rehion": "Europe",
+      "misto": "Рига",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 352,
+      "tz_id": "Europe/Rome",
+      "rehion": "Europe",
+      "misto": "Рим",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 353,
+      "tz_id": "Europe/Samara",
+      "rehion": "Europe",
+      "misto": "Самара",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 354,
+      "tz_id": "Europe/San_Marino",
+      "rehion": "Europe",
+      "misto": "Сан-Марино",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 355,
+      "tz_id": "Europe/Sarajevo",
+      "rehion": "Europe",
+      "misto": "Сараєво",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 356,
+      "tz_id": "Europe/Saratov",
+      "rehion": "Europe",
+      "misto": "Саратов",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 357,
+      "tz_id": "Europe/Simferopol",
+      "rehion": "Europe",
+      "misto": "Сімферополь",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 358,
+      "tz_id": "Europe/Skopje",
+      "rehion": "Europe",
+      "misto": "Скопʼє",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 359,
+      "tz_id": "Europe/Sofia",
+      "rehion": "Europe",
+      "misto": "Софія",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 360,
+      "tz_id": "Europe/Stockholm",
+      "rehion": "Europe",
+      "misto": "Стокгольм",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 361,
+      "tz_id": "Europe/Tallinn",
+      "rehion": "Europe",
+      "misto": "Таллінн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 362,
+      "tz_id": "Europe/Tirane",
+      "rehion": "Europe",
+      "misto": "Тирана",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 363,
+      "tz_id": "Europe/Ulyanovsk",
+      "rehion": "Europe",
+      "misto": "Ульянівськ",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 364,
+      "tz_id": "Europe/Vaduz",
+      "rehion": "Europe",
+      "misto": "Вадуц",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 365,
+      "tz_id": "Europe/Vatican",
+      "rehion": "Europe",
+      "misto": "Ватикан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 366,
+      "tz_id": "Europe/Vienna",
+      "rehion": "Europe",
+      "misto": "Відень",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 367,
+      "tz_id": "Europe/Vilnius",
+      "rehion": "Europe",
+      "misto": "Вільнюс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 368,
+      "tz_id": "Europe/Volgograd",
+      "rehion": "Europe",
+      "misto": "Волгоград",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 369,
+      "tz_id": "Europe/Warsaw",
+      "rehion": "Europe",
+      "misto": "Варшава",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 370,
+      "tz_id": "Europe/Zagreb",
+      "rehion": "Europe",
+      "misto": "Загреб",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 371,
+      "tz_id": "Europe/Zurich",
+      "rehion": "Europe",
+      "misto": "Цюріх",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 372,
+      "tz_id": "Indian/Antananarivo",
+      "rehion": "Indian",
+      "misto": "Антананаріву",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 373,
+      "tz_id": "Indian/Chagos",
+      "rehion": "Indian",
+      "misto": "Чаґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 374,
+      "tz_id": "Indian/Christmas",
+      "rehion": "Indian",
+      "misto": "Острів Різдва",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 375,
+      "tz_id": "Indian/Cocos",
+      "rehion": "Indian",
+      "misto": "Кокосові острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 376,
+      "tz_id": "Indian/Comoro",
+      "rehion": "Indian",
+      "misto": "Комори",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 377,
+      "tz_id": "Indian/Kerguelen",
+      "rehion": "Indian",
+      "misto": "Керґелен",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 378,
+      "tz_id": "Indian/Mahe",
+      "rehion": "Indian",
+      "misto": "Махе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 379,
+      "tz_id": "Indian/Maldives",
+      "rehion": "Indian",
+      "misto": "Мальдіви",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 380,
+      "tz_id": "Indian/Mauritius",
+      "rehion": "Indian",
+      "misto": "Маврикій",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 381,
+      "tz_id": "Indian/Mayotte",
+      "rehion": "Indian",
+      "misto": "Майотта",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 382,
+      "tz_id": "Indian/Reunion",
+      "rehion": "Indian",
+      "misto": "Реюньйон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 383,
+      "tz_id": "Pacific/Apia",
+      "rehion": "Pacific",
+      "misto": "Апіа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 384,
+      "tz_id": "Pacific/Auckland",
+      "rehion": "Pacific",
+      "misto": "Окленд",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 385,
+      "tz_id": "Pacific/Bougainville",
+      "rehion": "Pacific",
+      "misto": "Буґенвіль",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 386,
+      "tz_id": "Pacific/Chatham",
+      "rehion": "Pacific",
+      "misto": "Чатем",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 387,
+      "tz_id": "Pacific/Easter",
+      "rehion": "Pacific",
+      "misto": "Острів Пасхи",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 388,
+      "tz_id": "Pacific/Efate",
+      "rehion": "Pacific",
+      "misto": "Ефате",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 389,
+      "tz_id": "Pacific/Enderbury",
+      "rehion": "Pacific",
+      "misto": "Кантон",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 390,
+      "tz_id": "Pacific/Fakaofo",
+      "rehion": "Pacific",
+      "misto": "Факаофо",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 391,
+      "tz_id": "Pacific/Fiji",
+      "rehion": "Pacific",
+      "misto": "Фіджі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 392,
+      "tz_id": "Pacific/Funafuti",
+      "rehion": "Pacific",
+      "misto": "Фунафуті",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 393,
+      "tz_id": "Pacific/Galapagos",
+      "rehion": "Pacific",
+      "misto": "Ґалапаґос",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 394,
+      "tz_id": "Pacific/Gambier",
+      "rehion": "Pacific",
+      "misto": "Гамбʼє",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 395,
+      "tz_id": "Pacific/Guadalcanal",
+      "rehion": "Pacific",
+      "misto": "Гуадалканал",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 396,
+      "tz_id": "Pacific/Guam",
+      "rehion": "Pacific",
+      "misto": "Гуам",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 397,
+      "tz_id": "Pacific/Honolulu",
+      "rehion": "Pacific",
+      "misto": "Гонолулу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 398,
+      "tz_id": "Pacific/Kiritimati",
+      "rehion": "Pacific",
+      "misto": "Кірітіматі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 399,
+      "tz_id": "Pacific/Kosrae",
+      "rehion": "Pacific",
+      "misto": "Косрае",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 400,
+      "tz_id": "Pacific/Kwajalein",
+      "rehion": "Pacific",
+      "misto": "Кваджалейн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 401,
+      "tz_id": "Pacific/Majuro",
+      "rehion": "Pacific",
+      "misto": "Маджуро",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 402,
+      "tz_id": "Pacific/Marquesas",
+      "rehion": "Pacific",
+      "misto": "Маркізькі острови",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 403,
+      "tz_id": "Pacific/Midway",
+      "rehion": "Pacific",
+      "misto": "Мідвей",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 404,
+      "tz_id": "Pacific/Nauru",
+      "rehion": "Pacific",
+      "misto": "Науру",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 405,
+      "tz_id": "Pacific/Niue",
+      "rehion": "Pacific",
+      "misto": "Ніуе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 406,
+      "tz_id": "Pacific/Norfolk",
+      "rehion": "Pacific",
+      "misto": "Норфолк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 407,
+      "tz_id": "Pacific/Noumea",
+      "rehion": "Pacific",
+      "misto": "Нумеа",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 408,
+      "tz_id": "Pacific/Pago_Pago",
+      "rehion": "Pacific",
+      "misto": "Паго-Паго",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 409,
+      "tz_id": "Pacific/Palau",
+      "rehion": "Pacific",
+      "misto": "Палау",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 410,
+      "tz_id": "Pacific/Pitcairn",
+      "rehion": "Pacific",
+      "misto": "Піткерн",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 411,
+      "tz_id": "Pacific/Ponape",
+      "rehion": "Pacific",
+      "misto": "Понапе",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 412,
+      "tz_id": "Pacific/Port_Moresby",
+      "rehion": "Pacific",
+      "misto": "Порт-Морсбі",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 413,
+      "tz_id": "Pacific/Rarotonga",
+      "rehion": "Pacific",
+      "misto": "Раротонга",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 414,
+      "tz_id": "Pacific/Saipan",
+      "rehion": "Pacific",
+      "misto": "Сайпан",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 415,
+      "tz_id": "Pacific/Tahiti",
+      "rehion": "Pacific",
+      "misto": "Таїті",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 416,
+      "tz_id": "Pacific/Tarawa",
+      "rehion": "Pacific",
+      "misto": "Тарава",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 417,
+      "tz_id": "Pacific/Tongatapu",
+      "rehion": "Pacific",
+      "misto": "Тонгатапу",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 418,
+      "tz_id": "Pacific/Truk",
+      "rehion": "Pacific",
+      "misto": "Чуук",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 419,
+      "tz_id": "Pacific/Wake",
+      "rehion": "Pacific",
+      "misto": "Вейк",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    },
+    {
+      "id": 420,
+      "tz_id": "Pacific/Wallis",
+      "rehion": "Pacific",
+      "misto": "Уолліс",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси світу (IANA / CLDR українською) - Безкоштовне завантаження",
+    "description": "Ідентифікатори часових поясів IANA та репрезентативні назви міст українською з локалі uk у CLDR. 'rehion' — це перший сегмент ідентифікатора. Містить 420 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси світу (IANA / CLDR українською) | ListBase",
+    "seo_description": "Завантажити Часові пояси світу (IANA / CLDR українською) — 420 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 420 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Katehoriia","Nazva","Skorochennia","Vuzka Forma","Vzirets"
+"1","angle-arc-minute","angle","кутові мінути","кут. мін.","′","{0} кутової мінути"
+"2","angle-arc-second","angle","кутові секунди","кут. сек.","″","{0} кутової секунди"
+"3","angle-degree","angle","градуси","градуси","°","{0} градуса"
+"4","angle-radian","angle","радіани","радіани","рад.","{0} радіана"
+"5","angle-revolution","angle","оберти","об","об","{0} оберта"
+"6","angle-steradian","angle","стерадіани","ср","ср","{0} стерадіана"

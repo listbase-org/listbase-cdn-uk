@@ -1,0 +1,79 @@
+{
+  "id": "uk-luhansk-banky",
+  "name": "Банки в Луганську — коди SWIFT/BIC (Luhansk bank SWIFT/BIC codes)",
+  "title": "Банки в Луганську — коди SWIFT/BIC (Luhansk bank SWIFT/BIC codes)",
+  "description": "Перелік: 4 банківських установ у місті Луганськ (Luhansk) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"LUHANSK\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 40,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "LUHANSK",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "FUIBUA2XLUG"
+    },
+    {
+      "id": 93,
+      "bank": "JSCB INDUSTRIALBANK UKRAINE",
+      "city": "LUHANSK",
+      "branch": "(LUHANSK)",
+      "swift_code": "IJSOUA2NLUH"
+    },
+    {
+      "id": 169,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "LUHANSK",
+      "branch": "(LUHANSK BRANCH)",
+      "swift_code": "PBANUA2XLGF"
+    },
+    {
+      "id": 239,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "LUHANSK",
+      "branch": "(LUHANSK REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKLUH"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Луганську — коди SWIFT/BIC (Luhansk bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 4 банківських установ у місті Луганськ (Luhansk) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"LUHANSK\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 4 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Луганську — коди SWIFT/BIC (Luhansk bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Луганську — коди SWIFT/BIC (Luhansk bank SWIFT/BIC codes) — 4 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 4 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,808 @@
+{
+  "id": "uk-cherkaska-hromady",
+  "name": "Територіальні громади Черкаської області",
+  "title": "Територіальні громади Черкаської області",
+  "description": "Список 67 територіальних громад Черкаської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA71020010000037786",
+      "name": "Бужанська сільська громада",
+      "name_en": "Buzhanska silska hromada",
+      "slug": "buzhanska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020030000059581",
+      "name": "Ватутінська міська громада",
+      "name_en": "Vatutinska miska hromada",
+      "slug": "vatutinska-miska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020050000074004",
+      "name": "Виноградська сільська громада",
+      "name_en": "Vynohradska silska hromada",
+      "slug": "vynohradska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020070000078820",
+      "name": "Вільшанська селищна громада",
+      "name_en": "Vilshanska selyshchna hromada",
+      "slug": "vilshanska-selyshchna-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020090000047211",
+      "name": "Водяницька сільська громада",
+      "name_en": "Vodianytska silska hromada",
+      "slug": "vodianytska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020110000015834",
+      "name": "Єрківська селищна громада",
+      "name_en": "Yerkivska selyshchna hromada",
+      "slug": "yerkivska-selyshchna-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020130000086047",
+      "name": "Звенигородська міська громада",
+      "name_en": "Zvenyhorodska miska hromada",
+      "slug": "zvenyhorodska-miska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020150000082849",
+      "name": "Катеринопільська селищна громада",
+      "name_en": "Katerynopilska selyshchna hromada",
+      "slug": "katerynopilska-selyshchna-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020170000024193",
+      "name": "Лип'янська сільська громада",
+      "name_en": "Lypyanska silska hromada",
+      "slug": "lypyanska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020190000034403",
+      "name": "Лисянська селищна громада",
+      "name_en": "Lysianska selyshchna hromada",
+      "slug": "lysianska-selyshchna-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020210000030936",
+      "name": "Матусівська сільська громада",
+      "name_en": "Matusivska silska hromada",
+      "slug": "matusivska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020230000095267",
+      "name": "Мокрокалигірська сільська громада",
+      "name_en": "Mokrokalyhirska silska hromada",
+      "slug": "mokrokalyhirska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020250000078192",
+      "name": "Селищенська сільська громада",
+      "name_en": "Selyshchenska silska hromada",
+      "slug": "selyshchenska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020270000021083",
+      "name": "Стеблівська селищна громада",
+      "name_en": "Steblivska selyshchna hromada",
+      "slug": "steblivska-selyshchna-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020290000032540",
+      "name": "Тальнівська міська громада",
+      "name_en": "Talnivska miska hromada",
+      "slug": "talnivska-miska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020310000027379",
+      "name": "Шевченківська сільська громада",
+      "name_en": "Shevchenkivska silska hromada",
+      "slug": "shevchenkivska-silska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020330000027449",
+      "name": "Шполянська міська рада",
+      "name_en": "Shpolianska miska rada",
+      "slug": "shpolianska-miska-rada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71020330000027449",
+      "name": "Шполянська міська громада",
+      "name_en": "Shpolianska miska hromada",
+      "slug": "shpolianska-miska-hromada",
+      "rayon_code": "UA71020000000057292",
+      "rayon_name": "Звенигородський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040010000032874",
+      "name": "Великохутірська сільська громада",
+      "name_en": "Velykokhutirska silska hromada",
+      "slug": "velykokhutirska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040030000055285",
+      "name": "Вознесенська сільська громада",
+      "name_en": "Voznesenska silska hromada",
+      "slug": "voznesenska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040050000016509",
+      "name": "Гельмязівська сільська громада",
+      "name_en": "Helmiazivska silska hromada",
+      "slug": "helmiazivska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040070000034468",
+      "name": "Драбівська селищна громада",
+      "name_en": "Drabivska selyshchna hromada",
+      "slug": "drabivska-selyshchna-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040090000047664",
+      "name": "Золотоніська міська громада",
+      "name_en": "Zolotoniska miska hromada",
+      "slug": "zolotoniska-miska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040110000054881",
+      "name": "Зорівська сільська громада",
+      "name_en": "Zorivska silska hromada",
+      "slug": "zorivska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040130000029175",
+      "name": "Іркліївська сільська громада",
+      "name_en": "Irkliivska silska hromada",
+      "slug": "irkliivska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040150000026547",
+      "name": "Новодмитрівська сільська громада",
+      "name_en": "Novodmytrivska silska hromada",
+      "slug": "novodmytrivska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040170000034734",
+      "name": "Піщанська сільська громада",
+      "name_en": "Pishchanska silska hromada",
+      "slug": "pishchanska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040190000080571",
+      "name": "Чорнобаївська селищна громада",
+      "name_en": "Chornobaivska selyshchna hromada",
+      "slug": "chornobaivska-selyshchna-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71040210000024694",
+      "name": "Шрамківська сільська громада",
+      "name_en": "Shramkivska silska hromada",
+      "slug": "shramkivska-silska-hromada",
+      "rayon_code": "UA71040000000022553",
+      "rayon_name": "Золотоніський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060010000027807",
+      "name": "Бабанська селищна громада",
+      "name_en": "Babanska selyshchna hromada",
+      "slug": "babanska-selyshchna-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060030000053648",
+      "name": "Баштечківська сільська громада",
+      "name_en": "Bashtechkivska silska hromada",
+      "slug": "bashtechkivska-silska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060050000056084",
+      "name": "Буцька селищна громада",
+      "name_en": "Butska selyshchna hromada",
+      "slug": "butska-selyshchna-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060070000098837",
+      "name": "Дмитрушківська сільська громада",
+      "name_en": "Dmytrushkivska silska hromada",
+      "slug": "dmytrushkivska-silska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060090000088339",
+      "name": "Жашківська міська громада",
+      "name_en": "Zhashkivska miska hromada",
+      "slug": "zhashkivska-miska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060110000085867",
+      "name": "Іваньківська сільська громада",
+      "name_en": "Ivankivska silska hromada",
+      "slug": "ivankivska-silska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060130000099511",
+      "name": "Ладижинська сільська громада",
+      "name_en": "Ladyzhynska silska hromada",
+      "slug": "ladyzhynska-silska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060150000062190",
+      "name": "Маньківська селищна громада",
+      "name_en": "Mankivska selyshchna hromada",
+      "slug": "mankivska-selyshchna-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060170000092613",
+      "name": "Монастирищенська міська громада",
+      "name_en": "Monastyryshchenska miska hromada",
+      "slug": "monastyryshchenska-miska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060190000086831",
+      "name": "Паланська сільська громада",
+      "name_en": "Palanska silska hromada",
+      "slug": "palanska-silska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060210000032972",
+      "name": "Уманська міська громада",
+      "name_en": "Umanska miska hromada",
+      "slug": "umanska-miska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71060230000095772",
+      "name": "Христинівська міська громада",
+      "name_en": "Khrystynivska miska hromada",
+      "slug": "khrystynivska-miska-hromada",
+      "rayon_code": "UA71060000000030325",
+      "rayon_name": "Уманський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080010000073303",
+      "name": "Балаклеївська сільська громада",
+      "name_en": "Balakleivska silska hromada",
+      "slug": "balakleivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080030000050121",
+      "name": "Березняківська сільська громада",
+      "name_en": "Berezniakivska silska hromada",
+      "slug": "berezniakivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080050000028174",
+      "name": "Білозірська сільська громада",
+      "name_en": "Bilozirska silska hromada",
+      "slug": "bilozirska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080070000050993",
+      "name": "Бобрицька сільська громада",
+      "name_en": "Bobrytska silska hromada",
+      "slug": "bobrytska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080090000075810",
+      "name": "Будищенська сільська громада",
+      "name_en": "Budyshchenska silska hromada",
+      "slug": "budyshchenska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080110000055395",
+      "name": "Городищенська міська громада",
+      "name_en": "Horodyshchenska miska hromada",
+      "slug": "horodyshchenska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080130000078619",
+      "name": "Кам'янська міська громада",
+      "name_en": "Kamyanska miska hromada",
+      "slug": "kamyanska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080150000071745",
+      "name": "Канівська міська громада",
+      "name_en": "Kanivska miska hromada",
+      "slug": "kanivska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080170000080118",
+      "name": "Корсунь-Шевченківська міська громада",
+      "name_en": "Korsun-Shevchenkivska miska hromada",
+      "slug": "korsun-shevchenkivska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080190000038712",
+      "name": "Леськівська сільська громада",
+      "name_en": "Leskivska silska hromada",
+      "slug": "leskivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080210000074132",
+      "name": "Ліплявська сільська громада",
+      "name_en": "Lipliavska silska hromada",
+      "slug": "lipliavska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080230000065521",
+      "name": "Медведівська сільська громада",
+      "name_en": "Medvedivska silska hromada",
+      "slug": "medvedivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080250000099725",
+      "name": "Михайлівська сільська громада",
+      "name_en": "Mykhailivska silska hromada",
+      "slug": "mykhailivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080270000076233",
+      "name": "Мліївська сільська громада",
+      "name_en": "Mliivska silska hromada",
+      "slug": "mliivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080290000067044",
+      "name": "Мошнівська сільська громада",
+      "name_en": "Moshnivska silska hromada",
+      "slug": "moshnivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080310000072487",
+      "name": "Набутівська сільська громада",
+      "name_en": "Nabutivska silska hromada",
+      "slug": "nabutivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080330000082129",
+      "name": "Ротмістрівська сільська громада",
+      "name_en": "Rotmistrivska silska hromada",
+      "slug": "rotmistrivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080350000033809",
+      "name": "Руськополянська сільська громада",
+      "name_en": "Ruskopolianska silska hromada",
+      "slug": "ruskopolianska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080370000064287",
+      "name": "Сагунівська сільська громада",
+      "name_en": "Sahunivska silska hromada",
+      "slug": "sahunivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080390000078978",
+      "name": "Смілянська міська громада",
+      "name_en": "Smilianska miska hromada",
+      "slug": "smilianska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080410000061690",
+      "name": "Степанецька сільська громада",
+      "name_en": "Stepanetska silska hromada",
+      "slug": "stepanetska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080430000025181",
+      "name": "Степанківська сільська громада",
+      "name_en": "Stepankivska silska hromada",
+      "slug": "stepankivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080450000083423",
+      "name": "Тернівська сільська громада",
+      "name_en": "Ternivska silska hromada",
+      "slug": "ternivska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080470000038153",
+      "name": "Червонослобідська сільська громада",
+      "name_en": "Chervonoslobidska silska hromada",
+      "slug": "chervonoslobidska-silska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080490000022110",
+      "name": "Черкаська міська громада",
+      "name_en": "Cherkaska miska hromada",
+      "slug": "cherkaska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    },
+    {
+      "code": "UA71080510000028067",
+      "name": "Чигиринська міська громада",
+      "name_en": "Chyhyrynska miska hromada",
+      "slug": "chyhyrynska-miska-hromada",
+      "rayon_code": "UA71080000000036344",
+      "rayon_name": "Черкаський район",
+      "oblast_id": 23,
+      "oblast_name": "Черкаська область",
+      "oblast_slug": "cherkaska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Черкаської області - Безкоштовне завантаження",
+    "description": "Список 67 територіальних громад Черкаської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 67 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Черкаської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Черкаської області — 67 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 67 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

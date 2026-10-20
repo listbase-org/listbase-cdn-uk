@@ -1,0 +1,241 @@
+{
+  "id": "uk-rivnenska-mista",
+  "name": "Міста Рівненської області",
+  "title": "Міста Рівненської області",
+  "description": "Список 10 міст Рівненської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA56020030010034121",
+      "name": "Вараш",
+      "name_en": "Varash",
+      "slug": "varash",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56020030000068439",
+      "hromada_name": "Вараська міська громада",
+      "rayon_name": "Вараський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040110010080334",
+      "name": "Дубно",
+      "name_en": "Dubno",
+      "slug": "dubno",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56040110000061997",
+      "hromada_name": "Дубенська міська громада",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56040290010062068",
+      "name": "Радивилів",
+      "name_en": "Radyvyliv",
+      "slug": "radyvyliv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56040290000025511",
+      "hromada_name": "Радивилівська міська громада",
+      "rayon_name": "Дубенський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060030010049126",
+      "name": "Березне",
+      "name_en": "Berezne",
+      "slug": "berezne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56060030000057923",
+      "hromada_name": "Березнівська міська громада",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060250010051586",
+      "name": "Здолбунів",
+      "name_en": "Zdolbuniv",
+      "slug": "zdolbuniv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56060250000052338",
+      "hromada_name": "Здолбунівська міська громада",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060310010035947",
+      "name": "Корець",
+      "name_en": "Korets",
+      "slug": "korets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56060310000066585",
+      "hromada_name": "Корецька міська громада",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060350010063070",
+      "name": "Костопіль",
+      "name_en": "Kostopil",
+      "slug": "kostopil",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56060350000045909",
+      "hromada_name": "Костопільська міська громада",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56060450010014169",
+      "name": "Острог",
+      "name_en": "Ostroh",
+      "slug": "ostroh",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56060450000083945",
+      "hromada_name": "Острозька міська громада",
+      "rayon_name": "Рівненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080070010011646",
+      "name": "Дубровиця",
+      "name_en": "Dubrovytsia",
+      "slug": "dubrovytsia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56080070000040721",
+      "hromada_name": "Дубровицька міська громада",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    },
+    {
+      "code": "UA56080170010061049",
+      "name": "Сарни",
+      "name_en": "Sarny",
+      "slug": "sarny",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA56080170000055864",
+      "hromada_name": "Сарненська міська громада",
+      "rayon_name": "Сарненський район",
+      "oblast_id": 17,
+      "oblast_name": "Рівненська область",
+      "oblast_slug": "rivnenska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Рівненської області - Безкоштовне завантаження",
+    "description": "Список 10 міст Рівненської області (категорія М у КАТОТТГ). Містить 10 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Рівненської області | ListBase",
+    "seo_description": "Завантажити Міста Рівненської області — 10 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 10 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "id": "uk-kharkivska-mista",
+  "name": "Міста Харківської області",
+  "title": "Міста Харківської області",
+  "description": "Список 18 міст Харківської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA63020010010049442",
+      "name": "Богодухів",
+      "name_en": "Bohodukhiv",
+      "slug": "bohodukhiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63020010000079018",
+      "hromada_name": "Богодухівська міська громада",
+      "rayon_name": "Богодухівський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63020030010038669",
+      "name": "Валки",
+      "name_en": "Valky",
+      "slug": "valky",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63020030000094096",
+      "hromada_name": "Валківська міська громада",
+      "rayon_name": "Богодухівський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63040010010039074",
+      "name": "Балаклія",
+      "name_en": "Balakliia",
+      "slug": "balakliia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63040010000010092",
+      "hromada_name": "Балаклійська міська громада",
+      "rayon_name": "Ізюмський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63040030010027594",
+      "name": "Барвінкове",
+      "name_en": "Barvinkove",
+      "slug": "barvinkove",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63040030000052515",
+      "hromada_name": "Барвінківська міська громада",
+      "rayon_name": "Ізюмський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63040090010029555",
+      "name": "Ізюм",
+      "name_en": "Izium",
+      "slug": "izium",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63040090000021240",
+      "hromada_name": "Ізюмська міська громада",
+      "rayon_name": "Ізюмський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63060050010042407",
+      "name": "Берестин",
+      "name_en": "Berestyn",
+      "slug": "berestyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63060050000033240",
+      "hromada_name": "Красноградська міська громада",
+      "rayon_name": "Берестинський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63080090010026457",
+      "name": "Куп'янськ",
+      "name_en": "Kupyansk",
+      "slug": "kupyansk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63080090000067457",
+      "hromada_name": "Куп'янська міська громада",
+      "rayon_name": "",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63100050010081626",
+      "name": "Лозова",
+      "name_en": "Lozova",
+      "slug": "lozova",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63100050000079487",
+      "hromada_name": "Лозівська міська громада",
+      "rayon_name": "Лозівський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63100090010068250",
+      "name": "Златопіль",
+      "name_en": "Zlatopil",
+      "slug": "zlatopil",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63100090000052019",
+      "hromada_name": "Златопільська міська громада",
+      "rayon_name": "Лозівський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63120070010085847",
+      "name": "Дергачі",
+      "name_en": "Derhachi",
+      "slug": "derhachi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63120070000018741",
+      "hromada_name": "Дергачівська міська громада",
+      "rayon_name": "Харківський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63120110010087291",
+      "name": "Люботин",
+      "name_en": "Liubotyn",
+      "slug": "liubotyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63120110000043456",
+      "hromada_name": "Люботинська міська громада",
+      "rayon_name": "Харківський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63120150010020962",
+      "name": "Мерефа",
+      "name_en": "Merefa",
+      "slug": "merefa",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63120150000086206",
+      "hromada_name": "Мереф'янська міська громада",
+      "rayon_name": "Харківський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63120190010022795",
+      "name": "Південне",
+      "name_en": "Pivdenne",
+      "slug": "pivdenne",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63120190000093717",
+      "hromada_name": "Південноміська міська громада",
+      "rayon_name": "Харківський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63120270010096107",
+      "name": "Харків",
+      "name_en": "Kharkiv",
+      "slug": "kharkiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63120270000028556",
+      "hromada_name": "Харківська міська громада",
+      "rayon_name": "Харківський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63140010010035757",
+      "name": "Вовчанськ",
+      "name_en": "Vovchansk",
+      "slug": "vovchansk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63140010000049419",
+      "hromada_name": "Вовчанська міська громада",
+      "rayon_name": "Чугуївський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63140030010017037",
+      "name": "Зміїв",
+      "name_en": "Zmiiv",
+      "slug": "zmiiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63140030000091352",
+      "hromada_name": "Зміївська міська громада",
+      "rayon_name": "Чугуївський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63140110010076882",
+      "name": "Слобожанське",
+      "name_en": "Slobozhanske",
+      "slug": "slobozhanske",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63140110000087562",
+      "hromada_name": "Слобожанська міська громада",
+      "rayon_name": "Чугуївський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    },
+    {
+      "code": "UA63140170010036104",
+      "name": "Чугуїв",
+      "name_en": "Chuhuiv",
+      "slug": "chuhuiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA63140170000087785",
+      "hromada_name": "Чугуївська міська громада",
+      "rayon_name": "Чугуївський район",
+      "oblast_id": 20,
+      "oblast_name": "Харківська область",
+      "oblast_slug": "kharkivska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Харківської області - Безкоштовне завантаження",
+    "description": "Список 18 міст Харківської області (категорія М у КАТОТТГ). Містить 18 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Харківської області | ListBase",
+    "seo_description": "Завантажити Міста Харківської області — 18 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 18 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

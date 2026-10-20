@@ -1,0 +1,775 @@
+{
+  "id": "uk-ternopilska-hromady",
+  "name": "Територіальні громади Тернопільської області",
+  "title": "Територіальні громади Тернопільської області",
+  "description": "Список 64 територіальних громад Тернопільської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA61020010000028670",
+      "name": "Борсуківська сільська рада",
+      "name_en": "Borsukivska silska rada",
+      "slug": "borsukivska-silska-rada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020010000028670",
+      "name": "Борсуківська сільська громада",
+      "name_en": "Borsukivska silska hromada",
+      "slug": "borsukivska-silska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020030000060484",
+      "name": "Великодедеркальська сільська громада",
+      "name_en": "Velykodederkalska silska hromada",
+      "slug": "velykodederkalska-silska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020050000098539",
+      "name": "Вишнівецька селищна громада",
+      "name_en": "Vyshnivetska selyshchna hromada",
+      "slug": "vyshnivetska-selyshchna-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020070000092368",
+      "name": "Кременецька міська громада",
+      "name_en": "Kremenetska miska hromada",
+      "slug": "kremenetska-miska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020090000020422",
+      "name": "Лановецька міська громада",
+      "name_en": "Lanovetska miska hromada",
+      "slug": "lanovetska-miska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020110000084342",
+      "name": "Лопушненська сільська громада",
+      "name_en": "Lopushnenska silska hromada",
+      "slug": "lopushnenska-silska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020130000037505",
+      "name": "Почаївська міська громада",
+      "name_en": "Pochaivska miska hromada",
+      "slug": "pochaivska-miska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020150000036935",
+      "name": "Шумська міська громада",
+      "name_en": "Shumska miska hromada",
+      "slug": "shumska-miska-hromada",
+      "rayon_code": "UA61020000000016944",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040010000042862",
+      "name": "Байковецька сільська рада",
+      "name_en": "Baikovetska silska rada",
+      "slug": "baikovetska-silska-rada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040010000042862",
+      "name": "Байковецька сільська громада",
+      "name_en": "Baikovetska silska hromada",
+      "slug": "baikovetska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040030000060956",
+      "name": "Бережанська міська громада",
+      "name_en": "Berezhanska miska hromada",
+      "slug": "berezhanska-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040050000096355",
+      "name": "Білецька сільська громада",
+      "name_en": "Biletska silska hromada",
+      "slug": "biletska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040070000079091",
+      "name": "Великоберезовицька селищна громада",
+      "name_en": "Velykoberezovytska selyshchna hromada",
+      "slug": "velykoberezovytska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040090000047241",
+      "name": "Великобірківська селищна громада",
+      "name_en": "Velykobirkivska selyshchna hromada",
+      "slug": "velykobirkivska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040110000010646",
+      "name": "Великогаївська сільська громада",
+      "name_en": "Velykohaivska silska hromada",
+      "slug": "velykohaivska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040130000085402",
+      "name": "Залозецька селищна громада",
+      "name_en": "Zalozetska selyshchna hromada",
+      "slug": "zalozetska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040150000098181",
+      "name": "Збаразька міська громада",
+      "name_en": "Zbarazka miska hromada",
+      "slug": "zbarazka-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040170000086062",
+      "name": "Зборівська міська громада",
+      "name_en": "Zborivska miska hromada",
+      "slug": "zborivska-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040190000027979",
+      "name": "Золотниківська сільська рада",
+      "name_en": "Zolotnykivska silska rada",
+      "slug": "zolotnykivska-silska-rada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040190000027979",
+      "name": "Золотниківська сільська громада",
+      "name_en": "Zolotnykivska silska hromada",
+      "slug": "zolotnykivska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040210000084270",
+      "name": "Іванівська сільська рада (Теребовлянський район)",
+      "name_en": "Ivanivska silska rada (Terebovlianskyi raion)",
+      "slug": "ivanivska-silska-rada-terebovlianskyi-raion",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040210000084270",
+      "name": "Іванівська сільська громада",
+      "name_en": "Ivanivska silska hromada",
+      "slug": "ivanivska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040230000060213",
+      "name": "Козівська селищна громада",
+      "name_en": "Kozivska selyshchna hromada",
+      "slug": "kozivska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040250000021345",
+      "name": "Козлівська селищна громада",
+      "name_en": "Kozlivska selyshchna hromada",
+      "slug": "kozlivska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040270000064661",
+      "name": "Купчинецька сільська рада",
+      "name_en": "Kupchynetska silska rada",
+      "slug": "kupchynetska-silska-rada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040270000064661",
+      "name": "Купчинецька сільська громада",
+      "name_en": "Kupchynetska silska hromada",
+      "slug": "kupchynetska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040290000047781",
+      "name": "Микулинецька селищна громада",
+      "name_en": "Mykulynetska selyshchna hromada",
+      "slug": "mykulynetska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040310000059301",
+      "name": "Нараївська сільська громада",
+      "name_en": "Naraivska silska hromada",
+      "slug": "naraivska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040330000096161",
+      "name": "Озернянська сільська рада",
+      "name_en": "Ozernianska silska rada",
+      "slug": "ozernianska-silska-rada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040330000096161",
+      "name": "Озернянська сільська громада",
+      "name_en": "Ozernianska silska hromada",
+      "slug": "ozernianska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040350000078247",
+      "name": "Підволочиська селищна громада",
+      "name_en": "Pidvolochyska selyshchna hromada",
+      "slug": "pidvolochyska-selyshchna-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040370000060170",
+      "name": "Підгаєцька міська громада",
+      "name_en": "Pidhaietska miska hromada",
+      "slug": "pidhaietska-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040390000066619",
+      "name": "Підгороднянська сільська рада",
+      "name_en": "Pidhorodnianska silska rada",
+      "slug": "pidhorodnianska-silska-rada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040390000066619",
+      "name": "Підгороднянська сільська громада",
+      "name_en": "Pidhorodnianska silska hromada",
+      "slug": "pidhorodnianska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040410000065219",
+      "name": "Саранчуківська сільська громада",
+      "name_en": "Saranchukivska silska hromada",
+      "slug": "saranchukivska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040430000018305",
+      "name": "Скалатська міська громада",
+      "name_en": "Skalatska miska hromada",
+      "slug": "skalatska-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040450000064468",
+      "name": "Скориківська сільська рада",
+      "name_en": "Skorykivska silska rada",
+      "slug": "skorykivska-silska-rada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040450000064468",
+      "name": "Скориківська сільська громада",
+      "name_en": "Skorykivska silska hromada",
+      "slug": "skorykivska-silska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040470000038207",
+      "name": "Теребовлянська міська громада",
+      "name_en": "Terebovlianska miska hromada",
+      "slug": "terebovlianska-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040490000035010",
+      "name": "Тернопільська міська громада",
+      "name_en": "Ternopilska miska hromada",
+      "slug": "ternopilska-miska-hromada",
+      "rayon_code": "UA61040000000090285",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060010000070653",
+      "name": "Білобожницька сільська громада",
+      "name_en": "Bilobozhnytska silska hromada",
+      "slug": "bilobozhnytska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060030000070527",
+      "name": "Більче-Золотецька сільська рада",
+      "name_en": "Bilche-Zolotetska silska rada",
+      "slug": "bilche-zolotetska-silska-rada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060030000070527",
+      "name": "Більче-Золотецька сільська громада",
+      "name_en": "Bilche-Zolotetska silska hromada",
+      "slug": "bilche-zolotetska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060050000068464",
+      "name": "Борщівська міська громада",
+      "name_en": "Borshchivska miska hromada",
+      "slug": "borshchivska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060070000098188",
+      "name": "Бучацька міська громада",
+      "name_en": "Buchatska miska hromada",
+      "slug": "buchatska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060090000060396",
+      "name": "Васильковецька сільська громада",
+      "name_en": "Vasylkovetska silska hromada",
+      "slug": "vasylkovetska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060110000078824",
+      "name": "Гримайлівська селищна громада",
+      "name_en": "Hrymailivska selyshchna hromada",
+      "slug": "hrymailivska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060130000045755",
+      "name": "Гусятинська селищна громада",
+      "name_en": "Husiatynska selyshchna hromada",
+      "slug": "husiatynska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060150000032895",
+      "name": "Заводська селищна громада",
+      "name_en": "Zavodska selyshchna hromada",
+      "slug": "zavodska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060170000051011",
+      "name": "Заліщицька міська громада",
+      "name_en": "Zalishchytska miska hromada",
+      "slug": "zalishchytska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060190000016283",
+      "name": "Золотопотіцька селищна громада",
+      "name_en": "Zolotopotitska selyshchna hromada",
+      "slug": "zolotopotitska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060210000021722",
+      "name": "Іване-Пустенська сільська громада",
+      "name_en": "Ivane-Pustenska silska hromada",
+      "slug": "ivane-pustenska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060230000067504",
+      "name": "Колиндянська сільська громада",
+      "name_en": "Kolyndianska silska hromada",
+      "slug": "kolyndianska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060250000062700",
+      "name": "Копичинецька міська громада",
+      "name_en": "Kopychynetska miska hromada",
+      "slug": "kopychynetska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060270000084790",
+      "name": "Коропецька селищна громада",
+      "name_en": "Koropetska selyshchna hromada",
+      "slug": "koropetska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060290000038953",
+      "name": "Мельнице-Подільська селищна громада",
+      "name_en": "Melnytse-Podilska selyshchna hromada",
+      "slug": "melnytse-podilska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060310000061998",
+      "name": "Монастириська міська громада",
+      "name_en": "Monastyryska miska hromada",
+      "slug": "monastyryska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060330000041227",
+      "name": "Нагірянська сільська громада",
+      "name_en": "Nahirianska silska hromada",
+      "slug": "nahirianska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060350000024021",
+      "name": "Скала-Подільська селищна громада",
+      "name_en": "Skala-Podilska selyshchna hromada",
+      "slug": "skala-podilska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060370000081851",
+      "name": "Товстенська селищна громада",
+      "name_en": "Tovstenska selyshchna hromada",
+      "slug": "tovstenska-selyshchna-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060390000013361",
+      "name": "Трибухівська сільська громада",
+      "name_en": "Trybukhivska silska hromada",
+      "slug": "trybukhivska-silska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060410000092242",
+      "name": "Хоростківська міська громада",
+      "name_en": "Khorostkivska miska hromada",
+      "slug": "khorostkivska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060430000094264",
+      "name": "Чортківська міська громада",
+      "name_en": "Chortkivska miska hromada",
+      "slug": "chortkivska-miska-hromada",
+      "rayon_code": "UA61060000000068766",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Тернопільської області - Безкоштовне завантаження",
+    "description": "Список 64 територіальних громад Тернопільської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 64 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Тернопільської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Тернопільської області — 64 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 64 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

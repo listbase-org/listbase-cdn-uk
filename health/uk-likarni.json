@@ -1,0 +1,951 @@
+{
+  "id": "uk-likarni",
+  "name": "Лікарні України",
+  "title": "Лікарні України",
+  "description": "Перелік об'єктів типу «лікарня» в Україні з відкритих даних Вікіданих (Wikidata), 80 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q117087686",
+      "name_uk": "5-та міська лікарня (Запоріжжя)",
+      "name_en": "",
+      "admin_area_uk": "Запорізька область",
+      "admin_area_en": "Zaporizhzhia Oblast",
+      "latitude": 47.83069,
+      "longitude": 35.145022,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117087686"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4145415",
+      "name_uk": "",
+      "name_en": "Hospital № 1 (Sevastopol)",
+      "admin_area_uk": "Севастополь",
+      "admin_area_en": "Sevastopol",
+      "latitude": 44.601667,
+      "longitude": 33.515833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4145415"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q50036744",
+      "name_uk": "",
+      "name_en": "International Clinic of Rehabilitation",
+      "admin_area_uk": "Трускавець",
+      "admin_area_en": "Truskavets",
+      "latitude": 49.272869,
+      "longitude": 23.518617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50036744"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q30260544",
+      "name_uk": "",
+      "name_en": "Lviv City Children's Hospital",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.874445,
+      "longitude": 24.034688,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30260544"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q135399742",
+      "name_uk": "Lviv Medical Center",
+      "name_en": "Lviv Medical Center",
+      "admin_area_uk": "Львів",
+      "admin_area_en": "Lviv",
+      "latitude": 49.81163,
+      "longitude": 24.073175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135399742"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q77751362",
+      "name_uk": "",
+      "name_en": "Semashko Republican clinical hospital",
+      "admin_area_uk": "Сімферополь",
+      "admin_area_en": "Simferopol",
+      "latitude": 44.956558,
+      "longitude": 34.114507,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q77751362"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12078152",
+      "name_uk": "Ананьївська центральна районна лікарня",
+      "name_en": "County hospital, Ananiv",
+      "admin_area_uk": "Ананьївська міська громада",
+      "admin_area_en": "Ananiv urban hromada",
+      "latitude": 47.723783,
+      "longitude": 29.960205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12078152"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q30331988",
+      "name_uk": "Бережанська центральна районна клінічна лікарня",
+      "name_en": "Berezhany Raion Central Hospital",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.446111,
+      "longitude": 24.933611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30331988"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q30961847",
+      "name_uk": "Борщівська центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 48.805,
+      "longitude": 26.053056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961847"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q64555523",
+      "name_uk": "Будинок земського лікаря (Чорнухи)",
+      "name_en": "Zemstvo hospital in Chornukhy",
+      "admin_area_uk": "Чорнухи",
+      "admin_area_en": "Chornukhy",
+      "latitude": 50.269738,
+      "longitude": 32.935525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64555523"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q20721369",
+      "name_uk": "Бучацька центральна районна клінічна лікарня",
+      "name_en": "Buchach Raion Central Hospital",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.060556,
+      "longitude": 25.418333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20721369"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q20074236",
+      "name_uk": "Білоцерківська станція екстреної медичної допомоги",
+      "name_en": "",
+      "admin_area_uk": "Біла Церква",
+      "admin_area_en": "Bila Tserkva",
+      "latitude": 49.8025,
+      "longitude": 30.121944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20074236"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q25436706",
+      "name_uk": "Вишгородська центральна районна лікарня",
+      "name_en": "",
+      "admin_area_uk": "Вишгород",
+      "admin_area_en": "Vyshhorod",
+      "latitude": 50.582171,
+      "longitude": 30.477857,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25436706"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q16695064",
+      "name_uk": "Всеукраїнський центр радіохірургії",
+      "name_en": "",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.347778,
+      "longitude": 30.489167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16695064"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q50035573",
+      "name_uk": "Вінницька обласна клінічна психоневрологічна лікарня ім. акад. О.І.Ющенка",
+      "name_en": "Vinnytsya Regional Psychoneurological Hospital named after. Academician O.I. Yushchenko",
+      "admin_area_uk": "Вінниця",
+      "admin_area_en": "Vinnytsia",
+      "latitude": 49.217391,
+      "longitude": 28.437821,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50035573"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q30961853",
+      "name_uk": "Гусятинська центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.071389,
+      "longitude": 26.193056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961853"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q12101998",
+      "name_uk": "Донецька обласна клінічна лікарня імені М. І. Калініна",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 48.004563,
+      "longitude": 37.823852,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12101998"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q20076808",
+      "name_uk": "Жмеринська залізнична лікарня",
+      "name_en": "",
+      "admin_area_uk": "Жмеринка",
+      "admin_area_en": "Zhmerynka",
+      "latitude": 49.024471,
+      "longitude": 28.11603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20076808"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q20076809",
+      "name_uk": "Жмеринська центральна районна лікарня",
+      "name_en": "",
+      "admin_area_uk": "Жмеринка",
+      "admin_area_en": "Zhmerynka",
+      "latitude": 49.060556,
+      "longitude": 28.120833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20076809"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q30961857",
+      "name_uk": "Заліщицька центральна районна клінічна лікарня",
+      "name_en": "Zalishchyky Central City Hospital",
+      "admin_area_uk": "Заліщики",
+      "admin_area_en": "Zalishchyky",
+      "latitude": 48.648889,
+      "longitude": 25.731667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961857"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q30961861",
+      "name_uk": "Збаразька центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.661111,
+      "longitude": 25.789722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961861"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q30961868",
+      "name_uk": "Зборівська центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.666111,
+      "longitude": 25.139167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961868"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q122297785",
+      "name_uk": "Земська лікарня",
+      "name_en": "70 Sobornyi Avenue, Zaporizhia",
+      "admin_area_uk": "Запоріжжя",
+      "admin_area_en": "Zaporizhzhia",
+      "latitude": 47.81625,
+      "longitude": 35.178028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122297785"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q25434928",
+      "name_uk": "Київська міська клінічна лікарня швидкої медичної допомоги",
+      "name_en": "Kyiv City Clinical Hospital of Emergency Medical Care",
+      "admin_area_uk": "Деснянський район",
+      "admin_area_en": "Desnianskyi District",
+      "latitude": 50.472586,
+      "longitude": 30.6193,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25434928"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q25436659",
+      "name_uk": "Київська міська клінічна лікарня № 5",
+      "name_en": "Kyiv City Clinical Hospital № 5",
+      "admin_area_uk": "Святошинський район",
+      "admin_area_en": "Sviatoshynskyi District",
+      "latitude": 50.450446,
+      "longitude": 30.3783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25436659"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q28705739",
+      "name_uk": "Київська міська психіатрична лікарня",
+      "name_en": "Psychiatric hospital of the city of Kyiv",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.4815,
+      "longitude": 30.4685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28705739"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q12110265",
+      "name_uk": "Київський пансіонат ветеранів праці",
+      "name_en": "",
+      "admin_area_uk": "Деснянський район",
+      "admin_area_en": "Desnianskyi District",
+      "latitude": 50.476571,
+      "longitude": 30.640242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12110265"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q130391843",
+      "name_uk": "Клінічна лікарня Святого Пантелеймона,",
+      "name_en": "Saint Panteleimon Clinical Hospital, Sumy",
+      "admin_area_uk": "Суми",
+      "admin_area_en": "Sumy",
+      "latitude": 50.8906,
+      "longitude": 34.8319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130391843"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q30961863",
+      "name_uk": "Козівська центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.435833,
+      "longitude": 25.140278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961863"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q64555509",
+      "name_uk": "Комплекс споруд лікарні",
+      "name_en": "Hospital complex in Hoholiv, Brovary Raion",
+      "admin_area_uk": "Гоголів",
+      "admin_area_en": "Hoholiv (Brovary raion)",
+      "latitude": 50.502748,
+      "longitude": 31.019034,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64555509"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q110319271",
+      "name_uk": "Корпус міської лікарні",
+      "name_en": "",
+      "admin_area_uk": "Чернігів",
+      "admin_area_en": "Chernihiv",
+      "latitude": 51.497222,
+      "longitude": 31.285556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110319271"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q16703290",
+      "name_uk": "Кременецька центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.116194,
+      "longitude": 25.693111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16703290"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q30961865",
+      "name_uk": "Лановецька центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.860833,
+      "longitude": 26.098889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961865"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q12118964",
+      "name_uk": "Луцька міська клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.757222,
+      "longitude": 25.375556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12118964"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q12118979",
+      "name_uk": "Луцький клінічний пологовий будинок",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.7575,
+      "longitude": 25.341667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12118979"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q135653615",
+      "name_uk": "Львів Медікал Центр, філія у Стрию",
+      "name_en": "Lviv Medical Center branch in Stryi",
+      "admin_area_uk": "Стрий",
+      "admin_area_en": "Stryi",
+      "latitude": 49.257794,
+      "longitude": 23.845421,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135653615"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q12119219",
+      "name_uk": "Любашівська багатопрофільна лікарня інтенсивного лікування",
+      "name_en": "",
+      "admin_area_uk": "Любашівська селищна громада",
+      "admin_area_en": "Liubashivka settlement hromada",
+      "latitude": 47.84,
+      "longitude": 30.263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12119219"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q72166896",
+      "name_uk": "Лікарня лютеранської громади",
+      "name_en": "9 Volodymyra Vynnychenka Street, Kyiv",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.453828,
+      "longitude": 30.497631,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72166896"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q30961869",
+      "name_uk": "Монастириська центральна районна клінічна лікарня",
+      "name_en": "Monastyryska Raion Central Hospital",
+      "admin_area_uk": "Монастириський район",
+      "admin_area_en": "Monastyryska Raion",
+      "latitude": 49.09,
+      "longitude": 25.166667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961869"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q12131152",
+      "name_uk": "Міжрайонний шкірно-венерологічний диспансер № 2 Деснянського району",
+      "name_en": "",
+      "admin_area_uk": "Деснянський район",
+      "admin_area_en": "Desnianskyi District",
+      "latitude": 50.514965,
+      "longitude": 30.620162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12131152"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q4139188",
+      "name_uk": "Національний військово-медичний клінічний центр «Головний військовий клінічний госпіталь»",
+      "name_en": "National Military Medical Clinical Center \"Main Military Clinical Hospital\"",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.431944,
+      "longitude": 30.529167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4139188"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q4315004",
+      "name_uk": "Національний інститут серцево-судинної хірургії імені Миколи Амосова АМН України",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.419876,
+      "longitude": 30.497951,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4315004"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q51681709",
+      "name_uk": "Ново-Білицький психоневрологічний інтернат для чоловіків",
+      "name_en": "",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.475159,
+      "longitude": 30.337748,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51681709"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q4329288",
+      "name_uk": "Обласна клінічна лікарня ім. Мечникова",
+      "name_en": "I. I. Mechnikov Dnipropetrovsk Oblast Clinical Hospital",
+      "admin_area_uk": "Дніпро",
+      "admin_area_en": "Dnipro",
+      "latitude": 48.453868,
+      "longitude": 35.06956,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4329288"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q28444875",
+      "name_uk": "Обласна лікарня інтенсивного лікування м. Маріуполь",
+      "name_en": "Mariupol regional intensive care hospital",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 47.110556,
+      "longitude": 37.512222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28444875"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q4061407",
+      "name_uk": "Олександрівська лікарня (Харків)",
+      "name_en": "",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 49.988603,
+      "longitude": 36.212861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4061407"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q12141873",
+      "name_uk": "Полтавська бальнеологічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "Полтава",
+      "admin_area_en": "Poltava",
+      "latitude": 49.580753,
+      "longitude": 34.549051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12141873"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q16712532",
+      "name_uk": "Почаївська районна лікарня",
+      "name_en": "",
+      "admin_area_uk": "Почаїв",
+      "admin_area_en": "Pochaiv",
+      "latitude": 50.001257,
+      "longitude": 25.507252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16712532"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q30961873",
+      "name_uk": "Підволочиська центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.536667,
+      "longitude": 26.143333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961873"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q30961880",
+      "name_uk": "Підгаєцька центральна районна клінічна лікарня",
+      "name_en": "Pidhaitsi Raion Central Hospital",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.268056,
+      "longitude": 25.130833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961880"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q113686871",
+      "name_uk": "Рахівська районна лікарня",
+      "name_en": "",
+      "admin_area_uk": "Рахів",
+      "admin_area_en": "Rakhiv",
+      "latitude": 48.052687,
+      "longitude": 24.204361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113686871"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q137299243",
+      "name_uk": "Республіканська клінічна лікарня",
+      "name_en": "Republican Clinical Hospital",
+      "admin_area_uk": "Деснянський район",
+      "admin_area_en": "Desnianskyi District",
+      "latitude": 50.531584,
+      "longitude": 30.582901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137299243"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q12135624",
+      "name_uk": "Свято-Михайлівська клінічна лікарня",
+      "name_en": "Oleksandrivsk Clinical Hospital",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.439709,
+      "longitude": 30.527503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12135624"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q30961877",
+      "name_uk": "Теребовлянська центральна районна клінічна лікарня",
+      "name_en": "Terebovlia Raion Central Hospital",
+      "admin_area_uk": "Монастириський район",
+      "admin_area_en": "Monastyryska Raion",
+      "latitude": 49.295556,
+      "longitude": 25.689444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961877"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q29054431",
+      "name_uk": "Тернопільська міська дитяча комунальна лікарня",
+      "name_en": "Ternopil city children municipal hospital",
+      "admin_area_uk": "Тернопіль",
+      "admin_area_en": "Ternopil",
+      "latitude": 49.553333,
+      "longitude": 25.614167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29054431"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q30958414",
+      "name_uk": "Тернопільська міська комунальна лікарня швидкої допомоги",
+      "name_en": "Ternopil city municipal hospital № 1",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.549167,
+      "longitude": 25.600556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30958414"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q30958418",
+      "name_uk": "Тернопільська міська комунальна лікарня № 2",
+      "name_en": "Ternopil city municipal hospital № 2",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.553333,
+      "longitude": 25.644167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30958418"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q30958419",
+      "name_uk": "Тернопільська міська комунальна лікарня № 3",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.552778,
+      "longitude": 25.555833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30958419"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q29367059",
+      "name_uk": "Тернопільська обласна дитяча клінічна лікарня",
+      "name_en": "Ternopil Oblast Children's Clinical Hospital",
+      "admin_area_uk": "Тернопіль",
+      "admin_area_en": "Ternopil",
+      "latitude": 49.55,
+      "longitude": 25.640556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29367059"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q21296139",
+      "name_uk": "Тернопільська обласна клінічна лікарня",
+      "name_en": "Ternopil Oblast Clinical Hospital",
+      "admin_area_uk": "Тернопіль",
+      "admin_area_en": "Ternopil",
+      "latitude": 49.554722,
+      "longitude": 25.611944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21296139"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q30966081",
+      "name_uk": "Тернопільська обласна комунальна клінічна психоневрологічна лікарня",
+      "name_en": "Ternopil regional municipal neuropsychiatric hospital",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.541389,
+      "longitude": 25.549444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30966081"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q23541347",
+      "name_uk": "Тернопільський обласний клінічний перинатальний центр «Мати і дитина»",
+      "name_en": "Ternopil regional clinical perinatal center «Mother and Child»",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.55411,
+      "longitude": 25.58888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23541347"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q30966085",
+      "name_uk": "Тернопільський обласний клінічний шкірно-венерологічний диспансер",
+      "name_en": "Ternopil Oblast Clinical Dermatological and Venereological Dispensary",
+      "admin_area_uk": "Тернопіль",
+      "admin_area_en": "Ternopil",
+      "latitude": 49.547222,
+      "longitude": 25.598889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30966085"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q30966091",
+      "name_uk": "Тернопільський обласний комунальний лікарсько-фізкультурний диспансер",
+      "name_en": "Ternopil Oblast Municipal Medical and Physical Dispensary",
+      "admin_area_uk": "Тернопіль",
+      "admin_area_en": "Ternopil",
+      "latitude": 49.5515,
+      "longitude": 25.587889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30966091"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q30966389",
+      "name_uk": "Тернопільський обласний комунальний протитуберкульозний диспансер",
+      "name_en": "Ternopil Oblast Communal Anti-Tuberculosis Dispensary",
+      "admin_area_uk": "Великі Гаї",
+      "admin_area_en": "Velyki Hayi",
+      "latitude": 49.522222,
+      "longitude": 25.611944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30966389"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q5443718",
+      "name_uk": "Феофанія",
+      "name_en": "Feofaniya Clinical Hospital",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.36215,
+      "longitude": 30.487254,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5443718"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q50035647",
+      "name_uk": "Харківська обласна клінічна психіатрична лікарня",
+      "name_en": "Kharkiv Regional Clinical Psychiatric Hospital No 3",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 49.986564,
+      "longitude": 36.287134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50035647"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q20095969",
+      "name_uk": "Херсонська міська клінічна лікарня ім. А. і О. Тропіних",
+      "name_en": "Kherson City Clinical Hospital named after A. Tropin and O. Tropina",
+      "admin_area_uk": "Херсон",
+      "admin_area_en": "Kherson",
+      "latitude": 46.646667,
+      "longitude": 32.6,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20095969"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q12167195",
+      "name_uk": "Херсонська обласна лікарня",
+      "name_en": "Kherson Regional Clinical Hospital",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 46.645,
+      "longitude": 32.609444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12167195"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q20095988",
+      "name_uk": "Хмельницька обласна лікарня",
+      "name_en": "",
+      "admin_area_uk": "Хмельницький",
+      "admin_area_en": "Khmelnytskyi",
+      "latitude": 49.4121,
+      "longitude": 27.003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20095988"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q4498465",
+      "name_uk": "Хмельницька обласна психіатрична лікарня №1",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.311667,
+      "longitude": 26.928333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4498465"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q12168421",
+      "name_uk": "Центральна районна поліклініка Дарницького району",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.411488,
+      "longitude": 30.655719,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12168421"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q16722556",
+      "name_uk": "Центральний госпіталь Міністерства внутрішніх справ України",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.458939,
+      "longitude": 30.47961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16722556"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q16722558",
+      "name_uk": "Центральний госпіталь Служби безпеки України",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.443788,
+      "longitude": 30.535273,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16722558"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q30960669",
+      "name_uk": "Чортківська центральна міська клінічна лікарня",
+      "name_en": "Chortkiv City Central Hospital",
+      "admin_area_uk": "Чортків",
+      "admin_area_en": "Chortkiv",
+      "latitude": 49.016111,
+      "longitude": 25.791111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30960669"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q30961882",
+      "name_uk": "Шумська центральна районна клінічна лікарня",
+      "name_en": "",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.118333,
+      "longitude": 26.120556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30961882"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q138391372",
+      "name_uk": "Єврейська лікарня",
+      "name_en": "Jewish Hospital in Odesa",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.468333,
+      "longitude": 30.724806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138391372"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q4201623",
+      "name_uk": "Інститут невідкладної і відновної хірургії імені В. К. Гусака",
+      "name_en": "Institute of Urgent and Reconstructive Surgery",
+      "admin_area_uk": "Донецьк",
+      "admin_area_en": "Donetsk",
+      "latitude": 47.983253,
+      "longitude": 37.778044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4201623"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q169435",
+      "name_uk": "Інститут очних хвороб і тканинної терапії ім. В.П.Філатова Національної академії медичних наук України",
+      "name_en": "Filatov Institute of Eye Diseases and Tissue Therapy",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.45427,
+      "longitude": 30.76177,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q169435"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q12074642",
+      "name_uk": "Інститут патології хребта та суглобів імені професора М.І. Ситенка",
+      "name_en": "Sytenko Institute of Spine and Joint Pathology",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 50.003781,
+      "longitude": 36.247699,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12074642"
+    }
+  ],
+  "meta": {
+    "title": "Лікарні України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «лікарня» в Україні з відкритих даних Вікіданих (Wikidata), 80 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані. Містить 80 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Лікарні України | ListBase",
+    "seo_description": "Завантажити Лікарні України — 80 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 80 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

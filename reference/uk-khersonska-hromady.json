@@ -1,0 +1,610 @@
+{
+  "id": "uk-khersonska-hromady",
+  "name": "Територіальні громади Херсонської області",
+  "title": "Територіальні громади Херсонської області",
+  "description": "Список 49 територіальних громад Херсонської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA65020010000060480",
+      "name": "Бериславська міська громада",
+      "name_en": "Beryslavska miska hromada",
+      "slug": "beryslavska-miska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020030000094118",
+      "name": "Борозенська сільська громада",
+      "name_en": "Borozenska silska hromada",
+      "slug": "borozenska-silska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020050000086746",
+      "name": "Великоолександрівська селищна громада",
+      "name_en": "Velykooleksandrivska selyshchna hromada",
+      "slug": "velykooleksandrivska-selyshchna-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020070000029027",
+      "name": "Високопільська селищна громада",
+      "name_en": "Vysokopilska selyshchna hromada",
+      "slug": "vysokopilska-selyshchna-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020090000016354",
+      "name": "Калинівська селищна громада",
+      "name_en": "Kalynivska selyshchna hromada",
+      "slug": "kalynivska-selyshchna-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020110000081240",
+      "name": "Кочубеївська сільська громада",
+      "name_en": "Kochubeivska silska hromada",
+      "slug": "kochubeivska-silska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020130000012731",
+      "name": "Милівська сільська громада",
+      "name_en": "Mylivska silska hromada",
+      "slug": "mylivska-silska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020150000047137",
+      "name": "Нововоронцовська селищна громада",
+      "name_en": "Novovorontsovska selyshchna hromada",
+      "slug": "novovorontsovska-selyshchna-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020170000056973",
+      "name": "Новоолександрівська сільська громада",
+      "name_en": "Novooleksandrivska silska hromada",
+      "slug": "novooleksandrivska-silska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020190000013272",
+      "name": "Новорайська сільська громада",
+      "name_en": "Novoraiska silska hromada",
+      "slug": "novoraiska-silska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65020210000085773",
+      "name": "Тягинська сільська громада",
+      "name_en": "Tiahynska silska hromada",
+      "slug": "tiahynska-silska-hromada",
+      "rayon_code": "UA65020000000032929",
+      "rayon_name": "Бериславський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65040010000061104",
+      "name": "Генічеська міська громада",
+      "name_en": "Henicheska miska hromada",
+      "slug": "henicheska-miska-hromada",
+      "rayon_code": "UA65040000000088940",
+      "rayon_name": "Генічеський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65040030000056170",
+      "name": "Іванівська селищна громада",
+      "name_en": "Ivanivska selyshchna hromada",
+      "slug": "ivanivska-selyshchna-hromada",
+      "rayon_code": "UA65040000000088940",
+      "rayon_name": "Генічеський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65040050000029613",
+      "name": "Нижньосірогозька селищна громада",
+      "name_en": "Nyzhnosirohozka selyshchna hromada",
+      "slug": "nyzhnosirohozka-selyshchna-hromada",
+      "rayon_code": "UA65040000000088940",
+      "rayon_name": "Генічеський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65040070000086673",
+      "name": "Новотроїцька селищна громада",
+      "name_en": "Novotroitska selyshchna hromada",
+      "slug": "novotroitska-selyshchna-hromada",
+      "rayon_code": "UA65040000000088940",
+      "rayon_name": "Генічеський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060010000033335",
+      "name": "Асканіє-Нова селищна територіальна громада",
+      "name_en": "Askaniie-Nova selyshchna terytorialna hromada",
+      "slug": "askaniie-nova-selyshchna-terytorialna-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060030000075716",
+      "name": "Великолепетиська селищна громада",
+      "name_en": "Velykolepetyska selyshchna hromada",
+      "slug": "velykolepetyska-selyshchna-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060050000022914",
+      "name": "Верхньорогачицька селищна громада",
+      "name_en": "Verkhnorohachytska selyshchna hromada",
+      "slug": "verkhnorohachytska-selyshchna-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060070000037346",
+      "name": "Горностаївська селищна громада",
+      "name_en": "Hornostaivska selyshchna hromada",
+      "slug": "hornostaivska-selyshchna-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060090000037720",
+      "name": "Зеленопідська сільська громада",
+      "name_en": "Zelenopidska silska hromada",
+      "slug": "zelenopidska-silska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060110000017055",
+      "name": "Каховська міська громада",
+      "name_en": "Kakhovska miska hromada",
+      "slug": "kakhovska-miska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060130000026961",
+      "name": "Костянтинівська сільська громада",
+      "name_en": "Kostiantynivska silska hromada",
+      "slug": "kostiantynivska-silska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060150000054200",
+      "name": "Любимівська селищна громада",
+      "name_en": "Liubymivska selyshchna hromada",
+      "slug": "liubymivska-selyshchna-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060170000032937",
+      "name": "Новокаховська міська громада",
+      "name_en": "Novokakhovska miska hromada",
+      "slug": "novokakhovska-miska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060190000091058",
+      "name": "Присиваська сільська громада",
+      "name_en": "Prysyvaska silska hromada",
+      "slug": "prysyvaska-silska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060210000049771",
+      "name": "Рубанівська сільська громада",
+      "name_en": "Rubanivska silska hromada",
+      "slug": "rubanivska-silska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060230000076026",
+      "name": "Тавричанська сільська громада",
+      "name_en": "Tavrychanska silska hromada",
+      "slug": "tavrychanska-silska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060250000073379",
+      "name": "Таврійська міська громада",
+      "name_en": "Tavriiska miska hromada",
+      "slug": "tavriiska-miska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060270000020124",
+      "name": "Хрестівська сільська громада",
+      "name_en": "Khrestivska silska hromada",
+      "slug": "khrestivska-silska-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65060290000041992",
+      "name": "Чаплинська селищна громада",
+      "name_en": "Chaplynska selyshchna hromada",
+      "slug": "chaplynska-selyshchna-hromada",
+      "rayon_code": "UA65060000000061947",
+      "rayon_name": "Каховський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080010000062554",
+      "name": "Бехтерська сільська громада",
+      "name_en": "Bekhterska silska hromada",
+      "slug": "bekhterska-silska-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080030000058401",
+      "name": "Голопристанська міська громада",
+      "name_en": "Holoprystanska miska hromada",
+      "slug": "holoprystanska-miska-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080050000077041",
+      "name": "Долматівська сільська громада",
+      "name_en": "Dolmativska silska hromada",
+      "slug": "dolmativska-silska-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080070000011930",
+      "name": "Каланчацька селищна громада",
+      "name_en": "Kalanchatska selyshchna hromada",
+      "slug": "kalanchatska-selyshchna-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080090000034188",
+      "name": "Лазурненська селищна громада",
+      "name_en": "Lazurnenska selyshchna hromada",
+      "slug": "lazurnenska-selyshchna-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080110000032706",
+      "name": "Мирненська селищна громада",
+      "name_en": "Myrnenska selyshchna hromada",
+      "slug": "myrnenska-selyshchna-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080130000090391",
+      "name": "Новомиколаївська сільська громада",
+      "name_en": "Novomykolaivska silska hromada",
+      "slug": "novomykolaivska-silska-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080150000042499",
+      "name": "Скадовська міська громада",
+      "name_en": "Skadovska miska hromada",
+      "slug": "skadovska-miska-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65080170000067222",
+      "name": "Чулаківська сільська громада",
+      "name_en": "Chulakivska silska hromada",
+      "slug": "chulakivska-silska-hromada",
+      "rayon_code": "UA65080000000090947",
+      "rayon_name": "Скадовський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100010000048953",
+      "name": "Білозерська селищна громада",
+      "name_en": "Bilozerska selyshchna hromada",
+      "slug": "bilozerska-selyshchna-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100030000028786",
+      "name": "Великокопанівська сільська громада",
+      "name_en": "Velykokopanivska silska hromada",
+      "slug": "velykokopanivska-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100050000017921",
+      "name": "Виноградівська сільська громада",
+      "name_en": "Vynohradivska silska hromada",
+      "slug": "vynohradivska-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100070000064512",
+      "name": "Дар'ївська сільська громада",
+      "name_en": "Daryivska silska hromada",
+      "slug": "daryivska-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100090000097337",
+      "name": "Музиківська сільська громада",
+      "name_en": "Muzykivska silska hromada",
+      "slug": "muzykivska-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100110000015344",
+      "name": "Олешківська міська громада",
+      "name_en": "Oleshkivska miska hromada",
+      "slug": "oleshkivska-miska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100130000084882",
+      "name": "Станіславська сільська громада",
+      "name_en": "Stanislavska silska hromada",
+      "slug": "stanislavska-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100150000057191",
+      "name": "Херсонська міська громада",
+      "name_en": "Khersonska miska hromada",
+      "slug": "khersonska-miska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100170000014054",
+      "name": "Чорнобаївська сільська громада",
+      "name_en": "Chornobaivska silska hromada",
+      "slug": "chornobaivska-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    },
+    {
+      "code": "UA65100190000073217",
+      "name": "Ювілейна сільська громада",
+      "name_en": "Yuvileina silska hromada",
+      "slug": "yuvileina-silska-hromada",
+      "rayon_code": "UA65100000000029736",
+      "rayon_name": "Херсонський район",
+      "oblast_id": 21,
+      "oblast_name": "Херсонська область",
+      "oblast_slug": "khersonska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Херсонської області - Безкоштовне завантаження",
+    "description": "Список 49 територіальних громад Херсонської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 49 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Херсонської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Херсонської області — 49 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 49 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

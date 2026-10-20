@@ -1,0 +1,5758 @@
+{
+  "id": "uk-zakarpatska-poshtovi-indeksy",
+  "name": "Поштові індекси: Закарпатська область",
+  "title": "Поштові індекси: Закарпатська область",
+  "description": "Поштові індекси населених пунктів — Закарпатська область (633 записів). Назви українською, координати WGS84, ISO 3166-2 UA-21. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 633,
+  "columns": [
+    {
+      "key": "zipcode",
+      "label": "Zipcode",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zipcode": "88000",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88001",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88002",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88003",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88005",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88006",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88007",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88008",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88009",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88010",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88011",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88014",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88015",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88017",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88018",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "88020",
+      "place": "Ужгород",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6167,
+      "longitude": 22.3
+    },
+    {
+      "zipcode": "89000",
+      "place": "Великий Березний (Великий Березний)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8883,
+      "longitude": 22.4605
+    },
+    {
+      "zipcode": "89000",
+      "place": "Забрідь (В.Березний)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8883,
+      "longitude": 22.4605
+    },
+    {
+      "zipcode": "89010",
+      "place": "Стужиця (Стужиця)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9927,
+      "longitude": 22.6986
+    },
+    {
+      "zipcode": "89012",
+      "place": "Жорнава (Загорб)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9927,
+      "longitude": 22.6986
+    },
+    {
+      "zipcode": "89012",
+      "place": "Загорб (Загорб)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9927,
+      "longitude": 22.6986
+    },
+    {
+      "zipcode": "89014",
+      "place": "Лубня (Лубня)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9927,
+      "longitude": 22.6986
+    },
+    {
+      "zipcode": "89014",
+      "place": "Ставне (Ставне)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9927,
+      "longitude": 22.6986
+    },
+    {
+      "zipcode": "89021",
+      "place": "Домашин (Сіль)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9588,
+      "longitude": 22.4806
+    },
+    {
+      "zipcode": "89021",
+      "place": "Княгиня (Стричава)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9588,
+      "longitude": 22.4806
+    },
+    {
+      "zipcode": "89021",
+      "place": "Стричава (Стричава)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9588,
+      "longitude": 22.4806
+    },
+    {
+      "zipcode": "89021",
+      "place": "Сіль (Сіль)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9588,
+      "longitude": 22.4806
+    },
+    {
+      "zipcode": "89022",
+      "place": "Кострино (Кострино)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9517,
+      "longitude": 22.5875
+    },
+    {
+      "zipcode": "89022",
+      "place": "Костронська Розтока (Кострино)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9517,
+      "longitude": 22.5875
+    },
+    {
+      "zipcode": "89023",
+      "place": "Вишка (Вишка)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9446,
+      "longitude": 22.6945
+    },
+    {
+      "zipcode": "89030",
+      "place": "Верховина Бистра (Верховина Бистра)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 49.0106,
+      "longitude": 22.7761
+    },
+    {
+      "zipcode": "89030",
+      "place": "Волосянка",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.777,
+      "longitude": 23.4274
+    },
+    {
+      "zipcode": "89030",
+      "place": "Луг (Волосянка)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8938,
+      "longitude": 23.1018
+    },
+    {
+      "zipcode": "89030",
+      "place": "Сухий (Тихий)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8938,
+      "longitude": 23.1018
+    },
+    {
+      "zipcode": "89031",
+      "place": "Гусний (Тихий)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9893,
+      "longitude": 22.8704
+    },
+    {
+      "zipcode": "89031",
+      "place": "Ужок (Ужок)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9893,
+      "longitude": 22.8704
+    },
+    {
+      "zipcode": "89032",
+      "place": "Тихий (Тихий)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.9259,
+      "longitude": 22.8191
+    },
+    {
+      "zipcode": "89033",
+      "place": "Люта (Люта)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8992,
+      "longitude": 22.7735
+    },
+    {
+      "zipcode": "89040",
+      "place": "Завосино (Малий Березний)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8595,
+      "longitude": 22.4447
+    },
+    {
+      "zipcode": "89040",
+      "place": "Малий Березний (Малий Березний)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8595,
+      "longitude": 22.4447
+    },
+    {
+      "zipcode": "89040",
+      "place": "Мирча (Малий Березний)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8595,
+      "longitude": 22.4447
+    },
+    {
+      "zipcode": "89041",
+      "place": "Бегентецька Пастіль (Розтоцька Пастіль)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.873,
+      "longitude": 22.5314
+    },
+    {
+      "zipcode": "89041",
+      "place": "Костева Пастиль (Розтоцька Пастіль)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.873,
+      "longitude": 22.5314
+    },
+    {
+      "zipcode": "89041",
+      "place": "Розтоцька Пастіль (Розтоцька Пастіль)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.873,
+      "longitude": 22.5314
+    },
+    {
+      "zipcode": "89041",
+      "place": "Руський Мочар (Розтоцька Пастіль)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.873,
+      "longitude": 22.5314
+    },
+    {
+      "zipcode": "89042",
+      "place": "Буківцьово (Буківцьово)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8238,
+      "longitude": 22.6731
+    },
+    {
+      "zipcode": "89042",
+      "place": "Смереково (Смереково)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8002,
+      "longitude": 22.6326
+    },
+    {
+      "zipcode": "89042",
+      "place": "Чорноголова (Чорноголова)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8498,
+      "longitude": 22.6033
+    },
+    {
+      "zipcode": "89100",
+      "place": "Воловець (Воловець)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89100",
+      "place": "Канора (Воловецька селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89111",
+      "place": "Біласовиця (Біласовицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89111",
+      "place": "Котельниця (Тишівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89111",
+      "place": "Латірка (Білосовицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89112",
+      "place": "Тишів (Тишівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89113",
+      "place": "Верб'яж (Верб'яжська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89113",
+      "place": "Завадка (Верб'яжська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89114",
+      "place": "Буковець (Буковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89120",
+      "place": "Жденієво (Жденіївська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89120",
+      "place": "Збини (Жденіївська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89120",
+      "place": "Пашківці (Щербовецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89120",
+      "place": "Щербовець (Щербовецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89121",
+      "place": "Абранка (Абранська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89121",
+      "place": "Верхня Грабівниця (Підполозянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89121",
+      "place": "Підполоззя (Підполозянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89121",
+      "place": "Ялове (Підполозянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89130",
+      "place": "Задільське (Нижньоворітська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89130",
+      "place": "Нижні Ворота (Нижньоворітська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89131",
+      "place": "Лази (Лазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89132",
+      "place": "Верхні Ворота (Верхньоворітська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89133",
+      "place": "Скотарське (Скотарська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89140",
+      "place": "Гукливий (Гукливська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89141",
+      "place": "Кічерний (Розтоцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89141",
+      "place": "Перехресний (Розтоцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89141",
+      "place": "Розтока (Розтоцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7109,
+      "longitude": 23.1851
+    },
+    {
+      "zipcode": "89200",
+      "place": "Ворочово (Ворочово)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7137,
+      "longitude": 22.4507
+    },
+    {
+      "zipcode": "89200",
+      "place": "Перечин (Перечин)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7362,
+      "longitude": 22.482
+    },
+    {
+      "zipcode": "89203",
+      "place": "Сімер (Сімер)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7331,
+      "longitude": 22.5216
+    },
+    {
+      "zipcode": "89210",
+      "place": "Дубриничі (Дубриничі)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8022,
+      "longitude": 22.4929
+    },
+    {
+      "zipcode": "89210",
+      "place": "Новоселиця (Новоселиця)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8022,
+      "longitude": 22.4929
+    },
+    {
+      "zipcode": "89210",
+      "place": "Пастілки (Дубриничі)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.8022,
+      "longitude": 22.4929
+    },
+    {
+      "zipcode": "89212",
+      "place": "Зарічово (Зарічово)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7704,
+      "longitude": 22.5197
+    },
+    {
+      "zipcode": "89213",
+      "place": "Сімерки (Сімерки)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7585,
+      "longitude": 22.5775
+    },
+    {
+      "zipcode": "89214",
+      "place": "Вільшинки (Вільшинки)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7782,
+      "longitude": 22.6491
+    },
+    {
+      "zipcode": "89215",
+      "place": "Липовець (Турички)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7583,
+      "longitude": 22.6885
+    },
+    {
+      "zipcode": "89215",
+      "place": "Лумшори (Турички)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7583,
+      "longitude": 22.6885
+    },
+    {
+      "zipcode": "89215",
+      "place": "Лікіцари (Турички)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7583,
+      "longitude": 22.6885
+    },
+    {
+      "zipcode": "89215",
+      "place": "Турички (Турички)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7583,
+      "longitude": 22.6885
+    },
+    {
+      "zipcode": "89221",
+      "place": "Тур'ї Ремети (Тур'є-Реметівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7273,
+      "longitude": 22.6388
+    },
+    {
+      "zipcode": "89222",
+      "place": "Туриця (Туриця)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7273,
+      "longitude": 22.6388
+    },
+    {
+      "zipcode": "89223",
+      "place": "Завбуч (Тур я Пасіка)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7273,
+      "longitude": 22.6388
+    },
+    {
+      "zipcode": "89223",
+      "place": "Раково (Тур я Пасіка)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7273,
+      "longitude": 22.6388
+    },
+    {
+      "zipcode": "89223",
+      "place": "Тур'я Пасіка",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7273,
+      "longitude": 22.6388
+    },
+    {
+      "zipcode": "89230",
+      "place": "Маюрки (Порошково)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6683,
+      "longitude": 22.7533
+    },
+    {
+      "zipcode": "89230",
+      "place": "Мокра (Порошково)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6683,
+      "longitude": 22.7533
+    },
+    {
+      "zipcode": "89230",
+      "place": "Порошково (Порошково)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6683,
+      "longitude": 22.7533
+    },
+    {
+      "zipcode": "89231",
+      "place": "Свалявка (Тур я Бистра)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6574,
+      "longitude": 22.8115
+    },
+    {
+      "zipcode": "89231",
+      "place": "Тур'я-Бистра",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.6574,
+      "longitude": 22.8115
+    },
+    {
+      "zipcode": "89232",
+      "place": "Полянська Гута (Тур я Поляна)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.701,
+      "longitude": 22.8046
+    },
+    {
+      "zipcode": "89232",
+      "place": "Тур'я Поляна",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.701,
+      "longitude": 22.8046
+    },
+    {
+      "zipcode": "89300",
+      "place": "Ганьковиця (Ганьковицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89300",
+      "place": "Свалява (Свалявська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89307",
+      "place": "Драчино (Свалявська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89308",
+      "place": "Вовчий (Неліпинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89308",
+      "place": "Неліпино (Неліпинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89308",
+      "place": "Сасівка (Неліпинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89310",
+      "place": "Родникова Гута (Родниківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89310",
+      "place": "Родниківка (Родниківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89311",
+      "place": "Оленево (Плосківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89311",
+      "place": "Павлово (Плосківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89311",
+      "place": "Плоске (Плосківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89311",
+      "place": "Плоский Потік (Плосківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89311",
+      "place": "Яківське (Плосківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89313",
+      "place": "Поляна (Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89313",
+      "place": "Уклін (Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89320",
+      "place": "Голубинне (Голубинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89321",
+      "place": "Солочин (Солочинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89322",
+      "place": "Сусково (Сусківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89323",
+      "place": "Пасіка (Сусківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89325",
+      "place": "Голубинне (Голубинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89330",
+      "place": "Мала Мартинка (Тибавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89330",
+      "place": "Тибава (Тибавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89331",
+      "place": "Стройне (Стройненська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89331",
+      "place": "Черник (Стройненська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89332",
+      "place": "Дусино (Дусинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89332",
+      "place": "Лопушанка (Дусинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89332",
+      "place": "Плав'є (Дусинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89333",
+      "place": "Росош (Дусинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89334",
+      "place": "Керецьки (Керецьківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89335",
+      "place": "Березники (Березниківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89411",
+      "place": "Гута (Кам'яницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89411",
+      "place": "Кам'яниця (Кам'яницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89411",
+      "place": "Невицьке (Невицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89412",
+      "place": "Оноківці (Оноківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89412",
+      "place": "Оріховиця (Оноківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89414",
+      "place": "Стрипа (Яроцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89414",
+      "place": "Циганівці (Великолазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89414",
+      "place": "Ярок (Яроцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89415",
+      "place": "Верхнє Солотвино (Худлівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89415",
+      "place": "Худльово (Худлівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89420",
+      "place": "Ботфалва (Тарновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89420",
+      "place": "Тарнівці (Тарновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89420",
+      "place": "Шишлівці (Тарновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89421",
+      "place": "Сторожниця (Сторожницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89422",
+      "place": "Холмок (Холмківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89423",
+      "place": "Концово (Холмківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89424",
+      "place": "Розівка (Холмківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89425",
+      "place": "Баранинці (Баранинська cільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89425",
+      "place": "Барвінок (Баранинська cільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89425",
+      "place": "Підгорб (Баранинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89427",
+      "place": "Минай (Холмківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89430",
+      "place": "Батфа (Галоцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89430",
+      "place": "Галоч (Галоцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89430",
+      "place": "Палло (Галоцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89431",
+      "place": "Малі Селменці (Паладь-Комарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89431",
+      "place": "Паладь-Комарівці (Паладь-Комарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89432",
+      "place": "Сюрте (Сюртянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89432",
+      "place": "Тийглаш (Сюртянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89433",
+      "place": "Ратовці (Ратовецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89434",
+      "place": "Великі Геївці (Великогеєвецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89434",
+      "place": "Довге Поле (Баранинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89434",
+      "place": "Малі Геївці (Великогеєвецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89434",
+      "place": "Руські Геївці (Великогеєвецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89435",
+      "place": "Коритняни (Коритнянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89435",
+      "place": "Кінчеш (Коритнянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89435",
+      "place": "Часлівці (Коритнянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89440",
+      "place": "Великі Лази (Великолазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89441",
+      "place": "Глибоке (Руськокомарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89441",
+      "place": "Нижнє Солотвино (Руськокомарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89443",
+      "place": "Руські Комарівці (Руськокомарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89444",
+      "place": "Холмці (Холмецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89445",
+      "place": "Дубрівка (Дубрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89450",
+      "place": "Гайдош (Киблярівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89450",
+      "place": "Кибляри (Киблярівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89450",
+      "place": "Лінці (Киблярівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89451",
+      "place": "Пацканьово (Пацканівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89452",
+      "place": "Вовкове (Середнянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89452",
+      "place": "Ляхівці (Худлівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89452",
+      "place": "Середнє (Середнянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89452",
+      "place": "Чертеж (Худлівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89453",
+      "place": "Ірлява (Ірлявська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89454",
+      "place": "Андріївка (Ірлявська cільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89455",
+      "place": "Чабанівка (Ірлявська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89460",
+      "place": "Соломоново (Соломонівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89461",
+      "place": "Есень (Есеньська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89461",
+      "place": "Петрівка (Соловківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89461",
+      "place": "Тисауйфалу (Тисаашванська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89461",
+      "place": "Червоне (Червонівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89462",
+      "place": "Соловка (Соловківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89463",
+      "place": "Велика Добронь (Великодобронська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89464",
+      "place": "Демечі (Малодобронська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89464",
+      "place": "Мала Добронь (Малодобронська)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89464",
+      "place": "Тисаагтелек (Малодобронська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89471",
+      "place": "Анталовці (Худлівська cільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.7405,
+      "longitude": 22.6757
+    },
+    {
+      "zipcode": "89502",
+      "place": "Тисаашвань (Тисаашванська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.432,
+      "longitude": 22.2055
+    },
+    {
+      "zipcode": "89502",
+      "place": "Чоп",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.432,
+      "longitude": 22.2055
+    },
+    {
+      "zipcode": "89600",
+      "place": "Мукачеве",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89600",
+      "place": "Павшино (Павшинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89601",
+      "place": "Мукачеве",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89602",
+      "place": "Мукачеве",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89607",
+      "place": "Мукачеве",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89608",
+      "place": "Мукачеве",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89611",
+      "place": "Коноплівці (Кольчинська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89611",
+      "place": "Мукачеве",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89620",
+      "place": "Бенедиківці (Ракошинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89620",
+      "place": "Домбоки (Ракошинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89620",
+      "place": "Кайданово (Ракошинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89620",
+      "place": "Ракошино (Ракошинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89620",
+      "place": "Руське (Ракошинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89620",
+      "place": "Чопівці (Ракошинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89622",
+      "place": "Іванівці (Івановецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89622",
+      "place": "Старе Давидкове (Івановецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89623",
+      "place": "Клячаново (Івановецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89624",
+      "place": "Нове Давидково (Новодавидківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89625",
+      "place": "Великі Лучки (Великолучківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89626",
+      "place": "Ключарки (Ключарківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89630",
+      "place": "Герцівці (Пузняковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89630",
+      "place": "Грабово (Пузняковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89630",
+      "place": "Крите (Пузняковецька  сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89630",
+      "place": "Пузняківці (Пузняковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89630",
+      "place": "Тростяниця (Пузняковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89631",
+      "place": "Копинівці (Копиновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89631",
+      "place": "Микулівці (Копиновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89631",
+      "place": "Ростов'яниця (Копиновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89631",
+      "place": "Щасливе (Копиновецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89632",
+      "place": "Ільківці (Бобовищенська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89632",
+      "place": "Бобовище (Бобовищенська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89632",
+      "place": "Грибівці (Бобовищенська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89633",
+      "place": "Кальник (Кальницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89633",
+      "place": "Кузьмино (Кальницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89633",
+      "place": "Медведівці (Кальницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89633",
+      "place": "Руська Кучава (Кальницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89633",
+      "place": "Шкуратівці (Кальницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89634",
+      "place": "Жуково (Жуківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89634",
+      "place": "Лохово (Лохівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89634",
+      "place": "Череївці (Лохівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89635",
+      "place": "Лавки (Лавківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89636",
+      "place": "Жборівці (Кольчинська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89636",
+      "place": "Кленовець (Кольчинська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89636",
+      "place": "Кольчино (Кольчинська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89640",
+      "place": "Чинадієво (Чинадіївська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89641",
+      "place": "Карпати (Чинадіївська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89642",
+      "place": "Синяк (Чинадіївська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89643",
+      "place": "Дубино (Обавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89643",
+      "place": "Косино (Обавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89643",
+      "place": "Обава (Обавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89643",
+      "place": "Чабин (Обавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89644",
+      "place": "Верхня Визниця (Верхньовизницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89644",
+      "place": "Клочки (Верхньовизницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89644",
+      "place": "Лісарня (Верхньовизницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89645",
+      "place": "Бистриця (Бистрицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89645",
+      "place": "Брестів (Брестівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89645",
+      "place": "Вільховиця (Бистрицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89645",
+      "place": "Плоскановиця (Брестівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89650",
+      "place": "Вінково (Зняцівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89650",
+      "place": "Драгиня (Зняцівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89650",
+      "place": "Зняцьово (Зняцівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89650",
+      "place": "Кінлодь (Зняцівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89651",
+      "place": "Червеньово (Зняцівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89652",
+      "place": "Чомонин (Чомонинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89653",
+      "place": "Серне (Сернянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89654",
+      "place": "Баркасово (Сернянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89655",
+      "place": "Страбичово (Страбичівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89656",
+      "place": "Горонда (Горондівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89657",
+      "place": "Жнятино (Жнятинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89660",
+      "place": "Буковинка (Верхньокоропецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89660",
+      "place": "Верхній Коропець (Верхньокоропецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89660",
+      "place": "Кучава (Верхньокоропецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89660",
+      "place": "Куштановиця (Верхньокоропецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89663",
+      "place": "Бабичі (Бабичівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89663",
+      "place": "Ділок (Бабичівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89663",
+      "place": "Лецовиця (Брестівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89664",
+      "place": "Березинка (Лалівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89664",
+      "place": "Зубівка (Зубівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89664",
+      "place": "Лалово (Лалівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89664",
+      "place": "Пістрялово (Пістрялівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89664",
+      "place": "Софія (Зубівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89666",
+      "place": "Гандеровиця (Станівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89666",
+      "place": "Новоселиця (Яблунівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89666",
+      "place": "Яблунів (Яблунівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89667",
+      "place": "Завидово (Завидівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89668",
+      "place": "Станово (Станівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89670",
+      "place": "Нижній Коропець (Нижньокоропецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89670",
+      "place": "Шенборн (Шенборська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89671",
+      "place": "Дерцен (Дерценська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89672",
+      "place": "Форнош (Форношська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89675",
+      "place": "Залужжя (Залужанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89675",
+      "place": "Ромочевиця (Залужанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89676",
+      "place": "Макарьово (Макарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "89677",
+      "place": "Барбово (Макарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.4392,
+      "longitude": 22.7178
+    },
+    {
+      "zipcode": "90000",
+      "place": "Міжгір'я (Міжгірська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90000",
+      "place": "Стригальня (Міжгірська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90005",
+      "place": "Запереділля (Міжгірська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90010",
+      "place": "Верхній Студений (Нижньостуденівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90010",
+      "place": "Нижній Студений (Нижньостуденівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90011",
+      "place": "Пилипець (Пилипецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90011",
+      "place": "Подобовець (Пилипецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90011",
+      "place": "Розтока (Пилипецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90012",
+      "place": "Лісковець (Лісковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90012",
+      "place": "Рекіти (Лісковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90013",
+      "place": "Новоселиця (Новоселицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90014",
+      "place": "Завійка (Присліпська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90014",
+      "place": "Присліп (Присліпська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90014",
+      "place": "Тітківці (Присліпська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90015",
+      "place": "Лопушне (Торунська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90015",
+      "place": "Торунь (Торунська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90020",
+      "place": "Ізки (Ізківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90021",
+      "place": "Буковець (Буковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90021",
+      "place": "Потік (Буковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90022",
+      "place": "Келечин (Келечинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90023",
+      "place": "Голятин (Голятинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90024",
+      "place": "Косів Верх (Негровецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90024",
+      "place": "Майдан (Майданська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90025",
+      "place": "Верхній Бистрий (Верхньобистрянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90030",
+      "place": "Річка (Річківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90031",
+      "place": "Тюшка (Тюшківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90032",
+      "place": "Діл (Репинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90032",
+      "place": "Репинне (Репинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90032",
+      "place": "Сухий (Репинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90033",
+      "place": "Сойми (Соймівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90034",
+      "place": "Лозянський (Лозянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90034",
+      "place": "Сопки (Лозянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90040",
+      "place": "Береги (Синевирсько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90040",
+      "place": "Загорб (Синевирсько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90040",
+      "place": "Свобода (Синевирсько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90040",
+      "place": "Синевирська Поляна (Синевирсько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90041",
+      "place": "Заверхня Кичера (Синевирська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90041",
+      "place": "Синевир (Синевирська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90042",
+      "place": "Негровець (Негровецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90043",
+      "place": "Горб (Колочавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90043",
+      "place": "Колочава (Колочавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90043",
+      "place": "Мерешор (Колочавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90044",
+      "place": "Колочава (Колочавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90046",
+      "place": "Вучкове (Вучківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90046",
+      "place": "Підчумаль (Вучківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90100",
+      "place": "Іршава (Іршавська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90110",
+      "place": "Крайня Мартинка (Чорнопотіцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90110",
+      "place": "Локіть (Чорнопотіцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90110",
+      "place": "Смологовиця (Чорнопотіцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90110",
+      "place": "Чорний Потік (Чорнопотіцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90111",
+      "place": "Підгірне (Чорнопотіцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90112",
+      "place": "Івашковиця (Загатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90112",
+      "place": "Дуби (Загатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90112",
+      "place": "Загаття (Загатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90112",
+      "place": "Климовиця (Загатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90112",
+      "place": "Кобалевиця (Загатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90113",
+      "place": "Доробратово (Доробратівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90114",
+      "place": "Негрово (Негрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90115",
+      "place": "Брід (Брідська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90115",
+      "place": "Дешковиця (Брідська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90119",
+      "place": "Горбок (Доробратівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90120",
+      "place": "Арданово (Арданівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90121",
+      "place": "Дунковиця (Арданівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90122",
+      "place": "Мідяниця (Арданівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90124",
+      "place": "Заріччя (Зарічанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90124",
+      "place": "Сільце (Сілецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90125",
+      "place": "Богаревиця (Кам янська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90125",
+      "place": "Кам'янське (Кам'янська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90126",
+      "place": "Воловиця (Кам'янська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90126",
+      "place": "Хмільник (Кам'янська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90130",
+      "place": "Ільниця (Ільницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90131",
+      "place": "Осій (Осійська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90132",
+      "place": "Білки (Білківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90133",
+      "place": "Велика Розтока (Дубрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90133",
+      "place": "Дубрівка (Дубрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90133",
+      "place": "Мала Розтока (Дубрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90134",
+      "place": "Імстичово (Імстичівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90140",
+      "place": "Гребля (Греблянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90141",
+      "place": "Вільхівка (Вільхівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90141",
+      "place": "Нижнє Болотне (Вільхівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90143",
+      "place": "Великий Раковець (Великораковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90143",
+      "place": "Заболотне (Великораковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90144",
+      "place": "Малий Раковець (Малораковецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90150",
+      "place": "Лисичово (Лисичівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90151",
+      "place": "Кушниця (Кушницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90152",
+      "place": "Бронька (Броньківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90153",
+      "place": "Суха (Броньківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90154",
+      "place": "Довге (Довжанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90155",
+      "place": "Приборжавське (Приборжавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90156",
+      "place": "Луково (Луківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90157",
+      "place": "Лоза (Лозянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90157",
+      "place": "Собатин (Іршавська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90201",
+      "place": "Берегове",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90202",
+      "place": "Берегове",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90204",
+      "place": "Астей (Мочолянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90205",
+      "place": "Затишне (міськрада м.Берегове)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90210",
+      "place": "Бадів (Свободянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90210",
+      "place": "Данилівка (Свободянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90210",
+      "place": "Свобода (Свободянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90211",
+      "place": "Бакош (Свободянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90212",
+      "place": "Батьово (Батівська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90213",
+      "place": "Батрадь (Батрадівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90214",
+      "place": "Горонглаб (Батрадівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90220",
+      "place": "Каштаново (Шомська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90220",
+      "place": "Шом (Шомівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90221",
+      "place": "Мале Попове (Попівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90221",
+      "place": "Попово (Попівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90222",
+      "place": "Гетен (Попівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90223",
+      "place": "Косонь (Косоньська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90224",
+      "place": "Запсонь (Запсонська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90225",
+      "place": "Рафайлово (Рафайлівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90230",
+      "place": "Гут (Гутівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90231",
+      "place": "Гать (Гатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90232",
+      "place": "Велика Бийгань (Великобийганська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90233",
+      "place": "Баланжер (Яношівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90233",
+      "place": "Яноші (Яношівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90234",
+      "place": "Дийда (Дийдянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90235",
+      "place": "Мала Бийгань (Великобийганська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90236",
+      "place": "Чікош-Горонда (Гатянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90240",
+      "place": "Берегуйфалу (Берегуйфалівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90241",
+      "place": "Верхні Ремети (Нижньореметівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90241",
+      "place": "Нижні Ремети (Нижньореметівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90242",
+      "place": "Великі Береги (Великоберезька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90243",
+      "place": "Кідьош (Кідьошська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90248",
+      "place": "Чома (Чомська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90249",
+      "place": "Гуняді (Мочолянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90250",
+      "place": "Мочола (Мочолянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90252",
+      "place": "Велика Бакта (Великобактянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90252",
+      "place": "Геча (Гечанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90253",
+      "place": "Бадалово (Бадалівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90253",
+      "place": "Галабор (Галаборська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90255",
+      "place": "Вари (Варівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90256",
+      "place": "Боржава (Боржавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90260",
+      "place": "Мужієво (Мужіївська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90261",
+      "place": "Бене (Бенянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90262",
+      "place": "Четфалва (Четфалвівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90263",
+      "place": "Оросієво (Оросіївська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90264",
+      "place": "Квасово (Квасівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.2056,
+      "longitude": 22.6442
+    },
+    {
+      "zipcode": "90300",
+      "place": "Виноградів (Виноградівська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90310",
+      "place": "Боржавське (Боржавська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90311",
+      "place": "Шаланки (Шаланківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90312",
+      "place": "Великі Ком'яти (Великоком'ятівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90313",
+      "place": "Онок (Оноцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90314",
+      "place": "Широке (Широківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90315",
+      "place": "Букове (Буківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90320",
+      "place": "Карачин (Перехрестівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90320",
+      "place": "Перехрестя (Перехрестівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90321",
+      "place": "Пушкіно (Перехрестівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90322",
+      "place": "Вербовець (Вербовецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90322",
+      "place": "Чорний Потік (Вербовецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90324",
+      "place": "Олешник (Олешницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90325",
+      "place": "Підвиноградів (Підвиноградівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90326",
+      "place": "Вербове (Матіївська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90326",
+      "place": "Матійово (Матіївська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90326",
+      "place": "Руська Долина (Матіївська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90330",
+      "place": "Велика Копаня (Великокопанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90331",
+      "place": "Мала Копаня (Малокопанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90332",
+      "place": "Королево (Королівська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90336",
+      "place": "Веряця (Веряцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90336",
+      "place": "Горбки (Веряцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90340",
+      "place": "Черна (Чернянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90341",
+      "place": "Новоселиця (Новоселицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90342",
+      "place": "Хижа (Хижанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90343",
+      "place": "Гудя (Теківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90343",
+      "place": "Теково (Теківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90350",
+      "place": "Нове Село (Новоселицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90351",
+      "place": "Вилок (Вилоцька селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90352",
+      "place": "Притисянське (Фанчиківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90352",
+      "place": "Тросник (Фанчиківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90352",
+      "place": "Фанчиково (Фанчиківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90353",
+      "place": "Дротинці (Дротинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90354",
+      "place": "Пийтерфолво (Пийтерфолвівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90354",
+      "place": "Форголань (Пийтерфолвівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90355",
+      "place": "Тисобикень (Пийтерфолвівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90360",
+      "place": "Сасово (Сасівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90361",
+      "place": "Гетиня (Чепівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90361",
+      "place": "Затисівка (Чепівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90361",
+      "place": "Чепа (Чепівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90363",
+      "place": "Холмовець (Чорнотисівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90363",
+      "place": "Чорнотисів (Чорнотисівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90364",
+      "place": "Дюла (Чорнотисівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90365",
+      "place": "Ботар (Неветленфолівська  сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90365",
+      "place": "Неветленфолу (Неветленфолівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90365",
+      "place": "Нове Клинове (Неветленфолівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90365",
+      "place": "Оклі (Неветленфолівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90365",
+      "place": "Оклі Геть (Неветленфолівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90370",
+      "place": "Велика Паладь (Великопаладська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90371",
+      "place": "Фертешолмаш (Великопаладська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90400",
+      "place": "Зарічне (Хустська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90400",
+      "place": "Хуст",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90400",
+      "place": "Чертіж (Хустська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90401",
+      "place": "Хуст",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90409",
+      "place": "Кіреші (Хустська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90410",
+      "place": "Вертеп (Рокосівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90410",
+      "place": "Рокосово (Рокосівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90412",
+      "place": "Крива (Кривська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90413",
+      "place": "Кошельово (Кошелівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90414",
+      "place": "Залом (Кошелівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90415",
+      "place": "Крайна (Липчанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90415",
+      "place": "Кривий (Липчанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90415",
+      "place": "Липча (Липчанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90415",
+      "place": "Осава (Липчанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90416",
+      "place": "Липовець (Липовецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90420",
+      "place": "Нижній Бистрий (Нижньобистрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90421",
+      "place": "Противень (Нижньобистрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90421",
+      "place": "Широке (Нижньобистрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90424",
+      "place": "Вільшани (Вільшанківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90425",
+      "place": "Каллів (Липецько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90425",
+      "place": "Липецька Поляна (Липецько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90425",
+      "place": "Ожоверх (Липецько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90425",
+      "place": "Слоповий (Липецько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90426",
+      "place": "Березово (Березівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90426",
+      "place": "Гонцош (Березівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90426",
+      "place": "Ряпідь (Березівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90427",
+      "place": "Медвежий (Монастирецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90427",
+      "place": "Монастирець (Монастирецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90427",
+      "place": "Облаз (Монастирецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90427",
+      "place": "Поточок (Монастирецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90427",
+      "place": "Тополин (Монастирецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90428",
+      "place": "Забрідь (Забрідська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90430",
+      "place": "Горінчово (Горінчівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90430",
+      "place": "Ділок (Горінчівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90430",
+      "place": "Кутлаш (Горінчівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90430",
+      "place": "Посіч (Горінчівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90430",
+      "place": "Сюрюк (Горінчівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90432",
+      "place": "Драгово (Драгівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90432",
+      "place": "Жовтневе (Драгівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90432",
+      "place": "Кічерели (Драгівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90432",
+      "place": "Поляна (Копашнівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90432",
+      "place": "Становець (Драгівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90433",
+      "place": "Копашново (Копашнівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90434",
+      "place": "Лунка (Копашнівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90434",
+      "place": "Хустець (Копашнівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90435",
+      "place": "Нанково (Нанківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90436",
+      "place": "Іза (Ізянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90436",
+      "place": "Карповтлаш (Ізянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90440",
+      "place": "Нижнє Селище (Нижньоселищенська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90441",
+      "place": "Золотарьово (Золотарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90442",
+      "place": "Бороняво (Боронявська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90443",
+      "place": "Данилово (Данилівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90444",
+      "place": "Олександрівка (Олександрівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90450",
+      "place": "Сокирниця (Сокирницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90451",
+      "place": "Стеблівка (Стеблівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90452",
+      "place": "Крайниково (Крайниківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90453",
+      "place": "Велятино (Велятинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90454",
+      "place": "Вишково (Вишківська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90454",
+      "place": "Ракош (Вишківська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90457",
+      "place": "Модьорош (Вишківська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90457",
+      "place": "Шаян (Вишківська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90458",
+      "place": "Яблунівка (Вишківська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1793,
+      "longitude": 23.2991
+    },
+    {
+      "zipcode": "90500",
+      "place": "Тячів (Тячівська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90500",
+      "place": "Тячівка (Тячівська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90510",
+      "place": "Рівне (Чумалівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90510",
+      "place": "Чумальово (Чумалівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90511",
+      "place": "Кричово (Кричівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90511",
+      "place": "Росош (Кричівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90512",
+      "place": "Колодне (Колодненська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90513",
+      "place": "Дулово (Дулівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90514",
+      "place": "Бобове (Углянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90514",
+      "place": "Груники (Углянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90514",
+      "place": "Угля (Углянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90515",
+      "place": "Велика Уголька (Великоугольська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90516",
+      "place": "Пригідь (Широколузька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90516",
+      "place": "Фонтиняси (Широколузька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90516",
+      "place": "Широкий Луг (Широколузька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90517",
+      "place": "Мала Уголька (Углянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90520",
+      "place": "Усть-Чорна (Усть-Чорнянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90521",
+      "place": "Німецька Мокра (Руськомокрянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90521",
+      "place": "Руська Мокра (Руськомокрянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90522",
+      "place": "Лопухів (Лопухівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90523",
+      "place": "Красна (Краснянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90530",
+      "place": "Тарасівка (Тарасівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90531",
+      "place": "Верхній Дубовець (Дубівська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90531",
+      "place": "Дубове (Дубівська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90531",
+      "place": "Нижній Дубовець (Дубівська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90532",
+      "place": "Калини (Калинівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90533",
+      "place": "Новоселиця (Новоселицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90534",
+      "place": "Тисалово (Новоселицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90535",
+      "place": "Ганичі (Ганичівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90540",
+      "place": "Нересниця (Нересницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90541",
+      "place": "Підплеша (Нересницька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90542",
+      "place": "Вільхівці (Вільховецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90542",
+      "place": "Сасово (Вільховецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90543",
+      "place": "Вільхівчик (Вільховецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90544",
+      "place": "Вільхівці-Лази (Вільховецько-Лазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90544",
+      "place": "Раково (Вільховецько-Лазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90545",
+      "place": "Петрушів (Тернівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90545",
+      "place": "Терново (Тернівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90546",
+      "place": "Вишоватий (Тернівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90550",
+      "place": "Теребля (Тереблянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90551",
+      "place": "Руське Поле (Руськополівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90552",
+      "place": "Новобарово (Новобарівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90553",
+      "place": "Вонігово (Вонігівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90554",
+      "place": "Лази (Лазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90555",
+      "place": "Округла (Лазівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90556",
+      "place": "Буштино (Буштинська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90560",
+      "place": "Добрянське (Добрянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90561",
+      "place": "Бедевля (Бедевлянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90561",
+      "place": "Глиняний (Бедевлянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90561",
+      "place": "Дібрівка (Бедевлянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90561",
+      "place": "Руня (Бедевлянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90562",
+      "place": "Біловарці (Біловарська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90563",
+      "place": "Крива (Кривська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90564",
+      "place": "Тересва (Тересвянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90570",
+      "place": "Грушово (Грушівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90571",
+      "place": "Нижня Апша (Нижньоапшанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90572",
+      "place": "Пещера (Нижньоапшанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90572",
+      "place": "Подішор (Нижньоапшанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90573",
+      "place": "Топчино (Топчинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90574",
+      "place": "Глибокий Потік (Глибокопотіцька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90575",
+      "place": "Солотвино (Солотвинська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90600",
+      "place": "Рахів (Рахівська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90601",
+      "place": "Рахів (Рахівська міська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90610",
+      "place": "Водиця (Водицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90610",
+      "place": "Плаюц (Водицька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90611",
+      "place": "Верхнє Водяне (Верхньоводянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90611",
+      "place": "Стримба (Верхньоводянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90613",
+      "place": "Добрік (Середньоводянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90613",
+      "place": "Середнє Водяне (Середньоводянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90614",
+      "place": "Біла Церква (Білоцерківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90615",
+      "place": "Великий Бичків (Великобичківська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90616",
+      "place": "Луг (Лужанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90620",
+      "place": "Кобилецька Поляна (Кобилецько-Полянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90621",
+      "place": "Косівська Поляна (Косівсько-Полянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90622",
+      "place": "Росішка (Росішківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90623",
+      "place": "Вільховатий (Костилівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90623",
+      "place": "Костилівка (Костилівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90625",
+      "place": "Ділове (Діловецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90625",
+      "place": "Круглий (Діловецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90625",
+      "place": "Хмелів (Діловецька сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90630",
+      "place": "Стебний (Ясінянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90630",
+      "place": "Ясіня (Ясінянська селищна рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90632",
+      "place": "Чорна Тиса (Чорнотисянська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90633",
+      "place": "Лазещина (Лазещинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90640",
+      "place": "Кваси (Квасівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90640",
+      "place": "Сітний (Квасівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90640",
+      "place": "Тростянець (Квасівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90643",
+      "place": "Білин (Білинська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90644",
+      "place": "Розтоки (Розтоківська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90645",
+      "place": "Богдан (Богданська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90645",
+      "place": "Бребоя (Богданська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90646",
+      "place": "Видричка (Видричанська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90647",
+      "place": "Говерла (Лугівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    },
+    {
+      "zipcode": "90647",
+      "place": "Луги (Лугівська сільська рада)",
+      "oblast": "Закарпатська область",
+      "oblast_en": "Zakarpattia Oblast",
+      "iso_3166_2": "UA-21",
+      "latitude": 48.1924,
+      "longitude": 22.9716
+    }
+  ],
+  "meta": {
+    "title": "Поштові індекси: Закарпатська область - Безкоштовне завантаження",
+    "description": "Поштові індекси населених пунктів — Закарпатська область (633 записів). Назви українською, координати WGS84, ISO 3166-2 UA-21. Здобуто з GeoNames через zauberware/postal-codes-json-xml-csv. Містить 633 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Поштові індекси: Закарпатська область | ListBase",
+    "seo_description": "Завантажити Поштові індекси: Закарпатська область — 633 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 633 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

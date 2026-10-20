@@ -1,0 +1,103 @@
+{
+  "id": "uk-futbolni-kluby",
+  "name": "Українські футбольні клуби",
+  "title": "Українські футбольні клуби",
+  "description": "Football clubs in UA with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "SC Dnipro-1",
+      "founded": 2017,
+      "aliases": "Dnipro-1 | Sport Club Dnipro-1, SK Dnipro-1, Sportynyy Klub Dnipro-1, Vorskla, Vorskla Poltava, Vorskla Poltawa [de] | Vorskla Poltaw [de], Futbolnyy Klub Vorskla (Poltava)"
+    },
+    {
+      "name": "FC Karpaty Lviv",
+      "founded": 1963,
+      "aliases": "Karpaty, Karpaty Lviv, Karpaty Lemberg [de]"
+    },
+    {
+      "name": "FC Lviv",
+      "founded": 2006,
+      "aliases": "FK Lviv, Futbolnyy Klub Lviv"
+    },
+    {
+      "name": "FC Rukh Lviv",
+      "founded": 2003,
+      "aliases": "Rukh Lviv, Futbolnyy Klub Rukh Lviv, Rukh Vynnyky, Tavriya, Tavriya Simferopol   # champs (1): 1992/93, SK Tavriya Simferopol, Tavriia, Tawrija Simferopol [de], Zorya | Zorya Luhansk, Sorja Luhansk [de] | FK Sorja Luhansk [de], Zorya Lugansk [de] | FC Zorya Lugansk [de], Futbolnyy Klub Zorya (Luhansk), Zorya Voroshilovgrad   # champs (1): 1973/74, Mariupol, FK Mariupol, FK Mariupol Illichivets', Futbolnyy Klub Mariupol, Olexandriya, Oleksandriya, FC Oleksandriya, Oleksandria [de] | FC Oleksandria [de], Futbolnyy Klub Oleksandriya, Chornomorets Odesa, Chernomorets Odesa, Chernomorets Odessa, Chernom. Odessa [de], Chornomorets Odessa, Futbolnyi Klub Chornomorets Odessa, Desna, FC Desna Chernihiv, FK Desna Chernihiv, Desna Chernigov, Sportyvno-Futbolnyi Klub Desna Chernihiv, Desna Tscherni, SFC Desna Tscherni, K. Kovalivka, FC Kolos Kovalivka, Futbolnyy Klub Kolos Kovalivka, Volyn | Volyn Lutsk"
+    },
+    {
+      "name": "FC Metalurh Zaporizhya",
+      "founded": 1935,
+      "aliases": "Metalurh Zaporizhya | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya, Metalurg Zaporizhya, Metalurg Zaporizhia, Metalurh Zaporizhy"
+    },
+    {
+      "name": "FC Kryvbas Kryvyi Rih",
+      "founded": 1959,
+      "aliases": "Kryvbas, FK Krivbas, Futbolniy Klub Krivbas Kriviy Rig, Kryvbas Kryvyi Rih, Futbolnyy Klub Kryvbas (Kryvyi Rih), FC Kryvbas Kr"
+    },
+    {
+      "name": "NK Veres Rivne",
+      "founded": 1957,
+      "aliases": "Veres | Veres Rivne, Narodnyy Klub Veres Rivne"
+    },
+    {
+      "name": "LNZ Cherkasy",
+      "founded": 2006,
+      "stadium": "Central Stadium",
+      "city": "Cherkasy",
+      "aliases": "FC LNZ Cherkasy | LNZ Cherkasy FC, Futbolnyi Klub LNZ Cherkasy, Football Club LNZ Cherkasy [en], LNZ, LNZ Lebedyn, Futbolnyy Klub Mynai, FC Polissya Zhytomyr, Futbolnyi Klub Polissya Zhytomyr, FC Polissya, FC Inhulets Petrove, Futbolnyy Klub Inhulets Petrove, Football Club Inhulets Petrove, FC Ingulets"
+    },
+    {
+      "name": "FC Zirka Kropyvnytskyi",
+      "founded": 1911,
+      "aliases": "Zirka Kropyvnytskyi, FK Zirka Kirovohrad"
+    },
+    {
+      "name": "FC Hirnyk-Sport",
+      "founded": 1989,
+      "aliases": "Hirnyk | Hirnyk-Sport, FC Hirnyk-Sport Horishni Plavni, Hirnyk-Sport Horishni Plavni, Stal Kamianske, FC Metalist Kamianske, FK Stal Kamjanske, Hoverla Uzhhorod, Sevastopol"
+    }
+  ],
+  "meta": {
+    "title": "Українські футбольні клуби - Безкоштовне завантаження",
+    "description": "Football clubs in UA with founding year, stadium, city Містить 10 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Українські футбольні клуби | ListBase",
+    "seo_description": "Завантажити Українські футбольні клуби — 10 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 10 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

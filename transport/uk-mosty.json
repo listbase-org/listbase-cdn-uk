@@ -1,0 +1,742 @@
+{
+  "id": "uk-mosty",
+  "name": "Мости України",
+  "title": "Мости України",
+  "description": "Перелік об'єктів типу «міст» в Україні з відкритих даних Вікіданих (Wikidata), 61 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q122582061",
+      "name_uk": "1.8. Венеціанський міст (мур.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.760891,
+      "longitude": 30.235634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582061"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q122582063",
+      "name_uk": "2.2. Дерев’яний міст-шлюз (дер.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.760702,
+      "longitude": 30.235774,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582063"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q122582064",
+      "name_uk": "2.4. Місток на «Грибок» (мур.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.756978,
+      "longitude": 30.23598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582064"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q122582066",
+      "name_uk": "3.8. Залізничний місток, який веде на площу зборів Феаків (Площа зборів) (метал.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.763137,
+      "longitude": 30.234948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582066"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q122582072",
+      "name_uk": "4.13. Гранітний місток через р. Кам’янку на Єлисейські поля (мур.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.762814,
+      "longitude": 30.236819,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582072"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q122582073",
+      "name_uk": "4.18. Чортів міст (мур.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.763481,
+      "longitude": 30.238571,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582073"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q122582074",
+      "name_uk": "4.20. Гранітний місток через р. Кам’янку до ґрота Венери (Фетіди) (мур.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.7636,
+      "longitude": 30.238868,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582074"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q122582071",
+      "name_uk": "4.9. Дерев’яний місток (дер.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.762664,
+      "longitude": 30.235795,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582071"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q122582077",
+      "name_uk": "5.15. Залізничний міст через канал (метал.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.763221,
+      "longitude": 30.235685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582077"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q122582079",
+      "name_uk": "6.7. Дерев’яний міст на острів Анти-Цирцеї (Острів Кохання) (дер.)",
+      "name_en": "",
+      "admin_area_uk": "Умань",
+      "admin_area_en": "Uman",
+      "latitude": 48.765613,
+      "longitude": 30.240628,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122582079"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q16828218",
+      "name_uk": "",
+      "name_en": "Bridge over Institute Street",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.4496,
+      "longitude": 30.5267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16828218"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q11785918",
+      "name_uk": "",
+      "name_en": "Prut bridge",
+      "admin_area_uk": "Яремче",
+      "admin_area_en": "Yaremche",
+      "latitude": 48.4415,
+      "longitude": 24.5469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11785918"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q111416450",
+      "name_uk": "Автомобільний міст через Десну (Чернігів)",
+      "name_en": "Road bridge across the Desna",
+      "admin_area_uk": "Чернігів",
+      "admin_area_en": "Chernihiv",
+      "latitude": 51.4574,
+      "longitude": 31.3014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111416450"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q56367274",
+      "name_uk": "Автотранспортна магістраль через Дніпро та Старий Дніпро (Запоріжжя)",
+      "name_en": "New bridges over the River Dnieper",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 47.8426,
+      "longitude": 35.0855,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56367274"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q4067525",
+      "name_uk": "Антонівський міст",
+      "name_en": "Antonivka Road Bridge",
+      "admin_area_uk": "Херсон",
+      "admin_area_en": "Kherson",
+      "latitude": 46.67,
+      "longitude": 32.720278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4067525"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4069861",
+      "name_uk": "Арковий міст у Запоріжжі",
+      "name_en": "Arcual bridge in Zaporizhzhia",
+      "admin_area_uk": "Запоріжжя",
+      "admin_area_en": "Zaporizhzhia",
+      "latitude": 47.861667,
+      "longitude": 35.062222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4069861"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q122726656",
+      "name_uk": "Архітектурний комплекс мосту через р. Кальміус",
+      "name_en": "",
+      "admin_area_uk": "Донецьк",
+      "admin_area_en": "Donetsk",
+      "latitude": 48.00212,
+      "longitude": 37.814458,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122726656"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27921723",
+      "name_uk": "Братський міст",
+      "name_en": "Bratskiy Bridge",
+      "admin_area_uk": "Луцьк",
+      "admin_area_en": "Lutsk",
+      "latitude": 50.740833,
+      "longitude": 25.3175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27921723"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q4107151",
+      "name_uk": "Венеціанський міст",
+      "name_en": "Venetian bridge in Kyiv",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.448333,
+      "longitude": 30.575278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4107151"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q3398519",
+      "name_uk": "Гаванський міст",
+      "name_en": "Harbour Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.469167,
+      "longitude": 30.5275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3398519"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4131018",
+      "name_uk": "Гаванський шляхопровід",
+      "name_en": "Havanskyi viaduct, Kyiv",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.459444,
+      "longitude": 30.415556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4131018"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q20075457",
+      "name_uk": "Генуезький міст",
+      "name_en": "",
+      "admin_area_uk": "Феодосія",
+      "admin_area_en": "Feodosiia",
+      "latitude": 45.021472,
+      "longitude": 35.398833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20075457"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q110994774",
+      "name_uk": "Генічеський залізний міст",
+      "name_en": "Iron Bridge",
+      "admin_area_uk": "Генічеська міська громада",
+      "admin_area_en": "",
+      "latitude": 46.162917,
+      "longitude": 34.798472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110994774"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4155098",
+      "name_uk": "Дарницький залізнично-автомобільний мостовий перехід",
+      "name_en": "New Darnytskyi Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.415,
+      "longitude": 30.585833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4155098"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4185768",
+      "name_uk": "Замковий міст",
+      "name_en": "Castle bridge in Kamianets-Podilskyi",
+      "admin_area_uk": "Кам'янець-Подільський",
+      "admin_area_en": "Kamianets-Podilskyi",
+      "latitude": 48.6736,
+      "longitude": 26.5662,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4185768"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q21563278",
+      "name_uk": "Зоологічний міст",
+      "name_en": "Zoolohichnyi Bridge",
+      "admin_area_uk": "Шевченківський район",
+      "admin_area_en": "Shevchenkivskyi District",
+      "latitude": 50.004722,
+      "longitude": 36.225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21563278"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q18924499",
+      "name_uk": "Китайський місток (Біла Церква)",
+      "name_en": "Chinese Bridge, Bila Tserkva",
+      "admin_area_uk": "Біла Церква",
+      "admin_area_en": "Bila Tserkva",
+      "latitude": 49.809771,
+      "longitude": 30.06656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18924499"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q97189053",
+      "name_uk": "Копичинецький міст",
+      "name_en": "Kopychyntsi Bridge",
+      "admin_area_uk": "Чортків",
+      "admin_area_en": "Chortkiv",
+      "latitude": 49.010278,
+      "longitude": 25.796806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97189053"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q61467273",
+      "name_uk": "Красний міст у Хоролі",
+      "name_en": "",
+      "admin_area_uk": "Хорол",
+      "admin_area_en": "Khorol",
+      "latitude": 49.784083,
+      "longitude": 33.289444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61467273"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q4304739",
+      "name_uk": "Мости Преображенського",
+      "name_en": "Preobrazhenskyi bridges",
+      "admin_area_uk": "Запоріжжя",
+      "admin_area_en": "Zaporizhzhia",
+      "latitude": 47.820278,
+      "longitude": 35.074722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4304739"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q12130269",
+      "name_uk": "Мостовий перехід через річку Ірпінь",
+      "name_en": "Irpin Bridge (Hostomel)",
+      "admin_area_uk": "Київська область",
+      "admin_area_en": "Kyiv Oblast",
+      "latitude": 50.55325,
+      "longitude": 30.284444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12130269"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q62654153",
+      "name_uk": "Міст Коцебу",
+      "name_en": "Kotzebue Bridge",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.480667,
+      "longitude": 30.745778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62654153"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q2475012",
+      "name_uk": "Міст Метро",
+      "name_en": "Kyiv Metro Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.442778,
+      "longitude": 30.565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2475012"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q122295312",
+      "name_uk": "Міст Новіков",
+      "name_en": "Novikov Bridge",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.479202,
+      "longitude": 30.745333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122295312"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q4304527",
+      "name_uk": "Міст Пасіонарії",
+      "name_en": "Passionaria Bridge",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.004722,
+      "longitude": 36.225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4304527"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q19847403",
+      "name_uk": "Міст Сікарда",
+      "name_en": "Sicard Bridge",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.477806,
+      "longitude": 30.745583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19847403"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q4304550",
+      "name_uk": "Міст імені Євгенії Бош",
+      "name_en": "Evgenia Bosh Bridge",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.442222,
+      "longitude": 30.564528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4304550"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q4311401",
+      "name_uk": "Наводницький міст",
+      "name_en": "Bridges in Kyiv",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.427639,
+      "longitude": 30.581944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4311401"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q12134178",
+      "name_uk": "Новопланівський міст",
+      "name_en": "Novoplanovsky Bridge",
+      "admin_area_uk": "Кам'янець-Подільський",
+      "admin_area_en": "Kamianets-Podilskyi",
+      "latitude": 48.677778,
+      "longitude": 26.577222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12134178"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q4338176",
+      "name_uk": "Основ'янський міст",
+      "name_en": "Osnovyansky Bridge",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.968889,
+      "longitude": 36.221944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4338176"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q4341858",
+      "name_uk": "Павлоградський міст",
+      "name_en": "",
+      "admin_area_uk": "Сєвєродонецька міська рада",
+      "admin_area_en": "Sievierodonetsk City council",
+      "latitude": 48.924444,
+      "longitude": 38.436944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4341858"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q20083581",
+      "name_uk": "Панкратівський міст",
+      "name_en": "Pankrativskyi Bridge",
+      "admin_area_uk": "Херсон",
+      "admin_area_en": "Kherson",
+      "latitude": 46.640325,
+      "longitude": 32.60278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20083581"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q12138950",
+      "name_uk": "Парковий міст",
+      "name_en": "Bridge of Love",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.452253,
+      "longitude": 30.534236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12138950"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q4362165",
+      "name_uk": "Парковий міст через Дніпро (Київ)",
+      "name_en": "Parkovyi footbridge in Kyiv",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.456778,
+      "longitude": 30.534389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4362165"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q112257805",
+      "name_uk": "Плебанівський віадук",
+      "name_en": "Viaduct, Plebanivka",
+      "admin_area_uk": "Плебанівка",
+      "admin_area_en": "Plebanivka",
+      "latitude": 49.294418,
+      "longitude": 25.689444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112257805"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q3394830",
+      "name_uk": "Подільський мостовий перехід",
+      "name_en": "Podilskyi Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.472778,
+      "longitude": 30.535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3394830"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4534156",
+      "name_uk": "Південний міст",
+      "name_en": "South Bridge, Dnipro",
+      "admin_area_uk": "Дніпро",
+      "admin_area_en": "Dnipro",
+      "latitude": 48.411111,
+      "longitude": 35.098611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4534156"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q2467654",
+      "name_uk": "Північний міст",
+      "name_en": "Pivnichnyi Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.491111,
+      "longitude": 30.537222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2467654"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q64067623",
+      "name_uk": "Пішохідно-велосипедний міст через Володимирський узвіз",
+      "name_en": "Bridge over Saint Volodymyr Descent",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.455167,
+      "longitude": 30.528056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64067623"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q4401455",
+      "name_uk": "Рибальський вантовий міст",
+      "name_en": "Rybalskyi Cable-stayed Bridge",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.472778,
+      "longitude": 30.522778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4401455"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q3398559",
+      "name_uk": "Рибальський залізничний міст",
+      "name_en": "Rybalskyi Railway Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.4837,
+      "longitude": 30.548,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3398559"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q3398526",
+      "name_uk": "Русанівський метроміст",
+      "name_en": "Rusanivka Metro Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.448142,
+      "longitude": 30.584519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3398526"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q1392136",
+      "name_uk": "Русанівський міст",
+      "name_en": "Rusanivka Old Bridge",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.448139,
+      "longitude": 30.584444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1392136"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q4403428",
+      "name_uk": "Сабанєїв міст",
+      "name_en": "Sabanieiv Bridge",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.487897,
+      "longitude": 30.737252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4403428"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q122295296",
+      "name_uk": "Строганов міст",
+      "name_en": "Stroganov bridge, Odesa",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.482153,
+      "longitude": 30.746334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122295296"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q12158361",
+      "name_uk": "Стрімка Лань",
+      "name_en": "Strimka Lan' bridge",
+      "admin_area_uk": "Кам'янець-Подільський",
+      "admin_area_en": "Kamianets-Podilskyi",
+      "latitude": 48.659725,
+      "longitude": 26.578164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12158361"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q4468195",
+      "name_uk": "Тещин міст",
+      "name_en": "Teshchin bridge",
+      "admin_area_uk": "Одеса",
+      "admin_area_en": "Odesa",
+      "latitude": 46.490528,
+      "longitude": 30.737222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4468195"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q4496328",
+      "name_uk": "Харківський метроміст",
+      "name_en": "Kharkiv Metro Bridge",
+      "admin_area_uk": "Харків",
+      "admin_area_en": "Kharkiv",
+      "latitude": 50.001667,
+      "longitude": 36.283056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4496328"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q4496326",
+      "name_uk": "Харківський міст",
+      "name_en": "Kharkiv Bridge",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 49.988333,
+      "longitude": 36.241389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4496326"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q30889174",
+      "name_uk": "Чонгарські мости",
+      "name_en": "Chongar bridges",
+      "admin_area_uk": "Росія",
+      "admin_area_en": "Russia",
+      "latitude": 45.987952,
+      "longitude": 34.552695,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30889174"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q12074999",
+      "name_uk": "Іршавський міст",
+      "name_en": "Bridge in Irshava",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 48.311947,
+      "longitude": 23.039136,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12074999"
+    }
+  ],
+  "meta": {
+    "title": "Мости України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «міст» в Україні з відкритих даних Вікіданих (Wikidata), 61 записів. Кожен запис містить українську та англійську назву, адміністративну одиницю, координати WGS84 та посилання на Вікідані. Містить 61 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Мости України | ListBase",
+    "seo_description": "Завантажити Мости України — 61 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 61 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

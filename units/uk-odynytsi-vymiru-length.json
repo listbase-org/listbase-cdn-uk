@@ -1,0 +1,340 @@
+{
+  "id": "uk-odynytsi-vymiru-length",
+  "name": "Одиниці вимірювання — категорія 'length' (31)",
+  "title": "Одиниці вимірювання — категорія 'length' (31)",
+  "description": "Одиниці вимірювання категорії 'length' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "katehoriia": "length",
+      "nazva": "астрономічні одиниці",
+      "skorochennia": "а. о.",
+      "vuzka_forma": "а. о.",
+      "vzirets": "{0} астрономічної одиниці"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "katehoriia": "length",
+      "nazva": "сантиметри",
+      "skorochennia": "см",
+      "vuzka_forma": "см",
+      "vzirets": "{0} сантиметра"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "katehoriia": "length",
+      "nazva": "chain",
+      "skorochennia": "chain",
+      "vuzka_forma": "chain",
+      "vzirets": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "katehoriia": "length",
+      "nazva": "дециметри",
+      "skorochennia": "дм",
+      "vuzka_forma": "дм",
+      "vzirets": "{0} дециметра"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "katehoriia": "length",
+      "nazva": "радіуси Землі",
+      "skorochennia": "R⊕",
+      "vuzka_forma": "R⊕",
+      "vzirets": "{0} радіуса Землі"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "katehoriia": "length",
+      "nazva": "фатоми",
+      "skorochennia": "фатоми",
+      "vuzka_forma": "фтм",
+      "vzirets": "{0} фатома"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "katehoriia": "length",
+      "nazva": "фути",
+      "skorochennia": "фт",
+      "vuzka_forma": "фт",
+      "vzirets": "{0} фута"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "katehoriia": "length",
+      "nazva": "фурлонги",
+      "skorochennia": "фурлонги",
+      "vuzka_forma": "фрл",
+      "vzirets": "{0} фурлонга"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "katehoriia": "length",
+      "nazva": "дюйми",
+      "skorochennia": "дюйми",
+      "vuzka_forma": "дюйм",
+      "vzirets": "{0} дюйма"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "katehoriia": "length",
+      "nazva": "jo [JP]",
+      "skorochennia": "jo [JP]",
+      "vuzka_forma": "jo [JP]",
+      "vzirets": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "katehoriia": "length",
+      "nazva": "ken [JP]",
+      "skorochennia": "ken [JP]",
+      "vuzka_forma": "ken [JP]",
+      "vzirets": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "katehoriia": "length",
+      "nazva": "кілометри",
+      "skorochennia": "км",
+      "vuzka_forma": "км",
+      "vzirets": "{0} кілометра"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "katehoriia": "length",
+      "nazva": "світлові роки",
+      "skorochennia": "св. роки",
+      "vuzka_forma": "св. р.",
+      "vzirets": "{0} світлового року"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "katehoriia": "length",
+      "nazva": "метри",
+      "skorochennia": "м",
+      "vuzka_forma": "м",
+      "vzirets": "{0} метра"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "katehoriia": "length",
+      "nazva": "мікрометри",
+      "skorochennia": "мкм",
+      "vuzka_forma": "мкм",
+      "vzirets": "{0} мікрометра"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "katehoriia": "length",
+      "nazva": "милі",
+      "skorochennia": "милі",
+      "vuzka_forma": "мл",
+      "vzirets": "{0} милі"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "katehoriia": "length",
+      "nazva": "скандинавські милі",
+      "skorochennia": "сканд. милі",
+      "vuzka_forma": "ск.мл",
+      "vzirets": "{0} скандинавської милі"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "katehoriia": "length",
+      "nazva": "міліметри",
+      "skorochennia": "мм",
+      "vuzka_forma": "мм",
+      "vzirets": "{0} міліметра"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "katehoriia": "length",
+      "nazva": "нанометри",
+      "skorochennia": "нм",
+      "vuzka_forma": "нм",
+      "vzirets": "{0} нанометра"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "katehoriia": "length",
+      "nazva": "морські милі",
+      "skorochennia": "м. милі",
+      "vuzka_forma": "м. мл",
+      "vzirets": "{0} морської милі"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "katehoriia": "length",
+      "nazva": "парсеки",
+      "skorochennia": "парсеки",
+      "vuzka_forma": "парсек",
+      "vzirets": "{0} парсека"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "katehoriia": "length",
+      "nazva": "пікометри",
+      "skorochennia": "пм",
+      "vuzka_forma": "пм",
+      "vzirets": "{0} пікометра"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "katehoriia": "length",
+      "nazva": "пункти",
+      "skorochennia": "пт",
+      "vuzka_forma": "пт",
+      "vzirets": "{0} пункту"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "katehoriia": "length",
+      "nazva": "ri [JP]",
+      "skorochennia": "ri [JP]",
+      "vuzka_forma": "ri [JP]",
+      "vzirets": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "katehoriia": "length",
+      "nazva": "rin [JP]",
+      "skorochennia": "rin [JP]",
+      "vuzka_forma": "rin [JP]",
+      "vzirets": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "katehoriia": "length",
+      "nazva": "rod",
+      "skorochennia": "rod",
+      "vuzka_forma": "rod",
+      "vzirets": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "katehoriia": "length",
+      "nazva": "shaku [cloth, JP]",
+      "skorochennia": "shaku [cloth, JP]",
+      "vuzka_forma": "shaku [cloth, JP]",
+      "vzirets": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "katehoriia": "length",
+      "nazva": "shaku [JP]",
+      "skorochennia": "shaku [JP]",
+      "vuzka_forma": "shaku [JP]",
+      "vzirets": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "katehoriia": "length",
+      "nazva": "радіуси Сонця",
+      "skorochennia": "R☉",
+      "vuzka_forma": "R☉",
+      "vzirets": "{0} радіуса Сонця"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "katehoriia": "length",
+      "nazva": "sun [JP]",
+      "skorochennia": "sun [JP]",
+      "vuzka_forma": "sun [JP]",
+      "vzirets": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "katehoriia": "length",
+      "nazva": "ярди",
+      "skorochennia": "ярди",
+      "vuzka_forma": "ярд",
+      "vzirets": "{0} ярда"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'length' (31) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'length' з локалі uk у CLDR, з назвами українською. Містить 31 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'length' (31) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'length' (31) — 31 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 31 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

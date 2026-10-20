@@ -1,0 +1,830 @@
+{
+  "id": "uk-vinnytska-hromady",
+  "name": "Територіальні громади Вінницької області",
+  "title": "Територіальні громади Вінницької області",
+  "description": "Список 69 територіальних громад Вінницької області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA05020010000053508",
+      "name": "Агрономічна сільська громада",
+      "name_en": "Ahronomichna silska hromada",
+      "slug": "ahronomichna-silska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020030000031457",
+      "name": "Вінницька міська громада",
+      "name_en": "Vinnytska miska hromada",
+      "slug": "vinnytska-miska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020050000066991",
+      "name": "Вороновицька селищна громада",
+      "name_en": "Voronovytska selyshchna hromada",
+      "slug": "voronovytska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020070000010139",
+      "name": "Гніванська міська громада",
+      "name_en": "Hnivanska miska hromada",
+      "slug": "hnivanska-miska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020090000067118",
+      "name": "Іллінецька міська громада",
+      "name_en": "Illinetska miska hromada",
+      "slug": "illinetska-miska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020110000052014",
+      "name": "Липовецька міська громада",
+      "name_en": "Lypovetska miska hromada",
+      "slug": "lypovetska-miska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020130000056031",
+      "name": "Літинська селищна громада",
+      "name_en": "Litynska selyshchna hromada",
+      "slug": "litynska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020150000074651",
+      "name": "Луко-Мелешківська сільська рада",
+      "name_en": "Luko-Meleshkivska silska rada",
+      "slug": "luko-meleshkivska-silska-rada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020150000074651",
+      "name": "Лука-Мелешківська сільська громада",
+      "name_en": "Luka-Meleshkivska silska hromada",
+      "slug": "luka-meleshkivska-silska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020170000049432",
+      "name": "Немирівська міська громада",
+      "name_en": "Nemyrivska miska hromada",
+      "slug": "nemyrivska-miska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020190000015755",
+      "name": "Оратівська селищна громада",
+      "name_en": "Orativska selyshchna hromada",
+      "slug": "orativska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020210000033427",
+      "name": "Погребищенська міська громада",
+      "name_en": "Pohrebyshchenska miska hromada",
+      "slug": "pohrebyshchenska-miska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020230000029909",
+      "name": "Стрижавська селищна громада",
+      "name_en": "Stryzhavska selyshchna hromada",
+      "slug": "stryzhavska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020250000055470",
+      "name": "Сутисківська селищна громада",
+      "name_en": "Sutyskivska selyshchna hromada",
+      "slug": "sutyskivska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020270000044358",
+      "name": "Тиврівська селищна громада",
+      "name_en": "Tyvrivska selyshchna hromada",
+      "slug": "tyvrivska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020290000092626",
+      "name": "Турбівська селищна громада",
+      "name_en": "Turbivska selyshchna hromada",
+      "slug": "turbivska-selyshchna-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05020310000080026",
+      "name": "Якушинецька сільська громада",
+      "name_en": "Yakushynetska silska hromada",
+      "slug": "yakushynetska-silska-hromada",
+      "rayon_code": "UA05020000000026686",
+      "rayon_name": "Вінницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040010000022470",
+      "name": "Бершадська міська громада",
+      "name_en": "Bershadska miska hromada",
+      "slug": "bershadska-miska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040030000050131",
+      "name": "Гайсинська міська громада",
+      "name_en": "Haisynska miska hromada",
+      "slug": "haisynska-miska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040050000080930",
+      "name": "Дашівська селищна громада",
+      "name_en": "Dashivska selyshchna hromada",
+      "slug": "dashivska-selyshchna-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040070000093188",
+      "name": "Джулинська сільська громада",
+      "name_en": "Dzhulynska silska hromada",
+      "slug": "dzhulynska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040090000093950",
+      "name": "Краснопільська сільська громада",
+      "name_en": "Krasnopilska silska hromada",
+      "slug": "krasnopilska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040110000042036",
+      "name": "Кунківська сільська рада",
+      "name_en": "Kunkivska silska rada",
+      "slug": "kunkivska-silska-rada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040110000042036",
+      "name": "Кунківська сільська громада",
+      "name_en": "Kunkivska silska hromada",
+      "slug": "kunkivska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040130000025322",
+      "name": "Ладижинська міська громада",
+      "name_en": "Ladyzhynska miska hromada",
+      "slug": "ladyzhynska-miska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040150000077146",
+      "name": "Ободівська сільська громада",
+      "name_en": "Obodivska silska hromada",
+      "slug": "obodivska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040170000093514",
+      "name": "Ольгопільська сільська громада",
+      "name_en": "Olhopilska silska hromada",
+      "slug": "olhopilska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040190000039450",
+      "name": "Райгородська сільська громада",
+      "name_en": "Raihorodska silska hromada",
+      "slug": "raihorodska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040210000068217",
+      "name": "Соболівська сільська громада",
+      "name_en": "Sobolivska silska hromada",
+      "slug": "sobolivska-silska-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040230000017028",
+      "name": "Теплицька селищна громада",
+      "name_en": "Teplytska selyshchna hromada",
+      "slug": "teplytska-selyshchna-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040250000027965",
+      "name": "Тростянецька селищна громада",
+      "name_en": "Trostianetska selyshchna hromada",
+      "slug": "trostianetska-selyshchna-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05040270000051651",
+      "name": "Чечельницька селищна громада",
+      "name_en": "Chechelnytska selyshchna hromada",
+      "slug": "chechelnytska-selyshchna-hromada",
+      "rayon_code": "UA05040000000050292",
+      "rayon_name": "Гайсинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060010000053179",
+      "name": "Барська міська громада",
+      "name_en": "Barska miska hromada",
+      "slug": "barska-miska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060030000026125",
+      "name": "Джуринська сільська громада",
+      "name_en": "Dzhurynska silska hromada",
+      "slug": "dzhurynska-silska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060050000058111",
+      "name": "Жмеринська міська громада",
+      "name_en": "Zhmerynska miska hromada",
+      "slug": "zhmerynska-miska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060070000012952",
+      "name": "Копайгородська селищна громада",
+      "name_en": "Kopaihorodska selyshchna hromada",
+      "slug": "kopaihorodska-selyshchna-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060090000058521",
+      "name": "Мурафська сільська громада",
+      "name_en": "Murafska silska hromada",
+      "slug": "murafska-silska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060110000027268",
+      "name": "Северинівська сільська громада",
+      "name_en": "Severynivska silska hromada",
+      "slug": "severynivska-silska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060130000030729",
+      "name": "Станіславчицька сільська громада",
+      "name_en": "Stanislavchytska silska hromada",
+      "slug": "stanislavchytska-silska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05060150000094411",
+      "name": "Шаргородська міська громада",
+      "name_en": "Sharhorodska miska hromada",
+      "slug": "sharhorodska-miska-hromada",
+      "rayon_code": "UA05060000000061926",
+      "rayon_name": "Жмеринський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080010000038400",
+      "name": "Бабчинецька сільська громада",
+      "name_en": "Babchynetska silska hromada",
+      "slug": "babchynetska-silska-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080030000089348",
+      "name": "Вендичанська селищна громада",
+      "name_en": "Vendychanska selyshchna hromada",
+      "slug": "vendychanska-selyshchna-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080050000023603",
+      "name": "Могилів-Подільська міська громада",
+      "name_en": "Mohyliv-Podilska miska hromada",
+      "slug": "mohyliv-podilska-miska-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080070000010150",
+      "name": "Мурованокуриловецька селищна громада",
+      "name_en": "Murovanokurylovetska selyshchna hromada",
+      "slug": "murovanokurylovetska-selyshchna-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080090000089922",
+      "name": "Чернівецька селищна громада",
+      "name_en": "Chernivetska selyshchna hromada",
+      "slug": "chernivetska-selyshchna-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080110000056824",
+      "name": "Ямпільська міська громада",
+      "name_en": "Yampilska miska hromada",
+      "slug": "yampilska-miska-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080130000024964",
+      "name": "Яришівська сільська рада",
+      "name_en": "Yaryshivska silska rada",
+      "slug": "yaryshivska-silska-rada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05080130000024964",
+      "name": "Яришівська сільська громада",
+      "name_en": "Yaryshivska silska hromada",
+      "slug": "yaryshivska-silska-hromada",
+      "rayon_code": "UA05080000000040234",
+      "rayon_name": "Могилів-Подільський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100010000023453",
+      "name": "Брацлавська селищна громада",
+      "name_en": "Bratslavska selyshchna hromada",
+      "slug": "bratslavska-selyshchna-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100030000051497",
+      "name": "Вапнярська селищна громада",
+      "name_en": "Vapniarska selyshchna hromada",
+      "slug": "vapniarska-selyshchna-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100050000038768",
+      "name": "Городківська сільська рада (Крижопільський район)",
+      "name_en": "Horodkivska silska rada (Kryzhopilskyi raion)",
+      "slug": "horodkivska-silska-rada-kryzhopilskyi-raion",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100050000038768",
+      "name": "Городківська сільська громада",
+      "name_en": "Horodkivska silska hromada",
+      "slug": "horodkivska-silska-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100070000035159",
+      "name": "Крижопільська селищна громада",
+      "name_en": "Kryzhopilska selyshchna hromada",
+      "slug": "kryzhopilska-selyshchna-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100090000029847",
+      "name": "Піщанська селищна громада",
+      "name_en": "Pishchanska selyshchna hromada",
+      "slug": "pishchanska-selyshchna-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100110000070795",
+      "name": "Студенянська сільська громада",
+      "name_en": "Studenianska silska hromada",
+      "slug": "studenianska-silska-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100130000061386",
+      "name": "Томашпільська селищна громада",
+      "name_en": "Tomashpilska selyshchna hromada",
+      "slug": "tomashpilska-selyshchna-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100150000050790",
+      "name": "Тульчинська міська громада",
+      "name_en": "Tulchynska miska hromada",
+      "slug": "tulchynska-miska-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05100170000071290",
+      "name": "Шпиківська селищна громада",
+      "name_en": "Shpykivska selyshchna hromada",
+      "slug": "shpykivska-selyshchna-hromada",
+      "rayon_code": "UA05100000000022396",
+      "rayon_name": "Тульчинський район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120010000076685",
+      "name": "Глуховецька селищна громада",
+      "name_en": "Hlukhovetska selyshchna hromada",
+      "slug": "hlukhovetska-selyshchna-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120030000061384",
+      "name": "Жданівська сільська рада",
+      "name_en": "Zhdanivska silska rada",
+      "slug": "zhdanivska-silska-rada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120030000061384",
+      "name": "Жданівська сільська громада",
+      "name_en": "Zhdanivska silska hromada",
+      "slug": "zhdanivska-silska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120050000063063",
+      "name": "Іванівська сільська громада",
+      "name_en": "Ivanivska silska hromada",
+      "slug": "ivanivska-silska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120070000075759",
+      "name": "Калинівська міська громада",
+      "name_en": "Kalynivska miska hromada",
+      "slug": "kalynivska-miska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120090000060589",
+      "name": "Козятинська міська громада",
+      "name_en": "Koziatynska miska hromada",
+      "slug": "koziatynska-miska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120110000018679",
+      "name": "Махнівська сільська громада",
+      "name_en": "Makhnivska silska hromada",
+      "slug": "makhnivska-silska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120130000014261",
+      "name": "Самгородоцька сільська рада",
+      "name_en": "Samhorodotska silska rada",
+      "slug": "samhorodotska-silska-rada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120130000014261",
+      "name": "Самгородоцька сільська громада",
+      "name_en": "Samhorodotska silska hromada",
+      "slug": "samhorodotska-silska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120150000069474",
+      "name": "Уланівська сільська громада",
+      "name_en": "Ulanivska silska hromada",
+      "slug": "ulanivska-silska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    },
+    {
+      "code": "UA05120170000013778",
+      "name": "Хмільницька міська громада",
+      "name_en": "Khmilnytska miska hromada",
+      "slug": "khmilnytska-miska-hromada",
+      "rayon_code": "UA05120000000017020",
+      "rayon_name": "Хмільницький район",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Вінницької області - Безкоштовне завантаження",
+    "description": "Список 69 територіальних громад Вінницької області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 69 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Вінницької області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Вінницької області — 69 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 69 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

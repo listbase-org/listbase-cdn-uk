@@ -1,0 +1,973 @@
+{
+  "id": "uk-dnipropetrovska-hromady",
+  "name": "Територіальні громади Дніпропетровської області",
+  "title": "Територіальні громади Дніпропетровської області",
+  "description": "Список 82 територіальних громад Дніпропетровської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA12020010000033698",
+      "name": "Дніпровська міська громада",
+      "name_en": "Dniprovska miska hromada",
+      "slug": "dniprovska-miska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020030000073022",
+      "name": "Китайгородська сільська рада",
+      "name_en": "Kytaihorodska silska rada",
+      "slug": "kytaihorodska-silska-rada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020030000073022",
+      "name": "Китайгородська сільська громада",
+      "name_en": "Kytaihorodska silska hromada",
+      "slug": "kytaihorodska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020050000026654",
+      "name": "Любимівська сільська рада (Дніпропетровський район)",
+      "name_en": "Liubymivska silska rada (Dnipropetrovskyi raion)",
+      "slug": "liubymivska-silska-rada-dnipropetrovskyi-raion",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020050000026654",
+      "name": "Любимівська сільська громада",
+      "name_en": "Liubymivska silska hromada",
+      "slug": "liubymivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020070000057092",
+      "name": "Ляшківська сільська громада",
+      "name_en": "Liashkivska silska hromada",
+      "slug": "liashkivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020090000044548",
+      "name": "Миколаївська сільська громада",
+      "name_en": "Mykolaivska silska hromada",
+      "slug": "mykolaivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020110000034205",
+      "name": "Могилівська сільська громада",
+      "name_en": "Mohylivska silska hromada",
+      "slug": "mohylivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020130000022909",
+      "name": "Новоолександрівська сільська громада",
+      "name_en": "Novooleksandrivska silska hromada",
+      "slug": "novooleksandrivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020150000050274",
+      "name": "Новопокровська селищна громада",
+      "name_en": "Novopokrovska selyshchna hromada",
+      "slug": "novopokrovska-selyshchna-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020170000068526",
+      "name": "Обухівська селищна громада",
+      "name_en": "Obukhivska selyshchna hromada",
+      "slug": "obukhivska-selyshchna-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020190000075117",
+      "name": "Петриківська селищна громада",
+      "name_en": "Petrykivska selyshchna hromada",
+      "slug": "petrykivska-selyshchna-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020210000032285",
+      "name": "Підгородненська міська громада",
+      "name_en": "Pidhorodnenska miska hromada",
+      "slug": "pidhorodnenska-miska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020230000085693",
+      "name": "Святовасилівська сільська рада",
+      "name_en": "Sviatovasylivska silska rada",
+      "slug": "sviatovasylivska-silska-rada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020230000085693",
+      "name": "Святовасилівська сільська громада",
+      "name_en": "Sviatovasylivska silska hromada",
+      "slug": "sviatovasylivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020250000010438",
+      "name": "Слобожанська селищна громада",
+      "name_en": "Slobozhanska selyshchna hromada",
+      "slug": "slobozhanska-selyshchna-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020270000063450",
+      "name": "Солонянська селищна громада",
+      "name_en": "Solonianska selyshchna hromada",
+      "slug": "solonianska-selyshchna-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020290000063321",
+      "name": "Сурсько-Литовська сільська громада",
+      "name_en": "Sursko-Lytovska silska hromada",
+      "slug": "sursko-lytovska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020310000017431",
+      "name": "Царичанська селищна громада",
+      "name_en": "Tsarychanska selyshchna hromada",
+      "slug": "tsarychanska-selyshchna-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12020330000076598",
+      "name": "Чумаківська сільська громада",
+      "name_en": "Chumakivska silska hromada",
+      "slug": "chumakivska-silska-hromada",
+      "rayon_code": "UA12020000000052809",
+      "rayon_name": "Дніпровський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040010000018960",
+      "name": "Божедарівська селищна громада",
+      "name_en": "Bozhedarivska selyshchna hromada",
+      "slug": "bozhedarivska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040030000066040",
+      "name": "Верхівцівська міська громада",
+      "name_en": "Verkhivtsivska miska hromada",
+      "slug": "verkhivtsivska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040050000057182",
+      "name": "Верхньодніпровська міська громада",
+      "name_en": "Verkhnodniprovska miska hromada",
+      "slug": "verkhnodniprovska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040090000029346",
+      "name": "Вільногірська міська громада",
+      "name_en": "Vilnohirska miska hromada",
+      "slug": "vilnohirska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040110000091524",
+      "name": "Жовтоводська міська громада",
+      "name_en": "Zhovtovodska miska hromada",
+      "slug": "zhovtovodska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040130000037856",
+      "name": "Затишнянська сільська громада",
+      "name_en": "Zatyshnianska silska hromada",
+      "slug": "zatyshnianska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040150000015189",
+      "name": "Кам'янська міська громада",
+      "name_en": "Kamyanska miska hromada",
+      "slug": "kamyanska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040170000019083",
+      "name": "Криничанська селищна громада",
+      "name_en": "Krynychanska selyshchna hromada",
+      "slug": "krynychanska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040190000056469",
+      "name": "Лихівська селищна громада",
+      "name_en": "Lykhivska selyshchna hromada",
+      "slug": "lykhivska-selyshchna-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040210000039759",
+      "name": "П'ятихатська міська громада",
+      "name_en": "Pyatykhatska miska hromada",
+      "slug": "pyatykhatska-miska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12040230000099388",
+      "name": "Саксаганська сільська громада",
+      "name_en": "Saksahanska silska hromada",
+      "slug": "saksahanska-silska-hromada",
+      "rayon_code": "",
+      "rayon_name": "",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060010000090992",
+      "name": "Апостолівська міська громада",
+      "name_en": "Apostolivska miska hromada",
+      "slug": "apostolivska-miska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060030000081794",
+      "name": "Вакулівська сільська громада",
+      "name_en": "Vakulivska silska hromada",
+      "slug": "vakulivska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060050000031212",
+      "name": "Глеюватська сільська громада",
+      "name_en": "Hleiuvatska silska hromada",
+      "slug": "hleiuvatska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060070000012840",
+      "name": "Гречаноподівська сільська громада",
+      "name_en": "Hrechanopodivska silska hromada",
+      "slug": "hrechanopodivska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060090000074553",
+      "name": "Грушівська сільська громада",
+      "name_en": "Hrushivska silska hromada",
+      "slug": "hrushivska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060110000015305",
+      "name": "Девладівська сільська громада",
+      "name_en": "Devladivska silska hromada",
+      "slug": "devladivska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060130000012028",
+      "name": "Зеленодольська міська громада",
+      "name_en": "Zelenodolska miska hromada",
+      "slug": "zelenodolska-miska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060150000015198",
+      "name": "Карпівська сільська громада",
+      "name_en": "Karpivska silska hromada",
+      "slug": "karpivska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060170000091033",
+      "name": "Криворізька міська громада",
+      "name_en": "Kryvorizka miska hromada",
+      "slug": "kryvorizka-miska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060190000043514",
+      "name": "Лозуватська сільська громада",
+      "name_en": "Lozuvatska silska hromada",
+      "slug": "lozuvatska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060210000077302",
+      "name": "Нивотрудівська сільська громада",
+      "name_en": "Nyvotrudivska silska hromada",
+      "slug": "nyvotrudivska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060230000032833",
+      "name": "Новолатівська сільська громада",
+      "name_en": "Novolativska silska hromada",
+      "slug": "novolativska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060250000064393",
+      "name": "Новопільська сільська громада",
+      "name_en": "Novopilska silska hromada",
+      "slug": "novopilska-silska-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060270000017282",
+      "name": "Софіївська селищна громада",
+      "name_en": "Sofiivska selyshchna hromada",
+      "slug": "sofiivska-selyshchna-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12060290000039013",
+      "name": "Широківська селищна громада",
+      "name_en": "Shyrokivska selyshchna hromada",
+      "slug": "shyrokivska-selyshchna-hromada",
+      "rayon_code": "UA12060000000022633",
+      "rayon_name": "Криворізький район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080010000029838",
+      "name": "Марганецька міська громада",
+      "name_en": "Marhanetska miska hromada",
+      "slug": "marhanetska-miska-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080030000022466",
+      "name": "Мирівська сільська громада",
+      "name_en": "Myrivska silska hromada",
+      "slug": "myrivska-silska-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080050000062712",
+      "name": "Нікопольська міська громада",
+      "name_en": "Nikopolska miska hromada",
+      "slug": "nikopolska-miska-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080070000077032",
+      "name": "Першотравневська сільська громада",
+      "name_en": "Pershotravnevska silska hromada",
+      "slug": "pershotravnevska-silska-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080090000039979",
+      "name": "Покровська міська громада",
+      "name_en": "Pokrovska miska hromada",
+      "slug": "pokrovska-miska-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080110000055958",
+      "name": "Покровська сільська рада",
+      "name_en": "Pokrovska silska rada",
+      "slug": "pokrovska-silska-rada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080110000055958",
+      "name": "Покровська сільська громада",
+      "name_en": "Pokrovska silska hromada",
+      "slug": "pokrovska-silska-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080130000071360",
+      "name": "Томаківська селищна громада",
+      "name_en": "Tomakivska selyshchna hromada",
+      "slug": "tomakivska-selyshchna-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12080150000061416",
+      "name": "Червоногригорівська селищна громада",
+      "name_en": "Chervonohryhorivska selyshchna hromada",
+      "slug": "chervonohryhorivska-selyshchna-hromada",
+      "rayon_code": "UA12080000000023578",
+      "rayon_name": "Нікопольський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100010000093577",
+      "name": "Губиниська селищна громада",
+      "name_en": "Hubynyska selyshchna hromada",
+      "slug": "hubynyska-selyshchna-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100030000084605",
+      "name": "Личківська сільська рада",
+      "name_en": "Lychkivska silska rada",
+      "slug": "lychkivska-silska-rada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100030000084605",
+      "name": "Личківська сільська громада",
+      "name_en": "Lychkivska silska hromada",
+      "slug": "lychkivska-silska-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100050000045992",
+      "name": "Магдалинівська селищна громада",
+      "name_en": "Mahdalynivska selyshchna hromada",
+      "slug": "mahdalynivska-selyshchna-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100070000011492",
+      "name": "Самарівська міська громада",
+      "name_en": "Samarivska miska hromada",
+      "slug": "samarivska-miska-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100090000022751",
+      "name": "Перещепинська міська громада",
+      "name_en": "Pereshchepynska miska hromada",
+      "slug": "pereshchepynska-miska-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100110000043499",
+      "name": "Піщанська сільська громада",
+      "name_en": "Pishchanska silska hromada",
+      "slug": "pishchanska-silska-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100130000095653",
+      "name": "Черкаська селищна громада",
+      "name_en": "Cherkaska selyshchna hromada",
+      "slug": "cherkaska-selyshchna-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12100150000039396",
+      "name": "Чернеччинська сільська громада",
+      "name_en": "Chernechchynska silska hromada",
+      "slug": "chernechchynska-silska-hromada",
+      "rayon_code": "UA12100000000039307",
+      "rayon_name": "Самарівський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120010000087180",
+      "name": "Богданівська сільська об'єднана територіальна громада",
+      "name_en": "Bohdanivska silska obyednana terytorialna hromada",
+      "slug": "bohdanivska-silska-obyednana-terytorialna-hromada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120030000075687",
+      "name": "Вербківська сільська громада",
+      "name_en": "Verbkivska silska hromada",
+      "slug": "verbkivska-silska-hromada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120050000027007",
+      "name": "Межиріцька сільська рада",
+      "name_en": "Mezhyritska silska rada",
+      "slug": "mezhyritska-silska-rada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120050000027007",
+      "name": "Межиріцька сільська громада",
+      "name_en": "Mezhyritska silska hromada",
+      "slug": "mezhyritska-silska-hromada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120070000057518",
+      "name": "Павлоградська міська громада",
+      "name_en": "Pavlohradska miska hromada",
+      "slug": "pavlohradska-miska-hromada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120110000010894",
+      "name": "Троїцька сільська рада",
+      "name_en": "Troitska silska rada",
+      "slug": "troitska-silska-rada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12120110000010894",
+      "name": "Троїцька сільська громада",
+      "name_en": "Troitska silska hromada",
+      "slug": "troitska-silska-hromada",
+      "rayon_code": "UA12120000000089862",
+      "rayon_name": "Павлоградський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140010000024967",
+      "name": "Брагинівська сільська рада",
+      "name_en": "Brahynivska silska rada",
+      "slug": "brahynivska-silska-rada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140030000091432",
+      "name": "Васильківська селищна громада",
+      "name_en": "Vasylkivska selyshchna hromada",
+      "slug": "vasylkivska-selyshchna-hromada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140050000051356",
+      "name": "Великомихайлівська сільська рада",
+      "name_en": "Velykomykhailivska silska rada",
+      "slug": "velykomykhailivska-silska-rada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140050000051356",
+      "name": "Великомихайлівська сільська громада",
+      "name_en": "Velykomykhailivska silska hromada",
+      "slug": "velykomykhailivska-silska-hromada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140070000025486",
+      "name": "Миколаївська сільська рада",
+      "name_en": "Mykolaivska silska rada",
+      "slug": "mykolaivska-silska-rada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140170000037152",
+      "name": "Миколаївська сільська громада",
+      "name_en": "Mykolaivska silska hromada",
+      "slug": "mykolaivska-silska-hromada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140190000047361",
+      "name": "Новопавлівська сільська рада",
+      "name_en": "Novopavlivska silska rada",
+      "slug": "novopavlivska-silska-rada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140210000089021",
+      "name": "Першотравенська міська громада",
+      "name_en": "Pershotravenska miska hromada",
+      "slug": "pershotravenska-miska-hromada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140310000078816",
+      "name": "Синельниківська міська громада",
+      "name_en": "Synelnykivska miska hromada",
+      "slug": "synelnykivska-miska-hromada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140350000058140",
+      "name": "Слов'янська сільська рада",
+      "name_en": "Slovyanska silska rada",
+      "slug": "slovyanska-silska-rada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    },
+    {
+      "code": "UA12140370000059352",
+      "name": "Українська сільська громада",
+      "name_en": "Ukrainska silska hromada",
+      "slug": "ukrainska-silska-hromada",
+      "rayon_code": "UA12140000000011720",
+      "rayon_name": "Синельниківський район",
+      "oblast_id": 4,
+      "oblast_name": "Дніпропетровська область",
+      "oblast_slug": "dnipropetrovska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Дніпропетровської області - Безкоштовне завантаження",
+    "description": "Список 82 територіальних громад Дніпропетровської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 82 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Дніпропетровської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Дніпропетровської області — 82 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 82 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

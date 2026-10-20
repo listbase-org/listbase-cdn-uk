@@ -1,0 +1,256 @@
+{
+  "id": "uk-zakarpatska-mista",
+  "name": "Міста Закарпатської області",
+  "title": "Міста Закарпатської області",
+  "description": "Список 11 міст Закарпатської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA21020030010083215",
+      "name": "Берегове",
+      "name_en": "Berehove",
+      "slug": "berehove",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21020030000019624",
+      "hromada_name": "Берегівська міська громада",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020110010043238",
+      "name": "Виноградів",
+      "name_en": "Vynohradiv",
+      "slug": "vynohradiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21020110000091104",
+      "hromada_name": "Виноградівська міська громада",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040150010056148",
+      "name": "Мукачево",
+      "name_en": "Mukachevo",
+      "slug": "mukachevo",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21040150000092428",
+      "hromada_name": "Мукачівська міська громада",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040230010045142",
+      "name": "Свалява",
+      "name_en": "Svaliava",
+      "slug": "svaliava",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21040230000091606",
+      "hromada_name": "Свалявська міська громада",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21060050010040895",
+      "name": "Рахів",
+      "name_en": "Rakhiv",
+      "slug": "rakhiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21060050000029937",
+      "hromada_name": "Рахівська міська громада",
+      "rayon_name": "Рахівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080150010051267",
+      "name": "Тячів",
+      "name_en": "Tiachiv",
+      "slug": "tiachiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21080150000014443",
+      "hromada_name": "Тячівська міська громада",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100130010027304",
+      "name": "Перечин",
+      "name_en": "Perechyn",
+      "slug": "perechyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21100130000055002",
+      "hromada_name": "Перечинська міська громада",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100230010016545",
+      "name": "Ужгород",
+      "name_en": "Uzhhorod",
+      "slug": "uzhhorod",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21100230000083101",
+      "hromada_name": "Ужгородська міська громада",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100270010071297",
+      "name": "Чоп",
+      "name_en": "Chop",
+      "slug": "chop",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21100270000015047",
+      "hromada_name": "Чопська міська громада",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120130010065349",
+      "name": "Іршава",
+      "name_en": "Irshava",
+      "slug": "irshava",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21120130000025618",
+      "hromada_name": "Іршавська міська громада",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120250010053148",
+      "name": "Хуст",
+      "name_en": "Khust",
+      "slug": "khust",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA21120250000077532",
+      "hromada_name": "Хустська міська громада",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Закарпатської області - Безкоштовне завантаження",
+    "description": "Список 11 міст Закарпатської області (категорія М у КАТОТТГ). Містить 11 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Закарпатської області | ListBase",
+    "seo_description": "Завантажити Міста Закарпатської області — 11 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 11 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

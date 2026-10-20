@@ -1,0 +1,64 @@
+{
+  "id": "uk-chasovi-poyasy-arctic",
+  "name": "Часові пояси — Arctic (1)",
+  "title": "Часові пояси — Arctic (1)",
+  "description": "Часові пояси, ідентифікатор IANA яких починається на 'Arctic/', з назвами українською.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "standartna_nazva",
+      "label": "Standartna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "litnia_nazva",
+      "label": "Litnia Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Arctic/Longyearbyen",
+      "rehion": "Arctic",
+      "misto": "Лонгʼїр",
+      "standartna_nazva": "",
+      "litnia_nazva": ""
+    }
+  ],
+  "meta": {
+    "title": "Часові пояси — Arctic (1) - Безкоштовне завантаження",
+    "description": "Часові пояси, ідентифікатор IANA яких починається на 'Arctic/', з назвами українською. Містить 1 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Часові пояси — Arctic (1) | ListBase",
+    "seo_description": "Завантажити Часові пояси — Arctic (1) — 1 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 1 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

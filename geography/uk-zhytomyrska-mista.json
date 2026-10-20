@@ -1,0 +1,271 @@
+{
+  "id": "uk-zhytomyrska-mista",
+  "name": "Міста Житомирської області",
+  "title": "Міста Житомирської області",
+  "description": "Список 12 міст Житомирської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA18020010010097402",
+      "name": "Андрушівка",
+      "name_en": "Andrushivka",
+      "slug": "andrushivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18020010000059904",
+      "hromada_name": "Андрушівська міська громада",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18020030010047029",
+      "name": "Бердичів",
+      "name_en": "Berdychiv",
+      "slug": "berdychiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18020030000035625",
+      "hromada_name": "Бердичівська міська громада",
+      "rayon_name": "Бердичівський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040190010057814",
+      "name": "Житомир",
+      "name_en": "Zhytomyr",
+      "slug": "zhytomyr",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18040190000029215",
+      "hromada_name": "Житомирська міська громада",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040250010085012",
+      "name": "Коростишів",
+      "name_en": "Korostyshiv",
+      "slug": "korostyshiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18040250000068141",
+      "hromada_name": "Коростишівська міська громада",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040450010049683",
+      "name": "Радомишль",
+      "name_en": "Radomyshl",
+      "slug": "radomyshl",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18040450000079138",
+      "hromada_name": "Радомишльська міська громада",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18040610010066897",
+      "name": "Чуднів",
+      "name_en": "Chudniv",
+      "slug": "chudniv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18040610000049084",
+      "hromada_name": "Чуднівська міська громада",
+      "rayon_name": "Житомирський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060090010074365",
+      "name": "Коростень",
+      "name_en": "Korosten",
+      "slug": "korosten",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18060090000061708",
+      "hromada_name": "Коростенська міська громада",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060130010010134",
+      "name": "Малин",
+      "name_en": "Malyn",
+      "slug": "malyn",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18060130000061781",
+      "hromada_name": "Малинська міська громада",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060170010010060",
+      "name": "Овруч",
+      "name_en": "Ovruch",
+      "slug": "ovruch",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18060170000069581",
+      "hromada_name": "Овруцька міська громада",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18060190010064821",
+      "name": "Олевськ",
+      "name_en": "Olevsk",
+      "slug": "olevsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18060190000071101",
+      "hromada_name": "Олевська міська громада",
+      "rayon_name": "Коростенський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080010010059187",
+      "name": "Баранівка",
+      "name_en": "Baranivka",
+      "slug": "baranivka",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18080010000090720",
+      "hromada_name": "Баранівська міська громада",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    },
+    {
+      "code": "UA18080150010017476",
+      "name": "Звягель",
+      "name_en": "Zviahel",
+      "slug": "zviahel",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA18080150000022496",
+      "hromada_name": "Звягельська міська громада",
+      "rayon_name": "Звягельський район",
+      "oblast_id": 6,
+      "oblast_name": "Житомирська область",
+      "oblast_slug": "zhytomyrska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Житомирської області - Безкоштовне завантаження",
+    "description": "Список 12 міст Житомирської області (категорія М у КАТОТТГ). Містить 12 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Житомирської області | ListBase",
+    "seo_description": "Завантажити Міста Житомирської області — 12 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 12 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

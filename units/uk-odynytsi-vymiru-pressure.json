@@ -1,0 +1,169 @@
+{
+  "id": "uk-odynytsi-vymiru-pressure",
+  "name": "Одиниці вимірювання — категорія 'pressure' (12)",
+  "title": "Одиниці вимірювання — категорія 'pressure' (12)",
+  "description": "Одиниці вимірювання категорії 'pressure' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "katehoriia": "pressure",
+      "nazva": "атмосфери",
+      "skorochennia": "атм",
+      "vuzka_forma": "атм",
+      "vzirets": "{0} атмосфери"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "katehoriia": "pressure",
+      "nazva": "бари",
+      "skorochennia": "бар",
+      "vuzka_forma": "бар",
+      "vzirets": "{0} бара"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "katehoriia": "pressure",
+      "nazva": "gas E",
+      "skorochennia": "gas E",
+      "vuzka_forma": "gas E",
+      "vzirets": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "katehoriia": "pressure",
+      "nazva": "гектопаскалі",
+      "skorochennia": "гПа",
+      "vuzka_forma": "гПа",
+      "vzirets": "{0} гектопаскаля"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "katehoriia": "pressure",
+      "nazva": "дюйми ртутного стовпа",
+      "skorochennia": "дюйми рт. ст.",
+      "vuzka_forma": "дмрс",
+      "vzirets": "{0} дюйма ртутного стовпа"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "katehoriia": "pressure",
+      "nazva": "кілопаскалі",
+      "skorochennia": "кПа",
+      "vuzka_forma": "кПа",
+      "vzirets": "{0} кілопаскаля"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "katehoriia": "pressure",
+      "nazva": "мегапаскалі",
+      "skorochennia": "МПа",
+      "vuzka_forma": "МПа",
+      "vzirets": "{0} мегапаскаля"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "katehoriia": "pressure",
+      "nazva": "мілібари",
+      "skorochennia": "мбар",
+      "vuzka_forma": "мбар",
+      "vzirets": "{0} мілібара"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "katehoriia": "pressure",
+      "nazva": "міліметри ртутного стовпа",
+      "skorochennia": "мм рт. ст.",
+      "vuzka_forma": "ммрс",
+      "vzirets": "{0} міліметра ртутного стовпа"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "katehoriia": "pressure",
+      "nazva": "ртутного стовпа",
+      "skorochennia": "рт. ст",
+      "vuzka_forma": "рс",
+      "vzirets": "{0} ртутного стовпа"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "katehoriia": "pressure",
+      "nazva": "паскалі",
+      "skorochennia": "Па",
+      "vuzka_forma": "Па",
+      "vzirets": "{0} паскаля"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "katehoriia": "pressure",
+      "nazva": "фунти на квадратний дюйм",
+      "skorochennia": "фунт/дюйм²",
+      "vuzka_forma": "фнт/дюйм²",
+      "vzirets": "{0} фунта на квадратний дюйм"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'pressure' (12) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'pressure' з локалі uk у CLDR, з назвами українською. Містить 12 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'pressure' (12) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'pressure' (12) — 12 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 12 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

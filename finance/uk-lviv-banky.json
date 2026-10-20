@@ -1,0 +1,149 @@
+{
+  "id": "uk-lviv-banky",
+  "name": "Банки в Львові — коди SWIFT/BIC (Lviv bank SWIFT/BIC codes)",
+  "title": "Банки в Львові — коди SWIFT/BIC (Lviv bank SWIFT/BIC codes)",
+  "description": "Перелік: 14 банківських установ у місті Львів (Lviv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"LVIV\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 41,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "LVIV",
+      "branch": "(LVIV BRANCH)",
+      "swift_code": "FUIBUA2XLVO"
+    },
+    {
+      "id": 54,
+      "bank": "JOINT STOCK COMPANY 'ACCENT-BANK'",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "UKCBUAU102V"
+    },
+    {
+      "id": 61,
+      "bank": "JSC KREDOBANK (FORMERLY JSC KREDYT BANK(UKRAINA))",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "WUCBUA2X"
+    },
+    {
+      "id": 77,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "LVIV",
+      "branch": "(LVIV BRANCH)",
+      "swift_code": "EXBSUAUXLVI"
+    },
+    {
+      "id": 94,
+      "bank": "JSCB INDUSTRIALBANK UKRAINE",
+      "city": "LVIV",
+      "branch": "(LVIV BRANCH)",
+      "swift_code": "IJSOUA2NLVI"
+    },
+    {
+      "id": 101,
+      "bank": "LVIV BANK",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "LVIVUA2X"
+    },
+    {
+      "id": 113,
+      "bank": "MEGABANK PJSC",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "DBBKUA2KLVI"
+    },
+    {
+      "id": 125,
+      "bank": "OKCI BANK, PJSC",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "OKCIUA2X"
+    },
+    {
+      "id": 171,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "PBANUA2XLVI"
+    },
+    {
+      "id": 199,
+      "bank": "PJSC 'EXPRESS-BANK'",
+      "city": "LVIV",
+      "branch": "(LVIV BRANCH)",
+      "swift_code": "EXPBUAUKLVI"
+    },
+    {
+      "id": 202,
+      "bank": "PJSC IDEA BANK",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "IDBAUAUK"
+    },
+    {
+      "id": 211,
+      "bank": "PJSC VS BANK",
+      "city": "LVIV",
+      "branch": "",
+      "swift_code": "ELECUA2X"
+    },
+    {
+      "id": 241,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "LVIV",
+      "branch": "(LVIV REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKLVI"
+    },
+    {
+      "id": 274,
+      "bank": "'RAIFFEISEN BANK AVAL' PUBLIC JOINT STOCK COMPANY",
+      "city": "LVIV",
+      "branch": "(LVIV BRANCH)",
+      "swift_code": "AVALUAUKLVI"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Львові — коди SWIFT/BIC (Lviv bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 14 банківських установ у місті Львів (Lviv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"LVIV\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 14 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Львові — коди SWIFT/BIC (Lviv bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Львові — коди SWIFT/BIC (Lviv bank SWIFT/BIC codes) — 14 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 14 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "uk-odesa-banky",
+  "name": "Банки в Одесі — коди SWIFT/BIC (Odesa bank SWIFT/BIC codes)",
+  "title": "Банки в Одесі — коди SWIFT/BIC (Odesa bank SWIFT/BIC codes)",
+  "description": "Перелік: 12 банківських установ у місті Одеса (Odesa) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"ODESA\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 10,
+      "bank": "BANK PIVDENNYI",
+      "city": "ODESA",
+      "branch": "",
+      "swift_code": "PIVDUA22"
+    },
+    {
+      "id": 44,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "ODESA",
+      "branch": "(ODESA BRANCH)",
+      "swift_code": "FUIBUA2XODE"
+    },
+    {
+      "id": 80,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "ODESA",
+      "branch": "(ODESA BRANCH)",
+      "swift_code": "EXBSUAUXODE"
+    },
+    {
+      "id": 103,
+      "bank": "MARFIN BANK",
+      "city": "ODESA",
+      "branch": "(ODESA CENTRAL BRANCH)",
+      "swift_code": "MTBAUA2DODE"
+    },
+    {
+      "id": 118,
+      "bank": "MISTO BANK",
+      "city": "ODESA",
+      "branch": "",
+      "swift_code": "MIBKUA2D"
+    },
+    {
+      "id": 123,
+      "bank": "ODESSA COMMODITY EXCHANGE",
+      "city": "ODESA",
+      "branch": "",
+      "swift_code": "XODEUA21"
+    },
+    {
+      "id": 124,
+      "bank": "ODESSA-BANK JSCB",
+      "city": "ODESA",
+      "branch": "",
+      "swift_code": "ODBKUA21"
+    },
+    {
+      "id": 177,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "ODESA",
+      "branch": "(ODESA BRANCH)",
+      "swift_code": "PBANUA2XODF"
+    },
+    {
+      "id": 200,
+      "bank": "PJSC 'EXPRESS-BANK'",
+      "city": "ODESA",
+      "branch": "(ODESA BRANCH)",
+      "swift_code": "EXPBUAUKODE"
+    },
+    {
+      "id": 243,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "ODESA",
+      "branch": "(ODESA REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKODE"
+    },
+    {
+      "id": 266,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "ODESA",
+      "branch": "(ODESA BRANCH)",
+      "swift_code": "OTPVUAU1500"
+    },
+    {
+      "id": 275,
+      "bank": "'RAIFFEISEN BANK AVAL' PUBLIC JOINT STOCK COMPANY",
+      "city": "ODESA",
+      "branch": "(ODESA BRANCH)",
+      "swift_code": "AVALUAUKODE"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Одесі — коди SWIFT/BIC (Odesa bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 12 банківських установ у місті Одеса (Odesa) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"ODESA\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 12 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Одесі — коди SWIFT/BIC (Odesa bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Одесі — коди SWIFT/BIC (Odesa bank SWIFT/BIC codes) — 12 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 12 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

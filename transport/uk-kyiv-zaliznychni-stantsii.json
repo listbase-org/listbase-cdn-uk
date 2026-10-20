@@ -1,0 +1,220 @@
+{
+  "id": "uk-kyiv-zaliznychni-stantsii",
+  "name": "Залізничні станції — Київ",
+  "title": "Залізничні станції — Київ",
+  "description": "Залізничні станції та зупинні пункти в межах адміністративної одиниці «Київ» (Kyiv, UA-30), 7 записів. Підмножина національного набору «uk-zaliznychni-stantsii» (Вікідані, CC0). Кожен запис містить українську та англійську назву, координати WGS84, посилання на Вікідані та похідну прив’язку до області з відстанню до найближчої опорної точки.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_uk",
+      "label": "Admin Area Uk",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "oblast_uk",
+      "label": "Oblast Uk",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "vidstan_do_naiblyzhchoi_tochky_km",
+      "label": "Vidstan Do Naiblyzhchoi Tochky Km",
+      "type": "number"
+    },
+    {
+      "key": "vidstan_do_oblasti_km",
+      "label": "Vidstan Do Oblasti Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q5544631",
+      "name_uk": "17 км",
+      "name_en": "17 km",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.48371,
+      "longitude": 30.55765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5544631",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 4.018,
+      "vidstan_do_oblasti_km": 4.018
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q12084353",
+      "name_uk": "Ботанічна",
+      "name_en": "Botanichna Railway Halt",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.4078,
+      "longitude": 30.5681,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12084353",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 6.086,
+      "vidstan_do_oblasti_km": 6.086
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q16701527",
+      "name_uk": "Грушки",
+      "name_en": "Hrushky Railway Station",
+      "admin_area_uk": "",
+      "admin_area_en": "",
+      "latitude": 50.452278,
+      "longitude": 30.410944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16701527",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 5.617,
+      "vidstan_do_oblasti_km": 7.995
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4220100",
+      "name_uk": "Київ-Деміївський",
+      "name_en": "Kyiv-Demiivskyi",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.405194,
+      "longitude": 30.537556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4220100",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 5.59,
+      "vidstan_do_oblasti_km": 5.59
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4220101",
+      "name_uk": "Київ-Товарний",
+      "name_en": "Kiev-Tovarnyi",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.43025,
+      "longitude": 30.504417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4220101",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 3.046,
+      "vidstan_do_oblasti_km": 3.046
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4256717",
+      "name_uk": "Лівобережна",
+      "name_en": "Livoberezhna",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.4529,
+      "longitude": 30.6036,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4256717",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 5.653,
+      "vidstan_do_oblasti_km": 5.653
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3406798",
+      "name_uk": "Почайна",
+      "name_en": "Pochaina",
+      "admin_area_uk": "Київ",
+      "admin_area_en": "Kyiv",
+      "latitude": 50.484917,
+      "longitude": 30.498806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3406798",
+      "oblast_uk": "Київ",
+      "oblast_en": "Kyiv",
+      "oblast_slug": "kyiv",
+      "iso_3166_2": "UA-30",
+      "vidstan_do_naiblyzhchoi_tochky_km": 3.797,
+      "vidstan_do_oblasti_km": 3.797
+    }
+  ],
+  "meta": {
+    "title": "Залізничні станції — Київ - Безкоштовне завантаження",
+    "description": "Залізничні станції та зупинні пункти в межах адміністративної одиниці «Київ» (Kyiv, UA-30), 7 записів. Підмножина національного набору «uk-zaliznychni-stantsii» (Вікідані, CC0). Кожен запис містить українську та англійську назву, координати WGS84, посилання на Вікідані та похідну прив’язку до області з відстанню до найближчої опорної точки. Містить 7 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Залізничні станції — Київ | ListBase",
+    "seo_description": "Завантажити Залізничні станції — Київ — 7 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 7 записів / 15 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

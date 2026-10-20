@@ -1,0 +1,2140 @@
+{
+  "id": "uk-odynytsi-vymiru",
+  "name": "Одиниці вимірювання — назви українською (CLDR)",
+  "title": "Одиниці вимірювання — назви українською (CLDR)",
+  "description": "Перелік одиниць вимірювання з локалі uk у CLDR — з повною назвою (nazva), скороченням (skorochennia), вузькою формою (vuzka_forma) та взірцем відображення (vzirets).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "katehoriia": "acceleration",
+      "nazva": "прискорення вільного падіння",
+      "skorochennia": "g",
+      "vuzka_forma": "g",
+      "vzirets": "{0} g"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "katehoriia": "acceleration",
+      "nazva": "метри на секунду у квадраті",
+      "skorochennia": "метри/с²",
+      "vuzka_forma": "м/с²",
+      "vzirets": "{0} метра на секунду у квадраті"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "katehoriia": "angle",
+      "nazva": "кутові мінути",
+      "skorochennia": "кут. мін.",
+      "vuzka_forma": "′",
+      "vzirets": "{0} кутової мінути"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "katehoriia": "angle",
+      "nazva": "кутові секунди",
+      "skorochennia": "кут. сек.",
+      "vuzka_forma": "″",
+      "vzirets": "{0} кутової секунди"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "katehoriia": "angle",
+      "nazva": "градуси",
+      "skorochennia": "градуси",
+      "vuzka_forma": "°",
+      "vzirets": "{0} градуса"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "katehoriia": "angle",
+      "nazva": "радіани",
+      "skorochennia": "радіани",
+      "vuzka_forma": "рад.",
+      "vzirets": "{0} радіана"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "katehoriia": "angle",
+      "nazva": "оберти",
+      "skorochennia": "об",
+      "vuzka_forma": "об",
+      "vzirets": "{0} оберта"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "katehoriia": "angle",
+      "nazva": "стерадіани",
+      "skorochennia": "ср",
+      "vuzka_forma": "ср",
+      "vzirets": "{0} стерадіана"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "katehoriia": "area",
+      "nazva": "акри",
+      "skorochennia": "акри",
+      "vuzka_forma": "акр",
+      "vzirets": "{0} акра"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "katehoriia": "area",
+      "nazva": "bu [JP]",
+      "skorochennia": "bu [JP]",
+      "vuzka_forma": "bu [JP]",
+      "vzirets": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "katehoriia": "area",
+      "nazva": "cho [JP]",
+      "skorochennia": "cho [JP]",
+      "vuzka_forma": "cho [JP]",
+      "vzirets": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "katehoriia": "area",
+      "nazva": "дунами",
+      "skorochennia": "дунами",
+      "vuzka_forma": "дун.",
+      "vzirets": "{0} дунама"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "katehoriia": "area",
+      "nazva": "гектари",
+      "skorochennia": "га",
+      "vuzka_forma": "га",
+      "vzirets": "{0} гектара"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "katehoriia": "area",
+      "nazva": "se [JP]",
+      "skorochennia": "se [JP]",
+      "vuzka_forma": "se [JP]",
+      "vzirets": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "katehoriia": "area",
+      "nazva": "квадратні сантиметри",
+      "skorochennia": "см²",
+      "vuzka_forma": "см²",
+      "vzirets": "{0} квадратного сантиметра"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "katehoriia": "area",
+      "nazva": "квадратні фути",
+      "skorochennia": "фути²",
+      "vuzka_forma": "фт²",
+      "vzirets": "{0} квадратного фута"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "katehoriia": "area",
+      "nazva": "квадратні дюйми",
+      "skorochennia": "дюйми²",
+      "vuzka_forma": "дюйм²",
+      "vzirets": "{0} квадратного дюйма"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "katehoriia": "area",
+      "nazva": "квадратні кілометри",
+      "skorochennia": "км²",
+      "vuzka_forma": "км²",
+      "vzirets": "{0} квадратного кілометра"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "katehoriia": "area",
+      "nazva": "квадратні метри",
+      "skorochennia": "м²",
+      "vuzka_forma": "м²",
+      "vzirets": "{0} квадратного метра"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "katehoriia": "area",
+      "nazva": "квадратні милі",
+      "skorochennia": "милі²",
+      "vuzka_forma": "мл²",
+      "vzirets": "{0} квадратної милі"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "katehoriia": "area",
+      "nazva": "квадратні ярди",
+      "skorochennia": "ярди²",
+      "vuzka_forma": "ярд²",
+      "vzirets": "{0} квадратного ярда"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "katehoriia": "concentr",
+      "nazva": "елементи",
+      "skorochennia": "ел.",
+      "vuzka_forma": "ел.",
+      "vzirets": "{0} елемента"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "katehoriia": "concentr",
+      "nazva": "карати",
+      "skorochennia": "карати",
+      "vuzka_forma": "кар.",
+      "vzirets": "{0} карата"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "katehoriia": "concentr",
+      "nazva": "катали",
+      "skorochennia": "кат",
+      "vuzka_forma": "кат",
+      "vzirets": "{0} катала"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "katehoriia": "concentr",
+      "nazva": "міліграми на децилітр",
+      "skorochennia": "мг/дл",
+      "vuzka_forma": "мг/дл",
+      "vzirets": "{0} міліграма на децилітр"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "katehoriia": "concentr",
+      "nazva": "мілімолі на літр",
+      "skorochennia": "мілімоль/літр",
+      "vuzka_forma": "ммоль/л",
+      "vzirets": "{0} мілімоля на літр"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "katehoriia": "concentr",
+      "nazva": "молі",
+      "skorochennia": "моль",
+      "vuzka_forma": "моль",
+      "vzirets": "{0} моля"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "katehoriia": "concentr",
+      "nazva": "одиниці глюкози",
+      "skorochennia": "од. глюкози",
+      "vuzka_forma": "од.гл.",
+      "vzirets": "{0} одиниці глюкози"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "katehoriia": "concentr",
+      "nazva": "частки",
+      "skorochennia": "част.",
+      "vuzka_forma": "ч.",
+      "vzirets": "{0} частки"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "katehoriia": "concentr",
+      "nazva": "мільйонні частки",
+      "skorochennia": "ч/млн",
+      "vuzka_forma": "ч/млн",
+      "vzirets": "{0} мільйонної частки"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "katehoriia": "concentr",
+      "nazva": "мільярдні частки",
+      "skorochennia": "ч/млрд",
+      "vuzka_forma": "ч/млрд",
+      "vzirets": "{0} мільярдної частки"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "katehoriia": "concentr",
+      "nazva": "відсотки",
+      "skorochennia": "%",
+      "vuzka_forma": "%",
+      "vzirets": "{0} відсотка"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "katehoriia": "concentr",
+      "nazva": "проміле",
+      "skorochennia": "‰",
+      "vuzka_forma": "‰",
+      "vzirets": "{0} проміле"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "katehoriia": "concentr",
+      "nazva": "проміріад",
+      "skorochennia": "‱",
+      "vuzka_forma": "‱",
+      "vzirets": "{0} проміріада"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "katehoriia": "consumption",
+      "nazva": "літри на 100 кілометрів",
+      "skorochennia": "л/100 км",
+      "vuzka_forma": "л/100 км",
+      "vzirets": "{0} літра на 100 кілометрів"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "katehoriia": "consumption",
+      "nazva": "літри на кілометр",
+      "skorochennia": "літри/км",
+      "vuzka_forma": "л/км",
+      "vzirets": "{0} літра на кілометр"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "katehoriia": "consumption",
+      "nazva": "милі на галон",
+      "skorochennia": "милі/гал",
+      "vuzka_forma": "мл/гал",
+      "vzirets": "{0} милі на галон"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "katehoriia": "consumption",
+      "nazva": "милі на англійський галон",
+      "skorochennia": "милі/англ. гал",
+      "vuzka_forma": "мл/англ.гал",
+      "vzirets": "{0} милі на англійський галон"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "katehoriia": "digital",
+      "nazva": "біти",
+      "skorochennia": "біт",
+      "vuzka_forma": "б",
+      "vzirets": "{0} біта"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "katehoriia": "digital",
+      "nazva": "байти",
+      "skorochennia": "байт",
+      "vuzka_forma": "Б",
+      "vzirets": "{0} байта"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "katehoriia": "digital",
+      "nazva": "гігабіти",
+      "skorochennia": "Гбіт",
+      "vuzka_forma": "Гб",
+      "vzirets": "{0} гігабіта"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "katehoriia": "digital",
+      "nazva": "гігабайти",
+      "skorochennia": "Гбайт",
+      "vuzka_forma": "ГБ",
+      "vzirets": "{0} гігабайта"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "katehoriia": "digital",
+      "nazva": "кілобіти",
+      "skorochennia": "кбіт",
+      "vuzka_forma": "кб",
+      "vzirets": "{0} кілобіта"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "katehoriia": "digital",
+      "nazva": "кілобайти",
+      "skorochennia": "кбайт",
+      "vuzka_forma": "кБ",
+      "vzirets": "{0} кілобайта"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "katehoriia": "digital",
+      "nazva": "мегабіти",
+      "skorochennia": "Мбіт",
+      "vuzka_forma": "Мб",
+      "vzirets": "{0} мегабіта"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "katehoriia": "digital",
+      "nazva": "мегабайти",
+      "skorochennia": "Мбайт",
+      "vuzka_forma": "МБ",
+      "vzirets": "{0} мегабайта"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "katehoriia": "digital",
+      "nazva": "петабайти",
+      "skorochennia": "Пбайт",
+      "vuzka_forma": "Пбайт",
+      "vzirets": "{0} петабайта"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "katehoriia": "digital",
+      "nazva": "терабіти",
+      "skorochennia": "Тбіт",
+      "vuzka_forma": "Тб",
+      "vzirets": "{0} терабіта"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "katehoriia": "digital",
+      "nazva": "терабайти",
+      "skorochennia": "Тбайт",
+      "vuzka_forma": "ТБ",
+      "vzirets": "{0} терабайта"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "katehoriia": "duration",
+      "nazva": "століття",
+      "skorochennia": "ст.",
+      "vuzka_forma": "ст",
+      "vzirets": "{0} століття"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "katehoriia": "duration",
+      "nazva": "дні",
+      "skorochennia": "дн.",
+      "vuzka_forma": "д",
+      "vzirets": "{0} дня"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "katehoriia": "duration",
+      "nazva": "десятиліття",
+      "skorochennia": "10-ліття",
+      "vuzka_forma": "10-літ.",
+      "vzirets": "{0} десятиліття"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "katehoriia": "duration",
+      "nazva": "fortnight",
+      "skorochennia": "fortnight",
+      "vuzka_forma": "fortnight",
+      "vzirets": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "katehoriia": "duration",
+      "nazva": "години",
+      "skorochennia": "год",
+      "vuzka_forma": "г",
+      "vzirets": "{0} години"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "katehoriia": "duration",
+      "nazva": "мікросекунди",
+      "skorochennia": "мкс",
+      "vuzka_forma": "мкс",
+      "vzirets": "{0} мікросекунди"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "katehoriia": "duration",
+      "nazva": "мілісекунди",
+      "skorochennia": "мс",
+      "vuzka_forma": "мс",
+      "vzirets": "{0} мілісекунди"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "katehoriia": "duration",
+      "nazva": "хвилини",
+      "skorochennia": "хв",
+      "vuzka_forma": "х",
+      "vzirets": "{0} хвилини"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "katehoriia": "duration",
+      "nazva": "місяці",
+      "skorochennia": "міс.",
+      "vuzka_forma": "м",
+      "vzirets": "{0} місяця"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "katehoriia": "duration",
+      "nazva": "наносекунди",
+      "skorochennia": "нс",
+      "vuzka_forma": "нс",
+      "vzirets": "{0} наносекунди"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "katehoriia": "duration",
+      "nazva": "ночі",
+      "skorochennia": "нч.",
+      "vuzka_forma": "нч",
+      "vzirets": "{0} ночі"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "katehoriia": "duration",
+      "nazva": "квартали",
+      "skorochennia": "кв.",
+      "vuzka_forma": "кв",
+      "vzirets": "{0} кварталу"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "katehoriia": "duration",
+      "nazva": "секунди",
+      "skorochennia": "с",
+      "vuzka_forma": "с",
+      "vzirets": "{0} секунди"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "katehoriia": "duration",
+      "nazva": "тижні",
+      "skorochennia": "тиж.",
+      "vuzka_forma": "т",
+      "vzirets": "{0} тижня"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "katehoriia": "duration",
+      "nazva": "роки",
+      "skorochennia": "р.",
+      "vuzka_forma": "р",
+      "vzirets": "{0} року"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "katehoriia": "electric",
+      "nazva": "ампери",
+      "skorochennia": "А",
+      "vuzka_forma": "А",
+      "vzirets": "{0} ампера"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "katehoriia": "electric",
+      "nazva": "кулони",
+      "skorochennia": "Кл",
+      "vuzka_forma": "Кл",
+      "vzirets": "{0} кулона"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "katehoriia": "electric",
+      "nazva": "фаради",
+      "skorochennia": "Ф",
+      "vuzka_forma": "Ф",
+      "vzirets": "{0} фарада"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "katehoriia": "electric",
+      "nazva": "генрі",
+      "skorochennia": "Гн",
+      "vuzka_forma": "Гн",
+      "vzirets": "{0} генрі"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "katehoriia": "electric",
+      "nazva": "міліампери",
+      "skorochennia": "мА",
+      "vuzka_forma": "мА",
+      "vzirets": "{0} міліампера"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "katehoriia": "electric",
+      "nazva": "оми",
+      "skorochennia": "Ом",
+      "vuzka_forma": "Ом",
+      "vzirets": "{0} ома"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "katehoriia": "electric",
+      "nazva": "сіменси",
+      "skorochennia": "См",
+      "vuzka_forma": "См",
+      "vzirets": "{0} сіменса"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "katehoriia": "electric",
+      "nazva": "вольти",
+      "skorochennia": "В",
+      "vuzka_forma": "В",
+      "vzirets": "{0} вольта"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "katehoriia": "energy",
+      "nazva": "бекерелі",
+      "skorochennia": "Бк",
+      "vuzka_forma": "Бк",
+      "vzirets": "{0} бекереля"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "katehoriia": "energy",
+      "nazva": "британські теплові одиниці",
+      "skorochennia": "БТО",
+      "vuzka_forma": "БТО",
+      "vzirets": "{0} британської теплової одиниці"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "katehoriia": "energy",
+      "nazva": "BTU-IT",
+      "skorochennia": "BTU-IT",
+      "vuzka_forma": "BTU-IT",
+      "vzirets": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "katehoriia": "energy",
+      "nazva": "калорії",
+      "skorochennia": "кал",
+      "vuzka_forma": "кал",
+      "vzirets": "{0} калорії"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "katehoriia": "energy",
+      "nazva": "міжнародні калорії",
+      "skorochennia": "калмн",
+      "vuzka_forma": "калмн",
+      "vzirets": "{0} міжнародної калорії"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "katehoriia": "energy",
+      "nazva": "електрон-вольти",
+      "skorochennia": "еВ",
+      "vuzka_forma": "еВ",
+      "vzirets": "{0} електрон-вольта"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "katehoriia": "energy",
+      "nazva": "кілокалорії",
+      "skorochennia": "",
+      "vuzka_forma": "",
+      "vzirets": "{0} кілокалорії"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "katehoriia": "energy",
+      "nazva": "греї",
+      "skorochennia": "Гр",
+      "vuzka_forma": "Гр",
+      "vzirets": "{0} грея"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "katehoriia": "energy",
+      "nazva": "джоулі",
+      "skorochennia": "Дж",
+      "vuzka_forma": "Дж",
+      "vzirets": "{0} джоуля"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "katehoriia": "energy",
+      "nazva": "кілокалорії",
+      "skorochennia": "ккал",
+      "vuzka_forma": "ккал",
+      "vzirets": "{0} кілокалорії"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "katehoriia": "energy",
+      "nazva": "кілоджоулі",
+      "skorochennia": "кДж",
+      "vuzka_forma": "кДж",
+      "vzirets": "{0} кілоджоуля"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "katehoriia": "energy",
+      "nazva": "кіловат-години",
+      "skorochennia": "кВт⋅год",
+      "vuzka_forma": "кВт⋅год",
+      "vzirets": "{0} кіловат-години"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "katehoriia": "energy",
+      "nazva": "зіверти",
+      "skorochennia": "Зв",
+      "vuzka_forma": "Зв",
+      "vzirets": "{0} зіверта"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "katehoriia": "energy",
+      "nazva": "американські терми",
+      "skorochennia": "ам. терми",
+      "vuzka_forma": "ам. терм.",
+      "vzirets": "{0} американського терма"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "katehoriia": "force",
+      "nazva": "кілограм-сили",
+      "skorochennia": "кгс",
+      "vuzka_forma": "кгс",
+      "vzirets": "{0} кілограм-сили"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "katehoriia": "force",
+      "nazva": "кіловат-години на 100 кілометрів",
+      "skorochennia": "кВт⋅год/100 км",
+      "vuzka_forma": "кВт⋅год/100км",
+      "vzirets": "{0} кіловат-години на 100 кілометрів"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "katehoriia": "force",
+      "nazva": "ньютони",
+      "skorochennia": "ньютон",
+      "vuzka_forma": "Н",
+      "vzirets": "{0} ньютона"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "katehoriia": "force",
+      "nazva": "фунт-сили",
+      "skorochennia": "фунт-сила",
+      "vuzka_forma": "фнтс",
+      "vzirets": "{0} фунт-сили"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "katehoriia": "frequency",
+      "nazva": "гігагерци",
+      "skorochennia": "ГГц",
+      "vuzka_forma": "ГГц",
+      "vzirets": "{0} гігагерца"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "katehoriia": "frequency",
+      "nazva": "герци",
+      "skorochennia": "Гц",
+      "vuzka_forma": "Гц",
+      "vzirets": "{0} герца"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "katehoriia": "frequency",
+      "nazva": "кілогерци",
+      "skorochennia": "кГц",
+      "vuzka_forma": "кГц",
+      "vzirets": "{0} кілогерца"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "katehoriia": "frequency",
+      "nazva": "мегагерци",
+      "skorochennia": "МГц",
+      "vuzka_forma": "МГц",
+      "vzirets": "{0} мегагерца"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "katehoriia": "graphics",
+      "nazva": "точки",
+      "skorochennia": "тчк",
+      "vuzka_forma": "тчк",
+      "vzirets": "{0} точки"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "katehoriia": "graphics",
+      "nazva": "точки на сантиметр",
+      "skorochennia": "точки на см",
+      "vuzka_forma": "тчк/см",
+      "vzirets": "{0} точки на сантиметр"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "katehoriia": "graphics",
+      "nazva": "точки на дюйм",
+      "skorochennia": "тчк/дюйм",
+      "vuzka_forma": "тчк/“",
+      "vzirets": "{0} точки на дюйм"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "katehoriia": "graphics",
+      "nazva": "типографські еми",
+      "skorochennia": "ем",
+      "vuzka_forma": "ем",
+      "vzirets": "{0} типографського ема"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "katehoriia": "graphics",
+      "nazva": "мегапікселі",
+      "skorochennia": "Мпкс",
+      "vuzka_forma": "Мп",
+      "vzirets": "{0} мегапікселя"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "katehoriia": "graphics",
+      "nazva": "пікселі",
+      "skorochennia": "пкс",
+      "vuzka_forma": "п",
+      "vzirets": "{0} пікселя"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "katehoriia": "graphics",
+      "nazva": "пікселі на сантиметр",
+      "skorochennia": "пкс на см",
+      "vuzka_forma": "пкс/см",
+      "vzirets": "{0} пікселя на сантиметр"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "katehoriia": "graphics",
+      "nazva": "пікселі на дюйм",
+      "skorochennia": "пкс на дюйм",
+      "vuzka_forma": "пкс/“",
+      "vzirets": "{0} пікселя на дюйм"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "katehoriia": "length",
+      "nazva": "астрономічні одиниці",
+      "skorochennia": "а. о.",
+      "vuzka_forma": "а. о.",
+      "vzirets": "{0} астрономічної одиниці"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "katehoriia": "length",
+      "nazva": "сантиметри",
+      "skorochennia": "см",
+      "vuzka_forma": "см",
+      "vzirets": "{0} сантиметра"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "katehoriia": "length",
+      "nazva": "chain",
+      "skorochennia": "chain",
+      "vuzka_forma": "chain",
+      "vzirets": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "katehoriia": "length",
+      "nazva": "дециметри",
+      "skorochennia": "дм",
+      "vuzka_forma": "дм",
+      "vzirets": "{0} дециметра"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "katehoriia": "length",
+      "nazva": "радіуси Землі",
+      "skorochennia": "R⊕",
+      "vuzka_forma": "R⊕",
+      "vzirets": "{0} радіуса Землі"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "katehoriia": "length",
+      "nazva": "фатоми",
+      "skorochennia": "фатоми",
+      "vuzka_forma": "фтм",
+      "vzirets": "{0} фатома"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "katehoriia": "length",
+      "nazva": "фути",
+      "skorochennia": "фт",
+      "vuzka_forma": "фт",
+      "vzirets": "{0} фута"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "katehoriia": "length",
+      "nazva": "фурлонги",
+      "skorochennia": "фурлонги",
+      "vuzka_forma": "фрл",
+      "vzirets": "{0} фурлонга"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "katehoriia": "length",
+      "nazva": "дюйми",
+      "skorochennia": "дюйми",
+      "vuzka_forma": "дюйм",
+      "vzirets": "{0} дюйма"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "katehoriia": "length",
+      "nazva": "jo [JP]",
+      "skorochennia": "jo [JP]",
+      "vuzka_forma": "jo [JP]",
+      "vzirets": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "katehoriia": "length",
+      "nazva": "ken [JP]",
+      "skorochennia": "ken [JP]",
+      "vuzka_forma": "ken [JP]",
+      "vzirets": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "katehoriia": "length",
+      "nazva": "кілометри",
+      "skorochennia": "км",
+      "vuzka_forma": "км",
+      "vzirets": "{0} кілометра"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "katehoriia": "length",
+      "nazva": "світлові роки",
+      "skorochennia": "св. роки",
+      "vuzka_forma": "св. р.",
+      "vzirets": "{0} світлового року"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "katehoriia": "length",
+      "nazva": "метри",
+      "skorochennia": "м",
+      "vuzka_forma": "м",
+      "vzirets": "{0} метра"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "katehoriia": "length",
+      "nazva": "мікрометри",
+      "skorochennia": "мкм",
+      "vuzka_forma": "мкм",
+      "vzirets": "{0} мікрометра"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "katehoriia": "length",
+      "nazva": "милі",
+      "skorochennia": "милі",
+      "vuzka_forma": "мл",
+      "vzirets": "{0} милі"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "katehoriia": "length",
+      "nazva": "скандинавські милі",
+      "skorochennia": "сканд. милі",
+      "vuzka_forma": "ск.мл",
+      "vzirets": "{0} скандинавської милі"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "katehoriia": "length",
+      "nazva": "міліметри",
+      "skorochennia": "мм",
+      "vuzka_forma": "мм",
+      "vzirets": "{0} міліметра"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "katehoriia": "length",
+      "nazva": "нанометри",
+      "skorochennia": "нм",
+      "vuzka_forma": "нм",
+      "vzirets": "{0} нанометра"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "katehoriia": "length",
+      "nazva": "морські милі",
+      "skorochennia": "м. милі",
+      "vuzka_forma": "м. мл",
+      "vzirets": "{0} морської милі"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "katehoriia": "length",
+      "nazva": "парсеки",
+      "skorochennia": "парсеки",
+      "vuzka_forma": "парсек",
+      "vzirets": "{0} парсека"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "katehoriia": "length",
+      "nazva": "пікометри",
+      "skorochennia": "пм",
+      "vuzka_forma": "пм",
+      "vzirets": "{0} пікометра"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "katehoriia": "length",
+      "nazva": "пункти",
+      "skorochennia": "пт",
+      "vuzka_forma": "пт",
+      "vzirets": "{0} пункту"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "katehoriia": "length",
+      "nazva": "ri [JP]",
+      "skorochennia": "ri [JP]",
+      "vuzka_forma": "ri [JP]",
+      "vzirets": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "katehoriia": "length",
+      "nazva": "rin [JP]",
+      "skorochennia": "rin [JP]",
+      "vuzka_forma": "rin [JP]",
+      "vzirets": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "katehoriia": "length",
+      "nazva": "rod",
+      "skorochennia": "rod",
+      "vuzka_forma": "rod",
+      "vzirets": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "katehoriia": "length",
+      "nazva": "shaku [cloth, JP]",
+      "skorochennia": "shaku [cloth, JP]",
+      "vuzka_forma": "shaku [cloth, JP]",
+      "vzirets": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "katehoriia": "length",
+      "nazva": "shaku [JP]",
+      "skorochennia": "shaku [JP]",
+      "vuzka_forma": "shaku [JP]",
+      "vzirets": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "katehoriia": "length",
+      "nazva": "радіуси Сонця",
+      "skorochennia": "R☉",
+      "vuzka_forma": "R☉",
+      "vzirets": "{0} радіуса Сонця"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "katehoriia": "length",
+      "nazva": "sun [JP]",
+      "skorochennia": "sun [JP]",
+      "vuzka_forma": "sun [JP]",
+      "vzirets": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "katehoriia": "length",
+      "nazva": "ярди",
+      "skorochennia": "ярди",
+      "vuzka_forma": "ярд",
+      "vzirets": "{0} ярда"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "katehoriia": "light",
+      "nazva": "кандела",
+      "skorochennia": "кд",
+      "vuzka_forma": "кд",
+      "vzirets": "{0} кандели"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "katehoriia": "light",
+      "nazva": "люмени",
+      "skorochennia": "лм",
+      "vuzka_forma": "лм",
+      "vzirets": "{0} люмена"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "katehoriia": "light",
+      "nazva": "люкси",
+      "skorochennia": "люкс",
+      "vuzka_forma": "лк",
+      "vzirets": "{0} люкса"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "katehoriia": "light",
+      "nazva": "світності Сонця",
+      "skorochennia": "світності Сонця",
+      "vuzka_forma": "L☉",
+      "vzirets": "{0} світності Сонця"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "katehoriia": "magnetic",
+      "nazva": "тесли",
+      "skorochennia": "Тл",
+      "vuzka_forma": "Тл",
+      "vzirets": "{0} тесли"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "katehoriia": "magnetic",
+      "nazva": "вебери",
+      "skorochennia": "Вб",
+      "vuzka_forma": "Вб",
+      "vzirets": "{0} вебера"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "katehoriia": "mass",
+      "nazva": "карати",
+      "skorochennia": "кар.",
+      "vuzka_forma": "кар",
+      "vzirets": "{0} карата"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "katehoriia": "mass",
+      "nazva": "дальтони",
+      "skorochennia": "дальтони",
+      "vuzka_forma": "Да",
+      "vzirets": "{0} дальтона"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "katehoriia": "mass",
+      "nazva": "маси Землі",
+      "skorochennia": "маси Землі",
+      "vuzka_forma": "M⊕",
+      "vzirets": "{0} маси Землі"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "katehoriia": "mass",
+      "nazva": "fun [JP]",
+      "skorochennia": "fun [JP]",
+      "vuzka_forma": "fun [JP]",
+      "vzirets": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "katehoriia": "mass",
+      "nazva": "грани",
+      "skorochennia": "гран",
+      "vuzka_forma": "гр.",
+      "vzirets": "{0} грана"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "katehoriia": "mass",
+      "nazva": "грами",
+      "skorochennia": "г",
+      "vuzka_forma": "г",
+      "vzirets": "{0} грама"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "katehoriia": "mass",
+      "nazva": "кілограми",
+      "skorochennia": "кг",
+      "vuzka_forma": "кг",
+      "vzirets": "{0} кілограма"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "katehoriia": "mass",
+      "nazva": "мікрограми",
+      "skorochennia": "мкг",
+      "vuzka_forma": "мкг",
+      "vzirets": "{0} мікрограма"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "katehoriia": "mass",
+      "nazva": "міліграми",
+      "skorochennia": "мг",
+      "vuzka_forma": "мг",
+      "vzirets": "{0} міліграма"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "katehoriia": "mass",
+      "nazva": "унції",
+      "skorochennia": "унц.",
+      "vuzka_forma": "ун.",
+      "vzirets": "{0} унції"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "katehoriia": "mass",
+      "nazva": "тройські унції",
+      "skorochennia": "тр. унції",
+      "vuzka_forma": "тр. ун.",
+      "vzirets": "{0} тройської унції"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "katehoriia": "mass",
+      "nazva": "фунти",
+      "skorochennia": "фнт",
+      "vuzka_forma": "фнт",
+      "vzirets": "{0} фунта"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "katehoriia": "mass",
+      "nazva": "slug",
+      "skorochennia": "slug",
+      "vuzka_forma": "slug",
+      "vzirets": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "katehoriia": "mass",
+      "nazva": "маси Сонця",
+      "skorochennia": "маси Сонця",
+      "vuzka_forma": "M☉",
+      "vzirets": "{0} маси Сонця"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "katehoriia": "mass",
+      "nazva": "стоуни",
+      "skorochennia": "стн",
+      "vuzka_forma": "стн",
+      "vzirets": "{0} стоуна"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "katehoriia": "mass",
+      "nazva": "тонни",
+      "skorochennia": "т",
+      "vuzka_forma": "т",
+      "vzirets": "{0} тонни"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "katehoriia": "mass",
+      "nazva": "метричні тонни",
+      "skorochennia": "метр. т",
+      "vuzka_forma": "т",
+      "vzirets": "{0} метричної тонни"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "katehoriia": "power",
+      "nazva": "гігавати",
+      "skorochennia": "ГВт",
+      "vuzka_forma": "ГВт",
+      "vzirets": "{0} гігавата"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "katehoriia": "power",
+      "nazva": "кінські сили",
+      "skorochennia": "к. с.",
+      "vuzka_forma": "к. с.",
+      "vzirets": "{0} кінської сили"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "katehoriia": "power",
+      "nazva": "кіловати",
+      "skorochennia": "кВт",
+      "vuzka_forma": "кВт",
+      "vzirets": "{0} кіловата"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "katehoriia": "power",
+      "nazva": "мегавати",
+      "skorochennia": "МВт",
+      "vuzka_forma": "МВт",
+      "vzirets": "{0} мегавата"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "katehoriia": "power",
+      "nazva": "мілівати",
+      "skorochennia": "мВт",
+      "vuzka_forma": "мВт",
+      "vzirets": "{0} мілівата"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "katehoriia": "power",
+      "nazva": "вати",
+      "skorochennia": "Вт",
+      "vuzka_forma": "Вт",
+      "vzirets": "{0} вата"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "katehoriia": "pressure",
+      "nazva": "атмосфери",
+      "skorochennia": "атм",
+      "vuzka_forma": "атм",
+      "vzirets": "{0} атмосфери"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "katehoriia": "pressure",
+      "nazva": "бари",
+      "skorochennia": "бар",
+      "vuzka_forma": "бар",
+      "vzirets": "{0} бара"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "katehoriia": "pressure",
+      "nazva": "gas E",
+      "skorochennia": "gas E",
+      "vuzka_forma": "gas E",
+      "vzirets": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "katehoriia": "pressure",
+      "nazva": "гектопаскалі",
+      "skorochennia": "гПа",
+      "vuzka_forma": "гПа",
+      "vzirets": "{0} гектопаскаля"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "katehoriia": "pressure",
+      "nazva": "дюйми ртутного стовпа",
+      "skorochennia": "дюйми рт. ст.",
+      "vuzka_forma": "дмрс",
+      "vzirets": "{0} дюйма ртутного стовпа"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "katehoriia": "pressure",
+      "nazva": "кілопаскалі",
+      "skorochennia": "кПа",
+      "vuzka_forma": "кПа",
+      "vzirets": "{0} кілопаскаля"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "katehoriia": "pressure",
+      "nazva": "мегапаскалі",
+      "skorochennia": "МПа",
+      "vuzka_forma": "МПа",
+      "vzirets": "{0} мегапаскаля"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "katehoriia": "pressure",
+      "nazva": "мілібари",
+      "skorochennia": "мбар",
+      "vuzka_forma": "мбар",
+      "vzirets": "{0} мілібара"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "katehoriia": "pressure",
+      "nazva": "міліметри ртутного стовпа",
+      "skorochennia": "мм рт. ст.",
+      "vuzka_forma": "ммрс",
+      "vzirets": "{0} міліметра ртутного стовпа"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "katehoriia": "pressure",
+      "nazva": "ртутного стовпа",
+      "skorochennia": "рт. ст",
+      "vuzka_forma": "рс",
+      "vzirets": "{0} ртутного стовпа"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "katehoriia": "pressure",
+      "nazva": "паскалі",
+      "skorochennia": "Па",
+      "vuzka_forma": "Па",
+      "vzirets": "{0} паскаля"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "katehoriia": "pressure",
+      "nazva": "фунти на квадратний дюйм",
+      "skorochennia": "фунт/дюйм²",
+      "vuzka_forma": "фнт/дюйм²",
+      "vzirets": "{0} фунта на квадратний дюйм"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "katehoriia": "speed",
+      "nazva": "бали за шкалою Бофорта",
+      "skorochennia": "бали Бофорта",
+      "vuzka_forma": "бали",
+      "vzirets": "{0} бала за шкалою Бофорта"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "katehoriia": "speed",
+      "nazva": "кілометри за годину",
+      "skorochennia": "км/годину",
+      "vuzka_forma": "км/год",
+      "vzirets": "{0} кілометра за годину"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "katehoriia": "speed",
+      "nazva": "вузли",
+      "skorochennia": "вуз.",
+      "vuzka_forma": "вуз.",
+      "vzirets": "{0} вузла"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "katehoriia": "speed",
+      "nazva": "швидкості світла",
+      "skorochennia": "шв. св.",
+      "vuzka_forma": "шв.св.",
+      "vzirets": "{0} швидкості світла"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "katehoriia": "speed",
+      "nazva": "метри за секунду",
+      "skorochennia": "метри/с",
+      "vuzka_forma": "м/с",
+      "vzirets": "{0} метра за секунду"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "katehoriia": "speed",
+      "nazva": "милі за годину",
+      "skorochennia": "милі/год",
+      "vuzka_forma": "мл/год",
+      "vzirets": "{0} милі за годину"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "katehoriia": "temperature",
+      "nazva": "градуси Цельсія",
+      "skorochennia": "°C",
+      "vuzka_forma": "°C",
+      "vzirets": "{0} градуса Цельсія"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "katehoriia": "temperature",
+      "nazva": "градуси Фаренгейта",
+      "skorochennia": "°F",
+      "vuzka_forma": "°F",
+      "vzirets": "{0} градуса Фаренгейта"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "katehoriia": "temperature",
+      "nazva": "°",
+      "skorochennia": "°",
+      "vuzka_forma": "°",
+      "vzirets": "{0}°"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "katehoriia": "temperature",
+      "nazva": "кельвіни",
+      "skorochennia": "К",
+      "vuzka_forma": "К",
+      "vzirets": "{0} кельвіна"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "katehoriia": "temperature",
+      "nazva": "°R",
+      "skorochennia": "°R",
+      "vuzka_forma": "°R",
+      "vzirets": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "katehoriia": "torque",
+      "nazva": "ньютон-метри",
+      "skorochennia": "Н·м",
+      "vuzka_forma": "Н·м",
+      "vzirets": "{0} ньютон-метра"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "katehoriia": "torque",
+      "nazva": "фунт-фути",
+      "skorochennia": "фунт-фут",
+      "vuzka_forma": "фнт-фт",
+      "vzirets": "{0} фунт-фута"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "katehoriia": "volume",
+      "nazva": "акр-фути",
+      "skorochennia": "акр-фути",
+      "vuzka_forma": "акр-фт",
+      "vzirets": "{0} акр-фута"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "katehoriia": "volume",
+      "nazva": "барелі",
+      "skorochennia": "барелі",
+      "vuzka_forma": "брл",
+      "vzirets": "{0} бареля"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "katehoriia": "volume",
+      "nazva": "бушелі",
+      "skorochennia": "бушелі",
+      "vuzka_forma": "буш.",
+      "vzirets": "{0} бушеля"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "katehoriia": "volume",
+      "nazva": "сантилітри",
+      "skorochennia": "сл",
+      "vuzka_forma": "сл",
+      "vzirets": "{0} сантилітра"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "katehoriia": "volume",
+      "nazva": "кубічні сантиметри",
+      "skorochennia": "см³",
+      "vuzka_forma": "см³",
+      "vzirets": "{0} кубічного сантиметра"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "katehoriia": "volume",
+      "nazva": "кубічні фути",
+      "skorochennia": "фути³",
+      "vuzka_forma": "фт³",
+      "vzirets": "{0} кубічного фута"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "katehoriia": "volume",
+      "nazva": "кубічні дюйми",
+      "skorochennia": "дюйми³",
+      "vuzka_forma": "дюйми³",
+      "vzirets": "{0} кубічного дюйма"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "katehoriia": "volume",
+      "nazva": "кубічні кілометри",
+      "skorochennia": "км³",
+      "vuzka_forma": "км³",
+      "vzirets": "{0} кубічного кілометра"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "katehoriia": "volume",
+      "nazva": "кубічні метри",
+      "skorochennia": "м³",
+      "vuzka_forma": "м³",
+      "vzirets": "{0} кубічного метра"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "katehoriia": "volume",
+      "nazva": "кубічні милі",
+      "skorochennia": "милі³",
+      "vuzka_forma": "милі³",
+      "vzirets": "{0} кубічної милі"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "katehoriia": "volume",
+      "nazva": "кубічні ярди",
+      "skorochennia": "ярди³",
+      "vuzka_forma": "ярди³",
+      "vzirets": "{0} кубічного ярда"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "katehoriia": "volume",
+      "nazva": "чашки",
+      "skorochennia": "чашки",
+      "vuzka_forma": "чаш.",
+      "vzirets": "{0} чашки"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "katehoriia": "volume",
+      "nazva": "cup Imp.",
+      "skorochennia": "cup Imp.",
+      "vuzka_forma": "cup Imp.",
+      "vzirets": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "katehoriia": "volume",
+      "nazva": "cup [JP]",
+      "skorochennia": "cup [JP]",
+      "vuzka_forma": "cup [JP]",
+      "vzirets": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "katehoriia": "volume",
+      "nazva": "метричні чашки",
+      "skorochennia": "метр. чашки",
+      "vuzka_forma": "м. чаш.",
+      "vzirets": "{0} метричної чашки"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "katehoriia": "volume",
+      "nazva": "децилітри",
+      "skorochennia": "дл",
+      "vuzka_forma": "дл",
+      "vzirets": "{0} децилітра"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "katehoriia": "volume",
+      "nazva": "десертні ложки",
+      "skorochennia": "дес. ложки",
+      "vuzka_forma": "дес. л.",
+      "vzirets": "{0} десертної ложки"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "katehoriia": "volume",
+      "nazva": "англійські десертні ложки",
+      "skorochennia": "англ. дес. ложки",
+      "vuzka_forma": "англ. дес. л.",
+      "vzirets": "{0} англійської десертної ложки"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "katehoriia": "volume",
+      "nazva": "рідинні драхми",
+      "skorochennia": "рід. драхми",
+      "vuzka_forma": "рід.дрхм",
+      "vzirets": "{0} рідинної драхми"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "katehoriia": "volume",
+      "nazva": "краплі",
+      "skorochennia": "краплі",
+      "vuzka_forma": "кр.",
+      "vzirets": "{0} краплі"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "katehoriia": "volume",
+      "nazva": "рідинні унції",
+      "skorochennia": "рід. унції",
+      "vuzka_forma": "рід. ун.",
+      "vzirets": "{0} рідинної унції"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "katehoriia": "volume",
+      "nazva": "англійські рідинні унції",
+      "skorochennia": "англ. рід. унції",
+      "vuzka_forma": "англ. рід. ун.",
+      "vzirets": "{0} англійської рідинної унції"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "katehoriia": "volume",
+      "nazva": "метричні рідинні унції",
+      "skorochennia": "ун. рід. метр.",
+      "vuzka_forma": "ун. рід. метр.",
+      "vzirets": "{0} метричної рідинної унції"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "katehoriia": "volume",
+      "nazva": "галони",
+      "skorochennia": "гал.",
+      "vuzka_forma": "гал.",
+      "vzirets": "{0} галона"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "katehoriia": "volume",
+      "nazva": "англійські галони",
+      "skorochennia": "англ. галони",
+      "vuzka_forma": "англ. гал.",
+      "vzirets": "{0} англійського галона"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "katehoriia": "volume",
+      "nazva": "гектолітри",
+      "skorochennia": "гл",
+      "vuzka_forma": "гл",
+      "vzirets": "{0} гектолітра"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "katehoriia": "volume",
+      "nazva": "мірні склянки",
+      "skorochennia": "мірки",
+      "vuzka_forma": "мір.",
+      "vzirets": "{0} мірна склянка"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "katehoriia": "volume",
+      "nazva": "koku [JP]",
+      "skorochennia": "koku [JP]",
+      "vuzka_forma": "koku [JP]",
+      "vzirets": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "katehoriia": "volume",
+      "nazva": "kosaji [JP]",
+      "skorochennia": "kosaji [JP]",
+      "vuzka_forma": "kosaji [JP]",
+      "vzirets": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "katehoriia": "volume",
+      "nazva": "літри",
+      "skorochennia": "л",
+      "vuzka_forma": "л",
+      "vzirets": "{0} літра"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "katehoriia": "volume",
+      "nazva": "мегалітри",
+      "skorochennia": "Мл",
+      "vuzka_forma": "Мл",
+      "vzirets": "{0} мегалітра"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "katehoriia": "volume",
+      "nazva": "мілілітри",
+      "skorochennia": "мл",
+      "vuzka_forma": "мл",
+      "vzirets": "{0} мілілітра"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "katehoriia": "volume",
+      "nazva": "osaji [JP]",
+      "skorochennia": "osaji [JP]",
+      "vuzka_forma": "osaji [JP]",
+      "vzirets": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "katehoriia": "volume",
+      "nazva": "дрібки",
+      "skorochennia": "дріб.",
+      "vuzka_forma": "дріб.",
+      "vzirets": "{0} дрібки"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "katehoriia": "volume",
+      "nazva": "пінти",
+      "skorochennia": "пінти",
+      "vuzka_forma": "пінт.",
+      "vzirets": "{0} пінти"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "katehoriia": "volume",
+      "nazva": "pint Imp.",
+      "skorochennia": "pint Imp.",
+      "vuzka_forma": "pint Imp.",
+      "vzirets": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "katehoriia": "volume",
+      "nazva": "метричні пінти",
+      "skorochennia": "метр. пінти",
+      "vuzka_forma": "м. пінт.",
+      "vzirets": "{0} метричної пінти"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "katehoriia": "volume",
+      "nazva": "кварти",
+      "skorochennia": "квар.",
+      "vuzka_forma": "квар.",
+      "vzirets": "{0} кварти"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "katehoriia": "volume",
+      "nazva": "англійські кварти",
+      "skorochennia": "англ. кварти",
+      "vuzka_forma": "англ. квар.",
+      "vzirets": "{0} англійської кварти"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "katehoriia": "volume",
+      "nazva": "sai [JP]",
+      "skorochennia": "sai [JP]",
+      "vuzka_forma": "sai [JP]",
+      "vzirets": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "katehoriia": "volume",
+      "nazva": "shaku [vol, JP]",
+      "skorochennia": "shaku [vol, JP]",
+      "vuzka_forma": "shaku [vol, JP]",
+      "vzirets": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "katehoriia": "volume",
+      "nazva": "cтолові ложки",
+      "skorochennia": "ст. ложки",
+      "vuzka_forma": "ст. л.",
+      "vzirets": "{0} столової ложки"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "katehoriia": "volume",
+      "nazva": "чайні ложки",
+      "skorochennia": "ч. ложки",
+      "vuzka_forma": "ч. л.",
+      "vzirets": "{0} чайної ложки"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "katehoriia": "volume",
+      "nazva": "to [JP]",
+      "skorochennia": "to [JP]",
+      "vuzka_forma": "to [JP]",
+      "vzirets": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — назви українською (CLDR) - Безкоштовне завантаження",
+    "description": "Перелік одиниць вимірювання з локалі uk у CLDR — з повною назвою (nazva), скороченням (skorochennia), вузькою формою (vuzka_forma) та взірцем відображення (vzirets). Містить 231 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — назви українською (CLDR) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — назви українською (CLDR) — 231 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 231 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

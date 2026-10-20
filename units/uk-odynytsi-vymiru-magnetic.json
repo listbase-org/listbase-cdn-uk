@@ -1,0 +1,79 @@
+{
+  "id": "uk-odynytsi-vymiru-magnetic",
+  "name": "Одиниці вимірювання — категорія 'magnetic' (2)",
+  "title": "Одиниці вимірювання — категорія 'magnetic' (2)",
+  "description": "Одиниці вимірювання категорії 'magnetic' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "magnetic-tesla",
+      "katehoriia": "magnetic",
+      "nazva": "тесли",
+      "skorochennia": "Тл",
+      "vuzka_forma": "Тл",
+      "vzirets": "{0} тесли"
+    },
+    {
+      "id": 2,
+      "unit_code": "magnetic-weber",
+      "katehoriia": "magnetic",
+      "nazva": "вебери",
+      "skorochennia": "Вб",
+      "vuzka_forma": "Вб",
+      "vzirets": "{0} вебера"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'magnetic' (2) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'magnetic' з локалі uk у CLDR, з назвами українською. Містить 2 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'magnetic' (2) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'magnetic' (2) — 2 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 2 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

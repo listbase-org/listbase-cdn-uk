@@ -1,0 +1,196 @@
+{
+  "id": "uk-svitova-spadshchyna-unesco",
+  "name": "Світова спадщина ЮНЕСКО в Україні",
+  "title": "Світова спадщина ЮНЕСКО в Україні",
+  "description": "Список об'єктів світової спадщини ЮНЕСКО, розташованих в Україні",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+      "category": "Cultural",
+      "date_inscribed": 1990,
+      "criteria": "(i)(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Ukraine",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.45258,
+      "longitude": 30.51686,
+      "short_description": "Designed to rival Hagia Sophia in Constantinople, Kyiv's Saint-Sophia Cathedral symbolizes the 'new Constantinople', capital of the Christian principality of Kyiv, which was created in the 11th century in a region evangelized after the baptism of St Vladimir in 988. The spiritual and intellectual influence of Kyiv-Pechersk Lavra contributed to the spread of Orthodox thought and the Orthodox faith in the Russian world from the 17th to the 19th century.",
+      "id_number": 527,
+      "url": "https://whc.unesco.org/en/list/527"
+    },
+    {
+      "name": "L'viv – the Ensemble of the Historic Centre",
+      "category": "Cultural",
+      "date_inscribed": 1998,
+      "criteria": "(ii)(v)",
+      "region": "Europe and North America",
+      "states": "Ukraine",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.84163,
+      "longitude": 24.03198,
+      "short_description": "The city of L''viv, founded in the late Middle Ages, was a flourishing administrative, religious and commercial centre for several centuries. The medieval urban topography has been preserved virtually intact (in particular, there is evidence of the different ethnic communities who lived there), along with many fine Baroque and later buildings.",
+      "id_number": 865,
+      "url": "https://whc.unesco.org/en/list/865"
+    },
+    {
+      "name": "Struve Geodetic Arc",
+      "category": "Cultural",
+      "date_inscribed": 2005,
+      "criteria": "(ii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Belarus, Estonia, Finland, Latvia, Lithuania, Norway, Republic of Moldova, Russian Federation, Sweden, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 59.057778,
+      "longitude": 26.337778,
+      "short_description": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+      "id_number": 1187,
+      "url": "https://whc.unesco.org/en/list/1187"
+    },
+    {
+      "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "category": "Natural",
+      "date_inscribed": 2007,
+      "criteria": "(ix)",
+      "region": "Europe and North America",
+      "states": "Albania, Austria, Belgium, Bulgaria, Croatia, Germany, Italy, Romania, Slovakia, Slovenia, Spain, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.009722,
+      "longitude": 22.338889,
+      "short_description": "This transboundary property stretches over 12 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians , Dinarides , Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+      "id_number": 1133,
+      "url": "https://whc.unesco.org/en/list/1133"
+    },
+    {
+      "name": "Residence of Bukovinian and Dalmatian Metropolitans",
+      "category": "Cultural",
+      "date_inscribed": 2011,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Ukraine",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.296667,
+      "longitude": 25.924722,
+      "short_description": "The Residence of Bukovinian and Dalmatian Metropolitans represents a masterful synergy of architectural styles built by Czech architect Josef Hlavka from 1864 to 1882. The property, an outstanding example of 19th-century historicist architecture, also includes a seminary and monastery and is dominated by the domed, cruciform Seminary Church with a garden and park. The complex expresses architectural and cultural influences from the Byzantine period onward and embodies the powerful presence of the Orthodox Church during Habsburg rule, reflecting the Austro-Hungarian Empire policy of religious tolerance.",
+      "id_number": 1330,
+      "url": "https://whc.unesco.org/en/list/1330"
+    },
+    {
+      "name": "Ancient City of Tauric Chersonese and its Chora",
+      "category": "Cultural",
+      "date_inscribed": 2013,
+      "criteria": "(ii)(v)",
+      "region": "Europe and North America",
+      "states": "Ukraine",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 44.610833,
+      "longitude": 33.491389,
+      "short_description": "The site features the remains of a city founded by Dorian Greeks in the 5th century BC on the northern shores of the Black Sea. It encompasses six component sites with urban remains and agricultural lands divided into several hundreds of chora, rectangular plots of equal size. The plots supported vineyards whose production was exported by the city which thrived until the 15th century. The site features several public building complexes and residential neighbourhoods, as well as early Christian monuments alongside remains from Stone and Bronze Age settlements; Roman and medieval tower fortifications and water supply systems; and exceptionally well-preserved examples of vineyard planting and dividing walls. In the 3rd century AD, the site was known as the most productive wine centre of the Black Sea and remained a hub of exchange between the Greek, Roman and Byzantine Empires and populations north of the Black Sea. It is an outstanding example of democratic land organization linked to an ancient polis, reflecting the city’s social organization.",
+      "id_number": 1411,
+      "url": "https://whc.unesco.org/en/list/1411"
+    },
+    {
+      "name": "Wooden Tserkvas of the Carpathian Region in Poland and Ukraine",
+      "category": "Cultural",
+      "date_inscribed": 2013,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.533889,
+      "longitude": 21.032222,
+      "short_description": "Situated in the eastern fringe of Central Europe, the transnational property numbers a selection of sixteen tserkvas (churches). They were built of horizontal wooden logs between the 16 th and 19 th centuries by communities of Orthodox and Greek Catholic faiths. The tserkvas bear testimony to a distinct building tradition rooted in Orthodox ecclesiastic design interwoven with elements of local tradition, and symbolic references to their communities’ cosmogony. The tserkva s are built on a tri-partite plan surmounted by open quadrilateral or octagonal domes and cupolas. Integral to tserkvas are iconostasis screens, interior polychrome decorations, and other historic furnishings. Important elements of some tserkvas include wooden bell towers, churchyards, gatehouses and graveyards.",
+      "id_number": 1424,
+      "url": "https://whc.unesco.org/en/list/1424"
+    }
+  ],
+  "meta": {
+    "title": "Світова спадщина ЮНЕСКО в Україні - Безкоштовне завантаження",
+    "description": "Список об'єктів світової спадщини ЮНЕСКО, розташованих в Україні Містить 7 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Світова спадщина ЮНЕСКО в Україні | ListBase",
+    "seo_description": "Завантажити Світова спадщина ЮНЕСКО в Україні — 7 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 7 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

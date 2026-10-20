@@ -1,0 +1,445 @@
+{
+  "id": "uk-pivostrovy",
+  "name": "Півострови України",
+  "title": "Півострови України",
+  "description": "Півострови України — 28 записів типу «півострів» (peninsula) на території України (Q212) з Wikidata, відібрано за P31=Q34763 та країною P17=Q212, кожен запис має координати (P625). Приклади: Ігренський острів, Аляуди, Бирючий острів, Буджакулуй, Білосарайська коса, Білі Кучугури. Покриття української назви: 28/28. Поля: id, wikidata_id, name_uk, name_en, type_uk, type_en, country_uk, country_qid, latitude, longitude, wikidata_url.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type_uk",
+      "label": "Type Uk",
+      "type": "string"
+    },
+    {
+      "key": "type_en",
+      "label": "Type En",
+      "type": "string"
+    },
+    {
+      "key": "country_uk",
+      "label": "Country Uk",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q12073914",
+      "wikidata_id": "Q12073914",
+      "name_uk": "Ігренський острів",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 48.4167,
+      "longitude": 35.1243,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12073914"
+    },
+    {
+      "id": "Q3648959",
+      "wikidata_id": "Q3648959",
+      "name_uk": "Аляуди",
+      "name_en": "Alyaudy",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.978056,
+      "longitude": 32.04,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3648959"
+    },
+    {
+      "id": "Q4087206",
+      "wikidata_id": "Q4087206",
+      "name_uk": "Бирючий острів",
+      "name_en": "Biryuchyi Island",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.1267,
+      "longitude": 35.1033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4087206"
+    },
+    {
+      "id": "Q49333549",
+      "wikidata_id": "Q49333549",
+      "name_uk": "Буджакулуй",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.411389,
+      "longitude": 28.402778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333549"
+    },
+    {
+      "id": "Q4082791",
+      "wikidata_id": "Q4082791",
+      "name_uk": "Білосарайська коса",
+      "name_en": "Bilosarayska Kosa",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.874444,
+      "longitude": 37.3125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4082791"
+    },
+    {
+      "id": "Q4083005",
+      "wikidata_id": "Q4083005",
+      "name_uk": "Білі Кучугури",
+      "name_en": "Bili Kuchuhury",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.246111,
+      "longitude": 31.667778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4083005"
+    },
+    {
+      "id": "Q4135938",
+      "wikidata_id": "Q4135938",
+      "name_uk": "Гераклейський півострів",
+      "name_en": "Heracles peninsula",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 44.55,
+      "longitude": 33.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4135938"
+    },
+    {
+      "id": "Q49333556",
+      "wikidata_id": "Q49333556",
+      "name_uk": "Карача-Китай",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.034444,
+      "longitude": 34.272222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333556"
+    },
+    {
+      "id": "Q2084527",
+      "wikidata_id": "Q2084527",
+      "name_uk": "Керченський півострів",
+      "name_en": "Kerch Peninsula",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.25,
+      "longitude": 36,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2084527"
+    },
+    {
+      "id": "Q4240642",
+      "wikidata_id": "Q4240642",
+      "name_uk": "Крива коса",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 47.05,
+      "longitude": 38.133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4240642"
+    },
+    {
+      "id": "Q7835",
+      "wikidata_id": "Q7835",
+      "name_uk": "Кримський півострів",
+      "name_en": "Crimea",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45,
+      "longitude": 34,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7835"
+    },
+    {
+      "id": "Q13408832",
+      "wikidata_id": "Q13408832",
+      "name_uk": "Литовський півострів",
+      "name_en": "Lithuanian Peninsula",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.143056,
+      "longitude": 33.839722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13408832"
+    },
+    {
+      "id": "Q49333371",
+      "wikidata_id": "Q49333371",
+      "name_uk": "Мартиній Півострів",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.054167,
+      "longitude": 34.162222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333371"
+    },
+    {
+      "id": "Q49333553",
+      "wikidata_id": "Q49333553",
+      "name_uk": "Півострів Іжовий",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.390278,
+      "longitude": 35.8325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333553"
+    },
+    {
+      "id": "Q49333548",
+      "wikidata_id": "Q49333548",
+      "name_uk": "Півострів Ад",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.220556,
+      "longitude": 33.7225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333548"
+    },
+    {
+      "id": "Q49333565",
+      "wikidata_id": "Q49333565",
+      "name_uk": "Півострів Великий Дзендзик",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.6375,
+      "longitude": 36.765833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333565"
+    },
+    {
+      "id": "Q49333557",
+      "wikidata_id": "Q49333557",
+      "name_uk": "Півострів Карадай",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.113889,
+      "longitude": 33.204722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333557"
+    },
+    {
+      "id": "Q49333560",
+      "wikidata_id": "Q49333560",
+      "name_uk": "Півострів Семенівський Кут",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.079444,
+      "longitude": 34.731944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333560"
+    },
+    {
+      "id": "Q49333562",
+      "wikidata_id": "Q49333562",
+      "name_uk": "Півострів Середній",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.397778,
+      "longitude": 35.836944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333562"
+    },
+    {
+      "id": "Q49333564",
+      "wikidata_id": "Q49333564",
+      "name_uk": "Півострів Утиний",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.405833,
+      "longitude": 35.848056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49333564"
+    },
+    {
+      "id": "Q2630762",
+      "wikidata_id": "Q2630762",
+      "name_uk": "Рибальський острів",
+      "name_en": "Rybalskyi Peninsula",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 50.477772,
+      "longitude": 30.532722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2630762"
+    },
+    {
+      "id": "Q2028610",
+      "wikidata_id": "Q2028610",
+      "name_uk": "Тарханкутський півострів",
+      "name_en": "Tarkhankut Peninsula",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.416667,
+      "longitude": 32.666667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2028610"
+    },
+    {
+      "id": "Q28704276",
+      "wikidata_id": "Q28704276",
+      "name_uk": "Трахтемирівський півострів",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 49.95,
+      "longitude": 31.366667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28704276"
+    },
+    {
+      "id": "Q2370029",
+      "wikidata_id": "Q2370029",
+      "name_uk": "Тузлинська коса",
+      "name_en": "Tuzla Spit",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.268333,
+      "longitude": 36.55,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2370029"
+    },
+    {
+      "id": "Q28707943",
+      "wikidata_id": "Q28707943",
+      "name_uk": "Тюп-Джанкой",
+      "name_en": "Tyup-Dzhankoy",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.919722,
+      "longitude": 34.573056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28707943"
+    },
+    {
+      "id": "Q16709004",
+      "wikidata_id": "Q16709004",
+      "name_uk": "Тюп-Тархан",
+      "name_en": "",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 45.833333,
+      "longitude": 34.633333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16709004"
+    },
+    {
+      "id": "Q4517160",
+      "wikidata_id": "Q4517160",
+      "name_uk": "Чонгар",
+      "name_en": "Chonhar peninsula",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.0611,
+      "longitude": 34.5258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4517160"
+    },
+    {
+      "id": "Q4536210",
+      "wikidata_id": "Q4536210",
+      "name_uk": "Ягорлицький Кут",
+      "name_en": "Yahorlyk Kut",
+      "type_uk": "півострів",
+      "type_en": "peninsula",
+      "country_uk": "Україна",
+      "country_qid": "Q212",
+      "latitude": 46.299722,
+      "longitude": 31.829722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4536210"
+    }
+  ],
+  "meta": {
+    "title": "Півострови України - Безкоштовне завантаження",
+    "description": "Півострови України — 28 записів типу «півострів» (peninsula) на території України (Q212) з Wikidata, відібрано за P31=Q34763 та країною P17=Q212, кожен запис має координати (P625). Приклади: Ігренський острів, Аляуди, Бирючий острів, Буджакулуй, Білосарайська коса, Білі Кучугури. Покриття української назви: 28/28. Поля: id, wikidata_id, name_uk, name_en, type_uk, type_en, country_uk, country_qid, latitude, longitude, wikidata_url. Містить 28 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Півострови України | ListBase",
+    "seo_description": "Завантажити Півострови України — 28 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 28 записів / 11 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

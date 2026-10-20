@@ -1,0 +1,380 @@
+{
+  "id": "uk-atomni-elektrostantsii",
+  "name": "Атомні електростанції України",
+  "title": "Атомні електростанції України",
+  "description": "Атомні електростанції України — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "date"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Chernobyl-1",
+      "latitude": 51.389,
+      "longitude": 30.103,
+      "status": "Shutdown",
+      "reactor_type": "LWGR",
+      "reactor_model": "RBMK",
+      "construction_start": "1970-03-01",
+      "operational_from": "1978-05-27",
+      "operational_to": "1996-11-30",
+      "capacity_mw": 925,
+      "iaea_id": 568,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Chernobyl-2",
+      "latitude": 51.389,
+      "longitude": 30.103,
+      "status": "Shutdown",
+      "reactor_type": "LWGR",
+      "reactor_model": "RBMK",
+      "construction_start": "1973-02-01",
+      "operational_from": "1979-05-28",
+      "operational_to": "1991-10-11",
+      "capacity_mw": 925,
+      "iaea_id": 569,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Chernobyl-3",
+      "latitude": 51.389,
+      "longitude": 30.103,
+      "status": "Shutdown",
+      "reactor_type": "LWGR",
+      "reactor_model": "RBMK",
+      "construction_start": "1976-03-01",
+      "operational_from": "1982-06-08",
+      "operational_to": "2000-12-15",
+      "capacity_mw": 925,
+      "iaea_id": 575,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Chernobyl-4",
+      "latitude": 51.389,
+      "longitude": 30.103,
+      "status": "Shutdown",
+      "reactor_type": "LWGR",
+      "reactor_model": "RBMK",
+      "construction_start": "1979-04-01",
+      "operational_from": "1984-03-26",
+      "operational_to": "1986-04-26",
+      "capacity_mw": 925,
+      "iaea_id": 576,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Khmelnitski-1",
+      "latitude": 50.301,
+      "longitude": 26.649,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1981-11-01",
+      "operational_from": "1988-08-13",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 573,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Khmelnitski-2",
+      "latitude": 50.301,
+      "longitude": 26.649,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1985-02-01",
+      "operational_from": "2005-12-15",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 574,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Khmelnitski-3",
+      "latitude": 50.303056,
+      "longitude": 26.642778,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER",
+      "construction_start": "1986-03-01",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1035,
+      "iaea_id": 581,
+      "data_source": "IAEA"
+    },
+    {
+      "name": "Khmelnitski-4",
+      "latitude": 50.303056,
+      "longitude": 26.642778,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER",
+      "construction_start": "1987-02-01",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1035,
+      "iaea_id": 582,
+      "data_source": "IAEA"
+    },
+    {
+      "name": "Rivne-1",
+      "latitude": 51.326,
+      "longitude": 25.9,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1973-08-01",
+      "operational_from": "1981-09-22",
+      "operational_to": "",
+      "capacity_mw": 361,
+      "iaea_id": 570,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Rivne-2",
+      "latitude": 51.326,
+      "longitude": 25.9,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1973-10-01",
+      "operational_from": "1982-07-29",
+      "operational_to": "",
+      "capacity_mw": 384,
+      "iaea_id": 571,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Rivne-3",
+      "latitude": 51.326,
+      "longitude": 25.9,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1980-02-01",
+      "operational_from": "1987-05-16",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 572,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Rivne-4",
+      "latitude": 51.326,
+      "longitude": 25.9,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1986-08-01",
+      "operational_from": "2006-04-06",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 589,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "South Ukraine-1",
+      "latitude": 47.811,
+      "longitude": 31.22,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-302",
+      "construction_start": "1976-08-01",
+      "operational_from": "1983-12-02",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 577,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "South Ukraine-2",
+      "latitude": 47.811,
+      "longitude": 31.22,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-338",
+      "construction_start": "1981-07-01",
+      "operational_from": "1985-04-06",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 578,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "South Ukraine-3",
+      "latitude": 47.811,
+      "longitude": 31.22,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1984-11-01",
+      "operational_from": "1989-12-29",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 579,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Zaporozhye-1",
+      "latitude": 47.508,
+      "longitude": 34.627,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1980-04-01",
+      "operational_from": "1985-12-25",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 584,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Zaporozhye-2",
+      "latitude": 47.508,
+      "longitude": 34.627,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1981-01-01",
+      "operational_from": "1986-02-15",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 586,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Zaporozhye-3",
+      "latitude": 47.508,
+      "longitude": 34.627,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1982-04-01",
+      "operational_from": "1987-03-05",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 594,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Zaporozhye-4",
+      "latitude": 47.508,
+      "longitude": 34.627,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1983-04-01",
+      "operational_from": "1988-04-14",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 595,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Zaporozhye-5",
+      "latitude": 47.508,
+      "longitude": 34.627,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1985-11-01",
+      "operational_from": "1989-10-27",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 566,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Zaporozhye-6",
+      "latitude": 47.508,
+      "longitude": 34.627,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1986-06-01",
+      "operational_from": "1996-09-17",
+      "operational_to": "",
+      "capacity_mw": 950,
+      "iaea_id": 567,
+      "data_source": "WNA/IAEA"
+    }
+  ],
+  "meta": {
+    "title": "Атомні електростанції України - Безкоштовне завантаження",
+    "description": "Атомні електростанції України — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Містить 21 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Атомні електростанції України | ListBase",
+    "seo_description": "Завантажити Атомні електростанції України — 21 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 21 записів / 12 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

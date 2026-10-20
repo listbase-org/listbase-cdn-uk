@@ -1,0 +1,610 @@
+{
+  "id": "uk-kirovohradska-hromady",
+  "name": "Територіальні громади Кіровоградської області",
+  "title": "Територіальні громади Кіровоградської області",
+  "description": "Список 49 територіальних громад Кіровоградської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA35020010000028961",
+      "name": "Благовіщенська міська громада",
+      "name_en": "Blahovishchenska miska hromada",
+      "slug": "blahovishchenska-miska-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020030000022644",
+      "name": "Вільшанська селищна громада",
+      "name_en": "Vilshanska selyshchna hromada",
+      "slug": "vilshanska-selyshchna-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020050000014205",
+      "name": "Гайворонська міська громада",
+      "name_en": "Haivoronska miska hromada",
+      "slug": "haivoronska-miska-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020070000018243",
+      "name": "Голованівська селищна громада",
+      "name_en": "Holovanivska selyshchna hromada",
+      "slug": "holovanivska-selyshchna-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020090000039429",
+      "name": "Заваллівська селищна громада",
+      "name_en": "Zavallivska selyshchna hromada",
+      "slug": "zavallivska-selyshchna-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020110000013511",
+      "name": "Надлацька сільська рада",
+      "name_en": "Nadlatska silska rada",
+      "slug": "nadlatska-silska-rada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020110000013511",
+      "name": "Надлацька сільська громада",
+      "name_en": "Nadlatska silska hromada",
+      "slug": "nadlatska-silska-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020130000045875",
+      "name": "Новоархангельська селищна громада",
+      "name_en": "Novoarkhanhelska selyshchna hromada",
+      "slug": "novoarkhanhelska-selyshchna-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020150000027557",
+      "name": "Перегонівська сільська громада",
+      "name_en": "Perehonivska silska hromada",
+      "slug": "perehonivska-silska-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020170000076448",
+      "name": "Підвисоцька сільська громада",
+      "name_en": "Pidvysotska silska hromada",
+      "slug": "pidvysotska-silska-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35020190000025203",
+      "name": "Побузька селищна громада",
+      "name_en": "Pobuzka selyshchna hromada",
+      "slug": "pobuzka-selyshchna-hromada",
+      "rayon_code": "UA35020000000074289",
+      "rayon_name": "Голованівський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040010000022631",
+      "name": "Аджамська сільська громада",
+      "name_en": "Adzhamska silska hromada",
+      "slug": "adzhamska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040030000074104",
+      "name": "Бобринецька міська громада",
+      "name_en": "Bobrynetska miska hromada",
+      "slug": "bobrynetska-miska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040050000013889",
+      "name": "Великосеверинівська сільська громада",
+      "name_en": "Velykoseverynivska silska hromada",
+      "slug": "velykoseverynivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040070000034432",
+      "name": "Гурівська сільська громада",
+      "name_en": "Hurivska silska hromada",
+      "slug": "hurivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040090000082553",
+      "name": "Дмитрівська сільська громада",
+      "name_en": "Dmytrivska silska hromada",
+      "slug": "dmytrivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040110000055821",
+      "name": "Долинська міська громада",
+      "name_en": "Dolynska miska hromada",
+      "slug": "dolynska-miska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040130000021732",
+      "name": "Знам'янська міська громада",
+      "name_en": "Znamyanska miska hromada",
+      "slug": "znamyanska-miska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040150000097644",
+      "name": "Катеринівська сільська громада",
+      "name_en": "Katerynivska silska hromada",
+      "slug": "katerynivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040170000065192",
+      "name": "Кетрисанівська сільська громада",
+      "name_en": "Ketrysanivska silska hromada",
+      "slug": "ketrysanivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040190000012514",
+      "name": "Компаніївська селищна громада",
+      "name_en": "Kompaniivska selyshchna hromada",
+      "slug": "kompaniivska-selyshchna-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040210000014072",
+      "name": "Кропивницька міська громада",
+      "name_en": "Kropyvnytska miska hromada",
+      "slug": "kropyvnytska-miska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040230000015609",
+      "name": "Новгородківська селищна громада",
+      "name_en": "Novhorodkivska selyshchna hromada",
+      "slug": "novhorodkivska-selyshchna-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040250000048915",
+      "name": "Олександрівська селищна громада",
+      "name_en": "Oleksandrivska selyshchna hromada",
+      "slug": "oleksandrivska-selyshchna-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040270000084621",
+      "name": "Первозванівська сільська громада",
+      "name_en": "Pervozvanivska silska hromada",
+      "slug": "pervozvanivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040290000046019",
+      "name": "Соколівська сільська громада",
+      "name_en": "Sokolivska silska hromada",
+      "slug": "sokolivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35040310000035890",
+      "name": "Суботцівська сільська громада",
+      "name_en": "Subottsivska silska hromada",
+      "slug": "subottsivska-silska-hromada",
+      "rayon_code": "UA35040000000034705",
+      "rayon_name": "Кропивницький район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060010000018331",
+      "name": "Ганнівська сільська громада",
+      "name_en": "Hannivska silska hromada",
+      "slug": "hannivska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060030000099117",
+      "name": "Глодоська сільська громада",
+      "name_en": "Hlodoska silska hromada",
+      "slug": "hlodoska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060050000025668",
+      "name": "Добровеличківська селищна громада",
+      "name_en": "Dobrovelychkivska selyshchna hromada",
+      "slug": "dobrovelychkivska-selyshchna-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060070000071148",
+      "name": "Злинська сільська громада",
+      "name_en": "Zlynska silska hromada",
+      "slug": "zlynska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060090000091976",
+      "name": "Маловисківська міська громада",
+      "name_en": "Malovyskivska miska hromada",
+      "slug": "malovyskivska-miska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060110000056063",
+      "name": "Мар'янівська сільська громада",
+      "name_en": "Maryanivska silska hromada",
+      "slug": "maryanivska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060130000087718",
+      "name": "Новомиргородська міська громада",
+      "name_en": "Novomyrhorodska miska hromada",
+      "slug": "novomyrhorodska-miska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060150000073710",
+      "name": "Новоукраїнська міська громада",
+      "name_en": "Novoukrainska miska hromada",
+      "slug": "novoukrainska-miska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060170000071056",
+      "name": "Піщанобрідська сільська громада",
+      "name_en": "Pishchanobridska silska hromada",
+      "slug": "pishchanobridska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060190000079777",
+      "name": "Помічнянська міська громада",
+      "name_en": "Pomichnianska miska hromada",
+      "slug": "pomichnianska-miska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060210000019042",
+      "name": "Рівнянська сільська громада",
+      "name_en": "Rivnianska silska hromada",
+      "slug": "rivnianska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060230000086264",
+      "name": "Смолінська селищна громада",
+      "name_en": "Smolinska selyshchna hromada",
+      "slug": "smolinska-selyshchna-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35060250000057436",
+      "name": "Тишківська сільська громада",
+      "name_en": "Tyshkivska silska hromada",
+      "slug": "tyshkivska-silska-hromada",
+      "rayon_code": "UA35060000000086172",
+      "rayon_name": "Новоукраїнський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080010000032386",
+      "name": "Великоандрусівська сільська громада",
+      "name_en": "Velykoandrusivska silska hromada",
+      "slug": "velykoandrusivska-silska-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080030000042560",
+      "name": "Новопразька селищна громада",
+      "name_en": "Novoprazka selyshchna hromada",
+      "slug": "novoprazka-selyshchna-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080050000038829",
+      "name": "Олександрійська міська громада",
+      "name_en": "Oleksandriiska miska hromada",
+      "slug": "oleksandriiska-miska-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080070000016791",
+      "name": "Онуфріївська селищна громада",
+      "name_en": "Onufriivska selyshchna hromada",
+      "slug": "onufriivska-selyshchna-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080090000078673",
+      "name": "Пантаївська селищна громада",
+      "name_en": "Pantaivska selyshchna hromada",
+      "slug": "pantaivska-selyshchna-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080110000063919",
+      "name": "Петрівська селищна громада",
+      "name_en": "Petrivska selyshchna hromada",
+      "slug": "petrivska-selyshchna-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080130000048304",
+      "name": "Попельнастівська сільська громада",
+      "name_en": "Popelnastivska silska hromada",
+      "slug": "popelnastivska-silska-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080150000074379",
+      "name": "Приютівська селищна громада",
+      "name_en": "Pryiutivska selyshchna hromada",
+      "slug": "pryiutivska-selyshchna-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    },
+    {
+      "code": "UA35080170000077673",
+      "name": "Світловодська міська громада",
+      "name_en": "Svitlovodska miska hromada",
+      "slug": "svitlovodska-miska-hromada",
+      "rayon_code": "UA35080000000062763",
+      "rayon_name": "Олександрійський район",
+      "oblast_id": 11,
+      "oblast_name": "Кіровоградська область",
+      "oblast_slug": "kirovohradska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Кіровоградської області - Безкоштовне завантаження",
+    "description": "Список 49 територіальних громад Кіровоградської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 49 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Кіровоградської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Кіровоградської області — 49 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 49 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

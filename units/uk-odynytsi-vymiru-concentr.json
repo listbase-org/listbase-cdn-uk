@@ -1,0 +1,178 @@
+{
+  "id": "uk-odynytsi-vymiru-concentr",
+  "name": "Одиниці вимірювання — категорія 'concentr' (13)",
+  "title": "Одиниці вимірювання — категорія 'concentr' (13)",
+  "description": "Одиниці вимірювання категорії 'concentr' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "katehoriia": "concentr",
+      "nazva": "елементи",
+      "skorochennia": "ел.",
+      "vuzka_forma": "ел.",
+      "vzirets": "{0} елемента"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "katehoriia": "concentr",
+      "nazva": "карати",
+      "skorochennia": "карати",
+      "vuzka_forma": "кар.",
+      "vzirets": "{0} карата"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "katehoriia": "concentr",
+      "nazva": "катали",
+      "skorochennia": "кат",
+      "vuzka_forma": "кат",
+      "vzirets": "{0} катала"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "katehoriia": "concentr",
+      "nazva": "міліграми на децилітр",
+      "skorochennia": "мг/дл",
+      "vuzka_forma": "мг/дл",
+      "vzirets": "{0} міліграма на децилітр"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "katehoriia": "concentr",
+      "nazva": "мілімолі на літр",
+      "skorochennia": "мілімоль/літр",
+      "vuzka_forma": "ммоль/л",
+      "vzirets": "{0} мілімоля на літр"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "katehoriia": "concentr",
+      "nazva": "молі",
+      "skorochennia": "моль",
+      "vuzka_forma": "моль",
+      "vzirets": "{0} моля"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "katehoriia": "concentr",
+      "nazva": "одиниці глюкози",
+      "skorochennia": "од. глюкози",
+      "vuzka_forma": "од.гл.",
+      "vzirets": "{0} одиниці глюкози"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "katehoriia": "concentr",
+      "nazva": "частки",
+      "skorochennia": "част.",
+      "vuzka_forma": "ч.",
+      "vzirets": "{0} частки"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "katehoriia": "concentr",
+      "nazva": "мільйонні частки",
+      "skorochennia": "ч/млн",
+      "vuzka_forma": "ч/млн",
+      "vzirets": "{0} мільйонної частки"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "katehoriia": "concentr",
+      "nazva": "мільярдні частки",
+      "skorochennia": "ч/млрд",
+      "vuzka_forma": "ч/млрд",
+      "vzirets": "{0} мільярдної частки"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "katehoriia": "concentr",
+      "nazva": "відсотки",
+      "skorochennia": "%",
+      "vuzka_forma": "%",
+      "vzirets": "{0} відсотка"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "katehoriia": "concentr",
+      "nazva": "проміле",
+      "skorochennia": "‰",
+      "vuzka_forma": "‰",
+      "vzirets": "{0} проміле"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "katehoriia": "concentr",
+      "nazva": "проміріад",
+      "skorochennia": "‱",
+      "vuzka_forma": "‱",
+      "vzirets": "{0} проміріада"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'concentr' (13) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'concentr' з локалі uk у CLDR, з назвами українською. Містить 13 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'concentr' (13) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'concentr' (13) — 13 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 13 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

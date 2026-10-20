@@ -1,0 +1,208 @@
+{
+  "id": "uk-imena",
+  "name": "Uk Imena",
+  "title": "Uk Imena",
+  "description": "Топ-10 жіночих і топ-9 чоловічих імен в Україні (2022)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-UA-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Anna",
+      "romanized": "Anna",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Anastasiya",
+      "romanized": "Anastasiya",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Veronika",
+      "romanized": "Veronika",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Sofiya",
+      "romanized": "Sofiya",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Oleksandra",
+      "romanized": "Oleksandra",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Mariya",
+      "romanized": "Mariya",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Viktoriya",
+      "romanized": "Viktoriya",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Milana",
+      "romanized": "Milana",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Yeva",
+      "romanized": "Yeva",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Solomiya",
+      "romanized": "Solomiya",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Artem",
+      "romanized": "Artem",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Dmytro",
+      "romanized": "Dmytro",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Ivan",
+      "romanized": "Ivan",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Maksym",
+      "romanized": "Maksym",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Mykhaylo",
+      "romanized": "Mykhaylo",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Danylo",
+      "romanized": "Danylo",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Vladyslav",
+      "romanized": "Vladyslav",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Oleksandr",
+      "romanized": "Oleksandr",
+      "year": 2022
+    },
+    {
+      "name_group": "N-UA-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Andriy",
+      "romanized": "Andriy",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "Uk Imena - Безкоштовне завантаження",
+    "description": "Топ-10 жіночих і топ-9 чоловічих імен в Україні (2022) Містить 19 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Uk Imena | ListBase",
+    "seo_description": "Завантажити Uk Imena — 19 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 19 записів / 6 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

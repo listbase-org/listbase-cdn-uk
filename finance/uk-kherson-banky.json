@@ -1,0 +1,86 @@
+{
+  "id": "uk-kherson-banky",
+  "name": "Банки в Херсоні — коди SWIFT/BIC (Kherson bank SWIFT/BIC codes)",
+  "title": "Банки в Херсоні — коди SWIFT/BIC (Kherson bank SWIFT/BIC codes)",
+  "description": "Перелік: 5 банківських установ у місті Херсон (Kherson) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"KHERSON\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 70,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "KHERSON",
+      "branch": "(KHERSON BRANCH)",
+      "swift_code": "EXBSUAUXKHE"
+    },
+    {
+      "id": 90,
+      "bank": "JSCB INDUSTRIALBANK UKRAINE",
+      "city": "KHERSON",
+      "branch": "(KHERSON BRANCH)",
+      "swift_code": "IJSOUA2NKHE"
+    },
+    {
+      "id": 110,
+      "bank": "MEGABANK PJSC",
+      "city": "KHERSON",
+      "branch": "",
+      "swift_code": "DBBKUA2KKHE"
+    },
+    {
+      "id": 158,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "KHERSON",
+      "branch": "",
+      "swift_code": "PBANUA2XHRN"
+    },
+    {
+      "id": 233,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "KHERSON",
+      "branch": "(KHERSON REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKKHE"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Херсоні — коди SWIFT/BIC (Kherson bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 5 банківських установ у місті Херсон (Kherson) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"KHERSON\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 5 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Херсоні — коди SWIFT/BIC (Kherson bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Херсоні — коди SWIFT/BIC (Kherson bank SWIFT/BIC codes) — 5 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 5 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "id": "uk-ternopilska-mista",
+  "name": "Міста Тернопільської області",
+  "title": "Міста Тернопільської області",
+  "description": "Список 18 міст Тернопільської області (категорія М у КАТОТТГ).",
+  "category": "geography",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "Category Name",
+      "type": "string"
+    },
+    {
+      "key": "category_name_en",
+      "label": "Category Name En",
+      "type": "string"
+    },
+    {
+      "key": "hromada_code",
+      "label": "Hromada Code",
+      "type": "string"
+    },
+    {
+      "key": "hromada_name",
+      "label": "Hromada Name",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA61020070010067494",
+      "name": "Кременець",
+      "name_en": "Kremenets",
+      "slug": "kremenets",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61020070000092368",
+      "hromada_name": "Кременецька міська громада",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020090010092599",
+      "name": "Ланівці",
+      "name_en": "Lanivtsi",
+      "slug": "lanivtsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61020090000020422",
+      "hromada_name": "Лановецька міська громада",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020130010032621",
+      "name": "Почаїв",
+      "name_en": "Pochaiv",
+      "slug": "pochaiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61020130000037505",
+      "hromada_name": "Почаївська міська громада",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61020150010042611",
+      "name": "Шумськ",
+      "name_en": "Shumsk",
+      "slug": "shumsk",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61020150000036935",
+      "hromada_name": "Шумська міська громада",
+      "rayon_name": "Кременецький район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040030010016917",
+      "name": "Бережани",
+      "name_en": "Berezhany",
+      "slug": "berezhany",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040030000060956",
+      "hromada_name": "Бережанська міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040150010018110",
+      "name": "Збараж",
+      "name_en": "Zbarazh",
+      "slug": "zbarazh",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040150000098181",
+      "hromada_name": "Збаразька міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040170010060494",
+      "name": "Зборів",
+      "name_en": "Zboriv",
+      "slug": "zboriv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040170000086062",
+      "hromada_name": "Зборівська міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040370010042063",
+      "name": "Підгайці",
+      "name_en": "Pidhaitsi",
+      "slug": "pidhaitsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040370000060170",
+      "hromada_name": "Підгаєцька міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040430010057663",
+      "name": "Скалат",
+      "name_en": "Skalat",
+      "slug": "skalat",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040430000018305",
+      "hromada_name": "Скалатська міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040470010037126",
+      "name": "Теребовля",
+      "name_en": "Terebovlia",
+      "slug": "terebovlia",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040470000038207",
+      "hromada_name": "Теребовлянська міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61040490010069060",
+      "name": "Тернопіль",
+      "name_en": "Ternopil",
+      "slug": "ternopil",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61040490000035010",
+      "hromada_name": "Тернопільська міська громада",
+      "rayon_name": "Тернопільський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060050010030430",
+      "name": "Борщів",
+      "name_en": "Borshchiv",
+      "slug": "borshchiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060050000068464",
+      "hromada_name": "Борщівська міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060070010075450",
+      "name": "Бучач",
+      "name_en": "Buchach",
+      "slug": "buchach",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060070000098188",
+      "hromada_name": "Бучацька міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060170010057218",
+      "name": "Заліщики",
+      "name_en": "Zalishchyky",
+      "slug": "zalishchyky",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060170000051011",
+      "hromada_name": "Заліщицька міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060250010085416",
+      "name": "Копичинці",
+      "name_en": "Kopychyntsi",
+      "slug": "kopychyntsi",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060250000062700",
+      "hromada_name": "Копичинецька міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060310010085741",
+      "name": "Монастириська",
+      "name_en": "Monastyryska",
+      "slug": "monastyryska",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060310000061998",
+      "hromada_name": "Монастириська міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060410010063308",
+      "name": "Хоростків",
+      "name_en": "Khorostkiv",
+      "slug": "khorostkiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060410000092242",
+      "hromada_name": "Хоростківська міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    },
+    {
+      "code": "UA61060430010047348",
+      "name": "Чортків",
+      "name_en": "Chortkiv",
+      "slug": "chortkiv",
+      "category": "М",
+      "category_name": "місто",
+      "category_name_en": "city",
+      "hromada_code": "UA61060430000094264",
+      "hromada_name": "Чортківська міська громада",
+      "rayon_name": "Чортківський район",
+      "oblast_id": 19,
+      "oblast_name": "Тернопільська область",
+      "oblast_slug": "ternopilska"
+    }
+  ],
+  "meta": {
+    "title": "Міста Тернопільської області - Безкоштовне завантаження",
+    "description": "Список 18 міст Тернопільської області (категорія М у КАТОТТГ). Містить 18 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Міста Тернопільської області | ListBase",
+    "seo_description": "Завантажити Міста Тернопільської області — 18 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 18 записів / 13 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

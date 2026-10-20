@@ -1,0 +1,196 @@
+{
+  "id": "uk-odynytsi-vymiru-duration",
+  "name": "Одиниці вимірювання — категорія 'duration' (15)",
+  "title": "Одиниці вимірювання — категорія 'duration' (15)",
+  "description": "Одиниці вимірювання категорії 'duration' з локалі uk у CLDR, з назвами українською.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katehoriia",
+      "label": "Katehoriia",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "skorochennia",
+      "label": "Skorochennia",
+      "type": "string"
+    },
+    {
+      "key": "vuzka_forma",
+      "label": "Vuzka Forma",
+      "type": "string"
+    },
+    {
+      "key": "vzirets",
+      "label": "Vzirets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "katehoriia": "duration",
+      "nazva": "століття",
+      "skorochennia": "ст.",
+      "vuzka_forma": "ст",
+      "vzirets": "{0} століття"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "katehoriia": "duration",
+      "nazva": "дні",
+      "skorochennia": "дн.",
+      "vuzka_forma": "д",
+      "vzirets": "{0} дня"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "katehoriia": "duration",
+      "nazva": "десятиліття",
+      "skorochennia": "10-ліття",
+      "vuzka_forma": "10-літ.",
+      "vzirets": "{0} десятиліття"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "katehoriia": "duration",
+      "nazva": "fortnight",
+      "skorochennia": "fortnight",
+      "vuzka_forma": "fortnight",
+      "vzirets": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "katehoriia": "duration",
+      "nazva": "години",
+      "skorochennia": "год",
+      "vuzka_forma": "г",
+      "vzirets": "{0} години"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "katehoriia": "duration",
+      "nazva": "мікросекунди",
+      "skorochennia": "мкс",
+      "vuzka_forma": "мкс",
+      "vzirets": "{0} мікросекунди"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "katehoriia": "duration",
+      "nazva": "мілісекунди",
+      "skorochennia": "мс",
+      "vuzka_forma": "мс",
+      "vzirets": "{0} мілісекунди"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "katehoriia": "duration",
+      "nazva": "хвилини",
+      "skorochennia": "хв",
+      "vuzka_forma": "х",
+      "vzirets": "{0} хвилини"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "katehoriia": "duration",
+      "nazva": "місяці",
+      "skorochennia": "міс.",
+      "vuzka_forma": "м",
+      "vzirets": "{0} місяця"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "katehoriia": "duration",
+      "nazva": "наносекунди",
+      "skorochennia": "нс",
+      "vuzka_forma": "нс",
+      "vzirets": "{0} наносекунди"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "katehoriia": "duration",
+      "nazva": "ночі",
+      "skorochennia": "нч.",
+      "vuzka_forma": "нч",
+      "vzirets": "{0} ночі"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "katehoriia": "duration",
+      "nazva": "квартали",
+      "skorochennia": "кв.",
+      "vuzka_forma": "кв",
+      "vzirets": "{0} кварталу"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "katehoriia": "duration",
+      "nazva": "секунди",
+      "skorochennia": "с",
+      "vuzka_forma": "с",
+      "vzirets": "{0} секунди"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "katehoriia": "duration",
+      "nazva": "тижні",
+      "skorochennia": "тиж.",
+      "vuzka_forma": "т",
+      "vzirets": "{0} тижня"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "katehoriia": "duration",
+      "nazva": "роки",
+      "skorochennia": "р.",
+      "vuzka_forma": "р",
+      "vzirets": "{0} року"
+    }
+  ],
+  "meta": {
+    "title": "Одиниці вимірювання — категорія 'duration' (15) - Безкоштовне завантаження",
+    "description": "Одиниці вимірювання категорії 'duration' з локалі uk у CLDR, з назвами українською. Містить 15 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Одиниці вимірювання — категорія 'duration' (15) | ListBase",
+    "seo_description": "Завантажити Одиниці вимірювання — категорія 'duration' (15) — 15 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 15 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

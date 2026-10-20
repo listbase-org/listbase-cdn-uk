@@ -1,0 +1,830 @@
+{
+  "id": "uk-zakarpatska-hromady",
+  "name": "Територіальні громади Закарпатської області",
+  "title": "Територіальні громади Закарпатської області",
+  "description": "Список 69 територіальних громад Закарпатської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA21020010000055068",
+      "name": "Батівська селищна громада",
+      "name_en": "Bativska selyshchna hromada",
+      "slug": "bativska-selyshchna-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020030000019624",
+      "name": "Берегівська міська громада",
+      "name_en": "Berehivska miska hromada",
+      "slug": "berehivska-miska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020050000065800",
+      "name": "Великоберезька сільська громада",
+      "name_en": "Velykoberezka silska hromada",
+      "slug": "velykoberezka-silska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020070000015036",
+      "name": "Великобийганська сільська громада",
+      "name_en": "Velykobyihanska silska hromada",
+      "slug": "velykobyihanska-silska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020090000083647",
+      "name": "Вилоцька селищна громада",
+      "name_en": "Vylotska selyshchna hromada",
+      "slug": "vylotska-selyshchna-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020110000091104",
+      "name": "Виноградівська міська громада",
+      "name_en": "Vynohradivska miska hromada",
+      "slug": "vynohradivska-miska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020130000047547",
+      "name": "Кам'янська сільська громада",
+      "name_en": "Kamyanska silska hromada",
+      "slug": "kamyanska-silska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020150000043098",
+      "name": "Королівська селищна громада",
+      "name_en": "Korolivska selyshchna hromada",
+      "slug": "korolivska-selyshchna-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020170000069101",
+      "name": "Косоньська сільська громада",
+      "name_en": "Kosonska silska hromada",
+      "slug": "kosonska-silska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21020190000086409",
+      "name": "Пийтерфолвівська сільська громада",
+      "name_en": "Pyiterfolvivska silska hromada",
+      "slug": "pyiterfolvivska-silska-hromada",
+      "rayon_code": "UA21020000000051405",
+      "rayon_name": "Берегівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040010000055885",
+      "name": "Великолучківська сільська громада",
+      "name_en": "Velykoluchkivska silska hromada",
+      "slug": "velykoluchkivska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040030000026359",
+      "name": "Верхньокоропецька сільська громада",
+      "name_en": "Verkhnokoropetska silska hromada",
+      "slug": "verkhnokoropetska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040050000032164",
+      "name": "Воловецька селищна громада",
+      "name_en": "Volovetska selyshchna hromada",
+      "slug": "volovetska-selyshchna-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040070000029344",
+      "name": "Горондівська сільська громада",
+      "name_en": "Horondivska silska hromada",
+      "slug": "horondivska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040090000072363",
+      "name": "Жденіївська селищна громада",
+      "name_en": "Zhdeniivska selyshchna hromada",
+      "slug": "zhdeniivska-selyshchna-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040110000099623",
+      "name": "Івановецька сільська громада",
+      "name_en": "Ivanovetska silska hromada",
+      "slug": "ivanovetska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040130000019237",
+      "name": "Кольчинська селищна громада",
+      "name_en": "Kolchynska selyshchna hromada",
+      "slug": "kolchynska-selyshchna-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040150000092428",
+      "name": "Мукачівська міська громада",
+      "name_en": "Mukachivska miska hromada",
+      "slug": "mukachivska-miska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040170000092506",
+      "name": "Неліпинська сільська громада",
+      "name_en": "Nelipynska silska hromada",
+      "slug": "nelipynska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040190000088960",
+      "name": "Нижньоворітська сільська рада",
+      "name_en": "Nyzhnovoritska silska rada",
+      "slug": "nyzhnovoritska-silska-rada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040190000088960",
+      "name": "Нижньоворітська сільська громада",
+      "name_en": "Nyzhnovoritska silska hromada",
+      "slug": "nyzhnovoritska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040210000079273",
+      "name": "Полянська сільська рада (Свалявський район)",
+      "name_en": "Polianska silska rada (Svaliavskyi raion)",
+      "slug": "polianska-silska-rada-svaliavskyi-raion",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040210000079273",
+      "name": "Полянська сільська громада",
+      "name_en": "Polianska silska hromada",
+      "slug": "polianska-silska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040230000091606",
+      "name": "Свалявська міська громада",
+      "name_en": "Svaliavska miska hromada",
+      "slug": "svaliavska-miska-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21040250000010914",
+      "name": "Чинадіївська селищна громада",
+      "name_en": "Chynadiivska selyshchna hromada",
+      "slug": "chynadiivska-selyshchna-hromada",
+      "rayon_code": "UA21040000000077329",
+      "rayon_name": "Мукачівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21060010000011784",
+      "name": "Богданська сільська громада",
+      "name_en": "Bohdanska silska hromada",
+      "slug": "bohdanska-silska-hromada",
+      "rayon_code": "UA21060000000059475",
+      "rayon_name": "Рахівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21060030000020114",
+      "name": "Великобичківська селищна громада",
+      "name_en": "Velykobychkivska selyshchna hromada",
+      "slug": "velykobychkivska-selyshchna-hromada",
+      "rayon_code": "UA21060000000059475",
+      "rayon_name": "Рахівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21060050000029937",
+      "name": "Рахівська міська громада",
+      "name_en": "Rakhivska miska hromada",
+      "slug": "rakhivska-miska-hromada",
+      "rayon_code": "UA21060000000059475",
+      "rayon_name": "Рахівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21060070000049340",
+      "name": "Ясінянська селищна громада",
+      "name_en": "Yasinianska selyshchna hromada",
+      "slug": "yasinianska-selyshchna-hromada",
+      "rayon_code": "UA21060000000059475",
+      "rayon_name": "Рахівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080010000097427",
+      "name": "Бедевлянська сільська громада",
+      "name_en": "Bedevlianska silska hromada",
+      "slug": "bedevlianska-silska-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080030000084057",
+      "name": "Буштинська селищна громада",
+      "name_en": "Bushtynska selyshchna hromada",
+      "slug": "bushtynska-selyshchna-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080050000056542",
+      "name": "Вільховецька сільська громада",
+      "name_en": "Vilkhovetska silska hromada",
+      "slug": "vilkhovetska-silska-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080070000025254",
+      "name": "Дубівська селищна громада",
+      "name_en": "Dubivska selyshchna hromada",
+      "slug": "dubivska-selyshchna-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080090000024861",
+      "name": "Нересницька сільська громада",
+      "name_en": "Neresnytska silska hromada",
+      "slug": "neresnytska-silska-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080110000054940",
+      "name": "Солотвинська селищна громада (Закарпатська область)",
+      "name_en": "Solotvynska selyshchna hromada (Zakarpatska oblast)",
+      "slug": "solotvynska-selyshchna-hromada-zakarpatska-oblast",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080130000093757",
+      "name": "Тересвянська селищна громада",
+      "name_en": "Teresvianska selyshchna hromada",
+      "slug": "teresvianska-selyshchna-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080150000014443",
+      "name": "Тячівська міська громада",
+      "name_en": "Tiachivska miska hromada",
+      "slug": "tiachivska-miska-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080170000093911",
+      "name": "Углянська сільська громада",
+      "name_en": "Uhlianska silska hromada",
+      "slug": "uhlianska-silska-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21080190000094580",
+      "name": "Усть-Чорнянська селищна громада",
+      "name_en": "Ust-Chornianska selyshchna hromada",
+      "slug": "ust-chornianska-selyshchna-hromada",
+      "rayon_code": "UA21080000000048851",
+      "rayon_name": "Тячівський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100010000070243",
+      "name": "Баранинська сільська громада",
+      "name_en": "Baranynska silska hromada",
+      "slug": "baranynska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100030000089881",
+      "name": "Великоберезнянська селищна громада",
+      "name_en": "Velykobereznianska selyshchna hromada",
+      "slug": "velykobereznianska-selyshchna-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100050000042361",
+      "name": "Великодобронська сільська громада",
+      "name_en": "Velykodobronska silska hromada",
+      "slug": "velykodobronska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100070000018509",
+      "name": "Дубриницько-Малоберезнянська сільська громада",
+      "name_en": "Dubrynytsko-Malobereznianska silska hromada",
+      "slug": "dubrynytsko-malobereznianska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100090000012128",
+      "name": "Костринська сільська громада",
+      "name_en": "Kostrynska silska hromada",
+      "slug": "kostrynska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100110000018765",
+      "name": "Оноківська сільська громада",
+      "name_en": "Onokivska silska hromada",
+      "slug": "onokivska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100130000055002",
+      "name": "Перечинська міська громада",
+      "name_en": "Perechynska miska hromada",
+      "slug": "perechynska-miska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100150000019483",
+      "name": "Середнянська селищна громада",
+      "name_en": "Serednianska selyshchna hromada",
+      "slug": "serednianska-selyshchna-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100170000051803",
+      "name": "Ставненська сільська громада",
+      "name_en": "Stavnenska silska hromada",
+      "slug": "stavnenska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100190000078736",
+      "name": "Сюртівська сільська громада",
+      "name_en": "Siurtivska silska hromada",
+      "slug": "siurtivska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100210000026937",
+      "name": "Тур'є-Реметівська сільська громада",
+      "name_en": "Turye-Remetivska silska hromada",
+      "slug": "turye-remetivska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100230000083101",
+      "name": "Ужгородська міська громада",
+      "name_en": "Uzhhorodska miska hromada",
+      "slug": "uzhhorodska-miska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100250000028639",
+      "name": "Холмківська сільська громада",
+      "name_en": "Kholmkivska silska hromada",
+      "slug": "kholmkivska-silska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21100270000015047",
+      "name": "Чопська міська громада",
+      "name_en": "Chopska miska hromada",
+      "slug": "chopska-miska-hromada",
+      "rayon_code": "UA21100000000055073",
+      "rayon_name": "Ужгородський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120010000011654",
+      "name": "Білківська сільська громада",
+      "name_en": "Bilkivska silska hromada",
+      "slug": "bilkivska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120030000076462",
+      "name": "Вишківська селищна громада",
+      "name_en": "Vyshkivska selyshchna hromada",
+      "slug": "vyshkivska-selyshchna-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120050000055437",
+      "name": "Горінчівська сільська рада",
+      "name_en": "Horinchivska silska rada",
+      "slug": "horinchivska-silska-rada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120050000055437",
+      "name": "Горінчівська сільська громада",
+      "name_en": "Horinchivska silska hromada",
+      "slug": "horinchivska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120070000032447",
+      "name": "Довжанська сільська громада",
+      "name_en": "Dovzhanska silska hromada",
+      "slug": "dovzhanska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120090000025804",
+      "name": "Драгівська сільська рада",
+      "name_en": "Drahivska silska rada",
+      "slug": "drahivska-silska-rada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120090000025804",
+      "name": "Драгівська сільська громада",
+      "name_en": "Drahivska silska hromada",
+      "slug": "drahivska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120110000065395",
+      "name": "Зарічанська сільська рада",
+      "name_en": "Zarichanska silska rada",
+      "slug": "zarichanska-silska-rada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120110000065395",
+      "name": "Зарічанська сільська громада",
+      "name_en": "Zarichanska silska hromada",
+      "slug": "zarichanska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120130000025618",
+      "name": "Іршавська міська громада",
+      "name_en": "Irshavska miska hromada",
+      "slug": "irshavska-miska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120150000079563",
+      "name": "Керецьківська сільська громада",
+      "name_en": "Keretskivska silska hromada",
+      "slug": "keretskivska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120170000080579",
+      "name": "Колочавська сільська громада",
+      "name_en": "Kolochavska silska hromada",
+      "slug": "kolochavska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120190000082169",
+      "name": "Міжгірська селищна громада",
+      "name_en": "Mizhhirska selyshchna hromada",
+      "slug": "mizhhirska-selyshchna-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120210000094884",
+      "name": "Пилипецька сільська громада",
+      "name_en": "Pylypetska silska hromada",
+      "slug": "pylypetska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120230000041982",
+      "name": "Синевирська сільська громада",
+      "name_en": "Synevyrska silska hromada",
+      "slug": "synevyrska-silska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    },
+    {
+      "code": "UA21120250000077532",
+      "name": "Хустська міська громада",
+      "name_en": "Khustska miska hromada",
+      "slug": "khustska-miska-hromada",
+      "rayon_code": "UA21120000000022889",
+      "rayon_name": "Хустський район",
+      "oblast_id": 7,
+      "oblast_name": "Закарпатська область",
+      "oblast_slug": "zakarpatska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Закарпатської області - Безкоштовне завантаження",
+    "description": "Список 69 територіальних громад Закарпатської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 69 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Закарпатської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Закарпатської області — 69 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 69 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

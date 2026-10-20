@@ -1,0 +1,86 @@
+{
+  "id": "uk-khmelnytska-rayony",
+  "name": "Райони Хмельницької області",
+  "title": "Райони Хмельницької області",
+  "description": "Список усіх 2 районів Хмельницької області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA68040000000086061",
+      "name": "Хмельницький район",
+      "name_en": "Khmelnytskyi raion",
+      "slug": "khmelnytskyi-raion",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska",
+      "parent_code": "UA68000000000099709"
+    },
+    {
+      "code": "UA68060000000040570",
+      "name": "Шепетівський район",
+      "name_en": "Shepetivskyi raion",
+      "slug": "shepetivskyi-raion",
+      "oblast_id": 22,
+      "oblast_name": "Хмельницька область",
+      "oblast_slug": "khmelnytska",
+      "parent_code": "UA68000000000099709"
+    }
+  ],
+  "meta": {
+    "title": "Райони Хмельницької області - Безкоштовне завантаження",
+    "description": "Список усіх 2 районів Хмельницької області згідно з КАТОТТГ (реформа 2020 року). Містить 2 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Хмельницької області | ListBase",
+    "seo_description": "Завантажити Райони Хмельницької області — 2 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 2 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

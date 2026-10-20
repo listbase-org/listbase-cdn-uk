@@ -1,0 +1,136 @@
+{
+  "id": "uk-vinnytska-rayony",
+  "name": "Райони Вінницької області",
+  "title": "Райони Вінницької області",
+  "description": "Список усіх 7 районів Вінницької області згідно з КАТОТТГ (реформа 2020 року).",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "parent_code",
+      "label": "Parent Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA05020000000026686",
+      "name": "Вінницький район",
+      "name_en": "Vinnytskyi raion",
+      "slug": "vinnytskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    },
+    {
+      "code": "UA05020000000026686",
+      "name": "Вінницький район",
+      "name_en": "Vinnytskyi raion",
+      "slug": "vinnytskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    },
+    {
+      "code": "UA05040000000050292",
+      "name": "Гайсинський район",
+      "name_en": "Haisynskyi raion",
+      "slug": "haisynskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    },
+    {
+      "code": "UA05060000000061926",
+      "name": "Жмеринський район",
+      "name_en": "Zhmerynskyi raion",
+      "slug": "zhmerynskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    },
+    {
+      "code": "UA05080000000040234",
+      "name": "Могилів-Подільський район",
+      "name_en": "Mohyliv-Podilskyi raion",
+      "slug": "mohyliv-podilskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    },
+    {
+      "code": "UA05100000000022396",
+      "name": "Тульчинський район",
+      "name_en": "Tulchynskyi raion",
+      "slug": "tulchynskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    },
+    {
+      "code": "UA05120000000017020",
+      "name": "Хмільницький район",
+      "name_en": "Khmilnytskyi raion",
+      "slug": "khmilnytskyi-raion",
+      "oblast_id": 2,
+      "oblast_name": "Вінницька область",
+      "oblast_slug": "vinnytska",
+      "parent_code": "UA05000000000010236"
+    }
+  ],
+  "meta": {
+    "title": "Райони Вінницької області - Безкоштовне завантаження",
+    "description": "Список усіх 7 районів Вінницької області згідно з КАТОТТГ (реформа 2020 року). Містить 7 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Райони Вінницької області | ListBase",
+    "seo_description": "Завантажити Райони Вінницької області — 7 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 7 записів / 8 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

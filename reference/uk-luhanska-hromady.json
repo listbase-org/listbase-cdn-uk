@@ -1,0 +1,423 @@
+{
+  "id": "uk-luhanska-hromady",
+  "name": "Територіальні громади Луганської області",
+  "title": "Територіальні громади Луганської області",
+  "description": "Список 32 територіальних громад Луганської області згідно з КАТОТТГ — сільські, селищні та міські громади.",
+  "category": "reference",
+  "source": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "source_url": "https://github.com/mykhailoklimnyk/ua-administrative-codes",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "rayon_code",
+      "label": "Rayon Code",
+      "type": "string"
+    },
+    {
+      "key": "rayon_name",
+      "label": "Rayon Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_id",
+      "label": "Oblast Id",
+      "type": "number"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "UA44020010000067642",
+      "name": "Алчевська міська громада",
+      "name_en": "Alchevska miska hromada",
+      "slug": "alchevska-miska-hromada",
+      "rayon_code": "UA44020000000082097",
+      "rayon_name": "Алчевський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44020050000061272",
+      "name": "Кадіївська міська громада",
+      "name_en": "Kadiivska miska hromada",
+      "slug": "kadiivska-miska-hromada",
+      "rayon_code": "UA44020000000082097",
+      "rayon_name": "Алчевський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44040030000034083",
+      "name": "Сорокинська міська громада",
+      "name_en": "Sorokynska miska hromada",
+      "slug": "sorokynska-miska-hromada",
+      "rayon_code": "UA44040000000032820",
+      "rayon_name": "Довжанський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44060010000059164",
+      "name": "Луганська міська громада",
+      "name_en": "Luhanska miska hromada",
+      "slug": "luhanska-miska-hromada",
+      "rayon_code": "UA44060000000048093",
+      "rayon_name": "Луганський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44060030000019360",
+      "name": "Лутугинська міська громада",
+      "name_en": "Lutuhynska miska hromada",
+      "slug": "lutuhynska-miska-hromada",
+      "rayon_code": "UA44060000000048093",
+      "rayon_name": "Луганський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44060050000028333",
+      "name": "Отаманівська міська громада",
+      "name_en": "Otamanivska miska hromada",
+      "slug": "otamanivska-miska-hromada",
+      "rayon_code": "UA44060000000048093",
+      "rayon_name": "Луганський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100010000048313",
+      "name": "Білокуракинська селищна громада",
+      "name_en": "Bilokurakynska selyshchna hromada",
+      "slug": "bilokurakynska-selyshchna-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100030000094890",
+      "name": "Коломийчиська сільська громада",
+      "name_en": "Kolomyichyska silska hromada",
+      "slug": "kolomyichyska-silska-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100050000027880",
+      "name": "Красноріченська селищна громада",
+      "name_en": "Krasnorichenska selyshchna hromada",
+      "slug": "krasnorichenska-selyshchna-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100070000070448",
+      "name": "Лозно-Олександрівська селищна громада",
+      "name_en": "Lozno-Oleksandrivska selyshchna hromada",
+      "slug": "lozno-oleksandrivska-selyshchna-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100090000087782",
+      "name": "Нижньодуванська селищна громада",
+      "name_en": "Nyzhnoduvanska selyshchna hromada",
+      "slug": "nyzhnoduvanska-selyshchna-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100110000061602",
+      "name": "Сватівська міська громада",
+      "name_en": "Svativska miska hromada",
+      "slug": "svativska-miska-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44100130000017965",
+      "name": "Троїцька селищна громада",
+      "name_en": "Troitska selyshchna hromada",
+      "slug": "troitska-selyshchna-hromada",
+      "rayon_code": "UA44100000000052765",
+      "rayon_name": "Сватівський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44120010000044132",
+      "name": "Гірська міська громада",
+      "name_en": "Hirska miska hromada",
+      "slug": "hirska-miska-hromada",
+      "rayon_code": "UA44120000000092852",
+      "rayon_name": "Сіверськодонецький район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44120030000094047",
+      "name": "Кремінська міська громада",
+      "name_en": "Kreminska miska hromada",
+      "slug": "kreminska-miska-hromada",
+      "rayon_code": "UA44120000000092852",
+      "rayon_name": "Сіверськодонецький район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44120050000066819",
+      "name": "Лисичанська міська громада",
+      "name_en": "Lysychanska miska hromada",
+      "slug": "lysychanska-miska-hromada",
+      "rayon_code": "UA44120000000092852",
+      "rayon_name": "Сіверськодонецький район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44120070000073915",
+      "name": "Попаснянська міська громада",
+      "name_en": "Popasnianska miska hromada",
+      "slug": "popasnianska-miska-hromada",
+      "rayon_code": "UA44120000000092852",
+      "rayon_name": "Сіверськодонецький район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44120090000062828",
+      "name": "Рубіжанська міська громада",
+      "name_en": "Rubizhanska miska hromada",
+      "slug": "rubizhanska-miska-hromada",
+      "rayon_code": "UA44120000000092852",
+      "rayon_name": "Сіверськодонецький район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44120110000010163",
+      "name": "Сіверськодонецька міська громада",
+      "name_en": "Siverskodonetska miska hromada",
+      "slug": "siverskodonetska-miska-hromada",
+      "rayon_code": "UA44120000000092852",
+      "rayon_name": "Сіверськодонецький район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140010000036188",
+      "name": "Біловодська селищна громада",
+      "name_en": "Bilovodska selyshchna hromada",
+      "slug": "bilovodska-selyshchna-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140030000070201",
+      "name": "Білолуцька селищна громада",
+      "name_en": "Bilolutska selyshchna hromada",
+      "slug": "bilolutska-selyshchna-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140050000026566",
+      "name": "Марківська селищна громада",
+      "name_en": "Markivska selyshchna hromada",
+      "slug": "markivska-selyshchna-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140070000058445",
+      "name": "Мілівська селищна громада",
+      "name_en": "Milivska selyshchna hromada",
+      "slug": "milivska-selyshchna-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140090000072167",
+      "name": "Айдарська селищна територіальна громада",
+      "name_en": "Aidarska selyshchna terytorialna hromada",
+      "slug": "aidarska-selyshchna-terytorialna-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140110000056578",
+      "name": "Старобільська міська громада",
+      "name_en": "Starobilska miska hromada",
+      "slug": "starobilska-miska-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140130000089782",
+      "name": "Чмирівська сільська громада",
+      "name_en": "Chmyrivska silska hromada",
+      "slug": "chmyrivska-silska-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44140150000072734",
+      "name": "Шульгинська сільська громада",
+      "name_en": "Shulhynska silska hromada",
+      "slug": "shulhynska-silska-hromada",
+      "rayon_code": "UA44140000000031142",
+      "rayon_name": "Старобільський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44160010000053248",
+      "name": "Нижньотеплівська сільська громада",
+      "name_en": "Nyzhnoteplivska silska hromada",
+      "slug": "nyzhnoteplivska-silska-hromada",
+      "rayon_code": "UA44160000000057142",
+      "rayon_name": "Щастинський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44160030000020916",
+      "name": "Новоайдарська селищна громада",
+      "name_en": "Novoaidarska selyshchna hromada",
+      "slug": "novoaidarska-selyshchna-hromada",
+      "rayon_code": "UA44160000000057142",
+      "rayon_name": "Щастинський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44160050000040019",
+      "name": "Станично-Луганська селищна громада",
+      "name_en": "Stanychno-Luhanska selyshchna hromada",
+      "slug": "stanychno-luhanska-selyshchna-hromada",
+      "rayon_code": "UA44160000000057142",
+      "rayon_name": "Щастинський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44160070000013725",
+      "name": "Широківська селищна територіальна громада",
+      "name_en": "Shyrokivska selyshchna terytorialna hromada",
+      "slug": "shyrokivska-selyshchna-terytorialna-hromada",
+      "rayon_code": "UA44160000000057142",
+      "rayon_name": "Щастинський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    },
+    {
+      "code": "UA44160090000075695",
+      "name": "Щастинська міська громада",
+      "name_en": "Shchastynska miska hromada",
+      "slug": "shchastynska-miska-hromada",
+      "rayon_code": "UA44160000000057142",
+      "rayon_name": "Щастинський район",
+      "oblast_id": 12,
+      "oblast_name": "Луганська область",
+      "oblast_slug": "luhanska"
+    }
+  ],
+  "meta": {
+    "title": "Територіальні громади Луганської області - Безкоштовне завантаження",
+    "description": "Список 32 територіальних громад Луганської області згідно з КАТОТТГ — сільські, селищні та міські громади. Містить 32 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Територіальні громади Луганської області | ListBase",
+    "seo_description": "Завантажити Територіальні громади Луганської області — 32 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 32 записів / 9 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: https://github.com/mykhailoklimnyk/ua-administrative-codes"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "uk-hrebli",
+  "name": "Греблі України",
+  "title": "Греблі України",
+  "description": "Перелік об'єктів типу «гребля» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_uk",
+      "label": "Name Uk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_uk",
+      "label": "Wikipedia Uk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q122728285",
+      "wikidata_id": "Q122728285",
+      "name_uk": "6.8. Земляна гребля",
+      "name_en": "",
+      "latitude": 48.764221,
+      "longitude": 30.239502,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q119210467",
+      "wikidata_id": "Q119210467",
+      "name_uk": "Гребля Каховської ГЕС",
+      "name_en": "Kakhovka Dam",
+      "latitude": 46.776111,
+      "longitude": 33.371667,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%93%D0%95%D0%A1"
+    },
+    {
+      "id": "Q131723800",
+      "wikidata_id": "Q131723800",
+      "name_uk": "Кам'янець-Подільська ГЕС",
+      "name_en": "",
+      "latitude": 48.673232,
+      "longitude": 26.565392,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%27%D1%8F%D0%BD%D0%B5%D1%86%D1%8C-%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1"
+    },
+    {
+      "id": "Q2027431",
+      "wikidata_id": "Q2027431",
+      "name_uk": "Канівська ГЕС",
+      "name_en": "Kaniv Hydroelectric Station",
+      "latitude": 49.766528,
+      "longitude": 31.471722,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1"
+    },
+    {
+      "id": "Q3443779",
+      "wikidata_id": "Q3443779",
+      "name_uk": "Київська ГЕС",
+      "name_en": "Kyiv Hydroelectric Power Plant",
+      "latitude": 50.588795,
+      "longitude": 30.511938,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1"
+    },
+    {
+      "id": "Q3379438",
+      "wikidata_id": "Q3379438",
+      "name_uk": "Кременчуцька ГЕС",
+      "name_en": "Kremenchuk Hydroelectric Power Plant",
+      "latitude": 49.0775,
+      "longitude": 33.2506,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D1%83%D1%86%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1"
+    },
+    {
+      "id": "Q139825226",
+      "wikidata_id": "Q139825226",
+      "name_uk": "Новоселицька дамба",
+      "name_en": "",
+      "latitude": 49.377942,
+      "longitude": 28.187886,
+      "wikipedia_uk": ""
+    },
+    {
+      "id": "Q3379468",
+      "wikidata_id": "Q3379468",
+      "name_uk": "Середньодніпровська ГЕС",
+      "name_en": "Middle Dnieper Hydroelectric Station",
+      "latitude": 48.548,
+      "longitude": 34.5413,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D0%B4%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1"
+    },
+    {
+      "id": "Q12169764",
+      "wikidata_id": "Q12169764",
+      "name_uk": "Черкаська дамба",
+      "name_en": "Cherkasy Dam",
+      "latitude": 49.50211,
+      "longitude": 32.07089,
+      "wikipedia_uk": "https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_%D0%B4%D0%B0%D0%BC%D0%B1%D0%B0"
+    }
+  ],
+  "meta": {
+    "title": "Греблі України - Безкоштовне завантаження",
+    "description": "Перелік об'єктів типу «гребля» в Україні з відкритих даних Вікіданих (Wikidata). Кожен запис містить українську назву, англійську назву, координати та посилання на статтю української Вікіпедії за наявності. Містить 9 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Греблі України | ListBase",
+    "seo_description": "Завантажити Греблі України — 9 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 9 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

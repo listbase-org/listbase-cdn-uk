@@ -1,0 +1,93 @@
+{
+  "id": "uk-mykolaiv-banky",
+  "name": "Банки в Миколаєві — коди SWIFT/BIC (Mykolaiv bank SWIFT/BIC codes)",
+  "title": "Банки в Миколаєві — коди SWIFT/BIC (Mykolaiv bank SWIFT/BIC codes)",
+  "description": "Перелік: 6 банківських установ у місті Миколаїв (Mykolaiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"MYKOLAIV\"). Per-city split of the Ukrainian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 43,
+      "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "city": "MYKOLAIV",
+      "branch": "(MYKOLAIV BRANCH)",
+      "swift_code": "FUIBUA2XNIC"
+    },
+    {
+      "id": 79,
+      "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+      "city": "MYKOLAIV",
+      "branch": "(MYKOLAIV BRANCH)",
+      "swift_code": "EXBSUAUXMYK"
+    },
+    {
+      "id": 114,
+      "bank": "MEGABANK PJSC",
+      "city": "MYKOLAIV",
+      "branch": "",
+      "swift_code": "DBBKUA2KMYK"
+    },
+    {
+      "id": 174,
+      "bank": "PJSC CB PRIVATBANK",
+      "city": "MYKOLAIV",
+      "branch": "",
+      "swift_code": "PBANUA2XMYK"
+    },
+    {
+      "id": 242,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+      "city": "MYKOLAIV",
+      "branch": "(MYKOLAIV REGIONAL BRANCH)",
+      "swift_code": "COSBUAUKMYK"
+    },
+    {
+      "id": 265,
+      "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+      "city": "MYKOLAIV",
+      "branch": "(MYKOLAIV BRANCH)",
+      "swift_code": "OTPVUAU1400"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Миколаєві — коди SWIFT/BIC (Mykolaiv bank SWIFT/BIC codes) - Безкоштовне завантаження",
+    "description": "Перелік: 6 банківських установ у місті Миколаїв (Mykolaiv) з кодами SWIFT/BIC — назва банку, місто, відділення та SWIFT-код. Виділено за містами з національного набору uk-banky (296 записів) джерела PeterNotenboom/SwiftCodes; поле city збережено дослівно як у джерелі (\"MYKOLAIV\"). Per-city split of the Ukrainian SWIFT/BIC list. Містить 6 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Банки в Миколаєві — коди SWIFT/BIC (Mykolaiv bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Завантажити Банки в Миколаєві — коди SWIFT/BIC (Mykolaiv bank SWIFT/BIC codes) — 6 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 6 записів / 5 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}

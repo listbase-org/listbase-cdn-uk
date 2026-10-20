@@ -1,0 +1,4201 @@
+{
+  "id": "uk-muzei",
+  "name": "Музеї України (Museums in Ukraine)",
+  "title": "Музеї України (Museums in Ukraine)",
+  "description": "Перелік із 460 музеїв України за даними OpenStreetMap — назва, місто, координати та вебсайт.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 460,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bereznitsky Aesthetics Gallery",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.459903,
+      "longitude": 30.511611,
+      "website": ""
+    },
+    {
+      "name": "guerillas camp",
+      "name_en": "",
+      "city": "Krasnyy Luch",
+      "country": "Ukraine",
+      "latitude": 48.285972,
+      "longitude": 38.996497,
+      "website": ""
+    },
+    {
+      "name": "Hacker Home",
+      "name_en": "",
+      "city": "Pervomays’k",
+      "country": "Ukraine",
+      "latitude": 48.059949,
+      "longitude": 30.847776,
+      "website": ""
+    },
+    {
+      "name": "Iсторико-Краезнавчий Музей",
+      "name_en": "",
+      "city": "Kryvyy Rih",
+      "country": "Ukraine",
+      "latitude": 47.902035,
+      "longitude": 33.346969,
+      "website": ""
+    },
+    {
+      "name": "Jóska bácsi kiállítása",
+      "name_en": "",
+      "city": "Vary",
+      "country": "Ukraine",
+      "latitude": 48.053017,
+      "longitude": 22.653683,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Vary",
+      "country": "Ukraine",
+      "latitude": 48.049515,
+      "longitude": 22.709972,
+      "website": ""
+    },
+    {
+      "name": "Túristvándi Vízimalom",
+      "name_en": "",
+      "city": "Vary",
+      "country": "Ukraine",
+      "latitude": 48.04801,
+      "longitude": 22.642548,
+      "website": ""
+    },
+    {
+      "name": "А.В.Суворова",
+      "name_en": "",
+      "city": "Izmayil",
+      "country": "Ukraine",
+      "latitude": 45.342546,
+      "longitude": 28.835349,
+      "website": ""
+    },
+    {
+      "name": "АвтоМотоВелоФотоРадіо музей ретро-техніки",
+      "name_en": "",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.233526,
+      "longitude": 28.479085,
+      "website": ""
+    },
+    {
+      "name": "Аквариум Кубик",
+      "name_en": "",
+      "city": "Yalta",
+      "country": "Ukraine",
+      "latitude": 44.490718,
+      "longitude": 34.15636,
+      "website": ""
+    },
+    {
+      "name": "Аллея вождей",
+      "name_en": "",
+      "city": "Olenevka",
+      "country": "Ukraine",
+      "latitude": 45.333733,
+      "longitude": 32.569183,
+      "website": ""
+    },
+    {
+      "name": "Алуштинский литературно-мемориальный музей С.Н. Сергеева-Ценского",
+      "name_en": "",
+      "city": "Alushta",
+      "country": "Ukraine",
+      "latitude": 44.662693,
+      "longitude": 34.40212,
+      "website": ""
+    },
+    {
+      "name": "Аптека - музей",
+      "name_en": "",
+      "city": "Yevpatoriya",
+      "country": "Ukraine",
+      "latitude": 45.197417,
+      "longitude": 33.380137,
+      "website": ""
+    },
+    {
+      "name": "Аптека музей",
+      "name_en": "Drag store museum",
+      "city": "Kharkiv",
+      "country": "Ukraine",
+      "latitude": 49.981383,
+      "longitude": 36.230502,
+      "website": ""
+    },
+    {
+      "name": "Аптека-Музей",
+      "name_en": "",
+      "city": "Cherkasy",
+      "country": "Ukraine",
+      "latitude": 49.4433,
+      "longitude": 32.06671,
+      "website": ""
+    },
+    {
+      "name": "АРТ центр \"Світовид\"",
+      "name_en": "",
+      "city": "Kolomyya",
+      "country": "Ukraine",
+      "latitude": 48.527009,
+      "longitude": 25.047554,
+      "website": "http://facebook.com/svitovyd.art"
+    },
+    {
+      "name": "Археологічний музей",
+      "name_en": "",
+      "city": "Kamieniec Podolski",
+      "country": "Ukraine",
+      "latitude": 48.672561,
+      "longitude": 26.573696,
+      "website": ""
+    },
+    {
+      "name": "Балаклавский подземный музейный комплекс (Военно-исторический музей фортификационных сооружений)",
+      "name_en": "",
+      "city": "Balaklava",
+      "country": "Ukraine",
+      "latitude": 44.500936,
+      "longitude": 33.596398,
+      "website": "http://muzey-sevastopol.com"
+    },
+    {
+      "name": "Балаклійський краєзнавчий музей",
+      "name_en": "",
+      "city": "Balakliya",
+      "country": "Ukraine",
+      "latitude": 49.451848,
+      "longitude": 36.835177,
+      "website": ""
+    },
+    {
+      "name": "беренга",
+      "name_en": "",
+      "city": "Snizhne",
+      "country": "Ukraine",
+      "latitude": 48.016668,
+      "longitude": 38.717653,
+      "website": ""
+    },
+    {
+      "name": "Бобровицький музей",
+      "name_en": "",
+      "city": "Bobrovytsya",
+      "country": "Ukraine",
+      "latitude": 50.741678,
+      "longitude": 31.387426,
+      "website": ""
+    },
+    {
+      "name": "Бойківщина",
+      "name_en": "Boykivshchyna",
+      "city": "Dolyna",
+      "country": "Ukraine",
+      "latitude": 48.972066,
+      "longitude": 23.965112,
+      "website": ""
+    },
+    {
+      "name": "Бродівський історико-краєзнавчий музей",
+      "name_en": "",
+      "city": "Brody",
+      "country": "Ukraine",
+      "latitude": 50.082866,
+      "longitude": 25.147246,
+      "website": "http://www.brodu.narod.ru/"
+    },
+    {
+      "name": "Будинок, в якому проходила остання нарада військової ради Південно-Західного фронту",
+      "name_en": "",
+      "city": "Chornukhy",
+      "country": "Ukraine",
+      "latitude": 50.177944,
+      "longitude": 33.05693,
+      "website": ""
+    },
+    {
+      "name": "Бункер Штаєра",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.422002,
+      "longitude": 23.705712,
+      "website": ""
+    },
+    {
+      "name": "Буханчука",
+      "name_en": "",
+      "city": "Korostyshiv",
+      "country": "Ukraine",
+      "latitude": 50.294003,
+      "longitude": 28.885111,
+      "website": ""
+    },
+    {
+      "name": "Бывший музей раритетных мотоциклов",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.584679,
+      "longitude": 33.508007,
+      "website": ""
+    },
+    {
+      "name": "Василівський історико-архітектурний музей «Садиба Попова»",
+      "name_en": "",
+      "city": "Vasylivka",
+      "country": "Ukraine",
+      "latitude": 47.446171,
+      "longitude": 35.275941,
+      "website": ""
+    },
+    {
+      "name": "Великоанадольский Музей Леса",
+      "name_en": "",
+      "city": "Blagodatnoye",
+      "country": "Ukraine",
+      "latitude": 47.67691,
+      "longitude": 37.42498,
+      "website": ""
+    },
+    {
+      "name": "Виставка мотоциклів",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.855075,
+      "longitude": 24.028558,
+      "website": ""
+    },
+    {
+      "name": "Виставка пожежної охорони",
+      "name_en": "",
+      "city": "Zhytomyr",
+      "country": "Ukraine",
+      "latitude": 50.251207,
+      "longitude": 28.677735,
+      "website": ""
+    },
+    {
+      "name": "Виставка техніки та зброї часів Другої Світової війни",
+      "name_en": "",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.309328,
+      "longitude": 28.487594,
+      "website": ""
+    },
+    {
+      "name": "Виставкові зали Бродівського історико-краєзнавчого музею",
+      "name_en": "",
+      "city": "Brody",
+      "country": "Ukraine",
+      "latitude": 50.085647,
+      "longitude": 25.13867,
+      "website": ""
+    },
+    {
+      "name": "Виставкові зали СДІАЗ",
+      "name_en": "",
+      "city": "Svyatogorsk",
+      "country": "Ukraine",
+      "latitude": 49.02726,
+      "longitude": 37.568009,
+      "website": ""
+    },
+    {
+      "name": "Вишгородський історичний музей",
+      "name_en": "",
+      "city": "Vyshhorod",
+      "country": "Ukraine",
+      "latitude": 50.587595,
+      "longitude": 30.487578,
+      "website": ""
+    },
+    {
+      "name": "Военно-исторический музей фортификационных сооружений",
+      "name_en": "",
+      "city": "Balaklava",
+      "country": "Ukraine",
+      "latitude": 44.498344,
+      "longitude": 33.597536,
+      "website": ""
+    },
+    {
+      "name": "Воронцовский Дворец",
+      "name_en": "Vorontsov Palace",
+      "city": "Alupka",
+      "country": "Ukraine",
+      "latitude": 44.419841,
+      "longitude": 34.055794,
+      "website": ""
+    },
+    {
+      "name": "Выставка голограмм",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.611999,
+      "longitude": 33.492296,
+      "website": ""
+    },
+    {
+      "name": "Выставка динозавров",
+      "name_en": "",
+      "city": "Alushta",
+      "country": "Ukraine",
+      "latitude": 44.670192,
+      "longitude": 34.412967,
+      "website": ""
+    },
+    {
+      "name": "Выставка орудий пыток эпохи инквизиции",
+      "name_en": "",
+      "city": "Sudak",
+      "country": "Ukraine",
+      "latitude": 44.840905,
+      "longitude": 34.960192,
+      "website": ""
+    },
+    {
+      "name": "Відділ дерев'яної архітектури",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.348112,
+      "longitude": 23.499047,
+      "website": ""
+    },
+    {
+      "name": "Відділ природи",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.355888,
+      "longitude": 23.499862,
+      "website": ""
+    },
+    {
+      "name": "Відділ сакрального мистецтва",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.35447,
+      "longitude": 23.497594,
+      "website": ""
+    },
+    {
+      "name": "Відділ європейського мистецтва",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.354358,
+      "longitude": 23.499027,
+      "website": ""
+    },
+    {
+      "name": "Відділ історії",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.355434,
+      "longitude": 23.499701,
+      "website": ""
+    },
+    {
+      "name": "Війсково-історичний музей України",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.444366,
+      "longitude": 30.539031,
+      "website": ""
+    },
+    {
+      "name": "Вірменський колодязь",
+      "name_en": "",
+      "city": "Kamieniec Podolski",
+      "country": "Ukraine",
+      "latitude": 48.675292,
+      "longitude": 26.572446,
+      "website": ""
+    },
+    {
+      "name": "Галерея \"ВИСОЦЬКИЙ\"",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.459623,
+      "longitude": 30.512152,
+      "website": "http://vysotsky-gallery.org"
+    },
+    {
+      "name": "Галерея мистецтв",
+      "name_en": "",
+      "city": "Kamieniec Podolski",
+      "country": "Ukraine",
+      "latitude": 48.672914,
+      "longitude": 26.57381,
+      "website": ""
+    },
+    {
+      "name": "Галицький національний природний парк (Природа землі Галицької)",
+      "name_en": "",
+      "city": "Bilshivtsi",
+      "country": "Ukraine",
+      "latitude": 49.096881,
+      "longitude": 24.716141,
+      "website": "http://galychpark.if.ua/"
+    },
+    {
+      "name": "Гончарная Мастерская",
+      "name_en": "",
+      "city": "Kamieniec Podolski",
+      "country": "Ukraine",
+      "latitude": 48.672943,
+      "longitude": 26.563748,
+      "website": ""
+    },
+    {
+      "name": "Городоцький історико-краєзнавчий музей",
+      "name_en": "",
+      "city": "Horodok",
+      "country": "Ukraine",
+      "latitude": 49.784273,
+      "longitude": 23.646304,
+      "website": ""
+    },
+    {
+      "name": "Городской исторический музей Алчевска",
+      "name_en": "",
+      "city": "Alchevs’k",
+      "country": "Ukraine",
+      "latitude": 48.469737,
+      "longitude": 38.792322,
+      "website": ""
+    },
+    {
+      "name": "Городской музей",
+      "name_en": "",
+      "city": "Krasnyy Kut",
+      "country": "Ukraine",
+      "latitude": 48.294037,
+      "longitude": 38.88742,
+      "website": ""
+    },
+    {
+      "name": "Городской музей",
+      "name_en": "",
+      "city": "Khartsyz’k",
+      "country": "Ukraine",
+      "latitude": 48.039337,
+      "longitude": 38.146759,
+      "website": ""
+    },
+    {
+      "name": "Греческий этнографический музей Кара-Чоль",
+      "name_en": "",
+      "city": "Chornopillya",
+      "country": "Ukraine",
+      "latitude": 45.044368,
+      "longitude": 34.637194,
+      "website": ""
+    },
+    {
+      "name": "Дача Коровина-Саламбо",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.542576,
+      "longitude": 34.280017,
+      "website": ""
+    },
+    {
+      "name": "Дача Чехова",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.541878,
+      "longitude": 34.281817,
+      "website": ""
+    },
+    {
+      "name": "Двір гончара II пол. XIX ст.",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.061333,
+      "longitude": 31.474617,
+      "website": ""
+    },
+    {
+      "name": "Двір священника",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.060553,
+      "longitude": 31.475928,
+      "website": ""
+    },
+    {
+      "name": "Диорама сражения в Ароматном",
+      "name_en": "",
+      "city": "Zuya",
+      "country": "Ukraine",
+      "latitude": 45.038754,
+      "longitude": 34.402704,
+      "website": ""
+    },
+    {
+      "name": "Диорама штурма Измаила",
+      "name_en": "",
+      "city": "Izmayil",
+      "country": "Ukraine",
+      "latitude": 45.339198,
+      "longitude": 28.8067,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей \"Солхат\"",
+      "name_en": "",
+      "city": "Staryy Krym",
+      "country": "Ukraine",
+      "latitude": 45.033672,
+      "longitude": 35.092039,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей А. Грина",
+      "name_en": "",
+      "city": "Staryy Krym",
+      "country": "Ukraine",
+      "latitude": 45.025621,
+      "longitude": 35.082677,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей А. П. Чехова",
+      "name_en": "",
+      "city": "Livadiya",
+      "country": "Ukraine",
+      "latitude": 44.491157,
+      "longitude": 34.141726,
+      "website": "http://www.chekhov-yalta.org"
+    },
+    {
+      "name": "Дом-музей Амет-Хана Султана",
+      "name_en": "",
+      "city": "Alupka",
+      "country": "Ukraine",
+      "latitude": 44.423953,
+      "longitude": 34.054707,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей Волошина",
+      "name_en": "",
+      "city": "Koktebel’",
+      "country": "Ukraine",
+      "latitude": 44.96012,
+      "longitude": 35.252106,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей Домовых",
+      "name_en": "",
+      "city": "Partenit",
+      "country": "Ukraine",
+      "latitude": 44.592285,
+      "longitude": 34.316612,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей И.К. Айвазовского",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.032293,
+      "longitude": 35.382773,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей И.Л. Сельвинского",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.948504,
+      "longitude": 34.103421,
+      "website": "http://tavrida.museum-crimea.ru/"
+    },
+    {
+      "name": "Дом-музей писателя Юлиана Семёнова",
+      "name_en": "",
+      "city": "Foros",
+      "country": "Ukraine",
+      "latitude": 44.413598,
+      "longitude": 33.867189,
+      "website": "http://semenov-foundation.org/oliva/"
+    },
+    {
+      "name": "ДОТ №5 СОР",
+      "name_en": "pillbox #5",
+      "city": "Inkerman",
+      "country": "Ukraine",
+      "latitude": 44.682371,
+      "longitude": 33.639328,
+      "website": ""
+    },
+    {
+      "name": "Друкарня-музей",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.842218,
+      "longitude": 24.033691,
+      "website": ""
+    },
+    {
+      "name": "Дім пам'яті \"Місто Бруно Шульца\"",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.349837,
+      "longitude": 23.506497,
+      "website": ""
+    },
+    {
+      "name": "Експериментаніум",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.462778,
+      "longitude": 30.507706,
+      "website": "http://www.experimentanium.com.ua/"
+    },
+    {
+      "name": "Етнографічний музей",
+      "name_en": "",
+      "city": "Rozdil",
+      "country": "Ukraine",
+      "latitude": 49.540503,
+      "longitude": 24.075579,
+      "website": ""
+    },
+    {
+      "name": "Житомирський обласний літературний музей",
+      "name_en": "",
+      "city": "Zhytomyr",
+      "country": "Ukraine",
+      "latitude": 50.259312,
+      "longitude": 28.670894,
+      "website": ""
+    },
+    {
+      "name": "Заліщицький краєзнавчий музей",
+      "name_en": "",
+      "city": "Zalishchyky",
+      "country": "Ukraine",
+      "latitude": 48.646315,
+      "longitude": 25.73176,
+      "website": ""
+    },
+    {
+      "name": "Замок Синявських",
+      "name_en": "",
+      "city": "Бережани",
+      "country": "Ukraine",
+      "latitude": 49.44645,
+      "longitude": 24.945052,
+      "website": ""
+    },
+    {
+      "name": "Запорізький обласний художній музей",
+      "name_en": "",
+      "city": "Zaporizhzhya",
+      "country": "Ukraine",
+      "latitude": 47.843329,
+      "longitude": 35.133864,
+      "website": ""
+    },
+    {
+      "name": "Золочівский Замок",
+      "name_en": "",
+      "city": "Zolochiv",
+      "country": "Ukraine",
+      "latitude": 49.802939,
+      "longitude": 24.90584,
+      "website": ""
+    },
+    {
+      "name": "Зоологический музей",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.937307,
+      "longitude": 34.134766,
+      "website": ""
+    },
+    {
+      "name": "Зооуголок рептилий",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.615096,
+      "longitude": 33.521594,
+      "website": ""
+    },
+    {
+      "name": "Историко-археологический заповедник «Верхний Салтов»",
+      "name_en": "",
+      "city": "Staryy Saltiv",
+      "country": "Ukraine",
+      "latitude": 50.131995,
+      "longitude": 36.790183,
+      "website": ""
+    },
+    {
+      "name": "Историко-краеведческий музей",
+      "name_en": "",
+      "city": "Alushta",
+      "country": "Ukraine",
+      "latitude": 44.675109,
+      "longitude": 34.413593,
+      "website": ""
+    },
+    {
+      "name": "Исторический музей",
+      "name_en": "",
+      "city": "Sudak",
+      "country": "Ukraine",
+      "latitude": 44.841428,
+      "longitude": 34.964964,
+      "website": ""
+    },
+    {
+      "name": "История села",
+      "name_en": "",
+      "city": "Sarata",
+      "country": "Ukraine",
+      "latitude": 46.003018,
+      "longitude": 29.617057,
+      "website": ""
+    },
+    {
+      "name": "Кам'янська Запорізька Січ",
+      "name_en": "",
+      "city": "Hornostayivka",
+      "country": "Ukraine",
+      "latitude": 47.001446,
+      "longitude": 33.651542,
+      "website": ""
+    },
+    {
+      "name": "Картинна галерея",
+      "name_en": "Art galery",
+      "city": "Ternopil’",
+      "country": "Ukraine",
+      "latitude": 49.552599,
+      "longitude": 25.592271,
+      "website": ""
+    },
+    {
+      "name": "Картинна галерея лауреатів премії ім. І.Рєпіна",
+      "name_en": "",
+      "city": "Chuhuyiv",
+      "country": "Ukraine",
+      "latitude": 49.842553,
+      "longitude": 36.693477,
+      "website": ""
+    },
+    {
+      "name": "Картинна галерея Наталії Юзефович",
+      "name_en": "",
+      "city": "Kremenchuk",
+      "country": "Ukraine",
+      "latitude": 49.016442,
+      "longitude": 33.46158,
+      "website": ""
+    },
+    {
+      "name": "Картинная галерея им. И.К. Айвазовского",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.032067,
+      "longitude": 35.382082,
+      "website": ""
+    },
+    {
+      "name": "Картинная галлерея",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.951936,
+      "longitude": 34.098266,
+      "website": ""
+    },
+    {
+      "name": "каса музею Київська фортеця",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.434075,
+      "longitude": 30.529617,
+      "website": ""
+    },
+    {
+      "name": "Катакомби (Музей партизанської слави)",
+      "name_en": "Catacombs (Museum of Partisan Glory)",
+      "city": "Usatove",
+      "country": "Ukraine",
+      "latitude": 46.537884,
+      "longitude": 30.627749,
+      "website": ""
+    },
+    {
+      "name": "Киевский областной археологический музей",
+      "name_en": "",
+      "city": "Trypillia",
+      "country": "Ukraine",
+      "latitude": 50.125478,
+      "longitude": 30.775334,
+      "website": ""
+    },
+    {
+      "name": "Київ у мініатюрі",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.448893,
+      "longitude": 30.581044,
+      "website": ""
+    },
+    {
+      "name": "Київська фортеця (адміністрація музею)",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.434164,
+      "longitude": 30.528819,
+      "website": ""
+    },
+    {
+      "name": "Клуб и музей АВМС",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.604862,
+      "longitude": 33.477278,
+      "website": ""
+    },
+    {
+      "name": "Козацька сотня",
+      "name_en": "",
+      "city": "Petrykivka",
+      "country": "Ukraine",
+      "latitude": 48.683115,
+      "longitude": 34.618251,
+      "website": ""
+    },
+    {
+      "name": "Колодец Тик-Кую",
+      "name_en": "",
+      "city": "Bakhchysaray",
+      "country": "Ukraine",
+      "latitude": 44.740799,
+      "longitude": 33.919863,
+      "website": ""
+    },
+    {
+      "name": "Колочавська вузкоколійка",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.423024,
+      "longitude": 23.707045,
+      "website": ""
+    },
+    {
+      "name": "Колочавський бокораш",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.422434,
+      "longitude": 23.707998,
+      "website": ""
+    },
+    {
+      "name": "Конотопський міський краєзнавчий музей ім. Лазаревського",
+      "name_en": "",
+      "city": "Konotop",
+      "country": "Ukraine",
+      "latitude": 51.239277,
+      "longitude": 33.204958,
+      "website": ""
+    },
+    {
+      "name": "Корсунь-Шевченківський державний історико-культурний заповідник",
+      "name_en": "",
+      "city": "Korsun’-Shevchenkivs’kyy",
+      "country": "Ukraine",
+      "latitude": 49.415184,
+      "longitude": 31.265873,
+      "website": ""
+    },
+    {
+      "name": "Корюківський історичний музей",
+      "name_en": "",
+      "city": "Koryukivka",
+      "country": "Ukraine",
+      "latitude": 51.773758,
+      "longitude": 32.255498,
+      "website": ""
+    },
+    {
+      "name": "Костянтинівський краєвий музей",
+      "name_en": "",
+      "city": "Kostyantynivka",
+      "country": "Ukraine",
+      "latitude": 48.535156,
+      "longitude": 37.69753,
+      "website": ""
+    },
+    {
+      "name": "Котовський історичний музей",
+      "name_en": "",
+      "city": "Hupalivka",
+      "country": "Ukraine",
+      "latitude": 49.135744,
+      "longitude": 34.931455,
+      "website": ""
+    },
+    {
+      "name": "коцюбинского",
+      "name_en": "",
+      "city": "Snizhne",
+      "country": "Ukraine",
+      "latitude": 48.015652,
+      "longitude": 38.717937,
+      "website": ""
+    },
+    {
+      "name": "Краеведческий Музей",
+      "name_en": "",
+      "city": "Pervomays’k",
+      "country": "Ukraine",
+      "latitude": 48.044546,
+      "longitude": 30.853202,
+      "website": ""
+    },
+    {
+      "name": "Краэзнавчий музей",
+      "name_en": "",
+      "city": "Gradizhsk",
+      "country": "Ukraine",
+      "latitude": 49.231186,
+      "longitude": 33.142027,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий",
+      "name_en": "",
+      "city": "Ivano-Frankivs’k",
+      "country": "Ukraine",
+      "latitude": 48.922605,
+      "longitude": 24.71029,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Zaporizhzhya",
+      "country": "Ukraine",
+      "latitude": 47.813509,
+      "longitude": 35.183201,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Vyshhorod",
+      "country": "Ukraine",
+      "latitude": 50.583352,
+      "longitude": 30.488925,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.288662,
+      "longitude": 25.93724,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Tul’chyn",
+      "country": "Ukraine",
+      "latitude": 48.672663,
+      "longitude": 28.860418,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "Museum of Local Lore",
+      "city": "Kreminna",
+      "country": "Ukraine",
+      "latitude": 49.047812,
+      "longitude": 38.223262,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Novonikolayevka",
+      "country": "Ukraine",
+      "latitude": 48.653861,
+      "longitude": 34.33416,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Barvinkove",
+      "country": "Ukraine",
+      "latitude": 48.911347,
+      "longitude": 37.026366,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Khmil’nyk",
+      "country": "Ukraine",
+      "latitude": 49.555067,
+      "longitude": 27.946811,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Medzhibozh",
+      "country": "Ukraine",
+      "latitude": 49.436704,
+      "longitude": 27.4116,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Roskoshnyy",
+      "country": "Ukraine",
+      "latitude": 49.382983,
+      "longitude": 30.189449,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Popasna",
+      "country": "Ukraine",
+      "latitude": 48.644867,
+      "longitude": 38.369453,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Borshchiv",
+      "country": "Ukraine",
+      "latitude": 48.803349,
+      "longitude": 26.033172,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Shyshaky",
+      "country": "Ukraine",
+      "latitude": 49.877457,
+      "longitude": 34.003466,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Drabiv",
+      "country": "Ukraine",
+      "latitude": 49.960849,
+      "longitude": 32.1524,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Marhanets’",
+      "country": "Ukraine",
+      "latitude": 47.636557,
+      "longitude": 34.625981,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Lityn",
+      "country": "Ukraine",
+      "latitude": 49.32532,
+      "longitude": 28.093165,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей",
+      "name_en": "",
+      "city": "Reni",
+      "country": "Ukraine",
+      "latitude": 45.451707,
+      "longitude": 28.283832,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей бібліотеки-філіалу № 21",
+      "name_en": "",
+      "city": "Mykolayiv",
+      "country": "Ukraine",
+      "latitude": 47.014845,
+      "longitude": 31.923737,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей с. Бурти",
+      "name_en": "",
+      "city": "Kaharlyk",
+      "country": "Ukraine",
+      "latitude": 49.838998,
+      "longitude": 30.921036,
+      "website": ""
+    },
+    {
+      "name": "Краєзнавчий музей ім. Т.А. Суліми",
+      "name_en": "",
+      "city": "Pechenihy",
+      "country": "Ukraine",
+      "latitude": 49.864617,
+      "longitude": 36.935693,
+      "website": ""
+    },
+    {
+      "name": "Кременчуцька міська художня галерея",
+      "name_en": "",
+      "city": "Kremenchuk",
+      "country": "Ukraine",
+      "latitude": 49.064464,
+      "longitude": 33.401689,
+      "website": ""
+    },
+    {
+      "name": "Крепость, Каменец-Подольский",
+      "name_en": "",
+      "city": "Kamieniec Podolski",
+      "country": "Ukraine",
+      "latitude": 48.673312,
+      "longitude": 26.563438,
+      "website": ""
+    },
+    {
+      "name": "Круглий двір",
+      "name_en": "",
+      "city": "Trostyanets’",
+      "country": "Ukraine",
+      "latitude": 50.473817,
+      "longitude": 34.958086,
+      "website": ""
+    },
+    {
+      "name": "Кузня",
+      "name_en": "",
+      "city": "Ralevka",
+      "country": "Ukraine",
+      "latitude": 49.547508,
+      "longitude": 23.300532,
+      "website": ""
+    },
+    {
+      "name": "Культурний центр \"Хата у Глубокім\"",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.180659,
+      "longitude": 23.408505,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей \"Бойківщина\"",
+      "name_en": "",
+      "city": "Ralevka",
+      "country": "Ukraine",
+      "latitude": 49.562433,
+      "longitude": 23.274314,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей В. Івасюка",
+      "name_en": "",
+      "city": "Broshniv-Osada",
+      "country": "Ukraine",
+      "latitude": 48.995339,
+      "longitude": 24.182269,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей Героїв ОУН-УПА",
+      "name_en": "",
+      "city": "Broshniv-Osada",
+      "country": "Ukraine",
+      "latitude": 48.996939,
+      "longitude": 24.186604,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей Дмитра Грицая",
+      "name_en": "",
+      "city": "Rykhtichi",
+      "country": "Ukraine",
+      "latitude": 49.479814,
+      "longitude": 23.514076,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей народного побуту",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.224877,
+      "longitude": 23.349817,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей народного побуту",
+      "name_en": "",
+      "city": "Staryy Sambor",
+      "country": "Ukraine",
+      "latitude": 49.319921,
+      "longitude": 23.020098,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей народного побуту",
+      "name_en": "",
+      "city": "Mykolayiv",
+      "country": "Ukraine",
+      "latitude": 49.457307,
+      "longitude": 23.910381,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей Івана Франка",
+      "name_en": "",
+      "city": "Duliby",
+      "country": "Ukraine",
+      "latitude": 49.260219,
+      "longitude": 23.738356,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей історії народного сільського хору \"Дударик\"",
+      "name_en": "",
+      "city": "Duliby",
+      "country": "Ukraine",
+      "latitude": 49.209757,
+      "longitude": 23.758772,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей історії села Новий Кропивник",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.214992,
+      "longitude": 23.309424,
+      "website": ""
+    },
+    {
+      "name": "Лапидарий",
+      "name_en": "Lapidary",
+      "city": "Kerch",
+      "country": "Ukraine",
+      "latitude": 45.36372,
+      "longitude": 36.531807,
+      "website": ""
+    },
+    {
+      "name": "Ларишес",
+      "name_en": "",
+      "city": "Bakhchysaray",
+      "country": "Ukraine",
+      "latitude": 44.747682,
+      "longitude": 33.907903,
+      "website": ""
+    },
+    {
+      "name": "Леопольда Левицького музей",
+      "name_en": "",
+      "city": "Skala-Podil’s’ka",
+      "country": "Ukraine",
+      "latitude": 48.893087,
+      "longitude": 26.159236,
+      "website": ""
+    },
+    {
+      "name": "Лесі Украінки",
+      "name_en": "",
+      "city": "Kovel’",
+      "country": "Ukraine",
+      "latitude": 51.306257,
+      "longitude": 24.866176,
+      "website": ""
+    },
+    {
+      "name": "Литмузей",
+      "name_en": "",
+      "city": "Kharkiv",
+      "country": "Ukraine",
+      "latitude": 50.001138,
+      "longitude": 36.24571,
+      "website": ""
+    },
+    {
+      "name": "Лоцманів",
+      "name_en": "",
+      "city": "Kaydaki",
+      "country": "Ukraine",
+      "latitude": 48.406996,
+      "longitude": 35.084818,
+      "website": ""
+    },
+    {
+      "name": "Львівський історичний музей",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.842417,
+      "longitude": 24.032463,
+      "website": ""
+    },
+    {
+      "name": "Лінія Арпада",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.423738,
+      "longitude": 23.692915,
+      "website": ""
+    },
+    {
+      "name": "літаки КРАУСС",
+      "name_en": "",
+      "city": "Kryvyy Rih",
+      "country": "Ukraine",
+      "latitude": 47.93488,
+      "longitude": 33.322602,
+      "website": ""
+    },
+    {
+      "name": "Літературно-меморіальний музей Гоголя",
+      "name_en": "",
+      "city": "Velyki Sorochyntsi",
+      "country": "Ukraine",
+      "latitude": 50.027923,
+      "longitude": 33.943767,
+      "website": ""
+    },
+    {
+      "name": "Літературно-меморіальний музей Давида Гурамішвілі",
+      "name_en": "",
+      "city": "Myrhorod",
+      "country": "Ukraine",
+      "latitude": 49.965638,
+      "longitude": 33.611557,
+      "website": ""
+    },
+    {
+      "name": "Май",
+      "name_en": "",
+      "city": "Foros",
+      "country": "Ukraine",
+      "latitude": 44.509699,
+      "longitude": 33.8283,
+      "website": ""
+    },
+    {
+      "name": "Малинский подводный музей",
+      "name_en": "",
+      "city": "Malyn",
+      "country": "Ukraine",
+      "latitude": 50.756034,
+      "longitude": 29.318561,
+      "website": ""
+    },
+    {
+      "name": "Мелітопольський краєзнавчий музей",
+      "name_en": "",
+      "city": "Melitopol’",
+      "country": "Ukraine",
+      "latitude": 46.845041,
+      "longitude": 35.381442,
+      "website": ""
+    },
+    {
+      "name": "Мемориальная комната-музей Льва Толстого",
+      "name_en": "",
+      "city": "Gaspra",
+      "country": "Ukraine",
+      "latitude": 44.435097,
+      "longitude": 34.098582,
+      "website": ""
+    },
+    {
+      "name": "меморіальний музей Б. Д. Грінченка",
+      "name_en": "",
+      "city": "Pereval’s’k",
+      "country": "Ukraine",
+      "latitude": 48.486646,
+      "longitude": 38.907353,
+      "website": ""
+    },
+    {
+      "name": "Меморіальний музей С. Крушельницької",
+      "name_en": "",
+      "city": "Ternopil’",
+      "country": "Ukraine",
+      "latitude": 49.580601,
+      "longitude": 25.574051,
+      "website": "http://www.karpaty.info/ua/uk/te/to/bila/museums/music/"
+    },
+    {
+      "name": "Меморіальний музей-майстерня Теодозії Бриж",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.835429,
+      "longitude": 24.030059,
+      "website": ""
+    },
+    {
+      "name": "Меморіальний музей-садиба гончарської родини Пошивайлів",
+      "name_en": "",
+      "city": "Oposhnya",
+      "country": "Ukraine",
+      "latitude": 49.955308,
+      "longitude": 34.621861,
+      "website": ""
+    },
+    {
+      "name": "Меморіальний музей-садиба філософа й колекціонера Леоніда Сморжа",
+      "name_en": "",
+      "city": "Oposhnya",
+      "country": "Ukraine",
+      "latitude": 49.945367,
+      "longitude": 34.64179,
+      "website": ""
+    },
+    {
+      "name": "Место расстрела евреев",
+      "name_en": "",
+      "city": "Kostyantynivka",
+      "country": "Ukraine",
+      "latitude": 47.816225,
+      "longitude": 31.151365,
+      "website": ""
+    },
+    {
+      "name": "Миргородський краєзнавчий музей",
+      "name_en": "",
+      "city": "Myrhorod",
+      "country": "Ukraine",
+      "latitude": 49.966327,
+      "longitude": 33.612428,
+      "website": ""
+    },
+    {
+      "name": "Мисливський будинок князя Горчакова",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.059452,
+      "longitude": 31.471953,
+      "website": ""
+    },
+    {
+      "name": "Мистецький арсенал",
+      "name_en": "Art Arsenal - Mystetskyi Arsenal",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.434923,
+      "longitude": 30.554013,
+      "website": "artarsenal.in.ua"
+    },
+    {
+      "name": "Морские Курьезы",
+      "name_en": "",
+      "city": "Frunzevka",
+      "country": "Ukraine",
+      "latitude": 45.266874,
+      "longitude": 33.085967,
+      "website": ""
+    },
+    {
+      "name": "Музей",
+      "name_en": "",
+      "city": "Pohrebyshche",
+      "country": "Ukraine",
+      "latitude": 49.486547,
+      "longitude": 29.260228,
+      "website": ""
+    },
+    {
+      "name": "Музей",
+      "name_en": "",
+      "city": "Lozno-Oleksandrivka",
+      "country": "Ukraine",
+      "latitude": 49.914299,
+      "longitude": 38.89199,
+      "website": ""
+    },
+    {
+      "name": "музей",
+      "name_en": "",
+      "city": "Romny",
+      "country": "Ukraine",
+      "latitude": 50.744405,
+      "longitude": 33.49129,
+      "website": ""
+    },
+    {
+      "name": "Музей",
+      "name_en": "",
+      "city": "Boryspil’",
+      "country": "Ukraine",
+      "latitude": 50.347473,
+      "longitude": 30.959835,
+      "website": ""
+    },
+    {
+      "name": "Музей \"Подільська хата\"",
+      "name_en": "",
+      "city": "Klavdiyevo-Tarasove",
+      "country": "Ukraine",
+      "latitude": 50.446517,
+      "longitude": 30.047751,
+      "website": ""
+    },
+    {
+      "name": "Музей \"Рідна школа\"",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.357883,
+      "longitude": 23.506022,
+      "website": ""
+    },
+    {
+      "name": "Музей \"Слобожанська хата\"",
+      "name_en": "",
+      "city": "Klavdiyevo-Tarasove",
+      "country": "Ukraine",
+      "latitude": 50.446458,
+      "longitude": 30.048268,
+      "website": ""
+    },
+    {
+      "name": "Музей \"Філікі Етерія\"",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.482338,
+      "longitude": 30.736458,
+      "website": ""
+    },
+    {
+      "name": "Музей 35-й Чапаевской дивизии",
+      "name_en": "",
+      "city": "Inkerman",
+      "country": "Ukraine",
+      "latitude": 44.61738,
+      "longitude": 33.601759,
+      "website": ""
+    },
+    {
+      "name": "Музей «Прадавня Аратта»",
+      "name_en": "",
+      "city": "Trypillia",
+      "country": "Ukraine",
+      "latitude": 50.127962,
+      "longitude": 30.769175,
+      "website": ""
+    },
+    {
+      "name": "Музей А.Грина",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.032031,
+      "longitude": 35.38103,
+      "website": ""
+    },
+    {
+      "name": "Музей А.С.Макаренка",
+      "name_en": "",
+      "city": "Bilopillya",
+      "country": "Ukraine",
+      "latitude": 51.148624,
+      "longitude": 34.316199,
+      "website": ""
+    },
+    {
+      "name": "Музей авіації",
+      "name_en": "",
+      "city": "Kirovohrad",
+      "country": "Ukraine",
+      "latitude": 48.534034,
+      "longitude": 32.275587,
+      "website": "http://www.glau.kr.ua/index.php/ua/home-ua/struktura/museumkopleks"
+    },
+    {
+      "name": "Музей Авіації та Космонавтики",
+      "name_en": "",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.254936,
+      "longitude": 25.95753,
+      "website": ""
+    },
+    {
+      "name": "Музей бджільництва",
+      "name_en": "Beekeeping Museum",
+      "city": "Merefa",
+      "country": "Ukraine",
+      "latitude": 49.827049,
+      "longitude": 36.048437,
+      "website": ""
+    },
+    {
+      "name": "Музей боевой и трудовой славы завода станков-автоматов",
+      "name_en": "",
+      "city": "Sofiyivska Borschagivka",
+      "country": "Ukraine",
+      "latitude": 50.455943,
+      "longitude": 30.403077,
+      "website": ""
+    },
+    {
+      "name": "Музей боевой славы",
+      "name_en": "",
+      "city": "Bilyts’ke",
+      "country": "Ukraine",
+      "latitude": 48.408891,
+      "longitude": 37.176663,
+      "website": ""
+    },
+    {
+      "name": "Музей бойової слави моряків-десантників ім. К. Ф. Ольшанського",
+      "name_en": "",
+      "city": "Mykolayiv",
+      "country": "Ukraine",
+      "latitude": 46.949131,
+      "longitude": 32.005568,
+      "website": ""
+    },
+    {
+      "name": "Музей Бруно Шульца",
+      "name_en": "Bruno Schulz Museum",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.355242,
+      "longitude": 23.501234,
+      "website": ""
+    },
+    {
+      "name": "Музей В. П. Філатова",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.454903,
+      "longitude": 30.760748,
+      "website": ""
+    },
+    {
+      "name": "Музей Василя Симоненка",
+      "name_en": "",
+      "city": "Cherkasy",
+      "country": "Ukraine",
+      "latitude": 49.443387,
+      "longitude": 32.066377,
+      "website": ""
+    },
+    {
+      "name": "Музей Великої Вітчизняної війни",
+      "name_en": "",
+      "city": "Klembivka",
+      "country": "Ukraine",
+      "latitude": 48.392381,
+      "longitude": 28.411226,
+      "website": ""
+    },
+    {
+      "name": "Музей Веры Игнатьевны Мухиной",
+      "name_en": "Museum of Vera Mukhina",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.041371,
+      "longitude": 35.377791,
+      "website": "https://ru.m.wikipedia.org/wiki/Музей_Веры_Мухиной_(Феодосия)"
+    },
+    {
+      "name": "Музей виселених сіл (планується)",
+      "name_en": "",
+      "city": "Turka",
+      "country": "Ukraine",
+      "latitude": 49.099597,
+      "longitude": 22.880909,
+      "website": ""
+    },
+    {
+      "name": "Музей ВОВ",
+      "name_en": "",
+      "city": "Donetsk",
+      "country": "Ukraine",
+      "latitude": 48.021511,
+      "longitude": 37.815745,
+      "website": ""
+    },
+    {
+      "name": "Музей вогню",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.490114,
+      "longitude": 30.73709,
+      "website": ""
+    },
+    {
+      "name": "Музей воды",
+      "name_en": "",
+      "city": "Pokotylivka",
+      "country": "Ukraine",
+      "latitude": 49.96118,
+      "longitude": 36.190454,
+      "website": ""
+    },
+    {
+      "name": "Музей воды",
+      "name_en": "",
+      "city": "Kochetok",
+      "country": "Ukraine",
+      "latitude": 49.877344,
+      "longitude": 36.738221,
+      "website": ""
+    },
+    {
+      "name": "Музей военно-морского флота",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.558824,
+      "longitude": 34.303947,
+      "website": ""
+    },
+    {
+      "name": "Музей военной техники",
+      "name_en": "",
+      "city": "Dymer",
+      "country": "Ukraine",
+      "latitude": 51.032254,
+      "longitude": 30.308438,
+      "website": ""
+    },
+    {
+      "name": "Музей военной техники",
+      "name_en": "",
+      "city": "Vasylkiv",
+      "country": "Ukraine",
+      "latitude": 50.195546,
+      "longitude": 30.316515,
+      "website": ""
+    },
+    {
+      "name": "Музей Володимира Івасюка",
+      "name_en": "",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.287761,
+      "longitude": 25.945469,
+      "website": ""
+    },
+    {
+      "name": "Музей воскових фігур",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.487421,
+      "longitude": 30.741535,
+      "website": ""
+    },
+    {
+      "name": "Музей воскових фігур \"У баби Уті\"",
+      "name_en": "U Baby Uti",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.48418,
+      "longitude": 30.740702,
+      "website": ""
+    },
+    {
+      "name": "Музей військової слави",
+      "name_en": "",
+      "city": "Bilhorod-Dnistrovs’kyy",
+      "country": "Ukraine",
+      "latitude": 46.197969,
+      "longitude": 30.357193,
+      "website": ""
+    },
+    {
+      "name": "Музей військової техніки під відкритим небом",
+      "name_en": "",
+      "city": "Kaniv",
+      "country": "Ukraine",
+      "latitude": 49.760205,
+      "longitude": 31.417911,
+      "website": ""
+    },
+    {
+      "name": "Музей Вікентія Хвойки",
+      "name_en": "",
+      "city": "Trypillia",
+      "country": "Ukraine",
+      "latitude": 50.116458,
+      "longitude": 30.818129,
+      "website": ""
+    },
+    {
+      "name": "Музей Г.Г.Нейгауза",
+      "name_en": "",
+      "city": "Kirovohrad",
+      "country": "Ukraine",
+      "latitude": 48.509069,
+      "longitude": 32.268106,
+      "website": "http://www.neuhausmuseum.region.in.ua"
+    },
+    {
+      "name": "Музей Голокосту",
+      "name_en": "",
+      "city": "Kharkiv",
+      "country": "Ukraine",
+      "latitude": 50.004619,
+      "longitude": 36.245335,
+      "website": "http://holocaustmuseum.kharkov.ua"
+    },
+    {
+      "name": "Музей гончарства",
+      "name_en": "",
+      "city": "Vyshhorod",
+      "country": "Ukraine",
+      "latitude": 50.589569,
+      "longitude": 30.494464,
+      "website": ""
+    },
+    {
+      "name": "Музей гуцульського побуту",
+      "name_en": "",
+      "city": "Kosiv",
+      "country": "Ukraine",
+      "latitude": 48.319709,
+      "longitude": 25.092377,
+      "website": ""
+    },
+    {
+      "name": "Музей Гуцульщини та Покуття",
+      "name_en": "Hutsul Museum",
+      "city": "Kolomyya",
+      "country": "Ukraine",
+      "latitude": 48.528768,
+      "longitude": 25.03762,
+      "website": "http://hutsul.museum"
+    },
+    {
+      "name": "Музей гімназії",
+      "name_en": "",
+      "city": "Brody",
+      "country": "Ukraine",
+      "latitude": 50.082641,
+      "longitude": 25.151618,
+      "website": ""
+    },
+    {
+      "name": "Музей дельтапланеризма",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.030487,
+      "longitude": 35.379729,
+      "website": ""
+    },
+    {
+      "name": "Музей Денег",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.030615,
+      "longitude": 35.379689,
+      "website": ""
+    },
+    {
+      "name": "Музей дерев'яних церков",
+      "name_en": "",
+      "city": "Pylypets’",
+      "country": "Ukraine",
+      "latitude": 48.672678,
+      "longitude": 23.320251,
+      "website": ""
+    },
+    {
+      "name": "Музей дерев'яного зодчества",
+      "name_en": "",
+      "city": "Obukhiv",
+      "country": "Ukraine",
+      "latitude": 50.145189,
+      "longitude": 30.4725,
+      "website": ""
+    },
+    {
+      "name": "Музей деревянной скульптуры",
+      "name_en": "",
+      "city": "Chornomors’ke",
+      "country": "Ukraine",
+      "latitude": 45.503081,
+      "longitude": 32.70308,
+      "website": ""
+    },
+    {
+      "name": "музей Домовых",
+      "name_en": "",
+      "city": "Partenit",
+      "country": "Ukraine",
+      "latitude": 44.594723,
+      "longitude": 34.31889,
+      "website": ""
+    },
+    {
+      "name": "Музей екології гір та історії природокористування в Українських Карпатах",
+      "name_en": "Museum of Mountain Ecology and History of Nature Use in the Ukrainian Carpathians",
+      "city": "Rakhiv",
+      "country": "Ukraine",
+      "latitude": 48.024983,
+      "longitude": 24.166658,
+      "website": "http://cbr.nature.org.ua/museum_e.htm"
+    },
+    {
+      "name": "Музей етнографії та побуту району",
+      "name_en": "",
+      "city": "Chornoliztsi",
+      "country": "Ukraine",
+      "latitude": 48.867026,
+      "longitude": 25.001568,
+      "website": ""
+    },
+    {
+      "name": "Музей етнографії та стародавньої історії",
+      "name_en": "Museum of Ethnography and Ancient History",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.296927,
+      "longitude": 25.925365,
+      "website": ""
+    },
+    {
+      "name": "Музей им. Репина",
+      "name_en": "",
+      "city": "Chuhuyiv",
+      "country": "Ukraine",
+      "latitude": 49.839706,
+      "longitude": 36.68805,
+      "website": ""
+    },
+    {
+      "name": "Музей истории Артека",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.550002,
+      "longitude": 34.296444,
+      "website": ""
+    },
+    {
+      "name": "Музей истории Балаклавы",
+      "name_en": "",
+      "city": "Balaklava",
+      "country": "Ukraine",
+      "latitude": 44.500451,
+      "longitude": 33.600247,
+      "website": "http://historybalaklava.ru"
+    },
+    {
+      "name": "Музей истории г. Краматорска",
+      "name_en": "",
+      "city": "Kramators’k",
+      "country": "Ukraine",
+      "latitude": 48.735815,
+      "longitude": 37.58102,
+      "website": ""
+    },
+    {
+      "name": "Музей истории города",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.949384,
+      "longitude": 34.096451,
+      "website": ""
+    },
+    {
+      "name": "Музей истории города Антрацита",
+      "name_en": "",
+      "city": "Antratsyt",
+      "country": "Ukraine",
+      "latitude": 48.113757,
+      "longitude": 39.082859,
+      "website": ""
+    },
+    {
+      "name": "Музей истории грязелечения",
+      "name_en": "",
+      "city": "Saky",
+      "country": "Ukraine",
+      "latitude": 45.126871,
+      "longitude": 33.604368,
+      "website": ""
+    },
+    {
+      "name": "Музей истории комсомольцев Днепропетровска",
+      "name_en": "",
+      "city": "Dnipropetrovsk",
+      "country": "Ukraine",
+      "latitude": 48.458967,
+      "longitude": 35.066186,
+      "website": ""
+    },
+    {
+      "name": "Музей истории Луцкого братства",
+      "name_en": "",
+      "city": "Luts’k",
+      "country": "Ukraine",
+      "latitude": 50.740317,
+      "longitude": 25.316612,
+      "website": ""
+    },
+    {
+      "name": "Музей истории оружия",
+      "name_en": "",
+      "city": "Zaporizhzhya",
+      "country": "Ukraine",
+      "latitude": 47.86158,
+      "longitude": 35.096962,
+      "website": ""
+    },
+    {
+      "name": "Музей истории ПАО \"НКМЗ\"",
+      "name_en": "",
+      "city": "Kramators’k",
+      "country": "Ukraine",
+      "latitude": 48.738411,
+      "longitude": 37.586416,
+      "website": ""
+    },
+    {
+      "name": "Музей истории севастопольской милиции",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.600823,
+      "longitude": 33.520688,
+      "website": ""
+    },
+    {
+      "name": "Музей истории села",
+      "name_en": "",
+      "city": "Kostyantynivka",
+      "country": "Ukraine",
+      "latitude": 48.424525,
+      "longitude": 37.664272,
+      "website": ""
+    },
+    {
+      "name": "музей Камня",
+      "name_en": "",
+      "city": "Partenit",
+      "country": "Ukraine",
+      "latitude": 44.579567,
+      "longitude": 34.34,
+      "website": ""
+    },
+    {
+      "name": "Музей катастроф на воде",
+      "name_en": "",
+      "city": "Malorichens’ke",
+      "country": "Ukraine",
+      "latitude": 44.756451,
+      "longitude": 34.565512,
+      "website": ""
+    },
+    {
+      "name": "Музей Кирила Осьмака",
+      "name_en": "",
+      "city": "Staryy Sambor",
+      "country": "Ukraine",
+      "latitude": 49.324907,
+      "longitude": 23.088203,
+      "website": ""
+    },
+    {
+      "name": "Музей книги та друкарства",
+      "name_en": "",
+      "city": "Ostroh",
+      "country": "Ukraine",
+      "latitude": 50.329408,
+      "longitude": 26.522106,
+      "website": ""
+    },
+    {
+      "name": "Музей Кованых фигур",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.951956,
+      "longitude": 34.101178,
+      "website": ""
+    },
+    {
+      "name": "Музей козачества",
+      "name_en": "",
+      "city": "Luhansk",
+      "country": "Ukraine",
+      "latitude": 48.640056,
+      "longitude": 39.502154,
+      "website": ""
+    },
+    {
+      "name": "Музей Контрабанды",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.486308,
+      "longitude": 30.738952,
+      "website": ""
+    },
+    {
+      "name": "Музей коньячної справи ім. М. Л. Шустова",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.460499,
+      "longitude": 30.704363,
+      "website": ""
+    },
+    {
+      "name": "Музей космонавтики",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.549999,
+      "longitude": 34.296639,
+      "website": ""
+    },
+    {
+      "name": "Музей костюма",
+      "name_en": "",
+      "city": "Obukhiv",
+      "country": "Ukraine",
+      "latitude": 50.144792,
+      "longitude": 30.471084,
+      "website": ""
+    },
+    {
+      "name": "Музей Крымской войны",
+      "name_en": "",
+      "city": "Yevpatoriya",
+      "country": "Ukraine",
+      "latitude": 45.192783,
+      "longitude": 33.372768,
+      "website": ""
+    },
+    {
+      "name": "Музей культуры и быта крымских татар",
+      "name_en": "",
+      "city": "Staryy Krym",
+      "country": "Ukraine",
+      "latitude": 45.029603,
+      "longitude": 35.091465,
+      "website": ""
+    },
+    {
+      "name": "Музей лемківської культури",
+      "name_en": "",
+      "city": "Ternopil’",
+      "country": "Ukraine",
+      "latitude": 49.553667,
+      "longitude": 25.59535,
+      "website": ""
+    },
+    {
+      "name": "Музей Лепкого",
+      "name_en": "",
+      "city": "Бережани",
+      "country": "Ukraine",
+      "latitude": 49.511065,
+      "longitude": 24.946324,
+      "website": ""
+    },
+    {
+      "name": "Музей Лесі Українки",
+      "name_en": "",
+      "city": "Luts’k",
+      "country": "Ukraine",
+      "latitude": 50.75075,
+      "longitude": 25.331097,
+      "website": ""
+    },
+    {
+      "name": "Музей лісу",
+      "name_en": "",
+      "city": "Kostopil’",
+      "country": "Ukraine",
+      "latitude": 50.892105,
+      "longitude": 26.476089,
+      "website": ""
+    },
+    {
+      "name": "Музей М. М. Коцюбинського",
+      "name_en": "",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.237206,
+      "longitude": 28.487917,
+      "website": ""
+    },
+    {
+      "name": "музей М.и А. Цветаевых",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.024982,
+      "longitude": 35.385011,
+      "website": ""
+    },
+    {
+      "name": "Музей М.М.Бернадоса",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.059704,
+      "longitude": 31.473211,
+      "website": ""
+    },
+    {
+      "name": "Музей Маркіяна Шашкевича",
+      "name_en": "",
+      "city": "Olesko",
+      "country": "Ukraine",
+      "latitude": 49.928393,
+      "longitude": 24.81081,
+      "website": ""
+    },
+    {
+      "name": "Музей метрології та вимірювальної техніки",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.836332,
+      "longitude": 24.034042,
+      "website": ""
+    },
+    {
+      "name": "Музей мототехніки",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.346818,
+      "longitude": 23.505691,
+      "website": ""
+    },
+    {
+      "name": "Музей Народної Архітектури",
+      "name_en": "",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.289836,
+      "longitude": 25.983575,
+      "website": ""
+    },
+    {
+      "name": "Музей народної архітектури та побуту Середньої Наддніпрянщини",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.059538,
+      "longitude": 31.478002,
+      "website": ""
+    },
+    {
+      "name": "Музей народної архітектури, побуту та дитячої творчості",
+      "name_en": "",
+      "city": "Barvinkove",
+      "country": "Ukraine",
+      "latitude": 48.834273,
+      "longitude": 37.290656,
+      "website": ""
+    },
+    {
+      "name": "Музей народов Крыма",
+      "name_en": "",
+      "city": "Bakhchysaray",
+      "country": "Ukraine",
+      "latitude": 44.688222,
+      "longitude": 33.895148,
+      "website": ""
+    },
+    {
+      "name": "Музей нафтової та газової промисловості України",
+      "name_en": "",
+      "city": "Boryslav",
+      "country": "Ukraine",
+      "latitude": 49.280656,
+      "longitude": 23.416946,
+      "website": ""
+    },
+    {
+      "name": "Музей нафтопромислів Галичини",
+      "name_en": "",
+      "city": "Pniv",
+      "country": "Ukraine",
+      "latitude": 48.611078,
+      "longitude": 24.515122,
+      "website": ""
+    },
+    {
+      "name": "музей Небесної Сотні",
+      "name_en": "",
+      "city": "Ivano-Frankivs’k",
+      "country": "Ukraine",
+      "latitude": 48.915591,
+      "longitude": 24.710199,
+      "website": ""
+    },
+    {
+      "name": "Музей Нечуя-Левицького",
+      "name_en": "",
+      "city": "Steblëv",
+      "country": "Ukraine",
+      "latitude": 49.401722,
+      "longitude": 31.095458,
+      "website": ""
+    },
+    {
+      "name": "Музей никитского сада",
+      "name_en": "",
+      "city": "Nikita",
+      "country": "Ukraine",
+      "latitude": 44.512487,
+      "longitude": 34.23423,
+      "website": ""
+    },
+    {
+      "name": "Музей НТУУ «КПІ»",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.448688,
+      "longitude": 30.460507,
+      "website": ""
+    },
+    {
+      "name": "Музей НТУУ «КПІ», відділ авіації і космонавтики ім. І.І. Сікорського",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.448331,
+      "longitude": 30.461057,
+      "website": ""
+    },
+    {
+      "name": "Музей нумізматики",
+      "name_en": "",
+      "city": "Ostroh",
+      "country": "Ukraine",
+      "latitude": 50.329789,
+      "longitude": 26.519281,
+      "website": ""
+    },
+    {
+      "name": "Музей О.П.Довженка",
+      "name_en": "",
+      "city": "Sosnytsya",
+      "country": "Ukraine",
+      "latitude": 51.521448,
+      "longitude": 32.49933,
+      "website": ""
+    },
+    {
+      "name": "Музей обороны Аджимушкайских каменоломен",
+      "name_en": "",
+      "city": "Kerch",
+      "country": "Ukraine",
+      "latitude": 45.381056,
+      "longitude": 36.523549,
+      "website": ""
+    },
+    {
+      "name": "Музей Одеської кіностудії",
+      "name_en": "Odessa Film Studio Museum",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.460327,
+      "longitude": 30.757211,
+      "website": ""
+    },
+    {
+      "name": "Музей однієї вулиці",
+      "name_en": "One Street Museum",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.461987,
+      "longitude": 30.517331,
+      "website": "http://onestreet.kiev.ua/"
+    },
+    {
+      "name": "музей Океанографии",
+      "name_en": "",
+      "city": "Kerch",
+      "country": "Ukraine",
+      "latitude": 45.350221,
+      "longitude": 36.474285,
+      "website": ""
+    },
+    {
+      "name": "Музей Олекси Довбуша",
+      "name_en": "",
+      "city": "Ivano-Frankivs’k",
+      "country": "Ukraine",
+      "latitude": 48.920957,
+      "longitude": 24.706336,
+      "website": ""
+    },
+    {
+      "name": "Музей Олексія Зарицького",
+      "name_en": "",
+      "city": "Medenychi",
+      "country": "Ukraine",
+      "latitude": 49.406398,
+      "longitude": 23.837135,
+      "website": ""
+    },
+    {
+      "name": "Музей Омеляна Стоцького",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.234757,
+      "longitude": 23.344749,
+      "website": ""
+    },
+    {
+      "name": "Музей пам'яток стародавнього Львова",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.846867,
+      "longitude": 24.030613,
+      "website": ""
+    },
+    {
+      "name": "Музей пам'яті Блаженнішого митрополита Володимира",
+      "name_en": "",
+      "city": "Khotiv",
+      "country": "Ukraine",
+      "latitude": 50.380861,
+      "longitude": 30.459248,
+      "website": ""
+    },
+    {
+      "name": "Музей Пам'яті голодомору",
+      "name_en": "",
+      "city": "Medzhibozh",
+      "country": "Ukraine",
+      "latitude": 49.436115,
+      "longitude": 27.411544,
+      "website": ""
+    },
+    {
+      "name": "Музей памяті жертв голодомору 1932-1933 р.",
+      "name_en": "",
+      "city": "Myrhorod",
+      "country": "Ukraine",
+      "latitude": 49.969017,
+      "longitude": 33.584688,
+      "website": ""
+    },
+    {
+      "name": "Музей Партизанской Славы",
+      "name_en": "",
+      "city": "Massandra",
+      "country": "Ukraine",
+      "latitude": 44.554365,
+      "longitude": 34.207172,
+      "website": ""
+    },
+    {
+      "name": "Музей Партизанської Слави",
+      "name_en": "",
+      "city": "Kuznetsovs’k",
+      "country": "Ukraine",
+      "latitude": 51.648531,
+      "longitude": 25.576736,
+      "website": ""
+    },
+    {
+      "name": "музей Пеле",
+      "name_en": "",
+      "city": "Luhansk",
+      "country": "Ukraine",
+      "latitude": 48.560295,
+      "longitude": 39.268074,
+      "website": ""
+    },
+    {
+      "name": "Музей пивоваріння",
+      "name_en": "Lviv Beer Museum",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.847749,
+      "longitude": 24.015546,
+      "website": "http://www.lvivbeermuseum.com"
+    },
+    {
+      "name": "Музей подводной археологии на Даче Стамболи",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.042629,
+      "longitude": 35.382413,
+      "website": "www.underwater-museum.ru"
+    },
+    {
+      "name": "Музей пожежно-рятувальної служби",
+      "name_en": "",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.230811,
+      "longitude": 28.426023,
+      "website": ""
+    },
+    {
+      "name": "Музей політичних в’язнів",
+      "name_en": "",
+      "city": "Ternopil’",
+      "country": "Ukraine",
+      "latitude": 49.553248,
+      "longitude": 25.597897,
+      "website": "https://www.facebook.com/groups/270029829774549/"
+    },
+    {
+      "name": "Музей політичних репресій",
+      "name_en": "Political repressions museum",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.393841,
+      "longitude": 30.504993,
+      "website": ""
+    },
+    {
+      "name": "Музей посёлка",
+      "name_en": "",
+      "city": "Lenina",
+      "country": "Ukraine",
+      "latitude": 48.447212,
+      "longitude": 39.096263,
+      "website": ""
+    },
+    {
+      "name": "музей Почты",
+      "name_en": "",
+      "city": "Yevpatoriya",
+      "country": "Ukraine",
+      "latitude": 45.1976,
+      "longitude": 33.380216,
+      "website": ""
+    },
+    {
+      "name": "Музей приватних коллекцій ім. О. В. Блещунова",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.478369,
+      "longitude": 30.744638,
+      "website": ""
+    },
+    {
+      "name": "Музей природы",
+      "name_en": "",
+      "city": "Alushta",
+      "country": "Ukraine",
+      "latitude": 44.681281,
+      "longitude": 34.397929,
+      "website": ""
+    },
+    {
+      "name": "музей Пушкина",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.539881,
+      "longitude": 34.274618,
+      "website": ""
+    },
+    {
+      "name": "Музей південно-західної залізниці та Б.С.Олійника",
+      "name_en": "",
+      "city": "Derazhnya",
+      "country": "Ukraine",
+      "latitude": 49.267226,
+      "longitude": 27.430469,
+      "website": ""
+    },
+    {
+      "name": "Музей РВСН",
+      "name_en": "",
+      "city": "Pervomays’k",
+      "country": "Ukraine",
+      "latitude": 48.023694,
+      "longitude": 30.851338,
+      "website": ""
+    },
+    {
+      "name": "Музей ретроавтомобілів \"Фаетон\"",
+      "name_en": "",
+      "city": "Zaporizhzhya",
+      "country": "Ukraine",
+      "latitude": 47.875749,
+      "longitude": 35.125345,
+      "website": ""
+    },
+    {
+      "name": "Музей Романа Кумлика",
+      "name_en": "",
+      "city": "Verkhovyna",
+      "country": "Ukraine",
+      "latitude": 48.158432,
+      "longitude": 24.837659,
+      "website": ""
+    },
+    {
+      "name": "музей Рыбаков",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.584597,
+      "longitude": 33.434909,
+      "website": ""
+    },
+    {
+      "name": "Музей С. С. Прокоф'єва",
+      "name_en": "",
+      "city": "Kurakhovo",
+      "country": "Ukraine",
+      "latitude": 48.050157,
+      "longitude": 37.189227,
+      "website": ""
+    },
+    {
+      "name": "Музей СДІАЗ",
+      "name_en": "",
+      "city": "Svyatogorsk",
+      "country": "Ukraine",
+      "latitude": 49.028667,
+      "longitude": 37.56859,
+      "website": ""
+    },
+    {
+      "name": "Музей села Дядьковичі",
+      "name_en": "",
+      "city": "Tynne",
+      "country": "Ukraine",
+      "latitude": 50.598866,
+      "longitude": 26.058259,
+      "website": ""
+    },
+    {
+      "name": "музей Скали",
+      "name_en": "",
+      "city": "Skala-Podil’s’ka",
+      "country": "Ukraine",
+      "latitude": 48.854345,
+      "longitude": 26.199867,
+      "website": ""
+    },
+    {
+      "name": "Музей соли",
+      "name_en": "",
+      "city": "Solotvyno",
+      "country": "Ukraine",
+      "latitude": 47.953238,
+      "longitude": 23.866774,
+      "website": ""
+    },
+    {
+      "name": "Музей спортивної слави ім. чемпіонки Олімпійських ігор Юлії Рябчинської",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.478503,
+      "longitude": 30.745715,
+      "website": ""
+    },
+    {
+      "name": "Музей старовини",
+      "name_en": "",
+      "city": "Slavs’ke",
+      "country": "Ukraine",
+      "latitude": 48.901853,
+      "longitude": 23.29778,
+      "website": ""
+    },
+    {
+      "name": "музей Степана Вайди",
+      "name_en": "",
+      "city": "Drahovo",
+      "country": "Ukraine",
+      "latitude": 48.140096,
+      "longitude": 23.589424,
+      "website": ""
+    },
+    {
+      "name": "Музей сучасного мистецтва України",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.4721,
+      "longitude": 30.498209,
+      "website": ""
+    },
+    {
+      "name": "Музей театрального мистецтва Тернопільщини",
+      "name_en": "",
+      "city": "Kopychyntsi",
+      "country": "Ukraine",
+      "latitude": 49.104691,
+      "longitude": 25.908326,
+      "website": ""
+    },
+    {
+      "name": "Музей техники",
+      "name_en": "",
+      "city": "Putyvl’",
+      "country": "Ukraine",
+      "latitude": 51.373557,
+      "longitude": 33.729862,
+      "website": ""
+    },
+    {
+      "name": "Музей трипільської культури в печері «Вертеба»",
+      "name_en": "",
+      "city": "Tovste",
+      "country": "Ukraine",
+      "latitude": 48.788934,
+      "longitude": 25.871453,
+      "website": ""
+    },
+    {
+      "name": "Музей трипільської культури, музей козацької слави",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.075918,
+      "longitude": 31.46384,
+      "website": ""
+    },
+    {
+      "name": "Музей українського живопису",
+      "name_en": "",
+      "city": "Dnipropetrovsk",
+      "country": "Ukraine",
+      "latitude": 48.463035,
+      "longitude": 35.044733,
+      "website": ""
+    },
+    {
+      "name": "Музей українського костюма та української писанки",
+      "name_en": "",
+      "city": "Vorzel’",
+      "country": "Ukraine",
+      "latitude": 50.572901,
+      "longitude": 30.097685,
+      "website": ""
+    },
+    {
+      "name": "Музей українського народного декоративного мистецтва",
+      "name_en": "The National Folk Decorative Art Museum",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.434396,
+      "longitude": 30.557183,
+      "website": ""
+    },
+    {
+      "name": "Музей фотожурналістики",
+      "name_en": "",
+      "city": "Donetsk",
+      "country": "Ukraine",
+      "latitude": 48.009591,
+      "longitude": 37.790856,
+      "website": ""
+    },
+    {
+      "name": "Музей хліба",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.058877,
+      "longitude": 31.476613,
+      "website": ""
+    },
+    {
+      "name": "Музей Холокосту пам'яті жертв фашизму",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.471569,
+      "longitude": 30.731809,
+      "website": ""
+    },
+    {
+      "name": "Музей цікавої науки",
+      "name_en": "Museum of Interesting Science",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.45988,
+      "longitude": 30.749116,
+      "website": "http://min.od.ua/"
+    },
+    {
+      "name": "Музей Чернобыля",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.446355,
+      "longitude": 30.498501,
+      "website": ""
+    },
+    {
+      "name": "Музей шедевров природы Александра Кулиша",
+      "name_en": "",
+      "city": "Partenit",
+      "country": "Ukraine",
+      "latitude": 44.571062,
+      "longitude": 34.337955,
+      "website": ""
+    },
+    {
+      "name": "Музей Шмелева",
+      "name_en": "",
+      "city": "Alushta",
+      "country": "Ukraine",
+      "latitude": 44.658273,
+      "longitude": 34.405206,
+      "website": ""
+    },
+    {
+      "name": "Музей Шоколада",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.956002,
+      "longitude": 34.104729,
+      "website": ""
+    },
+    {
+      "name": "Музей шоколада",
+      "name_en": "Museum of Chocolate",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.484136,
+      "longitude": 30.739856,
+      "website": ""
+    },
+    {
+      "name": "Музей шоколаду",
+      "name_en": "",
+      "city": "Trostyanets’",
+      "country": "Ukraine",
+      "latitude": 50.474206,
+      "longitude": 34.957747,
+      "website": ""
+    },
+    {
+      "name": "Музей якорей",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.595807,
+      "longitude": 33.523043,
+      "website": ""
+    },
+    {
+      "name": "Музей якорей",
+      "name_en": "",
+      "city": "Gaspra",
+      "country": "Ukraine",
+      "latitude": 44.428594,
+      "longitude": 34.121535,
+      "website": ""
+    },
+    {
+      "name": "Музей Івана Гончара",
+      "name_en": "Ivan Honchar Museum",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.432234,
+      "longitude": 30.557685,
+      "website": "honchar.org.ua"
+    },
+    {
+      "name": "Музей Івана Ольбрахта",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.427415,
+      "longitude": 23.695905,
+      "website": ""
+    },
+    {
+      "name": "Музей Івана Франка",
+      "name_en": "",
+      "city": "Duliby",
+      "country": "Ukraine",
+      "latitude": 49.251781,
+      "longitude": 23.768277,
+      "website": ""
+    },
+    {
+      "name": "Музей ім. Ф. П. Деволана",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.483846,
+      "longitude": 30.744812,
+      "website": ""
+    },
+    {
+      "name": "Музей ім. Юрія Марканича",
+      "name_en": "",
+      "city": "Broshniv-Osada",
+      "country": "Ukraine",
+      "latitude": 48.996123,
+      "longitude": 24.183402,
+      "website": ""
+    },
+    {
+      "name": "Музей імені Ковпака С. А.",
+      "name_en": "",
+      "city": "Kotel’va",
+      "country": "Ukraine",
+      "latitude": 50.063792,
+      "longitude": 34.751942,
+      "website": ""
+    },
+    {
+      "name": "Музей історичних коштовностей України",
+      "name_en": "Museum of Historical Treasures of Ukraine",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.43577,
+      "longitude": 30.557679,
+      "website": "http://miku.org.ua/filiali_miku.html"
+    },
+    {
+      "name": "Музей історіі народного сухопутного транспорту",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.059122,
+      "longitude": 31.4751,
+      "website": ""
+    },
+    {
+      "name": "Музей історії авіації і космонавтики ім. О. Можайського",
+      "name_en": "",
+      "city": "Voronovytsya",
+      "country": "Ukraine",
+      "latitude": 49.112111,
+      "longitude": 28.679531,
+      "website": "http://voronavia.at.ua"
+    },
+    {
+      "name": "Музей історії Академії сухопутних військ імені гетьмана Петра Сагайдачного",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.825081,
+      "longitude": 24.019535,
+      "website": ""
+    },
+    {
+      "name": "Музей історії ваги",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.351457,
+      "longitude": 23.507182,
+      "website": ""
+    },
+    {
+      "name": "Музей історії Дрогобицької гімназії",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.349404,
+      "longitude": 23.511329,
+      "website": ""
+    },
+    {
+      "name": "Музей історії звуку Василя Пінчука",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.484278,
+      "longitude": 30.726798,
+      "website": ""
+    },
+    {
+      "name": "Музей історії Львівської залізниці",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.833628,
+      "longitude": 23.997975,
+      "website": ""
+    },
+    {
+      "name": "Музей історії медицини Галичини",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.839642,
+      "longitude": 24.048622,
+      "website": ""
+    },
+    {
+      "name": "Музей історії медичного коледжу та народного побуту",
+      "name_en": "",
+      "city": "Boryslav",
+      "country": "Ukraine",
+      "latitude": 49.277634,
+      "longitude": 23.418016,
+      "website": ""
+    },
+    {
+      "name": "Музей історії міста",
+      "name_en": "",
+      "city": "Nova Kakhovka",
+      "country": "Ukraine",
+      "latitude": 46.759159,
+      "longitude": 33.356686,
+      "website": ""
+    },
+    {
+      "name": "Музей історії міста Хмельницького",
+      "name_en": "History Museum of the city of Khmelnitsky",
+      "city": "Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 49.424212,
+      "longitude": 26.984639,
+      "website": "http://kulturaxm.wordpress.com"
+    },
+    {
+      "name": "Музей історії міста-курорту Трускавця",
+      "name_en": "Museum history of resort Truskavets",
+      "city": "Truskavets",
+      "country": "Ukraine",
+      "latitude": 49.277664,
+      "longitude": 23.506685,
+      "website": ""
+    },
+    {
+      "name": "Музей історії органів внутрішніх справ",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.478154,
+      "longitude": 30.742972,
+      "website": ""
+    },
+    {
+      "name": "Музей історії села Каніж",
+      "name_en": "",
+      "city": "Kapitanivka",
+      "country": "Ukraine",
+      "latitude": 48.720139,
+      "longitude": 31.93246,
+      "website": ""
+    },
+    {
+      "name": "Музей історії смт Вільшана",
+      "name_en": "",
+      "city": "Korsun’-Shevchenkivs’kyy",
+      "country": "Ukraine",
+      "latitude": 49.217122,
+      "longitude": 31.216206,
+      "website": ""
+    },
+    {
+      "name": "Музей історії туалету",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.436217,
+      "longitude": 30.537407,
+      "website": ""
+    },
+    {
+      "name": "Музей історії ФК «Шахтар»",
+      "name_en": "",
+      "city": "Donetsk",
+      "country": "Ukraine",
+      "latitude": 48.020134,
+      "longitude": 37.810935,
+      "website": ""
+    },
+    {
+      "name": "Музей історії євреїв \"Мігдаль-Шорашим\"",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.480112,
+      "longitude": 30.730211,
+      "website": ""
+    },
+    {
+      "name": "Музей істрії Української православної церкви",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.060697,
+      "longitude": 31.476548,
+      "website": ""
+    },
+    {
+      "name": "Музей-заповідник «Битва за Київ у 1943 році»",
+      "name_en": "",
+      "city": "Novi Petrivtsi",
+      "country": "Ukraine",
+      "latitude": 50.624716,
+      "longitude": 30.419793,
+      "website": "http://www.battleforkyiv.org.ua/"
+    },
+    {
+      "name": "Музей-криївка вояків ОУН-УПА",
+      "name_en": "",
+      "city": "Olesko",
+      "country": "Ukraine",
+      "latitude": 49.919052,
+      "longitude": 24.873898,
+      "website": ""
+    },
+    {
+      "name": "Музей-меморіал колочавським воїнам-інтернаціоналістам",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.426666,
+      "longitude": 23.698942,
+      "website": ""
+    },
+    {
+      "name": "Музей-скансен \"Старе село\"",
+      "name_en": "",
+      "city": "Kolochava",
+      "country": "Ukraine",
+      "latitude": 48.422972,
+      "longitude": 23.708524,
+      "website": ""
+    },
+    {
+      "name": "Музейный комплекс",
+      "name_en": "",
+      "city": "Mykhaylivka",
+      "country": "Ukraine",
+      "latitude": 45.313802,
+      "longitude": 36.05967,
+      "website": ""
+    },
+    {
+      "name": "Музично-меморіальний музей С. Крушельницької",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.836758,
+      "longitude": 24.019838,
+      "website": ""
+    },
+    {
+      "name": "Мінералогічний музей",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.833968,
+      "longitude": 24.032308,
+      "website": ""
+    },
+    {
+      "name": "Міський музей духовні скарби України",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.458068,
+      "longitude": 30.519066,
+      "website": ""
+    },
+    {
+      "name": "Нiкопольський державний краєзнавчий музей",
+      "name_en": "",
+      "city": "Nikopol’",
+      "country": "Ukraine",
+      "latitude": 47.567105,
+      "longitude": 34.392902,
+      "website": ""
+    },
+    {
+      "name": "Народний музей освіти Прикарпаття",
+      "name_en": "",
+      "city": "Ivano-Frankivs’k",
+      "country": "Ukraine",
+      "latitude": 48.921157,
+      "longitude": 24.706276,
+      "website": ""
+    },
+    {
+      "name": "Народний музей історії об'єднання «Азот»",
+      "name_en": "Azot Association Public History Museum",
+      "city": "Syevyerodonets’k",
+      "country": "Ukraine",
+      "latitude": 48.947757,
+      "longitude": 38.469752,
+      "website": ""
+    },
+    {
+      "name": "Насос \"Worthington\"",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.225986,
+      "longitude": 23.349434,
+      "website": ""
+    },
+    {
+      "name": "Научные фонды, выставка",
+      "name_en": "",
+      "city": "Sudak",
+      "country": "Ukraine",
+      "latitude": 44.842123,
+      "longitude": 34.962226,
+      "website": ""
+    },
+    {
+      "name": "Національний музей \"Тюрма на Лонцького\"",
+      "name_en": "National Museum & Memorial to the Victims of Occupation",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.834482,
+      "longitude": 24.01868,
+      "website": "http://www.lonckoho.lviv.ua"
+    },
+    {
+      "name": "Національний музей медицини",
+      "name_en": "Museum of Medicine",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.447106,
+      "longitude": 30.505394,
+      "website": "histomed.kiev.ua"
+    },
+    {
+      "name": "Національний музей-садиба М. І. Пирогова",
+      "name_en": "The national Pirogov's estate museum",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.214059,
+      "longitude": 28.409043,
+      "website": "http://www.pirogov.com.ua/"
+    },
+    {
+      "name": "Національний науково-природничий музей",
+      "name_en": "",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.445481,
+      "longitude": 30.515078,
+      "website": "http://www.museumkiev.org"
+    },
+    {
+      "name": "Національний історико-меморіальний заповідник «Поле Берестецької битви»",
+      "name_en": "",
+      "city": "Berestechko",
+      "country": "Ukraine",
+      "latitude": 50.34953,
+      "longitude": 25.194315,
+      "website": ""
+    },
+    {
+      "name": "Новоайдарський районний краєзнавчий музей",
+      "name_en": "Novoaydar Regional Museum of Local Lore",
+      "city": "Novoaydar",
+      "country": "Ukraine",
+      "latitude": 48.961751,
+      "longitude": 38.993898,
+      "website": ""
+    },
+    {
+      "name": "Обласний краєзнавчий музей",
+      "name_en": "",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.232667,
+      "longitude": 28.476159,
+      "website": "http://museum.vn.ua/"
+    },
+    {
+      "name": "Обласний художній музей",
+      "name_en": "",
+      "city": "Vinnytsya",
+      "country": "Ukraine",
+      "latitude": 49.233072,
+      "longitude": 28.475887,
+      "website": ""
+    },
+    {
+      "name": "Обласний художній музей",
+      "name_en": "Museum of Art",
+      "city": "Ternopil’",
+      "country": "Ukraine",
+      "latitude": 49.557432,
+      "longitude": 25.593135,
+      "website": ""
+    },
+    {
+      "name": "Одеський будинок-музей М. К. Реріха",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.472289,
+      "longitude": 30.741989,
+      "website": "http://www.odessa-roerich-house.od.ua/"
+    },
+    {
+      "name": "Одеський музей нумізматики",
+      "name_en": "Odessa Numismatics Museum",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.482519,
+      "longitude": 30.737472,
+      "website": ""
+    },
+    {
+      "name": "Олеський замок",
+      "name_en": "Olesko castle",
+      "city": "Olesko",
+      "country": "Ukraine",
+      "latitude": 49.968368,
+      "longitude": 24.900999,
+      "website": ""
+    },
+    {
+      "name": "Органний зал Браницьких",
+      "name_en": "",
+      "city": "Bila Tserkva",
+      "country": "Ukraine",
+      "latitude": 49.79114,
+      "longitude": 30.109741,
+      "website": ""
+    },
+    {
+      "name": "Острозький краєзнавчий музей",
+      "name_en": "",
+      "city": "Ostroh",
+      "country": "Ukraine",
+      "latitude": 50.326199,
+      "longitude": 26.522171,
+      "website": ""
+    },
+    {
+      "name": "Павлоградский музей",
+      "name_en": "",
+      "city": "Pavlohrad",
+      "country": "Ukraine",
+      "latitude": 48.53068,
+      "longitude": 35.865773,
+      "website": ""
+    },
+    {
+      "name": "Палац Розумовського",
+      "name_en": "",
+      "city": "Baturyn",
+      "country": "Ukraine",
+      "latitude": 51.33453,
+      "longitude": 32.89376,
+      "website": ""
+    },
+    {
+      "name": "Палеонтологический музей",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.48761,
+      "longitude": 30.731121,
+      "website": ""
+    },
+    {
+      "name": "Пам'ять єврейського народу і Холокост в Україні",
+      "name_en": "",
+      "city": "Dnipropetrovsk",
+      "country": "Ukraine",
+      "latitude": 48.46371,
+      "longitude": 35.053601,
+      "website": ""
+    },
+    {
+      "name": "Парк миниатюр",
+      "name_en": "",
+      "city": "Yaremche",
+      "country": "Ukraine",
+      "latitude": 48.444833,
+      "longitude": 24.537054,
+      "website": ""
+    },
+    {
+      "name": "Парк ракет",
+      "name_en": "Rocket Park",
+      "city": "Dnipropetrovsk",
+      "country": "Ukraine",
+      "latitude": 48.465889,
+      "longitude": 35.028534,
+      "website": ""
+    },
+    {
+      "name": "Пархомівський історико-художній музей",
+      "name_en": "",
+      "city": "Krasnokuts’k",
+      "country": "Ukraine",
+      "latitude": 50.124504,
+      "longitude": 35.007546,
+      "website": ""
+    },
+    {
+      "name": "Педагогічний меморіальний музей А.С. Макаренка",
+      "name_en": "",
+      "city": "Kremenchuk",
+      "country": "Ukraine",
+      "latitude": 49.032181,
+      "longitude": 33.439776,
+      "website": ""
+    },
+    {
+      "name": "Пираты Черного моря",
+      "name_en": "",
+      "city": "Yevpatoriya",
+      "country": "Ukraine",
+      "latitude": 45.193028,
+      "longitude": 33.372639,
+      "website": ""
+    },
+    {
+      "name": "Подвиг",
+      "name_en": "",
+      "city": "Berdyans’k",
+      "country": "Ukraine",
+      "latitude": 46.748642,
+      "longitude": 36.790812,
+      "website": ""
+    },
+    {
+      "name": "Пожежний музей",
+      "name_en": "",
+      "city": "Kirovohrad",
+      "country": "Ukraine",
+      "latitude": 48.514124,
+      "longitude": 32.273851,
+      "website": ""
+    },
+    {
+      "name": "Покуття",
+      "name_en": "",
+      "city": "Horodenka",
+      "country": "Ukraine",
+      "latitude": 48.67109,
+      "longitude": 25.506505,
+      "website": ""
+    },
+    {
+      "name": "Полкова скарбниця (Арсенал Галагана)",
+      "name_en": "",
+      "city": "Pryluky",
+      "country": "Ukraine",
+      "latitude": 50.598625,
+      "longitude": 32.388821,
+      "website": ""
+    },
+    {
+      "name": "Полтавський Краєзнавчий Музей імені Василя Кричевського (вхід)",
+      "name_en": "",
+      "city": "Poltava",
+      "country": "Ukraine",
+      "latitude": 49.583525,
+      "longitude": 34.561192,
+      "website": ""
+    },
+    {
+      "name": "Полтавський музей дальньої та стратегічної авіації",
+      "name_en": "",
+      "city": "Poltava",
+      "country": "Ukraine",
+      "latitude": 49.617715,
+      "longitude": 34.502419,
+      "website": ""
+    },
+    {
+      "name": "Почтовая станція г. Переяславъ Полтавской губерній",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.059249,
+      "longitude": 31.475464,
+      "website": ""
+    },
+    {
+      "name": "Проскурівського підпілля",
+      "name_en": "",
+      "city": "Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 49.42443,
+      "longitude": 26.99137,
+      "website": ""
+    },
+    {
+      "name": "Профнастил-Крым",
+      "name_en": "PNK LTD",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.953803,
+      "longitude": 34.07796,
+      "website": "http://www.pnk.com.ru"
+    },
+    {
+      "name": "Ратуша",
+      "name_en": "",
+      "city": "Kamieniec Podolski",
+      "country": "Ukraine",
+      "latitude": 48.675296,
+      "longitude": 26.572784,
+      "website": ""
+    },
+    {
+      "name": "Регіональний музей етнографії сіл пониззя ріки Тереблі",
+      "name_en": "",
+      "city": "Bushtyno",
+      "country": "Ukraine",
+      "latitude": 48.047624,
+      "longitude": 23.485229,
+      "website": ""
+    },
+    {
+      "name": "Ремісничий двір",
+      "name_en": "Handicraft yard",
+      "city": "Zhytomyr",
+      "country": "Ukraine",
+      "latitude": 50.294801,
+      "longitude": 28.670317,
+      "website": ""
+    },
+    {
+      "name": "Ржищівський археолого-краєзнавчий музей",
+      "name_en": "",
+      "city": "Rzhyshchiv",
+      "country": "Ukraine",
+      "latitude": 49.971549,
+      "longitude": 31.049344,
+      "website": ""
+    },
+    {
+      "name": "Сад бабочек",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.616012,
+      "longitude": 33.521818,
+      "website": ""
+    },
+    {
+      "name": "Садиба батьків Івана Франка",
+      "name_en": "",
+      "city": "Boryslav",
+      "country": "Ukraine",
+      "latitude": 49.365922,
+      "longitude": 23.363013,
+      "website": ""
+    },
+    {
+      "name": "Садиба Гната Мартиновича Хоткевича",
+      "name_en": "",
+      "city": "Vysokyy",
+      "country": "Ukraine",
+      "latitude": 49.895032,
+      "longitude": 36.135854,
+      "website": ""
+    },
+    {
+      "name": "Садиба заможного селянина-землевласника кін. XIX - поч. XX ст.",
+      "name_en": "",
+      "city": "Pereyaslav-Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 50.059628,
+      "longitude": 31.470977,
+      "website": ""
+    },
+    {
+      "name": "Семенівський районний історико-краєзнавчий музей",
+      "name_en": "",
+      "city": "Semenivka",
+      "country": "Ukraine",
+      "latitude": 49.595275,
+      "longitude": 33.18027,
+      "website": ""
+    },
+    {
+      "name": "Сепараційна установка для очищення нафтового газу",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.230379,
+      "longitude": 23.356419,
+      "website": ""
+    },
+    {
+      "name": "Симферопольский художественный музей",
+      "name_en": "",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "latitude": 44.957166,
+      "longitude": 34.091233,
+      "website": ""
+    },
+    {
+      "name": "Скеля",
+      "name_en": "",
+      "city": "Korosten’",
+      "country": "Ukraine",
+      "latitude": 50.947641,
+      "longitude": 28.648375,
+      "website": ""
+    },
+    {
+      "name": "Скульптурна композиція \"Іван Франко та світова література\"",
+      "name_en": "",
+      "city": "Boryslav",
+      "country": "Ukraine",
+      "latitude": 49.36676,
+      "longitude": 23.363276,
+      "website": ""
+    },
+    {
+      "name": "Славянский краеведческий музей",
+      "name_en": "",
+      "city": "Sloviansk",
+      "country": "Ukraine",
+      "latitude": 48.858468,
+      "longitude": 37.614919,
+      "website": ""
+    },
+    {
+      "name": "Сокровища Черного моря",
+      "name_en": "",
+      "city": "Hurzuf",
+      "country": "Ukraine",
+      "latitude": 44.550085,
+      "longitude": 34.296441,
+      "website": ""
+    },
+    {
+      "name": "Степова Україна",
+      "name_en": "Stepova Ukraina",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.485241,
+      "longitude": 30.737932,
+      "website": ""
+    },
+    {
+      "name": "Сумський обласний краєзнавчий музей",
+      "name_en": "",
+      "city": "Sumy",
+      "country": "Ukraine",
+      "latitude": 50.906488,
+      "longitude": 34.798724,
+      "website": "http://museum.sumy.ua"
+    },
+    {
+      "name": "Т.Г.Шевченко",
+      "name_en": "",
+      "city": "Baryshivka",
+      "country": "Ukraine",
+      "latitude": 50.366707,
+      "longitude": 31.334015,
+      "website": ""
+    },
+    {
+      "name": "Таємниці підземної Одеси",
+      "name_en": "",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "latitude": 46.474057,
+      "longitude": 30.712905,
+      "website": ""
+    },
+    {
+      "name": "удалить",
+      "name_en": "",
+      "city": "Luhansk",
+      "country": "Ukraine",
+      "latitude": 48.578525,
+      "longitude": 39.297834,
+      "website": ""
+    },
+    {
+      "name": "Український Національний Музей «Чорнобиль»",
+      "name_en": "Ukrainian National Museum \"Chornobyl\"",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "latitude": 50.466306,
+      "longitude": 30.517386,
+      "website": ""
+    },
+    {
+      "name": "Феодосийский музей древностей",
+      "name_en": "",
+      "city": "Feodosiya",
+      "country": "Ukraine",
+      "latitude": 45.031426,
+      "longitude": 35.383057,
+      "website": ""
+    },
+    {
+      "name": "Фото-салон",
+      "name_en": "",
+      "city": "Ternopil’",
+      "country": "Ukraine",
+      "latitude": 49.551144,
+      "longitude": 25.593394,
+      "website": ""
+    },
+    {
+      "name": "Філіальне колесо",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.228898,
+      "longitude": 23.333553,
+      "website": ""
+    },
+    {
+      "name": "Філіальне колесо",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.207192,
+      "longitude": 23.361858,
+      "website": ""
+    },
+    {
+      "name": "Харківська муніципальна галерея",
+      "name_en": "",
+      "city": "Kharkiv",
+      "country": "Ukraine",
+      "latitude": 49.998388,
+      "longitude": 36.236874,
+      "website": ""
+    },
+    {
+      "name": "Хата В.А.Симоненко",
+      "name_en": "",
+      "city": "Chornukhy",
+      "country": "Ukraine",
+      "latitude": 50.146586,
+      "longitude": 32.901437,
+      "website": ""
+    },
+    {
+      "name": "Хата-музей кінофільму \"Тіні забутих предків\"",
+      "name_en": "",
+      "city": "Verkhovyna",
+      "country": "Ukraine",
+      "latitude": 48.147754,
+      "longitude": 24.829136,
+      "website": ""
+    },
+    {
+      "name": "Херсонес",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.611147,
+      "longitude": 33.492158,
+      "website": ""
+    },
+    {
+      "name": "Херсонський обласний художній музей ім. О. О. Шовкуненка",
+      "name_en": "",
+      "city": "Kherson",
+      "country": "Ukraine",
+      "latitude": 46.62979,
+      "longitude": 32.60964,
+      "website": ""
+    },
+    {
+      "name": "Хмельницький Обласний Краєзнавчий Музей",
+      "name_en": "",
+      "city": "Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 49.426929,
+      "longitude": 26.977985,
+      "website": "http://okm.km.ua/"
+    },
+    {
+      "name": "Хмельницький обласний художній музей",
+      "name_en": "Khmelnytsky regional art museum",
+      "city": "Khmel’nyts’kyy",
+      "country": "Ukraine",
+      "latitude": 49.423077,
+      "longitude": 26.98764,
+      "website": "http://artmuseum.km.ua"
+    },
+    {
+      "name": "хорольський краєзнавчий музей",
+      "name_en": "",
+      "city": "Khorol",
+      "country": "Ukraine",
+      "latitude": 49.780427,
+      "longitude": 33.261733,
+      "website": ""
+    },
+    {
+      "name": "Храм Архистратига Михаила (Зал №7 музея ЧФ РФ)",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.613561,
+      "longitude": 33.525815,
+      "website": ""
+    },
+    {
+      "name": "Художественный музей",
+      "name_en": "",
+      "city": "Luhansk",
+      "country": "Ukraine",
+      "latitude": 48.575537,
+      "longitude": 39.305888,
+      "website": ""
+    },
+    {
+      "name": "Художественный музей им.Крошицкого",
+      "name_en": "",
+      "city": "Sevastopol",
+      "country": "Ukraine",
+      "latitude": 44.613588,
+      "longitude": 33.522354,
+      "website": "http://www.sevartmuseum.info/"
+    },
+    {
+      "name": "Художньо-меморіальний музей Олекси Новаківського",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.83754,
+      "longitude": 24.015308,
+      "website": "https://www.facebook.com/novakivsky.museum/"
+    },
+    {
+      "name": "Художньо-меморіальний музей Олени Кульчицької",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.837817,
+      "longitude": 24.01566,
+      "website": "http://facebook.com/pages/художньо-меморіальний-музей-Олени-Кульчицької/141096795985753"
+    },
+    {
+      "name": "Художньо-меморіальний музей-майстерня Леопольда Левицького",
+      "name_en": "",
+      "city": "L'viv",
+      "country": "Ukraine",
+      "latitude": 49.836883,
+      "longitude": 24.01541,
+      "website": ""
+    },
+    {
+      "name": "Художньо-меморіапьний комплекс \"Стежка Івана Франка\"",
+      "name_en": "",
+      "city": "Boryslav",
+      "country": "Ukraine",
+      "latitude": 49.366625,
+      "longitude": 23.372614,
+      "website": ""
+    },
+    {
+      "name": "Художній музей",
+      "name_en": "Museum of Arts",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.291769,
+      "longitude": 25.934421,
+      "website": ""
+    },
+    {
+      "name": "Художній музей творчості М. Біласа",
+      "name_en": "Museum Bilas",
+      "city": "Truskavets",
+      "country": "Ukraine",
+      "latitude": 49.280094,
+      "longitude": 23.504359,
+      "website": ""
+    },
+    {
+      "name": "Художній музей ім. І. Бродського",
+      "name_en": "",
+      "city": "Berdyans’k",
+      "country": "Ukraine",
+      "latitude": 46.753836,
+      "longitude": 36.793927,
+      "website": ""
+    },
+    {
+      "name": "Центр культуры вина ШАБО",
+      "name_en": "Shabo Wine Cultural Center",
+      "city": "Shabo",
+      "country": "Ukraine",
+      "latitude": 46.142639,
+      "longitude": 30.374153,
+      "website": "http://shabo.ua"
+    },
+    {
+      "name": "Центр сучасного мистецтва ім. Куїнджі",
+      "name_en": "",
+      "city": "Mariupol",
+      "country": "Ukraine",
+      "latitude": 47.091698,
+      "longitude": 37.542634,
+      "website": ""
+    },
+    {
+      "name": "Церква",
+      "name_en": "",
+      "city": "Hrebinka",
+      "country": "Ukraine",
+      "latitude": 50.111097,
+      "longitude": 32.42037,
+      "website": ""
+    },
+    {
+      "name": "Чайный бульвар",
+      "name_en": "",
+      "city": "Bakhchysaray",
+      "country": "Ukraine",
+      "latitude": 44.750342,
+      "longitude": 33.874353,
+      "website": ""
+    },
+    {
+      "name": "Чернівецький літературно-меморіальний музей Ольги Кобилянської",
+      "name_en": "",
+      "city": "Chernivtsi",
+      "country": "Ukraine",
+      "latitude": 48.284921,
+      "longitude": 25.942625,
+      "website": ""
+    },
+    {
+      "name": "Шиб \"Каліф\"",
+      "name_en": "",
+      "city": "Skhodnitsa",
+      "country": "Ukraine",
+      "latitude": 49.228163,
+      "longitude": 23.338136,
+      "website": ""
+    },
+    {
+      "name": "Шпихлір",
+      "name_en": "",
+      "city": "Drohobych",
+      "country": "Ukraine",
+      "latitude": 49.352705,
+      "longitude": 23.514962,
+      "website": ""
+    },
+    {
+      "name": "Єпархіальний музей",
+      "name_en": "Diocesan Museum",
+      "city": "Truskavets",
+      "country": "Ukraine",
+      "latitude": 49.276751,
+      "longitude": 23.508731,
+      "website": ""
+    },
+    {
+      "name": "Історико-археологічний музей",
+      "name_en": "",
+      "city": "Parutyne",
+      "country": "Ukraine",
+      "latitude": 46.695068,
+      "longitude": 31.905071,
+      "website": ""
+    },
+    {
+      "name": "Історико-археологічний музейний комплекс «Древнiй Любеч»",
+      "name_en": "",
+      "city": "Lyubech",
+      "country": "Ukraine",
+      "latitude": 51.70406,
+      "longitude": 30.657577,
+      "website": ""
+    },
+    {
+      "name": "Історико-краєзнавчий кімната-музей",
+      "name_en": "",
+      "city": "Mykolayiv",
+      "country": "Ukraine",
+      "latitude": 49.484361,
+      "longitude": 23.988934,
+      "website": ""
+    },
+    {
+      "name": "Історико-краєзнавчий музей",
+      "name_en": "",
+      "city": "Bohuslav",
+      "country": "Ukraine",
+      "latitude": 49.548321,
+      "longitude": 30.874666,
+      "website": ""
+    },
+    {
+      "name": "Історико-краєзнавчий музей",
+      "name_en": "",
+      "city": "Peremyshlyany",
+      "country": "Ukraine",
+      "latitude": 49.674182,
+      "longitude": 24.554749,
+      "website": ""
+    },
+    {
+      "name": "Історико-краєзнавчий музей села Олешів",
+      "name_en": "",
+      "city": "Chornoliztsi",
+      "country": "Ukraine",
+      "latitude": 48.943181,
+      "longitude": 24.983044,
+      "website": "https://sites.google.com/site/kraeznavcijmuzejselaolesiv/"
+    },
+    {
+      "name": "Історичний музей",
+      "name_en": "",
+      "city": "Korets’",
+      "country": "Ukraine",
+      "latitude": 50.618836,
+      "longitude": 27.165979,
+      "website": ""
+    },
+    {
+      "name": "Історичний музей",
+      "name_en": "",
+      "city": "Vasylivka",
+      "country": "Ukraine",
+      "latitude": 47.446778,
+      "longitude": 35.276611,
+      "website": "http://viam.ucoz.net/"
+    },
+    {
+      "name": "Історичний музей \"Євреї Єлисаветграда\"",
+      "name_en": "",
+      "city": "Kirovohrad",
+      "country": "Ukraine",
+      "latitude": 48.508827,
+      "longitude": 32.268082,
+      "website": "http://region.in.ua/elisavet/jmuz_u.html"
+    }
+  ],
+  "meta": {
+    "title": "Музеї України (Museums in Ukraine) - Безкоштовне завантаження",
+    "description": "Перелік із 460 музеїв України за даними OpenStreetMap — назва, місто, координати та вебсайт. Містить 460 записів. Завантажити у форматах Excel, CSV, PDF.",
+    "seo_title": "Музеї України (Museums in Ukraine) | ListBase",
+    "seo_description": "Завантажити Музеї України (Museums in Ukraine) — 460 записів. Доступно у форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Містить 460 записів / 7 полів",
+      "Безкоштовне завантаження у форматах Excel, CSV та PDF",
+      "Джерело даних: open data"
+    ]
+  }
+}
