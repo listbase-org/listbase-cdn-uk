@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-24T00:02:57.568Z",
-  "total_datasets": 417,
-  "total_records": 469649,
+  "generated": "2026-10-24T00:05:51.305Z",
+  "total_datasets": 418,
+  "total_records": 469683,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -4052,6 +4052,33 @@
         "xlsx": {
           "name": "uk-systemy-pysma_UK.xlsx",
           "size": 11357
+        }
+      }
+    },
+    {
+      "id": "uk-premier-ministry-ukrainy",
+      "name": "Прем’єр-міністри України від 1991 року",
+      "category": "politics",
+      "record_count": 34,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "party",
+        "president",
+        "source_url"
+      ],
+      "source": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180",
+      "updated": "2026-10",
+      "size": 21148,
+      "files": {
+        "csv": {
+          "name": "uk-premier-ministry-ukrainy_UK.csv",
+          "size": 13700
+        },
+        "xlsx": {
+          "name": "uk-premier-ministry-ukrainy_UK.xlsx",
+          "size": 9020
         }
       }
     },

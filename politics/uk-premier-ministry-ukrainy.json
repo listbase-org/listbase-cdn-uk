@@ -1,0 +1,333 @@
+{
+  "id": "uk-premier-ministry-ukrainy",
+  "name": "Прем’єр-міністри України від 1991 року",
+  "title": "Прем’єр-міністри України від 1991 року",
+  "description": "Перелік прем’єр-міністрів України та виконувачів обов’язків від 1991 року з української Вікіпедії. Збережено окремі строки повноважень, партії та президента, зазначених у таблиці джерела.",
+  "category": "politics",
+  "source": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180",
+  "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "uk.wikipedia.org contributors; source page history and revision linked in source_url.",
+  "retrieved": "2026-10-24",
+  "localization": "Source values retained without translation; HTML, reference markers and hidden sorting keys removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Ім’я (роки життя)",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Початок каденції",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Закінчення каденції",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Партія",
+      "type": "string"
+    },
+    {
+      "key": "president",
+      "label": "Президент",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "Джерело",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Вітольд Фокін (1932—2025)",
+      "term_start": "18 квітня 1991 (як Премʼєр-міністр Української РСР ) 24 серпня 1991 (як Премʼєр-міністр України)",
+      "term_end": "1 жовтня 1992",
+      "party": "Безпартійний",
+      "president": "Леонід Кравчук",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Валентин Симоненко (нар. 1940) ( в. о. )",
+      "term_start": "2 жовтня 1992",
+      "term_end": "13 жовтня 1992",
+      "party": "Безпартійний",
+      "president": "Леонід Кравчук",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Леонід Кучма (нар. 1938)",
+      "term_start": "13 жовтня 1992",
+      "term_end": "21 вересня 1993",
+      "party": "Безпартійний",
+      "president": "Леонід Кравчук",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юхим Звягільський (1933—2021) ( в. о. )",
+      "term_start": "22 вересня 1993",
+      "term_end": "16 червня 1994",
+      "party": "Безпартійний",
+      "president": "Леонід Кравчук",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Віталій Масол (1928—2018)",
+      "term_start": "16 червня 1994",
+      "term_end": "6 березня 1995",
+      "party": "Безпартійний",
+      "president": "Леонід Кравчук",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Віталій Масол (1928—2018)",
+      "term_start": "16 червня 1994",
+      "term_end": "6 березня 1995",
+      "party": "Безпартійний",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Євген Марчук (1941—2021) ( в. о. )",
+      "term_start": "6 березня 1995",
+      "term_end": "8 червня 1995",
+      "party": "Безпартійний",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Євген Марчук (1941—2021)",
+      "term_start": "8 червня 1995",
+      "term_end": "27 травня 1996",
+      "party": "Безпартійний",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Павло Лазаренко (нар. 1953)",
+      "term_start": "28 травня 1996",
+      "term_end": "19 червня 1997",
+      "party": "Громада",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Василь Дурдинець (нар. 1937) ( в. о. )",
+      "term_start": "19 червня 1997",
+      "term_end": "16 липня 1997",
+      "party": "Безпартійний",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Валерій Пустовойтенко (нар. 1947)",
+      "term_start": "16 липня 1997",
+      "term_end": "22 грудня 1999",
+      "party": "Народно-демократична партія",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Віктор Ющенко (нар. 1954)",
+      "term_start": "22 грудня 1999",
+      "term_end": "29 травня 2001",
+      "party": "Безпартійний",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Анатолій Кінах (нар. 1954)",
+      "term_start": "29 травня 2001",
+      "term_end": "21 листопада 2002",
+      "party": "Партія промисловців і підприємців",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Віктор Янукович (нар. 1950)",
+      "term_start": "21 листопада 2002",
+      "term_end": "7 грудня 2004",
+      "party": "Партія регіонів",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Микола Азаров (нар. 1947) ( в. о. )",
+      "term_start": "7 грудня 2004",
+      "term_end": "28 грудня 2004",
+      "party": "Партія регіонів",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Віктор Янукович (нар. 1950)",
+      "term_start": "28 грудня 2004",
+      "term_end": "5 січня 2005",
+      "party": "Партія регіонів",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Микола Азаров (нар. 1947) ( в. о. )",
+      "term_start": "5 січня 2005",
+      "term_end": "24 січня 2005",
+      "party": "Партія регіонів",
+      "president": "Леонід Кучма",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юлія Тимошенко (нар. 1960) ( в. о. )",
+      "term_start": "24 січня 2005",
+      "term_end": "4 лютого 2005",
+      "party": "Батьківщина",
+      "president": "Віктор Ющенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юлія Тимошенко (нар. 1960)",
+      "term_start": "4 лютого 2005",
+      "term_end": "8 вересня 2005",
+      "party": "Батьківщина",
+      "president": "Віктор Ющенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юрій Єхануров (нар. 1948) ( в. о. )",
+      "term_start": "8 вересня 2005",
+      "term_end": "22 вересня 2005",
+      "party": "Наша Україна",
+      "president": "Віктор Ющенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юрій Єхануров (нар. 1948)",
+      "term_start": "22 вересня 2005",
+      "term_end": "4 серпня 2006",
+      "party": "Наша Україна",
+      "president": "Віктор Ющенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Віктор Янукович (нар. 1950) ( Вдруге )",
+      "term_start": "4 серпня 2006",
+      "term_end": "18 грудня 2007",
+      "party": "Партія регіонів",
+      "president": "Віктор Ющенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юлія Тимошенко (нар. 1960) ( Вдруге )",
+      "term_start": "18 грудня 2007",
+      "term_end": "3 березня 2010",
+      "party": "Батьківщина",
+      "president": "Віктор Ющенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юлія Тимошенко (нар. 1960) ( в. о. )",
+      "term_start": "3 березня 2010",
+      "term_end": "11 березня 2010",
+      "party": "Батьківщина",
+      "president": "Віктор Янукович",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Микола Азаров (нар. 1947) (3—13.12.2012 — в.о.)",
+      "term_start": "11 березня 2010",
+      "term_end": "28 січня 2014",
+      "party": "Партія регіонів",
+      "president": "Віктор Янукович",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Сергій Арбузов (нар. 1976) ( в. о. )",
+      "term_start": "28 січня 2014",
+      "term_end": "27 лютого 2014",
+      "party": "Партія регіонів",
+      "president": "Віктор Янукович",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Арсеній Яценюк (нар. 1974)",
+      "term_start": "27 лютого 2014",
+      "term_end": "14 квітня 2016",
+      "party": "Батьківщина (27.02.14 — 27.11.14)",
+      "president": "Олександр Турчинов ( в. о. )",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Арсеній Яценюк (нар. 1974)",
+      "term_start": "27 лютого 2014",
+      "term_end": "14 квітня 2016",
+      "party": "Народний фронт (27.11.14 — 14.04.16)",
+      "president": "Петро Порошенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Володимир Гройсман (нар. 1978)",
+      "term_start": "14 квітня 2016",
+      "term_end": "29 серпня 2019",
+      "party": "Блок Петра Порошенка",
+      "president": "Петро Порошенко",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Володимир Гройсман (нар. 1978)",
+      "term_start": "14 квітня 2016",
+      "term_end": "29 серпня 2019",
+      "party": "Блок Петра Порошенка",
+      "president": "Володимир Зеленський",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Олексій Гончарук (нар. 1984)",
+      "term_start": "29 серпня 2019",
+      "term_end": "4 березня 2020",
+      "party": "Безпартійний",
+      "president": "Володимир Зеленський",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Денис Шмигаль (нар. 1975)",
+      "term_start": "4 березня 2020",
+      "term_end": "17 липня 2025",
+      "party": "Безпартійний",
+      "president": "Володимир Зеленський",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Юлія Свириденко (нар. 1985)",
+      "term_start": "17 липня 2025",
+      "term_end": "14 липня 2026",
+      "party": "Безпартійна",
+      "president": "Володимир Зеленський",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    },
+    {
+      "name": "Сергій Корецький (нар. 1978)",
+      "term_start": "16 липня 2026",
+      "term_end": "",
+      "party": "Безпартійний",
+      "president": "Володимир Зеленський",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    }
+  ],
+  "meta": {
+    "title": "Прем’єр-міністри України від 1991 року - Free Download",
+    "description": "Перелік прем’єр-міністрів України та виконувачів обов’язків від 1991 року з української Вікіпедії. Збережено окремі строки повноважень, партії та президента, зазначених у таблиці джерела. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Прем’єр-міністри України від 1991 року | ListBase",
+    "seo_description": "Download Прем’єр-міністри України від 1991 року — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=48511180"
+    ]
+  }
+}
