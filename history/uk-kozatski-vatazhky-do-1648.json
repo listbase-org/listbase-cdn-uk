@@ -1,0 +1,423 @@
+{
+  "id": "uk-kozatski-vatazhky-do-1648",
+  "name": "Козацькі ватажки й гетьмани до 1648 року",
+  "title": "Козацькі ватажки й гетьмани до 1648 року",
+  "description": "Постаті та роки діяльності з першої таблиці статті «Гетьмани України». Історичні формулювання джерела збережено; це не перелік лише очільників Гетьманщини.",
+  "category": "history",
+  "source": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330",
+  "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "uk.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "period",
+      "label": "period",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "notes",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "period": "1486 — 1492",
+      "name": "Юрій Пац",
+      "notes": "воєвода київський ; організатор козацьких загонів.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1488 — 1495",
+      "name": "Богдан Глинський",
+      "notes": "намісник черкаський; козацький ватажок, руйнівник Очакова .",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1492 — 1505",
+      "name": "Дмитро Путятич",
+      "notes": "воєвода київський ; козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1510 — 1524",
+      "name": "Сенько Полозович",
+      "notes": "воєвода київський; козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1514 — 1535",
+      "name": "Остафій Дашкевич",
+      "notes": "староста канівський і черкаський; козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1516 — 1528",
+      "name": "Предслав Лянцкоронський",
+      "notes": "староста хмільницький ; козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1534 — 1569",
+      "name": "Венжик Хмельницький",
+      "notes": "козацький ватажок, низовий гетьман, прадід Богдана Хмельницького .",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1550 — 1557",
+      "name": "Дмитро Вишневецький",
+      "notes": "староста канівський і черкаський; засновник фортеці на Малій Хортиці — прототипу Запорозької Січі .",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1568",
+      "name": "Біруля Мадський",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1568",
+      "name": "Карпо Масло",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1568",
+      "name": "Андруш",
+      "notes": "молдовський боярин, козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1568",
+      "name": "Лісун",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1568",
+      "name": "Яцько Білоус",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1568",
+      "name": "Андрій Лях",
+      "notes": "козацький ватажок; організатор нападу на московське посольство до Криму .",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1577 — 1578",
+      "name": "Іван Підкова",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1578",
+      "name": "Лук'ян Чорнинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1581",
+      "name": "Самійло Зборовський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1583",
+      "name": "Дем'ян Скалозуб",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1584",
+      "name": "Богдан Микошинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1585",
+      "name": "Михайло Ружинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1585",
+      "name": "Кирик Ружинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1585",
+      "name": "Захар Кулага",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1586",
+      "name": "Лук'ян Чорнинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1586",
+      "name": "Богдан Макошинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1588",
+      "name": "Потребацький",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1589",
+      "name": "Захар Кулага",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1589 — 1593",
+      "name": "Дем'ян Скалозуб",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1594",
+      "name": "Богдан Микошинський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1594 — 1596",
+      "name": "Григорій Лобода",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1594 — 1596",
+      "name": "Северин Наливайко",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1596",
+      "name": "Матвій Шаула",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1596",
+      "name": "Криштоф Кремпський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1596",
+      "name": "Криштоф Нечковський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1596 — 1597",
+      "name": "Гнат Василевич",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1597",
+      "name": "Тихін Байбуза",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1598",
+      "name": "Флоріан Гедройць",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1598",
+      "name": "Мітловський",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1602 — 1603",
+      "name": "Іван Куцкович",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1603",
+      "name": "Іван Косий",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1606",
+      "name": "Григорій Ізапович",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1606",
+      "name": "Самійло Зборовський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1606",
+      "name": "Олевченко Богдан",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1617",
+      "name": "Дмитро Барабаш",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1618",
+      "name": "Михайло Скиба",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1619 — 1621",
+      "name": "Яцько Неродич",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1620",
+      "name": "Петро Одинець",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1624",
+      "name": "Грицько Чорний",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1625",
+      "name": "Федір Пирський",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1628",
+      "name": "Грицько Чорний",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1629 — 1630",
+      "name": "Грицько Чорний",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1630",
+      "name": "Тарас Трясило",
+      "notes": "козацький ватажок, гетьман; керівник повстання 1630 року .",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1632",
+      "name": "Андрій Діденко",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1633",
+      "name": "Дорофій Дорошенко",
+      "notes": "козацький ватажок, наказний гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1633",
+      "name": "Дорош Куцкович",
+      "notes": "гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1633",
+      "name": "Гиря Каневець",
+      "notes": "козацький ватажок.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1633 — 1635",
+      "name": "Іван Сулима",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1636 — 1637",
+      "name": "Василь Томиленко",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1637",
+      "name": "Павло Павлюк",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1638",
+      "name": "Яків Острянин",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1638",
+      "name": "Дмитро Гуня",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1639 — 1642",
+      "name": "Карпо Півтора-Кожуха",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    },
+    {
+      "period": "1642 — 1646",
+      "name": "Максим Гулак",
+      "notes": "козацький ватажок, гетьман.",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    }
+  ],
+  "meta": {
+    "title": "Козацькі ватажки й гетьмани до 1648 року - Free Download",
+    "description": "Постаті та роки діяльності з першої таблиці статті «Гетьмани України». Історичні формулювання джерела збережено; це не перелік лише очільників Гетьманщини. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Козацькі ватажки й гетьмани до 1648 року | ListBase",
+    "seo_description": "Download Козацькі ватажки й гетьмани до 1648 року — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B3%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B8_%D1%96_%D0%BA%D0%BE%D1%88%D0%BE%D0%B2%D1%96_%D0%BE%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8&oldid=48187330"
+    ]
+  }
+}
