@@ -1,0 +1,546 @@
+{
+  "id": "uk-narodni-muzychni-instrumenty",
+  "name": "Українські народні музичні інструменти",
+  "title": "Українські народні музичні інструменти",
+  "description": "Перелік духових, струнних та ударних інструментів із української Вікіпедії. Назви й наведені в джерелі класифікаційні номери збережено без змін.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720",
+  "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "uk.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Трембіта — Горнбостель-Закс номер 423.121.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Сопілка — Горнбостель-Закс номер 421.111.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Вільшанка — Горнбостель-Закс номер 422.211.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Волинка — Горнбостель-Закс номер 421.22.62",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Денцівка — Горнбостель-Закс номер 421.221.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Дідик — Горнбостель-Закс номер 422.211.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Джоломіґа , дводенцівка — Горнбостель-Закс номер 421.221.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Дуда , коза — Горнбостель-Закс номер 421.22.62",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Жалійка — Горнбостель-Закс номер 422.211.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Зозуля, свищик, окарина — Горнбостель-Закс номер 421.221.422",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Зубівка — Горнбостель-Закс номер 421.111.1",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Козацька труба",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Коса дудка — Горнбостель-Закс номер 421.111.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Кувиці — Горнбостель-Закс номер 421.112.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Лігава — Горнбостель-Закс номер 423.111.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Най — Горнбостель-Закс номер 421.112.11",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Орган — Горнбостель-Закс номер 421.222.11+421.222.3+412.1",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Півтораденцівка — Горнбостель-Закс номер 421.221.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Позитив",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Поморт — Горнбостель-Закс номер 422.112",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Ребро — Горнбостель-Закс номер 421.112.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Реґал",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Ріг — Горнбостель-Закс номер 423.121.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Ріжок — Горнбостель-Закс номер 422.211.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Сурма — Горнбостель-Закс номер 422.112",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Свиріль — Горнбостель-Закс номер 421.112.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Скосівка",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Скигля — Горнбостель-Закс номер 422.211.2",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Скісна дудка",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Тараґот — Горнбостель-Закс номер 422.212",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Тилинка , Теленка — Горнбостель-Закс номер 421.111.11",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Тромбон , пузан — Горнбостель-Закс номер 423.22",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Труба — Горнбостель-Закс номер 423.121.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Фісгармонія — Горнбостель-Закс номер 412.132",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Флояра — Горнбостель-Закс номер 421.111.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Фрілка — Горнбостель-Закс номер 421.111.12",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Фруканка",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Шипош",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Шоломія — Горнбостель-Закс номер 422.112",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Шторт — Горнбостель-Закс номер 422.22",
+      "group": "Духові",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Альт — Горнбостель-Закс номер 321.322-71",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Арфа — Горнбостель-Закс номер 322–5",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Архилютня — Горнбостель-Закс номер 321.321-5",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бандура — Горнбостель-Закс номер 321.321-5",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Басоля — Горнбостель-Закс номер 321.322-71",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бийкоза — Горнбостель-Закс номер 321.322-71+111",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Вірґіналь — Горнбостель-Закс номер 314.122-6-8",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Грецька ліра — Горнбостель-Закс номер 321.2",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Гудок — Горнбостель-Закс номер 321.32-71",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Гуслі — Горнбостель-Закс номер 314.122-5",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Домра",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Квінтарна — Горнбостель-Закс номер 321.321-6",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Кіфара",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Клавікорд — Горнбостель-Закс номер 314.122-4-8",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Кобза — Горнбостель-Закс номер 321.32-5",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Кобза ладкова, кобза Павла Конопленка-Запорожця — Горнбостель-Закс номер 321.321-5+6",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Козобас — Горнбостель-Закс номер 321.322-71+111.2",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Контрабас — Горнбостель-Закс номер 321.322-71",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Ліра колісна — Горнбостель-Закс номер 312.322-72",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Псалтиріон — Горнбостель-Закс номер 314.122",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Серба",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Скрипка — Горнбостель-Закс номер 321.322-71",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Торбан — Горнбостель-Закс номер 314.122-4",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Цимбали — — Горнбостель-Закс номер 321.32-71",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Цитра — Горнбостель-Закс номер 314.122-6",
+      "group": "Струнні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Батіг — Горнбостель-Закс номер 321.32-5:",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Барабан — Горнбостель-Закс номер 211.212.1:",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Барабан з тарілкою — Горнбостель-Закс номер 211.212.1 + 111.142:",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Беребениця — Горнбостель-Закс номер 232.11-92",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Било — Горнбостель-Закс номер 111.221",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Біка",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Вертушка",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бочка",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Брязяльниця — Горнбостель-Закс номер 112.11",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Брязкальця",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бубончик — Горнбостель-Закс номер 112.13",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бубон — Горнбостель-Закс номер 211.311:",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бубон з брязкальчями — Горнбостель-Закс номер 211.311 + 112.111:",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Бугай — Горнбостель-Закс номер 232.11-92",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Деркач",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Дзвін — Горнбостель-Закс номер 111.242.122",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Куцгелка",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Калатало — Горнбостель-Закс номер 111.242.122",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Качалка",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Клепач",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Кукурудзяна скрипка — Горнбостель-Закс номер 131.21",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Очеретяна цівка — Горнбостель-Закс номер 242—811",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Перетика на гребінці — Горнбостель-Закс номер 241—811",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Підкова — Горнбостель-Закс номер 111.21",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Рапач",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Рубал",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Рубел — Горнбостель-Закс номер 112.2",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Решето",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Тарабан",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Тарілка — Горнбостель-Закс номер 111.142",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Торохкатало — Горнбостель-Закс номер 111.11",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Трикутник — Горнбостель-Закс номер 111.211",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Трохкавка",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Тулумбас",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    },
+    {
+      "name": "Затула",
+      "group": "Ударні",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    }
+  ],
+  "meta": {
+    "title": "Українські народні музичні інструменти - Free Download",
+    "description": "Перелік духових, струнних та ударних інструментів із української Вікіпедії. Назви й наведені в джерелі класифікаційні номери збережено без змін. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Українські народні музичні інструменти | ListBase",
+    "seo_description": "Download Українські народні музичні інструменти — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8&oldid=45629720"
+    ]
+  }
+}
