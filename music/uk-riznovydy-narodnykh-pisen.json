@@ -1,0 +1,146 @@
+{
+  "id": "uk-riznovydy-narodnykh-pisen",
+  "name": "Різновиди українських народних пісень",
+  "title": "Різновиди українських народних пісень",
+  "description": "Назви різновидів із відповідного переліку української Вікіпедії. Збережено формулювання джерела без додавання текстів пісень чи синтезованих описів.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742",
+  "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "uk.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Голосіння",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Жартівливі пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Історичні пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Козацькі пісні і думи",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Балади",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Колискові пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Колядки та щедрівки",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Кріпацькі пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Купальські пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Ліричні пісні та балади",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Наймитські пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Обрядові пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Побутові пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Сороміцькі пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Рекрутські пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Стрілецькі пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Патріотичні пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Повстанські пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Танці і хороводи",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    },
+    {
+      "name": "Чумацькі пісні",
+      "group": "Різновиди українських народних пісень",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    }
+  ],
+  "meta": {
+    "title": "Різновиди українських народних пісень - Free Download",
+    "description": "Назви різновидів із відповідного переліку української Вікіпедії. Збережено формулювання джерела без додавання текстів пісень чи синтезованих описів. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Різновиди українських народних пісень | ListBase",
+    "seo_description": "Download Різновиди українських народних пісень — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96_%D0%BF%D1%96%D1%81%D0%BD%D1%96&oldid=47750742"
+    ]
+  }
+}
