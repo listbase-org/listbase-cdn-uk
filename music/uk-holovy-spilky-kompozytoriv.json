@@ -1,0 +1,101 @@
+{
+  "id": "uk-holovy-spilky-kompozytoriv",
+  "name": "Голови Національної спілки композиторів України",
+  "title": "Голови Національної спілки композиторів України",
+  "description": "Імена та роки головування з таблиці української Вікіпедії. Співголовування і повторні строки збережено у формулюваннях джерела; відкриті строки відповідають стану сторінки.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500",
+  "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "uk.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "term",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Борис Лятошинський",
+      "term": "1939 — 1941",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Костянтин Данькевич",
+      "term": "1941 , 1956 — 1967",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Левко Ревуцький",
+      "term": "1944 — 1948",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Григорій Верьовка",
+      "term": "1948 — 1952",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Пилип Козицький",
+      "term": "1952 — 1956",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Георгій Майборода",
+      "term": "1967 — 1969",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Андрій Штогаренко",
+      "term": "1969 — 1989",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Євген Станкович",
+      "term": "1990 — 1992 , 2004 — 2010 (співголова)",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Михайло Степаненко",
+      "term": "1992 — 2004",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Мирослав Скорик",
+      "term": "2004 — 2010 (співголова)",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    },
+    {
+      "name": "Ігор Щербаков",
+      "term": "2010 —",
+      "source_url": "https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    }
+  ],
+  "meta": {
+    "title": "Голови Національної спілки композиторів України - Free Download",
+    "description": "Імена та роки головування з таблиці української Вікіпедії. Співголовування і повторні строки збережено у формулюваннях джерела; відкриті строки відповідають стану сторінки. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Голови Національної спілки композиторів України | ListBase",
+    "seo_description": "Download Голови Національної спілки композиторів України — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%96%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&oldid=49000500"
+    ]
+  }
+}
