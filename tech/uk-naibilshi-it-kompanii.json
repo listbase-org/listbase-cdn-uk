@@ -1,0 +1,166 @@
+{
+  "id": "uk-naibilshi-it-kompanii",
+  "name": "Найбільші ІТ-компанії України",
+  "title": "Найбільші ІТ-компанії України",
+  "description": "Рейтинг найбільших ІТ-компаній України за кількістю співробітників в Україні.",
+  "category": "tech",
+  "source": "https://uk.wikipedia.org/wiki/Рейтинг_найбільших_ІТ-компаній_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Рейтинг_найбільших_ІТ-компаній_України",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "mistse",
+      "label": "Mistse",
+      "type": "number"
+    },
+    {
+      "key": "kompaniia",
+      "label": "Kompaniia",
+      "type": "string"
+    },
+    {
+      "key": "spivrobitnykiv_v_ukraini",
+      "label": "Spivrobitnykiv V Ukraini",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mistse": 1,
+      "kompaniia": "EPAM Systems",
+      "spivrobitnykiv_v_ukraini": 2850
+    },
+    {
+      "mistse": 2,
+      "kompaniia": "Luxoft",
+      "spivrobitnykiv_v_ukraini": 2612
+    },
+    {
+      "mistse": 3,
+      "kompaniia": "SoftServe",
+      "spivrobitnykiv_v_ukraini": 2400
+    },
+    {
+      "mistse": 4,
+      "kompaniia": "GlobalLogic",
+      "spivrobitnykiv_v_ukraini": 2278
+    },
+    {
+      "mistse": 5,
+      "kompaniia": "Ciklum",
+      "spivrobitnykiv_v_ukraini": 1924
+    },
+    {
+      "mistse": 6,
+      "kompaniia": "Infopulse",
+      "spivrobitnykiv_v_ukraini": 934
+    },
+    {
+      "mistse": 7,
+      "kompaniia": "Samsung Ukraine R&D Center",
+      "spivrobitnykiv_v_ukraini": 900
+    },
+    {
+      "mistse": 8,
+      "kompaniia": "ELEKS",
+      "spivrobitnykiv_v_ukraini": 744
+    },
+    {
+      "mistse": 9,
+      "kompaniia": "ISD",
+      "spivrobitnykiv_v_ukraini": 680
+    },
+    {
+      "mistse": 10,
+      "kompaniia": "Miratech",
+      "spivrobitnykiv_v_ukraini": 600
+    },
+    {
+      "mistse": 11,
+      "kompaniia": "Lohika Systems",
+      "spivrobitnykiv_v_ukraini": 587
+    },
+    {
+      "mistse": 12,
+      "kompaniia": "NetCracker",
+      "spivrobitnykiv_v_ukraini": 514
+    },
+    {
+      "mistse": 13,
+      "kompaniia": "Software MacKiev",
+      "spivrobitnykiv_v_ukraini": 405
+    },
+    {
+      "mistse": 14,
+      "kompaniia": "DataArt",
+      "spivrobitnykiv_v_ukraini": 402
+    },
+    {
+      "mistse": 15,
+      "kompaniia": "Terrasoft",
+      "spivrobitnykiv_v_ukraini": 380
+    },
+    {
+      "mistse": 16,
+      "kompaniia": "SysIQ",
+      "spivrobitnykiv_v_ukraini": 368
+    },
+    {
+      "mistse": 17,
+      "kompaniia": "Sigma Ukraine",
+      "spivrobitnykiv_v_ukraini": 365
+    },
+    {
+      "mistse": 18,
+      "kompaniia": "Frog",
+      "spivrobitnykiv_v_ukraini": 356
+    },
+    {
+      "mistse": 19,
+      "kompaniia": "Арт-мастер (AM-SOFT)",
+      "spivrobitnykiv_v_ukraini": 352
+    },
+    {
+      "mistse": 20,
+      "kompaniia": "Softline",
+      "spivrobitnykiv_v_ukraini": 336
+    },
+    {
+      "mistse": 21,
+      "kompaniia": "CS Ltd.",
+      "spivrobitnykiv_v_ukraini": 310
+    },
+    {
+      "mistse": 22,
+      "kompaniia": "Nix Solutions",
+      "spivrobitnykiv_v_ukraini": 300
+    },
+    {
+      "mistse": 23,
+      "kompaniia": "Cogniance",
+      "spivrobitnykiv_v_ukraini": 269
+    },
+    {
+      "mistse": 24,
+      "kompaniia": "Magento",
+      "spivrobitnykiv_v_ukraini": 250
+    },
+    {
+      "mistse": 25,
+      "kompaniia": "Gameloft Україна",
+      "spivrobitnykiv_v_ukraini": 237
+    }
+  ],
+  "meta": {
+    "title": "Найбільші ІТ-компанії України - Free Download",
+    "description": "Рейтинг найбільших ІТ-компаній України за кількістю співробітників в Україні. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найбільші ІТ-компанії України | ListBase",
+    "seo_description": "Download Найбільші ІТ-компанії України — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Рейтинг_найбільших_ІТ-компаній_України"
+    ]
+  }
+}

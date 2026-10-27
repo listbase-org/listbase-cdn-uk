@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:45.175Z",
-  "total_datasets": 429,
-  "total_records": 470257,
+  "generated": "2026-10-27T02:36:47.698Z",
+  "total_datasets": 430,
+  "total_records": 470282,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "time",
@@ -10612,6 +10612,30 @@
         "xlsx": {
           "name": "uk-chasovi-poyasy-pacific_UK.xlsx",
           "size": 8442
+        }
+      }
+    },
+    {
+      "id": "uk-naibilshi-it-kompanii",
+      "name": "Найбільші ІТ-компанії України",
+      "category": "tech",
+      "record_count": 25,
+      "columns": [
+        "mistse",
+        "kompaniia",
+        "spivrobitnykiv_v_ukraini"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Рейтинг_найбільших_ІТ-компаній_України",
+      "updated": "2026-10",
+      "size": 4423,
+      "files": {
+        "csv": {
+          "name": "uk-naibilshi-it-kompanii_UK.csv",
+          "size": 665
+        },
+        "xlsx": {
+          "name": "uk-naibilshi-it-kompanii_UK.xlsx",
+          "size": 7419
         }
       }
     },
