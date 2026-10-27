@@ -1,0 +1,176 @@
+{
+  "id": "uk-holovy-verkhovnoi-rady",
+  "name": "Голови Верховної Ради України",
+  "title": "Голови Верховної Ради України",
+  "description": "Список голів Верховної Ради України з 1991 року: роки повноважень, заступники та скликання.",
+  "category": "politics",
+  "source": "https://uk.wikipedia.org/wiki/Список_голів_Верховної_Ради_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_голів_Верховної_Ради_України",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "holova",
+      "label": "Holova",
+      "type": "string"
+    },
+    {
+      "key": "roky_povnovazhen",
+      "label": "Roky Povnovazhen",
+      "type": "string"
+    },
+    {
+      "key": "pershyi_zastupnyk",
+      "label": "Pershyi Zastupnyk",
+      "type": "string"
+    },
+    {
+      "key": "zastupnyk",
+      "label": "Zastupnyk",
+      "type": "string"
+    },
+    {
+      "key": "sklykannia",
+      "label": "Sklykannia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "holova": "Леонід Кравчук",
+      "roky_povnovazhen": "24 серпня 1991 — 5 грудня 1991",
+      "pershyi_zastupnyk": "Іван Плющ",
+      "zastupnyk": "Володимир Гриньов",
+      "sklykannia": "I"
+    },
+    {
+      "nomer": 2,
+      "holova": "Іван Плющ",
+      "roky_povnovazhen": "5 грудня 1991 — 17 травня 1994",
+      "pershyi_zastupnyk": "Василь Дурдинець",
+      "zastupnyk": "Володимир Гриньов",
+      "sklykannia": "I"
+    },
+    {
+      "nomer": 3,
+      "holova": "Олександр Мороз",
+      "roky_povnovazhen": "18 травня 1994 — 14 квітня 1998",
+      "pershyi_zastupnyk": "Олександр Ткаченко",
+      "zastupnyk": "Олег Дьомін Віктор Мусіяка",
+      "sklykannia": "II"
+    },
+    {
+      "nomer": 4,
+      "holova": "Олександр Ткаченко",
+      "roky_povnovazhen": "7 липня 1998 — 1 лютого 2000",
+      "pershyi_zastupnyk": "Адам Мартинюк",
+      "zastupnyk": "Віктор Медведчук",
+      "sklykannia": "III"
+    },
+    {
+      "nomer": 5,
+      "holova": "Іван Плющ",
+      "roky_povnovazhen": "1 лютого 2000 — 14 травня 2002",
+      "pershyi_zastupnyk": "Віктор Медведчук",
+      "zastupnyk": "Степан Гавриш",
+      "sklykannia": "III"
+    },
+    {
+      "nomer": 6,
+      "holova": "Володимир Литвин",
+      "roky_povnovazhen": "28 травня 2002 — 25 травня 2006",
+      "pershyi_zastupnyk": "Геннадій Васильєв Адам Мартинюк",
+      "zastupnyk": "Олександр Зінченко",
+      "sklykannia": "IV"
+    },
+    {
+      "nomer": 7,
+      "holova": "Олександр Мороз",
+      "roky_povnovazhen": "6 липня 2006 — 23 листопада 2007",
+      "pershyi_zastupnyk": "Адам Мартинюк",
+      "zastupnyk": "Микола Томенко",
+      "sklykannia": "V"
+    },
+    {
+      "nomer": 8,
+      "holova": "Арсеній Яценюк",
+      "roky_povnovazhen": "4 грудня 2007 — 12 листопада 2008",
+      "pershyi_zastupnyk": "Олександр Лавринович Адам Мартинюк",
+      "zastupnyk": "Микола Томенко",
+      "sklykannia": "VI"
+    },
+    {
+      "nomer": 9,
+      "holova": "Володимир Литвин",
+      "roky_povnovazhen": "9 грудня 2008 — 12 грудня 2012",
+      "pershyi_zastupnyk": "Адам Мартинюк",
+      "zastupnyk": "Микола Томенко",
+      "sklykannia": "VI"
+    },
+    {
+      "nomer": 10,
+      "holova": "Володимир Рибак",
+      "roky_povnovazhen": "13 грудня 2012 — 22 лютого 2014",
+      "pershyi_zastupnyk": "Ігор Калєтнік",
+      "zastupnyk": "Руслан Кошулинський",
+      "sklykannia": "VII"
+    },
+    {
+      "nomer": 11,
+      "holova": "Олександр Турчинов Олександр Турчинов",
+      "roky_povnovazhen": "22 лютого 2014 — 27 листопада 2014",
+      "pershyi_zastupnyk": "—",
+      "zastupnyk": "Руслан Кошулинський",
+      "sklykannia": "VII"
+    },
+    {
+      "nomer": 12,
+      "holova": "Володимир Гройсман Володимир Гройсман",
+      "roky_povnovazhen": "27 листопада 2014 — 14 квітня 2016",
+      "pershyi_zastupnyk": "Андрій Парубій",
+      "zastupnyk": "Оксана Сироїд",
+      "sklykannia": "VIII"
+    },
+    {
+      "nomer": 13,
+      "holova": "Андрій Парубій Андрій Парубій",
+      "roky_povnovazhen": "14 квітня 2016 — 29 серпня 2019",
+      "pershyi_zastupnyk": "Ірина Геращенко",
+      "zastupnyk": "Оксана Сироїд",
+      "sklykannia": "VIII"
+    },
+    {
+      "nomer": 14,
+      "holova": "Дмитро Разумков Дмитро Разумков",
+      "roky_povnovazhen": "29 серпня 2019 — 7 жовтня 2021",
+      "pershyi_zastupnyk": "Руслан Стефанчук",
+      "zastupnyk": "Олена Кондратюк",
+      "sklykannia": "IX"
+    },
+    {
+      "nomer": 15,
+      "holova": "Руслан Стефанчук",
+      "roky_povnovazhen": "з 8 жовтня 2021",
+      "pershyi_zastupnyk": "Олександр Корнієнко",
+      "zastupnyk": "Олена Кондратюк",
+      "sklykannia": "IX"
+    }
+  ],
+  "meta": {
+    "title": "Голови Верховної Ради України - Free Download",
+    "description": "Список голів Верховної Ради України з 1991 року: роки повноважень, заступники та скликання. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Голови Верховної Ради України | ListBase",
+    "seo_description": "Download Голови Верховної Ради України — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_голів_Верховної_Ради_України"
+    ]
+  }
+}
