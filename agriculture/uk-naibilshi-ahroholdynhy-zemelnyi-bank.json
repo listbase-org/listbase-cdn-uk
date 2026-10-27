@@ -1,0 +1,166 @@
+{
+  "id": "uk-naibilshi-ahroholdynhy-zemelnyi-bank",
+  "name": "Найбільші агрохолдинги України за земельним банком",
+  "title": "Найбільші агрохолдинги України за земельним банком",
+  "description": "Найбільші агрохолдинги України: мажоритарний акціонер чи засновник та розмір земельного банку (га).",
+  "category": "agriculture",
+  "source": "https://uk.wikipedia.org/wiki/Сільське_господарство_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Сільське_господарство_України",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "kompaniia",
+      "label": "Kompaniia",
+      "type": "string"
+    },
+    {
+      "key": "aktsioner_zasnovnyk",
+      "label": "Aktsioner Zasnovnyk",
+      "type": "string"
+    },
+    {
+      "key": "zemelnyi_bank_ha",
+      "label": "Zemelnyi Bank Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "kompaniia": "Ukrlandfarming",
+      "aktsioner_zasnovnyk": "Олег Бахматюк",
+      "zemelnyi_bank_ha": 508000
+    },
+    {
+      "nomer": 2,
+      "kompaniia": "KERNEL",
+      "aktsioner_zasnovnyk": "Андрій Веревський",
+      "zemelnyi_bank_ha": 330000
+    },
+    {
+      "nomer": 3,
+      "kompaniia": "«Мрія Агрохолдинг»",
+      "aktsioner_zasnovnyk": "Іван Гута",
+      "zemelnyi_bank_ha": 295000
+    },
+    {
+      "nomer": 4,
+      "kompaniia": "Миронівський хлібопродукт",
+      "aktsioner_zasnovnyk": "Юрій Косюк",
+      "zemelnyi_bank_ha": 280000
+    },
+    {
+      "nomer": 5,
+      "kompaniia": "Агропромхолдинг «Астарта-Київ»",
+      "aktsioner_zasnovnyk": "Віктор Іванчик , Валерій Коротков",
+      "zemelnyi_bank_ha": 245000
+    },
+    {
+      "nomer": 6,
+      "kompaniia": "HarvEast Holding",
+      "aktsioner_zasnovnyk": "Рінат Ахметов , Вадим Новинський",
+      "zemelnyi_bank_ha": 220000
+    },
+    {
+      "nomer": 7,
+      "kompaniia": "Agroton Public Limited",
+      "aktsioner_zasnovnyk": "Юрій Журавльов",
+      "zemelnyi_bank_ha": 170000
+    },
+    {
+      "nomer": 8,
+      "kompaniia": "Sintal Agriculture",
+      "aktsioner_zasnovnyk": "Микола Толмачов",
+      "zemelnyi_bank_ha": 150000
+    },
+    {
+      "nomer": 9,
+      "kompaniia": "Агропродінвест",
+      "aktsioner_zasnovnyk": "Олексій Порошенко",
+      "zemelnyi_bank_ha": 96000
+    },
+    {
+      "nomer": 10,
+      "kompaniia": "Дружба-Нова",
+      "aktsioner_zasnovnyk": "Сергій Гайдай",
+      "zemelnyi_bank_ha": 100000
+    },
+    {
+      "nomer": 11,
+      "kompaniia": "Індустріальна молочна компанія",
+      "aktsioner_zasnovnyk": "Олександр Петров",
+      "zemelnyi_bank_ha": 83000
+    },
+    {
+      "nomer": 12,
+      "kompaniia": "Нібулон",
+      "aktsioner_zasnovnyk": "Олексій Вадатурський , Андрій Вадатурський",
+      "zemelnyi_bank_ha": 80000
+    },
+    {
+      "nomer": 13,
+      "kompaniia": "Сварог Вест Груп",
+      "aktsioner_zasnovnyk": "Андрій Гордійчук",
+      "zemelnyi_bank_ha": 75000
+    },
+    {
+      "nomer": 14,
+      "kompaniia": "Донецьксталь",
+      "aktsioner_zasnovnyk": "Віктор Нусенкіс",
+      "zemelnyi_bank_ha": 62000
+    },
+    {
+      "nomer": 15,
+      "kompaniia": "KSG Agro",
+      "aktsioner_zasnovnyk": "Сергій Касьянов",
+      "zemelnyi_bank_ha": 61000
+    },
+    {
+      "nomer": 16,
+      "kompaniia": "AgroGeneration",
+      "aktsioner_zasnovnyk": "Шарль Беґбедер",
+      "zemelnyi_bank_ha": 51000
+    },
+    {
+      "nomer": 17,
+      "kompaniia": "Агротрейд",
+      "aktsioner_zasnovnyk": "Всеволод Кожемяко",
+      "zemelnyi_bank_ha": 46500
+    },
+    {
+      "nomer": 18,
+      "kompaniia": "Галс Агро",
+      "aktsioner_zasnovnyk": "Сергій Кравчук",
+      "zemelnyi_bank_ha": 35000
+    },
+    {
+      "nomer": 19,
+      "kompaniia": "АПК-Інвест",
+      "aktsioner_zasnovnyk": "Борис Колесніков",
+      "zemelnyi_bank_ha": 23000
+    },
+    {
+      "nomer": 20,
+      "kompaniia": "Мілкіленд-Україна",
+      "aktsioner_zasnovnyk": "Костянтин Лапцов",
+      "zemelnyi_bank_ha": 23000
+    }
+  ],
+  "meta": {
+    "title": "Найбільші агрохолдинги України за земельним банком - Free Download",
+    "description": "Найбільші агрохолдинги України: мажоритарний акціонер чи засновник та розмір земельного банку (га). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найбільші агрохолдинги України за земельним банком | ListBase",
+    "seo_description": "Download Найбільші агрохолдинги України за земельним банком — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Сільське_господарство_України"
+    ]
+  }
+}

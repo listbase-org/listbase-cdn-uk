@@ -1,9 +1,13 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:42.758Z",
-  "total_datasets": 428,
-  "total_records": 470237,
+  "generated": "2026-10-27T02:36:45.175Z",
+  "total_datasets": 429,
+  "total_records": 470257,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 12
@@ -86,6 +90,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "uk-naibilshi-ahroholdynhy-zemelnyi-bank",
+      "name": "Найбільші агрохолдинги України за земельним банком",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "nomer",
+        "kompaniia",
+        "aktsioner_zasnovnyk",
+        "zemelnyi_bank_ha"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Сільське_господарство_України",
+      "updated": "2026-10",
+      "size": 5730,
+      "files": {
+        "csv": {
+          "name": "uk-naibilshi-ahroholdynhy-zemelnyi-bank_UK.csv",
+          "size": 1621
+        },
+        "xlsx": {
+          "name": "uk-naibilshi-ahroholdynhy-zemelnyi-bank_UK.xlsx",
+          "size": 7866
+        }
+      }
+    },
     {
       "id": "uk-fortetsi",
       "name": "Фортеці України",
