@@ -1,0 +1,2116 @@
+{
+  "id": "uk-200-naibilshykh-kompanii-2012",
+  "name": "200 найбільших компаній України (2012)",
+  "title": "200 найбільших компаній України (2012)",
+  "description": "Рейтинг 200 найбільших компаній України 2012 року: галузь, керівник, виручка за 2011 рік, зростання та прибуток.",
+  "category": "economy",
+  "source": "https://uk.wikipedia.org/wiki/Список_200_найбільших_компаній_України_2012_року",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_200_найбільших_компаній_України_2012_року",
+  "updated": "2026-10",
+  "record_count": 205,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "kompaniia",
+      "label": "Kompaniia",
+      "type": "string"
+    },
+    {
+      "key": "haluz",
+      "label": "Haluz",
+      "type": "string"
+    },
+    {
+      "key": "kerivnyk",
+      "label": "Kerivnyk",
+      "type": "string"
+    },
+    {
+      "key": "vyruchka_2011_mln_uah",
+      "label": "Vyruchka 2011 Mln Uah",
+      "type": "number"
+    },
+    {
+      "key": "rist_do_2010_pct",
+      "label": "Rist Do 2010 Pct",
+      "type": "number"
+    },
+    {
+      "key": "prybutok_mln_uah",
+      "label": "Prybutok Mln Uah",
+      "type": "number"
+    },
+    {
+      "key": "shtab_kvartyra",
+      "label": "Shtab Kvartyra",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "kompaniia": "Нафтогаз",
+      "haluz": "Нафта й газ",
+      "kerivnyk": "Євген Бакулін",
+      "vyruchka_2011_mln_uah": 122950,
+      "rist_do_2010_pct": 15,
+      "prybutok_mln_uah": 9146,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 2,
+      "kompaniia": "Метінвест",
+      "haluz": "Металургія",
+      "kerivnyk": "Ігор Сирий",
+      "vyruchka_2011_mln_uah": 113362,
+      "rist_do_2010_pct": 52,
+      "prybutok_mln_uah": 14813,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 3,
+      "kompaniia": "ДП Енергоринок",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Сергій Бедін",
+      "vyruchka_2011_mln_uah": 72700,
+      "rist_do_2010_pct": "н/д",
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 4,
+      "kompaniia": "Укрзалізниця",
+      "haluz": "Транспорт",
+      "kerivnyk": "Володимир Козак",
+      "vyruchka_2011_mln_uah": 51587,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": 2127,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 5,
+      "kompaniia": "ІСД",
+      "haluz": "Металургія",
+      "kerivnyk": "Олег Мкртчан",
+      "vyruchka_2011_mln_uah": 49046,
+      "rist_do_2010_pct": 36,
+      "prybutok_mln_uah": -6939,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 6,
+      "kompaniia": "ДТЕК",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Максим Тимчено",
+      "vyruchka_2011_mln_uah": 39594,
+      "rist_do_2010_pct": 63,
+      "prybutok_mln_uah": 2857,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 7,
+      "kompaniia": "АрселорМіттал Кривий Ріг",
+      "haluz": "Металургія",
+      "kerivnyk": "Артем Поляків",
+      "vyruchka_2011_mln_uah": 28883,
+      "rist_do_2010_pct": 23,
+      "prybutok_mln_uah": 2143,
+      "shtab_kvartyra": "Кривий Ріг"
+    },
+    {
+      "nomer": 8,
+      "kompaniia": "Укрнафта",
+      "haluz": "Нафта",
+      "kerivnyk": "Пітер Ванхеке",
+      "vyruchka_2011_mln_uah": 24502,
+      "rist_do_2010_pct": 22,
+      "prybutok_mln_uah": 2182,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 9,
+      "kompaniia": "Донецьксталь",
+      "haluz": "Металургія",
+      "kerivnyk": "Олександр Риженків",
+      "vyruchka_2011_mln_uah": 22466,
+      "rist_do_2010_pct": 42,
+      "prybutok_mln_uah": 2202,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 10,
+      "kompaniia": "Укртатнафта",
+      "haluz": "Нафта",
+      "kerivnyk": "Павло Овчаренко",
+      "vyruchka_2011_mln_uah": 20223,
+      "rist_do_2010_pct": 13,
+      "prybutok_mln_uah": -1485,
+      "shtab_kvartyra": "Кременчук"
+    },
+    {
+      "nomer": 11,
+      "kompaniia": "НАЕК Енергоатом",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Кім Віссаріон",
+      "vyruchka_2011_mln_uah": 19388,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 12,
+      "kompaniia": "Запоріжсталь",
+      "haluz": "Металургія",
+      "kerivnyk": "Ростислав Шурма",
+      "vyruchka_2011_mln_uah": 17906,
+      "rist_do_2010_pct": 36,
+      "prybutok_mln_uah": -124,
+      "shtab_kvartyra": "Запоріжжя"
+    },
+    {
+      "nomer": 13,
+      "kompaniia": "Fozzy Group",
+      "haluz": "Рітейл",
+      "kerivnyk": "Володимир Костельман",
+      "vyruchka_2011_mln_uah": 17430,
+      "rist_do_2010_pct": 25,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 14,
+      "kompaniia": "WOG",
+      "haluz": "АЗС",
+      "kerivnyk": "Людмила Вороніна",
+      "vyruchka_2011_mln_uah": 16200,
+      "rist_do_2010_pct": 52,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Луцьк"
+    },
+    {
+      "nomer": 15,
+      "kompaniia": "ОСТХЕМ Україна",
+      "haluz": "Хімія",
+      "kerivnyk": "Олександр Халін",
+      "vyruchka_2011_mln_uah": 16189,
+      "rist_do_2010_pct": "н/д",
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 16,
+      "kompaniia": "Кернел",
+      "haluz": "АПК",
+      "kerivnyk": "Андрій Веревський",
+      "vyruchka_2011_mln_uah": 15173,
+      "rist_do_2010_pct": 86,
+      "prybutok_mln_uah": 1806,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 17,
+      "kompaniia": "АТБ-Маркет",
+      "haluz": "Рітейл",
+      "kerivnyk": "Борис Марків",
+      "vyruchka_2011_mln_uah": 15081,
+      "rist_do_2010_pct": 39,
+      "prybutok_mln_uah": -37,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 18,
+      "kompaniia": "ТНК-BP Коммерс",
+      "haluz": "Нафта",
+      "kerivnyk": "Володимир Жмак",
+      "vyruchka_2011_mln_uah": 14468,
+      "rist_do_2010_pct": -19,
+      "prybutok_mln_uah": -131,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 19,
+      "kompaniia": "Ferrexpo",
+      "haluz": "Металургія",
+      "kerivnyk": "Костянтин Жеваго",
+      "vyruchka_2011_mln_uah": 14286,
+      "rist_do_2010_pct": 39,
+      "prybutok_mln_uah": 4594,
+      "shtab_kvartyra": "Горішні Плавні"
+    },
+    {
+      "nomer": 20,
+      "kompaniia": "Мегаполіс (Україна)",
+      "haluz": "Тютюн",
+      "kerivnyk": "Левон Багдасарян",
+      "vyruchka_2011_mln_uah": 13543,
+      "rist_do_2010_pct": "н/д",
+      "prybutok_mln_uah": 100,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 21,
+      "kompaniia": "Інтерпайп",
+      "haluz": "Металургія",
+      "kerivnyk": "Олександр Киричко",
+      "vyruchka_2011_mln_uah": 13340,
+      "rist_do_2010_pct": 33,
+      "prybutok_mln_uah": 328,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 22,
+      "kompaniia": "Київстар",
+      "haluz": "Телекомунікації",
+      "kerivnyk": "Ігор Литовченко",
+      "vyruchka_2011_mln_uah": 12332,
+      "rist_do_2010_pct": 8,
+      "prybutok_mln_uah": 4268,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 23,
+      "kompaniia": "Галнафтогаз",
+      "haluz": "АЗС",
+      "kerivnyk": "Назар Купибіда",
+      "vyruchka_2011_mln_uah": 12310,
+      "rist_do_2010_pct": 42,
+      "prybutok_mln_uah": 265,
+      "shtab_kvartyra": "Львів"
+    },
+    {
+      "nomer": 24,
+      "kompaniia": "Епіцентр-К",
+      "haluz": "Рітейл",
+      "kerivnyk": "Олександр Герега",
+      "vyruchka_2011_mln_uah": 12221,
+      "rist_do_2010_pct": 35,
+      "prybutok_mln_uah": 419,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 25,
+      "kompaniia": "Газтек",
+      "haluz": "Газ",
+      "kerivnyk": "Олександр Притика",
+      "vyruchka_2011_mln_uah": 11652,
+      "rist_do_2010_pct": 69,
+      "prybutok_mln_uah": 385,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 26,
+      "kompaniia": "Енергостандарт",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "н/д",
+      "vyruchka_2011_mln_uah": 10777,
+      "rist_do_2010_pct": 33,
+      "prybutok_mln_uah": 326,
+      "shtab_kvartyra": "Харків"
+    },
+    {
+      "nomer": 27,
+      "kompaniia": "ПГЗК",
+      "haluz": "Металургія",
+      "kerivnyk": "Михайло Короленко",
+      "vyruchka_2011_mln_uah": 10767,
+      "rist_do_2010_pct": 87,
+      "prybutok_mln_uah": 4860,
+      "shtab_kvartyra": "Кривий Ріг"
+    },
+    {
+      "nomer": 28,
+      "kompaniia": "Азовмаш",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Олександр Савчук",
+      "vyruchka_2011_mln_uah": 10416,
+      "rist_do_2010_pct": 40,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Маріуполь"
+    },
+    {
+      "nomer": 29,
+      "kompaniia": "ROSHEN",
+      "haluz": "Харчпром",
+      "kerivnyk": "В. Москалевський",
+      "vyruchka_2011_mln_uah": 10400,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": 797,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 30,
+      "kompaniia": "Газпром збут Україна",
+      "haluz": "Газ",
+      "kerivnyk": "Людмила Коробанова",
+      "vyruchka_2011_mln_uah": 10116,
+      "rist_do_2010_pct": 42,
+      "prybutok_mln_uah": 20,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 31,
+      "kompaniia": "METRO Cash & Carry",
+      "haluz": "Рітейл",
+      "kerivnyk": "Жако Булен",
+      "vyruchka_2011_mln_uah": 9882,
+      "rist_do_2010_pct": 16,
+      "prybutok_mln_uah": 157,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 32,
+      "kompaniia": "Миронхлібпродукт",
+      "haluz": "АПК",
+      "kerivnyk": "Юрій Косюк",
+      "vyruchka_2011_mln_uah": 9820,
+      "rist_do_2010_pct": 30,
+      "prybutok_mln_uah": 2069,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 33,
+      "kompaniia": "МТС-Україна",
+      "haluz": "Телекомунікації",
+      "kerivnyk": "Іван Золочівський",
+      "vyruchka_2011_mln_uah": 9124,
+      "rist_do_2010_pct": 7,
+      "prybutok_mln_uah": 1053,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 34,
+      "kompaniia": "Укренергоконсалтінг",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Олександр Сагура",
+      "vyruchka_2011_mln_uah": 8282,
+      "rist_do_2010_pct": 17,
+      "prybutok_mln_uah": 338,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 35,
+      "kompaniia": "VS Energy",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Микола Лавренко",
+      "vyruchka_2011_mln_uah": 7642,
+      "rist_do_2010_pct": 23,
+      "prybutok_mln_uah": 170,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 36,
+      "kompaniia": "Євраз",
+      "haluz": "Металургія",
+      "kerivnyk": "Олександр Фролов",
+      "vyruchka_2011_mln_uah": 7587,
+      "rist_do_2010_pct": 0,
+      "prybutok_mln_uah": -55,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 37,
+      "kompaniia": "БаДМ",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Віктор Чичерин",
+      "vyruchka_2011_mln_uah": 7469,
+      "rist_do_2010_pct": 31,
+      "prybutok_mln_uah": 4,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 38,
+      "kompaniia": "Нібулон",
+      "haluz": "АПК",
+      "kerivnyk": "Олексій Вадатурський",
+      "vyruchka_2011_mln_uah": 7263,
+      "rist_do_2010_pct": -7,
+      "prybutok_mln_uah": 559,
+      "shtab_kvartyra": "Миколаїв"
+    },
+    {
+      "nomer": 39,
+      "kompaniia": "Фокстрот",
+      "haluz": "Рітейл",
+      "kerivnyk": "Генадій Вихідцев",
+      "vyruchka_2011_mln_uah": 7215,
+      "rist_do_2010_pct": 1,
+      "prybutok_mln_uah": 267,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 40,
+      "kompaniia": "БНК-Україна",
+      "haluz": "Нафта",
+      "kerivnyk": "Микола Василевич",
+      "vyruchka_2011_mln_uah": 7197,
+      "rist_do_2010_pct": 408,
+      "prybutok_mln_uah": 11,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 41,
+      "kompaniia": "Центренерго",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Олександр Чмиренко",
+      "vyruchka_2011_mln_uah": 7180,
+      "rist_do_2010_pct": 27,
+      "prybutok_mln_uah": 35,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 42,
+      "kompaniia": "Укртелеком",
+      "haluz": "Телекомунікації",
+      "kerivnyk": "Ігор Кравець",
+      "vyruchka_2011_mln_uah": 6768,
+      "rist_do_2010_pct": 0,
+      "prybutok_mln_uah": -137,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 43,
+      "kompaniia": "НЗФ",
+      "haluz": "Металургія",
+      "kerivnyk": "Іван Рощупкін",
+      "vyruchka_2011_mln_uah": 6693,
+      "rist_do_2010_pct": -29,
+      "prybutok_mln_uah": -2811,
+      "shtab_kvartyra": "Нікополь"
+    },
+    {
+      "nomer": 44,
+      "kompaniia": "Cargill Україна",
+      "haluz": "АПК",
+      "kerivnyk": "Андреас Рикмерс",
+      "vyruchka_2011_mln_uah": 6416,
+      "rist_do_2010_pct": 17,
+      "prybutok_mln_uah": 409,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 45,
+      "kompaniia": "Оптима Фарм",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Наталя Іванова",
+      "vyruchka_2011_mln_uah": 6286,
+      "rist_do_2010_pct": 39,
+      "prybutok_mln_uah": 87,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 46,
+      "kompaniia": "Лукойл Україна",
+      "haluz": "Нафта",
+      "kerivnyk": "Андрій Гаврилець",
+      "vyruchka_2011_mln_uah": 6282,
+      "rist_do_2010_pct": -20,
+      "prybutok_mln_uah": -223,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 47,
+      "kompaniia": "JTI Україна",
+      "haluz": "Тютюн",
+      "kerivnyk": "Антуан Ернст",
+      "vyruchka_2011_mln_uah": 6191,
+      "rist_do_2010_pct": 4,
+      "prybutok_mln_uah": 294,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 48,
+      "kompaniia": "КВЗ",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Володимир Приходько",
+      "vyruchka_2011_mln_uah": 6178,
+      "rist_do_2010_pct": 41,
+      "prybutok_mln_uah": 680,
+      "shtab_kvartyra": "Кременчук"
+    },
+    {
+      "nomer": 49,
+      "kompaniia": "Лемтранс",
+      "haluz": "Транспорт",
+      "kerivnyk": "Володимир Мезенцев",
+      "vyruchka_2011_mln_uah": 6130,
+      "rist_do_2010_pct": 121,
+      "prybutok_mln_uah": 754,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 50,
+      "kompaniia": "УГМК",
+      "haluz": "Металургія",
+      "kerivnyk": "Младен Пейнович",
+      "vyruchka_2011_mln_uah": 6019,
+      "rist_do_2010_pct": 46,
+      "prybutok_mln_uah": 82,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 51,
+      "kompaniia": "Альтком",
+      "haluz": "Будівництво",
+      "kerivnyk": "Сергій Павличів",
+      "vyruchka_2011_mln_uah": 6011,
+      "rist_do_2010_pct": 96,
+      "prybutok_mln_uah": 467,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 52,
+      "kompaniia": "Samsung Electronics",
+      "haluz": "Електроніка",
+      "kerivnyk": "Йонгчул Парк",
+      "vyruchka_2011_mln_uah": 5992,
+      "rist_do_2010_pct": 85,
+      "prybutok_mln_uah": -93,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 53,
+      "kompaniia": "Хліб Інвестбуд",
+      "haluz": "АПК",
+      "kerivnyk": "Олександр Филипенко",
+      "vyruchka_2011_mln_uah": 5979,
+      "rist_do_2010_pct": 454,
+      "prybutok_mln_uah": 32,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 54,
+      "kompaniia": "Мотор Січ",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Вячеслав Богуслаїв",
+      "vyruchka_2011_mln_uah": 5793,
+      "rist_do_2010_pct": 16,
+      "prybutok_mln_uah": 1344,
+      "shtab_kvartyra": "Запоріжжя"
+    },
+    {
+      "nomer": 55,
+      "kompaniia": "Дніпроспецсталь",
+      "haluz": "Металургія",
+      "kerivnyk": "Віталій Корніївський",
+      "vyruchka_2011_mln_uah": 5677,
+      "rist_do_2010_pct": 41,
+      "prybutok_mln_uah": 6,
+      "shtab_kvartyra": "Запоріжжя"
+    },
+    {
+      "nomer": 56,
+      "kompaniia": "Богдан",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Олег Свинарчук",
+      "vyruchka_2011_mln_uah": 5656,
+      "rist_do_2010_pct": 51,
+      "prybutok_mln_uah": -9,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 57,
+      "kompaniia": "АероСвіт",
+      "haluz": "Транспорт",
+      "kerivnyk": "Олександр Авдіїв",
+      "vyruchka_2011_mln_uah": 5584,
+      "rist_do_2010_pct": 77,
+      "prybutok_mln_uah": -1456,
+      "shtab_kvartyra": "Бориспіль"
+    },
+    {
+      "nomer": 58,
+      "kompaniia": "ДЕМЗ",
+      "haluz": "Металургія",
+      "kerivnyk": "Геннадій Овчинників",
+      "vyruchka_2011_mln_uah": 5394,
+      "rist_do_2010_pct": 74,
+      "prybutok_mln_uah": -166,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 59,
+      "kompaniia": "Philip Morris Україна",
+      "haluz": "Тютюн",
+      "kerivnyk": "Христос Цолкас",
+      "vyruchka_2011_mln_uah": 5265,
+      "rist_do_2010_pct": -1,
+      "prybutok_mln_uah": 1121,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 60,
+      "kompaniia": "Procter & Gamble Україна",
+      "haluz": "Хімія",
+      "kerivnyk": "Джордж Нассар",
+      "vyruchka_2011_mln_uah": 5214,
+      "rist_do_2010_pct": 9,
+      "prybutok_mln_uah": 112,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 61,
+      "kompaniia": "Альянс Ойл Україна",
+      "haluz": "Нафта",
+      "kerivnyk": "Павло Денісултанів",
+      "vyruchka_2011_mln_uah": 5180,
+      "rist_do_2010_pct": 77,
+      "prybutok_mln_uah": 35,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 62,
+      "kompaniia": "Фуршет",
+      "haluz": "Рітейл",
+      "kerivnyk": "Євген Кулінич",
+      "vyruchka_2011_mln_uah": 5096,
+      "rist_do_2010_pct": -1,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 63,
+      "kompaniia": "Bunge Україна",
+      "haluz": "АПК",
+      "kerivnyk": "Дмитро Горшунов",
+      "vyruchka_2011_mln_uah": 5056,
+      "rist_do_2010_pct": 16,
+      "prybutok_mln_uah": 91,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 64,
+      "kompaniia": "Конті",
+      "haluz": "Харчпром",
+      "kerivnyk": "Олег Логвінів",
+      "vyruchka_2011_mln_uah": 5037,
+      "rist_do_2010_pct": 20,
+      "prybutok_mln_uah": 107,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 65,
+      "kompaniia": "Comfy",
+      "haluz": "Рітейл",
+      "kerivnyk": "Геннадій Вербиленко",
+      "vyruchka_2011_mln_uah": 4953,
+      "rist_do_2010_pct": 30,
+      "prybutok_mln_uah": 40,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 66,
+      "kompaniia": "Амстор",
+      "haluz": "Рітейл",
+      "kerivnyk": "Андрій Демін",
+      "vyruchka_2011_mln_uah": 4800,
+      "rist_do_2010_pct": 20,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 67,
+      "kompaniia": "Альба Україна",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Александр Коржиков",
+      "vyruchka_2011_mln_uah": 4748,
+      "rist_do_2010_pct": 44,
+      "prybutok_mln_uah": 14,
+      "shtab_kvartyra": "Рівне"
+    },
+    {
+      "nomer": 68,
+      "kompaniia": "Серна",
+      "haluz": "АПК",
+      "kerivnyk": "Николай Петрик",
+      "vyruchka_2011_mln_uah": 4706,
+      "rist_do_2010_pct": 25,
+      "prybutok_mln_uah": 349,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 68,
+      "kompaniia": "Imperial Tobacco Україна",
+      "haluz": "Тютюн",
+      "kerivnyk": "Юджин Уолш",
+      "vyruchka_2011_mln_uah": 4631,
+      "rist_do_2010_pct": 0,
+      "prybutok_mln_uah": 251,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 69,
+      "kompaniia": "Рітейл Груп",
+      "haluz": "Рітейл",
+      "kerivnyk": "Роман Лунин",
+      "vyruchka_2011_mln_uah": 4450,
+      "rist_do_2010_pct": 5,
+      "prybutok_mln_uah": -39,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 70,
+      "kompaniia": "Global Spirits",
+      "haluz": "Алкоголь",
+      "kerivnyk": "Сергей Величко",
+      "vyruchka_2011_mln_uah": 4445,
+      "rist_do_2010_pct": 26,
+      "prybutok_mln_uah": 319,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 71,
+      "kompaniia": "Авангард",
+      "haluz": "АПК",
+      "kerivnyk": "Наталия Василюк",
+      "vyruchka_2011_mln_uah": 4421,
+      "rist_do_2010_pct": 26,
+      "prybutok_mln_uah": 1568,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 72,
+      "kompaniia": "Баядера холдинг",
+      "haluz": "Алкоголь",
+      "kerivnyk": "О.Нечитайло-Риджок",
+      "vyruchka_2011_mln_uah": 4300,
+      "rist_do_2010_pct": -10,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Горлівка"
+    },
+    {
+      "nomer": 73,
+      "kompaniia": "Nestle",
+      "haluz": "Харчпром",
+      "kerivnyk": "Мауриціо Патарнелло",
+      "vyruchka_2011_mln_uah": 4287,
+      "rist_do_2010_pct": 23,
+      "prybutok_mln_uah": 21,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 74,
+      "kompaniia": "КЗРК",
+      "haluz": "Металургія",
+      "kerivnyk": "Федір Караманець",
+      "vyruchka_2011_mln_uah": 4266,
+      "rist_do_2010_pct": 47,
+      "prybutok_mln_uah": 1803,
+      "shtab_kvartyra": "Кривий Ріг"
+    },
+    {
+      "nomer": 75,
+      "kompaniia": "УкрМет",
+      "haluz": "Металургія",
+      "kerivnyk": "Дмитро Костенко",
+      "vyruchka_2011_mln_uah": 4266,
+      "rist_do_2010_pct": 47,
+      "prybutok_mln_uah": 0,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 76,
+      "kompaniia": "Kraft Foods Україна",
+      "haluz": "Харчпром",
+      "kerivnyk": "Тарас Лукачук",
+      "vyruchka_2011_mln_uah": 4255,
+      "rist_do_2010_pct": 18,
+      "prybutok_mln_uah": 361,
+      "shtab_kvartyra": "Тростянець"
+    },
+    {
+      "nomer": 77,
+      "kompaniia": "Auchan Україна",
+      "haluz": "Рітейл",
+      "kerivnyk": "Жерар Галлє",
+      "vyruchka_2011_mln_uah": 4195,
+      "rist_do_2010_pct": 19,
+      "prybutok_mln_uah": 122,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 78,
+      "kompaniia": "Toyota Україна",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Нобухіро Йошида",
+      "vyruchka_2011_mln_uah": 4012,
+      "rist_do_2010_pct": 51,
+      "prybutok_mln_uah": 91,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 79,
+      "kompaniia": "ТД Щедро",
+      "haluz": "Харчпром",
+      "kerivnyk": "С. Задорожній, В. Ткачів",
+      "vyruchka_2011_mln_uah": 4009,
+      "rist_do_2010_pct": 11,
+      "prybutok_mln_uah": -45,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 80,
+      "kompaniia": "Альянс Холдинг",
+      "haluz": "АЗС",
+      "kerivnyk": "Урс Шауб",
+      "vyruchka_2011_mln_uah": 3953,
+      "rist_do_2010_pct": 37,
+      "prybutok_mln_uah": 35,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 81,
+      "kompaniia": "Дніпровагонмаш",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Андрій Кобиляков",
+      "vyruchka_2011_mln_uah": 3857,
+      "rist_do_2010_pct": 63,
+      "prybutok_mln_uah": 818,
+      "shtab_kvartyra": "Дніпродзержинськ"
+    },
+    {
+      "nomer": 82,
+      "kompaniia": "SUN InBev Україна",
+      "haluz": "Алкоголь",
+      "kerivnyk": "Людмила Накінечна",
+      "vyruchka_2011_mln_uah": 3822,
+      "rist_do_2010_pct": 11,
+      "prybutok_mln_uah": 165,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 83,
+      "kompaniia": "Porsche Україна",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Едуард Дьяченко",
+      "vyruchka_2011_mln_uah": 3804,
+      "rist_do_2010_pct": 90,
+      "prybutok_mln_uah": 255,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 84,
+      "kompaniia": "ДІС",
+      "haluz": "Металургія",
+      "kerivnyk": "Василь Гураль",
+      "vyruchka_2011_mln_uah": 3685,
+      "rist_do_2010_pct": -15,
+      "prybutok_mln_uah": 43,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 85,
+      "kompaniia": "Авіас",
+      "haluz": "АЗС",
+      "kerivnyk": "Іван Рощупкин",
+      "vyruchka_2011_mln_uah": 3666,
+      "rist_do_2010_pct": 62,
+      "prybutok_mln_uah": -586,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 86,
+      "kompaniia": "ПАТ\"Запоріжтрансформатор\"",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Ігор Клейнер",
+      "vyruchka_2011_mln_uah": 3591,
+      "rist_do_2010_pct": 57,
+      "prybutok_mln_uah": 913,
+      "shtab_kvartyra": "Запоріжжя"
+    },
+    {
+      "nomer": 87,
+      "kompaniia": "НОРД",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Андрій Ландик",
+      "vyruchka_2011_mln_uah": 3579,
+      "rist_do_2010_pct": 1,
+      "prybutok_mln_uah": 67,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 88,
+      "kompaniia": "Оболонь",
+      "haluz": "Алкоголь",
+      "kerivnyk": "Олександр Пучок",
+      "vyruchka_2011_mln_uah": 3578,
+      "rist_do_2010_pct": 7,
+      "prybutok_mln_uah": 119,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 89,
+      "kompaniia": "Стаханівський вагонзавод",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Віталій Касинів",
+      "vyruchka_2011_mln_uah": 3497,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": 261,
+      "shtab_kvartyra": "Стаханів"
+    },
+    {
+      "nomer": 90,
+      "kompaniia": "Карпатнафтохім",
+      "haluz": "Хімія",
+      "kerivnyk": "Володимир Шулиндин",
+      "vyruchka_2011_mln_uah": 3418,
+      "rist_do_2010_pct": 706,
+      "prybutok_mln_uah": 1075,
+      "shtab_kvartyra": "Калуш"
+    },
+    {
+      "nomer": 91,
+      "kompaniia": "Астарта-Київ",
+      "haluz": "АПК",
+      "kerivnyk": "Віктор Іванчик",
+      "vyruchka_2011_mln_uah": 3386,
+      "rist_do_2010_pct": 45,
+      "prybutok_mln_uah": 976,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 92,
+      "kompaniia": "Керамет",
+      "haluz": "Металургія",
+      "kerivnyk": "Володимир Бублей",
+      "vyruchka_2011_mln_uah": 3342,
+      "rist_do_2010_pct": 528,
+      "prybutok_mln_uah": 22,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 93,
+      "kompaniia": "MTI",
+      "haluz": "ІТ",
+      "kerivnyk": "Володимир Цой",
+      "vyruchka_2011_mln_uah": 3300,
+      "rist_do_2010_pct": 19,
+      "prybutok_mln_uah": 45,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 94,
+      "kompaniia": "Славутич",
+      "haluz": "Алкоголь",
+      "kerivnyk": "Петр Чернишів",
+      "vyruchka_2011_mln_uah": 3288,
+      "rist_do_2010_pct": 41,
+      "prybutok_mln_uah": 401,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 95,
+      "kompaniia": "Віннер Імпортс",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Богдан Кульчицький",
+      "vyruchka_2011_mln_uah": 3223,
+      "rist_do_2010_pct": 62,
+      "prybutok_mln_uah": 234,
+      "shtab_kvartyra": "Капітанівка"
+    },
+    {
+      "nomer": 96,
+      "kompaniia": "МГЗ",
+      "haluz": "Металургія",
+      "kerivnyk": "Юрий Овчинників",
+      "vyruchka_2011_mln_uah": 3158,
+      "rist_do_2010_pct": 15,
+      "prybutok_mln_uah": 22,
+      "shtab_kvartyra": "Миколаїв"
+    },
+    {
+      "nomer": 97,
+      "kompaniia": "LG Electronics Україна",
+      "haluz": "Побутова техніка",
+      "kerivnyk": "Сунг Су Кім",
+      "vyruchka_2011_mln_uah": 3095,
+      "rist_do_2010_pct": 30,
+      "prybutok_mln_uah": -60,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 98,
+      "kompaniia": "БРСМ-Нафта",
+      "haluz": "АЗС",
+      "kerivnyk": "Олег Деменок",
+      "vyruchka_2011_mln_uah": 3087,
+      "rist_do_2010_pct": "н/д",
+      "prybutok_mln_uah": 82,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 99,
+      "kompaniia": "Таврія В",
+      "haluz": "Рітейл",
+      "kerivnyk": "Віталій Карандо",
+      "vyruchka_2011_mln_uah": 3078,
+      "rist_do_2010_pct": 15,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Одеса"
+    },
+    {
+      "nomer": 101,
+      "kompaniia": "МАУ",
+      "haluz": "Транспорт",
+      "kerivnyk": "Юрій Мирошник",
+      "vyruchka_2011_mln_uah": 3033,
+      "rist_do_2010_pct": 26,
+      "prybutok_mln_uah": -41,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 102,
+      "kompaniia": "Паралель",
+      "haluz": "АЗС",
+      "kerivnyk": "Олена Хилиенко",
+      "vyruchka_2011_mln_uah": 3032,
+      "rist_do_2010_pct": 32,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 103,
+      "kompaniia": "АВК",
+      "haluz": "Кондвироби",
+      "kerivnyk": "Володимир Авраменко",
+      "vyruchka_2011_mln_uah": 3001,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": 86,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 104,
+      "kompaniia": "Ельдорадо",
+      "haluz": "Рітейл",
+      "kerivnyk": "Микола Молокоїдов",
+      "vyruchka_2011_mln_uah": 2977,
+      "rist_do_2010_pct": 95,
+      "prybutok_mln_uah": 19,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 105,
+      "kompaniia": "Закарпаття-нафтопродукт-Мукачево",
+      "haluz": "Нафта",
+      "kerivnyk": "Юрій Порхун",
+      "vyruchka_2011_mln_uah": 2970,
+      "rist_do_2010_pct": 70,
+      "prybutok_mln_uah": 41,
+      "shtab_kvartyra": "Мукачево"
+    },
+    {
+      "nomer": 106,
+      "kompaniia": "Астеліт",
+      "haluz": "Телекомунікації",
+      "kerivnyk": "Олександр Баринів",
+      "vyruchka_2011_mln_uah": 2939,
+      "rist_do_2010_pct": 9,
+      "prybutok_mln_uah": -604,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 107,
+      "kompaniia": "УкрАВТО",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Олександр Козис",
+      "vyruchka_2011_mln_uah": 2919,
+      "rist_do_2010_pct": 9,
+      "prybutok_mln_uah": 128,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 108,
+      "kompaniia": "Харківобленерго",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Сергій Кірик",
+      "vyruchka_2011_mln_uah": 2917,
+      "rist_do_2010_pct": 22,
+      "prybutok_mln_uah": 25,
+      "shtab_kvartyra": "Харків"
+    },
+    {
+      "nomer": 109,
+      "kompaniia": "SLAV AG",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Норберт Крайхамер",
+      "vyruchka_2011_mln_uah": 2900,
+      "rist_do_2010_pct": 17,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 110,
+      "kompaniia": "Ерідон",
+      "haluz": "АПК",
+      "kerivnyk": "Віталій Полонський",
+      "vyruchka_2011_mln_uah": 2898,
+      "rist_do_2010_pct": 33,
+      "prybutok_mln_uah": 68,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 111,
+      "kompaniia": "НЕК Укренерго",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Анатолій Ходаківський",
+      "vyruchka_2011_mln_uah": 2840,
+      "rist_do_2010_pct": 12,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 112,
+      "kompaniia": "ДніпроАзот",
+      "haluz": "Хімія",
+      "kerivnyk": "Олександр Дубинін",
+      "vyruchka_2011_mln_uah": 2888,
+      "rist_do_2010_pct": 46,
+      "prybutok_mln_uah": 563,
+      "shtab_kvartyra": "Дніпродзержинськ"
+    },
+    {
+      "nomer": 113,
+      "kompaniia": "НКМЗ",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Геннадій Суків",
+      "vyruchka_2011_mln_uah": 2755,
+      "rist_do_2010_pct": -18,
+      "prybutok_mln_uah": 170,
+      "shtab_kvartyra": "Краматорськ"
+    },
+    {
+      "nomer": 114,
+      "kompaniia": "Сумське НПО ім. Фрунзе",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Олексій Цимбал",
+      "vyruchka_2011_mln_uah": 2737,
+      "rist_do_2010_pct": 28,
+      "prybutok_mln_uah": 13,
+      "shtab_kvartyra": "Суми"
+    },
+    {
+      "nomer": 115,
+      "kompaniia": "Нова лінія",
+      "haluz": "Рітейл",
+      "kerivnyk": "Євгеній Баранів",
+      "vyruchka_2011_mln_uah": 2723,
+      "rist_do_2010_pct": -1,
+      "prybutok_mln_uah": -16,
+      "shtab_kvartyra": "Чабани"
+    },
+    {
+      "nomer": 116,
+      "kompaniia": "Креатив Груп",
+      "haluz": "Харчпром",
+      "kerivnyk": "Юрій Давидів",
+      "vyruchka_2011_mln_uah": 2679,
+      "rist_do_2010_pct": 28,
+      "prybutok_mln_uah": 401,
+      "shtab_kvartyra": "Кіровоград"
+    },
+    {
+      "nomer": 117,
+      "kompaniia": "Кока-Кола Беверіджиз Україна",
+      "haluz": "Напої",
+      "kerivnyk": "Константинос Спанудіс",
+      "vyruchka_2011_mln_uah": 2453,
+      "rist_do_2010_pct": 4,
+      "prybutok_mln_uah": -190,
+      "shtab_kvartyra": "Велика Димерка"
+    },
+    {
+      "nomer": 118,
+      "kompaniia": "Henkel Україна",
+      "haluz": "Хімія",
+      "kerivnyk": "Володимир Соха",
+      "vyruchka_2011_mln_uah": 2423,
+      "rist_do_2010_pct": 13,
+      "prybutok_mln_uah": 246,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 119,
+      "kompaniia": "ЕКО-маркет",
+      "haluz": "Рітейл",
+      "kerivnyk": "Віктор Повниця",
+      "vyruchka_2011_mln_uah": 2400,
+      "rist_do_2010_pct": 25,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 120,
+      "kompaniia": "Омега-Автопоставка",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Ярослав Бисага",
+      "vyruchka_2011_mln_uah": 2358,
+      "rist_do_2010_pct": 61,
+      "prybutok_mln_uah": 31,
+      "shtab_kvartyra": "Васищеве"
+    },
+    {
+      "nomer": 121,
+      "kompaniia": "Караван",
+      "haluz": "Рітейл , нерухомість",
+      "kerivnyk": "н/д",
+      "vyruchka_2011_mln_uah": 2350,
+      "rist_do_2010_pct": 15,
+      "prybutok_mln_uah": -22,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 122,
+      "kompaniia": "КВВМПУ",
+      "haluz": "Металургія",
+      "kerivnyk": "Валерій Кришталь",
+      "vyruchka_2011_mln_uah": 2300,
+      "rist_do_2010_pct": -60,
+      "prybutok_mln_uah": 0,
+      "shtab_kvartyra": "Севастопіль"
+    },
+    {
+      "nomer": 123,
+      "kompaniia": "Альтіс Холдинг",
+      "haluz": "Будівництво",
+      "kerivnyk": "Максим Забігайло",
+      "vyruchka_2011_mln_uah": 2300,
+      "rist_do_2010_pct": 44,
+      "prybutok_mln_uah": -105,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 124,
+      "kompaniia": "Рутекс",
+      "haluz": "Металургія",
+      "kerivnyk": "Сергій Постників",
+      "vyruchka_2011_mln_uah": 2275,
+      "rist_do_2010_pct": 205,
+      "prybutok_mln_uah": 0,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 125,
+      "kompaniia": "Укрвторчермет",
+      "haluz": "Металургія",
+      "kerivnyk": "Іван Ординський",
+      "vyruchka_2011_mln_uah": 2273,
+      "rist_do_2010_pct": 75,
+      "prybutok_mln_uah": -255,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 126,
+      "kompaniia": "Регіон",
+      "haluz": "Металургія",
+      "kerivnyk": "Володимир Дорофіїв",
+      "vyruchka_2011_mln_uah": 2258,
+      "rist_do_2010_pct": 110,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 127,
+      "kompaniia": "AES Україна",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Альфія Джумаїва",
+      "vyruchka_2011_mln_uah": 2243,
+      "rist_do_2010_pct": 40,
+      "prybutok_mln_uah": 60,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 128,
+      "kompaniia": "Атолл Холдинг",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Олег Боярин",
+      "vyruchka_2011_mln_uah": 2243,
+      "rist_do_2010_pct": 40,
+      "prybutok_mln_uah": 60,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 129,
+      "kompaniia": "Retal Industries Україна",
+      "haluz": "Упаковка",
+      "kerivnyk": "Андрей Мацех, Ананий Ткачук",
+      "vyruchka_2011_mln_uah": 2213,
+      "rist_do_2010_pct": 37,
+      "prybutok_mln_uah": 58,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 130,
+      "kompaniia": "Молочний Альянс",
+      "haluz": "Харчпром",
+      "kerivnyk": "Сергій Вовчено",
+      "vyruchka_2011_mln_uah": 2200,
+      "rist_do_2010_pct": 2,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 131,
+      "kompaniia": "ЄвроХім-Україна",
+      "haluz": "Хімія",
+      "kerivnyk": "Євгеній Філонів",
+      "vyruchka_2011_mln_uah": 2197,
+      "rist_do_2010_pct": 76,
+      "prybutok_mln_uah": 129,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 132,
+      "kompaniia": "Alfred C. Toepfer Україна",
+      "haluz": "АПК",
+      "kerivnyk": "Ірина Присяжнюк",
+      "vyruchka_2011_mln_uah": 2193,
+      "rist_do_2010_pct": 11,
+      "prybutok_mln_uah": -28,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 133,
+      "kompaniia": "Нафтогазодобування",
+      "haluz": "Нафта й газ",
+      "kerivnyk": "Валерій Брашпиль",
+      "vyruchka_2011_mln_uah": 2164,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": 307,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 134,
+      "kompaniia": "British American Tobacco Україна",
+      "haluz": "Тютюн",
+      "kerivnyk": "Саймон Уелфорд",
+      "vyruchka_2011_mln_uah": 2158,
+      "rist_do_2010_pct": 8,
+      "prybutok_mln_uah": 145,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 135,
+      "kompaniia": "Мрія Агрохолдинг",
+      "haluz": "АПК",
+      "kerivnyk": "Микола Гута",
+      "vyruchka_2011_mln_uah": 2144,
+      "rist_do_2010_pct": 66,
+      "prybutok_mln_uah": 1198,
+      "shtab_kvartyra": "Васильківці"
+    },
+    {
+      "nomer": 136,
+      "kompaniia": "Київміськбуд",
+      "haluz": "Будівництво",
+      "kerivnyk": "Михайло Голиця",
+      "vyruchka_2011_mln_uah": 2086,
+      "rist_do_2010_pct": 20,
+      "prybutok_mln_uah": 136,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 137,
+      "kompaniia": "Крименерго",
+      "haluz": "Електроенергетика",
+      "kerivnyk": "Едуард Соколовський",
+      "vyruchka_2011_mln_uah": 2083,
+      "rist_do_2010_pct": 19,
+      "prybutok_mln_uah": 33,
+      "shtab_kvartyra": "Сімферопіль"
+    },
+    {
+      "nomer": 138,
+      "kompaniia": "Rompetrol Україна",
+      "haluz": "Нафта й газ",
+      "kerivnyk": "Владислав Руснак",
+      "vyruchka_2011_mln_uah": 2050,
+      "rist_do_2010_pct": 186,
+      "prybutok_mln_uah": 35,
+      "shtab_kvartyra": "Одеса"
+    },
+    {
+      "nomer": 139,
+      "kompaniia": "Київський КПК",
+      "haluz": "Упаковка",
+      "kerivnyk": "Віталій Баско",
+      "vyruchka_2011_mln_uah": 2035,
+      "rist_do_2010_pct": 15,
+      "prybutok_mln_uah": 145,
+      "shtab_kvartyra": "Обухів"
+    },
+    {
+      "nomer": 140,
+      "kompaniia": "Nissan Motor Україна",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Андрій Нестеренко",
+      "vyruchka_2011_mln_uah": 1983,
+      "rist_do_2010_pct": 93,
+      "prybutok_mln_uah": 60,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 141,
+      "kompaniia": "Фра-М",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Сергій Ходос",
+      "vyruchka_2011_mln_uah": 1960,
+      "rist_do_2010_pct": 39,
+      "prybutok_mln_uah": -18,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 142,
+      "kompaniia": "Вента ЛТД",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Олександр Волошин",
+      "vyruchka_2011_mln_uah": 1943,
+      "rist_do_2010_pct": 43,
+      "prybutok_mln_uah": 12,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 143,
+      "kompaniia": "Агроімпорт",
+      "haluz": "Хімія",
+      "kerivnyk": "Віктор Дубовенко",
+      "vyruchka_2011_mln_uah": 1941,
+      "rist_do_2010_pct": 96,
+      "prybutok_mln_uah": 34,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 144,
+      "kompaniia": "Технополіс",
+      "haluz": "Рітейл",
+      "kerivnyk": "Володимир Тимошенко",
+      "vyruchka_2011_mln_uah": 1892,
+      "rist_do_2010_pct": 71,
+      "prybutok_mln_uah": 46,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 145,
+      "kompaniia": "Дельта Вілмар СНД",
+      "haluz": "АПК",
+      "kerivnyk": "Людмила Черкас",
+      "vyruchka_2011_mln_uah": 1866,
+      "rist_do_2010_pct": 13,
+      "prybutok_mln_uah": -54,
+      "shtab_kvartyra": "Южне"
+    },
+    {
+      "nomer": 146,
+      "kompaniia": "Шахта ім.Засядько",
+      "haluz": "Вугілля",
+      "kerivnyk": "Павло Филимонів",
+      "vyruchka_2011_mln_uah": 1853,
+      "rist_do_2010_pct": 39,
+      "prybutok_mln_uah": -54,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 147,
+      "kompaniia": "Кримська горілчана компанія",
+      "haluz": "Алкоголь",
+      "kerivnyk": "Джонатан Вейл",
+      "vyruchka_2011_mln_uah": 1829,
+      "rist_do_2010_pct": 74,
+      "prybutok_mln_uah": 99,
+      "shtab_kvartyra": "Сімферопіль"
+    },
+    {
+      "nomer": 148,
+      "kompaniia": "ДонбасІнформЗв'язокСервіс",
+      "haluz": "ІТ",
+      "kerivnyk": "Геннадій Рибенків",
+      "vyruchka_2011_mln_uah": 1820,
+      "rist_do_2010_pct": 584,
+      "prybutok_mln_uah": 13,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 149,
+      "kompaniia": "Louis Dreyfus Україна",
+      "haluz": "АПК",
+      "kerivnyk": "Лампракіс Лазос",
+      "vyruchka_2011_mln_uah": 1818,
+      "rist_do_2010_pct": 99,
+      "prybutok_mln_uah": 6,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 150,
+      "kompaniia": "Піонер-Трейд",
+      "haluz": "Гуртова торгівля",
+      "kerivnyk": "Андрій Самохін",
+      "vyruchka_2011_mln_uah": 1818,
+      "rist_do_2010_pct": -4,
+      "prybutok_mln_uah": 4,
+      "shtab_kvartyra": "Сімферопіль"
+    },
+    {
+      "nomer": 151,
+      "kompaniia": "ПГНК",
+      "haluz": "Нафта й газ",
+      "kerivnyk": "Тимофій Каунів",
+      "vyruchka_2011_mln_uah": 1809,
+      "rist_do_2010_pct": 28,
+      "prybutok_mln_uah": 606,
+      "shtab_kvartyra": "Полтава"
+    },
+    {
+      "nomer": 152,
+      "kompaniia": "McDonald's Україна",
+      "haluz": "Ресторани",
+      "kerivnyk": "Іан Борден",
+      "vyruchka_2011_mln_uah": 1800,
+      "rist_do_2010_pct": 29,
+      "prybutok_mln_uah": 63,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 153,
+      "kompaniia": "НВК Гірничі машини",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Євген Ромащин",
+      "vyruchka_2011_mln_uah": 1800,
+      "rist_do_2010_pct": 12,
+      "prybutok_mln_uah": 155,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 154,
+      "kompaniia": "Noble Resources Україна",
+      "haluz": "АПК",
+      "kerivnyk": "Іван Мирошниченко",
+      "vyruchka_2011_mln_uah": 1766,
+      "rist_do_2010_pct": 63,
+      "prybutok_mln_uah": 10,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 155,
+      "kompaniia": "Nemiroff",
+      "haluz": "Алкоголь",
+      "kerivnyk": "Олександр Глусь",
+      "vyruchka_2011_mln_uah": 1728,
+      "rist_do_2010_pct": -13,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 156,
+      "kompaniia": "Луганськтепловоз",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Павло Цеснек",
+      "vyruchka_2011_mln_uah": 1694,
+      "rist_do_2010_pct": 97,
+      "prybutok_mln_uah": 72,
+      "shtab_kvartyra": "Луганськ"
+    },
+    {
+      "nomer": 157,
+      "kompaniia": "Євротек",
+      "haluz": "Рітейл",
+      "kerivnyk": "Михайло Весельський",
+      "vyruchka_2011_mln_uah": 1688,
+      "rist_do_2010_pct": 13,
+      "prybutok_mln_uah": -44,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 158,
+      "kompaniia": "Сингента",
+      "haluz": "АПК",
+      "kerivnyk": "Гебхардт Робенхофер",
+      "vyruchka_2011_mln_uah": 1672,
+      "rist_do_2010_pct": 72,
+      "prybutok_mln_uah": 56,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 159,
+      "kompaniia": "Агромарс",
+      "haluz": "АПК",
+      "kerivnyk": "Марина Сигал",
+      "vyruchka_2011_mln_uah": 1669,
+      "rist_do_2010_pct": 13,
+      "prybutok_mln_uah": 134,
+      "shtab_kvartyra": "Гаврилівка"
+    },
+    {
+      "nomer": 160,
+      "kompaniia": "НІКО-Україна",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Андрій Шелюк",
+      "vyruchka_2011_mln_uah": 1640,
+      "rist_do_2010_pct": 106,
+      "prybutok_mln_uah": 5,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 161,
+      "kompaniia": "Індустріал групп",
+      "haluz": "Вугілля",
+      "kerivnyk": "Олег Шмарів",
+      "vyruchka_2011_mln_uah": 1617,
+      "rist_do_2010_pct": -4,
+      "prybutok_mln_uah": -15,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 162,
+      "kompaniia": "Renault Україна",
+      "haluz": "Автомобілі",
+      "kerivnyk": "Марк Ле Грасьє",
+      "vyruchka_2011_mln_uah": 1603,
+      "rist_do_2010_pct": 50,
+      "prybutok_mln_uah": 76,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 163,
+      "kompaniia": "МегаМаркет",
+      "haluz": "Рітейл",
+      "kerivnyk": "Сергій Шаргородський",
+      "vyruchka_2011_mln_uah": 1600,
+      "rist_do_2010_pct": "н/д",
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 164,
+      "kompaniia": "StarLightMedia",
+      "haluz": "Медіа",
+      "kerivnyk": "Володимир Бородянський",
+      "vyruchka_2011_mln_uah": 1600,
+      "rist_do_2010_pct": -5,
+      "prybutok_mln_uah": "н/д",
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 165,
+      "kompaniia": "Оліяр",
+      "haluz": "АПК",
+      "kerivnyk": "Віталій Олійник",
+      "vyruchka_2011_mln_uah": 1563,
+      "rist_do_2010_pct": 61,
+      "prybutok_mln_uah": 119,
+      "shtab_kvartyra": "Ставчани"
+    },
+    {
+      "nomer": 166,
+      "kompaniia": "Атан-Крим",
+      "haluz": "АЗС",
+      "kerivnyk": "Олександр Терещенко",
+      "vyruchka_2011_mln_uah": 1533,
+      "rist_do_2010_pct": 31,
+      "prybutok_mln_uah": 7,
+      "shtab_kvartyra": "Феодосія"
+    },
+    {
+      "nomer": 167,
+      "kompaniia": "Watsons",
+      "haluz": "Рітейл",
+      "kerivnyk": "Томаш Вроблеські",
+      "vyruchka_2011_mln_uah": 1518,
+      "rist_do_2010_pct": 16,
+      "prybutok_mln_uah": 22,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 168,
+      "kompaniia": "Oriflame Cosmetics Україна",
+      "haluz": "Косметика",
+      "kerivnyk": "Ніклас Палмквіст",
+      "vyruchka_2011_mln_uah": 1518,
+      "rist_do_2010_pct": -8,
+      "prybutok_mln_uah": -3,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 169,
+      "kompaniia": "АВ Метал Груп",
+      "haluz": "Металургія",
+      "kerivnyk": "Олена Тульчинська",
+      "vyruchka_2011_mln_uah": 1505,
+      "rist_do_2010_pct": 64,
+      "prybutok_mln_uah": 2,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 170,
+      "kompaniia": "РКТК",
+      "haluz": "Упаковка",
+      "kerivnyk": "Геннадій Мінін",
+      "vyruchka_2011_mln_uah": 1482,
+      "rist_do_2010_pct": 24,
+      "prybutok_mln_uah": 74,
+      "shtab_kvartyra": "Рубіжне"
+    },
+    {
+      "nomer": 171,
+      "kompaniia": "Фармак",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Філя Жебровска",
+      "vyruchka_2011_mln_uah": 1477,
+      "rist_do_2010_pct": 20,
+      "prybutok_mln_uah": 247,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 172,
+      "kompaniia": "Сентравіс Продакшн Юкрейн",
+      "haluz": "Металургія",
+      "kerivnyk": "Юрий Атанасів",
+      "vyruchka_2011_mln_uah": 1471,
+      "rist_do_2010_pct": 35,
+      "prybutok_mln_uah": -98,
+      "shtab_kvartyra": "Нікополь"
+    },
+    {
+      "nomer": 173,
+      "kompaniia": "Техноторг",
+      "haluz": "Сільгосптехніка",
+      "kerivnyk": "Євгеній Березовський",
+      "vyruchka_2011_mln_uah": 1470,
+      "rist_do_2010_pct": 69,
+      "prybutok_mln_uah": 51,
+      "shtab_kvartyra": "Миколаїв"
+    },
+    {
+      "nomer": 174,
+      "kompaniia": "Ліа",
+      "haluz": "Рітейл",
+      "kerivnyk": "Сергій Логачів",
+      "vyruchka_2011_mln_uah": 1466,
+      "rist_do_2010_pct": 13,
+      "prybutok_mln_uah": 25,
+      "shtab_kvartyra": "Луганськ"
+    },
+    {
+      "nomer": 175,
+      "kompaniia": "IDS Group",
+      "haluz": "Напої",
+      "kerivnyk": "Марко Ткачук",
+      "vyruchka_2011_mln_uah": 1459,
+      "rist_do_2010_pct": 6,
+      "prybutok_mln_uah": 81,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 176,
+      "kompaniia": "Савсервіс-мова",
+      "haluz": "Гуртова торгівля",
+      "kerivnyk": "Урфан Гулієв",
+      "vyruchka_2011_mln_uah": 1458,
+      "rist_do_2010_pct": 23,
+      "prybutok_mln_uah": -15,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 177,
+      "kompaniia": "СКТБ «Комплекс»",
+      "haluz": "Нафта",
+      "kerivnyk": "Ігор Петрусенко",
+      "vyruchka_2011_mln_uah": 1452,
+      "rist_do_2010_pct": 3,
+      "prybutok_mln_uah": 61,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 178,
+      "kompaniia": "Кроно-Україна",
+      "haluz": "Будматеріали",
+      "kerivnyk": "Гендрик Гехт",
+      "vyruchka_2011_mln_uah": 1452,
+      "rist_do_2010_pct": 22,
+      "prybutok_mln_uah": 11,
+      "shtab_kvartyra": "Кам'янка-Бузька"
+    },
+    {
+      "nomer": 179,
+      "kompaniia": "Вікант",
+      "haluz": "Металургія",
+      "kerivnyk": "Олег Мазієнко",
+      "vyruchka_2011_mln_uah": 1448,
+      "rist_do_2010_pct": 145,
+      "prybutok_mln_uah": 2,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 180,
+      "kompaniia": "Надія",
+      "haluz": "Нафта й газ",
+      "kerivnyk": "Віктор Батраченко",
+      "vyruchka_2011_mln_uah": 1444,
+      "rist_do_2010_pct": 8,
+      "prybutok_mln_uah": 13,
+      "shtab_kvartyra": "Машівка"
+    },
+    {
+      "nomer": 181,
+      "kompaniia": "L'Oreal Україна",
+      "haluz": "Косметика",
+      "kerivnyk": "Моріс Реффрей",
+      "vyruchka_2011_mln_uah": 1441,
+      "rist_do_2010_pct": 2,
+      "prybutok_mln_uah": 161,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 182,
+      "kompaniia": "Bayer Україна",
+      "haluz": "Хімія",
+      "kerivnyk": "Христов Хенце",
+      "vyruchka_2011_mln_uah": 1425,
+      "rist_do_2010_pct": 23,
+      "prybutok_mln_uah": -72,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 183,
+      "kompaniia": "Mars Україна",
+      "haluz": "Харчові продукти",
+      "kerivnyk": "Роберт Вудкрафт",
+      "vyruchka_2011_mln_uah": 1387,
+      "rist_do_2010_pct": 21,
+      "prybutok_mln_uah": 74,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 184,
+      "kompaniia": "Росава",
+      "haluz": "Хімія",
+      "kerivnyk": "Вадим Татусь",
+      "vyruchka_2011_mln_uah": 1379,
+      "rist_do_2010_pct": 30,
+      "prybutok_mln_uah": -92,
+      "shtab_kvartyra": "Біла Церква"
+    },
+    {
+      "nomer": 185,
+      "kompaniia": "Євроцемент груп-Україна",
+      "haluz": "Будматеріали",
+      "kerivnyk": "Віталій Горголюк",
+      "vyruchka_2011_mln_uah": 1374,
+      "rist_do_2010_pct": 16,
+      "prybutok_mln_uah": -46,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 186,
+      "kompaniia": "Кременчуцький сталеливарний завод",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Дмитро Черненко",
+      "vyruchka_2011_mln_uah": 1370,
+      "rist_do_2010_pct": 20,
+      "prybutok_mln_uah": -22,
+      "shtab_kvartyra": "Кременчук"
+    },
+    {
+      "nomer": 187,
+      "kompaniia": "Інком",
+      "haluz": "ІТ",
+      "kerivnyk": "Олександр Федченко",
+      "vyruchka_2011_mln_uah": 1349,
+      "rist_do_2010_pct": 12,
+      "prybutok_mln_uah": -34,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 188,
+      "kompaniia": "HeidelbergCement Україна",
+      "haluz": "Будматеріали",
+      "kerivnyk": "Карел Оклештек",
+      "vyruchka_2011_mln_uah": 1338,
+      "rist_do_2010_pct": 45,
+      "prybutok_mln_uah": -24,
+      "shtab_kvartyra": "Кривий Ріг"
+    },
+    {
+      "nomer": 189,
+      "kompaniia": "SOCAR Україна",
+      "haluz": "АЗС",
+      "kerivnyk": "Руслан Даценко",
+      "vyruchka_2011_mln_uah": 1337,
+      "rist_do_2010_pct": 577,
+      "prybutok_mln_uah": -5,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 190,
+      "kompaniia": "Knauf Україна",
+      "haluz": "Будматеріали",
+      "kerivnyk": "Олександр Гавриш, Андрій Павлик",
+      "vyruchka_2011_mln_uah": 1325,
+      "rist_do_2010_pct": 57,
+      "prybutok_mln_uah": 133,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 191,
+      "kompaniia": "Енергомашспецсталь",
+      "haluz": "Металургія",
+      "kerivnyk": "Максим Єфимів",
+      "vyruchka_2011_mln_uah": 1299,
+      "rist_do_2010_pct": -3,
+      "prybutok_mln_uah": 32,
+      "shtab_kvartyra": "Краматорськ"
+    },
+    {
+      "nomer": 192,
+      "kompaniia": "Комінмет",
+      "haluz": "Металургія",
+      "kerivnyk": "Олег Ботюк",
+      "vyruchka_2011_mln_uah": 1296,
+      "rist_do_2010_pct": 38,
+      "prybutok_mln_uah": -28,
+      "shtab_kvartyra": "Дніпропетровськ"
+    },
+    {
+      "nomer": 193,
+      "kompaniia": "Союзпромінвестдонбас",
+      "haluz": "Нафта й газ",
+      "kerivnyk": "Лариса Гревцова",
+      "vyruchka_2011_mln_uah": 1283,
+      "rist_do_2010_pct": 43,
+      "prybutok_mln_uah": 4,
+      "shtab_kvartyra": "Донецьк"
+    },
+    {
+      "nomer": 194,
+      "kompaniia": "Турбоатом",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Віктор Суботин",
+      "vyruchka_2011_mln_uah": 1268,
+      "rist_do_2010_pct": 35,
+      "prybutok_mln_uah": 427,
+      "shtab_kvartyra": "Харків"
+    },
+    {
+      "nomer": 195,
+      "kompaniia": "Sanofi Україна",
+      "haluz": "Фармацевтика",
+      "kerivnyk": "Жан-Поль Шоер",
+      "vyruchka_2011_mln_uah": 1248,
+      "rist_do_2010_pct": -9,
+      "prybutok_mln_uah": -45,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 196,
+      "kompaniia": "Avon Cosmetics Україна",
+      "haluz": "Косметика",
+      "kerivnyk": "Олена Старкова",
+      "vyruchka_2011_mln_uah": 1241,
+      "rist_do_2010_pct": -8,
+      "prybutok_mln_uah": 96,
+      "shtab_kvartyra": "Щасливе"
+    },
+    {
+      "nomer": 197,
+      "kompaniia": "Українські аграрні інвестиції",
+      "haluz": "АПК",
+      "kerivnyk": "Олександр Костенко",
+      "vyruchka_2011_mln_uah": 1209,
+      "rist_do_2010_pct": 93,
+      "prybutok_mln_uah": 382,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 198,
+      "kompaniia": "Coal Energy",
+      "haluz": "Вугілля",
+      "kerivnyk": "Віктор Вишневецький",
+      "vyruchka_2011_mln_uah": 1197,
+      "rist_do_2010_pct": 170,
+      "prybutok_mln_uah": 293,
+      "shtab_kvartyra": "н/д"
+    },
+    {
+      "nomer": 199,
+      "kompaniia": "Novus",
+      "haluz": "Рітейл",
+      "kerivnyk": "Ігор Ланда",
+      "vyruchka_2011_mln_uah": 1183,
+      "rist_do_2010_pct": 109,
+      "prybutok_mln_uah": 10,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 200,
+      "kompaniia": "ПАККО Холдинг",
+      "haluz": "Рітейл",
+      "kerivnyk": "Олександр Войтунь",
+      "vyruchka_2011_mln_uah": 1155,
+      "rist_do_2010_pct": 61,
+      "prybutok_mln_uah": 5,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 201,
+      "kompaniia": "Billa-Україна",
+      "haluz": "Рітейл",
+      "kerivnyk": "Януш Строка",
+      "vyruchka_2011_mln_uah": 1125,
+      "rist_do_2010_pct": 15,
+      "prybutok_mln_uah": 28,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 202,
+      "kompaniia": "Укрпластик",
+      "haluz": "Упаковка",
+      "kerivnyk": "Олександр Галкін",
+      "vyruchka_2011_mln_uah": 1121,
+      "rist_do_2010_pct": 14,
+      "prybutok_mln_uah": 87,
+      "shtab_kvartyra": "Київ"
+    },
+    {
+      "nomer": 203,
+      "kompaniia": "Дизельний завод",
+      "haluz": "Машинобудування",
+      "kerivnyk": "Вадим П'ятковський",
+      "vyruchka_2011_mln_uah": 1119,
+      "rist_do_2010_pct": 181,
+      "prybutok_mln_uah": 17,
+      "shtab_kvartyra": "Кривий Ріг"
+    },
+    {
+      "nomer": 204,
+      "kompaniia": "Стальканат-Сілур",
+      "haluz": "Металургія",
+      "kerivnyk": "Сергій Лавриненко",
+      "vyruchka_2011_mln_uah": 1158,
+      "rist_do_2010_pct": 34,
+      "prybutok_mln_uah": -16,
+      "shtab_kvartyra": "Одеса"
+    },
+    {
+      "nomer": 205,
+      "kompaniia": "Adidas Україна",
+      "haluz": "Одяг",
+      "kerivnyk": "Антон Соколів",
+      "vyruchka_2011_mln_uah": 1103,
+      "rist_do_2010_pct": 16,
+      "prybutok_mln_uah": 217,
+      "shtab_kvartyra": "Київ"
+    }
+  ],
+  "meta": {
+    "title": "200 найбільших компаній України (2012) - Free Download",
+    "description": "Рейтинг 200 найбільших компаній України 2012 року: галузь, керівник, виручка за 2011 рік, зростання та прибуток. Contains 205 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "200 найбільших компаній України (2012) | ListBase",
+    "seo_description": "Download 200 найбільших компаній України (2012) — 205 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 205 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_200_найбільших_компаній_України_2012_року"
+    ]
+  }
+}

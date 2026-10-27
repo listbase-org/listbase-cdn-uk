@@ -1,12 +1,16 @@
 {
   "lang": "uk",
-  "generated": "2026-10-26T02:56:54.943Z",
-  "total_datasets": 422,
-  "total_records": 469876,
+  "generated": "2026-10-27T02:36:30.100Z",
+  "total_datasets": 423,
+  "total_records": 470081,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 12
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -425,6 +429,35 @@
         "xlsx": {
           "name": "uk-zamky_UK.xlsx",
           "size": 23691
+        }
+      }
+    },
+    {
+      "id": "uk-200-naibilshykh-kompanii-2012",
+      "name": "200 найбільших компаній України (2012)",
+      "category": "economy",
+      "record_count": 205,
+      "columns": [
+        "nomer",
+        "kompaniia",
+        "haluz",
+        "kerivnyk",
+        "vyruchka_2011_mln_uah",
+        "rist_do_2010_pct",
+        "prybutok_mln_uah",
+        "shtab_kvartyra"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_200_найбільших_компаній_України_2012_року",
+      "updated": "2026-10",
+      "size": 64344,
+      "files": {
+        "csv": {
+          "name": "uk-200-naibilshykh-kompanii-2012_UK.csv",
+          "size": 23822
+        },
+        "xlsx": {
+          "name": "uk-200-naibilshykh-kompanii-2012_UK.xlsx",
+          "size": 20289
         }
       }
     },
