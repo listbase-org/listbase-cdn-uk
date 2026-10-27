@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:50.475Z",
-  "total_datasets": 431,
-  "total_records": 470318,
+  "generated": "2026-10-27T02:36:53.051Z",
+  "total_datasets": 432,
+  "total_records": 470418,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1760,6 +1760,32 @@
         "xlsx": {
           "name": "uk-naikasovishi-ukrainski-filmy_UK.xlsx",
           "size": 9962
+        }
+      }
+    },
+    {
+      "id": "uk-naipopuliarnishi-ukrainomovni-youtube-kanaly",
+      "name": "Найпопулярніші україномовні канали на YouTube",
+      "category": "entertainment",
+      "record_count": 100,
+      "columns": [
+        "nomer",
+        "nazva",
+        "pidpysnyky",
+        "perehliady",
+        "data_stvorennia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_каналів_на_YouTube",
+      "updated": "2026-10",
+      "size": 20220,
+      "files": {
+        "csv": {
+          "name": "uk-naipopuliarnishi-ukrainomovni-youtube-kanaly_UK.csv",
+          "size": 7384
+        },
+        "xlsx": {
+          "name": "uk-naipopuliarnishi-ukrainomovni-youtube-kanaly_UK.xlsx",
+          "size": 11934
         }
       }
     },

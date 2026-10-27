@@ -1,0 +1,751 @@
+{
+  "id": "uk-naipopuliarnishi-ukrainomovni-youtube-kanaly",
+  "name": "Найпопулярніші україномовні канали на YouTube",
+  "title": "Найпопулярніші україномовні канали на YouTube",
+  "description": "100 найпопулярніших україномовних YouTube-каналів за кількістю підписників, з переглядами та датою створення.",
+  "category": "entertainment",
+  "source": "https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_каналів_на_YouTube",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_каналів_на_YouTube",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "pidpysnyky",
+      "label": "Pidpysnyky",
+      "type": "number"
+    },
+    {
+      "key": "perehliady",
+      "label": "Perehliady",
+      "type": "number"
+    },
+    {
+      "key": "data_stvorennia",
+      "label": "Data Stvorennia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "nazva": "Маша та Ведмідь (рос. виробництво)",
+      "pidpysnyky": 14600000,
+      "perehliady": 6308027530,
+      "data_stvorennia": "17 липня 2014"
+    },
+    {
+      "nomer": 2,
+      "nazva": "Magic Five",
+      "pidpysnyky": 11000000,
+      "perehliady": 1934793252,
+      "data_stvorennia": "19 липня 2016"
+    },
+    {
+      "nomer": 3,
+      "nazva": "24 Канал",
+      "pidpysnyky": 6160000,
+      "perehliady": 8312639030,
+      "data_stvorennia": "4 лютого 2006"
+    },
+    {
+      "nomer": 4,
+      "nazva": "Телеканал СТБ",
+      "pidpysnyky": 5560000,
+      "perehliady": 3347132886,
+      "data_stvorennia": "15 грудня 2007"
+    },
+    {
+      "nomer": 5,
+      "nazva": "My little Nastya",
+      "pidpysnyky": 5270000,
+      "perehliady": 2577812122,
+      "data_stvorennia": "8 лютого 2016"
+    },
+    {
+      "nomer": 6,
+      "nazva": "ТСН",
+      "pidpysnyky": 5040000,
+      "perehliady": 5882654764,
+      "data_stvorennia": "13 листопада 2012"
+    },
+    {
+      "nomer": 7,
+      "nazva": "Діма і Машинки",
+      "pidpysnyky": 4710000,
+      "perehliady": 1779438717,
+      "data_stvorennia": "7 лютого 2019"
+    },
+    {
+      "nomer": 8,
+      "nazva": "Телеканал ICTV",
+      "pidpysnyky": 4570000,
+      "perehliady": 3975528033,
+      "data_stvorennia": "12 жовтня 2009"
+    },
+    {
+      "nomer": 9,
+      "nazva": "Чоткий Паца",
+      "pidpysnyky": 4480000,
+      "perehliady": 794538824,
+      "data_stvorennia": "31 жовтня 2014"
+    },
+    {
+      "nomer": 10,
+      "nazva": "Новий канал",
+      "pidpysnyky": 4460000,
+      "perehliady": 3371647767,
+      "data_stvorennia": "25 червня 2009"
+    },
+    {
+      "nomer": 11,
+      "nazva": "FILM.UA Group",
+      "pidpysnyky": 4000000,
+      "perehliady": 2482923318,
+      "data_stvorennia": "12 липня 2010"
+    },
+    {
+      "nomer": 12,
+      "nazva": "Телеканал Прямий",
+      "pidpysnyky": 3720000,
+      "perehliady": 4222198844,
+      "data_stvorennia": "14 квітня 2017"
+    },
+    {
+      "nomer": 13,
+      "nazva": "Afinka",
+      "pidpysnyky": 3680000,
+      "perehliady": 1070004672,
+      "data_stvorennia": "27 листопада 2014"
+    },
+    {
+      "nomer": 14,
+      "nazva": "Дизель Студіо",
+      "pidpysnyky": 3600000,
+      "perehliady": 1851163186,
+      "data_stvorennia": "4 серпня 2008"
+    },
+    {
+      "nomer": 15,
+      "nazva": "Все буде добре",
+      "pidpysnyky": 3510000,
+      "perehliady": 952234042,
+      "data_stvorennia": "13 вересня 2012"
+    },
+    {
+      "nomer": 16,
+      "nazva": "Ridddle UA",
+      "pidpysnyky": 3510000,
+      "perehliady": 9269126,
+      "data_stvorennia": "27 лютого 2014"
+    },
+    {
+      "nomer": 17,
+      "nazva": "Стася Мар",
+      "pidpysnyky": 3500000,
+      "perehliady": 206372143,
+      "data_stvorennia": "23 січня 2014"
+    },
+    {
+      "nomer": 18,
+      "nazva": "Телеканал 1+1",
+      "pidpysnyky": 3500000,
+      "perehliady": 2019740439,
+      "data_stvorennia": "7 вересня 2009"
+    },
+    {
+      "nomer": 19,
+      "nazva": "УНІАН",
+      "pidpysnyky": 3400000,
+      "perehliady": 3590616080,
+      "data_stvorennia": "28 грудня 2013"
+    },
+    {
+      "nomer": 20,
+      "nazva": "Факти ICTV",
+      "pidpysnyky": 3210000,
+      "perehliady": 3356913523,
+      "data_stvorennia": "8 липня 2013"
+    },
+    {
+      "nomer": 21,
+      "nazva": "Пешка",
+      "pidpysnyky": 3150000,
+      "perehliady": 1470726194,
+      "data_stvorennia": "15 жовтня 2020"
+    },
+    {
+      "nomer": 22,
+      "nazva": "Кенді Суперстар",
+      "pidpysnyky": 2970000,
+      "perehliady": 1412659641,
+      "data_stvorennia": "20 квітня 2022"
+    },
+    {
+      "nomer": 23,
+      "nazva": "5 канал",
+      "pidpysnyky": 2540000,
+      "perehliady": 2308487450,
+      "data_stvorennia": "8 січня 2007"
+    },
+    {
+      "nomer": 24,
+      "nazva": "Україна має талант",
+      "pidpysnyky": 2260000,
+      "perehliady": 1326943719,
+      "data_stvorennia": "28 грудня 2012"
+    },
+    {
+      "nomer": 25,
+      "nazva": "Espreso.tv",
+      "pidpysnyky": 2100000,
+      "perehliady": 1930728052,
+      "data_stvorennia": "20 листопада 2013"
+    },
+    {
+      "nomer": 26,
+      "nazva": "КУБАСТІК",
+      "pidpysnyky": 1970000,
+      "perehliady": 426497855,
+      "data_stvorennia": "24 червня 2014"
+    },
+    {
+      "nomer": 27,
+      "nazva": "Новини.LIVE",
+      "pidpysnyky": 1920000,
+      "perehliady": 2085221650,
+      "data_stvorennia": "26 лютого 2021"
+    },
+    {
+      "nomer": 28,
+      "nazva": "STERNENKO",
+      "pidpysnyky": 1860000,
+      "perehliady": 819626548,
+      "data_stvorennia": "9 березня 2013"
+    },
+    {
+      "nomer": 29,
+      "nazva": "Х-фактор",
+      "pidpysnyky": 1860000,
+      "perehliady": 1585069315,
+      "data_stvorennia": "28 грудня 2012"
+    },
+    {
+      "nomer": 30,
+      "nazva": "Танці. World of Dance",
+      "pidpysnyky": 1780000,
+      "perehliady": 5558734,
+      "data_stvorennia": "14 вересня 2012"
+    },
+    {
+      "nomer": 31,
+      "nazva": "З любов'ю до дітей - Дитячі пісні",
+      "pidpysnyky": 1690000,
+      "perehliady": 2163516264,
+      "data_stvorennia": "27 вересня 2011"
+    },
+    {
+      "nomer": 32,
+      "nazva": "Корупція.інфо",
+      "pidpysnyky": 1650000,
+      "perehliady": 2490791514,
+      "data_stvorennia": "27 вересня 2014"
+    },
+    {
+      "nomer": 33,
+      "nazva": "slidan",
+      "pidpysnyky": 1600000,
+      "perehliady": 333035898,
+      "data_stvorennia": "10 вересня 2016"
+    },
+    {
+      "nomer": 34,
+      "nazva": "Телеканал ТЕТ",
+      "pidpysnyky": 1600000,
+      "perehliady": 1044741972,
+      "data_stvorennia": "29 травня 2012"
+    },
+    {
+      "nomer": 35,
+      "nazva": "Радіо Свобода Україна",
+      "pidpysnyky": 1590000,
+      "perehliady": 1161401063,
+      "data_stvorennia": "13 березня 2007"
+    },
+    {
+      "nomer": 36,
+      "nazva": "Радіо Свобода",
+      "pidpysnyky": 1480000,
+      "perehliady": 886101524,
+      "data_stvorennia": "9 квітня 2014"
+    },
+    {
+      "nomer": 37,
+      "nazva": "NKofficial",
+      "pidpysnyky": 1440000,
+      "perehliady": 651512943,
+      "data_stvorennia": "2 квітня 2016"
+    },
+    {
+      "nomer": 38,
+      "nazva": "Апостроф TV",
+      "pidpysnyky": 1410000,
+      "perehliady": 1001571215,
+      "data_stvorennia": "17 листопада 2016"
+    },
+    {
+      "nomer": 39,
+      "nazva": "Sasha Chistova",
+      "pidpysnyky": 1390000,
+      "perehliady": 3137481,
+      "data_stvorennia": "21 червня 2014"
+    },
+    {
+      "nomer": 40,
+      "nazva": "Aleksey Durnev",
+      "pidpysnyky": 1380000,
+      "perehliady": 327851035,
+      "data_stvorennia": "12 жовтня 2017"
+    },
+    {
+      "nomer": 41,
+      "nazva": "Andro-news.com",
+      "pidpysnyky": 1380000,
+      "perehliady": 395562215,
+      "data_stvorennia": "21 жовтня 2014"
+    },
+    {
+      "nomer": 42,
+      "nazva": "Food Around The World",
+      "pidpysnyky": 1320000,
+      "perehliady": 304211977,
+      "data_stvorennia": "3 листопада 2021"
+    },
+    {
+      "nomer": 43,
+      "nazva": "Футбол 2.0",
+      "pidpysnyky": 1220000,
+      "perehliady": 294436584,
+      "data_stvorennia": "11 жовтня 2011"
+    },
+    {
+      "nomer": 44,
+      "nazva": "Гумор 24 на 7",
+      "pidpysnyky": 1210000,
+      "perehliady": 1067631883,
+      "data_stvorennia": "4 січня 2013"
+    },
+    {
+      "nomer": 45,
+      "nazva": "Yarmak Music",
+      "pidpysnyky": 1170000,
+      "perehliady": 432511785,
+      "data_stvorennia": "18 січня 2012"
+    },
+    {
+      "nomer": 46,
+      "nazva": "Nika Ritshel",
+      "pidpysnyky": 1160000,
+      "perehliady": 1353652729,
+      "data_stvorennia": "21 лютого 2015"
+    },
+    {
+      "nomer": 47,
+      "nazva": "Radio NV",
+      "pidpysnyky": 1160000,
+      "perehliady": 712962671,
+      "data_stvorennia": "19 березня 2018"
+    },
+    {
+      "nomer": 48,
+      "nazva": "Зе!Президент",
+      "pidpysnyky": 1110000,
+      "perehliady": 312878537,
+      "data_stvorennia": "25 січня 2019"
+    },
+    {
+      "nomer": 49,
+      "nazva": "OmTV UA",
+      "pidpysnyky": 1100000,
+      "perehliady": 828366026,
+      "data_stvorennia": "3 липня 2015"
+    },
+    {
+      "nomer": 50,
+      "nazva": "shurap",
+      "pidpysnyky": 1100000,
+      "perehliady": 489708300,
+      "data_stvorennia": "17 березня 2011"
+    },
+    {
+      "nomer": 51,
+      "nazva": "DOROFEEVA",
+      "pidpysnyky": 1070000,
+      "perehliady": 227231267,
+      "data_stvorennia": "22 квітня 2017"
+    },
+    {
+      "nomer": 52,
+      "nazva": "KAZKA",
+      "pidpysnyky": 1070000,
+      "perehliady": 885382154,
+      "data_stvorennia": "23 вересня 2016"
+    },
+    {
+      "nomer": 53,
+      "nazva": "Kids Tv Ukraine - пісні для дітей",
+      "pidpysnyky": 1050000,
+      "perehliady": 479354744,
+      "data_stvorennia": "6 квітня 2017"
+    },
+    {
+      "nomer": 54,
+      "nazva": "KHelga",
+      "pidpysnyky": 1030000,
+      "perehliady": 479354744,
+      "data_stvorennia": "10 березня 2015"
+    },
+    {
+      "nomer": 55,
+      "nazva": "BIHUS info",
+      "pidpysnyky": 1020000,
+      "perehliady": 247696158,
+      "data_stvorennia": "28 серпня 2018"
+    },
+    {
+      "nomer": 56,
+      "nazva": "hromadske",
+      "pidpysnyky": 1010000,
+      "perehliady": 530938809,
+      "data_stvorennia": "10 червня 2013"
+    },
+    {
+      "nomer": 57,
+      "nazva": "Asinastra",
+      "pidpysnyky": 1010000,
+      "perehliady": 108037158,
+      "data_stvorennia": "25 січня 2019"
+    },
+    {
+      "nomer": 58,
+      "nazva": "ЛЕВИ НА ДЖИПІ",
+      "pidpysnyky": 993000,
+      "perehliady": 174427097,
+      "data_stvorennia": "16 травня 2018"
+    },
+    {
+      "nomer": 59,
+      "nazva": "Бутусов Плюс",
+      "pidpysnyky": 982000,
+      "perehliady": 329221848,
+      "data_stvorennia": "24 жовтня 2018"
+    },
+    {
+      "nomer": 60,
+      "nazva": "Народна Думка",
+      "pidpysnyky": 974000,
+      "perehliady": 180840399,
+      "data_stvorennia": "1 серпня 2019"
+    },
+    {
+      "nomer": 61,
+      "nazva": "Яніна Соколова",
+      "pidpysnyky": 971000,
+      "perehliady": 201651378,
+      "data_stvorennia": "12 листопада 2014"
+    },
+    {
+      "nomer": 62,
+      "nazva": "Українська правда",
+      "pidpysnyky": 963000,
+      "perehliady": 405940149,
+      "data_stvorennia": "1 жовтня 2011"
+    },
+    {
+      "nomer": 63,
+      "nazva": "МАУ / UIA - Міжнародні Авіалінії України",
+      "pidpysnyky": 959000,
+      "perehliady": 1152132984,
+      "data_stvorennia": "13 листопада 2015"
+    },
+    {
+      "nomer": 64,
+      "nazva": "3-тя окрема штурмова бригада",
+      "pidpysnyky": 949000,
+      "perehliady": 247008036,
+      "data_stvorennia": "7 липня 2022"
+    },
+    {
+      "nomer": 65,
+      "nazva": "Вікна-новини",
+      "pidpysnyky": 943000,
+      "perehliady": 516650612,
+      "data_stvorennia": "3 жовтня 2012"
+    },
+    {
+      "nomer": 66,
+      "nazva": "імені Т. Г. Шевченка",
+      "pidpysnyky": 925000,
+      "perehliady": 103113878,
+      "data_stvorennia": "9 квітня 2019"
+    },
+    {
+      "nomer": 67,
+      "nazva": "Tandem AT",
+      "pidpysnyky": 913000,
+      "perehliady": 77359389,
+      "data_stvorennia": "23 жовтня 2017"
+    },
+    {
+      "nomer": 68,
+      "nazva": "Nataliya Mashika",
+      "pidpysnyky": 899000,
+      "perehliady": 99356787,
+      "data_stvorennia": "14 червня 2015"
+    },
+    {
+      "nomer": 69,
+      "nazva": "Телебачення Торонто",
+      "pidpysnyky": 899000,
+      "perehliady": 275637730,
+      "data_stvorennia": "3 жовтня 2012"
+    },
+    {
+      "nomer": 70,
+      "nazva": "HeyKids — Дитячі пісні",
+      "pidpysnyky": 893000,
+      "perehliady": 464347241,
+      "data_stvorennia": "24 липня 2017"
+    },
+    {
+      "nomer": 71,
+      "nazva": "Армія TV – Військове телебачення України",
+      "pidpysnyky": 873000,
+      "perehliady": 457146945,
+      "data_stvorennia": "25 червня 2012"
+    },
+    {
+      "nomer": 72,
+      "nazva": "Аніта Луценко",
+      "pidpysnyky": 865000,
+      "perehliady": 57127232,
+      "data_stvorennia": "26 вересня 2011"
+    },
+    {
+      "nomer": 73,
+      "nazva": "DZIDZIO",
+      "pidpysnyky": 861000,
+      "perehliady": 626155180,
+      "data_stvorennia": "18 грудня 2011"
+    },
+    {
+      "nomer": 74,
+      "nazva": "VERTUHA",
+      "pidpysnyky": 853000,
+      "perehliady": 125932453,
+      "data_stvorennia": "18 січня 2018"
+    },
+    {
+      "nomer": 75,
+      "nazva": "LOLka",
+      "pidpysnyky": 853000,
+      "perehliady": 150292933,
+      "data_stvorennia": "10 липня 2020"
+    },
+    {
+      "nomer": 76,
+      "nazva": "Ukrinform TV",
+      "pidpysnyky": 846000,
+      "perehliady": 791823578,
+      "data_stvorennia": "12 лютого 2018"
+    },
+    {
+      "nomer": 77,
+      "nazva": "SILIRADA",
+      "pidpysnyky": 843000,
+      "perehliady": 213453878,
+      "data_stvorennia": "20 лютого 2019"
+    },
+    {
+      "nomer": 78,
+      "nazva": "ГОВОРИТЬ ВЕЛИКИЙ ЛЬВІВ",
+      "pidpysnyky": 841000,
+      "perehliady": 624085579,
+      "data_stvorennia": "30 березня 2019"
+    },
+    {
+      "nomer": 79,
+      "nazva": "НАС.Інфо",
+      "pidpysnyky": 832000,
+      "perehliady": 1161112176,
+      "data_stvorennia": "16 серпня 2020"
+    },
+    {
+      "nomer": 80,
+      "nazva": "Телеканал 2+2",
+      "pidpysnyky": 827000,
+      "perehliady": 389841098,
+      "data_stvorennia": "13 січня 2012"
+    },
+    {
+      "nomer": 81,
+      "nazva": "Історія Без Міфів",
+      "pidpysnyky": 795000,
+      "perehliady": 124806944,
+      "data_stvorennia": "30 квітня 2020"
+    },
+    {
+      "nomer": 82,
+      "nazva": "Лілія Цвіт",
+      "pidpysnyky": 787000,
+      "perehliady": 93901990,
+      "data_stvorennia": "13 листопада 2015"
+    },
+    {
+      "nomer": 83,
+      "nazva": "Цензор.НЕТ",
+      "pidpysnyky": 766000,
+      "perehliady": 402082475,
+      "data_stvorennia": "20 грудня 2013"
+    },
+    {
+      "nomer": 84,
+      "nazva": "LUKI",
+      "pidpysnyky": 764000,
+      "perehliady": 6639404,
+      "data_stvorennia": "26 липня 2018"
+    },
+    {
+      "nomer": 85,
+      "nazva": "V.Viktoria",
+      "pidpysnyky": 762000,
+      "perehliady": 243688517,
+      "data_stvorennia": "26 жовтня 2011"
+    },
+    {
+      "nomer": 86,
+      "nazva": "InfoCar: тест-драйви авто",
+      "pidpysnyky": 762000,
+      "perehliady": 266156420,
+      "data_stvorennia": "16 квітня 2012"
+    },
+    {
+      "nomer": 87,
+      "nazva": "BAMPER TV",
+      "pidpysnyky": 753000,
+      "perehliady": 160271625,
+      "data_stvorennia": "5 березня 2016"
+    },
+    {
+      "nomer": 88,
+      "nazva": "Океан Ельзи",
+      "pidpysnyky": 749000,
+      "perehliady": 641455986,
+      "data_stvorennia": "9 листопада 2009"
+    },
+    {
+      "nomer": 89,
+      "nazva": "Суспільне Ужгород",
+      "pidpysnyky": 744000,
+      "perehliady": 335275511,
+      "data_stvorennia": "25 серпня 2016"
+    },
+    {
+      "nomer": 90,
+      "nazva": "Liza Glinskaya",
+      "pidpysnyky": 737000,
+      "perehliady": 57704406,
+      "data_stvorennia": "8 червня 2013"
+    },
+    {
+      "nomer": 91,
+      "nazva": "Василь",
+      "pidpysnyky": 728000,
+      "perehliady": 589677,
+      "data_stvorennia": "11 серпня 2017"
+    },
+    {
+      "nomer": 92,
+      "nazva": "MONATIK",
+      "pidpysnyky": 714000,
+      "perehliady": 653411676,
+      "data_stvorennia": "19 червня 2011"
+    },
+    {
+      "nomer": 93,
+      "nazva": "KALUSH",
+      "pidpysnyky": 701000,
+      "perehliady": 565950301,
+      "data_stvorennia": "11 жовтня 2019"
+    },
+    {
+      "nomer": 94,
+      "nazva": "Elina Fedorova",
+      "pidpysnyky": 697000,
+      "perehliady": 58848975,
+      "data_stvorennia": "29 грудня 2013"
+    },
+    {
+      "nomer": 95,
+      "nazva": "Алло",
+      "pidpysnyky": 665000,
+      "perehliady": 141967658,
+      "data_stvorennia": "17 жовтня 2011"
+    },
+    {
+      "nomer": 96,
+      "nazva": "Vadim in the WILD",
+      "pidpysnyky": 661000,
+      "perehliady": 148173895,
+      "data_stvorennia": "13 червня 2020"
+    },
+    {
+      "nomer": 97,
+      "nazva": "Мій Світ",
+      "pidpysnyky": 661000,
+      "perehliady": 186010157,
+      "data_stvorennia": "7 травня 2019"
+    },
+    {
+      "nomer": 98,
+      "nazva": "Загін Кіноманів",
+      "pidpysnyky": 657000,
+      "perehliady": 61958594,
+      "data_stvorennia": "28 липня 2016"
+    },
+    {
+      "nomer": 99,
+      "nazva": "Суспільне Новини",
+      "pidpysnyky": 654000,
+      "perehliady": 332457740,
+      "data_stvorennia": "25 серпня 2016"
+    },
+    {
+      "nomer": 100,
+      "nazva": "Сергій Притула",
+      "pidpysnyky": 653000,
+      "perehliady": 82306666,
+      "data_stvorennia": "21 жовтня 2018"
+    }
+  ],
+  "meta": {
+    "title": "Найпопулярніші україномовні канали на YouTube - Free Download",
+    "description": "100 найпопулярніших україномовних YouTube-каналів за кількістю підписників, з переглядами та датою створення. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найпопулярніші україномовні канали на YouTube | ListBase",
+    "seo_description": "Download Найпопулярніші україномовні канали на YouTube — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_каналів_на_YouTube"
+    ]
+  }
+}
