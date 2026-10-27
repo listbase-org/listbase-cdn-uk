@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:40.286Z",
-  "total_datasets": 427,
-  "total_records": 470180,
+  "generated": "2026-10-27T02:36:42.758Z",
+  "total_datasets": 428,
+  "total_records": 470237,
   "categories": [
     {
       "id": "culture",
@@ -43,6 +43,10 @@
     {
       "id": "language",
       "dataset_count": 3
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "music",
@@ -4172,6 +4176,32 @@
         "xlsx": {
           "name": "uk-systemy-pysma_UK.xlsx",
           "size": 11357
+        }
+      }
+    },
+    {
+      "id": "uk-kolyshni-sudi-konstytutsiinoho-sudu",
+      "name": "Колишні судді Конституційного Суду України",
+      "category": "law",
+      "record_count": 57,
+      "columns": [
+        "pib",
+        "data_pryznachennia",
+        "data_nabuttia_povnovazhen",
+        "kinets_povnovazhen",
+        "kvota"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України",
+      "updated": "2026-10",
+      "size": 19298,
+      "files": {
+        "csv": {
+          "name": "uk-kolyshni-sudi-konstytutsiinoho-sudu_UK.csv",
+          "size": 9387
+        },
+        "xlsx": {
+          "name": "uk-kolyshni-sudi-konstytutsiinoho-sudu_UK.xlsx",
+          "size": 9571
         }
       }
     },

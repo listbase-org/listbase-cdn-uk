@@ -1,0 +1,450 @@
+{
+  "id": "uk-kolyshni-sudi-konstytutsiinoho-sudu",
+  "name": "Колишні судді Конституційного Суду України",
+  "title": "Колишні судді Конституційного Суду України",
+  "description": "Список колишніх суддів Конституційного Суду України з датами призначення та завершення повноважень і квотою.",
+  "category": "law",
+  "source": "https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України",
+  "updated": "2026-10",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "pib",
+      "label": "Pib",
+      "type": "string"
+    },
+    {
+      "key": "data_pryznachennia",
+      "label": "Data Pryznachennia",
+      "type": "string"
+    },
+    {
+      "key": "data_nabuttia_povnovazhen",
+      "label": "Data Nabuttia Povnovazhen",
+      "type": "string"
+    },
+    {
+      "key": "kinets_povnovazhen",
+      "label": "Kinets Povnovazhen",
+      "type": "string"
+    },
+    {
+      "key": "kvota",
+      "label": "Kvota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pib": "Мартиненко Петро Федорович",
+      "data_pryznachennia": "27 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "17 лютого 2001",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Яценко Станіслав Сергійович",
+      "data_pryznachennia": "3 жовтня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "16 січня 2002",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Корнієнко Микола Іванович",
+      "data_pryznachennia": "25 вересня 1997",
+      "data_nabuttia_povnovazhen": "8 жовтня 1997",
+      "kinets_povnovazhen": "26 червня 2002",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Козюбра Микола Іванович",
+      "data_pryznachennia": "27 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "28 січня 2003",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Тимченко Іван Артемович",
+      "data_pryznachennia": "27 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "22 березня 2004",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Розенко Віталій Іванович",
+      "data_pryznachennia": "3 жовтня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "26 травня 2004",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Тихий Володимир Павлович",
+      "data_pryznachennia": "27 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "23 листопада 2004",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Малинникова Людмила Федорівна",
+      "data_pryznachennia": "20 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "3 грудня 2004",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Вознюк Володимир Денисович",
+      "data_pryznachennia": "20 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Шаповал Володимир Миколайович",
+      "data_pryznachennia": "27 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Савенко Микола Дмитрович",
+      "data_pryznachennia": "20 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Німченко Василь Іванович",
+      "data_pryznachennia": "20 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Чубар Людмила Пантеліївна",
+      "data_pryznachennia": "20 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Мироненко Олександр Миколайович",
+      "data_pryznachennia": "3 жовтня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Костицький Михайло Васильович",
+      "data_pryznachennia": "3 жовтня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Селівон Микола Федосович",
+      "data_pryznachennia": "27 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Скомороха Віктор Єгорович",
+      "data_pryznachennia": "20 вересня 1996",
+      "data_nabuttia_povnovazhen": "18 жовтня 1996",
+      "kinets_povnovazhen": "19 жовтня 2005",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Євграфов Павло Борисович",
+      "data_pryznachennia": "19 червня 1997",
+      "data_nabuttia_povnovazhen": "27 червня 1997",
+      "kinets_povnovazhen": "20 липня 2006",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Іващенко Володимир Іванович",
+      "data_pryznachennia": "2 березня 2001",
+      "data_nabuttia_povnovazhen": "13 березня 2001",
+      "kinets_povnovazhen": "7 вересня 2007",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Пшеничний Валерій Григорович",
+      "data_pryznachennia": "16 січня 2003",
+      "data_nabuttia_povnovazhen": "4 лютого 2003",
+      "kinets_povnovazhen": "11 вересня 2007",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Станік Сюзанна Романівна",
+      "data_pryznachennia": "25 березня 2004",
+      "data_nabuttia_povnovazhen": "22 квітня 2004",
+      "kinets_povnovazhen": "29 квітня 2010",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Нікітін Юрій Іванович",
+      "data_pryznachennia": "4 лютого 2008",
+      "data_nabuttia_povnovazhen": "3 червня 2008",
+      "kinets_povnovazhen": "15 червня 2010",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Джунь В'ячеслав Васильович",
+      "data_pryznachennia": "3 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "2 вересня 2010",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Домбровський Іван Петрович",
+      "data_pryznachennia": "3 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "9 вересня 2010",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Мачужак Ярослава Василівна",
+      "data_pryznachennia": "3 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "9 вересня 2010",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Дідківський Анатолій Олександрович",
+      "data_pryznachennia": "3 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "9 вересня 2010",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Ткачук Павло Миколайович",
+      "data_pryznachennia": "11 липня 2002",
+      "data_nabuttia_povnovazhen": "10 вересня 2002",
+      "kinets_povnovazhen": "22 вересня 2011",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Стрижак Андрій Андрійович",
+      "data_pryznachennia": "27 грудня 2004",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "22 лютого 2013",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Лилак Дмитро Дмитрович",
+      "data_pryznachennia": "14 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "25 квітня 2013",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Кампо Володимир Михайлович",
+      "data_pryznachennia": "14 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "17 вересня 2013",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Винокуров Сергій Маркіянович",
+      "data_pryznachennia": "15 червня 2010",
+      "data_nabuttia_povnovazhen": "16 червня 2010",
+      "kinets_povnovazhen": "19 листопада 2013",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Шишкін Віктор Іванович",
+      "data_pryznachennia": "14 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "21 липня 2015",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Бринцев Василь Дмитрович",
+      "data_pryznachennia": "3 листопада 2005",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "12 листопада 2015",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Стецюк Петро Богданович",
+      "data_pryznachennia": "4 серпня 2006",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "5 липня 2016",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Гультай Михайло Мирославович",
+      "data_pryznachennia": "16 вересня 2010",
+      "data_nabuttia_povnovazhen": "21 вересня 2010",
+      "kinets_povnovazhen": "17 вересня 2019",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Запорожець Михайло Петрович",
+      "data_pryznachennia": "16 вересня 2010",
+      "data_nabuttia_povnovazhen": "21 вересня 2010",
+      "kinets_povnovazhen": "17 вересня 2019",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Шаптала Наталя Костянтинівна",
+      "data_pryznachennia": "16 вересня 2010",
+      "data_nabuttia_povnovazhen": "21 вересня 2010",
+      "kinets_povnovazhen": "17 вересня 2019",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Мельник Микола Іванович",
+      "data_pryznachennia": "13 березня 2014",
+      "data_nabuttia_povnovazhen": "13 березня 2014",
+      "kinets_povnovazhen": "24 грудня 2019",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Литвинов Олександр Миколайович",
+      "data_pryznachennia": "22 лютого 2013",
+      "data_nabuttia_povnovazhen": "15 травня 2013",
+      "kinets_povnovazhen": "26 квітня 2022",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Сас Сергій Володимирович",
+      "data_pryznachennia": "13 березня 2014",
+      "data_nabuttia_povnovazhen": "13 березня 2014",
+      "kinets_povnovazhen": "7 грудня 2022",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Сліденко Ігор Дмитрович",
+      "data_pryznachennia": "13 березня 2014",
+      "data_nabuttia_povnovazhen": "13 березня 2014",
+      "kinets_povnovazhen": "7 грудня 2022",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Завгородня Ірина Миколаївна",
+      "data_pryznachennia": "20 вересня 2018",
+      "data_nabuttia_povnovazhen": "24 вересня 2018",
+      "kinets_povnovazhen": "7 грудня 2022",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Головатий Сергій Петрович",
+      "data_pryznachennia": "27 лютого 2018",
+      "data_nabuttia_povnovazhen": "2 березня 2018",
+      "kinets_povnovazhen": "29 травня 2024",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Кривенко Віктор Васильович",
+      "data_pryznachennia": "13 листопада 2015",
+      "data_nabuttia_povnovazhen": "27 січня 2016",
+      "kinets_povnovazhen": "27 січня 2025",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Колісник Віктор Павлович",
+      "data_pryznachennia": "26 січня 2016",
+      "data_nabuttia_povnovazhen": "27 січня 2016",
+      "kinets_povnovazhen": "27 січня 2025",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Мойсик Володимир Романович",
+      "data_pryznachennia": "26 січня 2016",
+      "data_nabuttia_povnovazhen": "27 січня 2016",
+      "kinets_povnovazhen": "27 січня 2025",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Головін Анатолій Сергійович",
+      "data_pryznachennia": "4 серпня 2006",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "24 лютого 2014",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Колос Михайло Іванович",
+      "data_pryznachennia": "4 серпня 2006",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "24 лютого 2014",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Маркуш Марія Андріївна",
+      "data_pryznachennia": "4 серпня 2006",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "24 лютого 2014",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Овчаренко В'ячеслав Андрійович",
+      "data_pryznachennia": "4 серпня 2006",
+      "data_nabuttia_povnovazhen": "4 серпня 2006",
+      "kinets_povnovazhen": "24 лютого 2014",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Пасенюк Олександр Михайлович",
+      "data_pryznachennia": "3 листопада 2011",
+      "data_nabuttia_povnovazhen": "3 листопада 2011",
+      "kinets_povnovazhen": "5 липня 2016",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Сергейчук Олег Анатолійович",
+      "data_pryznachennia": "16 вересня 2010",
+      "data_nabuttia_povnovazhen": "21 вересня 2010",
+      "kinets_povnovazhen": "5 листопада 2016",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Баулін Юрій Васильович",
+      "data_pryznachennia": "4 лютого 2008",
+      "data_nabuttia_povnovazhen": "3 червня 2008",
+      "kinets_povnovazhen": "3 червня 2017",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Вдовіченко Сергій Леонідович",
+      "data_pryznachennia": "30 травня 2008",
+      "data_nabuttia_povnovazhen": "3 червня 2008",
+      "kinets_povnovazhen": "3 червня 2017",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Шевчук Станіслав Володимирович",
+      "data_pryznachennia": "13 березня 2014",
+      "data_nabuttia_povnovazhen": "13 березня 2014",
+      "kinets_povnovazhen": "14 травня 2019",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Тупицький Олександр Миколайович",
+      "data_pryznachennia": "14 травня 2013",
+      "data_nabuttia_povnovazhen": "15 травня 2013",
+      "kinets_povnovazhen": "15 травня 2022",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Касмінін Олександр Володимирович",
+      "data_pryznachennia": "17 вересня 2013",
+      "data_nabuttia_povnovazhen": "19 вересня 2013",
+      "kinets_povnovazhen": "19 вересня 2022",
+      "kvota": "Президент України"
+    }
+  ],
+  "meta": {
+    "title": "Колишні судді Конституційного Суду України - Free Download",
+    "description": "Список колишніх суддів Конституційного Суду України з датами призначення та завершення повноважень і квотою. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Колишні судді Конституційного Суду України | ListBase",
+    "seo_description": "Download Колишні судді Конституційного Суду України — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України"
+    ]
+  }
+}
