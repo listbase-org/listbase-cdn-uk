@@ -1,0 +1,177 @@
+{
+  "id": "uk-sudi-konstytutsiinoho-sudu",
+  "name": "Чинний склад Конституційного Суду України",
+  "title": "Чинний склад Конституційного Суду України",
+  "description": "Судді Конституційного Суду України: посада, дата призначення, набуття повноважень і квота призначення.",
+  "category": "law",
+  "source": "https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "pib",
+      "label": "Pib",
+      "type": "string"
+    },
+    {
+      "key": "posada",
+      "label": "Posada",
+      "type": "string"
+    },
+    {
+      "key": "data_pryznachennia",
+      "label": "Data Pryznachennia",
+      "type": "string"
+    },
+    {
+      "key": "data_nabuttia_povnovazhen",
+      "label": "Data Nabuttia Povnovazhen",
+      "type": "string"
+    },
+    {
+      "key": "kvota",
+      "label": "Kvota",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pib": "Городовенко Віктор Валентинович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "13 листопада 2017",
+      "data_nabuttia_povnovazhen": "21 листопада 2017",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Лемак Василь Васильович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "27 лютого 2018",
+      "data_nabuttia_povnovazhen": "2 березня 2018",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Первомайський Олег Олексійович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "20 вересня 2018",
+      "data_nabuttia_povnovazhen": "24 вересня 2018",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Юровська Галина Валентинівна",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "29 жовтня 2019",
+      "data_nabuttia_povnovazhen": "5 листопада 2019",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Філюк Петро Тодосьович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "30 жовтня 2019",
+      "data_nabuttia_povnovazhen": "5 листопада 2019",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Кичун Віктор Іванович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "18 лютого 2021",
+      "data_nabuttia_povnovazhen": "24 лютого 2021",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Грищук Оксана Вікторівна",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "26 листопада 2021",
+      "data_nabuttia_povnovazhen": "19 травня 2022",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Совгиря Ольга Володимирівна",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "27 липня 2022",
+      "data_nabuttia_povnovazhen": "2 серпня 2022",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Петришин Олександр Віталійович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "26 листопада 2021",
+      "data_nabuttia_povnovazhen": "21 вересня 2022",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Різник Сергій Васильович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "23 травня 2024",
+      "data_nabuttia_povnovazhen": "28 травня 2024",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "Олійник Алла Сергіївна",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "18 вересня 2024",
+      "data_nabuttia_povnovazhen": "25 вересня 2024",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "Водянніков Олександр Юрійович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "27 червня 2025",
+      "data_nabuttia_povnovazhen": "3 липня 2025",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "Барабаш Юрій Григорович",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "17 вересня 2025",
+      "data_nabuttia_povnovazhen": "24 вересня 2025",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "вакантно",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "",
+      "data_nabuttia_povnovazhen": "",
+      "kvota": "Президент України"
+    },
+    {
+      "pib": "вакантно",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "",
+      "data_nabuttia_povnovazhen": "",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "вакантно",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "",
+      "data_nabuttia_povnovazhen": "",
+      "kvota": "Верховна Рада України"
+    },
+    {
+      "pib": "вакантно",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "",
+      "data_nabuttia_povnovazhen": "",
+      "kvota": "З'їзд суддів України"
+    },
+    {
+      "pib": "вакантно",
+      "posada": "Суддя КСУ",
+      "data_pryznachennia": "",
+      "data_nabuttia_povnovazhen": "",
+      "kvota": "З'їзд суддів України"
+    }
+  ],
+  "meta": {
+    "title": "Чинний склад Конституційного Суду України - Free Download",
+    "description": "Судді Конституційного Суду України: посада, дата призначення, набуття повноважень і квота призначення. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Чинний склад Конституційного Суду України | ListBase",
+    "seo_description": "Download Чинний склад Конституційного Суду України — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Склад_Конституційного_Суду_України"
+    ]
+  }
+}
