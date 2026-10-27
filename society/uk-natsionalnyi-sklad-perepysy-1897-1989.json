@@ -1,0 +1,302 @@
+{
+  "id": "uk-natsionalnyi-sklad-perepysy-1897-1989",
+  "name": "Національний склад населення України за переписами (1897–1989)",
+  "title": "Національний склад населення України за переписами (1897–1989)",
+  "description": "Чисельність (тис. осіб) і частка основних народів у населенні України за переписами 1897–1989 років.",
+  "category": "society",
+  "source": "https://uk.wikipedia.org/wiki/Національний_склад_населення_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Національний_склад_населення_України",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "narod",
+      "label": "Narod",
+      "type": "string"
+    },
+    {
+      "key": "chyselnist_1897_1900_tys",
+      "label": "Chyselnist 1897 1900 Tys",
+      "type": "number"
+    },
+    {
+      "key": "pct_1897_1900",
+      "label": "Pct 1897 1900",
+      "type": "number"
+    },
+    {
+      "key": "chyselnist_1921_1926_tys",
+      "label": "Chyselnist 1921 1926 Tys",
+      "type": "number"
+    },
+    {
+      "key": "pct_1921_1926",
+      "label": "Pct 1921 1926",
+      "type": "number"
+    },
+    {
+      "key": "chyselnist_1959_tys",
+      "label": "Chyselnist 1959 Tys",
+      "type": "number"
+    },
+    {
+      "key": "pct_1959",
+      "label": "Pct 1959",
+      "type": "number"
+    },
+    {
+      "key": "chyselnist_1979_tys",
+      "label": "Chyselnist 1979 Tys",
+      "type": "number"
+    },
+    {
+      "key": "pct_1979",
+      "label": "Pct 1979",
+      "type": "number"
+    },
+    {
+      "key": "chyselnist_1989_tys",
+      "label": "Chyselnist 1989 Tys",
+      "type": "number"
+    },
+    {
+      "key": "pct_1989",
+      "label": "Pct 1989",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "narod": "Все населення",
+      "chyselnist_1897_1900_tys": 29397.4,
+      "pct_1897_1900": 100,
+      "chyselnist_1921_1926_tys": 38569,
+      "pct_1921_1926": 100,
+      "chyselnist_1959_tys": 41869,
+      "pct_1959": 100,
+      "chyselnist_1979_tys": 49609.3,
+      "pct_1979": 100,
+      "chyselnist_1989_tys": 51449.5,
+      "pct_1989": 100
+    },
+    {
+      "narod": "українці",
+      "chyselnist_1897_1900_tys": 21100,
+      "pct_1897_1900": 71,
+      "chyselnist_1921_1926_tys": 28625.6,
+      "pct_1921_1926": 74.2,
+      "chyselnist_1959_tys": 32158.5,
+      "pct_1959": 76.8,
+      "chyselnist_1979_tys": 36489,
+      "pct_1979": 73.6,
+      "chyselnist_1989_tys": 37370.4,
+      "pct_1989": 72.6
+    },
+    {
+      "narod": "росіяни",
+      "chyselnist_1897_1900_tys": 2401,
+      "pct_1897_1900": 8.1,
+      "chyselnist_1921_1926_tys": 3164.8,
+      "pct_1921_1926": 8.2,
+      "chyselnist_1959_tys": 7091.3,
+      "pct_1959": 16.9,
+      "chyselnist_1979_tys": 10471.6,
+      "pct_1979": 21.1,
+      "chyselnist_1989_tys": 11340.2,
+      "pct_1989": 22
+    },
+    {
+      "narod": "євреї",
+      "chyselnist_1897_1900_tys": 2615.3,
+      "pct_1897_1900": 8.9,
+      "chyselnist_1921_1926_tys": 2491.9,
+      "pct_1921_1926": 6.5,
+      "chyselnist_1959_tys": 840.3,
+      "pct_1959": 2,
+      "chyselnist_1979_tys": 634.2,
+      "pct_1979": 1.3,
+      "chyselnist_1989_tys": 486,
+      "pct_1989": 0.9
+    },
+    {
+      "narod": "поляки",
+      "chyselnist_1897_1900_tys": 1255.9,
+      "pct_1897_1900": 4.3,
+      "chyselnist_1921_1926_tys": 2193.8,
+      "pct_1921_1926": 5.7,
+      "chyselnist_1959_tys": 363.3,
+      "pct_1959": 0.9,
+      "chyselnist_1979_tys": 358.3,
+      "pct_1979": 0.5,
+      "chyselnist_1989_tys": 218.9,
+      "pct_1989": 0.4
+    },
+    {
+      "narod": "німці",
+      "chyselnist_1897_1900_tys": 616.9,
+      "pct_1897_1900": 2.1,
+      "chyselnist_1921_1926_tys": 624.9,
+      "pct_1921_1926": 1.6,
+      "chyselnist_1959_tys": 32.1,
+      "pct_1959": 0.1,
+      "chyselnist_1979_tys": 34.1,
+      "pct_1979": 0.1,
+      "chyselnist_1989_tys": 37.9,
+      "pct_1989": 0.1
+    },
+    {
+      "narod": "молдавани румуни",
+      "chyselnist_1897_1900_tys": 419.4,
+      "pct_1897_1900": 1.4,
+      "chyselnist_1921_1926_tys": 454.4,
+      "pct_1921_1926": 1.2,
+      "chyselnist_1959_tys": "241,6 100,9",
+      "pct_1959": "0,6 0,2",
+      "chyselnist_1979_tys": "293,6 121,8",
+      "pct_1979": "0,6 0,2",
+      "chyselnist_1989_tys": "234,5 134,7",
+      "pct_1989": "0,6 0,3"
+    },
+    {
+      "narod": "греки",
+      "chyselnist_1897_1900_tys": 100.2,
+      "pct_1897_1900": 0.3,
+      "chyselnist_1921_1926_tys": 120.7,
+      "pct_1921_1926": 0.3,
+      "chyselnist_1959_tys": 104.4,
+      "pct_1959": 0.2,
+      "chyselnist_1979_tys": 104.1,
+      "pct_1979": 0.2,
+      "chyselnist_1989_tys": 98.6,
+      "pct_1989": 0.2
+    },
+    {
+      "narod": "болгари",
+      "chyselnist_1897_1900_tys": 188.3,
+      "pct_1897_1900": 0.6,
+      "chyselnist_1921_1926_tys": 223.1,
+      "pct_1921_1926": 0.6,
+      "chyselnist_1959_tys": 219.9,
+      "pct_1959": 0.5,
+      "chyselnist_1979_tys": 238.2,
+      "pct_1979": 0.5,
+      "chyselnist_1989_tys": 232.8,
+      "pct_1989": 0.5
+    },
+    {
+      "narod": "білоруси",
+      "chyselnist_1897_1900_tys": 122.1,
+      "pct_1897_1900": 0.4,
+      "chyselnist_1921_1926_tys": 85.7,
+      "pct_1921_1926": 0.2,
+      "chyselnist_1959_tys": 290.9,
+      "pct_1959": 0.7,
+      "chyselnist_1979_tys": 406.1,
+      "pct_1979": 0.8,
+      "chyselnist_1989_tys": 439.9,
+      "pct_1989": 0.8
+    },
+    {
+      "narod": "чехи і словаки",
+      "chyselnist_1897_1900_tys": 34.4,
+      "pct_1897_1900": 0.1,
+      "chyselnist_1921_1926_tys": 84.2,
+      "pct_1921_1926": 0.2,
+      "chyselnist_1959_tys": 28.5,
+      "pct_1959": 0.1,
+      "chyselnist_1979_tys": 19.3,
+      "pct_1979": 0,
+      "chyselnist_1989_tys": 17.2,
+      "pct_1989": 0.1
+    },
+    {
+      "narod": "угорці",
+      "chyselnist_1897_1900_tys": 108.3,
+      "pct_1897_1900": 0.4,
+      "chyselnist_1921_1926_tys": 123.3,
+      "pct_1921_1926": 0.3,
+      "chyselnist_1959_tys": 149.2,
+      "pct_1959": 0.4,
+      "chyselnist_1979_tys": 164.4,
+      "pct_1979": 0.3,
+      "chyselnist_1989_tys": 163.3,
+      "pct_1989": 0.3
+    },
+    {
+      "narod": "татари",
+      "chyselnist_1897_1900_tys": 51.1,
+      "pct_1897_1900": 0.2,
+      "chyselnist_1921_1926_tys": 22.3,
+      "pct_1921_1926": 0.1,
+      "chyselnist_1959_tys": 60.9,
+      "pct_1959": 0.1,
+      "chyselnist_1979_tys": 90.5,
+      "pct_1979": 0.2,
+      "chyselnist_1989_tys": 86.8,
+      "pct_1989": 0.2
+    },
+    {
+      "narod": "кримські татари",
+      "chyselnist_1897_1900_tys": 195.1,
+      "pct_1897_1900": 0.7,
+      "chyselnist_1921_1926_tys": 179.1,
+      "pct_1921_1926": 0.4,
+      "chyselnist_1959_tys": 0,
+      "pct_1959": 0,
+      "chyselnist_1979_tys": 6.6,
+      "pct_1979": 0,
+      "chyselnist_1989_tys": 44,
+      "pct_1989": 0.1
+    },
+    {
+      "narod": "вірмени",
+      "chyselnist_1897_1900_tys": 15.5,
+      "pct_1897_1900": 0.1,
+      "chyselnist_1921_1926_tys": 21.1,
+      "pct_1921_1926": 0.1,
+      "chyselnist_1959_tys": 28,
+      "pct_1959": 0.1,
+      "chyselnist_1979_tys": 38.6,
+      "pct_1979": 0.1,
+      "chyselnist_1989_tys": 60,
+      "pct_1989": 0.1
+    },
+    {
+      "narod": "гагаузи",
+      "chyselnist_1897_1900_tys": 22.1,
+      "pct_1897_1900": 0.1,
+      "chyselnist_1921_1926_tys": 22.1,
+      "pct_1921_1926": 0.1,
+      "chyselnist_1959_tys": 23.5,
+      "pct_1959": 0.1,
+      "chyselnist_1979_tys": 29.4,
+      "pct_1979": 0.1,
+      "chyselnist_1989_tys": 32,
+      "pct_1989": 0.1
+    },
+    {
+      "narod": "інші",
+      "chyselnist_1897_1900_tys": 151.8,
+      "pct_1897_1900": 0.5,
+      "chyselnist_1921_1926_tys": 131,
+      "pct_1921_1926": 0.3,
+      "chyselnist_1959_tys": 145.2,
+      "pct_1959": 0.3,
+      "chyselnist_1979_tys": 109.5,
+      "pct_1979": 0.4,
+      "chyselnist_1989_tys": 362.3,
+      "pct_1989": 0.7
+    }
+  ],
+  "meta": {
+    "title": "Національний склад населення України за переписами (1897–1989) - Free Download",
+    "description": "Чисельність (тис. осіб) і частка основних народів у населенні України за переписами 1897–1989 років. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Національний склад населення України за переписами (1897–1989) | ListBase",
+    "seo_description": "Download Національний склад населення України за переписами (1897–1989) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Національний_склад_населення_України"
+    ]
+  }
+}
