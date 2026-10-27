@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:47.698Z",
-  "total_datasets": 430,
-  "total_records": 470282,
+  "generated": "2026-10-27T02:36:50.475Z",
+  "total_datasets": 431,
+  "total_records": 470318,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -1728,6 +1728,38 @@
         "xlsx": {
           "name": "uk-kinoteatry_UK.xlsx",
           "size": 18150
+        }
+      }
+    },
+    {
+      "id": "uk-naikasovishi-ukrainski-filmy",
+      "name": "Найкасовіші українські фільми",
+      "category": "entertainment",
+      "record_count": 36,
+      "columns": [
+        "nomer",
+        "nazva",
+        "rik",
+        "reliz_v_ukraini",
+        "osnovna_mova",
+        "koshtorys_usd",
+        "svitovi_zbory_usd",
+        "zbory_v_ukraini_usd",
+        "zbory_v_ukraini_uah",
+        "hliadachiv_v_ukraini",
+        "dystrybiutor"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_найкасовіших_українських_фільмів",
+      "updated": "2026-10",
+      "size": 16847,
+      "files": {
+        "csv": {
+          "name": "uk-naikasovishi-ukrainski-filmy_UK.csv",
+          "size": 4885
+        },
+        "xlsx": {
+          "name": "uk-naikasovishi-ukrainski-filmy_UK.xlsx",
+          "size": 9962
         }
       }
     },
