@@ -1,0 +1,112 @@
+{
+  "id": "uk-prezydenty-nan-ukrainy",
+  "name": "Президенти Національної академії наук України",
+  "title": "Президенти Національної академії наук України",
+  "description": "Список президентів Національної академії наук України (УАН, ВУАН, АН УРСР, НАН України) з роками діяльності та життя.",
+  "category": "science",
+  "source": "https://uk.wikipedia.org/wiki/Список_президентів_Національної_академії_наук_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_президентів_Національної_академії_наук_України",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "prezydent",
+      "label": "Prezydent",
+      "type": "string"
+    },
+    {
+      "key": "roky_diialnosti",
+      "label": "Roky Diialnosti",
+      "type": "string"
+    },
+    {
+      "key": "roky_zhyttia",
+      "label": "Roky Zhyttia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "1",
+      "prezydent": "Володимир Вернадський",
+      "roky_diialnosti": "1918 — 1919",
+      "roky_zhyttia": "28 лютого ( 12 березня ) 1863 — 6 січня 1945"
+    },
+    {
+      "nomer": "в.о.",
+      "prezydent": "Орест Левицький",
+      "roky_diialnosti": "1919 — 1921",
+      "roky_zhyttia": "13 грудня ( 25 грудня ) 1848 — 9 травня 1922"
+    },
+    {
+      "nomer": "2",
+      "prezydent": "Микола Василенко",
+      "roky_diialnosti": "1921 — 1922",
+      "roky_zhyttia": "2 лютого ( 14 лютого ) 1866 — 3 жовтня 1935"
+    },
+    {
+      "nomer": "3",
+      "prezydent": "Орест Левицький",
+      "roky_diialnosti": "1922",
+      "roky_zhyttia": "13 грудня ( 25 грудня ) 1848 — 9 травня 1922"
+    },
+    {
+      "nomer": "4",
+      "prezydent": "Володимир Липський",
+      "roky_diialnosti": "1922 — 1928",
+      "roky_zhyttia": "27 лютого ( 11 березня ) 1863 — 24 лютого 1937"
+    },
+    {
+      "nomer": "5",
+      "prezydent": "Данило Заболотний",
+      "roky_diialnosti": "1928 — 1929",
+      "roky_zhyttia": "16 грудня ( 28 грудня ) 1866 — 15 грудня 1929"
+    },
+    {
+      "nomer": "6",
+      "prezydent": "Олександр Богомолець",
+      "roky_diialnosti": "1930 — 1946",
+      "roky_zhyttia": "12 травня ( 24 травня ) 1881 — 19 липня 1946"
+    },
+    {
+      "nomer": "7",
+      "prezydent": "Володимир Плотников",
+      "roky_diialnosti": "1941 — 1942",
+      "roky_zhyttia": "7 травня ( 19 травня ) 1873 — 11 вересня 1947"
+    },
+    {
+      "nomer": "8",
+      "prezydent": "Олександр Палладін",
+      "roky_diialnosti": "1946 — 1962",
+      "roky_zhyttia": "29 серпня ( 10 вересня ) 1885 — 6 грудня 1972"
+    },
+    {
+      "nomer": "9",
+      "prezydent": "Борис Патон",
+      "roky_diialnosti": "з 1962 — 2020",
+      "roky_zhyttia": "27 листопада 1918 — 19 серпня 2020"
+    },
+    {
+      "nomer": "10",
+      "prezydent": "Анатолій Загородній",
+      "roky_diialnosti": "з 2020",
+      "roky_zhyttia": "нар. 29 січня 1951"
+    }
+  ],
+  "meta": {
+    "title": "Президенти Національної академії наук України - Free Download",
+    "description": "Список президентів Національної академії наук України (УАН, ВУАН, АН УРСР, НАН України) з роками діяльності та життя. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Президенти Національної академії наук України | ListBase",
+    "seo_description": "Download Президенти Національної академії наук України — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_президентів_Національної_академії_наук_України"
+    ]
+  }
+}
