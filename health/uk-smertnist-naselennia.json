@@ -1,0 +1,268 @@
+{
+  "id": "uk-smertnist-naselennia",
+  "name": "Смертність населення України з 1990 року",
+  "title": "Смертність населення України з 1990 року",
+  "description": "Кількість померлих, коефіцієнт смертності та дитяча смертність в Україні за роками з 1990 року.",
+  "category": "health",
+  "source": "https://uk.wikipedia.org/wiki/Населення_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Населення_України",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "rik",
+      "label": "Rik",
+      "type": "number"
+    },
+    {
+      "key": "pomerlo_zahalom",
+      "label": "Pomerlo Zahalom",
+      "type": "number"
+    },
+    {
+      "key": "koef_smertnosti_promile",
+      "label": "Koef Smertnosti Promile",
+      "type": "number"
+    },
+    {
+      "key": "pomerlo_ditei_do_1_roku",
+      "label": "Pomerlo Ditei Do 1 Roku",
+      "type": "number"
+    },
+    {
+      "key": "koef_dytiachoi_smertnosti_promile",
+      "label": "Koef Dytiachoi Smertnosti Promile",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rik": 1990,
+      "pomerlo_zahalom": 629602,
+      "koef_smertnosti_promile": 12.1,
+      "pomerlo_ditei_do_1_roku": 8525,
+      "koef_dytiachoi_smertnosti_promile": 12.8
+    },
+    {
+      "rik": 1991,
+      "pomerlo_zahalom": 669960,
+      "koef_smertnosti_promile": 12.9,
+      "pomerlo_ditei_do_1_roku": 8831,
+      "koef_dytiachoi_smertnosti_promile": 13.9
+    },
+    {
+      "rik": 1992,
+      "pomerlo_zahalom": 697110,
+      "koef_smertnosti_promile": 13.3,
+      "pomerlo_ditei_do_1_roku": 8429,
+      "koef_dytiachoi_smertnosti_promile": 14
+    },
+    {
+      "rik": 1993,
+      "pomerlo_zahalom": 741662,
+      "koef_smertnosti_promile": 14.2,
+      "pomerlo_ditei_do_1_roku": 8431,
+      "koef_dytiachoi_smertnosti_promile": 14.9
+    },
+    {
+      "rik": 1994,
+      "pomerlo_zahalom": 764669,
+      "koef_smertnosti_promile": 14.7,
+      "pomerlo_ditei_do_1_roku": 7683,
+      "koef_dytiachoi_smertnosti_promile": 14.5
+    },
+    {
+      "rik": 1995,
+      "pomerlo_zahalom": 792587,
+      "koef_smertnosti_promile": 15.4,
+      "pomerlo_ditei_do_1_roku": 7314,
+      "koef_dytiachoi_smertnosti_promile": 14.7
+    },
+    {
+      "rik": 1996,
+      "pomerlo_zahalom": 776717,
+      "koef_smertnosti_promile": 15.2,
+      "pomerlo_ditei_do_1_roku": 6779,
+      "koef_dytiachoi_smertnosti_promile": 14.3
+    },
+    {
+      "rik": 1997,
+      "pomerlo_zahalom": 754151,
+      "koef_smertnosti_promile": 14.9,
+      "pomerlo_ditei_do_1_roku": 6282,
+      "koef_dytiachoi_smertnosti_promile": 14
+    },
+    {
+      "rik": 1998,
+      "pomerlo_zahalom": 719954,
+      "koef_smertnosti_promile": 14.4,
+      "pomerlo_ditei_do_1_roku": 5423,
+      "koef_dytiachoi_smertnosti_promile": 12.8
+    },
+    {
+      "rik": 1999,
+      "pomerlo_zahalom": 739170,
+      "koef_smertnosti_promile": 14.9,
+      "pomerlo_ditei_do_1_roku": 5065,
+      "koef_dytiachoi_smertnosti_promile": 12.8
+    },
+    {
+      "rik": 2000,
+      "pomerlo_zahalom": 758082,
+      "koef_smertnosti_promile": 15.4,
+      "pomerlo_ditei_do_1_roku": 4606,
+      "koef_dytiachoi_smertnosti_promile": 11.9
+    },
+    {
+      "rik": 2001,
+      "pomerlo_zahalom": 745952,
+      "koef_smertnosti_promile": 15.3,
+      "pomerlo_ditei_do_1_roku": 4283,
+      "koef_dytiachoi_smertnosti_promile": 11.3
+    },
+    {
+      "rik": 2002,
+      "pomerlo_zahalom": 754911,
+      "koef_smertnosti_promile": 15.7,
+      "pomerlo_ditei_do_1_roku": 4023,
+      "koef_dytiachoi_smertnosti_promile": 10.3
+    },
+    {
+      "rik": 2003,
+      "pomerlo_zahalom": 765408,
+      "koef_smertnosti_promile": 16,
+      "pomerlo_ditei_do_1_roku": 3882,
+      "koef_dytiachoi_smertnosti_promile": 9.6
+    },
+    {
+      "rik": 2004,
+      "pomerlo_zahalom": 761261,
+      "koef_smertnosti_promile": 16,
+      "pomerlo_ditei_do_1_roku": 4024,
+      "koef_dytiachoi_smertnosti_promile": 9.5
+    },
+    {
+      "rik": 2005,
+      "pomerlo_zahalom": 781961,
+      "koef_smertnosti_promile": 16.6,
+      "pomerlo_ditei_do_1_roku": 4259,
+      "koef_dytiachoi_smertnosti_promile": 10
+    },
+    {
+      "rik": 2006,
+      "pomerlo_zahalom": 758092,
+      "koef_smertnosti_promile": 16.2,
+      "pomerlo_ditei_do_1_roku": 4433,
+      "koef_dytiachoi_smertnosti_promile": 9.8
+    },
+    {
+      "rik": 2007,
+      "pomerlo_zahalom": 762877,
+      "koef_smertnosti_promile": 16.4,
+      "pomerlo_ditei_do_1_roku": 5188,
+      "koef_dytiachoi_smertnosti_promile": 11
+    },
+    {
+      "rik": 2008,
+      "pomerlo_zahalom": 754460,
+      "koef_smertnosti_promile": 16.3,
+      "pomerlo_ditei_do_1_roku": 5049,
+      "koef_dytiachoi_smertnosti_promile": 10
+    },
+    {
+      "rik": 2009,
+      "pomerlo_zahalom": 706739,
+      "koef_smertnosti_promile": 15.3,
+      "pomerlo_ditei_do_1_roku": 4801,
+      "koef_dytiachoi_smertnosti_promile": 9.4
+    },
+    {
+      "rik": 2010,
+      "pomerlo_zahalom": 698235,
+      "koef_smertnosti_promile": 15.2,
+      "pomerlo_ditei_do_1_roku": 4564,
+      "koef_dytiachoi_smertnosti_promile": 9.1
+    },
+    {
+      "rik": 2011,
+      "pomerlo_zahalom": 664588,
+      "koef_smertnosti_promile": 14.5,
+      "pomerlo_ditei_do_1_roku": 4511,
+      "koef_dytiachoi_smertnosti_promile": 9
+    },
+    {
+      "rik": 2012,
+      "pomerlo_zahalom": 663139,
+      "koef_smertnosti_promile": 14.5,
+      "pomerlo_ditei_do_1_roku": 4371,
+      "koef_dytiachoi_smertnosti_promile": 8.4
+    },
+    {
+      "rik": 2013,
+      "pomerlo_zahalom": 662368,
+      "koef_smertnosti_promile": 14.6,
+      "pomerlo_ditei_do_1_roku": 4030,
+      "koef_dytiachoi_smertnosti_promile": 7.9
+    },
+    {
+      "rik": 2014,
+      "pomerlo_zahalom": 632667,
+      "koef_smertnosti_promile": 14.7,
+      "pomerlo_ditei_do_1_roku": 3603,
+      "koef_dytiachoi_smertnosti_promile": 7.7
+    },
+    {
+      "rik": 2015,
+      "pomerlo_zahalom": 594796,
+      "koef_smertnosti_promile": 14.9,
+      "pomerlo_ditei_do_1_roku": 3318,
+      "koef_dytiachoi_smertnosti_promile": 7.9
+    },
+    {
+      "rik": 2016,
+      "pomerlo_zahalom": 583631,
+      "koef_smertnosti_promile": 14.7,
+      "pomerlo_ditei_do_1_roku": 2955,
+      "koef_dytiachoi_smertnosti_promile": 7.4
+    },
+    {
+      "rik": 2017,
+      "pomerlo_zahalom": 574123,
+      "koef_smertnosti_promile": 14.5,
+      "pomerlo_ditei_do_1_roku": 2786,
+      "koef_dytiachoi_smertnosti_promile": 7.6
+    },
+    {
+      "rik": 2018,
+      "pomerlo_zahalom": 587665,
+      "koef_smertnosti_promile": 14.8,
+      "pomerlo_ditei_do_1_roku": 2397,
+      "koef_dytiachoi_smertnosti_promile": 7
+    },
+    {
+      "rik": 2019,
+      "pomerlo_zahalom": 581114,
+      "koef_smertnosti_promile": 14.7,
+      "pomerlo_ditei_do_1_roku": 2189,
+      "koef_dytiachoi_smertnosti_promile": 7
+    },
+    {
+      "rik": 2020,
+      "pomerlo_zahalom": 616835,
+      "koef_smertnosti_promile": 15.9,
+      "pomerlo_ditei_do_1_roku": 1988,
+      "koef_dytiachoi_smertnosti_promile": 6.7
+    }
+  ],
+  "meta": {
+    "title": "Смертність населення України з 1990 року - Free Download",
+    "description": "Кількість померлих, коефіцієнт смертності та дитяча смертність в Україні за роками з 1990 року. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Смертність населення України з 1990 року | ListBase",
+    "seo_description": "Download Смертність населення України з 1990 року — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Населення_України"
+    ]
+  }
+}

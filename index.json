@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:37:03.424Z",
-  "total_datasets": 436,
-  "total_records": 470525,
+  "generated": "2026-10-27T02:37:06.013Z",
+  "total_datasets": 437,
+  "total_records": 470556,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -4141,6 +4141,32 @@
         "xlsx": {
           "name": "uk-likarni_UK.xlsx",
           "size": 14702
+        }
+      }
+    },
+    {
+      "id": "uk-smertnist-naselennia",
+      "name": "Смертність населення України з 1990 року",
+      "category": "health",
+      "record_count": 31,
+      "columns": [
+        "rik",
+        "pomerlo_zahalom",
+        "koef_smertnosti_promile",
+        "pomerlo_ditei_do_1_roku",
+        "koef_dytiachoi_smertnosti_promile"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Населення_України",
+      "updated": "2026-10",
+      "size": 7972,
+      "files": {
+        "csv": {
+          "name": "uk-smertnist-naselennia_UK.csv",
+          "size": 1226
+        },
+        "xlsx": {
+          "name": "uk-smertnist-naselennia_UK.xlsx",
+          "size": 7727
         }
       }
     },
