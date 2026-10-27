@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:32.713Z",
-  "total_datasets": 424,
-  "total_records": 470116,
+  "generated": "2026-10-27T02:36:35.241Z",
+  "total_datasets": 425,
+  "total_records": 470149,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -462,6 +462,36 @@
         "xlsx": {
           "name": "uk-200-naibilshykh-kompanii-2012_UK.xlsx",
           "size": 20289
+        }
+      }
+    },
+    {
+      "id": "uk-ekonomichni-pokaznyky-vvp",
+      "name": "Економічні показники України (ВВП, інфляція, безробіття)",
+      "category": "economy",
+      "record_count": 33,
+      "columns": [
+        "rik",
+        "vvp_pks_mlrd_usd",
+        "vvp_na_dushu_pks_usd",
+        "vvp_nominal_mlrd_usd",
+        "vvp_na_dushu_nominal_usd",
+        "zrostannia_vvp",
+        "inflatsiia",
+        "bezrobittia",
+        "derzhborh_pct_vvp"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Економіка_України",
+      "updated": "2026-10",
+      "size": 12938,
+      "files": {
+        "csv": {
+          "name": "uk-ekonomichni-pokaznyky-vvp_UK.csv",
+          "size": 2484
+        },
+        "xlsx": {
+          "name": "uk-ekonomichni-pokaznyky-vvp_UK.xlsx",
+          "size": 8904
         }
       }
     },

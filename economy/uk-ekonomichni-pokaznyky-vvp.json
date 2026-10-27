@@ -1,0 +1,434 @@
+{
+  "id": "uk-ekonomichni-pokaznyky-vvp",
+  "name": "Економічні показники України (ВВП, інфляція, безробіття)",
+  "title": "Економічні показники України (ВВП, інфляція, безробіття)",
+  "description": "Основні макроекономічні показники України за роками: ВВП за ПКС і номінальний, ВВП на душу населення, зростання, інфляція, безробіття й державний борг.",
+  "category": "economy",
+  "source": "https://uk.wikipedia.org/wiki/Економіка_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Економіка_України",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "rik",
+      "label": "Rik",
+      "type": "number"
+    },
+    {
+      "key": "vvp_pks_mlrd_usd",
+      "label": "Vvp Pks Mlrd Usd",
+      "type": "number"
+    },
+    {
+      "key": "vvp_na_dushu_pks_usd",
+      "label": "Vvp Na Dushu Pks Usd",
+      "type": "number"
+    },
+    {
+      "key": "vvp_nominal_mlrd_usd",
+      "label": "Vvp Nominal Mlrd Usd",
+      "type": "number"
+    },
+    {
+      "key": "vvp_na_dushu_nominal_usd",
+      "label": "Vvp Na Dushu Nominal Usd",
+      "type": "number"
+    },
+    {
+      "key": "zrostannia_vvp",
+      "label": "Zrostannia Vvp",
+      "type": "string"
+    },
+    {
+      "key": "inflatsiia",
+      "label": "Inflatsiia",
+      "type": "string"
+    },
+    {
+      "key": "bezrobittia",
+      "label": "Bezrobittia",
+      "type": "string"
+    },
+    {
+      "key": "derzhborh_pct_vvp",
+      "label": "Derzhborh Pct Vvp",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rik": 1992,
+      "vvp_pks_mlrd_usd": 331.1,
+      "vvp_na_dushu_pks_usd": 6382.7,
+      "vvp_nominal_mlrd_usd": 22.2,
+      "vvp_na_dushu_nominal_usd": 427.9,
+      "zrostannia_vvp": "н/з",
+      "inflatsiia": "н/з",
+      "bezrobittia": "н/з",
+      "derzhborh_pct_vvp": "н/з"
+    },
+    {
+      "rik": 1993,
+      "vvp_pks_mlrd_usd": 290.8,
+      "vvp_na_dushu_pks_usd": 5623,
+      "vvp_nominal_mlrd_usd": 35,
+      "vvp_na_dushu_nominal_usd": 677.3,
+      "zrostannia_vvp": "-14.2%",
+      "inflatsiia": "4734.9%",
+      "bezrobittia": "н/з",
+      "derzhborh_pct_vvp": "н/з"
+    },
+    {
+      "rik": 1994,
+      "vvp_pks_mlrd_usd": 229,
+      "vvp_na_dushu_pks_usd": 4463.7,
+      "vvp_nominal_mlrd_usd": 38,
+      "vvp_na_dushu_nominal_usd": 741,
+      "zrostannia_vvp": "-22.9%",
+      "inflatsiia": "891.2%",
+      "bezrobittia": "н/з",
+      "derzhborh_pct_vvp": "н/з"
+    },
+    {
+      "rik": 1995,
+      "vvp_pks_mlrd_usd": 205.3,
+      "vvp_na_dushu_pks_usd": 4034.9,
+      "vvp_nominal_mlrd_usd": 38.3,
+      "vvp_na_dushu_nominal_usd": 752.3,
+      "zrostannia_vvp": "-12.2%",
+      "inflatsiia": "376.7%",
+      "bezrobittia": "14.8%",
+      "derzhborh_pct_vvp": "н/з"
+    },
+    {
+      "rik": 1996,
+      "vvp_pks_mlrd_usd": 188.1,
+      "vvp_na_dushu_pks_usd": 3732.6,
+      "vvp_nominal_mlrd_usd": 46.1,
+      "vvp_na_dushu_nominal_usd": 914.3,
+      "zrostannia_vvp": "-10.0%",
+      "inflatsiia": "80.2%",
+      "bezrobittia": "10.0%",
+      "derzhborh_pct_vvp": "н/з"
+    },
+    {
+      "rik": 1997,
+      "vvp_pks_mlrd_usd": 185.6,
+      "vvp_na_dushu_pks_usd": 3714.5,
+      "vvp_nominal_mlrd_usd": 51.9,
+      "vvp_na_dushu_nominal_usd": 1037.9,
+      "zrostannia_vvp": "-3.0%",
+      "inflatsiia": "15.9%",
+      "bezrobittia": "9.8%",
+      "derzhborh_pct_vvp": "28.9%"
+    },
+    {
+      "rik": 1998,
+      "vvp_pks_mlrd_usd": 184.2,
+      "vvp_na_dushu_pks_usd": 3716.9,
+      "vvp_nominal_mlrd_usd": 43.3,
+      "vvp_na_dushu_nominal_usd": 874.3,
+      "zrostannia_vvp": "-1.9%",
+      "inflatsiia": "10.6%",
+      "bezrobittia": "11.3%",
+      "derzhborh_pct_vvp": "46.5%"
+    },
+    {
+      "rik": 1999,
+      "vvp_pks_mlrd_usd": 186.4,
+      "vvp_na_dushu_pks_usd": 3794.6,
+      "vvp_nominal_mlrd_usd": 32.7,
+      "vvp_na_dushu_nominal_usd": 665,
+      "zrostannia_vvp": "-0.2%",
+      "inflatsiia": "22.7%",
+      "bezrobittia": "11.9%",
+      "derzhborh_pct_vvp": "59.0%"
+    },
+    {
+      "rik": 2000,
+      "vvp_pks_mlrd_usd": 201.8,
+      "vvp_na_dushu_pks_usd": 4147.7,
+      "vvp_nominal_mlrd_usd": 32.3,
+      "vvp_na_dushu_nominal_usd": 664.4,
+      "zrostannia_vvp": "5.9%",
+      "inflatsiia": "28.2%",
+      "bezrobittia": "11.5%",
+      "derzhborh_pct_vvp": "43.8%"
+    },
+    {
+      "rik": 2001,
+      "vvp_pks_mlrd_usd": 224.5,
+      "vvp_na_dushu_pks_usd": 4654.7,
+      "vvp_nominal_mlrd_usd": 37.9,
+      "vvp_na_dushu_nominal_usd": 784.9,
+      "zrostannia_vvp": "8.8%",
+      "inflatsiia": "12.0%",
+      "bezrobittia": "10.8%",
+      "derzhborh_pct_vvp": "36.7%"
+    },
+    {
+      "rik": 2002,
+      "vvp_pks_mlrd_usd": 240.1,
+      "vvp_na_dushu_pks_usd": 5021.3,
+      "vvp_nominal_mlrd_usd": 42.3,
+      "vvp_na_dushu_nominal_usd": 885.3,
+      "zrostannia_vvp": "5.3%",
+      "inflatsiia": "0.8%",
+      "bezrobittia": "9.6%",
+      "derzhborh_pct_vvp": "33.6%"
+    },
+    {
+      "rik": 2003,
+      "vvp_pks_mlrd_usd": 268.1,
+      "vvp_na_dushu_pks_usd": 5651.9,
+      "vvp_nominal_mlrd_usd": 50.1,
+      "vvp_na_dushu_nominal_usd": 1055.9,
+      "zrostannia_vvp": "9.5%",
+      "inflatsiia": "5.2%",
+      "bezrobittia": "9.1%",
+      "derzhborh_pct_vvp": "29.4%"
+    },
+    {
+      "rik": 2004,
+      "vvp_pks_mlrd_usd": 307.8,
+      "vvp_na_dushu_pks_usd": 6535.5,
+      "vvp_nominal_mlrd_usd": 64.8,
+      "vvp_na_dushu_nominal_usd": 1374.8,
+      "zrostannia_vvp": "11.8%",
+      "inflatsiia": "9.0%",
+      "bezrobittia": "8.6%",
+      "derzhborh_pct_vvp": "24.8%"
+    },
+    {
+      "rik": 2005,
+      "vvp_pks_mlrd_usd": 327.3,
+      "vvp_na_dushu_pks_usd": 7001.6,
+      "vvp_nominal_mlrd_usd": 86,
+      "vvp_na_dushu_nominal_usd": 1839.5,
+      "zrostannia_vvp": "3.1%",
+      "inflatsiia": "13.5%",
+      "bezrobittia": "7.2%",
+      "derzhborh_pct_vvp": "17.7%"
+    },
+    {
+      "rik": 2006,
+      "vvp_pks_mlrd_usd": 363.1,
+      "vvp_na_dushu_pks_usd": 7813.6,
+      "vvp_nominal_mlrd_usd": 107.8,
+      "vvp_na_dushu_nominal_usd": 2319.3,
+      "zrostannia_vvp": "7.6%",
+      "inflatsiia": "9.1%",
+      "bezrobittia": "6.8%",
+      "derzhborh_pct_vvp": "14.8%"
+    },
+    {
+      "rik": 2007,
+      "vvp_pks_mlrd_usd": 403.5,
+      "vvp_na_dushu_pks_usd": 8734.2,
+      "vvp_nominal_mlrd_usd": 143.3,
+      "vvp_na_dushu_nominal_usd": 3101.4,
+      "zrostannia_vvp": "8.2%",
+      "inflatsiia": "12.8%",
+      "bezrobittia": "6.4%",
+      "derzhborh_pct_vvp": "12.3%"
+    },
+    {
+      "rik": 2008,
+      "vvp_pks_mlrd_usd": 420.2,
+      "vvp_na_dushu_pks_usd": 9142.8,
+      "vvp_nominal_mlrd_usd": 181.3,
+      "vvp_na_dushu_nominal_usd": 3944.7,
+      "zrostannia_vvp": "2.2%",
+      "inflatsiia": "25.2%",
+      "bezrobittia": "6.4%",
+      "derzhborh_pct_vvp": "20.4%"
+    },
+    {
+      "rik": 2009,
+      "vvp_pks_mlrd_usd": 359.1,
+      "vvp_na_dushu_pks_usd": 7842.9,
+      "vvp_nominal_mlrd_usd": 117.1,
+      "vvp_na_dushu_nominal_usd": 2557.3,
+      "zrostannia_vvp": "-15.1%",
+      "inflatsiia": "15.9%",
+      "bezrobittia": "8.8%",
+      "derzhborh_pct_vvp": "35.4%"
+    },
+    {
+      "rik": 2010,
+      "vvp_pks_mlrd_usd": 378.3,
+      "vvp_na_dushu_pks_usd": 8296,
+      "vvp_nominal_mlrd_usd": 136,
+      "vvp_na_dushu_nominal_usd": 2982.8,
+      "zrostannia_vvp": "4.1%",
+      "inflatsiia": "9.4%",
+      "bezrobittia": "8.1%",
+      "derzhborh_pct_vvp": "40.6%"
+    },
+    {
+      "rik": 2011,
+      "vvp_pks_mlrd_usd": 407.2,
+      "vvp_na_dushu_pks_usd": 8959.2,
+      "vvp_nominal_mlrd_usd": 163.2,
+      "vvp_na_dushu_nominal_usd": 3589.6,
+      "zrostannia_vvp": "5.5%",
+      "inflatsiia": "8.0%",
+      "bezrobittia": "7.9%",
+      "derzhborh_pct_vvp": "36.9%"
+    },
+    {
+      "rik": 2012,
+      "vvp_pks_mlrd_usd": 426,
+      "vvp_na_dushu_pks_usd": 9388.8,
+      "vvp_nominal_mlrd_usd": 175.7,
+      "vvp_na_dushu_nominal_usd": 3872.5,
+      "zrostannia_vvp": "0.2%",
+      "inflatsiia": "0.6%",
+      "bezrobittia": "7.5%",
+      "derzhborh_pct_vvp": "37.5%"
+    },
+    {
+      "rik": 2013,
+      "vvp_pks_mlrd_usd": 486.4,
+      "vvp_na_dushu_pks_usd": 10749.4,
+      "vvp_nominal_mlrd_usd": 179.6,
+      "vvp_na_dushu_nominal_usd": 3968.9,
+      "zrostannia_vvp": "0%",
+      "inflatsiia": "-0.3%",
+      "bezrobittia": "7.2%",
+      "derzhborh_pct_vvp": "40.5%"
+    },
+    {
+      "rik": 2014,
+      "vvp_pks_mlrd_usd": 462,
+      "vvp_na_dushu_pks_usd": 10804.3,
+      "vvp_nominal_mlrd_usd": 130.6,
+      "vvp_na_dushu_nominal_usd": 3053.6,
+      "zrostannia_vvp": "-6.6%",
+      "inflatsiia": "12.1%",
+      "bezrobittia": "9.3%",
+      "derzhborh_pct_vvp": "70.3%"
+    },
+    {
+      "rik": 2015,
+      "vvp_pks_mlrd_usd": 435.5,
+      "vvp_na_dushu_pks_usd": 10224.9,
+      "vvp_nominal_mlrd_usd": 90.5,
+      "vvp_na_dushu_nominal_usd": 2124.3,
+      "zrostannia_vvp": "-9.8%",
+      "inflatsiia": "48.7%",
+      "bezrobittia": "9.1%",
+      "derzhborh_pct_vvp": "79.5%"
+    },
+    {
+      "rik": 2016,
+      "vvp_pks_mlrd_usd": 475.7,
+      "vvp_na_dushu_pks_usd": 11215.9,
+      "vvp_nominal_mlrd_usd": 93.3,
+      "vvp_na_dushu_nominal_usd": 2200,
+      "zrostannia_vvp": "2.4%",
+      "inflatsiia": "13.9%",
+      "bezrobittia": "9.5%",
+      "derzhborh_pct_vvp": "79.5%"
+    },
+    {
+      "rik": 2017,
+      "vvp_pks_mlrd_usd": 504.2,
+      "vvp_na_dushu_pks_usd": 11942.8,
+      "vvp_nominal_mlrd_usd": 112.1,
+      "vvp_na_dushu_nominal_usd": 2655.7,
+      "zrostannia_vvp": "2.4%",
+      "inflatsiia": "14.4%",
+      "bezrobittia": "9.7%",
+      "derzhborh_pct_vvp": "71.6%"
+    },
+    {
+      "rik": 2018,
+      "vvp_pks_mlrd_usd": 534.2,
+      "vvp_na_dushu_pks_usd": 12725,
+      "vvp_nominal_mlrd_usd": 130.9,
+      "vvp_na_dushu_nominal_usd": 3118.3,
+      "zrostannia_vvp": "3.5%",
+      "inflatsiia": "10.9%",
+      "bezrobittia": "9.0%",
+      "derzhborh_pct_vvp": "60.4%"
+    },
+    {
+      "rik": 2019,
+      "vvp_pks_mlrd_usd": 561.2,
+      "vvp_na_dushu_pks_usd": 13447.4,
+      "vvp_nominal_mlrd_usd": 154,
+      "vvp_na_dushu_nominal_usd": 3690.1,
+      "zrostannia_vvp": "3.2%",
+      "inflatsiia": "7.9%",
+      "bezrobittia": "8.5%",
+      "derzhborh_pct_vvp": "50.5%"
+    },
+    {
+      "rik": 2020,
+      "vvp_pks_mlrd_usd": 547.3,
+      "vvp_na_dushu_pks_usd": 13213.6,
+      "vvp_nominal_mlrd_usd": 156.6,
+      "vvp_na_dushu_nominal_usd": 3780.1,
+      "zrostannia_vvp": "-3.7%",
+      "inflatsiia": "2.7%",
+      "bezrobittia": "9.2%",
+      "derzhborh_pct_vvp": "60.5%"
+    },
+    {
+      "rik": 2021,
+      "vvp_pks_mlrd_usd": 591.5,
+      "vvp_na_dushu_pks_usd": 14427.9,
+      "vvp_nominal_mlrd_usd": 199.8,
+      "vvp_na_dushu_nominal_usd": 4874.3,
+      "zrostannia_vvp": "3.4%",
+      "inflatsiia": "9.4%",
+      "bezrobittia": "9.8%",
+      "derzhborh_pct_vvp": "48.9%"
+    },
+    {
+      "rik": 2022,
+      "vvp_pks_mlrd_usd": 449,
+      "vvp_na_dushu_pks_usd": 12886.2,
+      "vvp_nominal_mlrd_usd": 160.5,
+      "vvp_na_dushu_nominal_usd": 4606.8,
+      "zrostannia_vvp": "-29.1%",
+      "inflatsiia": "20.2%",
+      "bezrobittia": "24.5%",
+      "derzhborh_pct_vvp": "78.5%"
+    },
+    {
+      "rik": "2023*",
+      "vvp_pks_mlrd_usd": 474.8,
+      "vvp_na_dushu_pks_usd": 14304.9,
+      "vvp_nominal_mlrd_usd": 173.4,
+      "vvp_na_dushu_nominal_usd": 5224.6,
+      "zrostannia_vvp": "2.0%",
+      "inflatsiia": "17.7%",
+      "bezrobittia": "19.4%",
+      "derzhborh_pct_vvp": "88.2%"
+    },
+    {
+      "rik": "2024*",
+      "vvp_pks_mlrd_usd": 501,
+      "vvp_na_dushu_pks_usd": 14878,
+      "vvp_nominal_mlrd_usd": 186.3,
+      "vvp_na_dushu_nominal_usd": 5530.6,
+      "zrostannia_vvp": "3.2%",
+      "inflatsiia": "13.0",
+      "bezrobittia": "10.6%",
+      "derzhborh_pct_vvp": "98.6%"
+    }
+  ],
+  "meta": {
+    "title": "Економічні показники України (ВВП, інфляція, безробіття) - Free Download",
+    "description": "Основні макроекономічні показники України за роками: ВВП за ПКС і номінальний, ВВП на душу населення, зростання, інфляція, безробіття й державний борг. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Економічні показники України (ВВП, інфляція, безробіття) | ListBase",
+    "seo_description": "Download Економічні показники України (ВВП, інфляція, безробіття) — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Економіка_України"
+    ]
+  }
+}
