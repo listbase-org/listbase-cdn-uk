@@ -1,0 +1,346 @@
+{
+  "id": "uk-ukraina-na-yevrobachenni",
+  "name": "Україна на Євробаченні",
+  "title": "Україна на Євробаченні",
+  "description": "Пісні України на пісенному конкурсі Євробачення з 2003 року: виконавець, мова, місце й бали у фіналі та півфіналі.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/wiki/Україна_на_Євробаченні",
+  "source_url": "https://uk.wikipedia.org/wiki/Україна_на_Євробаченні",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "rik",
+      "label": "Rik",
+      "type": "number"
+    },
+    {
+      "key": "mistse_provedennia",
+      "label": "Mistse Provedennia",
+      "type": "string"
+    },
+    {
+      "key": "vykonavets",
+      "label": "Vykonavets",
+      "type": "string"
+    },
+    {
+      "key": "pisnia",
+      "label": "Pisnia",
+      "type": "string"
+    },
+    {
+      "key": "movy",
+      "label": "Movy",
+      "type": "string"
+    },
+    {
+      "key": "final_mistse",
+      "label": "Final Mistse",
+      "type": "number"
+    },
+    {
+      "key": "final_baly",
+      "label": "Final Baly",
+      "type": "number"
+    },
+    {
+      "key": "pivfinal_mistse",
+      "label": "Pivfinal Mistse",
+      "type": "string"
+    },
+    {
+      "key": "pivfinal_baly",
+      "label": "Pivfinal Baly",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rik": 2003,
+      "mistse_provedennia": "Рига",
+      "vykonavets": "Олександр Пономарьов",
+      "pisnia": "«Hasta La Vista» «До зустрічі»",
+      "movy": "Англійська",
+      "final_mistse": "14",
+      "final_baly": "30",
+      "pivfinal_mistse": "Без півфіналів",
+      "pivfinal_baly": "Без півфіналів"
+    },
+    {
+      "rik": 2004,
+      "mistse_provedennia": "Стамбул",
+      "vykonavets": "Руслана",
+      "pisnia": "«Wild Dances» «Дикі танці»",
+      "movy": "Англійська, українська",
+      "final_mistse": "1",
+      "final_baly": "280",
+      "pivfinal_mistse": "2",
+      "pivfinal_baly": "256"
+    },
+    {
+      "rik": 2005,
+      "mistse_provedennia": "Київ",
+      "vykonavets": "Ґринджоли",
+      "pisnia": "«Разом нас багато»",
+      "movy": "Українська, англійська",
+      "final_mistse": "19",
+      "final_baly": "30",
+      "pivfinal_mistse": "Країна-господарка",
+      "pivfinal_baly": "Країна-господарка"
+    },
+    {
+      "rik": 2006,
+      "mistse_provedennia": "Афіни",
+      "vykonavets": "Тіна Кароль",
+      "pisnia": "«Show Me Your Love» «Покажи мені своє кохання»",
+      "movy": "Англійська",
+      "final_mistse": "7",
+      "final_baly": "145",
+      "pivfinal_mistse": "7",
+      "pivfinal_baly": "146"
+    },
+    {
+      "rik": 2007,
+      "mistse_provedennia": "Гельсінкі",
+      "vykonavets": "Вєрка Сердючка",
+      "pisnia": "«Dancing Lasha Tumbai» «Танець лаша тумбай»",
+      "movy": "Англійська, німецька, суржик (російська та українська)",
+      "final_mistse": "2",
+      "final_baly": "235",
+      "pivfinal_mistse": "Торішня десятка найкращих",
+      "pivfinal_baly": "Торішня десятка найкращих"
+    },
+    {
+      "rik": 2008,
+      "mistse_provedennia": "Белград",
+      "vykonavets": "Ані Лорак",
+      "pisnia": "«Shady Lady» «Загадкова леді »",
+      "movy": "Англійська",
+      "final_mistse": "2",
+      "final_baly": "230",
+      "pivfinal_mistse": "1",
+      "pivfinal_baly": "152"
+    },
+    {
+      "rik": 2009,
+      "mistse_provedennia": "Москва",
+      "vykonavets": "Світлана Лобода",
+      "pisnia": "«Be my Valentine! (Anti-crisis Girl)» «Будь моїм Валентином! (Антикризова дівчина)»",
+      "movy": "Англійська",
+      "final_mistse": "12",
+      "final_baly": "76",
+      "pivfinal_mistse": "6",
+      "pivfinal_baly": "80"
+    },
+    {
+      "rik": 2010,
+      "mistse_provedennia": "Осло",
+      "vykonavets": "Alyosha",
+      "pisnia": "«Sweet People» «Любі люди»",
+      "movy": "Англійська",
+      "final_mistse": "10",
+      "final_baly": "108",
+      "pivfinal_mistse": "7",
+      "pivfinal_baly": "77"
+    },
+    {
+      "rik": 2011,
+      "mistse_provedennia": "Дюссельдорф",
+      "vykonavets": "Міка Ньютон",
+      "pisnia": "«Angel» «Янгол»",
+      "movy": "Англійська",
+      "final_mistse": "4",
+      "final_baly": "159",
+      "pivfinal_mistse": "6",
+      "pivfinal_baly": "81"
+    },
+    {
+      "rik": 2012,
+      "mistse_provedennia": "Баку",
+      "vykonavets": "Гайтана",
+      "pisnia": "«Be My Guest» «Будь моїм гостем»",
+      "movy": "Англійська",
+      "final_mistse": "15",
+      "final_baly": "65",
+      "pivfinal_mistse": "8",
+      "pivfinal_baly": "64"
+    },
+    {
+      "rik": 2013,
+      "mistse_provedennia": "Мальме",
+      "vykonavets": "Злата Огнєвіч",
+      "pisnia": "«Gravity» «Тяжіння»",
+      "movy": "Англійська",
+      "final_mistse": "3",
+      "final_baly": "214",
+      "pivfinal_mistse": "3",
+      "pivfinal_baly": "140"
+    },
+    {
+      "rik": 2014,
+      "mistse_provedennia": "Копенгаген",
+      "vykonavets": "Марія Яремчук",
+      "pisnia": "«Tick-Tock» «Тік-так»",
+      "movy": "Англійська",
+      "final_mistse": "6",
+      "final_baly": "113",
+      "pivfinal_mistse": "5",
+      "pivfinal_baly": "118"
+    },
+    {
+      "rik": "2015 : не брала участь",
+      "mistse_provedennia": "2015 : не брала участь",
+      "vykonavets": "2015 : не брала участь",
+      "pisnia": "2015 : не брала участь",
+      "movy": "2015 : не брала участь",
+      "final_mistse": "2015 : не брала участь",
+      "final_baly": "2015 : не брала участь",
+      "pivfinal_mistse": "2015 : не брала участь",
+      "pivfinal_baly": "2015 : не брала участь"
+    },
+    {
+      "rik": 2016,
+      "mistse_provedennia": "Стокгольм",
+      "vykonavets": "Джамала",
+      "pisnia": "«1944»",
+      "movy": "Англійська, кримськотатарська",
+      "final_mistse": "1",
+      "final_baly": "534",
+      "pivfinal_mistse": "2",
+      "pivfinal_baly": "287"
+    },
+    {
+      "rik": 2017,
+      "mistse_provedennia": "Київ",
+      "vykonavets": "O.Torvald",
+      "pisnia": "«Time» «Час»",
+      "movy": "Англійська",
+      "final_mistse": "24",
+      "final_baly": "36",
+      "pivfinal_mistse": "Країна-господарка",
+      "pivfinal_baly": "Країна-господарка"
+    },
+    {
+      "rik": 2018,
+      "mistse_provedennia": "Лісабон",
+      "vykonavets": "Mélovin",
+      "pisnia": "«Under The Ladder» «Під сходами»",
+      "movy": "Англійська",
+      "final_mistse": "17",
+      "final_baly": "130",
+      "pivfinal_mistse": "6",
+      "pivfinal_baly": "179"
+    },
+    {
+      "rik": 2019,
+      "mistse_provedennia": "Тель-Авів",
+      "vykonavets": "MARUV",
+      "pisnia": "«Siren Song» «Пісня сирени»",
+      "movy": "Англійська",
+      "final_mistse": "Х Участь була скасована Х",
+      "final_baly": "Х Участь була скасована Х",
+      "pivfinal_mistse": "Х Участь була скасована Х",
+      "pivfinal_baly": "Х Участь була скасована Х"
+    },
+    {
+      "rik": 2020,
+      "mistse_provedennia": "Роттердам",
+      "vykonavets": "Go_A",
+      "pisnia": "«Соловей»",
+      "movy": "Українська",
+      "final_mistse": "Х Конкурс скасований через пандемію COVID-19 Х",
+      "final_baly": "Х Конкурс скасований через пандемію COVID-19 Х",
+      "pivfinal_mistse": "Х Конкурс скасований через пандемію COVID-19 Х",
+      "pivfinal_baly": "Х Конкурс скасований через пандемію COVID-19 Х"
+    },
+    {
+      "rik": 2021,
+      "mistse_provedennia": "Роттердам",
+      "vykonavets": "Go_A",
+      "pisnia": "«Шум»",
+      "movy": "Українська",
+      "final_mistse": "5",
+      "final_baly": "364",
+      "pivfinal_mistse": "2",
+      "pivfinal_baly": "267"
+    },
+    {
+      "rik": 2022,
+      "mistse_provedennia": "Турин",
+      "vykonavets": "Kalush Orchestra",
+      "pisnia": "«Стефанія»",
+      "movy": "Українська",
+      "final_mistse": "1",
+      "final_baly": "631",
+      "pivfinal_mistse": "1",
+      "pivfinal_baly": "337"
+    },
+    {
+      "rik": 2023,
+      "mistse_provedennia": "Ліверпуль",
+      "vykonavets": "TVORCHI",
+      "pisnia": "«Heart Of Steel» «Серце зі сталі»",
+      "movy": "Англійська, українська",
+      "final_mistse": "6",
+      "final_baly": "243",
+      "pivfinal_mistse": "Країна-господарка",
+      "pivfinal_baly": "Країна-господарка"
+    },
+    {
+      "rik": 2024,
+      "mistse_provedennia": "Мальме",
+      "vykonavets": "Alyona alyona & Jerry Heil",
+      "pisnia": "«Teresa & Maria» «Тереза і Марія»",
+      "movy": "Українська, англійська",
+      "final_mistse": "3",
+      "final_baly": "453",
+      "pivfinal_mistse": "2",
+      "pivfinal_baly": "173"
+    },
+    {
+      "rik": 2025,
+      "mistse_provedennia": "Базель",
+      "vykonavets": "Ziferblat",
+      "pisnia": "«Bird of Pray» «Молитовна пташка»",
+      "movy": "Англійська, українська",
+      "final_mistse": "9",
+      "final_baly": "218",
+      "pivfinal_mistse": "1",
+      "pivfinal_baly": "137"
+    },
+    {
+      "rik": 2026,
+      "mistse_provedennia": "Відень",
+      "vykonavets": "Leléka",
+      "pisnia": "«Рідним»",
+      "movy": "Англійська, українська",
+      "final_mistse": "9",
+      "final_baly": "221",
+      "pivfinal_mistse": "6",
+      "pivfinal_baly": "174"
+    },
+    {
+      "rik": 2027,
+      "mistse_provedennia": "Бургас",
+      "vykonavets": "",
+      "pisnia": "",
+      "movy": "",
+      "final_mistse": "",
+      "final_baly": "",
+      "pivfinal_mistse": "",
+      "pivfinal_baly": ""
+    }
+  ],
+  "meta": {
+    "title": "Україна на Євробаченні - Free Download",
+    "description": "Пісні України на пісенному конкурсі Євробачення з 2003 року: виконавець, мова, місце й бали у фіналі та півфіналі. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Україна на Євробаченні | ListBase",
+    "seo_description": "Download Україна на Євробаченні — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Україна_на_Євробаченні"
+    ]
+  }
+}
