@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:58.355Z",
-  "total_datasets": 434,
-  "total_records": 470446,
+  "generated": "2026-10-27T02:37:00.925Z",
+  "total_datasets": 435,
+  "total_records": 470518,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -10349,6 +10349,37 @@
         "xlsx": {
           "name": "uk-natsionalnyi-sklad-perepysy-1897-1989_UK.xlsx",
           "size": 8118
+        }
+      }
+    },
+    {
+      "id": "uk-pryrodnyi-rukh-naselennia",
+      "name": "Природний рух населення України з 1950 року",
+      "category": "society",
+      "record_count": 72,
+      "columns": [
+        "rik",
+        "naselennia_tys",
+        "zhyvykh_narodzhen",
+        "smertei",
+        "pryrodnyi_pryrist",
+        "narodzhuvanist_promile",
+        "smertnist_promile",
+        "pryrist_promile",
+        "fertylnist_skn",
+        "ofitsiinykh_abortiv"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Населення_України",
+      "updated": "2026-10",
+      "size": 26144,
+      "files": {
+        "csv": {
+          "name": "uk-pryrodnyi-rukh-naselennia_UK.csv",
+          "size": 5639
+        },
+        "xlsx": {
+          "name": "uk-pryrodnyi-rukh-naselennia_UK.xlsx",
+          "size": 11506
         }
       }
     },
