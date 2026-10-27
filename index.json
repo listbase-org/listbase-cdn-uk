@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:36:37.760Z",
-  "total_datasets": 426,
-  "total_records": 470164,
+  "generated": "2026-10-27T02:36:40.286Z",
+  "total_datasets": 427,
+  "total_records": 470180,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4101,6 +4101,30 @@
         "xlsx": {
           "name": "uk-kozatski-vatazhky-do-1648_UK.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "uk-hovory-ukrainskoi-movy",
+      "name": "Говори української мови",
+      "category": "language",
+      "record_count": 16,
+      "columns": [
+        "nomer_na_mapi",
+        "narichchia",
+        "hovir"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Говори_української_мови",
+      "updated": "2026-10",
+      "size": 3863,
+      "files": {
+        "csv": {
+          "name": "uk-hovory-ukrainskoi-movy_UK.csv",
+          "size": 1096
+        },
+        "xlsx": {
+          "name": "uk-hovory-ukrainskoi-movy_UK.xlsx",
+          "size": 7230
         }
       }
     },

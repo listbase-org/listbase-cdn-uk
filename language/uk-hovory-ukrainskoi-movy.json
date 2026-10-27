@@ -1,0 +1,121 @@
+{
+  "id": "uk-hovory-ukrainskoi-movy",
+  "name": "Говори української мови",
+  "title": "Говори української мови",
+  "description": "Наріччя та говори (діалекти) української мови з номерами на діалектологічній мапі.",
+  "category": "language",
+  "source": "https://uk.wikipedia.org/wiki/Говори_української_мови",
+  "source_url": "https://uk.wikipedia.org/wiki/Говори_української_мови",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nomer_na_mapi",
+      "label": "Nomer Na Mapi",
+      "type": "number"
+    },
+    {
+      "key": "narichchia",
+      "label": "Narichchia",
+      "type": "string"
+    },
+    {
+      "key": "hovir",
+      "label": "Hovir",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer_na_mapi": 1,
+      "narichchia": "Північне",
+      "hovir": "Західнополіський"
+    },
+    {
+      "nomer_na_mapi": 2,
+      "narichchia": "Північне",
+      "hovir": "Середньополіський"
+    },
+    {
+      "nomer_na_mapi": 3,
+      "narichchia": "Північне",
+      "hovir": "Східнополіський"
+    },
+    {
+      "nomer_na_mapi": 4,
+      "narichchia": "Південно-східне",
+      "hovir": "Наддніпрянський"
+    },
+    {
+      "nomer_na_mapi": 5,
+      "narichchia": "Південно-східне",
+      "hovir": "Слобожанський"
+    },
+    {
+      "nomer_na_mapi": 6,
+      "narichchia": "Південно-східне",
+      "hovir": "Степовий"
+    },
+    {
+      "nomer_na_mapi": 7,
+      "narichchia": "Південно-західне",
+      "hovir": "Волинський"
+    },
+    {
+      "nomer_na_mapi": 8,
+      "narichchia": "Південно-західне",
+      "hovir": "Подільський"
+    },
+    {
+      "nomer_na_mapi": 9,
+      "narichchia": "Південно-західне",
+      "hovir": "Наддністрянський"
+    },
+    {
+      "nomer_na_mapi": 10,
+      "narichchia": "Південно-західне",
+      "hovir": "Надсянський"
+    },
+    {
+      "nomer_na_mapi": 11,
+      "narichchia": "Південно-західне",
+      "hovir": "Покутсько-буковинський"
+    },
+    {
+      "nomer_na_mapi": 12,
+      "narichchia": "Південно-західне",
+      "hovir": "Гуцульський"
+    },
+    {
+      "nomer_na_mapi": 13,
+      "narichchia": "Південно-західне",
+      "hovir": "Бойківський"
+    },
+    {
+      "nomer_na_mapi": 14,
+      "narichchia": "Південно-західне",
+      "hovir": "Закарпатський"
+    },
+    {
+      "nomer_na_mapi": "*",
+      "narichchia": "Південно-західне",
+      "hovir": "Лемківський (поза Україною)"
+    },
+    {
+      "nomer_na_mapi": "—",
+      "narichchia": "?",
+      "hovir": "Канадський (поза Україною)"
+    }
+  ],
+  "meta": {
+    "title": "Говори української мови - Free Download",
+    "description": "Наріччя та говори (діалекти) української мови з номерами на діалектологічній мапі. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Говори української мови | ListBase",
+    "seo_description": "Download Говори української мови — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Говори_української_мови"
+    ]
+  }
+}
