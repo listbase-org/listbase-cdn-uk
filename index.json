@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:37:11.114Z",
-  "total_datasets": 439,
-  "total_records": 470599,
+  "generated": "2026-10-27T02:37:13.606Z",
+  "total_datasets": 440,
+  "total_records": 470632,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -4297,6 +4297,34 @@
         "xlsx": {
           "name": "uk-systemy-pysma_UK.xlsx",
           "size": 11357
+        }
+      }
+    },
+    {
+      "id": "uk-ukrainska-abetka",
+      "name": "Українська абетка",
+      "category": "language",
+      "record_count": 33,
+      "columns": [
+        "nomer",
+        "velyka",
+        "mala",
+        "nazva",
+        "mfa",
+        "rozshyrenyi_mfa",
+        "ukrainska_transkryptsiia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українська_абетка",
+      "updated": "2026-10",
+      "size": 8573,
+      "files": {
+        "csv": {
+          "name": "uk-ukrainska-abetka_UK.csv",
+          "size": 1831
+        },
+        "xlsx": {
+          "name": "uk-ukrainska-abetka_UK.xlsx",
+          "size": 8571
         }
       }
     },

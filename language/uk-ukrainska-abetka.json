@@ -1,0 +1,358 @@
+{
+  "id": "uk-ukrainska-abetka",
+  "name": "Українська абетка",
+  "title": "Українська абетка",
+  "description": "33 літери української абетки: велика й мала форми, назва літери та вимова (МФА).",
+  "category": "language",
+  "source": "https://uk.wikipedia.org/wiki/Українська_абетка",
+  "source_url": "https://uk.wikipedia.org/wiki/Українська_абетка",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "velyka",
+      "label": "Velyka",
+      "type": "string"
+    },
+    {
+      "key": "mala",
+      "label": "Mala",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "mfa",
+      "label": "Mfa",
+      "type": "string"
+    },
+    {
+      "key": "rozshyrenyi_mfa",
+      "label": "Rozshyrenyi Mfa",
+      "type": "string"
+    },
+    {
+      "key": "ukrainska_transkryptsiia",
+      "label": "Ukrainska Transkryptsiia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "velyka": "А",
+      "mala": "а",
+      "nazva": "а",
+      "mfa": "/ɑ/",
+      "rozshyrenyi_mfa": "/A/",
+      "ukrainska_transkryptsiia": "а"
+    },
+    {
+      "nomer": 2,
+      "velyka": "Б",
+      "mala": "б",
+      "nazva": "бе",
+      "mfa": "/b/",
+      "rozshyrenyi_mfa": "/b/",
+      "ukrainska_transkryptsiia": "б"
+    },
+    {
+      "nomer": 3,
+      "velyka": "В",
+      "mala": "в",
+      "nazva": "ве",
+      "mfa": "/ʋ/, /w/, /u̯/",
+      "rozshyrenyi_mfa": "/v\\/, /w/",
+      "ukrainska_transkryptsiia": "в, ў"
+    },
+    {
+      "nomer": 4,
+      "velyka": "Г",
+      "mala": "г",
+      "nazva": "ге",
+      "mfa": "/ɦ/",
+      "rozshyrenyi_mfa": "/h\\/",
+      "ukrainska_transkryptsiia": "г"
+    },
+    {
+      "nomer": 5,
+      "velyka": "Ґ",
+      "mala": "ґ",
+      "nazva": "ґе",
+      "mfa": "/g/",
+      "rozshyrenyi_mfa": "/g/",
+      "ukrainska_transkryptsiia": "ґ"
+    },
+    {
+      "nomer": 6,
+      "velyka": "Д",
+      "mala": "д дз дж",
+      "nazva": "де",
+      "mfa": "/d/ /dʲ/ /ʣ/, /ʣʲ/ /ʤ/",
+      "rozshyrenyi_mfa": "/d/ /d_j/ /dz/, /dz_j/ чи /z'/ /dZ/",
+      "ukrainska_transkryptsiia": "д д' ͡дз, ͡дз' ͡дж"
+    },
+    {
+      "nomer": 7,
+      "velyka": "Е",
+      "mala": "е",
+      "nazva": "е",
+      "mfa": "/ɛ/",
+      "rozshyrenyi_mfa": "/E/",
+      "ukrainska_transkryptsiia": "е"
+    },
+    {
+      "nomer": 8,
+      "velyka": "Є",
+      "mala": "є",
+      "nazva": "є",
+      "mfa": "/jɛ/, /ʲɛ/",
+      "rozshyrenyi_mfa": "/jE/, /'E/ чи /_jE/",
+      "ukrainska_transkryptsiia": "йе, 'е"
+    },
+    {
+      "nomer": 9,
+      "velyka": "Ж",
+      "mala": "ж",
+      "nazva": "же",
+      "mfa": "/ʒ/",
+      "rozshyrenyi_mfa": "/Z/",
+      "ukrainska_transkryptsiia": "ж"
+    },
+    {
+      "nomer": 10,
+      "velyka": "З",
+      "mala": "з",
+      "nazva": "зе",
+      "mfa": "/z/, /zʲ/",
+      "rozshyrenyi_mfa": "/z/, /z_j/ чи /z'/",
+      "ukrainska_transkryptsiia": "з, з'"
+    },
+    {
+      "nomer": 11,
+      "velyka": "И",
+      "mala": "и",
+      "nazva": "и",
+      "mfa": "/ɪ/",
+      "rozshyrenyi_mfa": "/I/",
+      "ukrainska_transkryptsiia": "и"
+    },
+    {
+      "nomer": 12,
+      "velyka": "І",
+      "mala": "і",
+      "nazva": "і",
+      "mfa": "/i/",
+      "rozshyrenyi_mfa": "/i/",
+      "ukrainska_transkryptsiia": "і"
+    },
+    {
+      "nomer": 13,
+      "velyka": "Ї",
+      "mala": "ї",
+      "nazva": "ї",
+      "mfa": "/ji/",
+      "rozshyrenyi_mfa": "/ji/",
+      "ukrainska_transkryptsiia": "йі"
+    },
+    {
+      "nomer": 14,
+      "velyka": "Й",
+      "mala": "й",
+      "nazva": "ій, йот",
+      "mfa": "/j/",
+      "rozshyrenyi_mfa": "/j/",
+      "ukrainska_transkryptsiia": "й, ĭ"
+    },
+    {
+      "nomer": 15,
+      "velyka": "К",
+      "mala": "к",
+      "nazva": "ка",
+      "mfa": "/k/",
+      "rozshyrenyi_mfa": "/k/",
+      "ukrainska_transkryptsiia": "к"
+    },
+    {
+      "nomer": 16,
+      "velyka": "Л",
+      "mala": "л",
+      "nazva": "ел",
+      "mfa": "/l/, /lʲ/",
+      "rozshyrenyi_mfa": "/l/, /l_j/ чи /l'/",
+      "ukrainska_transkryptsiia": "л, л'"
+    },
+    {
+      "nomer": 17,
+      "velyka": "М",
+      "mala": "м",
+      "nazva": "ем",
+      "mfa": "/m/",
+      "rozshyrenyi_mfa": "/m/",
+      "ukrainska_transkryptsiia": "м"
+    },
+    {
+      "nomer": 18,
+      "velyka": "Н",
+      "mala": "н",
+      "nazva": "ен",
+      "mfa": "/n/, /nʲ/",
+      "rozshyrenyi_mfa": "/n/, /n_j/ чи /n'/",
+      "ukrainska_transkryptsiia": "н, н'"
+    },
+    {
+      "nomer": 19,
+      "velyka": "О",
+      "mala": "о",
+      "nazva": "о",
+      "mfa": "/ɔ/",
+      "rozshyrenyi_mfa": "/O/",
+      "ukrainska_transkryptsiia": "о"
+    },
+    {
+      "nomer": 20,
+      "velyka": "П",
+      "mala": "п",
+      "nazva": "пе",
+      "mfa": "/p/",
+      "rozshyrenyi_mfa": "/p/",
+      "ukrainska_transkryptsiia": "п"
+    },
+    {
+      "nomer": 21,
+      "velyka": "Р",
+      "mala": "р",
+      "nazva": "ер",
+      "mfa": "/r/, /rʲ/",
+      "rozshyrenyi_mfa": "/r/, /r_j/ чи /r'/",
+      "ukrainska_transkryptsiia": "р, р'"
+    },
+    {
+      "nomer": 22,
+      "velyka": "С",
+      "mala": "с",
+      "nazva": "ес",
+      "mfa": "/s/, /sʲ/",
+      "rozshyrenyi_mfa": "/s/, /s_j/ чи /s'/",
+      "ukrainska_transkryptsiia": "с, с'"
+    },
+    {
+      "nomer": 23,
+      "velyka": "Т",
+      "mala": "т",
+      "nazva": "те",
+      "mfa": "/t/, /tʲ/",
+      "rozshyrenyi_mfa": "/t/, /t_j/ чи /t'/",
+      "ukrainska_transkryptsiia": "т, т'"
+    },
+    {
+      "nomer": 24,
+      "velyka": "У",
+      "mala": "у",
+      "nazva": "у",
+      "mfa": "/u/",
+      "rozshyrenyi_mfa": "/u/",
+      "ukrainska_transkryptsiia": "у"
+    },
+    {
+      "nomer": 25,
+      "velyka": "Ф",
+      "mala": "ф",
+      "nazva": "еф",
+      "mfa": "/f/",
+      "rozshyrenyi_mfa": "/f/",
+      "ukrainska_transkryptsiia": "ф"
+    },
+    {
+      "nomer": 26,
+      "velyka": "Х",
+      "mala": "х",
+      "nazva": "ха",
+      "mfa": "/x/",
+      "rozshyrenyi_mfa": "/x/",
+      "ukrainska_transkryptsiia": "х"
+    },
+    {
+      "nomer": 27,
+      "velyka": "Ц",
+      "mala": "ц",
+      "nazva": "це",
+      "mfa": "/ʦ/, /ʦʲ/",
+      "rozshyrenyi_mfa": "/ts/, /ts_j/ або /ts'/",
+      "ukrainska_transkryptsiia": "ц, ц'"
+    },
+    {
+      "nomer": 28,
+      "velyka": "Ч",
+      "mala": "ч",
+      "nazva": "че",
+      "mfa": "/ʧ/",
+      "rozshyrenyi_mfa": "/tS/",
+      "ukrainska_transkryptsiia": "ч"
+    },
+    {
+      "nomer": 29,
+      "velyka": "Ш",
+      "mala": "ш",
+      "nazva": "ша",
+      "mfa": "/ʃ/",
+      "rozshyrenyi_mfa": "/S/",
+      "ukrainska_transkryptsiia": "ш"
+    },
+    {
+      "nomer": 30,
+      "velyka": "Щ",
+      "mala": "щ",
+      "nazva": "ща",
+      "mfa": "/ʃʧ/",
+      "rozshyrenyi_mfa": "/StS/",
+      "ukrainska_transkryptsiia": "шч"
+    },
+    {
+      "nomer": 31,
+      "velyka": "Ь",
+      "mala": "ь",
+      "nazva": "м'який знак",
+      "mfa": "/ʲ/",
+      "rozshyrenyi_mfa": "/'/ чи /_j/",
+      "ukrainska_transkryptsiia": "'"
+    },
+    {
+      "nomer": 32,
+      "velyka": "Ю",
+      "mala": "ю",
+      "nazva": "ю",
+      "mfa": "/ju/, /ʲu/",
+      "rozshyrenyi_mfa": "/ju/, /'u/ чи /_ju/",
+      "ukrainska_transkryptsiia": "йу, 'у"
+    },
+    {
+      "nomer": 33,
+      "velyka": "Я",
+      "mala": "я",
+      "nazva": "я",
+      "mfa": "/ja/, /ʲa/",
+      "rozshyrenyi_mfa": "/ja/, /'a/ чи /_ja/",
+      "ukrainska_transkryptsiia": "йа, 'а"
+    }
+  ],
+  "meta": {
+    "title": "Українська абетка - Free Download",
+    "description": "33 літери української абетки: велика й мала форми, назва літери та вимова (МФА). Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Українська абетка | ListBase",
+    "seo_description": "Download Українська абетка — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Українська_абетка"
+    ]
+  }
+}
