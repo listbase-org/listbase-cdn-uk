@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-27T02:37:00.925Z",
-  "total_datasets": 435,
-  "total_records": 470518,
+  "generated": "2026-10-27T02:37:03.424Z",
+  "total_datasets": 436,
+  "total_records": 470525,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -10934,6 +10934,30 @@
         "xlsx": {
           "name": "uk-hoteli_UK.xlsx",
           "size": 15300
+        }
+      }
+    },
+    {
+      "id": "uk-sim-chudes-ukrainy",
+      "name": "Сім чудес України",
+      "category": "tourism",
+      "record_count": 7,
+      "columns": [
+        "nomer",
+        "nazva",
+        "roztashuvannia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Сім_чудес_України",
+      "updated": "2026-10",
+      "size": 2379,
+      "files": {
+        "csv": {
+          "name": "uk-sim-chudes-ukrainy_UK.csv",
+          "size": 432
+        },
+        "xlsx": {
+          "name": "uk-sim-chudes-ukrainy_UK.xlsx",
+          "size": 7023
         }
       }
     },

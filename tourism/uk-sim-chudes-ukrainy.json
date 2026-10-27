@@ -1,0 +1,76 @@
+{
+  "id": "uk-sim-chudes-ukrainy",
+  "name": "Сім чудес України",
+  "title": "Сім чудес України",
+  "description": "Переможці всеукраїнської акції «Сім чудес України» та їх розташування.",
+  "category": "tourism",
+  "source": "https://uk.wikipedia.org/wiki/Сім_чудес_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Сім_чудес_України",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "roztashuvannia",
+      "label": "Roztashuvannia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "nazva": "Заповідник «Кам'янець»",
+      "roztashuvannia": "Кам'янець-Подільський"
+    },
+    {
+      "nomer": 2,
+      "nazva": "Києво-Печерська Лавра",
+      "roztashuvannia": "Київ"
+    },
+    {
+      "nomer": 3,
+      "nazva": "Софіївка",
+      "roztashuvannia": "Умань"
+    },
+    {
+      "nomer": 4,
+      "nazva": "Софія Київська",
+      "roztashuvannia": "Київ"
+    },
+    {
+      "nomer": 5,
+      "nazva": "Херсонес Таврійський",
+      "roztashuvannia": "Севастополь"
+    },
+    {
+      "nomer": 6,
+      "nazva": "Хотинська фортеця",
+      "roztashuvannia": "Хотин"
+    },
+    {
+      "nomer": 7,
+      "nazva": "Хортиця",
+      "roztashuvannia": "Запоріжжя"
+    }
+  ],
+  "meta": {
+    "title": "Сім чудес України - Free Download",
+    "description": "Переможці всеукраїнської акції «Сім чудес України» та їх розташування. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Сім чудес України | ListBase",
+    "seo_description": "Download Сім чудес України — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Сім_чудес_України"
+    ]
+  }
+}
