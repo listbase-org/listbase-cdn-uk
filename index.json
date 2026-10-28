@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-28T02:23:48.639Z",
-  "total_datasets": 442,
-  "total_records": 470708,
+  "generated": "2026-10-28T02:23:51.064Z",
+  "total_datasets": 443,
+  "total_records": 470849,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4226,6 +4226,30 @@
         "xlsx": {
           "name": "uk-koatuu_UK.xlsx",
           "size": 2976927
+        }
+      }
+    },
+    {
+      "id": "uk-koshovi-otamany",
+      "name": "Кошові отамани Запорозької Січі",
+      "category": "history",
+      "record_count": 141,
+      "columns": [
+        "roky",
+        "imia",
+        "posada"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українські_гетьмани_і_кошові_отамани",
+      "updated": "2026-10",
+      "size": 20567,
+      "files": {
+        "csv": {
+          "name": "uk-koshovi-otamany_UK.csv",
+          "size": 10472
+        },
+        "xlsx": {
+          "name": "uk-koshovi-otamany_UK.xlsx",
+          "size": 10807
         }
       }
     },
