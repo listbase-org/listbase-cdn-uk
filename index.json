@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-28T02:23:44.998Z",
-  "total_datasets": 441,
-  "total_records": 470655,
+  "generated": "2026-10-28T02:23:48.639Z",
+  "total_datasets": 442,
+  "total_records": 470708,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -4141,6 +4141,31 @@
         "xlsx": {
           "name": "uk-likarni_UK.xlsx",
           "size": 14702
+        }
+      }
+    },
+    {
+      "id": "uk-ministry-okhorony-zdorovia",
+      "name": "Міністри охорони здоров'я України",
+      "category": "health",
+      "record_count": 53,
+      "columns": [
+        "period",
+        "nomer",
+        "chas_povnovazhen",
+        "imia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_міністрів_охорони_здоров'я_України",
+      "updated": "2026-10",
+      "size": 16052,
+      "files": {
+        "csv": {
+          "name": "uk-ministry-okhorony-zdorovia_UK.csv",
+          "size": 9533
+        },
+        "xlsx": {
+          "name": "uk-ministry-okhorony-zdorovia_UK.xlsx",
+          "size": 9450
         }
       }
     },
