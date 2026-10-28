@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-28T02:23:51.064Z",
-  "total_datasets": 443,
-  "total_records": 470849,
+  "generated": "2026-10-28T02:23:53.625Z",
+  "total_datasets": 444,
+  "total_records": 470884,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -10596,6 +10596,32 @@
         "xlsx": {
           "name": "uk-chempiony-ukrainy-z-futbolu_UK.xlsx",
           "size": 9322
+        }
+      }
+    },
+    {
+      "id": "uk-kubok-ukrainy-finaly",
+      "name": "Фінали Кубка України з футболу",
+      "category": "sports",
+      "record_count": 35,
+      "columns": [
+        "sezon",
+        "data_mistse_hliadachi",
+        "peremozhets",
+        "rakhunok",
+        "finalist"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Кубок_України_з_футболу",
+      "updated": "2026-10",
+      "size": 13215,
+      "files": {
+        "csv": {
+          "name": "uk-kubok-ukrainy-finaly_UK.csv",
+          "size": 7088
+        },
+        "xlsx": {
+          "name": "uk-kubok-ukrainy-finaly_UK.xlsx",
+          "size": 8980
         }
       }
     },
