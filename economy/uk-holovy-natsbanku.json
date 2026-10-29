@@ -1,0 +1,130 @@
+{
+  "id": "uk-holovy-natsbanku",
+  "name": "Голови Національного банку України",
+  "title": "Голови Національного банку України",
+  "description": "Список голів Національного банку України з 1991 року з часом перебування на посаді та роками життя.",
+  "category": "economy",
+  "source": "https://uk.wikipedia.org/wiki/Список_голів_Національного_банку_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_голів_Національного_банку_України",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "holova",
+      "label": "Holova",
+      "type": "string"
+    },
+    {
+      "key": "chas_na_posadi",
+      "label": "Chas Na Posadi",
+      "type": "string"
+    },
+    {
+      "key": "roky_zhyttia",
+      "label": "Roky Zhyttia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "holova": "Матвієнко Володимир Павлович",
+      "chas_na_posadi": "6 червня 1991 — 24 березня 1992",
+      "roky_zhyttia": "нар. 1938"
+    },
+    {
+      "nomer": 2,
+      "holova": "Гетьман Вадим Петрович",
+      "chas_na_posadi": "24 березня 1992 — 18 грудня 1992",
+      "roky_zhyttia": "1935 — 1998"
+    },
+    {
+      "nomer": 3,
+      "holova": "Ющенко Віктор Андрійович",
+      "chas_na_posadi": "26 січня 1993 — 27 січня 1997",
+      "roky_zhyttia": "нар. 1954"
+    },
+    {
+      "nomer": 3,
+      "holova": "Ющенко Віктор Андрійович",
+      "chas_na_posadi": "5 лютого 1997 — 11 січня 2000",
+      "roky_zhyttia": "нар. 1954"
+    },
+    {
+      "nomer": 4,
+      "holova": "Стельмах Володимир Семенович",
+      "chas_na_posadi": "21 січня 2000 — 17 грудня 2002",
+      "roky_zhyttia": "нар. 1939"
+    },
+    {
+      "nomer": 5,
+      "holova": "Тігіпко Сергій Леонідович",
+      "chas_na_posadi": "17 грудня 2002 — 16 грудня 2004",
+      "roky_zhyttia": "нар. 1960"
+    },
+    {
+      "nomer": 6,
+      "holova": "Стельмах Володимир Семенович",
+      "chas_na_posadi": "16 грудня 2004 — 23 грудня 2010",
+      "roky_zhyttia": "нар. 1939"
+    },
+    {
+      "nomer": 7,
+      "holova": "Арбузов Сергій Геннадійович",
+      "chas_na_posadi": "23 грудня 2010 — 11 січня 2013",
+      "roky_zhyttia": "нар. 1976"
+    },
+    {
+      "nomer": 8,
+      "holova": "Соркін Ігор В'ячеславович",
+      "chas_na_posadi": "11 січня 2013 — 24 лютого 2014",
+      "roky_zhyttia": "нар. 1967"
+    },
+    {
+      "nomer": 9,
+      "holova": "Кубів Степан Іванович",
+      "chas_na_posadi": "24 лютого 2014 — 19 червня 2014",
+      "roky_zhyttia": "нар. 1962"
+    },
+    {
+      "nomer": 10,
+      "holova": "Гонтарева Валерія Олексіївна",
+      "chas_na_posadi": "19 червня 2014 — 15 березня 2018",
+      "roky_zhyttia": "нар. 1964"
+    },
+    {
+      "nomer": 11,
+      "holova": "Смолій Яків Васильович",
+      "chas_na_posadi": "15 березня 2018 — 3 липня 2020",
+      "roky_zhyttia": "нар. 1961"
+    },
+    {
+      "nomer": 12,
+      "holova": "Шевченко Кирило Євгенович",
+      "chas_na_posadi": "16 липня 2020 — 6 жовтня 2022",
+      "roky_zhyttia": "нар. 1972"
+    },
+    {
+      "nomer": 13,
+      "holova": "Пишний Андрій Григорович",
+      "chas_na_posadi": "7 жовтня 2022 — до т.ч.",
+      "roky_zhyttia": "нар. 1974"
+    }
+  ],
+  "meta": {
+    "title": "Голови Національного банку України - Free Download",
+    "description": "Список голів Національного банку України з 1991 року з часом перебування на посаді та роками життя. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Голови Національного банку України | ListBase",
+    "seo_description": "Download Голови Національного банку України — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_голів_Національного_банку_України"
+    ]
+  }
+}

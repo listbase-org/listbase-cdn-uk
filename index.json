@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-28T02:23:53.625Z",
-  "total_datasets": 444,
-  "total_records": 470884,
+  "generated": "2026-10-29T02:18:33.145Z",
+  "total_datasets": 445,
+  "total_records": 470898,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -533,6 +533,31 @@
         "xlsx": {
           "name": "uk-ekonomichni-pokaznyky-vvp_UK.xlsx",
           "size": 8904
+        }
+      }
+    },
+    {
+      "id": "uk-holovy-natsbanku",
+      "name": "Голови Національного банку України",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "nomer",
+        "holova",
+        "chas_na_posadi",
+        "roky_zhyttia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_голів_Національного_банку_України",
+      "updated": "2026-10",
+      "size": 4914,
+      "files": {
+        "csv": {
+          "name": "uk-holovy-natsbanku_UK.csv",
+          "size": 1687
+        },
+        "xlsx": {
+          "name": "uk-holovy-natsbanku_UK.xlsx",
+          "size": 7615
         }
       }
     },
