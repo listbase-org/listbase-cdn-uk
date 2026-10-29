@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-29T02:18:38.338Z",
-  "total_datasets": 447,
-  "total_records": 470949,
+  "generated": "2026-10-29T02:18:40.844Z",
+  "total_datasets": 448,
+  "total_records": 470983,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -10615,6 +10615,31 @@
         "xlsx": {
           "name": "uk-pryrodnyi-rukh-naselennia_UK.xlsx",
           "size": 11506
+        }
+      }
+    },
+    {
+      "id": "uk-chempiony-ukrainy-z-basketbolu",
+      "name": "Чемпіони та призери чемпіонату України з баскетболу",
+      "category": "sports",
+      "record_count": 34,
+      "columns": [
+        "rik",
+        "zoloto",
+        "sriblo",
+        "bronza"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українська_баскетбольна_суперліга",
+      "updated": "2026-10",
+      "size": 8638,
+      "files": {
+        "csv": {
+          "name": "uk-chempiony-ukrainy-z-basketbolu_UK.csv",
+          "size": 3879
+        },
+        "xlsx": {
+          "name": "uk-chempiony-ukrainy-z-basketbolu_UK.xlsx",
+          "size": 8041
         }
       }
     },
