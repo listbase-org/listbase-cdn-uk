@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-29T02:18:43.336Z",
-  "total_datasets": 449,
-  "total_records": 471049,
+  "generated": "2026-10-29T02:18:45.827Z",
+  "total_datasets": 450,
+  "total_records": 471067,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 42
+      "dataset_count": 43
     },
     {
       "id": "health",
@@ -3487,6 +3487,32 @@
         "xlsx": {
           "name": "uk-mysy_UK.xlsx",
           "size": 10253
+        }
+      }
+    },
+    {
+      "id": "uk-naivyshchi-vershyny",
+      "name": "Найвищі гірські вершини України",
+      "category": "geography",
+      "record_count": 18,
+      "columns": [
+        "nazva",
+        "vysota_m",
+        "hirska_systema",
+        "khrebet",
+        "rehion"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Гірські_вершини_України",
+      "updated": "2026-10",
+      "size": 6218,
+      "files": {
+        "csv": {
+          "name": "uk-naivyshchi-vershyny_UK.csv",
+          "size": 2478
+        },
+        "xlsx": {
+          "name": "uk-naivyshchi-vershyny_UK.xlsx",
+          "size": 7638
         }
       }
     },

@@ -1,0 +1,177 @@
+{
+  "id": "uk-naivyshchi-vershyny",
+  "name": "Найвищі гірські вершини України",
+  "title": "Найвищі гірські вершини України",
+  "description": "Найвищі вершини Українських Карпат і Кримських гір з висотою, хребтом та регіоном.",
+  "category": "geography",
+  "source": "https://uk.wikipedia.org/wiki/Гірські_вершини_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Гірські_вершини_України",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "vysota_m",
+      "label": "Vysota M",
+      "type": "number"
+    },
+    {
+      "key": "hirska_systema",
+      "label": "Hirska Systema",
+      "type": "string"
+    },
+    {
+      "key": "khrebet",
+      "label": "Khrebet",
+      "type": "string"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Говерла",
+      "vysota_m": 2061,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Бребенескул",
+      "vysota_m": 2035,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Піп Іван Чорногірський",
+      "vysota_m": 2021,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Петрос",
+      "vysota_m": 2020,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора (доволі окрема гора)",
+      "rehion": "Закарпатська область"
+    },
+    {
+      "nazva": "Гутин Томнатик",
+      "vysota_m": 2016,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська область"
+    },
+    {
+      "nazva": "Ребра",
+      "vysota_m": 2001,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Менчул",
+      "vysota_m": 1998,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Піп Іван Мармароський",
+      "vysota_m": 1936,
+      "hirska_systema": "Карпати",
+      "khrebet": "Мармароський масив",
+      "rehion": "Закарпатська область"
+    },
+    {
+      "nazva": "Туркул",
+      "vysota_m": 1933,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Брескул",
+      "vysota_m": 1911,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Закарпатська та Івано-Франківська області"
+    },
+    {
+      "nazva": "Смотрич",
+      "vysota_m": 1898,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Івано-Франківська область"
+    },
+    {
+      "nazva": "Шпиці",
+      "vysota_m": 1883,
+      "hirska_systema": "Карпати",
+      "khrebet": "Чорногора",
+      "rehion": "Івано-Франківська область"
+    },
+    {
+      "nazva": "Близниця",
+      "vysota_m": 1882,
+      "hirska_systema": "Карпати",
+      "khrebet": "Свидовець",
+      "rehion": "Закарпатська область"
+    },
+    {
+      "nazva": "Роман-Кош",
+      "vysota_m": 1545,
+      "hirska_systema": "Кримські гори",
+      "khrebet": "Бабуган-яйла",
+      "rehion": "Алуштинська та Ялтинська міськради"
+    },
+    {
+      "nazva": "Демір-Капу",
+      "vysota_m": 1540,
+      "hirska_systema": "Кримські гори",
+      "khrebet": "Нікітська яйла",
+      "rehion": "Ялтинська міськрада"
+    },
+    {
+      "nazva": "Зейтін-Кош",
+      "vysota_m": 1537,
+      "hirska_systema": "Кримські гори",
+      "khrebet": "Бабуган-яйла",
+      "rehion": "Алуштинська міськрада"
+    },
+    {
+      "nazva": "Кемаль-Егерек",
+      "vysota_m": 1529,
+      "hirska_systema": "Кримські гори",
+      "khrebet": "Нікітська яйла",
+      "rehion": "Ялтинська міськрада"
+    },
+    {
+      "nazva": "Еклізі-Бурун",
+      "vysota_m": 1527,
+      "hirska_systema": "Кримські гори",
+      "khrebet": "Чатир-Даг",
+      "rehion": "Алуштинська міськрада"
+    }
+  ],
+  "meta": {
+    "title": "Найвищі гірські вершини України - Free Download",
+    "description": "Найвищі вершини Українських Карпат і Кримських гір з висотою, хребтом та регіоном. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найвищі гірські вершини України | ListBase",
+    "seo_description": "Download Найвищі гірські вершини України — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Гірські_вершини_України"
+    ]
+  }
+}
