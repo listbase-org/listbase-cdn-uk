@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-29T02:18:33.145Z",
-  "total_datasets": 445,
-  "total_records": 470898,
+  "generated": "2026-10-29T02:18:35.888Z",
+  "total_datasets": 446,
+  "total_records": 470915,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -1731,6 +1731,32 @@
         "xlsx": {
           "name": "uk-zhytomyrska-zaklady-serednoyi-osvity_UK.xlsx",
           "size": 122028
+        }
+      }
+    },
+    {
+      "id": "uk-filmy-vysunuti-na-oskar",
+      "name": "Українські фільми, висунуті на «Оскар»",
+      "category": "entertainment",
+      "record_count": 17,
+      "columns": [
+        "rik_tseremoniia",
+        "film",
+        "rezhyser",
+        "mova",
+        "rezultat"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_претендентів_на_премію_«Оскар»_за_найкращий_міжнародний_повнометражний_фільм_від_України",
+      "updated": "2026-10",
+      "size": 7609,
+      "files": {
+        "csv": {
+          "name": "uk-filmy-vysunuti-na-oskar_UK.csv",
+          "size": 3327
+        },
+        "xlsx": {
+          "name": "uk-filmy-vysunuti-na-oskar_UK.xlsx",
+          "size": 8119
         }
       }
     },
