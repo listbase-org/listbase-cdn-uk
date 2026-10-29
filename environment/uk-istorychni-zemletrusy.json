@@ -1,0 +1,442 @@
+{
+  "id": "uk-istorychni-zemletrusy",
+  "name": "Історичні землетруси в Україні",
+  "title": "Історичні землетруси в Україні",
+  "description": "Перелік відчутних історичних землетрусів на території України від античності до сучасності: дата, час, місця та найбільший прояв інтенсивності.",
+  "category": "environment",
+  "source": "https://uk.wikipedia.org/wiki/Сейсмічність_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Сейсмічність_України",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "chas",
+      "label": "Chas",
+      "type": "string"
+    },
+    {
+      "key": "mistsia",
+      "label": "Mistsia",
+      "type": "string"
+    },
+    {
+      "key": "intensyvnist",
+      "label": "Intensyvnist",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "4 ст. до н. е.",
+      "chas": "",
+      "mistsia": "Керченська протока",
+      "intensyvnist": "Сильна руйнація"
+    },
+    {
+      "data": "480 рік",
+      "chas": "Осінь",
+      "mistsia": "місто Херсонес та увесь Крим",
+      "intensyvnist": "Сильна руйнація"
+    },
+    {
+      "data": "1292 рік",
+      "chas": "Січень",
+      "mistsia": "Судак",
+      "intensyvnist": "-"
+    },
+    {
+      "data": "1341 рік",
+      "chas": "",
+      "mistsia": "Крим",
+      "intensyvnist": "Руйнація"
+    },
+    {
+      "data": "1471 рік",
+      "chas": "Серпень",
+      "mistsia": "Ялта",
+      "intensyvnist": "Слабка"
+    },
+    {
+      "data": "1751 рік",
+      "chas": "",
+      "mistsia": "Кючюк-Ламбат",
+      "intensyvnist": "Слабка"
+    },
+    {
+      "data": "1786 рік",
+      "chas": "Березень",
+      "mistsia": "Кючюк-Ламбат",
+      "intensyvnist": "Слабка"
+    },
+    {
+      "data": "1793 рік",
+      "chas": "Листопад",
+      "mistsia": "Крим",
+      "intensyvnist": "5-6 балів"
+    },
+    {
+      "data": "1802 рік",
+      "chas": "Жовтень",
+      "mistsia": "Севастополь й інші місця",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1815 рік",
+      "chas": "Травень",
+      "mistsia": "село Аргин ( Білогірськ )",
+      "intensyvnist": "3-5 балів"
+    },
+    {
+      "data": "1823 рік",
+      "chas": "Грудень",
+      "mistsia": "Крим",
+      "intensyvnist": "-"
+    },
+    {
+      "data": "1827 рік",
+      "chas": "Січень",
+      "mistsia": "Крим",
+      "intensyvnist": "-"
+    },
+    {
+      "data": "1829 рік",
+      "chas": "Листопад",
+      "mistsia": "Одеса",
+      "intensyvnist": "~6 балів"
+    },
+    {
+      "data": "1832 рік",
+      "chas": "Січень",
+      "mistsia": "Алушта й інші місця",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1853 рік",
+      "chas": "",
+      "mistsia": "Севастополь, Євпаторія",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1855 рік",
+      "chas": "",
+      "mistsia": "Південний берег, Сімферополь",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1859 рік",
+      "chas": "",
+      "mistsia": "Південний берег, Лівадія",
+      "intensyvnist": "3-4 балів"
+    },
+    {
+      "data": "1861 рік",
+      "chas": "",
+      "mistsia": "Севастополь, Балаклава",
+      "intensyvnist": "4-5 балів"
+    },
+    {
+      "data": "1863 рік",
+      "chas": "",
+      "mistsia": "Ялта й Південний берег",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1869 рік",
+      "chas": "",
+      "mistsia": "Масандра та Південний берег",
+      "intensyvnist": "4-5 балів"
+    },
+    {
+      "data": "1869 рік",
+      "chas": "",
+      "mistsia": "Судак та весь Крим",
+      "intensyvnist": "7 балів"
+    },
+    {
+      "data": "1872 рік",
+      "chas": "",
+      "mistsia": "Ялта, Південний берег, Бахчисарай",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1872 рік",
+      "chas": "",
+      "mistsia": "Феодосія та інші місця",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Алушта та інші місця",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Севастополь та весь Крим",
+      "intensyvnist": "7 балів"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Алушта, Південний берег, Сімферополь",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Алушта та Південний берег",
+      "intensyvnist": "3 бали"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Феодосія та інші місця Криму",
+      "intensyvnist": "4-5 бали"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Феодосія та інші місця",
+      "intensyvnist": "7 балів"
+    },
+    {
+      "data": "1875 рік",
+      "chas": "",
+      "mistsia": "Феодосія",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1881 рік",
+      "chas": "",
+      "mistsia": "Севастополь та долина річки Кача",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1885 рік",
+      "chas": "",
+      "mistsia": "Севастополь",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1886 рік",
+      "chas": "",
+      "mistsia": "Алушта, Гурзуф",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1888 рік",
+      "chas": "",
+      "mistsia": "Судак",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1890 рік",
+      "chas": "",
+      "mistsia": "Бахчисарай",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1892 рік",
+      "chas": "",
+      "mistsia": "Ялта, Південний берег, Сімферополь",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1892 рік",
+      "chas": "",
+      "mistsia": "Алушта, Сімферополь",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1893 рік",
+      "chas": "",
+      "mistsia": "Гурзуф, Сімферополь",
+      "intensyvnist": "4-5 балів"
+    },
+    {
+      "data": "1893 рік",
+      "chas": "",
+      "mistsia": "Гурзуф, Сімферополь",
+      "intensyvnist": "4-5 балів"
+    },
+    {
+      "data": "1897 рік",
+      "chas": "",
+      "mistsia": "Сімферополь",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1897 рік",
+      "chas": "",
+      "mistsia": "Бахчисарай",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1897 рік",
+      "chas": "",
+      "mistsia": "Феодосія, Ялта",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1899 рік",
+      "chas": "",
+      "mistsia": "Гурзуф, Алушта, Сімферополь",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1900 рік",
+      "chas": "",
+      "mistsia": "Феодосія, Алушта",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1900 рік",
+      "chas": "",
+      "mistsia": "Алушта, Партеніт й інші місця",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1902 рік",
+      "chas": "",
+      "mistsia": "Феодосія, Білогірськ, Сімферополь",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1903 рік",
+      "chas": "",
+      "mistsia": "Ялта, Алушта, Сімферополь",
+      "intensyvnist": "4-5 балів"
+    },
+    {
+      "data": "1903 рік",
+      "chas": "",
+      "mistsia": "Алушта, Гурзуф, Ялта, Сімферополь",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1906 рік",
+      "chas": "",
+      "mistsia": "Алушта, Ялта",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1907 рік",
+      "chas": "",
+      "mistsia": "Алушта, Малоріченське",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1907 рік",
+      "chas": "",
+      "mistsia": "Ялта, Алушта",
+      "intensyvnist": "4-5 бали"
+    },
+    {
+      "data": "1908 рік",
+      "chas": "",
+      "mistsia": "Алушта, Ялта",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1908 рік",
+      "chas": "",
+      "mistsia": "Ялта, Сімферополь",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1908 рік",
+      "chas": "",
+      "mistsia": "Ялта, Південний берег й інші (до Джанкоя)",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1908 рік",
+      "chas": "",
+      "mistsia": "Судак",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1910 рік",
+      "chas": "",
+      "mistsia": "Ялта, Гурзуф, Алушта, Бахчисарай",
+      "intensyvnist": "5 балів"
+    },
+    {
+      "data": "1912 рік",
+      "chas": "",
+      "mistsia": "Ялта, Алушта тощо",
+      "intensyvnist": "4 бали"
+    },
+    {
+      "data": "1913 рік",
+      "chas": "",
+      "mistsia": "Алушта, Сімферополь",
+      "intensyvnist": ""
+    },
+    {
+      "data": "1914 рік",
+      "chas": "",
+      "mistsia": "Алушта",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1918 рік",
+      "chas": "",
+      "mistsia": "Алушта, Ялта, Сімферополь",
+      "intensyvnist": "3-4 бали"
+    },
+    {
+      "data": "1919 рік",
+      "chas": "",
+      "mistsia": "Феодосія, Південний берег",
+      "intensyvnist": "6 балів"
+    },
+    {
+      "data": "1920 рік",
+      "chas": "",
+      "mistsia": "Кара-Даг",
+      "intensyvnist": ""
+    },
+    {
+      "data": "1923 рік",
+      "chas": "",
+      "mistsia": "Судак, Білогірськ, Сімферополь",
+      "intensyvnist": "7 балів"
+    },
+    {
+      "data": "1923 рік",
+      "chas": "",
+      "mistsia": "Алушта",
+      "intensyvnist": "3 бали"
+    },
+    {
+      "data": "1923 рік",
+      "chas": "",
+      "mistsia": "Бахчисарай, Сімферополь",
+      "intensyvnist": "3 бали"
+    },
+    {
+      "data": "1924 рік",
+      "chas": "",
+      "mistsia": "Алушта, Сімферополь",
+      "intensyvnist": "3 бали"
+    }
+  ],
+  "meta": {
+    "title": "Історичні землетруси в Україні - Free Download",
+    "description": "Перелік відчутних історичних землетрусів на території України від античності до сучасності: дата, час, місця та найбільший прояв інтенсивності. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Історичні землетруси в Україні | ListBase",
+    "seo_description": "Download Історичні землетруси в Україні — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Сейсмічність_України"
+    ]
+  }
+}
