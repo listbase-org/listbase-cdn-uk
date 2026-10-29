@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-29T02:18:35.888Z",
-  "total_datasets": 446,
-  "total_records": 470915,
+  "generated": "2026-10-29T02:18:38.338Z",
+  "total_datasets": 447,
+  "total_records": 470949,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -10647,6 +10647,31 @@
         "xlsx": {
           "name": "uk-chempiony-ukrainy-z-futbolu_UK.xlsx",
           "size": 9322
+        }
+      }
+    },
+    {
+      "id": "uk-chempiony-ukrainy-z-khokeiu",
+      "name": "Чемпіони та призери чемпіонату України з хокею",
+      "category": "sports",
+      "record_count": 34,
+      "columns": [
+        "sezon",
+        "chempion",
+        "sribnyi_pryzer",
+        "bronzovyi_pryzer"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Чемпіонат_України_з_хокею",
+      "updated": "2026-10",
+      "size": 9354,
+      "files": {
+        "csv": {
+          "name": "uk-chempiony-ukrainy-z-khokeiu_UK.csv",
+          "size": 4007
+        },
+        "xlsx": {
+          "name": "uk-chempiony-ukrainy-z-khokeiu_UK.xlsx",
+          "size": 8115
         }
       }
     },

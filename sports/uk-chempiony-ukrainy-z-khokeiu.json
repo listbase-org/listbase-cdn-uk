@@ -1,0 +1,250 @@
+{
+  "id": "uk-chempiony-ukrainy-z-khokeiu",
+  "name": "Чемпіони та призери чемпіонату України з хокею",
+  "title": "Чемпіони та призери чемпіонату України з хокею",
+  "description": "Чемпіони, срібні та бронзові призери чемпіонату України з хокею із шайбою за сезонами з 1993 року.",
+  "category": "sports",
+  "source": "https://uk.wikipedia.org/wiki/Чемпіонат_України_з_хокею",
+  "source_url": "https://uk.wikipedia.org/wiki/Чемпіонат_України_з_хокею",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "number"
+    },
+    {
+      "key": "chempion",
+      "label": "Chempion",
+      "type": "string"
+    },
+    {
+      "key": "sribnyi_pryzer",
+      "label": "Sribnyi Pryzer",
+      "type": "string"
+    },
+    {
+      "key": "bronzovyi_pryzer",
+      "label": "Bronzovyi Pryzer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "1993",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "ШВСМ (Київ)",
+      "bronzovyi_pryzer": "«Юпітер» ( Харків )"
+    },
+    {
+      "sezon": "1994",
+      "chempion": "ШВСМ (Київ)",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "СДЮШОР «Сокіл» ( Київ )"
+    },
+    {
+      "sezon": "1995",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«АТЕК» (Київ)",
+      "bronzovyi_pryzer": "ШВСМ (Київ)"
+    },
+    {
+      "sezon": "1996",
+      "chempion": "Запланований на весну 1996 року чемпіонат не відбувся через відсутність фінансування",
+      "sribnyi_pryzer": "Запланований на весну 1996 року чемпіонат не відбувся через відсутність фінансування",
+      "bronzovyi_pryzer": "Запланований на весну 1996 року чемпіонат не відбувся через відсутність фінансування"
+    },
+    {
+      "sezon": "1996/97",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Крижинка» (Київ)",
+      "bronzovyi_pryzer": "«АТЕК» (Київ)"
+    },
+    {
+      "sezon": "1997/98",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Беркут-ППО» (Київ)",
+      "bronzovyi_pryzer": "«Політехнік-Яся» ( Київ )"
+    },
+    {
+      "sezon": "1998/99",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Беркут-ППО» (Київ)",
+      "bronzovyi_pryzer": "«Сокіл-2» ( Київ )"
+    },
+    {
+      "sezon": "1999/00",
+      "chempion": "«Беркут-Київ»",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "«Політехнік-Яся» ( Київ )"
+    },
+    {
+      "sezon": "2000/01",
+      "chempion": "«Беркут-Київ»",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "«Харків»"
+    },
+    {
+      "sezon": "2001/02",
+      "chempion": "«Беркут-Київ»",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "«Донбас» (Донецьк)"
+    },
+    {
+      "sezon": "2002/03",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "СДЮСШОР-«Барвінок»",
+      "bronzovyi_pryzer": "«АТЕК» (Київ)"
+    },
+    {
+      "sezon": "2003/04",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "ХК «Київ»",
+      "bronzovyi_pryzer": "«АТЕК» (Київ)"
+    },
+    {
+      "sezon": "2004/05",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Дніпровські вовки» ( Дніпро )",
+      "bronzovyi_pryzer": "«Київ»"
+    },
+    {
+      "sezon": "2005/06",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Беркут» (Київ)",
+      "bronzovyi_pryzer": "«Дніпровські вовки» ( Дніпро )"
+    },
+    {
+      "sezon": "2006/07",
+      "chempion": "«АТЕК» (Київ)",
+      "sribnyi_pryzer": "«Беркут» (Бровари)",
+      "bronzovyi_pryzer": "«Компаньйон-Нафтогаз» ( Київ )"
+    },
+    {
+      "sezon": "2007/08",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Барс» (Броварський р-н)",
+      "bronzovyi_pryzer": "«Харків»"
+    },
+    {
+      "sezon": "2008/09",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Білий Барс» (Бровари)",
+      "bronzovyi_pryzer": "«АТЕК» (Київ)"
+    },
+    {
+      "sezon": "2009/10",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Беркут» (Київ)",
+      "bronzovyi_pryzer": "«Харків»"
+    },
+    {
+      "sezon": "2010/11",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "«Компаньйон-Нафтогаз»"
+    },
+    {
+      "sezon": "2011/12",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "«Беркут» (Київ)"
+    },
+    {
+      "sezon": "2012/13",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Компаньйон-Нафтогаз» ( Київ )",
+      "bronzovyi_pryzer": "«Сокіл» (Київ)"
+    },
+    {
+      "sezon": "2013/14",
+      "chempion": "«Компаньйон-Нафтогаз» ( Київ )",
+      "sribnyi_pryzer": "«Білий Барс» (Біла Церква)",
+      "bronzovyi_pryzer": "«Сокіл» (Київ)"
+    },
+    {
+      "sezon": "2014/15",
+      "chempion": "«АТЕК» (Київ)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Дженералз» ( Київ )"
+    },
+    {
+      "sezon": "2015/16",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Дженералз» ( Київ )",
+      "bronzovyi_pryzer": "«Кременчук»"
+    },
+    {
+      "sezon": "2016/17",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Кривбас» (Кривий Ріг)"
+    },
+    {
+      "sezon": "2017/18",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Білий Барс» ( Біла Церква )"
+    },
+    {
+      "sezon": "2018/19",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Дніпро» (Херсон)",
+      "bronzovyi_pryzer": "«Кременчук»"
+    },
+    {
+      "sezon": "2019/20",
+      "chempion": "«Кременчук»",
+      "sribnyi_pryzer": "«Донбас» (Донецьк)",
+      "bronzovyi_pryzer": "«Дніпро» (Херсон)"
+    },
+    {
+      "sezon": "2020/21",
+      "chempion": "«Донбас» (Донецьк)",
+      "sribnyi_pryzer": "«Сокіл» (Київ)",
+      "bronzovyi_pryzer": "«Кременчук»"
+    },
+    {
+      "sezon": "2021/22",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Дніпро» (Херсон)"
+    },
+    {
+      "sezon": "2022/23",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Дніпро» (Херсон)"
+    },
+    {
+      "sezon": "2023/24",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Дніпро» (Херсон)"
+    },
+    {
+      "sezon": "2024/25",
+      "chempion": "«Кременчук»",
+      "sribnyi_pryzer": "«Київ Кепіталз»",
+      "bronzovyi_pryzer": "«Сокіл» (Київ)"
+    },
+    {
+      "sezon": "2025/26",
+      "chempion": "«Сокіл» (Київ)",
+      "sribnyi_pryzer": "«Кременчук»",
+      "bronzovyi_pryzer": "«Одещина»"
+    }
+  ],
+  "meta": {
+    "title": "Чемпіони та призери чемпіонату України з хокею - Free Download",
+    "description": "Чемпіони, срібні та бронзові призери чемпіонату України з хокею із шайбою за сезонами з 1993 року. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Чемпіони та призери чемпіонату України з хокею | ListBase",
+    "seo_description": "Download Чемпіони та призери чемпіонату України з хокею — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Чемпіонат_України_з_хокею"
+    ]
+  }
+}
