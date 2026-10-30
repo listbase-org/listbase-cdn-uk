@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-30T02:17:05.842Z",
-  "total_datasets": 453,
-  "total_records": 471209,
+  "generated": "2026-10-30T02:17:13.536Z",
+  "total_datasets": 454,
+  "total_records": 471259,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -4601,6 +4601,31 @@
         "xlsx": {
           "name": "uk-kolyshni-sudi-konstytutsiinoho-sudu_UK.xlsx",
           "size": 9571
+        }
+      }
+    },
+    {
+      "id": "uk-ministry-yustytsii",
+      "name": "Міністри юстиції України",
+      "category": "law",
+      "record_count": 50,
+      "columns": [
+        "nomer",
+        "chas_povnovazhen",
+        "imia",
+        "uriad_period"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_міністрів_юстиції_України",
+      "updated": "2026-10",
+      "size": 13528,
+      "files": {
+        "csv": {
+          "name": "uk-ministry-yustytsii_UK.csv",
+          "size": 7011
+        },
+        "xlsx": {
+          "name": "uk-ministry-yustytsii_UK.xlsx",
+          "size": 9136
         }
       }
     },
