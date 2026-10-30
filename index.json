@@ -1,12 +1,12 @@
 {
   "lang": "uk",
-  "generated": "2026-10-30T02:16:50.786Z",
-  "total_datasets": 451,
-  "total_records": 471095,
+  "generated": "2026-10-30T02:16:58.244Z",
+  "total_datasets": 452,
+  "total_records": 471170,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -98,6 +98,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "uk-ministry-ahrarnoi-polityky",
+      "name": "Міністри аграрної політики України",
+      "category": "agriculture",
+      "record_count": 75,
+      "columns": [
+        "nomer",
+        "chas_povnovazhen",
+        "imia",
+        "uriad_period"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_міністрів_аграрної_політики_України",
+      "updated": "2026-10",
+      "size": 24402,
+      "files": {
+        "csv": {
+          "name": "uk-ministry-ahrarnoi-polityky_UK.csv",
+          "size": 15322
+        },
+        "xlsx": {
+          "name": "uk-ministry-ahrarnoi-polityky_UK.xlsx",
+          "size": 10513
+        }
+      }
+    },
     {
       "id": "uk-naibilshi-ahroholdynhy-zemelnyi-bank",
       "name": "Найбільші агрохолдинги України за земельним банком",
