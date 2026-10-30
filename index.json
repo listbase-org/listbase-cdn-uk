@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-29T02:18:45.827Z",
-  "total_datasets": 450,
-  "total_records": 471067,
+  "generated": "2026-10-30T02:16:50.786Z",
+  "total_datasets": 451,
+  "total_records": 471095,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4476,6 +4476,30 @@
         "xlsx": {
           "name": "uk-ukrainska-abetka_UK.xlsx",
           "size": 8571
+        }
+      }
+    },
+    {
+      "id": "uk-heneralni-prokurory",
+      "name": "Генеральні прокурори України",
+      "category": "law",
+      "record_count": 28,
+      "columns": [
+        "nomer",
+        "chas_povnovazhen",
+        "imia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_Генеральних_прокурорів_України",
+      "updated": "2026-10",
+      "size": 6670,
+      "files": {
+        "csv": {
+          "name": "uk-heneralni-prokurory_UK.csv",
+          "size": 3013
+        },
+        "xlsx": {
+          "name": "uk-heneralni-prokurory_UK.xlsx",
+          "size": 8106
         }
       }
     },
