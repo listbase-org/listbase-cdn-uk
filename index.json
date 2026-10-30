@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-30T02:16:58.244Z",
-  "total_datasets": 452,
-  "total_records": 471170,
+  "generated": "2026-10-30T02:17:05.842Z",
+  "total_datasets": 453,
+  "total_records": 471209,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -583,6 +583,31 @@
         "xlsx": {
           "name": "uk-holovy-natsbanku_UK.xlsx",
           "size": 7615
+        }
+      }
+    },
+    {
+      "id": "uk-ministry-ekonomiky",
+      "name": "Міністри економіки України",
+      "category": "economy",
+      "record_count": 39,
+      "columns": [
+        "nomer",
+        "chas_povnovazhen",
+        "imia",
+        "uriad_period"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_міністрів_економіки_України",
+      "updated": "2026-10",
+      "size": 12681,
+      "files": {
+        "csv": {
+          "name": "uk-ministry-ekonomiky_UK.csv",
+          "size": 7245
+        },
+        "xlsx": {
+          "name": "uk-ministry-ekonomiky_UK.xlsx",
+          "size": 8914
         }
       }
     },
