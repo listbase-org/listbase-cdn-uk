@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-10-30T02:17:13.536Z",
-  "total_datasets": 454,
-  "total_records": 471259,
+  "generated": "2026-10-30T02:17:21.091Z",
+  "total_datasets": 455,
+  "total_records": 471310,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -4781,6 +4781,33 @@
         "xlsx": {
           "name": "uk-holovy-verkhovnoi-rady_UK.xlsx",
           "size": 7949
+        }
+      }
+    },
+    {
+      "id": "uk-ministry-zakordonnykh-sprav",
+      "name": "Міністри закордонних справ України",
+      "category": "politics",
+      "record_count": 51,
+      "columns": [
+        "nomer",
+        "imia",
+        "data_pryznachennia",
+        "data_zvilnennia",
+        "prymitky",
+        "derzhava_period"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_міністрів_закордонних_справ_України",
+      "updated": "2026-10",
+      "size": 20335,
+      "files": {
+        "csv": {
+          "name": "uk-ministry-zakordonnykh-sprav_UK.csv",
+          "size": 10875
+        },
+        "xlsx": {
+          "name": "uk-ministry-zakordonnykh-sprav_UK.xlsx",
+          "size": 10143
         }
       }
     },

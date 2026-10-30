@@ -1,0 +1,464 @@
+{
+  "id": "uk-ministry-zakordonnykh-sprav",
+  "name": "Міністри закордонних справ України",
+  "title": "Міністри закордонних справ України",
+  "description": "Список міністрів закордонних справ України (зокрема УНР, ЗУНР, УРСР) з датами призначення та звільнення.",
+  "category": "politics",
+  "source": "https://uk.wikipedia.org/wiki/Список_міністрів_закордонних_справ_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_міністрів_закордонних_справ_України",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "imia",
+      "label": "Imia",
+      "type": "string"
+    },
+    {
+      "key": "data_pryznachennia",
+      "label": "Data Pryznachennia",
+      "type": "string"
+    },
+    {
+      "key": "data_zvilnennia",
+      "label": "Data Zvilnennia",
+      "type": "string"
+    },
+    {
+      "key": "prymitky",
+      "label": "Prymitky",
+      "type": "string"
+    },
+    {
+      "key": "derzhava_period",
+      "label": "Derzhava Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "1",
+      "imia": "Зленко Анатолій Максимович",
+      "data_pryznachennia": "24 серпня 1991",
+      "data_zvilnennia": "25 серпня 1994",
+      "prymitky": "Призначений на посаду ще як Міністр закордонних справ УРСР 6.06.1991",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "2",
+      "imia": "Удовенко Геннадій Йосипович",
+      "data_pryznachennia": "25 серпня 1994",
+      "data_zvilnennia": "17 квітня 1998",
+      "prymitky": "До 16 вересня 1994 року — виконувач обов'язків",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "3",
+      "imia": "Тарасюк Борис Іванович",
+      "data_pryznachennia": "17 квітня 1998",
+      "data_zvilnennia": "29 вересня 2000",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Чалий Олександр Олександрович",
+      "data_pryznachennia": "29 вересня 2000",
+      "data_zvilnennia": "2 жовтня 2000",
+      "prymitky": "Виконувач обов'язків як перший заступник міністра",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "4",
+      "imia": "Зленко Анатолій Максимович",
+      "data_pryznachennia": "2 жовтня 2000",
+      "data_zvilnennia": "2 вересня 2003",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "5",
+      "imia": "Грищенко Костянтин Іванович",
+      "data_pryznachennia": "2 вересня 2003",
+      "data_zvilnennia": "3 лютого 2005",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "6",
+      "imia": "Тарасюк Борис Іванович",
+      "data_pryznachennia": "4 лютого 2005",
+      "data_zvilnennia": "1 грудня 2006",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Бутейко Антон Денисович",
+      "data_pryznachennia": "1 грудня 2006",
+      "data_zvilnennia": "5 грудня 2006",
+      "prymitky": "Виконувач обов'язків як перший заступник міністра",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Тарасюк Борис Іванович",
+      "data_pryznachennia": "5 грудня 2006",
+      "data_zvilnennia": "30 січня 2007",
+      "prymitky": "Призначений виконувачем обов'язків Указом Президента",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Огризко Володимир Станіславович",
+      "data_pryznachennia": "31 січня 2007",
+      "data_zvilnennia": "21 березня 2007",
+      "prymitky": "Призначений виконувачем обов'язків постановою Кабміну",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "7",
+      "imia": "Яценюк Арсеній Петрович",
+      "data_pryznachennia": "21 березня 2007",
+      "data_zvilnennia": "18 грудня 2007",
+      "prymitky": "З 4.12 по 18.12.2007 суміщав посаду міністра з посадою Голови Верховної Ради",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "8",
+      "imia": "Огризко Володимир Станіславович",
+      "data_pryznachennia": "18 грудня 2007",
+      "data_zvilnennia": "3 березня 2009",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Хандогій Володимир Дмитрович",
+      "data_pryznachennia": "3 березня 2009",
+      "data_zvilnennia": "9 жовтня 2009",
+      "prymitky": "Виконувач обов'язків як перший заступник міністра",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "9",
+      "imia": "Порошенко Петро Олексійович",
+      "data_pryznachennia": "9 жовтня 2009",
+      "data_zvilnennia": "11 березня 2010",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "10",
+      "imia": "Грищенко Костянтин Іванович",
+      "data_pryznachennia": "11 березня 2010",
+      "data_zvilnennia": "24 грудня 2012",
+      "prymitky": "З 3 грудня 2012 року — виконувач обов'язків",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "11",
+      "imia": "Кожара Леонід Олександрович",
+      "data_pryznachennia": "24 грудня 2012",
+      "data_zvilnennia": "27 лютого 2014",
+      "prymitky": "28 січня 2014 року другий уряд Миколи Азарова відправлений у відставку, міністри продовжували виконувати свої обов'язки; 23 лютого Кожара звільнений від виконання обов'язків, 27 лютого звільнений з посади",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Дещиця Андрій Богданович",
+      "data_pryznachennia": "27 лютого 2014",
+      "data_zvilnennia": "19 червня 2014",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "12",
+      "imia": "Клімкін Павло Анатолійович",
+      "data_pryznachennia": "19 червня 2014",
+      "data_zvilnennia": "29 серпня 2019",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "13",
+      "imia": "Пристайко Вадим Володимирович",
+      "data_pryznachennia": "29 серпня 2019",
+      "data_zvilnennia": "4 березня 2020",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "14",
+      "imia": "Кулеба Дмитро Іванович",
+      "data_pryznachennia": "4 березня 2020",
+      "data_zvilnennia": "5 вересня 2024",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "15",
+      "imia": "Сибіга Андрій Іванович",
+      "data_pryznachennia": "5 вересня 2024",
+      "data_zvilnennia": "",
+      "prymitky": "",
+      "derzhava_period": "Міністри закордонних справ України"
+    },
+    {
+      "nomer": "1",
+      "imia": "Шульгин Олександр Якович",
+      "data_pryznachennia": "грудень 1917",
+      "data_zvilnennia": "24 січня 1918",
+      "prymitky": "Генеральний секретар міжнародних справ, Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — УНР (Центральна Рада)"
+    },
+    {
+      "nomer": "2",
+      "imia": "Голубович Всеволод Олександрович",
+      "data_pryznachennia": "30 січня 1918",
+      "data_zvilnennia": "3 березня 1918",
+      "prymitky": "Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — УНР (Центральна Рада)"
+    },
+    {
+      "nomer": "3",
+      "imia": "Любинський Микола Михайлович",
+      "data_pryznachennia": "3 березня 1918",
+      "data_zvilnennia": "28 квітня 1918",
+      "prymitky": "Державний секретар закордонних справ, керуючий МЗС",
+      "derzhava_period": "УНР, Українська Держава — УНР (Центральна Рада)"
+    },
+    {
+      "nomer": "4",
+      "imia": "Василенко Микола Прокопович",
+      "data_pryznachennia": "30 квітня 1918",
+      "data_zvilnennia": "20 травня 1918",
+      "prymitky": "Голова Ради Міністрів, Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — Гетьманат"
+    },
+    {
+      "nomer": "5",
+      "imia": "Дорошенко Дмитро Іванович",
+      "data_pryznachennia": "20 травня 1918",
+      "data_zvilnennia": "14 листопада 1918",
+      "prymitky": "Керуючий МЗС, Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — Гетьманат"
+    },
+    {
+      "nomer": "6",
+      "imia": "Афанасьєв Георгій Омелянович",
+      "data_pryznachennia": "14 листопада 1918",
+      "data_zvilnennia": "14 грудня 1918",
+      "prymitky": "Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — Гетьманат"
+    },
+    {
+      "nomer": "7",
+      "imia": "Чехівський Володимир Мусійович",
+      "data_pryznachennia": "26 грудня 1918",
+      "data_zvilnennia": "11 лютого 1919",
+      "prymitky": "Голова Ради Міністрів, Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — Директорія УНР"
+    },
+    {
+      "nomer": "8",
+      "imia": "Мацієвич Костянтин Андріанович",
+      "data_pryznachennia": "13 лютого 1919",
+      "data_zvilnennia": "березень 1919",
+      "prymitky": "Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — Директорія УНР"
+    },
+    {
+      "nomer": "9",
+      "imia": "Темницький Володимир Миколайович",
+      "data_pryznachennia": "квітень 1919",
+      "data_zvilnennia": "серпень 1919",
+      "prymitky": "Міністр закордонних справ",
+      "derzhava_period": "УНР, Українська Держава — Директорія УНР"
+    },
+    {
+      "nomer": "10",
+      "imia": "Лівицький Андрій Миколайович",
+      "data_pryznachennia": "серпень 1919",
+      "data_zvilnennia": "травень 1920",
+      "prymitky": "Керуючий МЗС",
+      "derzhava_period": "УНР, Українська Держава — Директорія УНР"
+    },
+    {
+      "nomer": "1",
+      "imia": "Панейко Василь Лукич",
+      "data_pryznachennia": "11 листопада 1918",
+      "data_zvilnennia": "січень 1919",
+      "prymitky": "",
+      "derzhava_period": "ЗУНР — Державні секретарі закордонних справ"
+    },
+    {
+      "nomer": "2",
+      "imia": "Цегельський Лонгин Михайлович",
+      "data_pryznachennia": "4 січня 1919",
+      "data_zvilnennia": "10 березня 1919",
+      "prymitky": "",
+      "derzhava_period": "ЗУНР — Державні секретарі закордонних справ"
+    },
+    {
+      "nomer": "3",
+      "imia": "Лозинський Михайло Михайлович",
+      "data_pryznachennia": "10 березня 1919",
+      "data_zvilnennia": "17 квітня 1919",
+      "prymitky": "",
+      "derzhava_period": "ЗУНР — Державні секретарі закордонних справ"
+    },
+    {
+      "nomer": "4",
+      "imia": "Витвицький Степан Порфирович",
+      "data_pryznachennia": "17 квітня 1919",
+      "data_zvilnennia": "лютий 1920",
+      "prymitky": "з перервами",
+      "derzhava_period": "ЗУНР — Державні секретарі закордонних справ"
+    },
+    {
+      "nomer": "5",
+      "imia": "Левицький Кость Антонович",
+      "data_pryznachennia": "1920",
+      "data_zvilnennia": "1923",
+      "prymitky": "",
+      "derzhava_period": "ЗУНР — Державні секретарі закордонних справ"
+    },
+    {
+      "nomer": "1",
+      "imia": "Бакинський Сергій Сергійович",
+      "data_pryznachennia": "14 грудня 1917",
+      "data_zvilnennia": "1 березня 1918",
+      "prymitky": "Народний секретар з міжнаціональних справ",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "2",
+      "imia": "Затонський Володимир Петрович",
+      "data_pryznachennia": "1 березня 1918",
+      "data_zvilnennia": "4 березня 1918",
+      "prymitky": "Народний секретар закордонних справ",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "3",
+      "imia": "Скрипник Микола Олексійович",
+      "data_pryznachennia": "8 березня 1918",
+      "data_zvilnennia": "18 квітня 1918",
+      "prymitky": "Народний секретар закордонних справ",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "4",
+      "imia": "П'ятаков Юрій Леонідович",
+      "data_pryznachennia": "3 грудня 1918",
+      "data_zvilnennia": "січень 1919",
+      "prymitky": "Керівник іноземного відділу",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "5",
+      "imia": "Раковський Християн Георгійович",
+      "data_pryznachennia": "29 січня 1919 21 березня 1920",
+      "data_zvilnennia": "липень 1919 липень 1923",
+      "prymitky": "Народний комісар закордонних справ",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "6",
+      "imia": "Корнійчук Олександр Євдокимович",
+      "data_pryznachennia": "4 березня 1944",
+      "data_zvilnennia": "14 липня 1944",
+      "prymitky": "Народний комісар закордонних справ",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "7",
+      "imia": "Мануїльський Дмитро Захарович",
+      "data_pryznachennia": "14 липня 1944",
+      "data_zvilnennia": "1952",
+      "prymitky": "До 15 березня 1946 року — Народний комісар закордонних справ",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "8",
+      "imia": "Барановський Анатолій Максимович",
+      "data_pryznachennia": "10 червня 1952",
+      "data_zvilnennia": "17 червня 1953",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "9",
+      "imia": "Паламарчук Лука Хомич",
+      "data_pryznachennia": "11 травня 1954",
+      "data_zvilnennia": "13 серпня 1965",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "в. о.",
+      "imia": "Кисіль Анатолій Степанович",
+      "data_pryznachennia": "13 серпня 1965",
+      "data_zvilnennia": "16 березня 1966",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "10",
+      "imia": "Білоколос Дмитро Захарович",
+      "data_pryznachennia": "16 березня 1966",
+      "data_zvilnennia": "11 червня 1970",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "11",
+      "imia": "Шевель Георгій Георгійович",
+      "data_pryznachennia": "5 серпня 1970",
+      "data_zvilnennia": "18 листопада 1980",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "12",
+      "imia": "Мартиненко Володимир Никифорович",
+      "data_pryznachennia": "18 листопада 1980",
+      "data_zvilnennia": "28 грудня 1984",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "13",
+      "imia": "Кравець Володимир Олексійович",
+      "data_pryznachennia": "29 грудня 1984",
+      "data_zvilnennia": "27 липня 1990",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    },
+    {
+      "nomer": "14",
+      "imia": "Зленко Анатолій Максимович",
+      "data_pryznachennia": "27 липня 1990",
+      "data_zvilnennia": "24 серпня 1991",
+      "prymitky": "",
+      "derzhava_period": "УРСР"
+    }
+  ],
+  "meta": {
+    "title": "Міністри закордонних справ України - Free Download",
+    "description": "Список міністрів закордонних справ України (зокрема УНР, ЗУНР, УРСР) з датами призначення та звільнення. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Міністри закордонних справ України | ListBase",
+    "seo_description": "Download Міністри закордонних справ України — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_міністрів_закордонних_справ_України"
+    ]
+  }
+}
