@@ -1,12 +1,12 @@
 {
   "lang": "uk",
-  "generated": "2026-10-30T02:17:21.091Z",
-  "total_datasets": 455,
-  "total_records": 471310,
+  "generated": "2026-11-02T02:27:05.883Z",
+  "total_datasets": 456,
+  "total_records": 471377,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -98,6 +98,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "uk-akademiky-naan-ukrainy",
+      "name": "Академіки Національної академії аграрних наук України",
+      "category": "agriculture",
+      "record_count": 67,
+      "columns": [
+        "akademik",
+        "viddilennia",
+        "data_obrannia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_дійсних_членів_Національної_академії_аграрних_наук_України",
+      "updated": "2026-11",
+      "size": 16216,
+      "files": {
+        "csv": {
+          "name": "uk-akademiky-naan-ukrainy_UK.csv",
+          "size": 8795
+        },
+        "xlsx": {
+          "name": "uk-akademiky-naan-ukrainy_UK.xlsx",
+          "size": 9159
+        }
+      }
+    },
     {
       "id": "uk-ministry-ahrarnoi-polityky",
       "name": "Міністри аграрної політики України",
