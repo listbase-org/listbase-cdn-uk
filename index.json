@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-02T02:27:28.215Z",
-  "total_datasets": 459,
-  "total_records": 472223,
+  "generated": "2026-11-02T02:27:35.875Z",
+  "total_datasets": 460,
+  "total_records": 472349,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4451,6 +4451,33 @@
         "xlsx": {
           "name": "uk-kozatski-vatazhky-do-1648_UK.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "uk-viiny-za-uchastiu-ukrainy",
+      "name": "Війни за участю України",
+      "category": "history",
+      "record_count": 126,
+      "columns": [
+        "period",
+        "data",
+        "konflikt",
+        "persha_storona",
+        "druha_storona",
+        "rezultat"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_війн_за_участю_України",
+      "updated": "2026-11",
+      "size": 56399,
+      "files": {
+        "csv": {
+          "name": "uk-viiny-za-uchastiu-ukrainy_UK.csv",
+          "size": 37765
+        },
+        "xlsx": {
+          "name": "uk-viiny-za-uchastiu-ukrainy_UK.xlsx",
+          "size": 16827
         }
       }
     },
