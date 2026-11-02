@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-02T02:27:13.388Z",
-  "total_datasets": 457,
-  "total_records": 472089,
+  "generated": "2026-11-02T02:27:20.984Z",
+  "total_datasets": 458,
+  "total_records": 472165,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -11472,6 +11472,30 @@
         "xlsx": {
           "name": "uk-hoteli_UK.xlsx",
           "size": 15300
+        }
+      }
+    },
+    {
+      "id": "uk-istoryko-kulturni-zapovidnyky",
+      "name": "Історико-культурні заповідники національного значення в Україні",
+      "category": "tourism",
+      "record_count": 76,
+      "columns": [
+        "nazva",
+        "roztashuvannia",
+        "rehion"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Історико-культурні_заповідники_національного_значення_в_Україні",
+      "updated": "2026-11",
+      "size": 22787,
+      "files": {
+        "csv": {
+          "name": "uk-istoryko-kulturni-zapovidnyky_UK.csv",
+          "size": 15105
+        },
+        "xlsx": {
+          "name": "uk-istoryko-kulturni-zapovidnyky_UK.xlsx",
+          "size": 10730
         }
       }
     },
