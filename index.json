@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-03T02:22:35.429Z",
-  "total_datasets": 462,
-  "total_records": 472441,
+  "generated": "2026-11-03T02:22:42.907Z",
+  "total_datasets": 463,
+  "total_records": 472451,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -2889,6 +2889,29 @@
         "xlsx": {
           "name": "uk-pyvovarni-ukrainy_UK.xlsx",
           "size": 10433
+        }
+      }
+    },
+    {
+      "id": "uk-tradytsiinyi-ukrainskyi-khlib",
+      "name": "Традиційні види українського хліба",
+      "category": "food",
+      "record_count": 10,
+      "columns": [
+        "nazva",
+        "opys"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українська_кухня",
+      "updated": "2026-11",
+      "size": 7010,
+      "files": {
+        "csv": {
+          "name": "uk-tradytsiinyi-ukrainskyi-khlib_UK.csv",
+          "size": 4804
+        },
+        "xlsx": {
+          "name": "uk-tradytsiinyi-ukrainskyi-khlib_UK.xlsx",
+          "size": 8606
         }
       }
     },
