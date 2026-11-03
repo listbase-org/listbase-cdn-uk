@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-02T02:27:35.875Z",
-  "total_datasets": 460,
-  "total_records": 472349,
+  "generated": "2026-11-03T02:22:27.226Z",
+  "total_datasets": 461,
+  "total_records": 472406,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -11548,6 +11548,33 @@
         "xlsx": {
           "name": "uk-istoryko-kulturni-zapovidnyky_UK.xlsx",
           "size": 10730
+        }
+      }
+    },
+    {
+      "id": "uk-natsionalni-pryrodni-parky",
+      "name": "Національні природні парки України",
+      "category": "tourism",
+      "record_count": 57,
+      "columns": [
+        "nomer",
+        "nazva",
+        "korotkyi_opys",
+        "oblast",
+        "rik_stvorennia",
+        "ploshcha_ha"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Національні_природні_парки_України",
+      "updated": "2026-11",
+      "size": 24136,
+      "files": {
+        "csv": {
+          "name": "uk-natsionalni-pryrodni-parky_UK.csv",
+          "size": 14791
+        },
+        "xlsx": {
+          "name": "uk-natsionalni-pryrodni-parky_UK.xlsx",
+          "size": 12735
         }
       }
     },
