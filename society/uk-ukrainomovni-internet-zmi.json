@@ -1,0 +1,1856 @@
+{
+  "id": "uk-ukrainomovni-internet-zmi",
+  "name": "Україномовні інтернет-ЗМІ",
+  "title": "Україномовні інтернет-ЗМІ",
+  "description": "Перелік україномовних інтернет-видань: домен, рік заснування, місце у світовому рейтингу SimilarWeb, короткий опис і мови (дані станом на 2024 рік), а також закриті видання.",
+  "category": "society",
+  "source": "https://uk.wikipedia.org/wiki/Список_україномовних_інтернет-ЗМІ",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_україномовних_інтернет-ЗМІ",
+  "updated": "2026-11",
+  "record_count": 179,
+  "columns": [
+    {
+      "key": "rozdil",
+      "label": "Rozdil",
+      "type": "string"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "domen",
+      "label": "Domen",
+      "type": "string"
+    },
+    {
+      "key": "zasnuvannia",
+      "label": "Zasnuvannia",
+      "type": "string"
+    },
+    {
+      "key": "zakryttia",
+      "label": "Zakryttia",
+      "type": "string"
+    },
+    {
+      "key": "mistse_similarweb",
+      "label": "Mistse Similarweb",
+      "type": "number"
+    },
+    {
+      "key": "korotkyi_opys",
+      "label": "Korotkyi Opys",
+      "type": "string"
+    },
+    {
+      "key": "movy",
+      "label": "Movy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Новини 1+1",
+      "domen": "1plus1.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 60891,
+      "korotkyi_opys": "розділ новин, сайт каналу 1+1, належить олігарху Ігорю Коломойському",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "5 канал",
+      "domen": "5.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 45429,
+      "korotkyi_opys": "новини, сайт новин 5 каналу",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "7 днів",
+      "domen": "7dniv.rv.ua",
+      "zasnuvannia": "24 вересня 1993",
+      "zakryttia": "",
+      "mistse_similarweb": 739709,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "20 хвилин",
+      "domen": "20minut.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 78430,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "24 канал",
+      "domen": "24tv.ua",
+      "zasnuvannia": "1 березня 2006",
+      "zakryttia": "",
+      "mistse_similarweb": 3263,
+      "korotkyi_opys": "сайт телеканалу « 24 », належить політику Андрію Садовому",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "AgroNews",
+      "domen": "agronews.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 316851,
+      "korotkyi_opys": "аграрна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Агрополіт",
+      "domen": "agropolit.com",
+      "zasnuvannia": "2016",
+      "zakryttia": "",
+      "mistse_similarweb": 687035,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "AIN.UA",
+      "domen": "ain.ua",
+      "zasnuvannia": "1 березня 1999",
+      "zakryttia": "",
+      "mistse_similarweb": 129505,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Анонс Закарпаття",
+      "domen": "anons-zak.com.ua",
+      "zasnuvannia": "2008",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Апостроф",
+      "domen": "apostrophe.ua",
+      "zasnuvannia": "11 серпня 2014",
+      "zakryttia": "",
+      "mistse_similarweb": 9258,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Бабай",
+      "domen": "babai.co.ua",
+      "zasnuvannia": "2018",
+      "zakryttia": "",
+      "mistse_similarweb": 7130628,
+      "korotkyi_opys": "українська горор-література та містика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Бабель",
+      "domen": "babel.ua",
+      "zasnuvannia": "17 вересня 2018",
+      "zakryttia": "",
+      "mistse_similarweb": 93271,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "BBC News Україна",
+      "domen": "bbc.com/ukrainian",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "новини, український підрозділ британського суспільного медіа-холдингу BBC",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Брутальний Футбол",
+      "domen": "bfootball.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "спортивна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Бердянськ 24",
+      "domen": "brd24.com",
+      "zasnuvannia": "21 квітня 2010",
+      "zakryttia": "",
+      "mistse_similarweb": 992674,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Букви",
+      "domen": "bykvu.com",
+      "zasnuvannia": "24 лютого 2015",
+      "zakryttia": "",
+      "mistse_similarweb": 478464,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Цензор.нет",
+      "domen": "censor.net",
+      "zasnuvannia": "2004",
+      "zakryttia": "",
+      "mistse_similarweb": 1346,
+      "korotkyi_opys": "новини, належить журналісту Юрію Бутусову",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Chas News",
+      "domen": "chas.news",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 73575,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Козацький край",
+      "domen": "cossackland.org.ua",
+      "zasnuvannia": "січня 2011",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "суспільно-історичне",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Цукр",
+      "domen": "cukr.city",
+      "zasnuvannia": "2019",
+      "zakryttia": "",
+      "mistse_similarweb": 1558243,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "DailyLviv.com",
+      "domen": "dailylviv.com",
+      "zasnuvannia": "28 липня 2001",
+      "zakryttia": "",
+      "mistse_similarweb": 293037,
+      "korotkyi_opys": "львівський новинний сайт",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "День",
+      "domen": "day.kyiv.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 345855,
+      "korotkyi_opys": "онлайн версія газети День",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "DeepStateMapLive",
+      "domen": "deepstatemap.live",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 1596,
+      "korotkyi_opys": "новини війни Росії проти України на мапі",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Defense Express",
+      "domen": "defence-ua.com",
+      "zasnuvannia": "2 вересня 2013",
+      "zakryttia": "",
+      "mistse_similarweb": 26498,
+      "korotkyi_opys": "огляд військової техніки, озброєнь та ОПК України",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Depo.ua",
+      "domen": "depo.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 172113,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Детектор медіа",
+      "domen": "detector.media",
+      "zasnuvannia": "8 лютого 2016",
+      "zakryttia": "",
+      "mistse_similarweb": 77238,
+      "korotkyi_opys": "медійна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Думська",
+      "domen": "dumskaya.net",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 15176,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Deutsche Welle українською",
+      "domen": "dw.com",
+      "zasnuvannia": "27 березня 2000",
+      "zakryttia": "",
+      "mistse_similarweb": 2198,
+      "korotkyi_opys": "український підрозділ німецького суспільного медіа-холдингу DW",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Дзеркало медіа",
+      "domen": "dzerkalo.media",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 356892,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Освітня політика",
+      "domen": "education-ua.org",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 3657516,
+      "korotkyi_opys": "освітня тематика",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Економічна правда",
+      "domen": "epravda.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 15561,
+      "korotkyi_opys": "економічна тематика",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Еспресо TV",
+      "domen": "espreso.tv",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 7351,
+      "korotkyi_opys": "новини, новинний сайт та телеканал, належить політику Миколі Княжицькому",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Європейська правда",
+      "domen": "eurointegration.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 14367,
+      "korotkyi_opys": "євроатлантична тематика",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Експрес",
+      "domen": "expres.online",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 52917,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Факти ICTV",
+      "domen": "fakty.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 15610,
+      "korotkyi_opys": "сайт новинної програми «Факти» на каналі ICTV, належить олігарху Віктору Пінчуку",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Finance.ua",
+      "domen": "finance.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 28494,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Фокус",
+      "domen": "focus.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 6693,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Football.ua",
+      "domen": "football.ua",
+      "zasnuvannia": "2006",
+      "zakryttia": "",
+      "mistse_similarweb": 7882,
+      "korotkyi_opys": "спортивна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Футбол 24",
+      "domen": "football24.ua",
+      "zasnuvannia": "2010",
+      "zakryttia": "",
+      "mistse_similarweb": 15482,
+      "korotkyi_opys": "спортивна тематика, належить політику Андрію Садовому",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Donbas Frontliner",
+      "domen": "frontliner.com.ua",
+      "zasnuvannia": "травня 2021",
+      "zakryttia": "",
+      "mistse_similarweb": 11201735,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Гал-інфо",
+      "domen": "galinfo.com.ua",
+      "zasnuvannia": "2005",
+      "zakryttia": "",
+      "mistse_similarweb": 299657,
+      "korotkyi_opys": "новини, аналітика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Gazeta.ua",
+      "domen": "gazeta.ua",
+      "zasnuvannia": "11 березня 2006",
+      "zakryttia": "",
+      "mistse_similarweb": 8267,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Українська газета в Італії",
+      "domen": "gazetaukrainska.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 4292780,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Ґвара Медіа",
+      "domen": "gwaramedia.com",
+      "zasnuvannia": "23 серпня 2015",
+      "zakryttia": "",
+      "mistse_similarweb": 262171,
+      "korotkyi_opys": "новини Харкова, новини Харківщини, статті про життя у прифронтовому регіоні, репортажі з фронту",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Главком",
+      "domen": "glavcom.ua",
+      "zasnuvannia": "29 грудня 2009",
+      "zakryttia": "",
+      "mistse_similarweb": 11608,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Главред",
+      "domen": "glavred.net",
+      "zasnuvannia": "27 грудня 2010",
+      "zakryttia": "",
+      "mistse_similarweb": 55424,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Голос України",
+      "domen": "golos.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 597893,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Гордон",
+      "domen": "gordonua.com",
+      "zasnuvannia": "22 листопада 2013",
+      "zakryttia": "",
+      "mistse_similarweb": 9261,
+      "korotkyi_opys": "новини, належить журналісту та політику Дмитру Гордону",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Gosta Media",
+      "domen": "gosta.media",
+      "zasnuvannia": "26 листопада 2022",
+      "zakryttia": "",
+      "mistse_similarweb": 1428821,
+      "korotkyi_opys": "статті та новини з різних галузей: медицина, криптовалюта, гемблінг, технології та IT, бізнес, інвестиції, повсякденне життя, психологія, наука та освіта тощо",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Ґрунт",
+      "domen": "grnt.media",
+      "zasnuvannia": "24 лютого 2022",
+      "zakryttia": "",
+      "mistse_similarweb": 897207,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "GSMinfo",
+      "domen": "gsminfo.com.ua",
+      "zasnuvannia": "2019",
+      "zakryttia": "",
+      "mistse_similarweb": 35828,
+      "korotkyi_opys": "Технології, новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Громадське телебачення",
+      "domen": "hromadske.ua",
+      "zasnuvannia": "22 листопада 2013",
+      "zakryttia": "",
+      "mistse_similarweb": 32192,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Інститут масової інформації",
+      "domen": "imi.org.ua",
+      "zasnuvannia": "1995",
+      "zakryttia": "",
+      "mistse_similarweb": 981707,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Інформатор",
+      "domen": "informator.ua",
+      "zasnuvannia": "2016",
+      "zakryttia": "",
+      "mistse_similarweb": 12500,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Inspired",
+      "domen": "inspired.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 2194804,
+      "korotkyi_opys": "розваги",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "InsiderINFO",
+      "domen": "insiderinfo.com.ua",
+      "zasnuvannia": "2025",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Новини «Інтеру»",
+      "domen": "inter.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 495527,
+      "korotkyi_opys": "розділ новин на сайті каналу Інтер, належить олігарху Дмитру Фірташу",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Інтерфакс-Україна",
+      "domen": "interfax.com.ua",
+      "zasnuvannia": "1992",
+      "zakryttia": "",
+      "mistse_similarweb": 51674,
+      "korotkyi_opys": "новини, створене російським інформаційним агентством Інтерфакс",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Історична правда",
+      "domen": "istpravda.com.ua",
+      "zasnuvannia": "2010",
+      "zakryttia": "",
+      "mistse_similarweb": 327978,
+      "korotkyi_opys": "суспільно-історичне",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "KibOrg News",
+      "domen": "kiborg.news",
+      "zasnuvannia": "2022",
+      "zakryttia": "",
+      "mistse_similarweb": 7382878,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "КіноБаза",
+      "domen": "kinobaza.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 186141,
+      "korotkyi_opys": "кінематографічна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Кіноколо",
+      "domen": "kinokolo.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "кінематографічна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Корупція",
+      "domen": "korupciya.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 1176082,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Korydor",
+      "domen": "korydor.in.ua",
+      "zasnuvannia": "2010",
+      "zakryttia": "",
+      "mistse_similarweb": 7485432,
+      "korotkyi_opys": "новини культури",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Лівий берег",
+      "domen": "lb.ua",
+      "zasnuvannia": "2009",
+      "zakryttia": "",
+      "mistse_similarweb": 32958,
+      "korotkyi_opys": "новини, онлайн-версія газети Лівий берег",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "LegalHub.online",
+      "domen": "legalhub.online",
+      "zasnuvannia": "2018",
+      "zakryttia": "",
+      "mistse_similarweb": 3732818,
+      "korotkyi_opys": "бізнес тематика, юридичні новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Національний ЛГБТ-портал України",
+      "domen": "lgbt.org.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "ЛГБТ -тематика",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Львівська Мануфактура Новин",
+      "domen": "lmn.in.ua",
+      "zasnuvannia": "2018",
+      "zakryttia": "",
+      "mistse_similarweb": 332825,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Meteoprog.ua",
+      "domen": "meteoprog.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 3369031,
+      "korotkyi_opys": "прогноз погоди",
+      "movy": "українська, англійська (загалом 37 мовами)"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Український мілітарний портал",
+      "domen": "mil.in.ua",
+      "zasnuvannia": "20 лютого 2009",
+      "zakryttia": "",
+      "mistse_similarweb": 29116,
+      "korotkyi_opys": "мілітарна тематика",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Мінфін",
+      "domen": "minfin.com.ua",
+      "zasnuvannia": "13 листопада 2007",
+      "zakryttia": "",
+      "mistse_similarweb": 6970,
+      "korotkyi_opys": "економічна тематика",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Moviegram",
+      "domen": "moviegram.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 5206745,
+      "korotkyi_opys": "кінематографічна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Movies tape",
+      "domen": "moviestape.net",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 29386,
+      "korotkyi_opys": "кінематографічна тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Народна правда",
+      "domen": "narodna-pravda.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 1052483,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Nenws Media",
+      "domen": "nenws.com",
+      "zasnuvannia": "2023",
+      "zakryttia": "",
+      "mistse_similarweb": 2185452,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська, іспанська, німецька, польська, португальська, французька"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "NGL.media",
+      "domen": "ngl.media",
+      "zasnuvannia": "січня 2013",
+      "zakryttia": "",
+      "mistse_similarweb": 669713,
+      "korotkyi_opys": "новини, розслідування",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Новини N",
+      "domen": "novosti-n.org",
+      "zasnuvannia": "8 лютого 2005",
+      "zakryttia": "",
+      "mistse_similarweb": 36653,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Новини Нового каналу",
+      "domen": "novy.tv",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 90570,
+      "korotkyi_opys": "сайт новин Нового каналу, належить олігарху Віктору Пінчуку",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Новинарня",
+      "domen": "novynarnia.com",
+      "zasnuvannia": "січня 2016",
+      "zakryttia": "",
+      "mistse_similarweb": 143298,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Новини Полтавщини",
+      "domen": "np.pl.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 488989,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "НВ",
+      "domen": "nv.ua",
+      "zasnuvannia": "2014",
+      "zakryttia": "",
+      "mistse_similarweb": 2850,
+      "korotkyi_opys": "новини, належить бізнесмену Томашу Фіалі",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Обозреватель",
+      "domen": "obozrevatel.com",
+      "zasnuvannia": "2001",
+      "zakryttia": "",
+      "mistse_similarweb": 994,
+      "korotkyi_opys": "новини, належить олігарху Михайлу Бродському",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "ONLINE.UA",
+      "domen": "online.ua",
+      "zasnuvannia": "2015",
+      "zakryttia": "",
+      "mistse_similarweb": 78241,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Освітній портал",
+      "domen": "op.ua",
+      "zasnuvannia": "2003",
+      "zakryttia": "",
+      "mistse_similarweb": 624729,
+      "korotkyi_opys": "освітня тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Освіта.ua",
+      "domen": "osvita.ua",
+      "zasnuvannia": "2007",
+      "zakryttia": "",
+      "mistse_similarweb": 20979,
+      "korotkyi_opys": "освітня тематика, належить видавництву «Плеяди»",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Петро і Мазепа",
+      "domen": "petrimazepa.com",
+      "zasnuvannia": "2013",
+      "zakryttia": "",
+      "mistse_similarweb": 1570842,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Фензін «Підвал»",
+      "domen": "pidval.wordpress.com",
+      "zasnuvannia": "2015",
+      "zakryttia": "",
+      "mistse_similarweb": 12948749,
+      "korotkyi_opys": "українська горор-література та містика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Pingvin.pro",
+      "domen": "pingvin.pro",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 1102230,
+      "korotkyi_opys": "розваги",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "PlayUA",
+      "domen": "playua.net",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 459471,
+      "korotkyi_opys": "розваги",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Львівський портал",
+      "domen": "portal.lviv.ua",
+      "zasnuvannia": "23 жовтня 2003",
+      "zakryttia": "",
+      "mistse_similarweb": 241343,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Поступ",
+      "domen": "postup.brama.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Українська правда",
+      "domen": "pravda.com.ua",
+      "zasnuvannia": "16 квітня 2000",
+      "zakryttia": "",
+      "mistse_similarweb": 977,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Прочерк",
+      "domen": "procherk.info",
+      "zasnuvannia": "1 липня 2010",
+      "zakryttia": "",
+      "mistse_similarweb": 287855,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Громадський простір",
+      "domen": "prostir.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 444100,
+      "korotkyi_opys": "НУО-тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Happy Monday",
+      "domen": "happymonday.ua/media",
+      "zasnuvannia": "1 березня 2018",
+      "zakryttia": "",
+      "mistse_similarweb": 134686,
+      "korotkyi_opys": "пошук роботи, кар'єра, саморозвиток",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Прилуки Оперативні",
+      "domen": "pryluky.club",
+      "zasnuvannia": "8 жовтня 2022",
+      "zakryttia": "",
+      "mistse_similarweb": 11161014,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Верховна Рада України",
+      "domen": "rada.gov.ua",
+      "zasnuvannia": "1991",
+      "zakryttia": "",
+      "mistse_similarweb": 9213,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Радіо Свобода",
+      "domen": "radiosvoboda.org",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 19337,
+      "korotkyi_opys": "новини, український підрозділ американського державного медіа-холдингу BBG",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "РБК-Україна",
+      "domen": "rbc.ua",
+      "zasnuvannia": "2005",
+      "zakryttia": "",
+      "mistse_similarweb": 2189,
+      "korotkyi_opys": "новини, належить бізнесмену Йосипу Пінтусу",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "RegioNews",
+      "domen": "regionews.ua",
+      "zasnuvannia": "16 лютого 2011",
+      "zakryttia": "",
+      "mistse_similarweb": 79246,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Релігійно-інформаційна служба України",
+      "domen": "risu.ua",
+      "zasnuvannia": "1 лютого 2001",
+      "zakryttia": "",
+      "mistse_similarweb": 122561,
+      "korotkyi_opys": "релігійно-інформаційна служба УКУ",
+      "movy": "українська, англійська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Рубрика",
+      "domen": "rubryka.com",
+      "zasnuvannia": "квітня 2018",
+      "zakryttia": "",
+      "mistse_similarweb": 80235,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "ШоТам",
+      "domen": "shotam.info",
+      "zasnuvannia": "2017",
+      "zakryttia": "",
+      "mistse_similarweb": 350747,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Skrypin.ua",
+      "domen": "skrypin.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 5369726,
+      "korotkyi_opys": "інтернет-телебачення, власник Роман Скрипін",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Слово і Діло",
+      "domen": "slovoidilo.ua",
+      "zasnuvannia": "12 грудня 2011",
+      "zakryttia": "",
+      "mistse_similarweb": 35623,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Слух",
+      "domen": "slukh.media",
+      "zasnuvannia": "7 травня 2018",
+      "zakryttia": "",
+      "mistse_similarweb": 609581,
+      "korotkyi_opys": "музичні новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Спільнобачення",
+      "domen": "spilno.tv",
+      "zasnuvannia": "2 травня 2013",
+      "zakryttia": "",
+      "mistse_similarweb": 15195082,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "StopFake",
+      "domen": "stopfake.org",
+      "zasnuvannia": "2 березня 2014",
+      "zakryttia": "",
+      "mistse_similarweb": 465818,
+      "korotkyi_opys": "новини",
+      "movy": "українська (загалом 14 мовами)"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Суспільне Новини",
+      "domen": "suspilne.media",
+      "zasnuvannia": "2 грудня 2019",
+      "zakryttia": "",
+      "mistse_similarweb": 8681,
+      "korotkyi_opys": "новини, інтернет-ЗМІ у складі Національної суспільної телерадіокомпанії України",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Свідок НТН",
+      "domen": "svidok.online",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "сайт новинноїпрограми «Свідок», каналі НТН, належить олігарху Дмитру Фірташу",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Свідомі",
+      "domen": "svidomi.in.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 864.793,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Театральна риболовля",
+      "domen": "t-fishing.co.ua",
+      "zasnuvannia": "13 лютого 2018",
+      "zakryttia": "",
+      "mistse_similarweb": 10714250,
+      "korotkyi_opys": "театрально-мистецькі новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Телеграф",
+      "domen": "telegraf.com.ua",
+      "zasnuvannia": "2012",
+      "zakryttia": "",
+      "mistse_similarweb": 6718,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Кременчуцький ТелеграфЪ",
+      "domen": "telegraf.in.ua",
+      "zasnuvannia": "2005",
+      "zakryttia": "",
+      "mistse_similarweb": 106739,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Тексти",
+      "domen": "texty.org.ua",
+      "zasnuvannia": "2010",
+      "zakryttia": "",
+      "mistse_similarweb": 165760,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Insider",
+      "domen": "theinsider.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 5862479,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "The Page",
+      "domen": "thepage.ua",
+      "zasnuvannia": "27 травня 2019",
+      "zakryttia": "",
+      "mistse_similarweb": 96828,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "The Ukrainians",
+      "domen": "theukrainians.org",
+      "zasnuvannia": "травня 2014",
+      "zakryttia": "",
+      "mistse_similarweb": 647499,
+      "korotkyi_opys": "суспільно-політичне",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Tokar.ua",
+      "domen": "tokar.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 2558010,
+      "korotkyi_opys": "технології, винаходи, космос, IT-тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "ТСН",
+      "domen": "tsn.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 1365,
+      "korotkyi_opys": "сайт новинної програми ТСН, канал 1+1, належить олігарху Ігорю Коломойському",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Український тиждень",
+      "domen": "tyzhden.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 462235,
+      "korotkyi_opys": "сайт новин журналу «Український тиждень»",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "United24 Media",
+      "domen": "u24.media",
+      "zasnuvannia": "21 липня 2022",
+      "zakryttia": "",
+      "mistse_similarweb": 4143419,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Україна онлайн",
+      "domen": "uaonline.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "UaReview",
+      "domen": "uareview.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 4231380,
+      "korotkyi_opys": "розваги",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Український простір Прикарпаття",
+      "domen": "ukr-space.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 7737423,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Ukr.net",
+      "domen": "ukr.net",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 499,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Голос Америки українською",
+      "domen": "ukrainian.voanews.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "нд",
+      "korotkyi_opys": "український підрозділ американська державного медіа-холдингу BBG",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Ukrainian Chicago",
+      "domen": "ukrainianchi.com",
+      "zasnuvannia": "2015",
+      "zakryttia": "",
+      "mistse_similarweb": 3985849,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Українські новини",
+      "domen": "ukranews.com",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 18955,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Укрінформ",
+      "domen": "ukrinform.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 20450,
+      "korotkyi_opys": "новини, українське державне інформаційне агентство",
+      "movy": "українська, російська, англійська, іспанська, німецька, французька, китайська, польська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Український погляд",
+      "domen": "ukrpohliad.org",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 886501,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Урядовий кур'єр",
+      "domen": "ukurier.gov.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 517785,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Ungvar.uz.ua",
+      "domen": "ungvar.uz.ua",
+      "zasnuvannia": "2025",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "УНІАН",
+      "domen": "unian.ua",
+      "zasnuvannia": "1993",
+      "zakryttia": "",
+      "mistse_similarweb": 2395,
+      "korotkyi_opys": "інформаційне агентство, належить олігарху Ігорю Коломойському",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Українські національні новини",
+      "domen": "unn.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 306536,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Національний промисловий портал",
+      "domen": "uprom.info",
+      "zasnuvannia": "2017",
+      "zakryttia": "",
+      "mistse_similarweb": 670882,
+      "korotkyi_opys": "ділова тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Varosh",
+      "domen": "varosh.com.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 1263078,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Вечірній Київ",
+      "domen": "vechirniy.kyiv.ua",
+      "zasnuvannia": "1 березня 1927",
+      "zakryttia": "",
+      "mistse_similarweb": 100745,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Вголос",
+      "domen": "vgolos.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 195518,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Вікна СТБ",
+      "domen": "vikna.tv",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 17261,
+      "korotkyi_opys": "сайт новинної програми «Вікна» на каналі СТБ, належить олігарху Віктору Пінчуку",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "The Village Україна",
+      "domen": "village.com.ua",
+      "zasnuvannia": "лютого 2017",
+      "zakryttia": "",
+      "mistse_similarweb": 115286,
+      "korotkyi_opys": "новини",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Вінниця.info",
+      "domen": "vinnitsa.info",
+      "zasnuvannia": "2010",
+      "zakryttia": "",
+      "mistse_similarweb": 243459,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Воля народу",
+      "domen": "volianarodu.org.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 6344108,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Всеосвіта",
+      "domen": "vseosvita.ua",
+      "zasnuvannia": "16 серпня 2017",
+      "zakryttia": "",
+      "mistse_similarweb": 5122,
+      "korotkyi_opys": "освітні новини, статті про освіту, бібліотеки методичних матеріалів, підвищення кваліфікації педагогічних працівників. Власники: Литвиненко Іван Миколайович та Литвиненко Леся Анатоліївна",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "XSPORT",
+      "domen": "xsport.ua",
+      "zasnuvannia": "січня 2014",
+      "zakryttia": "",
+      "mistse_similarweb": 37339,
+      "korotkyi_opys": "спортивна тематика",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Інтернет-видання «Закарпаття онлайн»",
+      "domen": "zakarpattya.net.ua",
+      "zasnuvannia": "2003",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Zaxid.net",
+      "domen": "zaxid.net",
+      "zasnuvannia": "4 травня 2007",
+      "zakryttia": "",
+      "mistse_similarweb": 15617,
+      "korotkyi_opys": "новини, належить політику Андрію Садовому",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "ZIRKY",
+      "domen": "zirky.com.ua",
+      "zasnuvannia": "1 червня 2018",
+      "zakryttia": "",
+      "mistse_similarweb": 123032,
+      "korotkyi_opys": "новини шоу-бізнесу, кіно, української музики",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Збруч",
+      "domen": "zbruc.eu",
+      "zasnuvannia": "11 лютого 2013",
+      "zakryttia": "",
+      "mistse_similarweb": 328127,
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Дзеркало тижня",
+      "domen": "zn.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 20904,
+      "korotkyi_opys": "онлайн версія газети Дзеркало тижня",
+      "movy": "українська, російська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Znaj.ua",
+      "domen": "znaj.ua",
+      "zasnuvannia": "2015",
+      "zakryttia": "",
+      "mistse_similarweb": 18195,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Вільне Радіо",
+      "domen": "freeradio.com.ua",
+      "zasnuvannia": "2018",
+      "zakryttia": "",
+      "mistse_similarweb": 355023,
+      "korotkyi_opys": "новини",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "SPEKA",
+      "domen": "https://speka.media",
+      "zasnuvannia": "2021",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини, технології, бізнес, наука",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Одеса 24",
+      "domen": "https://odesa24.com.ua/",
+      "zasnuvannia": "2024",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини, погода",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Dnipro.media",
+      "domen": "https://www.dnipro.media/",
+      "zasnuvannia": "2024",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "Незалежне медіа міста Дніпро, новини, життя Дніпра, події у місті, розслідування",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Forex.ua",
+      "domen": "https://forex.ua/",
+      "zasnuvannia": "2004",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "Новини фінансів та економіки України",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Інтент",
+      "domen": "https://intent.press/",
+      "zasnuvannia": "2009",
+      "zakryttia": "",
+      "mistse_similarweb": "65222 на 01.06.2025",
+      "korotkyi_opys": "Незалежне суспільно-політичне медіа про Південь України.",
+      "movy": "українська, англійська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Київ сьогодні",
+      "domen": "https://kievtoday.com/",
+      "zasnuvannia": "2025",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "Головні новини столиці України",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "MediaPort (МедіаПорт)",
+      "domen": "https://mediaport.ua/",
+      "zasnuvannia": "2006",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "Незалежне медіа про Харків та Харківщину: новини, репортажі, аналітика, колонки, фото та відео",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "Гречка",
+      "domen": "https://gre4ka.info",
+      "zasnuvannia": "2008",
+      "zakryttia": "",
+      "mistse_similarweb": "201571 на 13.02.2026",
+      "korotkyi_opys": "Незалежне медіа, новини Кропивницького та області",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік україномовних інтернет-ЗМІ",
+      "nazva": "PMG.ua",
+      "domen": "pmg.ua",
+      "zasnuvannia": "2010",
+      "zakryttia": "",
+      "mistse_similarweb": 49289,
+      "korotkyi_opys": "Новини Мукачева та Закарпаття",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "Hyser",
+      "domen": "hyser.com.ua",
+      "zasnuvannia": "2015",
+      "zakryttia": "",
+      "mistse_similarweb": 29186,
+      "korotkyi_opys": "новини",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "ІнформНапалм",
+      "domen": "informnapalm.org",
+      "zasnuvannia": "2014",
+      "zakryttia": "",
+      "mistse_similarweb": 723962,
+      "korotkyi_opys": "новини",
+      "movy": "російська, українська, англійська, німецька, французька, іспанська, білоруська, болгарська, польська (загалом 31 мовою)"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "Kino-teatr.ua",
+      "domen": "kino-teatr.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 142016,
+      "korotkyi_opys": "кінематографічна тематика",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "Корреспондент",
+      "domen": "korrespondent.net",
+      "zasnuvannia": "18 березня 2002",
+      "zakryttia": "",
+      "mistse_similarweb": 2356,
+      "korotkyi_opys": "новини, належить олігарху Сергію Курченку",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "Крим.Реалії",
+      "domen": "krymr.com",
+      "zasnuvannia": "2014",
+      "zakryttia": "",
+      "mistse_similarweb": 84351,
+      "korotkyi_opys": "кримський підрозділ, американський державний медіа-холдинг BBG",
+      "movy": "російська, українська, кримськотатарська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "ЛІГА.net",
+      "domen": "liga.net",
+      "zasnuvannia": "26 вересня 2000",
+      "zakryttia": "",
+      "mistse_similarweb": 10343,
+      "korotkyi_opys": "новини",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "Politeka",
+      "domen": "politeka.net",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 26933,
+      "korotkyi_opys": "новини",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "Ракурс",
+      "domen": "racurs.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 52673,
+      "korotkyi_opys": "новини",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Перелік інтернет-ЗМІ які містять інформацію українською",
+      "nazva": "tochka.net",
+      "domen": "tochka.net",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": 70612,
+      "korotkyi_opys": "розваги",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "Сегодня",
+      "domen": "ukr.segodnya",
+      "zasnuvannia": "1997",
+      "zakryttia": "11 липня 2022",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини, належали олігарху Рінату Ахметову",
+      "movy": "російська українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "UA-Футбол",
+      "domen": "ua-football",
+      "zasnuvannia": "",
+      "zakryttia": "11 липня 2022",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "спортивна тематика, належали олігарху Рінату Ахметову",
+      "movy": "російська українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "ТРК Україна",
+      "domen": "kanalukraina.tv",
+      "zasnuvannia": "",
+      "zakryttia": "11 липня 2022",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини, сайт новин каналу Україна, належить олігарху Рінату Ахметову",
+      "movy": "українська російська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "Телекритика",
+      "domen": "telekritika.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "медіапубліцистика",
+      "movy": "російська, українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "Бізнес",
+      "domen": "business.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "бізнес тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "Духовність",
+      "domen": "dukhovnist.in.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "релігійна тематика",
+      "movy": "українська, російська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "Район",
+      "domen": "rayon.in",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "Шкільне життя",
+      "domen": "schoollife.org",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "освітня тематика",
+      "movy": "українська"
+    },
+    {
+      "rozdil": "Список закритих україномовних інтернет-ЗМІ",
+      "nazva": "VIDIA",
+      "domen": "vidia.ua",
+      "zasnuvannia": "",
+      "zakryttia": "",
+      "mistse_similarweb": "",
+      "korotkyi_opys": "новини",
+      "movy": "українська"
+    }
+  ],
+  "meta": {
+    "title": "Україномовні інтернет-ЗМІ - Free Download",
+    "description": "Перелік україномовних інтернет-видань: домен, рік заснування, місце у світовому рейтингу SimilarWeb, короткий опис і мови (дані станом на 2024 рік), а також закриті видання. Contains 179 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Україномовні інтернет-ЗМІ | ListBase",
+    "seo_description": "Download Україномовні інтернет-ЗМІ — 179 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 179 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_україномовних_інтернет-ЗМІ"
+    ]
+  }
+}

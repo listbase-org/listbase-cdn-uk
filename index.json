@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-03T02:22:42.907Z",
-  "total_datasets": 463,
-  "total_records": 472451,
+  "generated": "2026-11-03T02:22:50.836Z",
+  "total_datasets": 464,
+  "total_records": 472630,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -10920,6 +10920,35 @@
         "xlsx": {
           "name": "uk-pryrodnyi-rukh-naselennia_UK.xlsx",
           "size": 11506
+        }
+      }
+    },
+    {
+      "id": "uk-ukrainomovni-internet-zmi",
+      "name": "Україномовні інтернет-ЗМІ",
+      "category": "society",
+      "record_count": 179,
+      "columns": [
+        "rozdil",
+        "nazva",
+        "domen",
+        "zasnuvannia",
+        "zakryttia",
+        "mistse_similarweb",
+        "korotkyi_opys",
+        "movy"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_україномовних_інтернет-ЗМІ",
+      "updated": "2026-11",
+      "size": 71751,
+      "files": {
+        "csv": {
+          "name": "uk-ukrainomovni-internet-zmi_UK.csv",
+          "size": 39224
+        },
+        "xlsx": {
+          "name": "uk-ukrainomovni-internet-zmi_UK.xlsx",
+          "size": 18970
         }
       }
     },
