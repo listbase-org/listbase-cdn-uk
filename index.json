@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-03T02:22:27.226Z",
-  "total_datasets": 461,
-  "total_records": 472406,
+  "generated": "2026-11-03T02:22:35.429Z",
+  "total_datasets": 462,
+  "total_records": 472441,
   "categories": [
     {
       "id": "agriculture",
@@ -31,6 +31,10 @@
     {
       "id": "finance",
       "dataset_count": 29
+    },
+    {
+      "id": "food",
+      "dataset_count": 1
     },
     {
       "id": "geography",
@@ -2861,6 +2865,30 @@
         "xlsx": {
           "name": "uk-zhytomyr-banky_UK.xlsx",
           "size": 7017
+        }
+      }
+    },
+    {
+      "id": "uk-pyvovarni-ukrainy",
+      "name": "Пивоварні України та їхні бренди",
+      "category": "food",
+      "record_count": 35,
+      "columns": [
+        "vlasnyk_abo_hrupa",
+        "pidpryiemstva",
+        "brendy_ta_sorty"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_пивоварень_України",
+      "updated": "2026-11",
+      "size": 15427,
+      "files": {
+        "csv": {
+          "name": "uk-pyvovarni-ukrainy_UK.csv",
+          "size": 10358
+        },
+        "xlsx": {
+          "name": "uk-pyvovarni-ukrainy_UK.xlsx",
+          "size": 10433
         }
       }
     },
