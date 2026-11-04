@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-04T02:09:16.292Z",
-  "total_datasets": 467,
-  "total_records": 474118,
+  "generated": "2026-11-04T02:09:24.713Z",
+  "total_datasets": 468,
+  "total_records": 474128,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -4418,6 +4418,32 @@
         "xlsx": {
           "name": "uk-ministry-okhorony-zdorovia_UK.xlsx",
           "size": 9450
+        }
+      }
+    },
+    {
+      "id": "uk-sanatorii-ministerstva-oborony",
+      "name": "Санаторії Міністерства оборони України",
+      "category": "health",
+      "record_count": 10,
+      "columns": [
+        "nazva",
+        "rik_vidkryttia",
+        "roztashuvannia",
+        "tymchasovo_okupovano",
+        "profil_likuvannia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_санаторіїв_Міністерства_оборони_України",
+      "updated": "2026-11",
+      "size": 6628,
+      "files": {
+        "csv": {
+          "name": "uk-sanatorii-ministerstva-oborony_UK.csv",
+          "size": 2850
+        },
+        "xlsx": {
+          "name": "uk-sanatorii-ministerstva-oborony_UK.xlsx",
+          "size": 7591
         }
       }
     },

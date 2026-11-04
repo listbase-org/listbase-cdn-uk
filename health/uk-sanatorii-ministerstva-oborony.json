@@ -1,0 +1,121 @@
+{
+  "id": "uk-sanatorii-ministerstva-oborony",
+  "name": "Санаторії Міністерства оборони України",
+  "title": "Санаторії Міністерства оборони України",
+  "description": "Перелік санаторіїв та центрів медичної реабілітації Міністерства оборони України: назва, розташування (з позначкою тимчасово окупованих територій) і профіль лікування.",
+  "category": "health",
+  "source": "https://uk.wikipedia.org/wiki/Список_санаторіїв_Міністерства_оборони_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_санаторіїв_Міністерства_оборони_України",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "rik_vidkryttia",
+      "label": "Rik Vidkryttia",
+      "type": "number"
+    },
+    {
+      "key": "roztashuvannia",
+      "label": "Roztashuvannia",
+      "type": "string"
+    },
+    {
+      "key": "tymchasovo_okupovano",
+      "label": "Tymchasovo Okupovano",
+      "type": "string"
+    },
+    {
+      "key": "profil_likuvannia",
+      "label": "Profil Likuvannia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Центр медичної реабілітації та санаторного лікування «Крим»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Партеніт",
+      "tymchasovo_okupovano": "так",
+      "profil_likuvannia": "захворювання систем кровообігу; нервової системи; органів опору і руху; органів дихання"
+    },
+    {
+      "nazva": "Центр медичної реабілітації та санаторного лікування «Феодосійський» санаторій",
+      "rik_vidkryttia": 1945,
+      "roztashuvannia": "Феодосія",
+      "tymchasovo_okupovano": "так",
+      "profil_likuvannia": "гастроентерологічний"
+    },
+    {
+      "nazva": "Євпаторійський центральний дитячий клінічний санаторій Міністерства оборони України",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Євпаторія",
+      "tymchasovo_okupovano": "так",
+      "profil_likuvannia": ""
+    },
+    {
+      "nazva": "Центр медичної реабілітації, санаторного лікування та спеціальної підготовки особового складу Повітряних і Військово-Морських Сил ЗС України «Судак»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Судак",
+      "tymchasovo_okupovano": "так",
+      "profil_likuvannia": "захворювання систем кровообігу; нервової системи; органів опору і руху; органів дихання"
+    },
+    {
+      "nazva": "Державне підприємство МО України «Сакський центральний військовий клінічний санаторій ім. М.І.Пирогова»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Саки",
+      "tymchasovo_okupovano": "так",
+      "profil_likuvannia": ""
+    },
+    {
+      "nazva": "Центр медичної реабілітації та санаторного лікування «Алупкінський»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Алупка",
+      "tymchasovo_okupovano": "так",
+      "profil_likuvannia": "захворювання систем кровообігу; нервової системи; органів опору і руху; органів дихання"
+    },
+    {
+      "nazva": "Центральний військовий клінічний санаторій «Хмільник»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Хмільник",
+      "tymchasovo_okupovano": "ні",
+      "profil_likuvannia": "гастроентерологічний"
+    },
+    {
+      "nazva": "Центр медичної реабілітації та санаторного лікування «Трускавецький»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Трускавець",
+      "tymchasovo_okupovano": "ні",
+      "profil_likuvannia": "гастроентерологічний"
+    },
+    {
+      "nazva": "Центр медичної реабілітації та санаторного лікування «Пуща-Водиця»",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Пуща-Водиця",
+      "tymchasovo_okupovano": "ні",
+      "profil_likuvannia": "захворювання систем кровообігу; нервової системи; органів опору і руху; органів дихання"
+    },
+    {
+      "nazva": "Військово-медичний клінічний центр Центрального регіону",
+      "rik_vidkryttia": "",
+      "roztashuvannia": "Вінниця",
+      "tymchasovo_okupovano": "ні",
+      "profil_likuvannia": "захворювання систем кровообігу; нервової системи; органів опору і руху; органів дихання"
+    }
+  ],
+  "meta": {
+    "title": "Санаторії Міністерства оборони України - Free Download",
+    "description": "Перелік санаторіїв та центрів медичної реабілітації Міністерства оборони України: назва, розташування (з позначкою тимчасово окупованих територій) і профіль лікування. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Санаторії Міністерства оборони України | ListBase",
+    "seo_description": "Download Санаторії Міністерства оборони України — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_санаторіїв_Міністерства_оборони_України"
+    ]
+  }
+}
