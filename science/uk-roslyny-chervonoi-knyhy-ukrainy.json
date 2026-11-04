@@ -1,0 +1,3340 @@
+{
+  "id": "uk-roslyny-chervonoi-knyhy-ukrainy",
+  "name": "Рослини Червоної книги України",
+  "title": "Рослини Червоної книги України",
+  "description": "Алфавітний список рослин, занесених до четвертого видання Червоної книги України, з українськими та біноміальними (латинськими) назвами.",
+  "category": "science",
+  "source": "https://uk.wikipedia.org/wiki/Рослини_Червоної_книги_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Рослини_Червоної_книги_України",
+  "updated": "2026-11",
+  "record_count": 826,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "binomialna_nazva",
+      "label": "Binomialna Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Агрестія щетиниста",
+      "binomialna_nazva": "Agrestia hispida (Mereschk.)"
+    },
+    {
+      "nazva": "Адіант венерин волос",
+      "binomialna_nazva": "Adiantum capillus-veneris L."
+    },
+    {
+      "nazva": "Айстра альпійська",
+      "binomialna_nazva": "Aster alpinus L."
+    },
+    {
+      "nazva": "Аконіт Бессера",
+      "binomialna_nazva": "Aconitum besserianum Andrz. ex Trautv."
+    },
+    {
+      "nazva": "Аконіт Жакена",
+      "binomialna_nazva": "Aconitum jacquinii Rchb."
+    },
+    {
+      "nazva": "Аконіт несправжньо-протиотруйний",
+      "binomialna_nazva": "Aconitum pseudanthora Błocki ex Pacz."
+    },
+    {
+      "nazva": "Аконіт опушеноплодий",
+      "binomialna_nazva": "Aconitum lasiocarpum (Rchb.) Göyer"
+    },
+    {
+      "nazva": "Алекторія паросткова",
+      "binomialna_nazva": "Alectoria sarmentosa (Ach.) Ach."
+    },
+    {
+      "nazva": "Аллоцетрарія Океза",
+      "binomialna_nazva": "Allocetraria oakesiana (Tuck.) Randlane & Thell"
+    },
+    {
+      "nazva": "Альдрованда пухирчаста",
+      "binomialna_nazva": "Aldrovanda vesiculosa L."
+    },
+    {
+      "nazva": "Анакамптодон сплахноподібний",
+      "binomialna_nazva": "Anacamptodon splachnoides (Froel. ex Brid.) Brid."
+    },
+    {
+      "nazva": "Анектангій Ганделя",
+      "binomialna_nazva": "Anoectangium handelii Schiffn."
+    },
+    {
+      "nazva": "Анограма тонколиста",
+      "binomialna_nazva": "Anogramma leptophylla (L.) Link"
+    },
+    {
+      "nazva": "Армерія покутська",
+      "binomialna_nazva": "Armeria pocutica Pawł."
+    },
+    {
+      "nazva": "Аспіцилія блукаюча",
+      "binomialna_nazva": "Aspicilia vagans Oxner"
+    },
+    {
+      "nazva": "Аспіцилія кущиста",
+      "binomialna_nazva": "Aspicilia fruticulosa (Eversm.)"
+    },
+    {
+      "nazva": "Аспленій Білло",
+      "binomialna_nazva": "Asplenium billotii F.W.Schultz"
+    },
+    {
+      "nazva": "Аспленій Гейфлера",
+      "binomialna_nazva": "Asplenium x heufleri Reichardt"
+    },
+    {
+      "nazva": "Аспленій чорний",
+      "binomialna_nazva": "Asplenium adiantumnigrum L."
+    },
+    {
+      "nazva": "Астрагал безстрілковий",
+      "binomialna_nazva": "Astragalus exscapus L."
+    },
+    {
+      "nazva": "Астрагал Геннінга",
+      "binomialna_nazva": "Astragalus henningii (Steven) Boriss."
+    },
+    {
+      "nazva": "Астрагал дніпровський",
+      "binomialna_nazva": "Astragalus borysthenicus Klokov"
+    },
+    {
+      "nazva": "Астрагал донський",
+      "binomialna_nazva": "Astragalus tanaiticus K.Koch"
+    },
+    {
+      "nazva": "Астрагал зігнутий",
+      "binomialna_nazva": "Astragalus reduncus Pall."
+    },
+    {
+      "nazva": "Астрагал Крайни",
+      "binomialna_nazva": "Astragalus krajinae Domin"
+    },
+    {
+      "nazva": "Астрагал крейдолюбний",
+      "binomialna_nazva": "Astragalus cretophilus Klokov"
+    },
+    {
+      "nazva": "Астрагал монпелійський",
+      "binomialna_nazva": "Astragalus monspessulanus L."
+    },
+    {
+      "nazva": "Астрагал одеський",
+      "binomialna_nazva": "Astragalus odessanus Besser (A. cornutus auct. non Pall.)"
+    },
+    {
+      "nazva": "Астрагал піщаний",
+      "binomialna_nazva": "Astragalus arenarius L."
+    },
+    {
+      "nazva": "Астрагал подібний",
+      "binomialna_nazva": "Astragalus similis Boriss."
+    },
+    {
+      "nazva": "Астрагал понтійський",
+      "binomialna_nazva": "Astragalus ponticus Pall."
+    },
+    {
+      "nazva": "Астрагал сарептський",
+      "binomialna_nazva": "Astragalus sareptanus A.Beck."
+    },
+    {
+      "nazva": "Астрагал сизий",
+      "binomialna_nazva": "Astragalus glaucus M.Bieb."
+    },
+    {
+      "nazva": "Астрагал Цингера",
+      "binomialna_nazva": "Astragalus zingeri Korsh."
+    },
+    {
+      "nazva": "Астрагал шерстистоквітковий",
+      "binomialna_nazva": "Astragalus dasyanthus Pall."
+    },
+    {
+      "nazva": "Астрагал щетинистий",
+      "binomialna_nazva": "Astragalus setosulus Gontsch."
+    },
+    {
+      "nazva": "Астрагал яйцеплідний",
+      "binomialna_nazva": "Astragalus testiculatus Pall."
+    },
+    {
+      "nazva": "Астраканта арнакантова",
+      "binomialna_nazva": "Astracantha arnacantha (M.Bieb.) Podlech"
+    },
+    {
+      "nazva": "Аталамія Спатиза",
+      "binomialna_nazva": "Athalamia spathysii (Lindenb.) S.Hatt."
+    },
+    {
+      "nazva": "Бамбузіна Бребіссона",
+      "binomialna_nazva": "Bambusina brebissonii Kütz. ex Kütz."
+    },
+    {
+      "nazva": "Баранець звичайний",
+      "binomialna_nazva": "Huperzia selago (L.) Bernh. ex Schrank et Mart."
+    },
+    {
+      "nazva": "Батрахоспермум драглистий",
+      "binomialna_nazva": "Batrachospermum gelatinosum (L.) DC."
+    },
+    {
+      "nazva": "Батрахоспермум зовнішньоплідний",
+      "binomialna_nazva": "Batrachospermum ectocarpum Sirodot"
+    },
+    {
+      "nazva": "Беладона звичайна",
+      "binomialna_nazva": "Atropa belladonna L."
+    },
+    {
+      "nazva": "Белонія геркулінська",
+      "binomialna_nazva": "Belonia herculina (Rehm ex Lojka) Hazsl"
+    },
+    {
+      "nazva": "Береза дніпровська",
+      "binomialna_nazva": "Betula borysthenica Klokov"
+    },
+    {
+      "nazva": "Береза Клокова",
+      "binomialna_nazva": "Betula klokovii Zaver."
+    },
+    {
+      "nazva": "Береза низька",
+      "binomialna_nazva": "Betula humilis Schrank"
+    },
+    {
+      "nazva": "Береза темна",
+      "binomialna_nazva": "Betula obscura А.Kotula"
+    },
+    {
+      "nazva": "Берека",
+      "binomialna_nazva": "Sorbus torminalis (L.) Crantz"
+    },
+    {
+      "nazva": "Билинець довгорогий",
+      "binomialna_nazva": "Gymnadenia conopsea (L.) R.Br."
+    },
+    {
+      "nazva": "Билинець найзапашніший",
+      "binomialna_nazva": "Gymnadenia odoratissima (L.) Rich. (Orchis odoratissima L.)"
+    },
+    {
+      "nazva": "Билинець щільноквітковий",
+      "binomialna_nazva": "Gymnadenia densiflora (Wahlenb.)"
+    },
+    {
+      "nazva": "Білогнойовик Богуша",
+      "binomialna_nazva": "Leucocoprinus bohusi Wasser"
+    },
+    {
+      "nazva": "Білопавутинник бульбистий",
+      "binomialna_nazva": "Leucocortinarius bulbiger (Alb. et Schwein.: Fr.) Singer"
+    },
+    {
+      "nazva": "Білопечериця дівоча",
+      "binomialna_nazva": "Leucoagaricus nympharum (Kalchbr.) Bon [ Macrolepiota puellaris (Fr.) M.M. Moser]"
+    },
+    {
+      "nazva": "Білопечериця довгокоренева",
+      "binomialna_nazva": "Leucoagaricus macrorhizus Locq. ex Horak"
+    },
+    {
+      "nazva": "Білопечериця Мозера",
+      "binomialna_nazva": "Leucoagaricus moseri (Wasser) Wasser (Lepiota moseri Wasser)"
+    },
+    {
+      "nazva": "Білотка альпійська",
+      "binomialna_nazva": "Leontopodium alpinum Cass."
+    },
+    {
+      "nazva": "Білоцвіт весняний",
+      "binomialna_nazva": "Leucojum vernum L."
+    },
+    {
+      "nazva": "Білоцвіт літній",
+      "binomialna_nazva": "Leucojum aestivum L."
+    },
+    {
+      "nazva": "Борідник паростковий",
+      "binomialna_nazva": "Jovibarba sobolifera (Sims.) Opiz"
+    },
+    {
+      "nazva": "Борідник шерстистоволосистий",
+      "binomialna_nazva": "Jovibarba hirta (L.) Opiz"
+    },
+    {
+      "nazva": "Боровик бронзовий",
+      "binomialna_nazva": "Boletus aereus Bull"
+    },
+    {
+      "nazva": "Боровик королівський",
+      "binomialna_nazva": "Boletus regius Krombh"
+    },
+    {
+      "nazva": "Борщівник лігустиколистий",
+      "binomialna_nazva": "Heracleum ligusticifolium M.Bieb."
+    },
+    {
+      "nazva": "Борщівник пухнастий",
+      "binomialna_nazva": "Heracleum pubescens (Hoffm.) M.Bieb."
+    },
+    {
+      "nazva": "Брандушка різнобарвна",
+      "binomialna_nazva": "Bulbocodium versicolor (Ker Gawl.) Spreng."
+    },
+    {
+      "nazva": "Бріопсіс адріатичний",
+      "binomialna_nazva": "Bryopsis adriatica (J.Agardh) Menegh."
+    },
+    {
+      "nazva": "Бровник однобульбовий",
+      "binomialna_nazva": "Herminium monorchis (L.) R.Br."
+    },
+    {
+      "nazva": "Бруслина карликова",
+      "binomialna_nazva": "Euonymus nana М.Bieb."
+    },
+    {
+      "nazva": "Будяк пагорбовий",
+      "binomialna_nazva": "Carduus collinus Waldst. et Kit."
+    },
+    {
+      "nazva": "Бузок угорський",
+      "binomialna_nazva": "Syringa josikaea J.Jacq. ex Rchb."
+    },
+    {
+      "nazva": "Булатка великоквіткова",
+      "binomialna_nazva": "Cephalanthera damasonium (Mill.) Druce"
+    },
+    {
+      "nazva": "Булатка довголиста",
+      "binomialna_nazva": "Cephalanthera longifolia (L.) Fritsch"
+    },
+    {
+      "nazva": "Булатка червона",
+      "binomialna_nazva": "Cephalanthera rubra (L.) Rich."
+    },
+    {
+      "nazva": "Бульбохета майже квадратна",
+      "binomialna_nazva": "Bulbochaete subquadrata Mrozińska–Webb"
+    },
+    {
+      "nazva": "Бурачок Борзи",
+      "binomialna_nazva": "Alyssum borzaeanum Nyör."
+    },
+    {
+      "nazva": "Бурачок голоніжковий",
+      "binomialna_nazva": "Alyssum gymnopodum P.Smirn."
+    },
+    {
+      "nazva": "Бурачок савранський",
+      "binomialna_nazva": "Alyssum savranicum Andrz."
+    },
+    {
+      "nazva": "Вайда прибережна",
+      "binomialna_nazva": "Isatis littoralis Steven ex DC."
+    },
+    {
+      "nazva": "Вальдштейнія гравілатоподібна",
+      "binomialna_nazva": "Waldsteinia geoides L."
+    },
+    {
+      "nazva": "Верба альпійська",
+      "binomialna_nazva": "Salix alpina Scop."
+    },
+    {
+      "nazva": "Верба лапландська",
+      "binomialna_nazva": "Salix lapponum L."
+    },
+    {
+      "nazva": "Верба Старке",
+      "binomialna_nazva": "Salix starkeana Willd."
+    },
+    {
+      "nazva": "Верба трав'яна",
+      "binomialna_nazva": "Salix herbacea L."
+    },
+    {
+      "nazva": "Верба туполиста",
+      "binomialna_nazva": "Salix retusa L."
+    },
+    {
+      "nazva": "Верба чорнична",
+      "binomialna_nazva": "Salix myrtilloides L."
+    },
+    {
+      "nazva": "Вероніка безлиста",
+      "binomialna_nazva": "Veronica aphylla L."
+    },
+    {
+      "nazva": "Вероніка кущикова",
+      "binomialna_nazva": "Veronica fruticans Jacq."
+    },
+    {
+      "nazva": "Вероніка стокроткова",
+      "binomialna_nazva": "Veronica bellidioides L."
+    },
+    {
+      "nazva": "Веселка подвоєна",
+      "binomialna_nazva": "Phallus duplicatus Bosc [Dictyophora duplicata (Bosc) E. Fisch.]"
+    },
+    {
+      "nazva": "Вишня Клокова",
+      "binomialna_nazva": "Cerasus klokovii Sobko"
+    },
+    {
+      "nazva": "Відкасник осотоподібний",
+      "binomialna_nazva": "Carlina cirsioides Klokov"
+    },
+    {
+      "nazva": "Відкасник татарниколистий",
+      "binomialna_nazva": "Carlina onopordifolia Besser ex Szafer"
+    },
+    {
+      "nazva": "Вітеринка нарцисоквіткова",
+      "binomialna_nazva": "Anemone narcissiflora L. (incl. A. laxa (Ulbr.) Juz.)"
+    },
+    {
+      "nazva": "Вовна гірська пухнаста",
+      "binomialna_nazva": "Cortusa matthioli L. subsp. pubens (Schott, Nyman et Kotschy) Jëv."
+    },
+    {
+      "nazva": "Вовче лико кримське",
+      "binomialna_nazva": "Daphne taurica Kotov"
+    },
+    {
+      "nazva": "Вовче лико пахуче",
+      "binomialna_nazva": "Daphne cneorum L."
+    },
+    {
+      "nazva": "Вовче лико Софії",
+      "binomialna_nazva": "Daphne sophia Kalen."
+    },
+    {
+      "nazva": "Водяний горіх плаваючий",
+      "binomialna_nazva": "Trapa natans L. s.l."
+    },
+    {
+      "nazva": "Водяний жовтець плаваючий",
+      "binomialna_nazva": "Batrachium fluitans (Lam.) Wimm."
+    },
+    {
+      "nazva": "Волошка білоперлинна",
+      "binomialna_nazva": "Centaurea margarita-alba Klokov"
+    },
+    {
+      "nazva": "Волошка Ванькова",
+      "binomialna_nazva": "Centaurea vankovii Klokov"
+    },
+    {
+      "nazva": "Волошка великопридаткова",
+      "binomialna_nazva": "Centaurea appendicata Klokov"
+    },
+    {
+      "nazva": "Волошка верболиста",
+      "binomialna_nazva": "Centaurea salicifolia M.Bieb."
+    },
+    {
+      "nazva": "Волошка донецька",
+      "binomialna_nazva": "Centaurea donetzica Klokov"
+    },
+    {
+      "nazva": "Волошка козяча",
+      "binomialna_nazva": "Centaurea caprina Steven"
+    },
+    {
+      "nazva": "Волошка Компера",
+      "binomialna_nazva": "Centaurea comperiana Steven"
+    },
+    {
+      "nazva": "Волошка Конки",
+      "binomialna_nazva": "Centaurea konkae Klokov"
+    },
+    {
+      "nazva": "Волошка короткоголова",
+      "binomialna_nazva": "Centaurea breviceps Iljin"
+    },
+    {
+      "nazva": "Волошка напівзаконна",
+      "binomialna_nazva": "Centaurea semijusta Juz."
+    },
+    {
+      "nazva": "Волошка несправжньо-блідолускова",
+      "binomialna_nazva": "Centaurea pseudoleucolepis Kleopow"
+    },
+    {
+      "nazva": "Волошка Пачоського",
+      "binomialna_nazva": "Centaurea paczoskii Kotov ex Klokov"
+    },
+    {
+      "nazva": "Волошка первинногерберова",
+      "binomialna_nazva": "Centaurea protogerberi Klokov"
+    },
+    {
+      "nazva": "Волошка первинноперлинна",
+      "binomialna_nazva": "Centaurea protomargaritacea Klokov"
+    },
+    {
+      "nazva": "Волошка перлиста",
+      "binomialna_nazva": "Centaurea margaritacea Ten."
+    },
+    {
+      "nazva": "Волошка Сарандінакі",
+      "binomialna_nazva": "Centaurea sarandinakiae N.B.Illar."
+    },
+    {
+      "nazva": "Волошка Стевена",
+      "binomialna_nazva": "Centaurea steveniana Klokov"
+    },
+    {
+      "nazva": "Волошка Талієва",
+      "binomialna_nazva": "Centaurea taliewii Kleopow"
+    },
+    {
+      "nazva": "Вошерія прибережна",
+      "binomialna_nazva": "Vaucheria litorea Hoffm.–Bang. et C.Agardh"
+    },
+    {
+      "nazva": "Вудсія альпійська",
+      "binomialna_nazva": "Woodsia alpina (Bolton) S.F.Gray"
+    },
+    {
+      "nazva": "Вудсія ельбська",
+      "binomialna_nazva": "Woodsia ilvensis (L.) R. Br."
+    },
+    {
+      "nazva": "Гадюча цибулька гроноподібна",
+      "binomialna_nazva": "Muscari botryoides (L.) Mill."
+    },
+    {
+      "nazva": "Галеропсис пустельний",
+      "binomialna_nazva": "Galeropsis desertorum Velen. et Dvor"
+    },
+    {
+      "nazva": "Гапломітрій Гукера",
+      "binomialna_nazva": "Haplomitrium hookeri (Sm.) Nees"
+    },
+    {
+      "nazva": "Гвоздика бесарабська",
+      "binomialna_nazva": "Dianthus bessarabicus Klokov"
+    },
+    {
+      "nazva": "Гвоздика бузька",
+      "binomialna_nazva": "Dianthus hypanicus Andrz."
+    },
+    {
+      "nazva": "Гвоздика гарна",
+      "binomialna_nazva": "Dianthus speciosus Rchb."
+    },
+    {
+      "nazva": "Гвоздика гренобльська",
+      "binomialna_nazva": "Dianthus gratianopolitanus Vill."
+    },
+    {
+      "nazva": "Гвоздика несправжньопізня",
+      "binomialna_nazva": "Dianthus pseudoserotinus Błocki"
+    },
+    {
+      "nazva": "Гелодій Бландова",
+      "binomialna_nazva": "Helodium blandowii (F.Weberet D.Mohr) Warnst."
+    },
+    {
+      "nazva": "Гельвела монашка",
+      "binomialna_nazva": "Helvella monachella (Scop.) Fr."
+    },
+    {
+      "nazva": "Гельмінтора розчепірена",
+      "binomialna_nazva": "Helminthora divaricata (C. Agardh) J. Agardh"
+    },
+    {
+      "nazva": "Генедієла Гайма",
+      "binomialna_nazva": "Hennediella heimii (Hedw.) R.H. Zander"
+    },
+    {
+      "nazva": "Генікулярія спіротенієва",
+      "binomialna_nazva": "Genicularia spirotaenia (de Bary) de Bary"
+    },
+    {
+      "nazva": "Герицій коралоподібний",
+      "binomialna_nazva": "Hericium coralloides (Fr.) Gray"
+    },
+    {
+      "nazva": "Гетеродермія прекрасна",
+      "binomialna_nazva": "Heterodermia speciosa (Wulf.) Trev. incl."
+    },
+    {
+      "nazva": "Гетерофіл споріднений",
+      "binomialna_nazva": "Heterophyllium affine (Hook.) M. Fleisch."
+    },
+    {
+      "nazva": "Гіалекта стовбурова",
+      "binomialna_nazva": "Gyalecta truncigena (Ach.) Hepp"
+    },
+    {
+      "nazva": "Гіацинтик Палласів",
+      "binomialna_nazva": "Hyacinthella pallasiana (Steven) Losinsk."
+    },
+    {
+      "nazva": "Гігроцибе ковпакоподібна",
+      "binomialna_nazva": "Hygrocybe calyptriformis (Berk. et Broome) Fayod"
+    },
+    {
+      "nazva": "Гісоп крейдяний",
+      "binomialna_nazva": "Hyssopus cretaceus Dubjan."
+    },
+    {
+      "nazva": "Глевчак однолистий",
+      "binomialna_nazva": "Malaxis monophyllos (L.) Sw."
+    },
+    {
+      "nazva": "Глід Пояркової",
+      "binomialna_nazva": "Crataegus pojarkovae Kossych"
+    },
+    {
+      "nazva": "Глід Турнефора",
+      "binomialna_nazva": "Crataegus tournefortii Griseb."
+    },
+    {
+      "nazva": "Глуха кропива гола",
+      "binomialna_nazva": "Lamium glaberrimum (K.Koch) Taliev"
+    },
+    {
+      "nazva": "Гніздівка звичайна",
+      "binomialna_nazva": "Neottia nidus-avis (L.) Rich."
+    },
+    {
+      "nazva": "Головатень високий",
+      "binomialna_nazva": "Echinops exaltatus Schrad."
+    },
+    {
+      "nazva": "Головачка Дмитра",
+      "binomialna_nazva": "Cephalaria demetrii Bobrov"
+    },
+    {
+      "nazva": "Головачка Литвинова",
+      "binomialna_nazva": "Cephalaria litvinovii Bobrov"
+    },
+    {
+      "nazva": "Гомф булавоподібний",
+      "binomialna_nazva": "Gomphus clavatus (Pers: Fr.)"
+    },
+    {
+      "nazva": "Гонатозігон волохатий",
+      "binomialna_nazva": "Gonatozygon pilosum Wolle"
+    },
+    {
+      "nazva": "Горицвіт весняний",
+      "binomialna_nazva": "Adonis vernalis L."
+    },
+    {
+      "nazva": "Горицвіт волзький",
+      "binomialna_nazva": "Adonis wolgensis Steven ex DC."
+    },
+    {
+      "nazva": "Горох високий",
+      "binomialna_nazva": "Pisum elatius M.Bieb."
+    },
+    {
+      "nazva": "Горянка дворядна",
+      "binomialna_nazva": "Oreochloa disticha (Wulfen) Link"
+    },
+    {
+      "nazva": "Грабельки Бекетова",
+      "binomialna_nazva": "Erodium beketowii Schmalh."
+    },
+    {
+      "nazva": "Грифола листувата",
+      "binomialna_nazva": "Grifola frondosa (Dicks.: Fr.) Gray"
+    },
+    {
+      "nazva": "Громовик багатолистий",
+      "binomialna_nazva": "Onosma polyphylla Ledeb."
+    },
+    {
+      "nazva": "Громовик гранітний",
+      "binomialna_nazva": "Onosma graniticola Klokov"
+    },
+    {
+      "nazva": "Громовик донський",
+      "binomialna_nazva": "Onosma tanaitica Klokov"
+    },
+    {
+      "nazva": "Гронянка багатороздільна",
+      "binomialna_nazva": "Botrychium multifidum (S.G.Gmel.) Rupr."
+    },
+    {
+      "nazva": "Гронянка віргінська",
+      "binomialna_nazva": "Botrychium virginianum (L.) Sw."
+    },
+    {
+      "nazva": "Гронянка півмісяцева",
+      "binomialna_nazva": "Botrychium lunaria (L.) Sw."
+    },
+    {
+      "nazva": "Гронянка ромашколиста",
+      "binomialna_nazva": "Botrychium matricariifolium (A.Braun ex Döll) W.D.J.Koch"
+    },
+    {
+      "nazva": "Гудієра повзуча",
+      "binomialna_nazva": "Goodyera repens (L.) R.Br."
+    },
+    {
+      "nazva": "Гукерія блискуча",
+      "binomialna_nazva": "Hookeria lucens (Hedw.) Sm."
+    },
+    {
+      "nazva": "Дактиліна мадрепорова",
+      "binomialna_nazva": "Dactylina madreporiformis (Ach.) Tuck."
+    },
+    {
+      "nazva": "Дволусківниця зігнута",
+      "binomialna_nazva": "Parapholis incurva (L.) C.E.Hubb."
+    },
+    {
+      "nazva": "Дворядник крейдяний",
+      "binomialna_nazva": "Diplotaxis cretacea Kotov"
+    },
+    {
+      "nazva": "Дельфіній високий",
+      "binomialna_nazva": "Delphinium elatum L."
+    },
+    {
+      "nazva": "Дельфіній Палласа",
+      "binomialna_nazva": "Delphinium pallasii Nevski"
+    },
+    {
+      "nazva": "Дельфіній руський",
+      "binomialna_nazva": "Delphinium rossicum Litv."
+    },
+    {
+      "nazva": "Дельфіній Сергія",
+      "binomialna_nazva": "Delphinium sergii Wissjul."
+    },
+    {
+      "nazva": "Дельфіній яскраво-червоний",
+      "binomialna_nazva": "Delphinium puniceum Pall."
+    },
+    {
+      "nazva": "Деревій голий",
+      "binomialna_nazva": "Achillea glaberrima Klokov"
+    },
+    {
+      "nazva": "Десмідіум Бейлі",
+      "binomialna_nazva": "Desmidium baileyi (Ralfs) Nordst."
+    },
+    {
+      "nazva": "Дзвінець крейдовий",
+      "binomialna_nazva": "Rhinanthus cretaceus Vassilcz."
+    },
+    {
+      "nazva": "Дзвінка кримська",
+      "binomialna_nazva": "Adenophora taurica (Sukacz.) Juz."
+    },
+    {
+      "nazva": "Дзвоники карпатські",
+      "binomialna_nazva": "Campanula carpatica Jacq."
+    },
+    {
+      "nazva": "Дзвоники Кладни",
+      "binomialna_nazva": "Campanula kladniana (Schur) Witasek"
+    },
+    {
+      "nazva": "Дивина розлога",
+      "binomialna_nazva": "Verbascum laxum Filar. et Jöv."
+    },
+    {
+      "nazva": "Дикранодонцій шорсткий",
+      "binomialna_nazva": "Dicranodontium asperulum (Mitt.) Broth."
+    },
+    {
+      "nazva": "Діктиота дихотомічна",
+      "binomialna_nazva": "Dictyota dichotoma (Huds.) J.V. Lamour."
+    },
+    {
+      "nazva": "Доліхоуснея найдовша",
+      "binomialna_nazva": "Dolichousnea longissima (Ach.) Articus (Usnea longissima Ach.)"
+    },
+    {
+      "nazva": "Дріада восьмипелюсткова",
+      "binomialna_nazva": "Dryas octopetala L."
+    },
+    {
+      "nazva": "Дрік малонасінний",
+      "binomialna_nazva": "Genista oligosperma (Andrae) Simonk."
+    },
+    {
+      "nazva": "Дрік скіфський",
+      "binomialna_nazva": "Genista scythica Pacz."
+    },
+    {
+      "nazva": "Дрік чотиригранний",
+      "binomialna_nazva": "Genista tetragona Besser"
+    },
+    {
+      "nazva": "Дрочок крилатий",
+      "binomialna_nazva": "Genistella sagittalis (L.) Gams"
+    },
+    {
+      "nazva": "Дуб кошенільний",
+      "binomialna_nazva": "Quercus cerris L."
+    },
+    {
+      "nazva": "Евастропсіс Ріхтера",
+      "binomialna_nazva": "Euastropsis richteri (Schmidle) Lagerh."
+    },
+    {
+      "nazva": "Евпогодон короткого-строкінцевий",
+      "binomialna_nazva": "Eupogodon apiculata (C. Agardh) P.C. Silva"
+    },
+    {
+      "nazva": "Едогоній косопоровий різновид донський",
+      "binomialna_nazva": "Oedogonium plagiostomum Wittr. ex Hirn var. Tanaiticum Y.V. Roll"
+    },
+    {
+      "nazva": "Ектокарпус стручкуватий",
+      "binomialna_nazva": "Ectocarpus siliculosus (Dillw.) Lyngb. var. hiemalis"
+    },
+    {
+      "nazva": "Ентероморфа азовська",
+      "binomialna_nazva": "Enteromorpha maeotica roschk.–Lavr."
+    },
+    {
+      "nazva": "Ентолома смердюча",
+      "binomialna_nazva": "Entoloma nidorosum (Fr.) Quél. [Rhodophyllus nidorosum (Fr.) Quél., R. speculum, Lange]"
+    },
+    {
+      "nazva": "Еремур кримський",
+      "binomialna_nazva": "Eremurus tauricus Steven"
+    },
+    {
+      "nazva": "Еремур показний",
+      "binomialna_nazva": "Eremurus spectabilis M.Bieb.s.l."
+    },
+    {
+      "nazva": "Еритроній собачий зуб",
+      "binomialna_nazva": "Erythronium dens-canis L."
+    },
+    {
+      "nazva": "Еспарцет Васильченка",
+      "binomialna_nazva": "Onobrychis vassilczenkoi Grossh."
+    },
+    {
+      "nazva": "Еспарцет Палласа",
+      "binomialna_nazva": "Onobrychis pallasii (Willd.) M.Bieb."
+    },
+    {
+      "nazva": "Жабриця Лемана",
+      "binomialna_nazva": "Seseli lehmannii Degen"
+    },
+    {
+      "nazva": "Жеруха грецька",
+      "binomialna_nazva": "Cardamine graeca L."
+    },
+    {
+      "nazva": "Жеруха ніжна",
+      "binomialna_nazva": "Cardamine tenera S.G.Gmelin ex C.A. Meyer"
+    },
+    {
+      "nazva": "Жимолость голуба",
+      "binomialna_nazva": "Lonicera caerulea L."
+    },
+    {
+      "nazva": "Жировик Льозеля",
+      "binomialna_nazva": "Liparis loeselii (L.) Rich."
+    },
+    {
+      "nazva": "Жовтець Тора",
+      "binomialna_nazva": "Ranunculus thora L."
+    },
+    {
+      "nazva": "Жовтозілля Бессера",
+      "binomialna_nazva": "Senecio besserianus Minder."
+    },
+    {
+      "nazva": "Жовтозілля карпатське",
+      "binomialna_nazva": "Senecio carpathicus Herbich"
+    },
+    {
+      "nazva": "Жовтозілля кримське",
+      "binomialna_nazva": "Senecio tauricus Konechn."
+    },
+    {
+      "nazva": "Жовтушник кринкський",
+      "binomialna_nazva": "Erysimum krynkense Lavrenko"
+    },
+    {
+      "nazva": "Жовтушник український",
+      "binomialna_nazva": "Erysimum ucranicum J. Gay."
+    },
+    {
+      "nazva": "Жовтушниця Талієва",
+      "binomialna_nazva": "Syrenia talijevii Klokov"
+    },
+    {
+      "nazva": "Жостір фарбувальний",
+      "binomialna_nazva": "Rhamnus tinctoria Waldst. et Kit."
+    },
+    {
+      "nazva": "Журавлина дрібноплода",
+      "binomialna_nazva": "Oxycoccus microcarpus Turcz. ex Rupr."
+    },
+    {
+      "nazva": "Залізняк скіфський",
+      "binomialna_nazva": "Phlomis scythica Klokov et Des.-Shost."
+    },
+    {
+      "nazva": "Зелениця альпійська",
+      "binomialna_nazva": "Diphasiastrum alpinum (L.) Holub"
+    },
+    {
+      "nazva": "Зелениця Ісслера",
+      "binomialna_nazva": "Diphasiastrum issleri (Rouy) Holub"
+    },
+    {
+      "nazva": "Зелениця сплюснута",
+      "binomialna_nazva": "Diphasiastrum complanatum (L.) Holub"
+    },
+    {
+      "nazva": "Зелениця триколоскова",
+      "binomialna_nazva": "Diphasiastrum tristachyum (Pursh) Holub"
+    },
+    {
+      "nazva": "Зелениця Цайллера",
+      "binomialna_nazva": "Diphasiastrum zeilleri (Rouy) Holub"
+    },
+    {
+      "nazva": "Зеленоплідниця фіолетова",
+      "binomialna_nazva": "Bellardiochloa violacea (Bellardi) Chiov."
+    },
+    {
+      "nazva": "Зіновать біла",
+      "binomialna_nazva": "Chamaecytisus albus (Hacq.) Rothm."
+    },
+    {
+      "nazva": "Зіновать Блоцького",
+      "binomialna_nazva": "Chamaecytisus blockianus (Pawł.) Klásk."
+    },
+    {
+      "nazva": "Зіновать Вульфа",
+      "binomialna_nazva": "Chamaecytisus wulffii (V. Krecz.) Klásk."
+    },
+    {
+      "nazva": "Зіновать гранітна",
+      "binomialna_nazva": "Chamaecytisus graniticus (Rehmann) Rothm."
+    },
+    {
+      "nazva": "Зіновать Пачоського",
+      "binomialna_nazva": "Chamaecytisus paczoskii (V. Krecz.) Klásk."
+    },
+    {
+      "nazva": "Зіновать подільська",
+      "binomialna_nazva": "Chamaecytisus podolicus (Błocki) Klásk."
+    },
+    {
+      "nazva": "Зіновать Рошеля",
+      "binomialna_nazva": "Chamaecytisus rochelii (Wierzb.) Rothm."
+    },
+    {
+      "nazva": "Зіркоплідник частуховий",
+      "binomialna_nazva": "Damasonium alisma Mill."
+    },
+    {
+      "nazva": "Злинка альпійська",
+      "binomialna_nazva": "Erigeron alpinus L."
+    },
+    {
+      "nazva": "Злинка залозиста",
+      "binomialna_nazva": "Erigeron atticus Vill."
+    },
+    {
+      "nazva": "Змієголовник австрійський",
+      "binomialna_nazva": "Dracocephalum austriacum L."
+    },
+    {
+      "nazva": "Змієголовник Рюйша",
+      "binomialna_nazva": "Dracocephalum ruyschiana L."
+    },
+    {
+      "nazva": "Зміячка австрійська",
+      "binomialna_nazva": "Scorzonera austriaca Willd."
+    },
+    {
+      "nazva": "Зморшок степовий",
+      "binomialna_nazva": "Morchella steppicola Zerova"
+    },
+    {
+      "nazva": "Зморшок товстоногий",
+      "binomialna_nazva": "Morchella crassipes (Vent.) Pers"
+    },
+    {
+      "nazva": "Зозулинець блідий",
+      "binomialna_nazva": "Orchis pallens L."
+    },
+    {
+      "nazva": "Зозулинець Ванькова",
+      "binomialna_nazva": "Orchis wanjkowii E.Wulff"
+    },
+    {
+      "nazva": "Зозулинець дрібнокрапчастий",
+      "binomialna_nazva": "Orchis punctulata Steven ex Lindl."
+    },
+    {
+      "nazva": "Зозулинець мавпячий",
+      "binomialna_nazva": "Orchis simia Lam."
+    },
+    {
+      "nazva": "Зозулинець прикрашений",
+      "binomialna_nazva": "Orchis signifera Vest"
+    },
+    {
+      "nazva": "Зозулинець прованський",
+      "binomialna_nazva": "Orchis provincialis Balb."
+    },
+    {
+      "nazva": "Зозулинець пурпуровий",
+      "binomialna_nazva": "Orchis purpurea Huds."
+    },
+    {
+      "nazva": "Зозулинець чоловічий",
+      "binomialna_nazva": "Orchis mascula (L.) L."
+    },
+    {
+      "nazva": "Зозулинець шоломоносний",
+      "binomialna_nazva": "Orchis militaris L."
+    },
+    {
+      "nazva": "Зозулині сльози серцелисті",
+      "binomialna_nazva": "Listera cordata (L.) R.Br."
+    },
+    {
+      "nazva": "Зозулині сльози яйцеподібні",
+      "binomialna_nazva": "Listera ovata (L.) R.Br."
+    },
+    {
+      "nazva": "Зозулині черевички справжні",
+      "binomialna_nazva": "Cypripedium calceolus L."
+    },
+    {
+      "nazva": "Зозульки бузинові",
+      "binomialna_nazva": "Dactylorhiza sambucina (L.) Soy"
+    },
+    {
+      "nazva": "Зозульки іберійські",
+      "binomialna_nazva": "Dactylorhiza iberica (M.Bieb. ex Willd.) Soy"
+    },
+    {
+      "nazva": "Зозульки м'ясо-червоні",
+      "binomialna_nazva": "Dactylorhiza incarnata (L.) Soy s.l."
+    },
+    {
+      "nazva": "Зозульки плямисті",
+      "binomialna_nazva": "Dactylorhiza maculata (L.) Soό s.l."
+    },
+    {
+      "nazva": "Зозульки римські",
+      "binomialna_nazva": "Dactylorhiza romana (Sebast.) Soó"
+    },
+    {
+      "nazva": "Зозульки серценосні",
+      "binomialna_nazva": "Dactylorhiza cordigera (Fries) Soy"
+    },
+    {
+      "nazva": "Зозульки травневі",
+      "binomialna_nazva": "Dactylorhiza majalis (Rchb.) P.F.Hunt et Summerhayes s.l."
+    },
+    {
+      "nazva": "Зозульки трансильванські",
+      "binomialna_nazva": "Dactylorhiza transsilvanica (Schur) Aver."
+    },
+    {
+      "nazva": "Зозульки Траунштейнера",
+      "binomialna_nazva": "Dactylorhiza traunsteineri (Saut. ex Rchb.) Soy"
+    },
+    {
+      "nazva": "Зозульки Фукса",
+      "binomialna_nazva": "Dactylorhiza fuchsii (Druce) Soy"
+    },
+    {
+      "nazva": "Золотень жовтий",
+      "binomialna_nazva": "Asphodeline lutea (L.) Rchb."
+    },
+    {
+      "nazva": "Золотобородник цикадовий",
+      "binomialna_nazva": "Chrysopogon gryllus (L.) Trin."
+    },
+    {
+      "nazva": "Їжача голівка вузьколиста",
+      "binomialna_nazva": "Sparganium angustifolium Michx."
+    },
+    {
+      "nazva": "Калітамніон зернистий",
+      "binomialna_nazva": "Callithamnion granulatum (Ducluz.) C. Agardh"
+    },
+    {
+      "nazva": "Калофака волзька",
+      "binomialna_nazva": "Calophaca wolgarica (L. f.) DC."
+    },
+    {
+      "nazva": "Кальдезія білозоролиста",
+      "binomialna_nazva": "Caldesia parnassifolia (L.) Parl."
+    },
+    {
+      "nazva": "Кальмарник веретеноподібний",
+      "binomialna_nazva": "Pseudocolus fusiformis (E. Fischer) Lloyd [Anthurus javanicus (Penz.) Cunn.]"
+    },
+    {
+      "nazva": "Кампілостелій скельний",
+      "binomialna_nazva": "Campylostelium saxicola (F. Weber et D. Mohr) Bruch et Schimp."
+    },
+    {
+      "nazva": "Капуста кримська",
+      "binomialna_nazva": "Brassica taurica (Tzvelev) Tzvelev"
+    },
+    {
+      "nazva": "Карагана скіфська",
+      "binomialna_nazva": "Caragana scythica (Kom.) Pojark."
+    },
+    {
+      "nazva": "Катателазма царська",
+      "binomialna_nazva": "Catathelasma imperiale (Fr.) Sing."
+    },
+    {
+      "nazva": "Катран великоквітковий",
+      "binomialna_nazva": "Crambe grandiflora DC."
+    },
+    {
+      "nazva": "Катран коктебельський",
+      "binomialna_nazva": "Crambe koktebelica (Junge) N. Busch"
+    },
+    {
+      "nazva": "Катран мітрідатський",
+      "binomialna_nazva": "Crambe mitridatis Juz."
+    },
+    {
+      "nazva": "Катран морський",
+      "binomialna_nazva": "Crambe maritima L."
+    },
+    {
+      "nazva": "Катран пірчастонадрізаний",
+      "binomialna_nazva": "Crambe pinnatifida W.T.Aiton"
+    },
+    {
+      "nazva": "Катран Стевена",
+      "binomialna_nazva": "Crambe steveniana Rupr."
+    },
+    {
+      "nazva": "Катран татарський",
+      "binomialna_nazva": "Crambe tataria Sebeyk"
+    },
+    {
+      "nazva": "Катран шершавий",
+      "binomialna_nazva": "Crambe aspera M. Bieb. (C. buschii (O.E. Schulz) Grossh.)"
+    },
+    {
+      "nazva": "Квітохвісник Арчера",
+      "binomialna_nazva": "Anthurus archeri (Berk.) Fischer"
+    },
+    {
+      "nazva": "Келерія Талієва",
+      "binomialna_nazva": "Koeleria talievii Lavrenko"
+    },
+    {
+      "nazva": "Кендир венеційський",
+      "binomialna_nazva": "Trachomitum venetum (L.) Woodson s.l."
+    },
+    {
+      "nazva": "Кермек чурюцький",
+      "binomialna_nazva": "Limonium tschurjukiense (Klokov) Lavrenko ex Klokov"
+    },
+    {
+      "nazva": "Кермечник злаколистий",
+      "binomialna_nazva": "Goniolimon graminifolium (Aiton) Boiss."
+    },
+    {
+      "nazva": "Кермечник червонуватий",
+      "binomialna_nazva": "Goniolimon rubellum (S.G.Gmel.) Klokov"
+    },
+    {
+      "nazva": "Кисличник двостовпчиковий",
+      "binomialna_nazva": "Oxyria digyna (L.) Hill"
+    },
+    {
+      "nazva": "Клаваріадельф товкачиковий",
+      "binomialna_nazva": "Clavariadelphus pistillaris (L.) Donk (Clavaria pistillaris Fr.)"
+    },
+    {
+      "nazva": "Кладонія зірчаста",
+      "binomialna_nazva": "Cladonia stellaris (Opiz.) Brodo (Cladonia alpestris (L.) Rabenh.)"
+    },
+    {
+      "nazva": "Кладостефус губчатий",
+      "binomialna_nazva": "Cladostephus spongiosus (Huds.) C. Agardh"
+    },
+    {
+      "nazva": "Кладостефус кільчастий",
+      "binomialna_nazva": "Cladostephus verticillatus (Lightf.) C. Agardh"
+    },
+    {
+      "nazva": "Кладофора вадорська",
+      "binomialna_nazva": "Cladophora vadorum (Aresch.) Kütz."
+    },
+    {
+      "nazva": "Кладофора далматська",
+      "binomialna_nazva": "Cladophora dalmatica Kütz."
+    },
+    {
+      "nazva": "Кладофоропсис шкірястий",
+      "binomialna_nazva": "Cladophoropsis membranacea (Hofm. Bang. ex C. Agardh) Börg."
+    },
+    {
+      "nazva": "Клеома птахоніжкоподібна",
+      "binomialna_nazva": "Cleome ornithopodioides L. s.l."
+    },
+    {
+      "nazva": "Кліщинець білокрилий",
+      "binomialna_nazva": "Arum albispathum Steven ex Ledeb."
+    },
+    {
+      "nazva": "Кліщинець східний",
+      "binomialna_nazva": "Arum orientale M. Bieb."
+    },
+    {
+      "nazva": "Клокичка периста",
+      "binomialna_nazva": "Staphylea pinnata L."
+    },
+    {
+      "nazva": "Ковила азовська",
+      "binomialna_nazva": "Stipa maeotica Klokov et Ossycznjuk"
+    },
+    {
+      "nazva": "Ковила Браунера",
+      "binomialna_nazva": "Stipa brauneri (Pacz.) Klokov"
+    },
+    {
+      "nazva": "Ковила відмінна",
+      "binomialna_nazva": "Stipa anomala P.Smirn. ex Roshev."
+    },
+    {
+      "nazva": "Ковила відокремлена",
+      "binomialna_nazva": "Stipa disjuncta Klokov"
+    },
+    {
+      "nazva": "Ковила волосиста",
+      "binomialna_nazva": "Stipa capillata L."
+    },
+    {
+      "nazva": "Ковила вузьколиста",
+      "binomialna_nazva": "Stipa tirsa Steven"
+    },
+    {
+      "nazva": "Ковила гірська",
+      "binomialna_nazva": "Stipa oreades Klokov"
+    },
+    {
+      "nazva": "Ковила гранітна",
+      "binomialna_nazva": "Stipa graniticola Klokov"
+    },
+    {
+      "nazva": "Ковила дивна",
+      "binomialna_nazva": "Stipa adoxa Klokov et Ossycznjuk"
+    },
+    {
+      "nazva": "Ковила дніпровська",
+      "binomialna_nazva": "Stipa borysthenica Klokov ex Prokudin"
+    },
+    {
+      "nazva": "Ковила донецька",
+      "binomialna_nazva": "Stipa donetzica Czupryna"
+    },
+    {
+      "nazva": "Ковила закарпатська",
+      "binomialna_nazva": "Stipa transcarpatica Klokov"
+    },
+    {
+      "nazva": "Ковила Залеського",
+      "binomialna_nazva": "Stipa zalesskii Wilensky"
+    },
+    {
+      "nazva": "Ковила каменелюбна",
+      "binomialna_nazva": "Stipa lithophila P.Smirn."
+    },
+    {
+      "nazva": "Ковила короткокрила",
+      "binomialna_nazva": "Stipa brachyptera Klokov"
+    },
+    {
+      "nazva": "Ковила Лессінга",
+      "binomialna_nazva": "Stipa lessingiana Trin. et Rupr."
+    },
+    {
+      "nazva": "Ковила Мартиновського",
+      "binomialna_nazva": "Stipa martinovskyi Klokov"
+    },
+    {
+      "nazva": "Ковила найкрасивіша",
+      "binomialna_nazva": "Stipa pulcherrima K. Koch"
+    },
+    {
+      "nazva": "Ковила облудна",
+      "binomialna_nazva": "Stipa fallacina Klokov et Ossycznjuk"
+    },
+    {
+      "nazva": "Ковила пірчаста",
+      "binomialna_nazva": "Stipa pennata L."
+    },
+    {
+      "nazva": "Ковила поетична",
+      "binomialna_nazva": "Stipa poëtica Klokov"
+    },
+    {
+      "nazva": "Ковила пухнастолиста",
+      "binomialna_nazva": "Stipa dasyphylla (Czern. ex Lindem.) Trautv."
+    },
+    {
+      "nazva": "Ковила різнолиста",
+      "binomialna_nazva": "Stipa heterophylla Klokov"
+    },
+    {
+      "nazva": "Ковила Сирейщикова",
+      "binomialna_nazva": "Stipa syreistschikowii P.Smirn."
+    },
+    {
+      "nazva": "Ковила травнева",
+      "binomialna_nazva": "Stipa majalis Klokov"
+    },
+    {
+      "nazva": "Ковила українська",
+      "binomialna_nazva": "Stipa ucrainica P. Smirn."
+    },
+    {
+      "nazva": "Ковила шорстка",
+      "binomialna_nazva": "Stipa asperella Klokov et Ossycznjuk"
+    },
+    {
+      "nazva": "Кодіум черв'якуватий",
+      "binomialna_nazva": "Codium vermilara (Olivi) Delle Chiaje"
+    },
+    {
+      "nazva": "Козельці донецькі",
+      "binomialna_nazva": "Tragopogon donetzicus Artemcz."
+    },
+    {
+      "nazva": "Кололеженея Россетта",
+      "binomialna_nazva": "Cololejeunea rossettiana (C.Massal.) Schiffn."
+    },
+    {
+      "nazva": "Колючконос Сібторпа",
+      "binomialna_nazva": "Echinophora sibthorpiana Guss."
+    },
+    {
+      "nazva": "Комишник двороздільний",
+      "binomialna_nazva": "Fimbristylis bisumbellata (Forssk.) Bubani"
+    },
+    {
+      "nazva": "Комонничок зігнутий",
+      "binomialna_nazva": "Succisella inflexa (Kluk) G.Beck"
+    },
+    {
+      "nazva": "Комперія кримська",
+      "binomialna_nazva": "Comperia comperiana (Steven) Asch. et Graebn."
+    },
+    {
+      "nazva": "Конардія компактна",
+      "binomialna_nazva": "Conardia compacta (Drumm. ex Müll. Hal.) H. Rob."
+    },
+    {
+      "nazva": "Конюшина темно-каштанова",
+      "binomialna_nazva": "Trifolium badium Schreb."
+    },
+    {
+      "nazva": "Конюшина червонувата",
+      "binomialna_nazva": "Trifolium rubens L."
+    },
+    {
+      "nazva": "Коральковець тричінадрізаний",
+      "binomialna_nazva": "Corallorhiza trifida Chätel."
+    },
+    {
+      "nazva": "Короличка пізня",
+      "binomialna_nazva": "Leucanthemella serotina (L.) Tzvelev."
+    },
+    {
+      "nazva": "Коручка болотна",
+      "binomialna_nazva": "Epipactis palustris (L.) Crantz"
+    },
+    {
+      "nazva": "Коручка дрібнолиста",
+      "binomialna_nazva": "Epipactis microphylla (Ehrh.) Sw."
+    },
+    {
+      "nazva": "Коручка ельбська",
+      "binomialna_nazva": "Epipactis albensis Novökovöet Rydlo"
+    },
+    {
+      "nazva": "Коручка пурпурова",
+      "binomialna_nazva": "Epipactis purpurata Smith"
+    },
+    {
+      "nazva": "Коручка темно-червона",
+      "binomialna_nazva": "Epipactis atrorubens (Hoffm. ex Bernh.) Besser"
+    },
+    {
+      "nazva": "Коручка чемерникоподібна",
+      "binomialna_nazva": "Epipactis helleborine (L.) Crantz"
+    },
+    {
+      "nazva": "Косарики болотні",
+      "binomialna_nazva": "Gladiolus palustris Gaudin"
+    },
+    {
+      "nazva": "Косарики італійські",
+      "binomialna_nazva": "Gladiolus italicus Mill."
+    },
+    {
+      "nazva": "Косарики тонкі",
+      "binomialna_nazva": "Gladiolus tenuis M.Bieb."
+    },
+    {
+      "nazva": "Косарики черепитчасті",
+      "binomialna_nazva": "Gladiolus imbricatus L."
+    },
+    {
+      "nazva": "Костриця блідувата",
+      "binomialna_nazva": "Festuca pallens Host."
+    },
+    {
+      "nazva": "Костриця гірська",
+      "binomialna_nazva": "Festuca drymeja Mert. et W.D.J.Koch."
+    },
+    {
+      "nazva": "Костриця крейдова",
+      "binomialna_nazva": "Festuca cretacea T.Pop. et Proskor."
+    },
+    {
+      "nazva": "Костриця Порціуса",
+      "binomialna_nazva": "Festuca porcii Hack."
+    },
+    {
+      "nazva": "Костриця різнолиста",
+      "binomialna_nazva": "Festuca heterophylla Lam."
+    },
+    {
+      "nazva": "Костриця скельна",
+      "binomialna_nazva": "Festuca saxatilis Schur"
+    },
+    {
+      "nazva": "Котячі лапки карпатські",
+      "binomialna_nazva": "Antennaria carpatica (Wahlenb.) Bluff et Fingerh."
+    },
+    {
+      "nazva": "Краєкучник верхівковий",
+      "binomialna_nazva": "Cheilanthes acrosticha (Balb.) Tod."
+    },
+    {
+      "nazva": "Краєкучник перський",
+      "binomialna_nazva": "Cheilanthes persica (Bory) Mett. ex Kuhn"
+    },
+    {
+      "nazva": "Крепідот македонський",
+      "binomialna_nazva": "Crepidotus macedonicus Pilát"
+    },
+    {
+      "nazva": "Критмій морський",
+      "binomialna_nazva": "Crithmum maritimum L."
+    },
+    {
+      "nazva": "Крупка аїзоподібна",
+      "binomialna_nazva": "Draba aizoides L."
+    },
+    {
+      "nazva": "Ксантопармелія грубозморшкувата",
+      "binomialna_nazva": "Xanthoparmelia ryssolea (Ach.)"
+    },
+    {
+      "nazva": "Ксантопармелія загорнута",
+      "binomialna_nazva": "Xanthoparmelia convoluta (Krempelh.)"
+    },
+    {
+      "nazva": "Куга гострокінцева",
+      "binomialna_nazva": "Schoenoplectus mucronatus (L.) Palla"
+    },
+    {
+      "nazva": "Кулівниця вузькопелюсткова",
+      "binomialna_nazva": "Globularia trichosantha Fisch. et C.A.Mey."
+    },
+    {
+      "nazva": "Курай туполистий",
+      "binomialna_nazva": "Salsola mutica C. A. Mey."
+    },
+    {
+      "nazva": "Кучерявка відігнута",
+      "binomialna_nazva": "Atraphaxis replicata Lam."
+    },
+    {
+      "nazva": "Кучерявка кущова",
+      "binomialna_nazva": "Atraphaxis frutescens (L.) K.Koch."
+    },
+    {
+      "nazva": "Лагозерис пурпуровий",
+      "binomialna_nazva": "Lagoseris purpurea (Willd.) Boiss."
+    },
+    {
+      "nazva": "Ламкоколосник ситниковий",
+      "binomialna_nazva": "Psathyrostachys juncea (Fisch.) Nevski"
+    },
+    {
+      "nazva": "Лампротамніум пухирчастий",
+      "binomialna_nazva": "Lamprothamnium papullosum (Wallroth) J.Groves"
+    },
+    {
+      "nazva": "Ласалія пухирчаста",
+      "binomialna_nazva": "Lasallia pustulata (L.) Merat (=Umbilicaria pustulata (L.) Hoffm.)"
+    },
+    {
+      "nazva": "Ласалія російська",
+      "binomialna_nazva": "Lasallia rossica Dombr. (=Umbilicaria rossica (Dombr.) Golubk.)"
+    },
+    {
+      "nazva": "Ласкавець жовтецевий",
+      "binomialna_nazva": "Bupleurum ranunculoides L."
+    },
+    {
+      "nazva": "Ласкавець тонкий",
+      "binomialna_nazva": "Bupleurum tenuissimum L."
+    },
+    {
+      "nazva": "Левкой запашний",
+      "binomialna_nazva": "Matthiola fragrans Bunge"
+    },
+    {
+      "nazva": "Леканора Реутера",
+      "binomialna_nazva": "Lecanora reuteri (Trevis.) Scharer"
+    },
+    {
+      "nazva": "Лептогій Шредера",
+      "binomialna_nazva": "Leptogium schraderi (Ach.) Nyl."
+    },
+    {
+      "nazva": "Лептогіум насічений",
+      "binomialna_nazva": "Leptogium saturninum (Dicks.) Nyl."
+    },
+    {
+      "nazva": "Лептогіум черепицеподібний",
+      "binomialna_nazva": "Leptogium imbricatum P. Jorg."
+    },
+    {
+      "nazva": "Летаріела переплутана",
+      "binomialna_nazva": "Lethariella intricata (Moris) Krog (=Rhytidocaulon arboricola (Jatta) Elenk.)"
+    },
+    {
+      "nazva": "Леукокарпія біаторова",
+      "binomialna_nazva": "Leucocarpia biatorella (Arnold) Vezda"
+    },
+    {
+      "nazva": "Лещиця дністровська",
+      "binomialna_nazva": "Gypsophila thyraica Krasnova"
+    },
+    {
+      "nazva": "Лещиця скупчена",
+      "binomialna_nazva": "Gypsophila glomerata Pall. ex Adam"
+    },
+    {
+      "nazva": "Липа пухнастостовпчикова",
+      "binomialna_nazva": "Tilia dasystyla Steven"
+    },
+    {
+      "nazva": "Листочня кучерява",
+      "binomialna_nazva": "Sparassis crispa (Wulfen) Fr."
+    },
+    {
+      "nazva": "Лікопердон соскоподібний",
+      "binomialna_nazva": "Lycoperdon mammaeforme Pers. (L. velatum Vitt., L. laxum Bon.)"
+    },
+    {
+      "nazva": "Лілійка пізня",
+      "binomialna_nazva": "Lloydia serotina (L.) Rchb."
+    },
+    {
+      "nazva": "Лілія лісова",
+      "binomialna_nazva": "Lilium martagon L."
+    },
+    {
+      "nazva": "Лімацела степова",
+      "binomialna_nazva": "Limacella steppicola"
+    },
+    {
+      "nazva": "Лімодор недорозвинений",
+      "binomialna_nazva": "Limodorum abortivum (L.) Sw."
+    },
+    {
+      "nazva": "Ліннея північна",
+      "binomialna_nazva": "Linnaea borealis L."
+    },
+    {
+      "nazva": "Ліофіл Фавре",
+      "binomialna_nazva": "Lyophyllum favrei (R. Haller Aar. et R. Haller Suhr)"
+    },
+    {
+      "nazva": "Ліхеномфалія Гудсонова",
+      "binomialna_nazva": "Lichenomphalia hudsoniana (H.S. Jenn.)"
+    },
+    {
+      "nazva": "Лобарія легеневоподібна",
+      "binomialna_nazva": "Lobaria pulmonaria (L.) Hoffm."
+    },
+    {
+      "nazva": "Лобарія широка",
+      "binomialna_nazva": "Lobaria amplissima (Scop.) Forss"
+    },
+    {
+      "nazva": "Ложечниця піренейська",
+      "binomialna_nazva": "Cochlearia pyrenaica DC."
+    },
+    {
+      "nazva": "Ломикамінь аїзоподібний",
+      "binomialna_nazva": "Saxifraga aizoides L."
+    },
+    {
+      "nazva": "Ломикамінь болотний",
+      "binomialna_nazva": "Saxifraga hirculus L."
+    },
+    {
+      "nazva": "Ломикамінь бульбистий",
+      "binomialna_nazva": "Saxifraga bulbifera L."
+    },
+    {
+      "nazva": "Ломикамінь жовто-зелений",
+      "binomialna_nazva": "Saxifraga luteo-viridis Schott et Kotschy"
+    },
+    {
+      "nazva": "Ломикамінь зернистий",
+      "binomialna_nazva": "Saxifraga granulata L."
+    },
+    {
+      "nazva": "Ломикамінь карпатський",
+      "binomialna_nazva": "Saxifraga carpatica Sternb."
+    },
+    {
+      "nazva": "Ломикамінь мохоподібний",
+      "binomialna_nazva": "Saxifraga bryoides L."
+    },
+    {
+      "nazva": "Ломикамінь напівзонтиковий",
+      "binomialna_nazva": "Saxifraga pedemontana All. subsp. cymosa Engler"
+    },
+    {
+      "nazva": "Ломикамінь переломниковий",
+      "binomialna_nazva": "Saxifraga androsacea L."
+    },
+    {
+      "nazva": "Ломикамінь супротивнолистий",
+      "binomialna_nazva": "Saxifraga oppositifolia L."
+    },
+    {
+      "nazva": "Лорансія чашоподібна",
+      "binomialna_nazva": "Laurencia coronopus J.Agardh"
+    },
+    {
+      "nazva": "Лофосифонія повзуча",
+      "binomialna_nazva": "Lophosiphonia reptabunda (Suhr.) Kylin"
+    },
+    {
+      "nazva": "Лусківниця марантова",
+      "binomialna_nazva": "Notholaena marantae (L.) Desv."
+    },
+    {
+      "nazva": "Льон бесарабський",
+      "binomialna_nazva": "Linum basarabicum (Savul. et Rayss) Klokov ex Juz."
+    },
+    {
+      "nazva": "Льон Палласів",
+      "binomialna_nazva": "Linum pallasianum Schult."
+    },
+    {
+      "nazva": "Льонок бессарабський",
+      "binomialna_nazva": "Linaria bessarabica Kotov"
+    },
+    {
+      "nazva": "Льонок крейдовий",
+      "binomialna_nazva": "Linaria cretacea Fisch. ex Spreng."
+    },
+    {
+      "nazva": "Любка дволиста",
+      "binomialna_nazva": "Platanthera bifolia (L.) Rich."
+    },
+    {
+      "nazva": "Любка зеленоквіткова",
+      "binomialna_nazva": "Platanthera chlorantha (Cust.) Rchb."
+    },
+    {
+      "nazva": "Людвігія болотна",
+      "binomialna_nazva": "Ludwigia palustris (L.) Elliott"
+    },
+    {
+      "nazva": "Люцерна приморська",
+      "binomialna_nazva": "Medicago marina L."
+    },
+    {
+      "nazva": "Люцерна щебениста",
+      "binomialna_nazva": "Medicago saxatilis M.Bieb."
+    },
+    {
+      "nazva": "М'якух болотний",
+      "binomialna_nazva": "Hammarbya paludosa (L.) O.Kuntze"
+    },
+    {
+      "nazva": "Марсилея чотирилиста",
+      "binomialna_nazva": "Marsilea quadrifolia L."
+    },
+    {
+      "nazva": "Мачок жовтий",
+      "binomialna_nazva": "Glaucium flavum Crantz"
+    },
+    {
+      "nazva": "Меезія багнова",
+      "binomialna_nazva": "Meesia uliginosa Hedw."
+    },
+    {
+      "nazva": "Меезія довгоніжкова",
+      "binomialna_nazva": "Meesia longiseta Hedw."
+    },
+    {
+      "nazva": "Меезія тригранна",
+      "binomialna_nazva": "Meesia triquetra (L. ex Jolycl.) Engstr."
+    },
+    {
+      "nazva": "Меланохалеа елегантна",
+      "binomialna_nazva": "Melanohalea elegantula (Zahlbr.)"
+    },
+    {
+      "nazva": "Мерингія бузька",
+      "binomialna_nazva": "Moehringia hypanica Grynjet Klokov"
+    },
+    {
+      "nazva": "Меч-трава болотна",
+      "binomialna_nazva": "Cladium mariscus (L.) Pohl s.l."
+    },
+    {
+      "nazva": "Мікромерія чебрецелиста",
+      "binomialna_nazva": "Micromeria serpyllifolia (M.Bieb.) Boiss."
+    },
+    {
+      "nazva": "Мінуарція гостропелюсткова",
+      "binomialna_nazva": "Minuartia oxypetala (Woł.) Kulcz."
+    },
+    {
+      "nazva": "Мінуарція рідкоквіткова",
+      "binomialna_nazva": "Minuartia pauciflora (Kit. ex Kanitz) Dvořaková"
+    },
+    {
+      "nazva": "Міріостома шийкова",
+      "binomialna_nazva": "Myriostoma coliforme (With.: Pers.) Corda"
+    },
+    {
+      "nazva": "Місячниця оживаюча",
+      "binomialna_nazva": "Lunaria rediviva L."
+    },
+    {
+      "nazva": "Мітлиця альпійська",
+      "binomialna_nazva": "Agrostis alpina Scop."
+    },
+    {
+      "nazva": "Мітлиця скельна",
+      "binomialna_nazva": "Agrostis rupestris All."
+    },
+    {
+      "nazva": "Міхурниця альпійська",
+      "binomialna_nazva": "Cystopteris alpina (Lam.) Desv."
+    },
+    {
+      "nazva": "Міхурниця гірська",
+      "binomialna_nazva": "Cystopteris montana (Lam.) Bernh. ex Desv."
+    },
+    {
+      "nazva": "Міхурниця судетська",
+      "binomialna_nazva": "Cystopteris sudetica A.Braunet Milde"
+    },
+    {
+      "nazva": "Модрина польська",
+      "binomialna_nazva": "Larix polonica Racib."
+    },
+    {
+      "nazva": "Модринофомес лікарський",
+      "binomialna_nazva": "Laricifomes officinalis"
+    },
+    {
+      "nazva": "Молодило гірське",
+      "binomialna_nazva": "Sempervivum montanum L."
+    },
+    {
+      "nazva": "Молодило мармурове",
+      "binomialna_nazva": "Sempervivum marmoreum Griseb."
+    },
+    {
+      "nazva": "Молодильник озерний",
+      "binomialna_nazva": "Isoëtes lacustris L."
+    },
+    {
+      "nazva": "Молочай волинський",
+      "binomialna_nazva": "Euphorbia volhynica Besser ex Racib."
+    },
+    {
+      "nazva": "Молочай густоволохатоплодий",
+      "binomialna_nazva": "Euphorbia valdevillosocarpa Arvat et Nyár."
+    },
+    {
+      "nazva": "Молочай прибережний",
+      "binomialna_nazva": "Euphorbia paralias L."
+    },
+    {
+      "nazva": "Морківниця узбережна",
+      "binomialna_nazva": "Astrodaucus littoralis (M.Bieb.) Drude"
+    },
+    {
+      "nazva": "Моховик паразитний",
+      "binomialna_nazva": "Boletus parasiticus Fr. [Xerocomus parasiticus (Bull.: Fr.) Quél.]"
+    },
+    {
+      "nazva": "Мутин малиновий",
+      "binomialna_nazva": "Mutinus ravenelii (Berk. et M.A. Curtis) E. Fish"
+    },
+    {
+      "nazva": "Мутин собачий",
+      "binomialna_nazva": "Mutinus caninus (Huds.) Fr."
+    },
+    {
+      "nazva": "Мухомор цезаря",
+      "binomialna_nazva": "Amanita caesarea (Scop.) Pers."
+    },
+    {
+      "nazva": "Мухомор щетинистий",
+      "binomialna_nazva": "Amanita solitaria (Bull.) Fr."
+    },
+    {
+      "nazva": "Надбородник безлистий",
+      "binomialna_nazva": "Epipogium aphyllum Sw."
+    },
+    {
+      "nazva": "Накорінниця червона",
+      "binomialna_nazva": "Diphelypaea coccinea (M.Bieb.) Nicolson"
+    },
+    {
+      "nazva": "Нарцис вузьколистий",
+      "binomialna_nazva": "Narcissus angustifolius Curtis"
+    },
+    {
+      "nazva": "Наскельниця лежача",
+      "binomialna_nazva": "Loiseleuria procumbens (L.) Desv."
+    },
+    {
+      "nazva": "Некера Мензіса",
+      "binomialna_nazva": "Neckera menziesii Drumm."
+    },
+    {
+      "nazva": "Нектароскордій болгарський",
+      "binomialna_nazva": "Nectaroscordum bulgaricum Janka"
+    },
+    {
+      "nazva": "Немаліон глистовидний",
+      "binomialna_nazva": "Nemalion helminthoides (Velley) Batters"
+    },
+    {
+      "nazva": "Неотіанта каптурувата",
+      "binomialna_nazva": "Neottianthe cucullata (L.) Schlechter"
+    },
+    {
+      "nazva": "Неотінея обпалена",
+      "binomialna_nazva": "Neotinea ustulata (L.) R.M. Bateman, Pridgeon et M.W. Chase"
+    },
+    {
+      "nazva": "Неотінея тризубчаста",
+      "binomialna_nazva": "Neotinea tridentata (Scop.) R.M. Bateman, Pridgeon et M.W. Chase"
+    },
+    {
+      "nazva": "Нефрома загорнута",
+      "binomialna_nazva": "Nephroma resupinatum (L.) Ach."
+    },
+    {
+      "nazva": "Нефрома рівна",
+      "binomialna_nazva": "Nephroma parile Ach."
+    },
+    {
+      "nazva": "Нітела найтонша",
+      "binomialna_nazva": "Nitella tenuissima (Desv.) Kütz."
+    },
+    {
+      "nazva": "Нітела струнка",
+      "binomialna_nazva": "Nitella gracilis (J.E. Sm.) C.Agardh"
+    },
+    {
+      "nazva": "Нітелопсіс притуплений",
+      "binomialna_nazva": "Nitellopsis obtusa (Desv. inLoisel) J. Groves"
+    },
+    {
+      "nazva": "Оокардіум простягнутий",
+      "binomialna_nazva": "Oocardium stratum Nägeli"
+    },
+    {
+      "nazva": "Орлики трансильванські",
+      "binomialna_nazva": "Aquilegia transsilvanica Schur"
+    },
+    {
+      "nazva": "Орлики чорніючі",
+      "binomialna_nazva": "Aquilegia nigricans Baumg."
+    },
+    {
+      "nazva": "Ортотецій рудуватий",
+      "binomialna_nazva": "Orthothecium rufescens (Dicks. ex Brid.) Schimp."
+    },
+    {
+      "nazva": "Осінник пізньоцвітовий",
+      "binomialna_nazva": "Sternbergia colchiciflora Waldst. ex Kit."
+    },
+    {
+      "nazva": "Осмундея гібридна",
+      "binomialna_nazva": "Osmundea hybrida (DC.) K.W.Nam in K.W. Nam, Maggs & Garbary"
+    },
+    {
+      "nazva": "Осмундея зрізана",
+      "binomialna_nazva": "Osmundea truncata (Kütz.) K.W. Nam et Maggs"
+    },
+    {
+      "nazva": "Осока біла",
+      "binomialna_nazva": "Carex alba Scop."
+    },
+    {
+      "nazva": "Осока блискуча",
+      "binomialna_nazva": "Carex liparocarpos Gaud."
+    },
+    {
+      "nazva": "Осока богемська",
+      "binomialna_nazva": "Carex bohemica Schreb."
+    },
+    {
+      "nazva": "Осока Буксбаума",
+      "binomialna_nazva": "Carex buxbaumii Wahlenb."
+    },
+    {
+      "nazva": "Осока буріюча",
+      "binomialna_nazva": "Carex brunnescens (Pers.) Poiret"
+    },
+    {
+      "nazva": "Осока дводомна",
+      "binomialna_nazva": "Carex dioica L."
+    },
+    {
+      "nazva": "Осока двоколірна",
+      "binomialna_nazva": "Carex bicolor All."
+    },
+    {
+      "nazva": "Осока Девелла",
+      "binomialna_nazva": "Carex davalliana Smith"
+    },
+    {
+      "nazva": "Осока житня",
+      "binomialna_nazva": "Carex secalina Willd. exWahlenb."
+    },
+    {
+      "nazva": "Осока затінкова",
+      "binomialna_nazva": "Carex umbrosa Host"
+    },
+    {
+      "nazva": "Осока збіднена",
+      "binomialna_nazva": "Carex depauperata Curt. ex With."
+    },
+    {
+      "nazva": "Осока кулястоподібна",
+      "binomialna_nazva": "Carex globularis L."
+    },
+    {
+      "nazva": "Осока лапкоподібна",
+      "binomialna_nazva": "Carex pediformis C. A. Mey."
+    },
+    {
+      "nazva": "Осока Лахеналя",
+      "binomialna_nazva": "Carex lachenalii Schkuhr"
+    },
+    {
+      "nazva": "Осока малоквіткова",
+      "binomialna_nazva": "Carex pauciflora Lightf."
+    },
+    {
+      "nazva": "Осока пажитницеподібна",
+      "binomialna_nazva": "Carex loliacea L."
+    },
+    {
+      "nazva": "Осока піхвова",
+      "binomialna_nazva": "Carex vaginata Tausch"
+    },
+    {
+      "nazva": "Осока притуплена",
+      "binomialna_nazva": "Carex obtusata Liljebl."
+    },
+    {
+      "nazva": "Осока скельна",
+      "binomialna_nazva": "Carex rupestris All."
+    },
+    {
+      "nazva": "Осока темно-бура",
+      "binomialna_nazva": "Carex fuliginosa Schkuhr"
+    },
+    {
+      "nazva": "Осока тонкокореневищна",
+      "binomialna_nazva": "Carex chordorrhiza Ehrh."
+    },
+    {
+      "nazva": "Осока торфова",
+      "binomialna_nazva": "Carex heleonastes Ehrh."
+    },
+    {
+      "nazva": "Осока Хоста",
+      "binomialna_nazva": "Carex hostiana DC."
+    },
+    {
+      "nazva": "Осока щетиниста",
+      "binomialna_nazva": "Carex strigosa Huds."
+    },
+    {
+      "nazva": "Осот різнолистий",
+      "binomialna_nazva": "Cirsium heterophyllum (L.) Hill"
+    },
+    {
+      "nazva": "Оставник одеський",
+      "binomialna_nazva": "Gymnospermium odessanum (DC.) Takht."
+    },
+    {
+      "nazva": "Остіжник валеріаноподібний",
+      "binomialna_nazva": "Centranthus calcitrapa (L.) Dufr."
+    },
+    {
+      "nazva": "Офрис бджолоносна",
+      "binomialna_nazva": "Ophrys apifera Huds."
+    },
+    {
+      "nazva": "Офрис комахоносна",
+      "binomialna_nazva": "Ophrys insectifera L."
+    },
+    {
+      "nazva": "Офрис кримська",
+      "binomialna_nazva": "Ophrys taurica (Aggeenko) Nevski"
+    },
+    {
+      "nazva": "Офрис оводоносна",
+      "binomialna_nazva": "Ophrys oestrifera M.Bieb."
+    },
+    {
+      "nazva": "Очиток застарілий",
+      "binomialna_nazva": "Sedum antiquum Omelcz. et Zaver."
+    },
+    {
+      "nazva": "Очки гладенькі",
+      "binomialna_nazva": "Biscutella laevigata L. s.l."
+    },
+    {
+      "nazva": "Паламокладій справжньозелений",
+      "binomialna_nazva": "Palamocladium euchloron (Müll. Hal.) Wijk et Margad."
+    },
+    {
+      "nazva": "Палімбія солончакова",
+      "binomialna_nazva": "Palimbia salsa (L. f.) Besser"
+    },
+    {
+      "nazva": "Палімбія тургайська",
+      "binomialna_nazva": "Palimbia turgaica Lipsky exWoronow"
+    },
+    {
+      "nazva": "Палудела відстовбурчена",
+      "binomialna_nazva": "Paludella squarrosa (Hedw.) Brid."
+    },
+    {
+      "nazva": "Паннарія шерстиста",
+      "binomialna_nazva": "Pannaria conoplea (Ach.) Bory, Pannaria lanuginosa (Hoff.) Szat."
+    },
+    {
+      "nazva": "Пармелієла щетинистолиста",
+      "binomialna_nazva": "Parmeliella triptophylla (Ach.) Müll. Arg., Parmeliella corallinoides (Hoffm.) Zahlbr."
+    },
+    {
+      "nazva": "Пармотрема перлинова",
+      "binomialna_nazva": "Parmotrema perlata (Huds.)"
+    },
+    {
+      "nazva": "Педіаструм Каврайського",
+      "binomialna_nazva": "Pediastrum kawraiskyi Schmidle"
+    },
+    {
+      "nazva": "Пеніум Борге",
+      "binomialna_nazva": "Penium borgeanum Skuja"
+    },
+    {
+      "nazva": "Первоцвіт борошнистий",
+      "binomialna_nazva": "Primula farinosa L."
+    },
+    {
+      "nazva": "Первоцвіт Галлера",
+      "binomialna_nazva": "Primula halleri J.F.Gmel."
+    },
+    {
+      "nazva": "Первоцвіт дрібний",
+      "binomialna_nazva": "Primula minima L."
+    },
+    {
+      "nazva": "Переломник Козо-Полянського",
+      "binomialna_nazva": "Androsace koso-poljanskii Ovcz."
+    },
+    {
+      "nazva": "Петалонія зостеролисна",
+      "binomialna_nazva": "Petalonia zosterifolia (Reinke) Kuntze"
+    },
+    {
+      "nazva": "Печериця мухомороподібна",
+      "binomialna_nazva": "Agaricus amanitaeformis Wasser"
+    },
+    {
+      "nazva": "Печериця Романьєзі",
+      "binomialna_nazva": "Agaricus romagnesii Wasser [Agaricus radicatus (Vittad.) Romagn.]"
+    },
+    {
+      "nazva": "Печериця таблитчаста",
+      "binomialna_nazva": "Agaricus tabularis Peck"
+    },
+    {
+      "nazva": "Пирій ковилолистий",
+      "binomialna_nazva": "Elytrigia stipifolia (Czern. ex Nevski) Nevski"
+    },
+    {
+      "nazva": "Півники борові",
+      "binomialna_nazva": "Iris pineticola Klokov"
+    },
+    {
+      "nazva": "Півники несправжньосмикавцеві",
+      "binomialna_nazva": "Iris pseudocyperus Schur"
+    },
+    {
+      "nazva": "Півники понтичні",
+      "binomialna_nazva": "Iris pontica Zapał."
+    },
+    {
+      "nazva": "Півники рогаті",
+      "binomialna_nazva": "Iris furcata M.Bieb."
+    },
+    {
+      "nazva": "Півники сибірські",
+      "binomialna_nazva": "Iris sibirica L."
+    },
+    {
+      "nazva": "Півонія кримська",
+      "binomialna_nazva": "Paeonia daurica Andrews"
+    },
+    {
+      "nazva": "Півонія тонколиста",
+      "binomialna_nazva": "Paeonia tenuifolia L."
+    },
+    {
+      "nazva": "Підковка чубата",
+      "binomialna_nazva": "Hippocrepis comosa L."
+    },
+    {
+      "nazva": "Підсніжник білосніжний",
+      "binomialna_nazva": "Galanthus nivalis L."
+    },
+    {
+      "nazva": "Підсніжник Ельвеза",
+      "binomialna_nazva": "Galanthus elwesii Hook.f."
+    },
+    {
+      "nazva": "Підсніжник складчастий",
+      "binomialna_nazva": "Galanthus plicatus M.Bieb."
+    },
+    {
+      "nazva": "Пізньоцвіт анкарський",
+      "binomialna_nazva": "Colchicum ancyrense B.L.Burtt"
+    },
+    {
+      "nazva": "Пізньоцвіт осінній",
+      "binomialna_nazva": "Colchicum autumnale L."
+    },
+    {
+      "nazva": "Пізньоцвіт тіньовий",
+      "binomialna_nazva": "Colchicum umbrosum (Ker Gawl.) Steven"
+    },
+    {
+      "nazva": "Пізньоцвіт Фоміна",
+      "binomialna_nazva": "Colchicum fominii Bordz."
+    },
+    {
+      "nazva": "Пізоліт безкореневий",
+      "binomialna_nazva": "Pisolithus arrhizus (Scop.: Pers.)"
+    },
+    {
+      "nazva": "Пілайєла прибережна",
+      "binomialna_nazva": "Pylaiella littoralis (L.) Kjellm."
+    },
+    {
+      "nazva": "Пілюльниця куленосна",
+      "binomialna_nazva": "Pilularia globulifera L."
+    },
+    {
+      "nazva": "Плавун щитолистий",
+      "binomialna_nazva": "Nymphoides peltata (S.G.Gmel.) Kuntze"
+    },
+    {
+      "nazva": "Плагіотецій некероподібний",
+      "binomialna_nazva": "Plagiothecium neckeroideum Schimp."
+    },
+    {
+      "nazva": "Плакун чебрецелистий",
+      "binomialna_nazva": "Lythrum thymifolia L."
+    },
+    {
+      "nazva": "Плаун річний",
+      "binomialna_nazva": "Lycopodium annotinum L."
+    },
+    {
+      "nazva": "Плаунець заплавний",
+      "binomialna_nazva": "Lycopodiella inundata (L.) Holub"
+    },
+    {
+      "nazva": "Плаунок плауноподібний",
+      "binomialna_nazva": "Selaginella selaginoides (L.) P. Beauv. ex Mart. et Schrank"
+    },
+    {
+      "nazva": "Плаунчик швейцарський",
+      "binomialna_nazva": "Lycopodioides helveticum (L.) Kuntze"
+    },
+    {
+      "nazva": "Плеврокладула білувата",
+      "binomialna_nazva": "Pleurocladula albescens (Hook.) Grolle"
+    },
+    {
+      "nazva": "Плетуха сольданелова",
+      "binomialna_nazva": "Calystegia soldanella (L.) R.Br."
+    },
+    {
+      "nazva": "Плодоріжка блощична",
+      "binomialna_nazva": "Anacamptis coriophora (L.) R.M. Bateman, Pridgeon et M.W. Chase s.l."
+    },
+    {
+      "nazva": "Плодоріжка болотна",
+      "binomialna_nazva": "Anacamptis palustris (Jacq.) R.M. Bateman, Pridgeon et M.W. Chase"
+    },
+    {
+      "nazva": "Плодоріжка запашна",
+      "binomialna_nazva": "Anacamptis fragrans (Pollini) R.M.Bateman"
+    },
+    {
+      "nazva": "Плодоріжка пірамідальна",
+      "binomialna_nazva": "Anacamptis pyramidalis (L.) Rich."
+    },
+    {
+      "nazva": "Плодоріжка рідкоквіткова",
+      "binomialna_nazva": "Anacamptis laxiflora (Lam.) R.M. Bateman, Pridgeon et M.W. Chase"
+    },
+    {
+      "nazva": "Плодоріжка розмальована",
+      "binomialna_nazva": "Anacamptis picta (Loisel.) R.M. Bateman"
+    },
+    {
+      "nazva": "Плодоріжка салепова",
+      "binomialna_nazva": "Anacamptis morio (L.) R.M. Bateman, Pridgeon et M.W. Chase"
+    },
+    {
+      "nazva": "Повстянка дніпровська",
+      "binomialna_nazva": "Cymbochasma borysthenica (Pall. ex Schlecht.) Klokov et Zoz"
+    },
+    {
+      "nazva": "Полин Дзевановського",
+      "binomialna_nazva": "Artemisia dzevanovskyi Leonova"
+    },
+    {
+      "nazva": "Полин суцільнобілий",
+      "binomialna_nazva": "Artemisia hololeuca M.Bieb. ex Besser"
+    },
+    {
+      "nazva": "Полісифонія дрібношипова",
+      "binomialna_nazva": "Polysiphonia spinulosa Grev."
+    },
+    {
+      "nazva": "Порхавка болотяна",
+      "binomialna_nazva": "Bovista paludosa Lév. [Bovistella paludosa (Lév.) Lloyd]"
+    },
+    {
+      "nazva": "Прангос трироздільний",
+      "binomialna_nazva": "Prangos trifida (Mill.) Herrnst. et Heyn"
+    },
+    {
+      "nazva": "Псевдобрій цинклідієподібний",
+      "binomialna_nazva": "Pseudobryum cinclidioides (Huebener) T. J. Kop."
+    },
+    {
+      "nazva": "Псевдокаліергон плауноподібний",
+      "binomialna_nazva": "Pseudocalliergon lycopodioides (Brid.) Hedenäs"
+    },
+    {
+      "nazva": "Псевдокаліергон трирядний",
+      "binomialna_nazva": "Pseudocalliergon trifarium (F.Weber et D. Mohr) Loeske"
+    },
+    {
+      "nazva": "Псевдорхіс білуватий",
+      "binomialna_nazva": "Pseudorchis albida (L.) A.Löveet D.Löve"
+    },
+    {
+      "nazva": "Пташник крихітний",
+      "binomialna_nazva": "Ornithopus perpusillus L."
+    },
+    {
+      "nazva": "Птеригоневр Козлова",
+      "binomialna_nazva": "Pterygoneurum kozlovii Laz."
+    },
+    {
+      "nazva": "Птерогоній граціозний",
+      "binomialna_nazva": "Pterogonium gracile (Hedw.) Sw."
+    },
+    {
+      "nazva": "Птеросифонія пірчаста",
+      "binomialna_nazva": "Pterosiphonia pennata (C. Agardh) Sauv."
+    },
+    {
+      "nazva": "Птиходій складчастий",
+      "binomialna_nazva": "Ptychodium plicatum (Schleich. ex F. Weber et D. Mohr) Schimp."
+    },
+    {
+      "nazva": "Пунктарія хвиляста",
+      "binomialna_nazva": "Punctaria tenuissima (C. Agardh) Grev."
+    },
+    {
+      "nazva": "Пунктарія широколиста",
+      "binomialna_nazva": "Punctaria latifolia Grev."
+    },
+    {
+      "nazva": "Пустельниця головчаста",
+      "binomialna_nazva": "Eremogone cephalotes (M.Bieb.) Fenzl"
+    },
+    {
+      "nazva": "Пухирник Брема",
+      "binomialna_nazva": "Utricularia bremii Heer"
+    },
+    {
+      "nazva": "Пухирник малий",
+      "binomialna_nazva": "Utricularia minor L."
+    },
+    {
+      "nazva": "Пухирник південний",
+      "binomialna_nazva": "Utricularia australis R.Br."
+    },
+    {
+      "nazva": "Пухирник середній",
+      "binomialna_nazva": "Utricularia intermedia Hayne"
+    },
+    {
+      "nazva": "Пшениця дика однозернянка",
+      "binomialna_nazva": "Triticum boeoticum Boiss."
+    },
+    {
+      "nazva": "Рамаліна канарська",
+      "binomialna_nazva": "Ramalina canariensis Steiner"
+    },
+    {
+      "nazva": "Рамаліна понтійська",
+      "binomialna_nazva": "Ramalina pontica Vězda"
+    },
+    {
+      "nazva": "Рамаліна рвана",
+      "binomialna_nazva": "Ramalina lacera (With.)"
+    },
+    {
+      "nazva": "Ранник весняний",
+      "binomialna_nazva": "Scrophularia vernalis L."
+    },
+    {
+      "nazva": "Ранник гранітний",
+      "binomialna_nazva": "Scrophularia granitica Klokov et A.Krasnova"
+    },
+    {
+      "nazva": "Ранник донецький",
+      "binomialna_nazva": "Scrophularia donetzica Kotov"
+    },
+    {
+      "nazva": "Ранник крейдовий",
+      "binomialna_nazva": "Scrophularia cretacea Fisch. ex Spreng."
+    },
+    {
+      "nazva": "Регнерія палермська",
+      "binomialna_nazva": "Roegneria panormitana (Parl.) Nevski"
+    },
+    {
+      "nazva": "Редька приморська",
+      "binomialna_nazva": "Raphanus maritimus Sm. s.l."
+    },
+    {
+      "nazva": "Ремнепелюстник козячий",
+      "binomialna_nazva": "Himantoglossum caprinum (M. Bieb.) K. Koch"
+    },
+    {
+      "nazva": "Решіточник червоний",
+      "binomialna_nazva": "Clathrus ruber Pers. (C. cancellatus Fr.)"
+    },
+    {
+      "nazva": "Ризоплака темноглазкова",
+      "binomialna_nazva": "Rhizoplaca melanophtalma (Ramond) Leuckert & Poelt"
+    },
+    {
+      "nazva": "Рогіз малий",
+      "binomialna_nazva": "Typha minima Funk."
+    },
+    {
+      "nazva": "Роговик Біберштейна",
+      "binomialna_nazva": "Cerastium biebersteinii DC."
+    },
+    {
+      "nazva": "Роговиця роговикова",
+      "binomialna_nazva": "Dichodon cerastioides (L.) Rchb."
+    },
+    {
+      "nazva": "Родіола рожева",
+      "binomialna_nazva": "Rhodiola rosea L."
+    },
+    {
+      "nazva": "Рододендрон східнокарпатський",
+      "binomialna_nazva": "Rhododendron myrtifolium Schott et Kotschy"
+    },
+    {
+      "nazva": "Родохортон пурпуровий",
+      "binomialna_nazva": "Rhodochorton purpureum (Lightf.) Rosenv."
+    },
+    {
+      "nazva": "Роман карпатський",
+      "binomialna_nazva": "Anthemis carpatica Waldst. et Kit ex Willd."
+    },
+    {
+      "nazva": "Росичка англійська",
+      "binomialna_nazva": "Drosera anglica Huds."
+    },
+    {
+      "nazva": "Росичка середня",
+      "binomialna_nazva": "Drosera intermedia Hayne"
+    },
+    {
+      "nazva": "Рочела водоростеподібна",
+      "binomialna_nazva": "Roccella phycopsis (Ach.) (=Roccella fucoides (Dicks.) Vain."
+    },
+    {
+      "nazva": "Роя англійська",
+      "binomialna_nazva": "Roya anglica G.S. West Hodgetts"
+    },
+    {
+      "nazva": "Румія критмолиста",
+      "binomialna_nazva": "Rumia crithmifolia (Willd.) Koso-Pol."
+    },
+    {
+      "nazva": "Русавскія долоненосна",
+      "binomialna_nazva": "Rusavskia digitata (S. Kondr.) S. Kondr. & Kärnef. (Xanthoria digitata S. Kondr.)."
+    },
+    {
+      "nazva": "Рускус під'язиковий",
+      "binomialna_nazva": "Ruscus hypoglossum L."
+    },
+    {
+      "nazva": "Руслиця угорська",
+      "binomialna_nazva": "Elatine hungarica Moesz"
+    },
+    {
+      "nazva": "Рутвиця гачкувата",
+      "binomialna_nazva": "Thalictrum uncinatum Rehm."
+    },
+    {
+      "nazva": "Рутвиця смердюча",
+      "binomialna_nazva": "Thalictrum foetidum L."
+    },
+    {
+      "nazva": "Рутовик коріандролистий",
+      "binomialna_nazva": "Callianthemum coriandrifolium Rchb."
+    },
+    {
+      "nazva": "Рябчик гірський",
+      "binomialna_nazva": "Fritillaria montana Hoppe"
+    },
+    {
+      "nazva": "Рябчик малий",
+      "binomialna_nazva": "Fritillaria meleagroides Patrinex Schult. et Schult.f."
+    },
+    {
+      "nazva": "Рябчик руський",
+      "binomialna_nazva": "Fritillaria ruthenica Wikstr."
+    },
+    {
+      "nazva": "Рябчик шаховий",
+      "binomialna_nazva": "Frittilaria meleagris L."
+    },
+    {
+      "nazva": "Рядовка величезна",
+      "binomialna_nazva": "Tricholoma colossus (Fr.) Quel. [Armillaria colossa (Fr.) Boud.]"
+    },
+    {
+      "nazva": "Рядовка опенькоподібна",
+      "binomialna_nazva": "Tricholoma focale (Fr.) Ricken [Armillaria focalis (Fr.) P. Karst.]"
+    },
+    {
+      "nazva": "Рястка Буше",
+      "binomialna_nazva": "Ornithogalum boucheanum (Kunth) Asch."
+    },
+    {
+      "nazva": "Рястка відігнута",
+      "binomialna_nazva": "Ornithogalum refractum Kit. ex Schltdl."
+    },
+    {
+      "nazva": "Рястка гірська",
+      "binomialna_nazva": "Ornithogalum oreoides Zahar."
+    },
+    {
+      "nazva": "Рястка двозначна",
+      "binomialna_nazva": "Ornithogalum amphibolum Zahar."
+    },
+    {
+      "nazva": "Сальвінія плаваюча",
+      "binomialna_nazva": "Salvinia natans (L.) All."
+    },
+    {
+      "nazva": "Саркосома куляста",
+      "binomialna_nazva": "Sarcosoma globosum (Schmidel) Rehm"
+    },
+    {
+      "nazva": "Сашник іржавий",
+      "binomialna_nazva": "Schoenus ferrugineus L."
+    },
+    {
+      "nazva": "Сверція багаторічна",
+      "binomialna_nazva": "Swertia perennis L."
+    },
+    {
+      "nazva": "Свинуха Зерової",
+      "binomialna_nazva": "Paxillus zerovae Wasser"
+    },
+    {
+      "nazva": "Свистуля татарська",
+      "binomialna_nazva": "Conioselinum vaginatum (Spreng.) Thell."
+    },
+    {
+      "nazva": "Сейрофора загадкова",
+      "binomialna_nazva": "Seirophora contortuplicata (Ach.)"
+    },
+    {
+      "nazva": "Сейрофора ямчаста",
+      "binomialna_nazva": "Seirophora lacunosa (Rupr.)"
+    },
+    {
+      "nazva": "Селанія сизувата",
+      "binomialna_nazva": "Saelania glaucescens (Hedw.) Broth."
+    },
+    {
+      "nazva": "Селітрянка Шобера",
+      "binomialna_nazva": "Nitraria schoberi L."
+    },
+    {
+      "nazva": "Серпій донецький",
+      "binomialna_nazva": "Klasea donetzica (Dubovik) J.Holub"
+    },
+    {
+      "nazva": "Серпій донський",
+      "binomialna_nazva": "Klasea tanaitica (P.Smirn.) J.Holub"
+    },
+    {
+      "nazva": "Сеслерія голуба",
+      "binomialna_nazva": "Sesleria caerulea (L.) Ard."
+    },
+    {
+      "nazva": "Сироїжка синювата",
+      "binomialna_nazva": "Russula turci Bres. (R. amethystina Quél.)"
+    },
+    {
+      "nazva": "Ситник бульбистий",
+      "binomialna_nazva": "Juncus bulbosus L."
+    },
+    {
+      "nazva": "Ситник круглоплодий",
+      "binomialna_nazva": "Juncus sphaerocarpus Nees"
+    },
+    {
+      "nazva": "Ситник тупопелюстковий",
+      "binomialna_nazva": "Juncus subnodulosus Schrank"
+    },
+    {
+      "nazva": "Ситняг багатостебловий",
+      "binomialna_nazva": "Eleocharis multicaulis (Smith) Desv."
+    },
+    {
+      "nazva": "Ситняг гостролусковий",
+      "binomialna_nazva": "Eleocharis oxylepis (Meinsh.) B. Fedtsch."
+    },
+    {
+      "nazva": "Ситняг карніолійський",
+      "binomialna_nazva": "Eleocharis carniolica W.D.J.Koch"
+    },
+    {
+      "nazva": "Ситняг сосочкоподібний",
+      "binomialna_nazva": "Eleocharis mamillata Lindb. f."
+    },
+    {
+      "nazva": "Сифонокладус маленький",
+      "binomialna_nazva": "Siphonocladus pusillus (Kütz.) Hauck"
+    },
+    {
+      "nazva": "Скапанія компактна",
+      "binomialna_nazva": "Scapania compacta (A. Roth) Dumort."
+    },
+    {
+      "nazva": "Скапанія швейцарська",
+      "binomialna_nazva": "Scapania helvetica Gottsche"
+    },
+    {
+      "nazva": "Сквамарина небезпечна",
+      "binomialna_nazva": "Squamarina periculosa (Schaerer) Poelt"
+    },
+    {
+      "nazva": "Сквамарина сочевиценосна",
+      "binomialna_nazva": "Squamarina lentigera (G. H. Weber) Poelt"
+    },
+    {
+      "nazva": "Сквамарина щетиниста",
+      "binomialna_nazva": "Squamarina cartilaginea (With.)"
+    },
+    {
+      "nazva": "Скереда Жакена",
+      "binomialna_nazva": "Crepis jacquinii Tausch"
+    },
+    {
+      "nazva": "Склеродерма зірчаста",
+      "binomialna_nazva": "Scleroderma geaster Fr."
+    },
+    {
+      "nazva": "Скополія карніолійська",
+      "binomialna_nazva": "Scopolia carniolica Jacq."
+    },
+    {
+      "nazva": "Скорпідій скорпіоноподібний",
+      "binomialna_nazva": "Scorpidium scorpioides (Hedw.) Limpr."
+    },
+    {
+      "nazva": "Скрученик приємний",
+      "binomialna_nazva": "Spiranthes amoena (M.Bieb.) Spreng."
+    },
+    {
+      "nazva": "Скрученик спіральний",
+      "binomialna_nazva": "Spiranthes spiralis (L.) Chevall."
+    },
+    {
+      "nazva": "Смілка бузька",
+      "binomialna_nazva": "Silene hypanica Klokov"
+    },
+    {
+      "nazva": "Смілка зеленоквіткова",
+      "binomialna_nazva": "Silene viridiflora L."
+    },
+    {
+      "nazva": "Смілка крейдова",
+      "binomialna_nazva": "Silene cretacea Fisch. ex Spreng."
+    },
+    {
+      "nazva": "Смілка литовська",
+      "binomialna_nazva": "Silene lithuanica Zapał."
+    },
+    {
+      "nazva": "Смілка Ситника",
+      "binomialna_nazva": "Silene sytnikii Krytzka, Novosad et Protopopova"
+    },
+    {
+      "nazva": "Смілка яйлинська",
+      "binomialna_nazva": "Silene jailensis N.I.Rubtzov"
+    },
+    {
+      "nazva": "Смілкоквітка Завадського",
+      "binomialna_nazva": "Silenanthe zawadskii (Herbich) Griseb. et Schenk"
+    },
+    {
+      "nazva": "Соболевськія сибірська",
+      "binomialna_nazva": "Sobolewskia sibirica (Willd.) P.W.Ball"
+    },
+    {
+      "nazva": "Сокироносиця струнка",
+      "binomialna_nazva": "Securigera elegans (Pančić) Lassen"
+    },
+    {
+      "nazva": "Солодка гола",
+      "binomialna_nazva": "Glycyrrhiza glabra L."
+    },
+    {
+      "nazva": "Солодушка крейдова",
+      "binomialna_nazva": "Hedysarum cretaceum Fisch."
+    },
+    {
+      "nazva": "Солодушка солодушкова",
+      "binomialna_nazva": "Hedysarum hedysaroides (L.) Schinz et Thell."
+    },
+    {
+      "nazva": "Солодушка українська",
+      "binomialna_nazva": "Hedysarum ucrainicum Kaschm."
+    },
+    {
+      "nazva": "Солоріна двоспорова",
+      "binomialna_nazva": "Solorina bispora Nyl."
+    },
+    {
+      "nazva": "Солоріна мішкувата",
+      "binomialna_nazva": "Solorina saccata (L.) Ach."
+    },
+    {
+      "nazva": "Сон великий",
+      "binomialna_nazva": "Pulsatilla grandis Wender."
+    },
+    {
+      "nazva": "Сон кримський",
+      "binomialna_nazva": "Pulsatilla taurica Juz."
+    },
+    {
+      "nazva": "Сон лучний",
+      "binomialna_nazva": "Pulsatilla pratensis (L.) Mill. s.l."
+    },
+    {
+      "nazva": "Сон розкритий",
+      "binomialna_nazva": "Pulsatilla patens (L.) Mill. s.l."
+    },
+    {
+      "nazva": "Сон Шерфеля",
+      "binomialna_nazva": "Pulsatilla scherfelii (Ullep.) Skalicke"
+    },
+    {
+      "nazva": "Сонценасінник таємний",
+      "binomialna_nazva": "Heliosperma arcanum Zapał."
+    },
+    {
+      "nazva": "Сонцецвіт сивий",
+      "binomialna_nazva": "Helianthemum canum (L.) Hornem. s.l."
+    },
+    {
+      "nazva": "Сонянчик гладкий",
+      "binomialna_nazva": "Fumanopsis laevis (Cav.) Tzvelev"
+    },
+    {
+      "nazva": "Сосна кедрова європейська",
+      "binomialna_nazva": "Pinus cembra L."
+    },
+    {
+      "nazva": "Сосна крейдова",
+      "binomialna_nazva": "Pinus cretacea (Kalenicz.) Kondr."
+    },
+    {
+      "nazva": "Сосна Станкевича",
+      "binomialna_nazva": "Pinus stankewiczii (Sukacz.) Fomin"
+    },
+    {
+      "nazva": "Сосюрея альпійська",
+      "binomialna_nazva": "Saussurea alpina (L.) DC."
+    },
+    {
+      "nazva": "Соссюрея Порціуса",
+      "binomialna_nazva": "Saussurea porcii Degen"
+    },
+    {
+      "nazva": "Соссюрея різноколірна",
+      "binomialna_nazva": "Saussurea discolor (Willd.) DC."
+    },
+    {
+      "nazva": "Софора китникоподібна",
+      "binomialna_nazva": "Sophora alopecuroides L."
+    },
+    {
+      "nazva": "Сочевиця східна",
+      "binomialna_nazva": "Lens orientalis (Boiss.) Schmalh."
+    },
+    {
+      "nazva": "Сперматохнус особливий",
+      "binomialna_nazva": "Spermatochnus paradoxus (Roth) Kütz."
+    },
+    {
+      "nazva": "Спірогіра Рейнгарда",
+      "binomialna_nazva": "Spirogyra reinhardii Chmiel."
+    },
+    {
+      "nazva": "Стевеніелла сатирієподібна",
+      "binomialna_nazva": "Steveniella satyrioides (Spreng.) Schltr."
+    },
+    {
+      "nazva": "Стигеоклоніум пучкуватий",
+      "binomialna_nazva": "Stigeoclonium fasciculare Kütz."
+    },
+    {
+      "nazva": "Стилофора ніжна",
+      "binomialna_nazva": "Stilophora tenella (Esper) P.C.Silva"
+    },
+    {
+      "nazva": "Стікта закопчена",
+      "binomialna_nazva": "Sticta fuliginosa (Dicks.) Ach"
+    },
+    {
+      "nazva": "Стікта лісова",
+      "binomialna_nazva": "Sticta sylvatica (Huds.) Ach."
+    },
+    {
+      "nazva": "Стілонема альсіді",
+      "binomialna_nazva": "Stylonema alsidii (Zanardini) K.M. Drew"
+    },
+    {
+      "nazva": "Строчок Слоневського",
+      "binomialna_nazva": "Gyromitra slonevskii Heluta"
+    },
+    {
+      "nazva": "Сугайник угорський",
+      "binomialna_nazva": "Doronicum hungaricum Rchb.f."
+    },
+    {
+      "nazva": "Сугайник штирійський",
+      "binomialna_nazva": "Doronicum stiriacum (Vill.) Dalla Torre"
+    },
+    {
+      "nazva": "Суничник дрібноплодий",
+      "binomialna_nazva": "Arbutus andrachne L."
+    },
+    {
+      "nazva": "Сфагн балтійський",
+      "binomialna_nazva": "Sphagnum balticum (Russow) C. E. O. Jensen"
+    },
+    {
+      "nazva": "Сфагн блискучий",
+      "binomialna_nazva": "Sphagnum subnitens Russowet Warnst."
+    },
+    {
+      "nazva": "Сфагн Вульфа",
+      "binomialna_nazva": "Sphagnum wulfianum Girg."
+    },
+    {
+      "nazva": "Сфагн м'який",
+      "binomialna_nazva": "Sphagnum molle Sull."
+    },
+    {
+      "nazva": "Сфагн тоненький",
+      "binomialna_nazva": "Sphagnum tenellum (Brid.) Pers. ex Brid."
+    },
+    {
+      "nazva": "Сфацелярія карликова",
+      "binomialna_nazva": "Sphacelaria nana Nägeli ex Kütz."
+    },
+    {
+      "nazva": "Таволга польська",
+      "binomialna_nazva": "Spiraea polonica Błocki"
+    },
+    {
+      "nazva": "Тамарикс стрункий",
+      "binomialna_nazva": "Tamarix gracilis Willd."
+    },
+    {
+      "nazva": "Тамнолія щетиниста",
+      "binomialna_nazva": "Thamnolia vermicularis (Sw.) Schaer."
+    },
+    {
+      "nazva": "Таргіонія підлиста",
+      "binomialna_nazva": "Targionia hypophylla L."
+    },
+    {
+      "nazva": "Тейлорія язичкова",
+      "binomialna_nazva": "Tayloria lingulata (Dicks.) Lindb."
+    },
+    {
+      "nazva": "Тимія мекленбурзька",
+      "binomialna_nazva": "Timmia megapolitana Hedw."
+    },
+    {
+      "nazva": "Тирлич безстебловий",
+      "binomialna_nazva": "Gentiana acaulis L."
+    },
+    {
+      "nazva": "Тирлич весняний",
+      "binomialna_nazva": "Gentiana verna L."
+    },
+    {
+      "nazva": "Тирлич жовтий",
+      "binomialna_nazva": "Gentiana lutea L."
+    },
+    {
+      "nazva": "Тирлич крапчастий",
+      "binomialna_nazva": "Gentiana punctata L."
+    },
+    {
+      "nazva": "Тирлич мішкоподібний",
+      "binomialna_nazva": "Gentiana utriculosa L."
+    },
+    {
+      "nazva": "Тирлич роздільний",
+      "binomialna_nazva": "Gentiana laciniata Kit. ex Kanitz"
+    },
+    {
+      "nazva": "Тирлич сніговий",
+      "binomialna_nazva": "Gentiana nivalis L."
+    },
+    {
+      "nazva": "Тис ягідний",
+      "binomialna_nazva": "Taxus baccata L."
+    },
+    {
+      "nazva": "Товстянка альпійська",
+      "binomialna_nazva": "Pinguicula alpina L."
+    },
+    {
+      "nazva": "Товстянка двоколірна",
+      "binomialna_nazva": "Pinguicula bicolor Woł."
+    },
+    {
+      "nazva": "Товстянка звичайна",
+      "binomialna_nazva": "Pinguicula vulgaris L."
+    },
+    {
+      "nazva": "Толіпела проліферуюча",
+      "binomialna_nazva": "Tolypella prolifera (Ziz. ex A.Braun) Leonhar."
+    },
+    {
+      "nazva": "Тонконіг кримський",
+      "binomialna_nazva": "Poa taurica H. Pojark."
+    },
+    {
+      "nazva": "Тонконіг Ремана",
+      "binomialna_nazva": "Poa rehmannii (Asch. etGraebn.) Woł."
+    },
+    {
+      "nazva": "Торея найрозгалуженіша",
+      "binomialna_nazva": "Thorea ramosissima Bory"
+    },
+    {
+      "nazva": "Торнабеа щитоподібна",
+      "binomialna_nazva": "Tornabea scutellifera (With.)"
+    },
+    {
+      "nazva": "Тортела ламка",
+      "binomialna_nazva": "Tortella fragilis (Hook. et Wilson) Limpr."
+    },
+    {
+      "nazva": "Тортула Ранда",
+      "binomialna_nazva": "Tortula randii (Kenn.) R.H.Zander"
+    },
+    {
+      "nazva": "Тофільдія чашечкова",
+      "binomialna_nazva": "Tofieldia calyculata (L.) Wahlenb."
+    },
+    {
+      "nazva": "Траунштейнера куляста",
+      "binomialna_nazva": "Traunsteinera globosa (L.) Rchb."
+    },
+    {
+      "nazva": "Тринія Біберштейна",
+      "binomialna_nazva": "Trinia biebersteinii Fedoronczuk"
+    },
+    {
+      "nazva": "Трубкоцвіт Біберштейна",
+      "binomialna_nazva": "Solenanthus biebersteinii DC."
+    },
+    {
+      "nazva": "Трутовик зонтичний",
+      "binomialna_nazva": "Polyporus umbellatus (Pers.)"
+    },
+    {
+      "nazva": "Трутовик коренелюбний",
+      "binomialna_nazva": "Polyporus rhizophilus (Pat.)"
+    },
+    {
+      "nazva": "Трюфель літній",
+      "binomialna_nazva": "Tuber aestivum Vitt"
+    },
+    {
+      "nazva": "Тукнерарія Лаурера",
+      "binomialna_nazva": "Tuckneraria laureri (Krempelh.)"
+    },
+    {
+      "nazva": "Тюльпан бузький",
+      "binomialna_nazva": "Tulipa hypanica Klokov et Zoz"
+    },
+    {
+      "nazva": "Тюльпан гранітний",
+      "binomialna_nazva": "Tulipa graniticola (Klokov et Zoz) Klokov"
+    },
+    {
+      "nazva": "Тюльпан двоквітковий",
+      "binomialna_nazva": "Tulipa biflora Pall."
+    },
+    {
+      "nazva": "Тюльпан дібровний",
+      "binomialna_nazva": "Tulipa quercetorum Klokov et Zoz"
+    },
+    {
+      "nazva": "Тюльпан змієлистий",
+      "binomialna_nazva": "Tulipa ophiophylla Klokov et Zoz"
+    },
+    {
+      "nazva": "Тюльпан скіфський",
+      "binomialna_nazva": "Tulipa scythica Klokov et Zoz"
+    },
+    {
+      "nazva": "Тюльпан Шренка",
+      "binomialna_nazva": "Tulipa schrenkii Regel"
+    },
+    {
+      "nazva": "Умбілікарія багатолистоподібна",
+      "binomialna_nazva": "Umbilicaria subpolyphylla Oxn."
+    },
+    {
+      "nazva": "Уснея квітуча",
+      "binomialna_nazva": "Usnea florida (L.) Web. in Wigg."
+    },
+    {
+      "nazva": "Фелоринія геркулесова",
+      "binomialna_nazva": "Phellorinia herculeana (Pers.)"
+    },
+    {
+      "nazva": "Феолепіота золотиста",
+      "binomialna_nazva": "Phaeolepiota aurea (Matt.)"
+    },
+    {
+      "nazva": "Фіалка біла",
+      "binomialna_nazva": "Viola alba Besser"
+    },
+    {
+      "nazva": "Фіалка Джоя",
+      "binomialna_nazva": "Viola jooi Janka"
+    },
+    {
+      "nazva": "Фіалка кримська",
+      "binomialna_nazva": "Viola oreades M.Bieb."
+    },
+    {
+      "nazva": "Філопор рожево-золотистий",
+      "binomialna_nazva": "Phylloporus pelletieri (Lév. apud Crouan)"
+    },
+    {
+      "nazva": "Філофора псевдорогата",
+      "binomialna_nazva": "Phyllophora pseudoceranoides (S.G.Gmel.) Newroth et R.A. Taylor"
+    },
+    {
+      "nazva": "Фісиденс джерельний",
+      "binomialna_nazva": "Fissidens fontanus (Bach.Pyl.) Steud."
+    },
+    {
+      "nazva": "Фісиденс рудуватий",
+      "binomialna_nazva": "Fissidens rufulus Bruch etSchimp."
+    },
+    {
+      "nazva": "Фісиденс струмковий",
+      "binomialna_nazva": "Fissidens rivularis (Spruce) Schimp."
+    },
+    {
+      "nazva": "Фісташка туполиста",
+      "binomialna_nazva": "Pistacia mutica Fisch. et C.A.Mey."
+    },
+    {
+      "nazva": "Флокулярія Рікена",
+      "binomialna_nazva": "Floccularia rickenii (Bohus)"
+    },
+    {
+      "nazva": "Франкенія припорошена",
+      "binomialna_nazva": "Frankenia pulverulenta L."
+    },
+    {
+      "nazva": "Фруланія Яка",
+      "binomialna_nazva": "Frullania jackii Gottsche"
+    },
+    {
+      "nazva": "Фульгензія пустельна",
+      "binomialna_nazva": "Fulgensia desertorum (Tomin) Poelt"
+    },
+    {
+      "nazva": "Хамедафна чашечкова",
+      "binomialna_nazva": "Chamaedaphne calyculata (L.) Moench"
+    },
+    {
+      "nazva": "Хара Брауна",
+      "binomialna_nazva": "Chara braunii C.C. Gmellin"
+    },
+    {
+      "nazva": "Хара витончена",
+      "binomialna_nazva": "Chara delicatula C. Agardh"
+    },
+    {
+      "nazva": "Хара мохувата",
+      "binomialna_nazva": "Chara muscosa J. Groves et Bull.–Webst."
+    },
+    {
+      "nazva": "Хара сивіюча",
+      "binomialna_nazva": "Chara canescens Desv. et Loisel in Loisel"
+    },
+    {
+      "nazva": "Хетоморфа Зернова",
+      "binomialna_nazva": "Chaetomorpha zernovii Woronich."
+    },
+    {
+      "nazva": "Холодок Палласа",
+      "binomialna_nazva": "Asparagus pallasii Miscz."
+    },
+    {
+      "nazva": "Хрінниця сиваська",
+      "binomialna_nazva": "Lepidium syvaschicum Kleopow"
+    },
+    {
+      "nazva": "Хрінниця Турчанінова",
+      "binomialna_nazva": "Lepidium turczaninowii Lipsky"
+    },
+    {
+      "nazva": "Хроодактилон Волле",
+      "binomialna_nazva": "Chroodactylon wolleanum Hansg."
+    },
+    {
+      "nazva": "Хроодактилон розгалужений",
+      "binomialna_nazva": "Chroodactylon ramosum (Thwait.) Hansg."
+    },
+    {
+      "nazva": "Хрящ-молочник золотисто-жовтий",
+      "binomialna_nazva": "Lactarius chrysorrheus Fr."
+    },
+    {
+      "nazva": "Хрящ-молочник криваво-червоний",
+      "binomialna_nazva": "Lactarius sanguifluus (Paulet) Fr."
+    },
+    {
+      "nazva": "Хрящ-молочник чорний",
+      "binomialna_nazva": "Lactarius lignyotus Fr."
+    },
+    {
+      "nazva": "Цетрарія степова",
+      "binomialna_nazva": "Cetraria steppae (Savicz) Kärnef."
+    },
+    {
+      "nazva": "Цибуля білувата",
+      "binomialna_nazva": "Allium albidum Fisch. ex M.Bieb."
+    },
+    {
+      "nazva": "Цибуля ведмежа",
+      "binomialna_nazva": "Allium ursinum L."
+    },
+    {
+      "nazva": "Цибуля коса",
+      "binomialna_nazva": "Allium obliquum L."
+    },
+    {
+      "nazva": "Цибуля круглонога",
+      "binomialna_nazva": "Allium sphaeropodum Klokov"
+    },
+    {
+      "nazva": "Цибуля лінійна",
+      "binomialna_nazva": "Allium lineare L."
+    },
+    {
+      "nazva": "Цибуля перевдягнена",
+      "binomialna_nazva": "Allium pervestitum Klokov (A. rotundum auct. non L.)"
+    },
+    {
+      "nazva": "Цибуля пряма",
+      "binomialna_nazva": "Allium strictum Schrad."
+    },
+    {
+      "nazva": "Цибуля савранська",
+      "binomialna_nazva": "Allium savranicum Besser"
+    },
+    {
+      "nazva": "Цибуля скіфська",
+      "binomialna_nazva": "Allium scythicum Zoz"
+    },
+    {
+      "nazva": "Цикламен коський",
+      "binomialna_nazva": "Cyclamen kuznetzovii"
+    },
+    {
+      "nazva": "Цингерія Біберштейна",
+      "binomialna_nazva": "Zingeria biebersteiniana (Claus) P.Smirn."
+    },
+    {
+      "nazva": "Цинклідот водяний",
+      "binomialna_nazva": "Cinclidotus aquaticus (Hedw.) Bruch et Schimp."
+    },
+    {
+      "nazva": "Часник Реґеля",
+      "binomialna_nazva": "Allium regelianum A. Beckerex Iljin"
+    },
+    {
+      "nazva": "Чебрець кальміуський",
+      "binomialna_nazva": "Thymus kaljmijussicus Klokovet Des.-Shost."
+    },
+    {
+      "nazva": "Чебрець прибережний",
+      "binomialna_nazva": "Thymus littoralis Klokov et Des.-Shost."
+    },
+    {
+      "nazva": "Чина гладенька",
+      "binomialna_nazva": "Lathyrus laevigatus (Waldst. et Kit.) Fritsch"
+    },
+    {
+      "nazva": "Чина ряба",
+      "binomialna_nazva": "Lathyrus venetus (Mill.) Wohlf."
+    },
+    {
+      "nazva": "Чина трансильванська",
+      "binomialna_nazva": "Lathyrus transsilvanicus (Spreng.) Rchb."
+    },
+    {
+      "nazva": "Чист кримський",
+      "binomialna_nazva": "Cistus tauricus J.Presl et C.Presl"
+    },
+    {
+      "nazva": "Чистець вузьколистий",
+      "binomialna_nazva": "Stachys angustifolia М.Bieb."
+    },
+    {
+      "nazva": "Чихавка тонколиста",
+      "binomialna_nazva": "Ptarmica tenuifolia (Schur) Schur"
+    },
+    {
+      "nazva": "Чихавка язичкова",
+      "binomialna_nazva": "Ptarmica lingulata (Willd. et Kit.) DC."
+    },
+    {
+      "nazva": "Чорнянка карпатська",
+      "binomialna_nazva": "Nigritella carpatica (Zapał.) Teppner, Klein et Zagulski"
+    },
+    {
+      "nazva": "Шавлія кременецька",
+      "binomialna_nazva": "Salvia cremenecensis Bess."
+    },
+    {
+      "nazva": "Шавлія скабіозолиста",
+      "binomialna_nazva": "Salvia scabiosifolia Lam."
+    },
+    {
+      "nazva": "Шафран банатський",
+      "binomialna_nazva": "Crocus banaticus J. Gay"
+    },
+    {
+      "nazva": "Шафран вузьколистий",
+      "binomialna_nazva": "Crocus angustifolius Weston"
+    },
+    {
+      "nazva": "Шафран гарний",
+      "binomialna_nazva": "Crocus speciosus M.Bieb."
+    },
+    {
+      "nazva": "Шафран Гейфелів",
+      "binomialna_nazva": "Crocus heuffelianus Herb."
+    },
+    {
+      "nazva": "Шафран кримський",
+      "binomialna_nazva": "Crocus tauricus (Trautv.) Puring"
+    },
+    {
+      "nazva": "Шафран Палласа",
+      "binomialna_nazva": "Crocus pallasii Goldb."
+    },
+    {
+      "nazva": "Шафран сітчастий",
+      "binomialna_nazva": "Crocus reticulatus Steven ex Adams"
+    },
+    {
+      "nazva": "Шейхцерія болотна",
+      "binomialna_nazva": "Scheuchzeria palustris L."
+    },
+    {
+      "nazva": "Шиверекія подільська",
+      "binomialna_nazva": "Schivereckia podolica (Besser) Andrz. ex DC."
+    },
+    {
+      "nazva": "Шильник водяний",
+      "binomialna_nazva": "Subularia aquatica L."
+    },
+    {
+      "nazva": "Шипшина донецька",
+      "binomialna_nazva": "Rosa donetzica Dubovik"
+    },
+    {
+      "nazva": "Шипшина Чацького",
+      "binomialna_nazva": "Rosa czackiana Besser"
+    },
+    {
+      "nazva": "Шишкогриб лускатий",
+      "binomialna_nazva": "Strobilomyces strobilaceus (Scop.) Berk. [S. floccopus (Vahl) P. Karst.]"
+    },
+    {
+      "nazva": "Шоломниця весняна",
+      "binomialna_nazva": "Scutellaria verna Besser"
+    },
+    {
+      "nazva": "Шоломниця крейдова",
+      "binomialna_nazva": "Scutellaria creticola Juz."
+    },
+    {
+      "nazva": "Шолудивник високий",
+      "binomialna_nazva": "Pedicularis exaltata Besser"
+    },
+    {
+      "nazva": "Шолудивник Едера",
+      "binomialna_nazva": "Pedicularis oederi Vahl"
+    },
+    {
+      "nazva": "Шолудивник королівський",
+      "binomialna_nazva": "Pedicularis sceptrum-carolinum L."
+    },
+    {
+      "nazva": "Шолудивник лісовий",
+      "binomialna_nazva": "Pedicularis sylvatica L."
+    },
+    {
+      "nazva": "Щитолисник звичайний",
+      "binomialna_nazva": "Hydrocotyle vulgaris L."
+    },
+    {
+      "nazva": "Юринея Талієва",
+      "binomialna_nazva": "Jurinea talievii Klokov"
+    },
+    {
+      "nazva": "Язичник сибірський",
+      "binomialna_nazva": "Ligularia sibirica Cass."
+    },
+    {
+      "nazva": "Язичник сивий",
+      "binomialna_nazva": "Ligularia glauca (L.) J.Hoffm."
+    },
+    {
+      "nazva": "Язичок зелений",
+      "binomialna_nazva": "Coeloglossum viride (L.) C.Hartm."
+    },
+    {
+      "nazva": "Яловець високий",
+      "binomialna_nazva": "Juniperus excelsa M.Bieb."
+    },
+    {
+      "nazva": "Яловець смердючий",
+      "binomialna_nazva": "Juniperus foetidissima Willd."
+    },
+    {
+      "nazva": "Ясен білоцвітий",
+      "binomialna_nazva": "Fraxinus ornus L."
+    },
+    {
+      "nazva": "Ясенець білий",
+      "binomialna_nazva": "Dictamnus albus L."
+    }
+  ],
+  "meta": {
+    "title": "Рослини Червоної книги України - Free Download",
+    "description": "Алфавітний список рослин, занесених до четвертого видання Червоної книги України, з українськими та біноміальними (латинськими) назвами. Contains 826 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Рослини Червоної книги України | ListBase",
+    "seo_description": "Download Рослини Червоної книги України — 826 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 826 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Рослини_Червоної_книги_України"
+    ]
+  }
+}

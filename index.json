@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-04T02:09:07.620Z",
-  "total_datasets": 466,
-  "total_records": 473292,
+  "generated": "2026-11-04T02:09:16.292Z",
+  "total_datasets": 467,
+  "total_records": 474118,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -10909,6 +10909,29 @@
         "xlsx": {
           "name": "uk-prezydenty-nan-ukrainy_UK.xlsx",
           "size": 7486
+        }
+      }
+    },
+    {
+      "id": "uk-roslyny-chervonoi-knyhy-ukrainy",
+      "name": "Рослини Червоної книги України",
+      "category": "science",
+      "record_count": 826,
+      "columns": [
+        "nazva",
+        "binomialna_nazva"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Рослини_Червоної_книги_України",
+      "updated": "2026-11",
+      "size": 107929,
+      "files": {
+        "csv": {
+          "name": "uk-roslyny-chervonoi-knyhy-ukrainy_UK.csv",
+          "size": 60630
+        },
+        "xlsx": {
+          "name": "uk-roslyny-chervonoi-knyhy-ukrainy_UK.xlsx",
+          "size": 38958
         }
       }
     },
