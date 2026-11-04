@@ -1,0 +1,3004 @@
+{
+  "id": "uk-dykorosli-korysni-roslyny-ukrainy",
+  "name": "Дикорослі корисні рослини України",
+  "title": "Дикорослі корисні рослини України",
+  "description": "Список дикорослих корисних (лікарських, харчових, кормових, медоносних) рослин України з українськими назвами, синонімами та латинськими назвами (за довідником «Дикорастущие полезные растения Украины», 1983).",
+  "category": "agriculture",
+  "source": "https://uk.wikipedia.org/wiki/Список_дикорослих_корисних_рослин_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_дикорослих_корисних_рослин_України",
+  "updated": "2026-11",
+  "record_count": 493,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "synonimy",
+      "label": "Synonimy",
+      "type": "string"
+    },
+    {
+      "key": "latynska_nazva",
+      "label": "Latynska Nazva",
+      "type": "string"
+    },
+    {
+      "key": "latynski_synonimy",
+      "label": "Latynski Synonimy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Абрикос звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Armeniaca vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Авран лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Gratiola officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Горицвіт весняний",
+      "synonimy": "",
+      "latynska_nazva": "Adonis vernalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Адокса мускусна",
+      "synonimy": "",
+      "latynska_nazva": "Adoxa moschatellina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Аїр тростиновий",
+      "synonimy": "Аїр тростинний, Татарське зілля, Лепеха очеретяна",
+      "latynska_nazva": "Acorus calamus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Аконіт дібровний",
+      "synonimy": "Аконіт гайовий",
+      "latynska_nazva": "Aconitum nemorosum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Грабельки звичайні",
+      "synonimy": "Журавлині носики",
+      "latynska_nazva": "Erodium cicutarium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Біла акація",
+      "synonimy": "Робінія звичайна",
+      "latynska_nazva": "Robinia pseudoacacia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Алтея лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Althaea officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Андромеда багатолиста",
+      "synonimy": "",
+      "latynska_nazva": "Andromeda polifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Арніка гірська",
+      "synonimy": "",
+      "latynska_nazva": "Arnica montana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Солончакова айстра звичайна ﻿ (інші мови)",
+      "synonimy": "",
+      "latynska_nazva": "Aster tripolium",
+      "latynski_synonimy": "Tripolium pannonicum"
+    },
+    {
+      "nazva": "Астрагал данський",
+      "synonimy": "",
+      "latynska_nazva": "Astragalus danicus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Астрагал солодколистий",
+      "synonimy": "",
+      "latynska_nazva": "Astragalus glycyphyllus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Астрагал шерстистоквітковий",
+      "synonimy": "",
+      "latynska_nazva": "Astragalus dasyanthus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Астрагал еспарцетний",
+      "synonimy": "",
+      "latynska_nazva": "Astragalus onobrychis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Багно звичайне",
+      "synonimy": "",
+      "latynska_nazva": "Ledum palustre",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Барбарис звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Berberis vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Барвінок малий",
+      "synonimy": "",
+      "latynska_nazva": "Vinca minor",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бедринець вапнолюбний",
+      "synonimy": "",
+      "latynska_nazva": "Pimpinella titanophila",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бедринець ломикаменевий",
+      "synonimy": "",
+      "latynska_nazva": "Pimpinella saxifraga",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Пізньоцвіт осінній",
+      "synonimy": "",
+      "latynska_nazva": "Colchicum autumnale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бекманія звичайна",
+      "synonimy": "Зубровник звичайний",
+      "latynska_nazva": "Beckmannia eruciformis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Блекота чорна",
+      "synonimy": "",
+      "latynska_nazva": "Hyoscyamus niger",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Беладона звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Atropa belladonna",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Білозір болотний",
+      "synonimy": "Маточник білий, Мудник, Царські очі",
+      "latynska_nazva": "Parnassia palustris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кремена гібридна",
+      "synonimy": "Підбіл, Лопух водяний",
+      "latynska_nazva": "Petasites hybridus",
+      "latynski_synonimy": "Petasites officinalis"
+    },
+    {
+      "nazva": "Білокрильник болотяний",
+      "synonimy": "",
+      "latynska_nazva": "Calla palustris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "М'яточник чорний",
+      "synonimy": "",
+      "latynska_nazva": "Ballota nigra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Білоцвіт літній",
+      "synonimy": "Сніжинка літня",
+      "latynska_nazva": "Leucojum aestivum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Береза повисла",
+      "synonimy": "",
+      "latynska_nazva": "Betula pendula",
+      "latynski_synonimy": "Betula pendula"
+    },
+    {
+      "nazva": "Бруслина бородавчаста",
+      "synonimy": "",
+      "latynska_nazva": "Euonymus verrucosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Безсмертки однорічні",
+      "synonimy": "",
+      "latynska_nazva": "Xeranthemum annuum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Болиголов плямистий",
+      "synonimy": "",
+      "latynska_nazva": "Conium maculatum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Просянка розлога",
+      "synonimy": "",
+      "latynska_nazva": "Milium effusum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Борщівник сибірський",
+      "synonimy": "",
+      "latynska_nazva": "Heracleum sibiricum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Глід колючий",
+      "synonimy": "",
+      "latynska_nazva": "Crataegus oxyacantha",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Глід кривочашечковий",
+      "synonimy": "",
+      "latynska_nazva": "Crataegus curvisepala",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Глід криваво-червоний",
+      "synonimy": "",
+      "latynska_nazva": "Crataegus sanguinea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Глід п'ятиматочковий",
+      "synonimy": "",
+      "latynska_nazva": "Crataegus pentagina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Глід український",
+      "synonimy": "",
+      "latynska_nazva": "Crataegus ucrainica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Брусниця",
+      "synonimy": "",
+      "latynska_nazva": "Vaccinium vitis-idaea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Розхідник звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Glechoma hederacea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бузина червона",
+      "synonimy": "",
+      "latynska_nazva": "Sambucus racemosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бузина трав'яниста",
+      "synonimy": "",
+      "latynska_nazva": "Sambucus ebulus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бузина чорна",
+      "synonimy": "",
+      "latynska_nazva": "Sambucus nigra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бук лісовий",
+      "synonimy": "",
+      "latynska_nazva": "Fagus sylvatica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Агалик-трава гірська",
+      "synonimy": "",
+      "latynska_nazva": "Jasione montana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Буквиця лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Betonica officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бурачок туркестанський",
+      "synonimy": "Бурачок пустельний",
+      "latynska_nazva": "Alyssum turkestanicum",
+      "latynski_synonimy": "Alyssum desertorum"
+    },
+    {
+      "nazva": "Бутень бульбистий",
+      "synonimy": "",
+      "latynska_nazva": "Chaerophyllum bulbosum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Валеріана лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Valeriana officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Волошка розлога",
+      "synonimy": "",
+      "latynska_nazva": "Centaurea diffusa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Волошка синя",
+      "synonimy": "",
+      "latynska_nazva": "Centaurea cyanus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рутвиця смердюча",
+      "synonimy": "",
+      "latynska_nazva": "Thalictrum foetidum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рутвиця жовта",
+      "synonimy": "",
+      "latynska_nazva": "Thalictrum flavum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рутвиця мала",
+      "synonimy": "",
+      "latynska_nazva": "Thalictrum minus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бобівник трилистий",
+      "synonimy": "",
+      "latynska_nazva": "Menyanthes trifoliata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Куничник наземний",
+      "synonimy": "",
+      "latynska_nazva": "Calamagrostis epigeios",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вербозілля лучне",
+      "synonimy": "Вербозілля лучний чай",
+      "latynska_nazva": "Lysimachia nummularia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вербозілля звичайне",
+      "synonimy": "",
+      "latynska_nazva": "Lysimachia vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верес звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Calluna vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вероніка лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Veronica officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Анемона жовтевцева",
+      "synonimy": "",
+      "latynska_nazva": "Anemone ranunculoides",
+      "latynski_synonimy": "Anemonoides ranunculoides"
+    },
+    {
+      "nazva": "Камка морська",
+      "synonimy": "",
+      "latynska_nazva": "Zostera marina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вишня степова",
+      "synonimy": "",
+      "latynska_nazva": "Cerasus fruticosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Водянка чорна",
+      "synonimy": "",
+      "latynska_nazva": "Empetrum nigrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Воловик лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Anchusa officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вовчі ягоди звичайні",
+      "synonimy": "Вовче лико звичайне",
+      "latynska_nazva": "Daphne mezereum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Актея колосиста",
+      "synonimy": "",
+      "latynska_nazva": "Actaea spicata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вороняче око звичайне",
+      "synonimy": "",
+      "latynska_nazva": "Paris quadrifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Берізка польова",
+      "synonimy": "",
+      "latynska_nazva": "Convolvulus arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "В'яз звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Ulmus laevis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Берест",
+      "synonimy": "",
+      "latynska_nazva": "Ulmus carpinifolia",
+      "latynski_synonimy": "Ulmus campestris Ulmus foliacea"
+    },
+    {
+      "nazva": "В'язіль барвистий",
+      "synonimy": "В'язіль різнобарвний Кучерявий горошок",
+      "latynska_nazva": "Coronilla varia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гармала звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Peganum harmala",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гвоздика дельтовидна",
+      "synonimy": "",
+      "latynska_nazva": "Dianthus deltoides",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Герань криваво-червона",
+      "synonimy": "",
+      "latynska_nazva": "Geranium sanguineum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Герань лісова",
+      "synonimy": "",
+      "latynska_nazva": "Geranium sylvaticum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Герань лучна",
+      "synonimy": "",
+      "latynska_nazva": "Geranium pratense",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Герань пагорбкова",
+      "synonimy": "",
+      "latynska_nazva": "Geranium collinum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Стародуб шорстковолосистий",
+      "synonimy": "",
+      "latynska_nazva": "Laserpitium hispidum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Стародуб широколистий",
+      "synonimy": "",
+      "latynska_nazva": "Laserpitium latifolium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гледичія колюча",
+      "synonimy": "",
+      "latynska_nazva": "Gleditchia triacanthos",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Витка гречка берізковидна",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum convolvulus",
+      "latynski_synonimy": "Fallopia convolvulus"
+    },
+    {
+      "nazva": "Гірчак гірський",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum montanum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчак живорідний",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum viviparum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчак земноводний",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum amphibium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчак зміїний",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum bistorta",
+      "latynski_synonimy": "Polygonum carneum Bistorta officinalis"
+    },
+    {
+      "nazva": "Гірчак перцевий",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum hydropiper",
+      "latynski_synonimy": "Persicaria hydropiper"
+    },
+    {
+      "nazva": "Гірчак почечуйний",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum persicaria",
+      "latynski_synonimy": "Persicaria maculata"
+    },
+    {
+      "nazva": "Гірчак звичайний",
+      "synonimy": "Спориш звичайний",
+      "latynska_nazva": "Polygonum aviculare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчак сахалінський",
+      "synonimy": "Сахалінська гречка",
+      "latynska_nazva": "Reynoutria sachaliensis",
+      "latynski_synonimy": "Polygonum sachaliense"
+    },
+    {
+      "nazva": "Гірчак шорсткий",
+      "synonimy": "",
+      "latynska_nazva": "Polygonum scabrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Тирлич жовтий",
+      "synonimy": "",
+      "latynska_nazva": "Gentiana lutea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Смовдь руська",
+      "synonimy": "",
+      "latynska_nazva": "Peucedanum ruthenicum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Коронарія зозулин-цвіт",
+      "synonimy": "",
+      "latynska_nazva": "Coronaria flos-cuculi",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Горох польовий",
+      "synonimy": "",
+      "latynska_nazva": "Pisum arvense ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Горошок плотовий",
+      "synonimy": "",
+      "latynska_nazva": "Vicia sepium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Горошок мишачий",
+      "synonimy": "",
+      "latynska_nazva": "Vicia cracca",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчак повзучий",
+      "synonimy": "Гірчак рожевий",
+      "latynska_nazva": "Acroptilon repens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчиця біла",
+      "synonimy": "",
+      "latynska_nazva": "Sinapis alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчиця польова",
+      "synonimy": "",
+      "latynska_nazva": "Sinapis arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сарептська гірчиця",
+      "synonimy": "",
+      "latynska_nazva": "Brassica juncea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гірчиця чорна",
+      "synonimy": "",
+      "latynska_nazva": "Brassica nigra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Граб звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Carpinus betulus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гравілат міський",
+      "synonimy": "",
+      "latynska_nazva": "Geum urbanum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гравілат річковий",
+      "synonimy": "",
+      "latynska_nazva": "Geum rivale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гринделія розчепірена",
+      "synonimy": "",
+      "latynska_nazva": "Grindelia squarrosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Груша звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Pyrus communis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Грушанка круглолиста",
+      "synonimy": "",
+      "latynska_nazva": "Pyrola rotundifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Остудник голий",
+      "synonimy": "",
+      "latynska_nazva": "Herniaria glabra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сухоребрик лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Sisymbrium officinale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Зірочки жовті",
+      "synonimy": "",
+      "latynska_nazva": "Gagea lutea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Оман високий",
+      "synonimy": "",
+      "latynska_nazva": "Inula helenium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Плакун верболистий",
+      "synonimy": "",
+      "latynska_nazva": "Lythrum salicaria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Плакун прутовидний",
+      "synonimy": "",
+      "latynska_nazva": "Lythrum virgatum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Буркун білий",
+      "synonimy": "",
+      "latynska_nazva": "Melilotus albus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Буркун лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Melilotus officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Меландріум білий",
+      "synonimy": "",
+      "latynska_nazva": "Melandrium album",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дрік красильний",
+      "synonimy": "",
+      "latynska_nazva": "Genista tinctoria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дуб звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Quercus robur",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Самосил гайовий",
+      "synonimy": "",
+      "latynska_nazva": "Teucrium chamaedrys",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дудник лісовий",
+      "synonimy": "",
+      "latynska_nazva": "Angelica sylvestris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дурман звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Datura stramonium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Нетреба колюча",
+      "synonimy": "",
+      "latynska_nazva": "Xanthyum spinosum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Нетреба звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Xanthyum strumarium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Каламінта великоквіткова",
+      "synonimy": "Кам'яна м'ята великоцвіта",
+      "latynska_nazva": "Calamintha grandiflora",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Пахуча трава звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Anthoxanthum odoratum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Материнка звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Origanum vulgare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рутка лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Fumaria officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дягіль лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Angelica archangelica",
+      "latynski_synonimy": "Archangelica officinalis"
+    },
+    {
+      "nazva": "Ожина сиза",
+      "synonimy": "",
+      "latynska_nazva": "Rubus caesius",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Плоскуха звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Echinochloa crusgalli",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ялина європейська",
+      "synonimy": "Смерека",
+      "latynska_nazva": "Picea abies",
+      "latynski_synonimy": "Picea excelsa"
+    },
+    {
+      "nazva": "Жабриця порізникова",
+      "synonimy": "Порізник середній",
+      "latynska_nazva": "Seseli libanotis",
+      "latynski_synonimy": "Libanotis intermedia"
+    },
+    {
+      "nazva": "Жовтушник розчепірений",
+      "synonimy": "Жовтушник сіруватий",
+      "latynska_nazva": "Erysimum diffusum",
+      "latynski_synonimy": "Erysimum canescens"
+    },
+    {
+      "nazva": "Сокирки польові",
+      "synonimy": "",
+      "latynska_nazva": "Delphinium consolida",
+      "latynski_synonimy": "Consolida regalis"
+    },
+    {
+      "nazva": "Горлянка повзуча",
+      "synonimy": "",
+      "latynska_nazva": "Ajuga reptans",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жостір проносний",
+      "synonimy": "",
+      "latynska_nazva": "Rhamnus cathartica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Зірочник злаковидний",
+      "synonimy": "",
+      "latynska_nazva": "Stellaria graminea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Зірочник середній",
+      "synonimy": "",
+      "latynska_nazva": "Stellaria media",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Звіробій звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Hypericum perforatum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Суниці лісові",
+      "synonimy": "",
+      "latynska_nazva": "Fragaria vesca",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Зизифора головчаста",
+      "synonimy": "",
+      "latynska_nazva": "Ziziphora capitata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Зимолюбка зонтична",
+      "synonimy": "",
+      "latynska_nazva": "Chimaphila umbellata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Золотушник звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Solidago virgaurea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Золототисячник малий",
+      "synonimy": "",
+      "latynska_nazva": "Centaurium erythraea",
+      "latynski_synonimy": "Centaurium umbellatum"
+    },
+    {
+      "nazva": "Залізняк бульбистий",
+      "synonimy": "",
+      "latynska_nazva": "Phlomoides tuberosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чаполоч пахуча",
+      "synonimy": "",
+      "latynska_nazva": "Hierochloe odorata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба біла",
+      "synonimy": "",
+      "latynska_nazva": "Salix alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба козяча",
+      "synonimy": "",
+      "latynska_nazva": "Salix caprea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба ламка",
+      "synonimy": "",
+      "latynska_nazva": "Salix fragilis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба гостролиста",
+      "synonimy": "Шелюга",
+      "latynska_nazva": "Salix acutifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба попеляста",
+      "synonimy": "",
+      "latynska_nazva": "Salix cinerea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба прутовидна",
+      "synonimy": "",
+      "latynska_nazva": "Salix viminalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба червона",
+      "synonimy": "Верба пурпурова",
+      "latynska_nazva": "Salix purpurea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба п'ятитичинкова",
+      "synonimy": "Верболоз",
+      "latynska_nazva": "Salix pentadra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба розмаринолиста",
+      "synonimy": "",
+      "latynska_nazva": "Salix rosmarinifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба сива",
+      "synonimy": "",
+      "latynska_nazva": "Salix eleagnos",
+      "latynski_synonimy": "Salix incana"
+    },
+    {
+      "nazva": "Верба тритичинкова",
+      "synonimy": "Білолоз",
+      "latynska_nazva": "Salix triandra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Верба чорніюча",
+      "synonimy": "",
+      "latynska_nazva": "Salix myrsinifolia",
+      "latynski_synonimy": "Salix nigricans"
+    },
+    {
+      "nazva": "Гикавка сіра",
+      "synonimy": "",
+      "latynska_nazva": "Berteroa incana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гісоп лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Hyssopus officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ірга круглолиста",
+      "synonimy": "",
+      "latynska_nazva": "Amelanchier ovalis",
+      "latynski_synonimy": "Amelanchier rotundifolia"
+    },
+    {
+      "nazva": "Півники болотні",
+      "synonimy": "",
+      "latynska_nazva": "Iris pseudacorus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кадило сарматське",
+      "synonimy": "",
+      "latynska_nazva": "Melittis sarmatica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кавун колоцинт",
+      "synonimy": "",
+      "latynska_nazva": "Citrullus colocynthis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Калина цілолиста",
+      "synonimy": "",
+      "latynska_nazva": "Viburnum lantana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Калина звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Viburnum opulus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Калюжниця болотна",
+      "synonimy": "",
+      "latynska_nazva": "Caltha palustris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Канаркова трава справжня",
+      "synonimy": "",
+      "latynska_nazva": "Phalaris canariensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Каперці колючі",
+      "synonimy": "",
+      "latynska_nazva": "Capparis herbacea",
+      "latynski_synonimy": "Capparis spinosa"
+    },
+    {
+      "nazva": "Карагана деревовидна",
+      "synonimy": "Жовта акація",
+      "latynska_nazva": "Caragana arborescens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Катран татарський",
+      "synonimy": "",
+      "latynska_nazva": "Crambe tataria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лещиця волотиста",
+      "synonimy": "",
+      "latynska_nazva": "Gypsophila paniculata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кизил справжній",
+      "synonimy": "",
+      "latynska_nazva": "Cornus mas",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Хаменерій вузьколистий",
+      "synonimy": "",
+      "latynska_nazva": "Chamerion angustifolium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Хвилівник звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Aristolochia clematitis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Квасениця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Oxalis acetosella",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конюшина гібридна",
+      "synonimy": "",
+      "latynska_nazva": "Trifolium hybridum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конюшина гірська",
+      "synonimy": "",
+      "latynska_nazva": "Trifolium montanum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конюшина золотиста",
+      "synonimy": "Конюшина шарудлива",
+      "latynska_nazva": "Trifolium aureum",
+      "latynski_synonimy": "Trifolium strepens ﻿ (інші мови)"
+    },
+    {
+      "nazva": "Конюшина лучна",
+      "synonimy": "",
+      "latynska_nazva": "Trifolium pratense",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конюшина польова",
+      "synonimy": "",
+      "latynska_nazva": "Trifolium arvense",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конюшина повзуча",
+      "synonimy": "",
+      "latynska_nazva": "Trifolium repens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конюшина середня",
+      "synonimy": "",
+      "latynska_nazva": "Trifolium medium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Клокичка пірчаста",
+      "synonimy": "",
+      "latynska_nazva": "Staphylea pinnata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Клен несправжньоплатановий",
+      "synonimy": "Клен-явір",
+      "latynska_nazva": "Acer pseudoplatanus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Клен гостролистий",
+      "synonimy": "Клен звичайний",
+      "latynska_nazva": "Acer platanoides",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Клен польовий",
+      "synonimy": "",
+      "latynska_nazva": "Acer campestre",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Клен татарський",
+      "synonimy": "",
+      "latynska_nazva": "Acer tataricum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Хріниця смердюча",
+      "synonimy": "",
+      "latynska_nazva": "Lepidium ruderale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Клопогін смердючий",
+      "synonimy": "",
+      "latynska_nazva": "Cimicifuga foetida ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Журавлина чотирипелюсткова",
+      "synonimy": "Журавлина звичайна",
+      "latynska_nazva": "Oxycoccus palustris",
+      "latynski_synonimy": "Oxycoccus quadripetalus"
+    },
+    {
+      "nazva": "Козельці сумнівні",
+      "synonimy": "",
+      "latynska_nazva": "Tragopogon dubius",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Собача петрушка звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Aethusa cynapium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дзвоники оленячі",
+      "synonimy": "",
+      "latynska_nazva": "Campanula cervicaria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дзвоники кропиволисті",
+      "synonimy": "",
+      "latynska_nazva": "Campanula trachelium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дзвоники персиколисті",
+      "synonimy": "",
+      "latynska_nazva": "Campanula persicifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дзвоники однобічні",
+      "synonimy": "",
+      "latynska_nazva": "Campanula rapunculoides",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дзвоники головчасті",
+      "synonimy": "",
+      "latynska_nazva": "Campanula glomerata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Колосняк чорноморський",
+      "synonimy": "",
+      "latynska_nazva": "Leymus racemosus",
+      "latynski_synonimy": "Elymus racemosus"
+    },
+    {
+      "nazva": "Одкасник безстебловий",
+      "synonimy": "",
+      "latynska_nazva": "Carlina acaulis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Конрингія східна",
+      "synonimy": "",
+      "latynska_nazva": "Conringia orientalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кінський каштан звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Aesculus hippocastanum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Солодушка великоквіткова",
+      "synonimy": "",
+      "latynska_nazva": "Hedysarum grandiflorum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Копитняк європейський",
+      "synonimy": "",
+      "latynska_nazva": "Asarum europaeum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дивина густоквіткова",
+      "synonimy": "",
+      "latynska_nazva": "Verbascum densiflorum",
+      "latynski_synonimy": "Verbascum thapsiforme"
+    },
+    {
+      "nazva": "Свербіжниця польова",
+      "synonimy": "",
+      "latynska_nazva": "Knautia arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Аспленій волосовидний",
+      "synonimy": "",
+      "latynska_nazva": "Asplenium trichomanes",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Костяниця",
+      "synonimy": "",
+      "latynska_nazva": "Rubus saxatilis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Котяча м'ята справжня",
+      "synonimy": "",
+      "latynska_nazva": "Nepeta cataria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Котячі лапки дводомні",
+      "synonimy": "",
+      "latynska_nazva": "Antennaria dioica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кропива дводомна",
+      "synonimy": "",
+      "latynska_nazva": "Urtica dioica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жовтозілля звичайне",
+      "synonimy": "",
+      "latynska_nazva": "Senecio vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Родовик лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Sanguisorba officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Крушина вільховидна",
+      "synonimy": "Крушина ламка",
+      "latynska_nazva": "Frangula alnus",
+      "latynski_synonimy": "Rhamnus frangula"
+    },
+    {
+      "nazva": "Аґрус відхилений",
+      "synonimy": "",
+      "latynska_nazva": "Grossularia reclinata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Глечики жовті",
+      "synonimy": "",
+      "latynska_nazva": "Nuphar lutea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Латаття біле",
+      "synonimy": "",
+      "latynska_nazva": "Nymphaea alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кукіль звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Agrostemma githago",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Купальниця європейська",
+      "synonimy": "",
+      "latynska_nazva": "Trollius europaeus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Купина лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Polygonatum odoratum",
+      "latynski_synonimy": "Polygonatum officinale"
+    },
+    {
+      "nazva": "Бугила лісова",
+      "synonimy": "",
+      "latynska_nazva": "Anthriscus sylvestris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гадючник в'язолистий",
+      "synonimy": "",
+      "latynska_nazva": "Filipendula ulmaria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Гадючник звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Filipendula vulgaris",
+      "latynski_synonimy": "Filipendula hexapetala"
+    },
+    {
+      "nazva": "Конвалія звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Convallaria majalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Перстач білий",
+      "synonimy": "",
+      "latynska_nazva": "Potentilla alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Перстач гусячий",
+      "synonimy": "",
+      "latynska_nazva": "Potentilla anserina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Перстач прямостоячий",
+      "synonimy": "",
+      "latynska_nazva": "Potentilla erecta",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Перстач сріблястий",
+      "synonimy": "",
+      "latynska_nazva": "Potentilla argentea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ластовень лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Vincetoxicum officinale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Латук дикий",
+      "synonimy": "",
+      "latynska_nazva": "Lactuca serriola",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лутига садова",
+      "synonimy": "",
+      "latynska_nazva": "Atriplex hortensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ліщина звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Corylus avellana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лілія лісова",
+      "synonimy": "",
+      "latynska_nazva": "Lilium martagon",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Липа серцелиста",
+      "synonimy": "",
+      "latynska_nazva": "Tilia cordata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Модрина європейська",
+      "synonimy": "",
+      "latynska_nazva": "Larix decidua",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Листовик звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Phyllitis scolopendrium",
+      "latynski_synonimy": "Asplenium scolopendrium"
+    },
+    {
+      "nazva": "Ломиніс прямий",
+      "synonimy": "",
+      "latynska_nazva": "Clematis recta",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лопух справжній",
+      "synonimy": "",
+      "latynska_nazva": "Arctium lappa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Маслинка вузьколиста",
+      "synonimy": "",
+      "latynska_nazva": "Elaeagnus angustifolia",
+      "latynski_synonimy": "Elaeagnus illiensis"
+    },
+    {
+      "nazva": "Цибуля переможна",
+      "synonimy": "",
+      "latynska_nazva": "Allium victorialis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Цибуля-скорода",
+      "synonimy": "",
+      "latynska_nazva": "Allium scorodoprasum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Льонок звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Linaria vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Любисток лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Levisticum officinale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Любка дволиста",
+      "synonimy": "",
+      "latynska_nazva": "Platanthera bifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жовтець їдкий",
+      "synonimy": "",
+      "latynska_nazva": "Ranunculus acris",
+      "latynski_synonimy": "Ranunculus acer"
+    },
+    {
+      "nazva": "Жовтець багатоквітковий",
+      "synonimy": "",
+      "latynska_nazva": "Ranunculus polyanthemos",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жовтець повзучий",
+      "synonimy": "",
+      "latynska_nazva": "Ranunculus repens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Люцерна жовта",
+      "synonimy": "",
+      "latynska_nazva": "Medicago falcata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Люцерна посівна",
+      "synonimy": "",
+      "latynska_nazva": "Medicago sativa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Люцерна хмелевидна",
+      "synonimy": "",
+      "latynska_nazva": "Medicago lupulina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лядвенець рогатий",
+      "synonimy": "",
+      "latynska_nazva": "Lotus corniculatus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Веснівка дволиста",
+      "synonimy": "",
+      "latynska_nazva": "Majanthemum bifolium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Мак-самосійка",
+      "synonimy": "",
+      "latynska_nazva": "Papaver rhoeas",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Малина звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Rubus idaeus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Приворотень блискучий",
+      "synonimy": "",
+      "latynska_nazva": "Alchemilla gracilis",
+      "latynski_synonimy": "Alchemilla micans"
+    },
+    {
+      "nazva": "Лепешняк великий",
+      "synonimy": "",
+      "latynska_nazva": "Glyceria maxima",
+      "latynski_synonimy": "Glyceria aquatica"
+    },
+    {
+      "nazva": "Маргаритка багаторічна",
+      "synonimy": "",
+      "latynska_nazva": "Bellis perennis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Марена красильна",
+      "synonimy": "",
+      "latynska_nazva": "Rubia tinctorum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лобода запашна",
+      "synonimy": "",
+      "latynska_nazva": "Chenopodium ambrosioides",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лобода біла",
+      "synonimy": "",
+      "latynska_nazva": "Chenopodium album",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лобода смердюча",
+      "synonimy": "",
+      "latynska_nazva": "Chenopodium vulvaria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Лобода червона",
+      "synonimy": "",
+      "latynska_nazva": "Chenopodium rubrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Перестріч дібровний",
+      "synonimy": "",
+      "latynska_nazva": "Melampyrum nemorosum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Підбіл звичайний",
+      "synonimy": "Мати-й-мачуха",
+      "latynska_nazva": "Tussilago farfara",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Мачок жовтий",
+      "synonimy": "Гляуціум жовтий",
+      "latynska_nazva": "Glaucium flavum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Медунка темна",
+      "synonimy": "",
+      "latynska_nazva": "Pulmonaria obscura",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Меліса лікарська",
+      "synonimy": "Лимонна м'ята",
+      "latynska_nazva": "Melissa officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Злинка канадська",
+      "synonimy": "",
+      "latynska_nazva": "Erigeron canadensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Злинка гостра",
+      "synonimy": "",
+      "latynska_nazva": "Erigeron acris",
+      "latynski_synonimy": "Erigeron acer"
+    },
+    {
+      "nazva": "Мигдаль звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Amygdalus communis",
+      "latynski_synonimy": "Amygdalus dulsis"
+    },
+    {
+      "nazva": "Багатоніжка звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Polypodium vulgare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Яловець козацький",
+      "synonimy": "",
+      "latynska_nazva": "Juniperus sabina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Яловець звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Juniperus communis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Молодило дахове",
+      "synonimy": "",
+      "latynska_nazva": "Sempervivum tectorum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Скочки звичайні типові",
+      "synonimy": "",
+      "latynska_nazva": "Jovibarba sobolifera",
+      "latynski_synonimy": "Sempervivum soboliferum"
+    },
+    {
+      "nazva": "Молодило руське",
+      "synonimy": "",
+      "latynska_nazva": "Sempervivum ruthenicum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Молочай соняшний",
+      "synonimy": "",
+      "latynska_nazva": "Euphorbia helioscopia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Головатень руський",
+      "synonimy": "",
+      "latynska_nazva": "Echinops ritro",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Морква дика",
+      "synonimy": "",
+      "latynska_nazva": "Daucus carota",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чемерник червонуватий",
+      "synonimy": "",
+      "latynska_nazva": "Helleborus purpurascens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Мильнянка лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Saponaria officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шолудивник болотний",
+      "synonimy": "",
+      "latynska_nazva": "Pedicularis palustris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "М'ята блошина",
+      "synonimy": "",
+      "latynska_nazva": "Mentha pulegium",
+      "latynski_synonimy": "Mentha daghestanica"
+    },
+    {
+      "nazva": "М'ята довголиста",
+      "synonimy": "",
+      "latynska_nazva": "Mentha longifolia",
+      "latynski_synonimy": "Mentha alaica"
+    },
+    {
+      "nazva": "М'ята кучерява",
+      "synonimy": "М'ята колосовидна",
+      "latynska_nazva": "Mentha spicata",
+      "latynski_synonimy": "Mentha crispa"
+    },
+    {
+      "nazva": "М'ята перцева",
+      "synonimy": "",
+      "latynska_nazva": "Mentha piperita",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "М'ята польова",
+      "synonimy": "",
+      "latynska_nazva": "Mentha arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Наперстянка великоцвіта",
+      "synonimy": "",
+      "latynska_nazva": "Digitalis grandiflora",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Нарцис вузьколистий",
+      "synonimy": "",
+      "latynska_nazva": "Narcissus angustifolius",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Розрив-трава звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Impatiens noli-tangere",
+      "latynski_synonimy": "Impatiens komarovii"
+    },
+    {
+      "nazva": "Незабудка польова",
+      "synonimy": "",
+      "latynska_nazva": "Myosotis arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Королиця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Leucanthemum vulgare",
+      "latynski_synonimy": "Leucanthemum ircutianum"
+    },
+    {
+      "nazva": "Нікандра фізалісовидна",
+      "synonimy": "",
+      "latynska_nazva": "Nicandra physaloides ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Нагідки лікарські",
+      "synonimy": "Календула",
+      "latynska_nazva": "Calendula officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ранник вузлуватий",
+      "synonimy": "",
+      "latynska_nazva": "Scrophularia nodosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Обвійник грецький",
+      "synonimy": "",
+      "latynska_nazva": "Periploca graeca",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Оберна широколиста",
+      "synonimy": "",
+      "latynska_nazva": "Oberna behen",
+      "latynski_synonimy": "Silene latifolia"
+    },
+    {
+      "nazva": "Обліпиха крушиновидна",
+      "synonimy": "",
+      "latynska_nazva": "Hippophae rhamnoides",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вівсюг щетинистий",
+      "synonimy": "",
+      "latynska_nazva": "Avena strigosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вівсюг звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Avena fatua",
+      "latynski_synonimy": "Avena septetrionalis"
+    },
+    {
+      "nazva": "Огірочник лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Borago officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кульбаба лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Taraxacum officinale",
+      "latynski_synonimy": "Taraxacum vulgare Taraxacum almaatense Taraxacum retroflexum"
+    },
+    {
+      "nazva": "Живокіст лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Symphytum officinale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вільха клейка",
+      "synonimy": "",
+      "latynska_nazva": "Alnus glutinosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Омег водяний",
+      "synonimy": "",
+      "latynska_nazva": "Oenanthe aquatica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Омела біла",
+      "synonimy": "",
+      "latynska_nazva": "Viscum album",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Горіх волоський",
+      "synonimy": "Горіх грецький",
+      "latynska_nazva": "Juglans regia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Орляк звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Pteridium aquilinum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Осика",
+      "synonimy": "",
+      "latynska_nazva": "Populus tremula",
+      "latynski_synonimy": "Populus pseudotremula"
+    },
+    {
+      "nazva": "Енотера дворічна",
+      "synonimy": "",
+      "latynska_nazva": "Oenothera biennis",
+      "latynski_synonimy": "Onagra biennis"
+    },
+    {
+      "nazva": "Осока шершава",
+      "synonimy": "",
+      "latynska_nazva": "Carex hirta",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Осока парвська",
+      "synonimy": "",
+      "latynska_nazva": "Carex brevicollis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жовтий осот польовий",
+      "synonimy": "Осот польовий",
+      "latynska_nazva": "Sonchus arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Очанка випрямлена",
+      "synonimy": "",
+      "latynska_nazva": "Euphrasia stricta",
+      "latynski_synonimy": "Euphrasia condensata"
+    },
+    {
+      "nazva": "Очиток їдкий",
+      "synonimy": "",
+      "latynska_nazva": "Sedum acre",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Очиток звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Sedum telephium",
+      "latynski_synonimy": "Hylotelephium maximum Hylotelephium telephium Hylotelephium ohba Sedum purpureum"
+    },
+    {
+      "nazva": "Курячі ока польові",
+      "synonimy": "",
+      "latynska_nazva": "Anagallis arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Паслін солодко-гіркий",
+      "synonimy": "",
+      "latynska_nazva": "Solanum dulcamara",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Паслін чорний",
+      "synonimy": "",
+      "latynska_nazva": "Solanum nigrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Пастернак польовий",
+      "synonimy": "",
+      "latynska_nazva": "Pastinaca sylvestris ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Грицики звичайні",
+      "synonimy": "",
+      "latynska_nazva": "Capsella bursa-pastoris",
+      "latynski_synonimy": "Capsella hyrcana"
+    },
+    {
+      "nazva": "Первоцвіт весняний",
+      "synonimy": "",
+      "latynska_nazva": "Primula veris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Переступень білий",
+      "synonimy": "",
+      "latynska_nazva": "Bryonia alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Печіночниця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Hepatica nobilis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Пижмо звичайне",
+      "synonimy": "",
+      "latynska_nazva": "Tanacetum vulgare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жабрій гарний",
+      "synonimy": "",
+      "latynska_nazva": "Galeopsis speciosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жабрій ладанний",
+      "synonimy": "",
+      "latynska_nazva": "Galeopsis ladanum",
+      "latynski_synonimy": "Ladanum intermedium"
+    },
+    {
+      "nazva": "Жабрій звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Galeopsis tetrahit",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ялиця біла",
+      "synonimy": "",
+      "latynska_nazva": "Abies alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Баранець звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Huperzia selago",
+      "latynski_synonimy": "Lycopodium selago"
+    },
+    {
+      "nazva": "Плаун булавовидний",
+      "synonimy": "",
+      "latynska_nazva": "Lycopodium clavatum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Плаун колючий",
+      "synonimy": "",
+      "latynska_nazva": "Lycopodium annotinum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Плаун сплющений",
+      "synonimy": "Плаун двогострий",
+      "latynska_nazva": "Lycopodium anceps",
+      "latynski_synonimy": "Diphasiastrum complanatum"
+    },
+    {
+      "nazva": "Плющ звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Hedera helix",
+      "latynski_synonimy": "Hedera caucasigena"
+    },
+    {
+      "nazva": "Повитиця європейська",
+      "synonimy": "",
+      "latynska_nazva": "Cuscuta europaea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Підмаренник справжній",
+      "synonimy": "",
+      "latynska_nazva": "Galium verum",
+      "latynski_synonimy": "Galium borysthenicum"
+    },
+    {
+      "nazva": "Підмаренник чіпкий",
+      "synonimy": "",
+      "latynska_nazva": "Galium aparine",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Подорожник великий",
+      "synonimy": "",
+      "latynska_nazva": "Plantago major",
+      "latynski_synonimy": "Plantago borysthenica"
+    },
+    {
+      "nazva": "Подорожник ланцетолистий",
+      "synonimy": "",
+      "latynska_nazva": "Plantago lanceolata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Підсніжник звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Galanthus nivalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Полин австрійський",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia austriaca",
+      "latynski_synonimy": "Artemisia repens"
+    },
+    {
+      "nazva": "Полин гіркий",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia absinthium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Полин Маршаллів",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia marschalliana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Полин мітлистий",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia scoparia",
+      "latynski_synonimy": "Oligosporus scoparius"
+    },
+    {
+      "nazva": "Полин звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Полин однорічний",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia annua",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Полин сантонінний",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia santonica",
+      "latynski_synonimy": "Artemisia boschniakiana"
+    },
+    {
+      "nazva": "Полин кримський",
+      "synonimy": "Полинок Євшан",
+      "latynska_nazva": "Artemisia taurica",
+      "latynski_synonimy": "Artemisia graveolens Seriphidium tauricum"
+    },
+    {
+      "nazva": "Полин естрагон",
+      "synonimy": "",
+      "latynska_nazva": "Artemisia dracunculus",
+      "latynski_synonimy": "Oligosporus dracunculus"
+    },
+    {
+      "nazva": "Портулак городній",
+      "synonimy": "",
+      "latynska_nazva": "Portulaca oleracea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вех широколистий",
+      "synonimy": "",
+      "latynska_nazva": "Sium latifolium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сідач коноплевий",
+      "synonimy": "",
+      "latynska_nazva": "Eupatorium cannabinum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Зубний корінь солонцевий",
+      "synonimy": "Кахрис степовий",
+      "latynska_nazva": "Prangos odontalgica",
+      "latynski_synonimy": "Cachrys odontalgica"
+    },
+    {
+      "nazva": "Проліска дволиста",
+      "synonimy": "",
+      "latynska_nazva": "Scilla bifolia",
+      "latynski_synonimy": "Scilla nivalis"
+    },
+    {
+      "nazva": "Калачики кучеряві",
+      "synonimy": "",
+      "latynska_nazva": "Malva crispa ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Калачики лісові",
+      "synonimy": "",
+      "latynska_nazva": "Malva sylvestris",
+      "latynski_synonimy": "Malva grossheimii"
+    },
+    {
+      "nazva": "Калачики могилівські",
+      "synonimy": "",
+      "latynska_nazva": "Malva mohileviensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Калачики непомічені",
+      "synonimy": "",
+      "latynska_nazva": "Malva neglecta",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Просо волосовидне",
+      "synonimy": "",
+      "latynska_nazva": "Panicum capillare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сон розкритий",
+      "synonimy": "",
+      "latynska_nazva": "Pulsatilla patens",
+      "latynski_synonimy": "Pulsatilla latifolia"
+    },
+    {
+      "nazva": "Псоралея смолоносна",
+      "synonimy": "",
+      "latynska_nazva": "Psolarea bituminosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рястка Коха",
+      "synonimy": "",
+      "latynska_nazva": "Ornithogalum kochii ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Роман напівфарбувальний",
+      "synonimy": "",
+      "latynska_nazva": "Anthemis subtinctoria",
+      "latynski_synonimy": "Anthemis tinctoria"
+    },
+    {
+      "nazva": "Собача кропива п'ятилопатева",
+      "synonimy": "",
+      "latynska_nazva": "Leonurus quinquelobatus",
+      "latynski_synonimy": "Leonurus villosus"
+    },
+    {
+      "nazva": "Пирій повзучий",
+      "synonimy": "",
+      "latynska_nazva": "Elytrigia repens",
+      "latynski_synonimy": "Agropyron repens"
+    },
+    {
+      "nazva": "Зіновать руська",
+      "synonimy": "",
+      "latynska_nazva": "Chamaecytisus ruthenicus",
+      "latynski_synonimy": "Cytisus ruthenicus"
+    },
+    {
+      "nazva": "Ремнецвіт європейський",
+      "synonimy": "",
+      "latynska_nazva": "Loranthus europaeus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рдесник плавучий",
+      "synonimy": "",
+      "latynska_nazva": "Potamogeton natans",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Редька дика",
+      "synonimy": "",
+      "latynska_nazva": "Raphanus raphanistrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Редька посівна",
+      "synonimy": "",
+      "latynska_nazva": "Raphanus sativus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Різак звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Falcaria vulgaris",
+      "latynski_synonimy": "Falcaria neglectissima"
+    },
+    {
+      "nazva": "Резеда жовта",
+      "synonimy": "",
+      "latynska_nazva": "Reseda lutea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ріпа",
+      "synonimy": "",
+      "latynska_nazva": "Brassica rapa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Парило звичайне",
+      "synonimy": "",
+      "latynska_nazva": "Agrimonia eupatoria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Устели-поле піскове",
+      "synonimy": "",
+      "latynska_nazva": "Ceratocarpus arenarius",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Реп'яшок язичковидний",
+      "synonimy": "",
+      "latynska_nazva": "Ceratocephala testiculata",
+      "latynski_synonimy": "Ceratocephala orthoceras"
+    },
+    {
+      "nazva": "Рогіз Лаксмана",
+      "synonimy": "",
+      "latynska_nazva": "Typha laxmanii",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рогіз вузьколистий",
+      "synonimy": "",
+      "latynska_nazva": "Typha angustifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рогіз широколистий",
+      "synonimy": "",
+      "latynska_nazva": "Typha latifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Родіола рожева",
+      "synonimy": "",
+      "latynska_nazva": "Rhodiola rosea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рододендрон жовтий",
+      "synonimy": "",
+      "latynska_nazva": "Rhododendron luteum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Жито дике",
+      "synonimy": "",
+      "latynska_nazva": "Secale sylvestre",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Розмарин лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Rosmarinus officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ромашка лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Chamomilla recutita",
+      "latynski_synonimy": "Matricaria recutita"
+    },
+    {
+      "nazva": "Ромашка продірявлена",
+      "synonimy": "",
+      "latynska_nazva": "Matricaria perforata",
+      "latynski_synonimy": "Matricaria chamomilla Tripleurospermum inodorum"
+    },
+    {
+      "nazva": "Росичка круглолиста",
+      "synonimy": "",
+      "latynska_nazva": "Drosera rotundifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рута пахуча",
+      "synonimy": "",
+      "latynska_nazva": "Ruta graveolens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Рижій волосистий",
+      "synonimy": "",
+      "latynska_nazva": "Camelina pilosa ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Горобина звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Sorbus aucuparia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ряска мала",
+      "synonimy": "",
+      "latynska_nazva": "Lemna minor",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Дереза звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Lycium barbarum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вовче тіло болотне",
+      "synonimy": "",
+      "latynska_nazva": "Comarum palustre",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сафлор шерстистий",
+      "synonimy": "",
+      "latynska_nazva": "Carthhamnus lanatus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Цинодон пальчастий",
+      "synonimy": "",
+      "latynska_nazva": "Cynodon dactylon",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Серпій увінчаний",
+      "synonimy": "",
+      "latynska_nazva": "Serratula wolfii",
+      "latynski_synonimy": "Serratula coronata"
+    },
+    {
+      "nazva": "Комонник лучний",
+      "synonimy": "",
+      "latynska_nazva": "Succisa pratensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Миколайчики плоскі",
+      "synonimy": "Миколайчики сині",
+      "latynska_nazva": "Eryngium planum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Синюха голуба",
+      "synonimy": "",
+      "latynska_nazva": "Polemonium caeruleum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Синяк червоний",
+      "synonimy": "",
+      "latynska_nazva": "Echium maculatum",
+      "latynski_synonimy": "Echium rubrum"
+    },
+    {
+      "nazva": "Синяк звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Echium vulgare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Бузок звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Syringa vulgaris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Скополія карніолійська",
+      "synonimy": "",
+      "latynska_nazva": "Scopolia carniolica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Скумпія звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Cotinus coggygria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Смілка поникла",
+      "synonimy": "",
+      "latynska_nazva": "Silene nutans",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Смородина чорна",
+      "synonimy": "",
+      "latynska_nazva": "Ribes nigrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Яглиця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Aegopodium podagraria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Солонець трав'янистий",
+      "synonimy": "",
+      "latynska_nazva": "Salicornia europaea",
+      "latynski_synonimy": "Salicornia herbacea"
+    },
+    {
+      "nazva": "Сонцецвіт звичайний",
+      "synonimy": "Сонянка",
+      "latynska_nazva": "Helianthemum nummularium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Солодка гола",
+      "synonimy": "",
+      "latynska_nazva": "Glycyrrhiza glabra",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сосна звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Pinus sylvestris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Холодок лікарський",
+      "synonimy": "Спаржа",
+      "latynska_nazva": "Asparagus officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Вовчуг польовий",
+      "synonimy": "",
+      "latynska_nazva": "Ononis arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Стрілолист звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Sagittaria sagittifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сумах дубильний",
+      "synonimy": "",
+      "latynska_nazva": "Rhus coriaria",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Суріпка польова",
+      "synonimy": "",
+      "latynska_nazva": "Brassica campestris ﻿ (інші мови)",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Суріпиця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Barbarea vulgaris",
+      "latynski_synonimy": "Campe barbarea"
+    },
+    {
+      "nazva": "Сусак зонтичний",
+      "synonimy": "",
+      "latynska_nazva": "Butomus umbellatus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сухоцвіт багновий",
+      "synonimy": "",
+      "latynska_nazva": "Gnaphalium uliginosum",
+      "latynski_synonimy": "Filaginella uliginosa"
+    },
+    {
+      "nazva": "Сфагнум гостролистий",
+      "synonimy": "",
+      "latynska_nazva": "Sphagnum acutifolium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Татарник звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Onopordum acanthium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Терен колючий",
+      "synonimy": "",
+      "latynska_nazva": "Prunus spinosa",
+      "latynski_synonimy": "Prunus moldavica"
+    },
+    {
+      "nazva": "Тис ягідний",
+      "synonimy": "",
+      "latynska_nazva": "Taxus baccata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Мучниця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Arctostaphylos uva-ursi",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Тополя біла",
+      "synonimy": "",
+      "latynska_nazva": "Populus alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Тополя чорна",
+      "synonimy": "Осокір",
+      "latynska_nazva": "Populus nigra",
+      "latynski_synonimy": "Populus sosnovskyi"
+    },
+    {
+      "nazva": "Тризубець морський",
+      "synonimy": "",
+      "latynska_nazva": "Triglochin maritimum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Очерет південний",
+      "synonimy": "Тростник південний",
+      "latynska_nazva": "Phragmites australis",
+      "latynski_synonimy": "Phragmites communis"
+    },
+    {
+      "nazva": "Деревій звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Achillea millefolium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Деревій цілолистий",
+      "synonimy": "",
+      "latynska_nazva": "Achillea ptarmica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Кріп пахучий",
+      "synonimy": "",
+      "latynska_nazva": "Anethum graveolens",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Фенхель звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Foeniculum vulgare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Фіалка запашна",
+      "synonimy": "",
+      "latynska_nazva": "Viola odorata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Фіалка собача",
+      "synonimy": "",
+      "latynska_nazva": "Viola canina",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Фіалка триколірна",
+      "synonimy": "",
+      "latynska_nazva": "Viola tricolor",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Фізаліс звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Physalis alkekengi",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Сосонка звичайна",
+      "synonimy": "Водяна сосонка звичайна",
+      "latynska_nazva": "Hippuris vulgaris",
+      "latynski_synonimy": "Hippuris melanocarpa"
+    },
+    {
+      "nazva": "Хвощ польовий",
+      "synonimy": "",
+      "latynska_nazva": "Equisetum arvense",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Хміль звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Humulus lupulus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ряст Галлера",
+      "synonimy": "",
+      "latynska_nazva": "Corydalis solida",
+      "latynski_synonimy": "Corydalis halleri"
+    },
+    {
+      "nazva": "Хрін звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Armoracia rusticana",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Цикламен європейський",
+      "synonimy": "",
+      "latynska_nazva": "Cyclamen vernum",
+      "latynski_synonimy": "Cyclamen europaeum"
+    },
+    {
+      "nazva": "Петрові батоги звичайні",
+      "synonimy": "Цикорій дикий Цикорій звичайний",
+      "latynska_nazva": "Cichorium intybus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Цмин пісковий",
+      "synonimy": "",
+      "latynska_nazva": "Helichrysum arenarium",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чабер кримський",
+      "synonimy": "",
+      "latynska_nazva": "Satureja taurica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чебрець звичайний",
+      "synonimy": "",
+      "latynska_nazva": "Thymus serpyllum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чемериця чорна",
+      "synonimy": "",
+      "latynska_nazva": "Veratrum nigrum",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Череда трироздільна",
+      "synonimy": "",
+      "latynska_nazva": "Bidens tripartita",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Черемха звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Padus avium",
+      "latynski_synonimy": "Padus racemosa"
+    },
+    {
+      "nazva": "Чорниця звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Vaccinium myrtillus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чорнокорінь лікарський",
+      "synonimy": "",
+      "latynska_nazva": "Cynoglossum officinale",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чорнушка польова",
+      "synonimy": "",
+      "latynska_nazva": "Nigella arvensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Будяк акантовидний",
+      "synonimy": "",
+      "latynska_nazva": "Carduus acanthoides",
+      "latynski_synonimy": "Carduus fortior"
+    },
+    {
+      "nazva": "Кінський часник черешковий",
+      "synonimy": "",
+      "latynska_nazva": "Alliaria petiolata",
+      "latynski_synonimy": "Alliaria officinalis"
+    },
+    {
+      "nazva": "Чина гороховидна",
+      "synonimy": "",
+      "latynska_nazva": "Lathyrus pisiformis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чина бульбиста",
+      "synonimy": "",
+      "latynska_nazva": "Lathyrus tuberosus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чина лісова",
+      "synonimy": "",
+      "latynska_nazva": "Lathyrus sylvestris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чина лучна",
+      "synonimy": "",
+      "latynska_nazva": "Lathyrus pratensis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чистець болотяний",
+      "synonimy": "",
+      "latynska_nazva": "Stachys palustris",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чистець лісовий",
+      "synonimy": "",
+      "latynska_nazva": "Stachys sylvatica",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Чистець прямий",
+      "synonimy": "",
+      "latynska_nazva": "Stachys recta",
+      "latynski_synonimy": "Stachys czernjaevii"
+    },
+    {
+      "nazva": "Чистотіл великий",
+      "synonimy": "",
+      "latynska_nazva": "Chelidonium majus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Пшінка весняна",
+      "synonimy": "",
+      "latynska_nazva": "Ficaria verna",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шавлія лікарська",
+      "synonimy": "",
+      "latynska_nazva": "Salvia officinalis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шавлія мускатна",
+      "synonimy": "",
+      "latynska_nazva": "Salvia sclarea",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шавлія кільчаста",
+      "synonimy": "",
+      "latynska_nazva": "Salvia verticillata",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шавлія сухостепова",
+      "synonimy": "",
+      "latynska_nazva": "Salvia tesquicola",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шавлія ефіопська",
+      "synonimy": "",
+      "latynska_nazva": "Salvia aethiopis",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шандра звичайна",
+      "synonimy": "",
+      "latynska_nazva": "Marrubium vulgare",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шовковиця біла",
+      "synonimy": "",
+      "latynska_nazva": "Morus alba",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Шипшина корична",
+      "synonimy": "Шипшина травнева",
+      "latynska_nazva": "Rosa majalis",
+      "latynski_synonimy": "Rosa cinnamomea sensu"
+    },
+    {
+      "nazva": "Шипшина собача",
+      "synonimy": "",
+      "latynska_nazva": "Rosa canina",
+      "latynski_synonimy": "Rosa ciliato-sepala"
+    },
+    {
+      "nazva": "Шоломниця висока",
+      "synonimy": "",
+      "latynska_nazva": "Scutellaria altissima",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Косарики черепитчасті",
+      "synonimy": "",
+      "latynska_nazva": "Gladiolus imbricatus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Щавель кінський",
+      "synonimy": "",
+      "latynska_nazva": "Rumex confertus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Щавель кучерявий",
+      "synonimy": "",
+      "latynska_nazva": "Rumex crispus",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Щавель горобиний",
+      "synonimy": "",
+      "latynska_nazva": "Rumex acetosella",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Щавель кислий",
+      "synonimy": "Щавель звичайний",
+      "latynska_nazva": "Rumex acetosa",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Мишій сизий",
+      "synonimy": "",
+      "latynska_nazva": "Setaria glauca",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Щитник чоловічий",
+      "synonimy": "",
+      "latynska_nazva": "Dryopteris filix-mas",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Еспарцет виколистий",
+      "synonimy": "",
+      "latynska_nazva": "Onobrychis viciifolia",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Ефедра двоколоса",
+      "synonimy": "",
+      "latynska_nazva": "Ephedra distachya",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Яблуня лісова",
+      "synonimy": "",
+      "latynska_nazva": "Malus sylvestris",
+      "latynski_synonimy": "Malus praecox"
+    },
+    {
+      "nazva": "Заяча конюшина багатолиста",
+      "synonimy": "",
+      "latynska_nazva": "Anthyllis macrocephala",
+      "latynski_synonimy": "Anthyllis polyphylla"
+    },
+    {
+      "nazva": "Ясенець голостовпчиковий",
+      "synonimy": "",
+      "latynska_nazva": "Dictamnus gymnostylis",
+      "latynski_synonimy": "Dictamnus albus"
+    },
+    {
+      "nazva": "Ясен високий",
+      "synonimy": "Ясен звичайний",
+      "latynska_nazva": "Fraxinus excelsior",
+      "latynski_synonimy": ""
+    },
+    {
+      "nazva": "Маренка чіпка",
+      "synonimy": "",
+      "latynska_nazva": "Galium pseudorivale ﻿ (інші мови)",
+      "latynski_synonimy": "Asperula aparine"
+    },
+    {
+      "nazva": "Глуха кропива біла",
+      "synonimy": "",
+      "latynska_nazva": "Lamium album",
+      "latynski_synonimy": "Lamium dumeticola"
+    },
+    {
+      "nazva": "Нечуйвітер волохатенький",
+      "synonimy": "",
+      "latynska_nazva": "Hieracium pilosella",
+      "latynski_synonimy": "Pilosella officinarium"
+    },
+    {
+      "nazva": "Зозулинець болотний",
+      "synonimy": "",
+      "latynska_nazva": "Orchis palustris",
+      "latynski_synonimy": "Orchis elegans"
+    }
+  ],
+  "meta": {
+    "title": "Дикорослі корисні рослини України - Free Download",
+    "description": "Список дикорослих корисних (лікарських, харчових, кормових, медоносних) рослин України з українськими назвами, синонімами та латинськими назвами (за довідником «Дикорастущие полезные растения Украины», 1983). Contains 493 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Дикорослі корисні рослини України | ListBase",
+    "seo_description": "Download Дикорослі корисні рослини України — 493 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 493 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_дикорослих_корисних_рослин_України"
+    ]
+  }
+}

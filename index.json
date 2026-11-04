@@ -1,12 +1,12 @@
 {
   "lang": "uk",
-  "generated": "2026-11-03T02:22:50.836Z",
-  "total_datasets": 464,
-  "total_records": 472630,
+  "generated": "2026-11-04T02:08:58.120Z",
+  "total_datasets": 465,
+  "total_records": 473123,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -123,6 +123,31 @@
         "xlsx": {
           "name": "uk-akademiky-naan-ukrainy_UK.xlsx",
           "size": 9159
+        }
+      }
+    },
+    {
+      "id": "uk-dykorosli-korysni-roslyny-ukrainy",
+      "name": "Дикорослі корисні рослини України",
+      "category": "agriculture",
+      "record_count": 493,
+      "columns": [
+        "nazva",
+        "synonimy",
+        "latynska_nazva",
+        "latynski_synonimy"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_дикорослих_корисних_рослин_України",
+      "updated": "2026-11",
+      "size": 85714,
+      "files": {
+        "csv": {
+          "name": "uk-dykorosli-korysni-roslyny-ukrainy_UK.csv",
+          "size": 34029
+        },
+        "xlsx": {
+          "name": "uk-dykorosli-korysni-roslyny-ukrainy_UK.xlsx",
+          "size": 27676
         }
       }
     },
