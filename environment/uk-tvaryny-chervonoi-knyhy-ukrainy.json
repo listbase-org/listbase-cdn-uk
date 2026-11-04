@@ -1,0 +1,2240 @@
+{
+  "id": "uk-tvaryny-chervonoi-knyhy-ukrainy",
+  "name": "Тварини Червоної книги України",
+  "title": "Тварини Червоної книги України",
+  "description": "Алфавітний перелік видів тварин, занесених до Червоної книги України, з українськими та латинськими назвами.",
+  "category": "environment",
+  "source": "https://uk.wikipedia.org/wiki/Тварини_Червоної_книги_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Тварини_Червоної_книги_України",
+  "updated": "2026-11",
+  "record_count": 551,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "latynska_nazva",
+      "label": "Latynska Nazva",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Абія блискуча",
+      "latynska_nazva": "Abia nitens"
+    },
+    {
+      "nazva": "Абія виблискуюча",
+      "latynska_nazva": "Abia fulgens"
+    },
+    {
+      "nazva": "Аврора біла",
+      "latynska_nazva": "Euchloe ausonia"
+    },
+    {
+      "nazva": "Аксонолайм замковий",
+      "latynska_nazva": "Axonolaimus sera"
+    },
+    {
+      "nazva": "Амофіла сарептська",
+      "latynska_nazva": "Ammophila sareptana"
+    },
+    {
+      "nazva": "Анадримадуза Ретовського",
+      "latynska_nazva": "Anadrymadusa retowskii"
+    },
+    {
+      "nazva": "Андрена велика",
+      "latynska_nazva": "Andrena magna"
+    },
+    {
+      "nazva": "Андрена золотонога",
+      "latynska_nazva": "Andrena chrysopus"
+    },
+    {
+      "nazva": "Андрена ошатна",
+      "latynska_nazva": "Andrena ornata"
+    },
+    {
+      "nazva": "Андрена степова",
+      "latynska_nazva": "Andrena stepposa"
+    },
+    {
+      "nazva": "Андрена червоноплямиста",
+      "latynska_nazva": "Andrena stigmatica"
+    },
+    {
+      "nazva": "Аноплій самарський",
+      "latynska_nazva": "Anoplius samariensis"
+    },
+    {
+      "nazva": "Антофора коренаста",
+      "latynska_nazva": "Anthophora robusta"
+    },
+    {
+      "nazva": "Антофора чорновійчаста",
+      "latynska_nazva": "Anthophora atricilla"
+    },
+    {
+      "nazva": "Аполлон",
+      "latynska_nazva": "Parnassius apollo"
+    },
+    {
+      "nazva": "Арге Беккера",
+      "latynska_nazva": "Arge beckeri"
+    },
+    {
+      "nazva": "Аріанта ефіопська",
+      "latynska_nazva": "Arianta aethiops"
+    },
+    {
+      "nazva": "Арноглось середземноморська, камбала Кесслера",
+      "latynska_nazva": "Arnoglossus kessleri"
+    },
+    {
+      "nazva": "Археобдела каспійська",
+      "latynska_nazva": "Archaeobdella esmonti"
+    },
+    {
+      "nazva": "Архірилея чорна",
+      "latynska_nazva": "Archirilleya inopinata"
+    },
+    {
+      "nazva": "Аскалаф строкатий",
+      "latynska_nazva": "Libelloides macaronius"
+    },
+    {
+      "nazva": "Афаліна",
+      "latynska_nazva": "Tursiops truncatus"
+    },
+    {
+      "nazva": "Бабак степовий",
+      "latynska_nazva": "Marmota bobak"
+    },
+    {
+      "nazva": "Бабка перев'язана",
+      "latynska_nazva": "Sympetrum pedemontanum"
+    },
+    {
+      "nazva": "Багатозв'яз гірський український",
+      "latynska_nazva": "Polydesmus montanus"
+    },
+    {
+      "nazva": "Баклан малий",
+      "latynska_nazva": "Phalacrocorax pygmeus"
+    },
+    {
+      "nazva": "Баклан чубатий",
+      "latynska_nazva": "Phalacrocorax aristotelis"
+    },
+    {
+      "nazva": "Балабан",
+      "latynska_nazva": "Falco cherrug"
+    },
+    {
+      "nazva": "Баранець великий (дупель)",
+      "latynska_nazva": "Gallinago media"
+    },
+    {
+      "nazva": "Бджола-муляр Лефебвра (бджола-ліпниця Лефебвра)",
+      "latynska_nazva": "Megachile lefebvrei"
+    },
+    {
+      "nazva": "Беркут",
+      "latynska_nazva": "Aquila chrysaetos"
+    },
+    {
+      "nazva": "Бистрик короткокрилий",
+      "latynska_nazva": "Ocypus curtipennis"
+    },
+    {
+      "nazva": "Бистрянка звичайна",
+      "latynska_nazva": "Alburnoides rossicus"
+    },
+    {
+      "nazva": "Бичок Букчича, бичок рись",
+      "latynska_nazva": "Gobius bucchichi"
+    },
+    {
+      "nazva": "Бичок паганель",
+      "latynska_nazva": "Gobius paganellus"
+    },
+    {
+      "nazva": "Бичок-каспіосома каспійський",
+      "latynska_nazva": "Caspiosoma caspium"
+    },
+    {
+      "nazva": "Бичок-пуголовок зірчастий",
+      "latynska_nazva": "Benthophilus stellatus"
+    },
+    {
+      "nazva": "Бичок-пуголовочок Браунера",
+      "latynska_nazva": "Benthophiloides brauneri"
+    },
+    {
+      "nazva": "Білозубка велика",
+      "latynska_nazva": "Crocidura leucodon"
+    },
+    {
+      "nazva": "Білоперий пічкур дністровський",
+      "latynska_nazva": "Romanogobio kesslerii"
+    },
+    {
+      "nazva": "Білуга звичайна",
+      "latynska_nazva": "Huso huso"
+    },
+    {
+      "nazva": "Бластикотома папоротева",
+      "latynska_nazva": "Blasticotoma filiceti"
+    },
+    {
+      "nazva": "Боліварія короткокрила",
+      "latynska_nazva": "Bolivaria brachyptera"
+    },
+    {
+      "nazva": "Больбелязм однорогий",
+      "latynska_nazva": "Bolbelasmus unicornis"
+    },
+    {
+      "nazva": "Бопс смугастий",
+      "latynska_nazva": "Boops boops"
+    },
+    {
+      "nazva": "Боривітер степовий",
+      "latynska_nazva": "Falco naumanni"
+    },
+    {
+      "nazva": "Бражник дубовий",
+      "latynska_nazva": "Marumba quercus"
+    },
+    {
+      "nazva": "Бражник карликовий",
+      "latynska_nazva": "Sphingonaepiopsis gorgoniades"
+    },
+    {
+      "nazva": "Бражник мертва голова",
+      "latynska_nazva": "Acherontia atropos"
+    },
+    {
+      "nazva": "Бражник південний молочайний",
+      "latynska_nazva": "Hyles nicaea"
+    },
+    {
+      "nazva": "Бражник прозерпіна",
+      "latynska_nazva": "Proserpinus proserpina"
+    },
+    {
+      "nazva": "Бражник скабіозовий",
+      "latynska_nazva": "Hemaris tityus"
+    },
+    {
+      "nazva": "Бражник хорватський",
+      "latynska_nazva": "Hemaris croatica"
+    },
+    {
+      "nazva": "Бранхінекта лякаюча",
+      "latynska_nazva": "Branchinecta ferox"
+    },
+    {
+      "nazva": "Бранхінекта маленька",
+      "latynska_nazva": "Branchinecta minuta"
+    },
+    {
+      "nazva": "Бранхінекта східна",
+      "latynska_nazva": "Branchinecta orientalis"
+    },
+    {
+      "nazva": "Бранхінектела середня",
+      "latynska_nazva": "Branchinectella media"
+    },
+    {
+      "nazva": "Бранхінела колюча",
+      "latynska_nazva": "Branchinella spinosa"
+    },
+    {
+      "nazva": "Бранхіпус Шаффера",
+      "latynska_nazva": "Branchipus schaefferi"
+    },
+    {
+      "nazva": "Брахіцерус зморшкуватий",
+      "latynska_nazva": "Brachycerus sinuatus"
+    },
+    {
+      "nazva": "Бронзівка особлива",
+      "latynska_nazva": "Protaetia speciosa"
+    },
+    {
+      "nazva": "Бурозубка альпійська",
+      "latynska_nazva": "Sorex alpinus"
+    },
+    {
+      "nazva": "Ведмедиця велика",
+      "latynska_nazva": "Pericallia matronula"
+    },
+    {
+      "nazva": "Ведмедиця-господиня",
+      "latynska_nazva": "Callimorpha dominula"
+    },
+    {
+      "nazva": "Ведмідь бурий",
+      "latynska_nazva": "Ursus arctos"
+    },
+    {
+      "nazva": "Велетенський мурашиний лев західний",
+      "latynska_nazva": "Acanthaclisis occitanica"
+    },
+    {
+      "nazva": "Вечірниця велетенська",
+      "latynska_nazva": "Nyctalus lasiopterus"
+    },
+    {
+      "nazva": "Вечірниця мала",
+      "latynska_nazva": "Nyctalus leisleri"
+    },
+    {
+      "nazva": "Вечірниця руда",
+      "latynska_nazva": "Nyctalus noctula"
+    },
+    {
+      "nazva": "Видра річкова",
+      "latynska_nazva": "Lutra lutra"
+    },
+    {
+      "nazva": "Вирезуб причорноморський",
+      "latynska_nazva": "Rutilus frisii"
+    },
+    {
+      "nazva": "Вівсянка лучна",
+      "latynska_nazva": "Emberiza aureola"
+    },
+    {
+      "nazva": "Вівсянка чорноголова",
+      "latynska_nazva": "Emberiza melanocephala"
+    },
+    {
+      "nazva": "Волохатий краб",
+      "latynska_nazva": "Pilumnus hirtellus"
+    },
+    {
+      "nazva": "Вусач альпійський",
+      "latynska_nazva": "Rosalia alpina"
+    },
+    {
+      "nazva": "Вусач великий дубовий",
+      "latynska_nazva": "Cerambyx cerdo"
+    },
+    {
+      "nazva": "Вусач земляний Мокржецького",
+      "latynska_nazva": "Dorcadion mokrzheckii"
+    },
+    {
+      "nazva": "Вусач земляний хрестоносець (коренеїд хрестоносець)",
+      "latynska_nazva": "Dorcadion equestre"
+    },
+    {
+      "nazva": "Вусач мускусний",
+      "latynska_nazva": "Aromia moschata"
+    },
+    {
+      "nazva": "Вусач-червонокрил Келлера",
+      "latynska_nazva": "Purpuricenus kaehleri"
+    },
+    {
+      "nazva": "Вухань австрійський",
+      "latynska_nazva": "Plecotus austriacus"
+    },
+    {
+      "nazva": "Вухань звичайний",
+      "latynska_nazva": "Plecotus auritus"
+    },
+    {
+      "nazva": "Гадюка Нікольського, гадюка лісостепова",
+      "latynska_nazva": "Vipera nikolskii"
+    },
+    {
+      "nazva": "Гадюка степова",
+      "latynska_nazva": "Vipera renardi"
+    },
+    {
+      "nazva": "Галикт луганський",
+      "latynska_nazva": "Halictus luganicus"
+    },
+    {
+      "nazva": "Гекон середземноморський",
+      "latynska_nazva": "Mediodactylus kotschyi"
+    },
+    {
+      "nazva": "Гемідіаптом Рилова",
+      "latynska_nazva": "Hemidiaptomus rylowi"
+    },
+    {
+      "nazva": "Гептагенія Самоха",
+      "latynska_nazva": "Heptagenia samochai"
+    },
+    {
+      "nazva": "Гіпаніс левіускула",
+      "latynska_nazva": "Hypanis laeviuscula"
+    },
+    {
+      "nazva": "Гіпаніс складчастий",
+      "latynska_nazva": "Hypanis plicata"
+    },
+    {
+      "nazva": "Глотківка Щоголева",
+      "latynska_nazva": "Erpobbdella stschhegolewi"
+    },
+    {
+      "nazva": "Глушець (глухар)",
+      "latynska_nazva": "Tetrao urogallus"
+    },
+    {
+      "nazva": "Гмеліна Кузнецова",
+      "latynska_nazva": "Gmelina kusnetzowi"
+    },
+    {
+      "nazva": "Гмеліна маленька",
+      "latynska_nazva": "Gmelina pusilla"
+    },
+    {
+      "nazva": "Гоголь",
+      "latynska_nazva": "Bucephala clangula"
+    },
+    {
+      "nazva": "Голуб-синяк",
+      "latynska_nazva": "Columba oenas"
+    },
+    {
+      "nazva": "Гольян озерний (мересниця озерна)",
+      "latynska_nazva": "Rhynchocypris percnurus"
+    },
+    {
+      "nazva": "Гоплітіс рудий",
+      "latynska_nazva": "Hoplitis fulva"
+    },
+    {
+      "nazva": "Горбань темний",
+      "latynska_nazva": "Sciaena umbra"
+    },
+    {
+      "nazva": "Горіхотворка велетенська",
+      "latynska_nazva": "Ibalia rufipes"
+    },
+    {
+      "nazva": "Горностай",
+      "latynska_nazva": "Mustela erminea"
+    },
+    {
+      "nazva": "Гранарія зернова",
+      "latynska_nazva": "Granaria frumentum"
+    },
+    {
+      "nazva": "Гребінчастий губань золотистий",
+      "latynska_nazva": "Ctenolabrus rupestris"
+    },
+    {
+      "nazva": "Гриф чорний",
+      "latynska_nazva": "Aegypius monachus"
+    },
+    {
+      "nazva": "Грицик великий",
+      "latynska_nazva": "Limosa limosa"
+    },
+    {
+      "nazva": "Губань зелений",
+      "latynska_nazva": "Labrus viridis"
+    },
+    {
+      "nazva": "Гуска мала (гуска білолоба мала)",
+      "latynska_nazva": "Anser erythropus"
+    },
+    {
+      "nazva": "Дазипода шипоносна (мохнонога бджола шипоносна)",
+      "latynska_nazva": "Dasypoda spinigera"
+    },
+    {
+      "nazva": "Дельфін звичайний (білобочка)",
+      "latynska_nazva": "Delphinus delphis"
+    },
+    {
+      "nazva": "Дерихвіст лучний",
+      "latynska_nazva": "Glareola pratincola"
+    },
+    {
+      "nazva": "Дерихвіст степовий",
+      "latynska_nazva": "Glareola nordmanni"
+    },
+    {
+      "nazva": "Джміль вірменський",
+      "latynska_nazva": "Bombus armeniacus"
+    },
+    {
+      "nazva": "Джміль глинистий",
+      "latynska_nazva": "Bombus argillaceus"
+    },
+    {
+      "nazva": "Джміль лезус",
+      "latynska_nazva": "Bombus laesus"
+    },
+    {
+      "nazva": "Джміль моховий",
+      "latynska_nazva": "Bombus muscorum"
+    },
+    {
+      "nazva": "Джміль оперезаний",
+      "latynska_nazva": "Bombus zonatus"
+    },
+    {
+      "nazva": "Джміль пахучий",
+      "latynska_nazva": "Bombus fragrans"
+    },
+    {
+      "nazva": "Джміль червонуватий",
+      "latynska_nazva": "Bombus ruderatus"
+    },
+    {
+      "nazva": "Джміль яскравий",
+      "latynska_nazva": "Bombus pomorum"
+    },
+    {
+      "nazva": "Дибка степова",
+      "latynska_nazva": "Saga pedo"
+    },
+    {
+      "nazva": "Дисцелія зональна",
+      "latynska_nazva": "Discoelius zonalis"
+    },
+    {
+      "nazva": "Довгокрил звичайний",
+      "latynska_nazva": "Miniopterus schreibersii"
+    },
+    {
+      "nazva": "Дозорець-імператор",
+      "latynska_nazva": "Anax imperator"
+    },
+    {
+      "nazva": "Долерус короткокрилий",
+      "latynska_nazva": "Dolerus subalatus"
+    },
+    {
+      "nazva": "Долерус степовий",
+      "latynska_nazva": "Dolerus ciliatus"
+    },
+    {
+      "nazva": "Доліхомітус головастий",
+      "latynska_nazva": "Dolichomitus cephalotes"
+    },
+    {
+      "nazva": "Дрепанозурус дволикий",
+      "latynska_nazva": "Drepanosurus birostratus"
+    },
+    {
+      "nazva": "Дробація банатська",
+      "latynska_nazva": "Drobacia banatica"
+    },
+    {
+      "nazva": "Дрохва",
+      "latynska_nazva": "Otis tarda"
+    },
+    {
+      "nazva": "Дятел білоспинний",
+      "latynska_nazva": "Dendrocopos leucotos"
+    },
+    {
+      "nazva": "Дятел трипалий",
+      "latynska_nazva": "Picoides tridactylus"
+    },
+    {
+      "nazva": "Евмен трикрапковий",
+      "latynska_nazva": "Eumenes tripunctatus"
+    },
+    {
+      "nazva": "Евритірея золотиста",
+      "latynska_nazva": "Eurythyrea aurata"
+    },
+    {
+      "nazva": "Евхальція різнобарвна",
+      "latynska_nazva": "Euchalcia variabilis"
+    },
+    {
+      "nazva": "Евцера вірменська (довговуса бджола вірменська)",
+      "latynska_nazva": "Eucera armeniaca"
+    },
+    {
+      "nazva": "Ейзенія гордєєва",
+      "latynska_nazva": "Eisenia gordejeffi"
+    },
+    {
+      "nazva": "Екдіонурус єдиний",
+      "latynska_nazva": "Ecdyonurus solus"
+    },
+    {
+      "nazva": "Ембія реліктова",
+      "latynska_nazva": "Haploembia solieri"
+    },
+    {
+      "nazva": "Емпуза піщана",
+      "latynska_nazva": "Empusa pennicornis"
+    },
+    {
+      "nazva": "Емпуза смугаста",
+      "latynska_nazva": "Empusa fasciata"
+    },
+    {
+      "nazva": "Ендроміс березовий",
+      "latynska_nazva": "Endromis versicolora"
+    },
+    {
+      "nazva": "Ємуранчик звичайний (кандибка пустельний)",
+      "latynska_nazva": "Stylodipus telum"
+    },
+    {
+      "nazva": "Жаба прудка",
+      "latynska_nazva": "Rana dalmatina"
+    },
+    {
+      "nazva": "Жабоп'явка алжирська",
+      "latynska_nazva": "Batracobdella algira"
+    },
+    {
+      "nazva": "Жайворонок сірий",
+      "latynska_nazva": "Calandrella rufescens"
+    },
+    {
+      "nazva": "Жиряк гладенький",
+      "latynska_nazva": "Liparus laevigatus"
+    },
+    {
+      "nazva": "Жовна зелена (дятел зелений)",
+      "latynska_nazva": "Picus viridis"
+    },
+    {
+      "nazva": "Жовтопуз безногий, жовтопузик",
+      "latynska_nazva": "Pseudopus apodus"
+    },
+    {
+      "nazva": "Жовтюх торфовищний",
+      "latynska_nazva": "Colias palaeno"
+    },
+    {
+      "nazva": "Жужелиця дама",
+      "latynska_nazva": "Carterus dama"
+    },
+    {
+      "nazva": "Жужелиця Шевролата",
+      "latynska_nazva": "Parazuphium chevrolati"
+    },
+    {
+      "nazva": "Жук-олень, рогач звичайний",
+      "latynska_nazva": "Lucanus cervus"
+    },
+    {
+      "nazva": "Жук-самітник",
+      "latynska_nazva": "Osmoderma barnabita"
+    },
+    {
+      "nazva": "Журавель сірий",
+      "latynska_nazva": "Grus grus"
+    },
+    {
+      "nazva": "Журавель степовий",
+      "latynska_nazva": "Anthropoides virgo"
+    },
+    {
+      "nazva": "Заєць білий",
+      "latynska_nazva": "Lepus timidus"
+    },
+    {
+      "nazva": "Зегрис Евфема",
+      "latynska_nazva": "Zegris eupheme"
+    },
+    {
+      "nazva": "Зеленушка носата",
+      "latynska_nazva": "Symphodus rostratus"
+    },
+    {
+      "nazva": "Зеус звичайний, сонцевик звичайний",
+      "latynska_nazva": "Zeus faber"
+    },
+    {
+      "nazva": "Златка блискуча",
+      "latynska_nazva": "Buprestis splendens"
+    },
+    {
+      "nazva": "Змієїд",
+      "latynska_nazva": "Circaetus gallicus"
+    },
+    {
+      "nazva": "Золотомушка червоночуба",
+      "latynska_nazva": "Regulus ignicapillus"
+    },
+    {
+      "nazva": "Зубарик грубоклубий",
+      "latynska_nazva": "Merodon crassifemoris"
+    },
+    {
+      "nazva": "Зубарик звичайний",
+      "latynska_nazva": "Diplodus puntazzo"
+    },
+    {
+      "nazva": "Зубарик стегнуватий",
+      "latynska_nazva": "Merodon femoratoides"
+    },
+    {
+      "nazva": "Зубарик чорнолапий",
+      "latynska_nazva": "Merodon nigritarsis"
+    },
+    {
+      "nazva": "Зубр",
+      "latynska_nazva": "Bison bonasus"
+    },
+    {
+      "nazva": "Ірис плямистий",
+      "latynska_nazva": "Iris polystictica"
+    },
+    {
+      "nazva": "Іфігенела Андрусова",
+      "latynska_nazva": "Iphigenella andrussowi"
+    },
+    {
+      "nazva": "Іфігенела колючконога",
+      "latynska_nazva": "Iphigenella acanthopoda"
+    },
+    {
+      "nazva": "Іфігенела шаблінська",
+      "latynska_nazva": "Iphigenella shablensis"
+    },
+    {
+      "nazva": "Їжак вухатий",
+      "latynska_nazva": "Hemiechinus auritus"
+    },
+    {
+      "nazva": "Йорж Балона",
+      "latynska_nazva": "Gymnocephalus baloni"
+    },
+    {
+      "nazva": "Йорж носар",
+      "latynska_nazva": "Gymnocephalus acerinus"
+    },
+    {
+      "nazva": "Йорж смугастий",
+      "latynska_nazva": "Gymnocephalus schraetser"
+    },
+    {
+      "nazva": "Кажан північний",
+      "latynska_nazva": "Eptesicus nilssonii"
+    },
+    {
+      "nazva": "Кажан пізній",
+      "latynska_nazva": "Eptesicus serotinus"
+    },
+    {
+      "nazva": "Казарка червоновола",
+      "latynska_nazva": "Rufibrenta ruficollis"
+    },
+    {
+      "nazva": "Каламеута жовта",
+      "latynska_nazva": "Calameuta idolon"
+    },
+    {
+      "nazva": "Кам'яний краб",
+      "latynska_nazva": "Eriphia verrucosa"
+    },
+    {
+      "nazva": "Кам'яний окунь зебра",
+      "latynska_nazva": "Serranus scriba"
+    },
+    {
+      "nazva": "Канюк степовий",
+      "latynska_nazva": "Buteo rufinus"
+    },
+    {
+      "nazva": "Каптурниця блискуча",
+      "latynska_nazva": "Cucullia splendida"
+    },
+    {
+      "nazva": "Каптурниця пишна",
+      "latynska_nazva": "Cucullia magnifica"
+    },
+    {
+      "nazva": "Каптурниця срібляста",
+      "latynska_nazva": "Cucullia argentina"
+    },
+    {
+      "nazva": "Каптурниця срібна",
+      "latynska_nazva": "Cucullia argentea"
+    },
+    {
+      "nazva": "Карась звичайний, карась золотий",
+      "latynska_nazva": "Carassius carassius"
+    },
+    {
+      "nazva": "Кведій карпатський",
+      "latynska_nazva": "Quedius transsylvanicus"
+    },
+    {
+      "nazva": "Кефаль рамада",
+      "latynska_nazva": "Liza ramada"
+    },
+    {
+      "nazva": "Кінь дикий",
+      "latynska_nazva": "Equus caballus"
+    },
+    {
+      "nazva": "Кіт лісовий",
+      "latynska_nazva": "Felis sylvestris"
+    },
+    {
+      "nazva": "Клімена",
+      "latynska_nazva": "Esperarge climene"
+    },
+    {
+      "nazva": "Ковалик Паррейса",
+      "latynska_nazva": "Alaus parreyssi"
+    },
+    {
+      "nazva": "Ковалик сплощений",
+      "latynska_nazva": "Neopristilophus depressus"
+    },
+    {
+      "nazva": "Коловодник ставковий (поручайник)",
+      "latynska_nazva": "Tringa stagnatilis"
+    },
+    {
+      "nazva": "Кольпа Клюге (кампсосколія жовтоволоса)",
+      "latynska_nazva": "Colpa klugii"
+    },
+    {
+      "nazva": "Кольпоциклоп прісноводний",
+      "latynska_nazva": "Colpocyclops dulcis"
+    },
+    {
+      "nazva": "Кольпоциклоп шипуватий",
+      "latynska_nazva": "Colpocyclops longispinosus"
+    },
+    {
+      "nazva": "Комарівка італійська",
+      "latynska_nazva": "Bittacus italicus"
+    },
+    {
+      "nazva": "Коник-товстун степовий",
+      "latynska_nazva": "Callimenus multituberculatus"
+    },
+    {
+      "nazva": "Коранус сірий",
+      "latynska_nazva": "Coranus griseus"
+    },
+    {
+      "nazva": "Кордулегастер двозубчастий",
+      "latynska_nazva": "Cordulegaster bidentata"
+    },
+    {
+      "nazva": "Кордулегастер кільчастий",
+      "latynska_nazva": "Cordulegaster boltoni"
+    },
+    {
+      "nazva": "Коровайка",
+      "latynska_nazva": "Plegadis falcinellus"
+    },
+    {
+      "nazva": "Короткопера риба-присосок двоплямиста",
+      "latynska_nazva": "Diplecogaster bimaculatus"
+    },
+    {
+      "nazva": "Корсак",
+      "latynska_nazva": "Vulpes corsac"
+    },
+    {
+      "nazva": "Косар",
+      "latynska_nazva": "Platalea leucorodia"
+    },
+    {
+      "nazva": "Кошеніль польська",
+      "latynska_nazva": "Porphyropha polonica"
+    },
+    {
+      "nazva": "Красик веселий (Пістрянка весела)",
+      "latynska_nazva": "Zygaena laeta"
+    },
+    {
+      "nazva": "Красик понтійський (Пістрянка понтійська)",
+      "latynska_nazva": "Zygaena sedi"
+    },
+    {
+      "nazva": "Красновуска Маккара",
+      "latynska_nazva": "Callicera macquarti"
+    },
+    {
+      "nazva": "Красотіл пахучий",
+      "latynska_nazva": "Calosoma sycophanta"
+    },
+    {
+      "nazva": "Красуня блискуча кримська",
+      "latynska_nazva": "Calopteryx splendens taurica"
+    },
+    {
+      "nazva": "Красуня діва",
+      "latynska_nazva": "Calopteryx virgo"
+    },
+    {
+      "nazva": "Крех середній (крех довгоносий)",
+      "latynska_nazva": "Mergus serrator"
+    },
+    {
+      "nazva": "Криптохіл кільчастий",
+      "latynska_nazva": "Cryptocheilus alternatus"
+    },
+    {
+      "nazva": "Криптохіл червонуватий",
+      "latynska_nazva": "Cryptocheilus rubellus"
+    },
+    {
+      "nazva": "Крячок каспійський",
+      "latynska_nazva": "Hydroprogne caspia"
+    },
+    {
+      "nazva": "Крячок малий",
+      "latynska_nazva": "Sterna albifrons"
+    },
+    {
+      "nazva": "Ксанто пореса",
+      "latynska_nazva": "Xantho poressa"
+    },
+    {
+      "nazva": "Ксилокопа звичайна (бджола-тесляр звичайна)",
+      "latynska_nazva": "Xylocopa valga"
+    },
+    {
+      "nazva": "Ксилокопа райдужна (бджола-тесляр райдужна)",
+      "latynska_nazva": "Xylocopa iris"
+    },
+    {
+      "nazva": "Ксилокопа фіолетова (бджола-тесляр фіолетова)",
+      "latynska_nazva": "Xylocopa violacea"
+    },
+    {
+      "nazva": "Ксифідрія Маркевича (коновія Маркевича)",
+      "latynska_nazva": "Xiphydria markewitshi"
+    },
+    {
+      "nazva": "Ксифідрія строката",
+      "latynska_nazva": "Xiphydria picta"
+    },
+    {
+      "nazva": "Ктенофора прикрашена",
+      "latynska_nazva": "Ctenophora festiva"
+    },
+    {
+      "nazva": "Ктир велетенський",
+      "latynska_nazva": "Satanas gigas"
+    },
+    {
+      "nazva": "Ктир шершенеподібний",
+      "latynska_nazva": "Asilus crabroniformis"
+    },
+    {
+      "nazva": "Кубіталія чорна",
+      "latynska_nazva": "Cubitalia morio"
+    },
+    {
+      "nazva": "Кулик-довгоніг (ходуличник)",
+      "latynska_nazva": "Himantopus himantopus"
+    },
+    {
+      "nazva": "Кулик-сорока",
+      "latynska_nazva": "Haematopus ostralegus"
+    },
+    {
+      "nazva": "Кульон великий (кроншнеп великий)",
+      "latynska_nazva": "Numenius arquata"
+    },
+    {
+      "nazva": "Кульон середній (кроншнеп середній)",
+      "latynska_nazva": "Numenius phaeopus"
+    },
+    {
+      "nazva": "Кульон тонкодзьобий (кроншнеп тонкодзьобий)",
+      "latynska_nazva": "Numenius tenuirostris"
+    },
+    {
+      "nazva": "Кумка жовточерева",
+      "latynska_nazva": "Bombina variegata"
+    },
+    {
+      "nazva": "Кутора мала",
+      "latynska_nazva": "Neomys anomalus"
+    },
+    {
+      "nazva": "Лаврак європейський",
+      "latynska_nazva": "Dicentrarchus labrax"
+    },
+    {
+      "nazva": "Лебідь малий",
+      "latynska_nazva": "Cygnus bewickii"
+    },
+    {
+      "nazva": "Левкомігус білосніжний",
+      "latynska_nazva": "Leucomigus candidatus"
+    },
+    {
+      "nazva": "Левкоринія білолоба",
+      "latynska_nazva": "Leucorrhinia albifrons"
+    },
+    {
+      "nazva": "Лежень",
+      "latynska_nazva": "Burhinus oedicnemus"
+    },
+    {
+      "nazva": "Лелека чорний",
+      "latynska_nazva": "Ciconia nigra"
+    },
+    {
+      "nazva": "Лептоюлюс Семенкевича",
+      "latynska_nazva": "Leptojulus semenkevitshi"
+    },
+    {
+      "nazva": "Лилик двоколірний",
+      "latynska_nazva": "Vespertilio murinus"
+    },
+    {
+      "nazva": "Ліксус катрановий",
+      "latynska_nazva": "Lixus canescens"
+    },
+    {
+      "nazva": "Ліометопум звичайний",
+      "latynska_nazva": "Liometopum microcephalum"
+    },
+    {
+      "nazva": "Лісмата щетинконога",
+      "latynska_nazva": "Lysmata seticaudata"
+    },
+    {
+      "nazva": "Лосось дунайський, головатиця",
+      "latynska_nazva": "Hucho hucho"
+    },
+    {
+      "nazva": "Лосось чорноморський",
+      "latynska_nazva": "Salmo labrax"
+    },
+    {
+      "nazva": "Лось європейський",
+      "latynska_nazva": "Alces alces"
+    },
+    {
+      "nazva": "Лунь лучний",
+      "latynska_nazva": "Circus pygargus"
+    },
+    {
+      "nazva": "Лунь польовий",
+      "latynska_nazva": "Circus cyaneus"
+    },
+    {
+      "nazva": "Лунь степовий",
+      "latynska_nazva": "Circus macrourus"
+    },
+    {
+      "nazva": "Льодовичник Вествуда",
+      "latynska_nazva": "Boreus westwoodi"
+    },
+    {
+      "nazva": "Люцина",
+      "latynska_nazva": "Hamearis lucina"
+    },
+    {
+      "nazva": "Лярра анафемська",
+      "latynska_nazva": "Larra anathema"
+    },
+    {
+      "nazva": "Мантіспа штирійська",
+      "latynska_nazva": "Mantispa styriaca"
+    },
+    {
+      "nazva": "Марена Валецького",
+      "latynska_nazva": "Barbus waleckii"
+    },
+    {
+      "nazva": "Марена дніпровська",
+      "latynska_nazva": "Barbus borysthenicus"
+    },
+    {
+      "nazva": "Марена дунайсько-дністровська",
+      "latynska_nazva": "Barbus petenyi"
+    },
+    {
+      "nazva": "Марена звичайна",
+      "latynska_nazva": "Barbus barbus"
+    },
+    {
+      "nazva": "Марена кримська",
+      "latynska_nazva": "Barbus tauricus"
+    },
+    {
+      "nazva": "Мармуровий краб",
+      "latynska_nazva": "Pachygrapsus marmoratus"
+    },
+    {
+      "nazva": "Мартин каспійський (реготун чорноголовий)",
+      "latynska_nazva": "Larus ichthyaetus"
+    },
+    {
+      "nazva": "Махаон",
+      "latynska_nazva": "Papilio machaon"
+    },
+    {
+      "nazva": "Мегалодонт середній",
+      "latynska_nazva": "Megalodontes medius"
+    },
+    {
+      "nazva": "Мегариса перлата",
+      "latynska_nazva": "Megarhyssa perlata"
+    },
+    {
+      "nazva": "Мегариса рогохвостова",
+      "latynska_nazva": "Megarhyssa superba"
+    },
+    {
+      "nazva": "Мегахіла Жіро (бджола-листоріз Жіро)",
+      "latynska_nazva": "Megachile giraudi"
+    },
+    {
+      "nazva": "Мелітта Ванковича",
+      "latynska_nazva": "Melitta wankowiczi"
+    },
+    {
+      "nazva": "Мелітурга булавовуса",
+      "latynska_nazva": "Melitturga clavicornis"
+    },
+    {
+      "nazva": "Меризія азовська",
+      "latynska_nazva": "Moerisia maeotica"
+    },
+    {
+      "nazva": "Минь річковий",
+      "latynska_nazva": "Lota lota"
+    },
+    {
+      "nazva": "Мишівка лісова",
+      "latynska_nazva": "Sicista betulina"
+    },
+    {
+      "nazva": "Мишівка степова",
+      "latynska_nazva": "Sicista subtilis"
+    },
+    {
+      "nazva": "Мишівка темна",
+      "latynska_nazva": "Sicista severtzovi"
+    },
+    {
+      "nazva": "Мишівка Штранда",
+      "latynska_nazva": "Sicista strandi"
+    },
+    {
+      "nazva": "Мідянка звичайна",
+      "latynska_nazva": "Coronella austriaca"
+    },
+    {
+      "nazva": "Мізида аномальна",
+      "latynska_nazva": "Hemimysis anomala"
+    },
+    {
+      "nazva": "Мізида Варпаховського",
+      "latynska_nazva": "Katamysis warpachowskyi"
+    },
+    {
+      "nazva": "Мізида зубчаста",
+      "latynska_nazva": "Hemimysis serrata"
+    },
+    {
+      "nazva": "Мінога карпатська",
+      "latynska_nazva": "Eudontomyzon danfordi"
+    },
+    {
+      "nazva": "Мінога українська",
+      "latynska_nazva": "Eudontomyzon mariae"
+    },
+    {
+      "nazva": "Мнемозина",
+      "latynska_nazva": "Parnassius mnemosyne"
+    },
+    {
+      "nazva": "Могильник",
+      "latynska_nazva": "Aquila heliaca"
+    },
+    {
+      "nazva": "Морімус темний",
+      "latynska_nazva": "Morimus funereus"
+    },
+    {
+      "nazva": "Морська голка товсторила",
+      "latynska_nazva": "Syngnathus variegatus"
+    },
+    {
+      "nazva": "Морська голка тонкорила",
+      "latynska_nazva": "Syngnathus tenuirostris"
+    },
+    {
+      "nazva": "Морська свиня (азовка)",
+      "latynska_nazva": "Phocoena phocoena"
+    },
+    {
+      "nazva": "Морський коник довгорилий",
+      "latynska_nazva": "Hippocampus guttulatus"
+    },
+    {
+      "nazva": "Морський кріт",
+      "latynska_nazva": "Upogebia pusilla"
+    },
+    {
+      "nazva": "Морський чорт європейський",
+      "latynska_nazva": "Lophius piscatorius"
+    },
+    {
+      "nazva": "Моруліна пухирчаста",
+      "latynska_nazva": "Morulina verrucosa"
+    },
+    {
+      "nazva": "Мухоловка звичайна",
+      "latynska_nazva": "Scutigera coleoptrata"
+    },
+    {
+      "nazva": "Нерозень",
+      "latynska_nazva": "Anas strepera"
+    },
+    {
+      "nazva": "Нетопир звичайний (нетопир карлик)",
+      "latynska_nazva": "Pipistrellus pipistrellus"
+    },
+    {
+      "nazva": "Нетопир кажановидний (нетопир скельний)",
+      "latynska_nazva": "Hypsugo savii"
+    },
+    {
+      "nazva": "Нетопир Натузіуса",
+      "latynska_nazva": "Pipistrellus nathusii"
+    },
+    {
+      "nazva": "Нетопир середземноморський (нетопир білосмугий)",
+      "latynska_nazva": "Pipistrellus kuhlii"
+    },
+    {
+      "nazva": "Нетопир пігмей",
+      "latynska_nazva": "Pipistrellus pygmaeus"
+    },
+    {
+      "nazva": "Ніфарг середній",
+      "latynska_nazva": "Niphargoides intermedius"
+    },
+    {
+      "nazva": "Нічниця Брандта",
+      "latynska_nazva": "Myotis brandtii"
+    },
+    {
+      "nazva": "Нічниця велика",
+      "latynska_nazva": "Myotis myotis"
+    },
+    {
+      "nazva": "Нічниця водяна",
+      "latynska_nazva": "Myotis daubentonii"
+    },
+    {
+      "nazva": "Нічниця вусата",
+      "latynska_nazva": "Myotis mystacinus"
+    },
+    {
+      "nazva": "Нічниця гостровуха",
+      "latynska_nazva": "Myotis blythii"
+    },
+    {
+      "nazva": "Нічниця довговуха",
+      "latynska_nazva": "Myotis bechsteinii"
+    },
+    {
+      "nazva": "Нічниця мала",
+      "latynska_nazva": "Myotis alcathoe"
+    },
+    {
+      "nazva": "Нічниця Наттерера",
+      "latynska_nazva": "Myotis nattereri"
+    },
+    {
+      "nazva": "Нічниця ставкова",
+      "latynska_nazva": "Myotis dasycneme"
+    },
+    {
+      "nazva": "Нічниця степова",
+      "latynska_nazva": "Myotis aurascens"
+    },
+    {
+      "nazva": "Нічниця триколірна",
+      "latynska_nazva": "Myotis emarginatus"
+    },
+    {
+      "nazva": "Норка європейська",
+      "latynska_nazva": "Mustela lutreola"
+    },
+    {
+      "nazva": "Носатка-листовидка",
+      "latynska_nazva": "Libythea celtis"
+    },
+    {
+      "nazva": "Огар",
+      "latynska_nazva": "Tadorna ferruginea"
+    },
+    {
+      "nazva": "Оксиетира жовтовуса",
+      "latynska_nazva": "Oxyethira flavicornis"
+    },
+    {
+      "nazva": "Оксихілюс Кобельта",
+      "latynska_nazva": "Oxychilus kobelti"
+    },
+    {
+      "nazva": "Оліндіас несподіваний",
+      "latynska_nazva": "Olindias inexpectata"
+    },
+    {
+      "nazva": "Оніхоптерохеілюс Палласа",
+      "latynska_nazva": "Onychopterocheilus pallasii"
+    },
+    {
+      "nazva": "Онкоцефал кримський",
+      "latynska_nazva": "Oncocephalus paternus"
+    },
+    {
+      "nazva": "Ореїна зелена",
+      "latynska_nazva": "Oreina viridis"
+    },
+    {
+      "nazva": "Ореїна плагіата",
+      "latynska_nazva": "Oreina plagiata"
+    },
+    {
+      "nazva": "Орел степовий",
+      "latynska_nazva": "Aquila rapax"
+    },
+    {
+      "nazva": "Орел-карлик",
+      "latynska_nazva": "Hieraaetus pennatus"
+    },
+    {
+      "nazva": "Орлан-білохвіст",
+      "latynska_nazva": "Haliaeetus albicilla"
+    },
+    {
+      "nazva": "Орусус паразитичний",
+      "latynska_nazva": "Orussus abietinus"
+    },
+    {
+      "nazva": "Орябок",
+      "latynska_nazva": "Tetrastes bonasia"
+    },
+    {
+      "nazva": "Осетер атлантичний",
+      "latynska_nazva": "Acipenser sturio"
+    },
+    {
+      "nazva": "Осетер російський",
+      "latynska_nazva": "Acipenser gueldenstaedtii"
+    },
+    {
+      "nazva": "Осетер шип",
+      "latynska_nazva": "Acipenser nudiventris"
+    },
+    {
+      "nazva": "Офіогомфус Цецилія",
+      "latynska_nazva": "Ophiogomphus cecilia"
+    },
+    {
+      "nazva": "Очеретянка прудка",
+      "latynska_nazva": "Acrocephalus paludicola"
+    },
+    {
+      "nazva": "Пагель червоний",
+      "latynska_nazva": "Pagellus erythrinus"
+    },
+    {
+      "nazva": "Палінгенія довгохвоста",
+      "latynska_nazva": "Palingenia longicauda"
+    },
+    {
+      "nazva": "Паравеспа царська",
+      "latynska_nazva": "Paravespa rex"
+    },
+    {
+      "nazva": "Пахіцефус степовий",
+      "latynska_nazva": "Pachycephus cruentatus"
+    },
+    {
+      "nazva": "Пелекоцера широколоба",
+      "latynska_nazva": "Pelecocera latifrons"
+    },
+    {
+      "nazva": "Пелікан кучерявий",
+      "latynska_nazva": "Pelecanus crispus"
+    },
+    {
+      "nazva": "Пелікан рожевий",
+      "latynska_nazva": "Pelecanus onocrotalus"
+    },
+    {
+      "nazva": "Перегузня",
+      "latynska_nazva": "Vormela peregusna"
+    },
+    {
+      "nazva": "Перистома мердвенева",
+      "latynska_nazva": "Peristoma merduenianum"
+    },
+    {
+      "nazva": "Перкарина чорноморська",
+      "latynska_nazva": "Percarina demidoffii"
+    },
+    {
+      "nazva": "Пилкоротиця південна",
+      "latynska_nazva": "Temnostoma meridionale"
+    },
+    {
+      "nazva": "Пилкохвіст Болдирева",
+      "latynska_nazva": "Poecilimon boldyrevi"
+    },
+    {
+      "nazva": "Пилкохвіст лісовий",
+      "latynska_nazva": "Poecilimon schmidtii"
+    },
+    {
+      "nazva": "Пилкохвіст Плігінського",
+      "latynska_nazva": "Poecilimon pliginskii"
+    },
+    {
+      "nazva": "Пилкохвіст український",
+      "latynska_nazva": "Poecilimon ukrainicus"
+    },
+    {
+      "nazva": "Підковоніс великий",
+      "latynska_nazva": "Rhinolophus ferrumequinum"
+    },
+    {
+      "nazva": "Підковоніс малий",
+      "latynska_nazva": "Rhinolophus hipposideros"
+    },
+    {
+      "nazva": "Підорлик великий",
+      "latynska_nazva": "Aquila clanga"
+    },
+    {
+      "nazva": "Підорлик малий",
+      "latynska_nazva": "Aquila pomarina"
+    },
+    {
+      "nazva": "Підуст волзький",
+      "latynska_nazva": "Chondrostoma variabile"
+    },
+    {
+      "nazva": "Пірникоза сірощока",
+      "latynska_nazva": "Podiceps grisegena"
+    },
+    {
+      "nazva": "Пірникоза червоношия",
+      "latynska_nazva": "Podiceps auritus"
+    },
+    {
+      "nazva": "Піскара бура",
+      "latynska_nazva": "Callionymus pussilus"
+    },
+    {
+      "nazva": "Піскара сіра",
+      "latynska_nazva": "Callionymus risso"
+    },
+    {
+      "nazva": "Пісочник великий (зуйок великий)",
+      "latynska_nazva": "Charadrius hiaticula"
+    },
+    {
+      "nazva": "Пісочник морський (зуйок морський)",
+      "latynska_nazva": "Charadrius alexandrinus"
+    },
+    {
+      "nazva": "Пічкур дунайський",
+      "latynska_nazva": "Gobio uranoscopus"
+    },
+    {
+      "nazva": "Плавунець дволінійний",
+      "latynska_nazva": "Graphoderes bilineatus"
+    },
+    {
+      "nazva": "Плавунець широкий",
+      "latynska_nazva": "Dytiscus latissimus"
+    },
+    {
+      "nazva": "Плероневра хвойна",
+      "latynska_nazva": "Pleroneura coniferarum"
+    },
+    {
+      "nazva": "Плікутерія Любомирського",
+      "latynska_nazva": "Plicuteria lubomirskii"
+    },
+    {
+      "nazva": "Плоскотілка червона",
+      "latynska_nazva": "Cucujus cinnabarinus"
+    },
+    {
+      "nazva": "Подалірій",
+      "latynska_nazva": "Iphiclides podalirius"
+    },
+    {
+      "nazva": "Полівка снігова",
+      "latynska_nazva": "Chionomys nivalis"
+    },
+    {
+      "nazva": "Полівка татранська",
+      "latynska_nazva": "Microtus tatricus"
+    },
+    {
+      "nazva": "Поліксена",
+      "latynska_nazva": "Zerynthia polyxena"
+    },
+    {
+      "nazva": "Полоз візерунковий",
+      "latynska_nazva": "Elaphe dione"
+    },
+    {
+      "nazva": "Полоз жовточеревий, полоз каспійський",
+      "latynska_nazva": "Hierophis caspius"
+    },
+    {
+      "nazva": "Полоз леопардовий",
+      "latynska_nazva": "Zamenis situla"
+    },
+    {
+      "nazva": "Полоз лісовий, полоз ескулапів",
+      "latynska_nazva": "Zamenis longissimus"
+    },
+    {
+      "nazva": "Полоз сарматський, полоз Палласів",
+      "latynska_nazva": "Elaphe sauromates"
+    },
+    {
+      "nazva": "Прісноводний краб",
+      "latynska_nazva": "Potamon tauricum"
+    },
+    {
+      "nazva": "Простеномфалія карпатська",
+      "latynska_nazva": "Prostenomphalia carpathica"
+    },
+    {
+      "nazva": "Псарус черевастий",
+      "latynska_nazva": "Psarus abdominalis"
+    },
+    {
+      "nazva": "Псевдотрохета п'ятикільчаста",
+      "latynska_nazva": "Fadejewobdella quinqueannulata"
+    },
+    {
+      "nazva": "Псевдофаенопс Якобсона",
+      "latynska_nazva": "Pseudophaenops jacobsoni"
+    },
+    {
+      "nazva": "Пугач",
+      "latynska_nazva": "Bubo bubo"
+    },
+    {
+      "nazva": "Пухівка (гага звичайна)",
+      "latynska_nazva": "Somateria mollissima"
+    },
+    {
+      "nazva": "П'явка аптечна",
+      "latynska_nazva": "Hirudo verbana"
+    },
+    {
+      "nazva": "П'явка медична",
+      "latynska_nazva": "Hirudo medicinalis"
+    },
+    {
+      "nazva": "Равлик кришечковий струмковий",
+      "latynska_nazva": "Pomatias rivulare"
+    },
+    {
+      "nazva": "Райдужниця велика",
+      "latynska_nazva": "Apatura iris"
+    },
+    {
+      "nazva": "Рак широкопалий",
+      "latynska_nazva": "Astacus astacus"
+    },
+    {
+      "nazva": "Риба-присосок європейська",
+      "latynska_nazva": "Lepadogaster lepadogaster"
+    },
+    {
+      "nazva": "Риба-присосок товсторила",
+      "latynska_nazva": "Lepadogaster candolii"
+    },
+    {
+      "nazva": "Рибець малий",
+      "latynska_nazva": "Vimba tenella"
+    },
+    {
+      "nazva": "Рись",
+      "latynska_nazva": "Lynx lynx"
+    },
+    {
+      "nazva": "Рогохвіст-авгур",
+      "latynska_nazva": "Urocerus augur"
+    },
+    {
+      "nazva": "Ропуха очеретяна",
+      "latynska_nazva": "Bufo calamita"
+    },
+    {
+      "nazva": "Савка",
+      "latynska_nazva": "Oxyura leucocephala"
+    },
+    {
+      "nazva": "Саламандра плямиста",
+      "latynska_nazva": "Salamandra salamandra"
+    },
+    {
+      "nazva": "Сапіга-полохрум",
+      "latynska_nazva": "Polochrum repandum"
+    },
+    {
+      "nazva": "Сапсан",
+      "latynska_nazva": "Falco peregrinus"
+    },
+    {
+      "nazva": "Сатир евксинський",
+      "latynska_nazva": "Pseudochazara euxina"
+    },
+    {
+      "nazva": "Сатир залізний",
+      "latynska_nazva": "Hipparchia statilinus"
+    },
+    {
+      "nazva": "Сатурнія велика",
+      "latynska_nazva": "Saturnia pyri"
+    },
+    {
+      "nazva": "Сатурнія мала",
+      "latynska_nazva": "Eudia pavonia"
+    },
+    {
+      "nazva": "Сатурнія руда",
+      "latynska_nazva": "Aglia tau"
+    },
+    {
+      "nazva": "Сатурнія середня",
+      "latynska_nazva": "Eudia spini"
+    },
+    {
+      "nazva": "Севрюга звичайна",
+      "latynska_nazva": "Acipenser stellatus"
+    },
+    {
+      "nazva": "Серуліна зубчаста",
+      "latynska_nazva": "Serrulina serrulata"
+    },
+    {
+      "nazva": "Сиворакша",
+      "latynska_nazva": "Coracias garrulus"
+    },
+    {
+      "nazva": "Синиця біла",
+      "latynska_nazva": "Parus cyanus"
+    },
+    {
+      "nazva": "Синявець Бавій",
+      "latynska_nazva": "Pseudophilotes bavius"
+    },
+    {
+      "nazva": "Синявець Буадюваля (синявець ероїдес)",
+      "latynska_nazva": "Polyommatus boisduvalii"
+    },
+    {
+      "nazva": "Синявець Пилаон",
+      "latynska_nazva": "Plebeius pylaon"
+    },
+    {
+      "nazva": "Синявець піренейський",
+      "latynska_nazva": "Agriades pyrenaicus"
+    },
+    {
+      "nazva": "Синявець римнус",
+      "latynska_nazva": "Neolycaena rhymnus"
+    },
+    {
+      "nazva": "Сип білоголовий",
+      "latynska_nazva": "Gyps fulvus"
+    },
+    {
+      "nazva": "Сипуха",
+      "latynska_nazva": "Tyto alba"
+    },
+    {
+      "nazva": "Сич волохатий",
+      "latynska_nazva": "Aegolius funereus"
+    },
+    {
+      "nazva": "Сичик-горобець",
+      "latynska_nazva": "Glaucidium passerinum"
+    },
+    {
+      "nazva": "Сінниця Геро",
+      "latynska_nazva": "Coenonympha hero"
+    },
+    {
+      "nazva": "Сіобла бальзамінова",
+      "latynska_nazva": "Siobla sturmi"
+    },
+    {
+      "nazva": "Скарабей священний",
+      "latynska_nazva": "Scarabaeus sacer"
+    },
+    {
+      "nazva": "Скеляр строкатий",
+      "latynska_nazva": "Monticola saxatilis"
+    },
+    {
+      "nazva": "Сколія односмугова",
+      "latynska_nazva": "Scolia galbula"
+    },
+    {
+      "nazva": "Сколія-гігант",
+      "latynska_nazva": "Megascolia maculata"
+    },
+    {
+      "nazva": "Скопа",
+      "latynska_nazva": "Pandion haliaetus"
+    },
+    {
+      "nazva": "Скорпіон кримський",
+      "latynska_nazva": "Euscorpius tauricus"
+    },
+    {
+      "nazva": "Слимак великий строкатий",
+      "latynska_nazva": "Helix lucorum"
+    },
+    {
+      "nazva": "Слимакоїд кримський, турун кримський",
+      "latynska_nazva": "Carabus scabrosus tauricus"
+    },
+    {
+      "nazva": "Сліпак білозубий",
+      "latynska_nazva": "Nannospalax leucodon"
+    },
+    {
+      "nazva": "Сліпак буковинський",
+      "latynska_nazva": "Spalax graecus"
+    },
+    {
+      "nazva": "Сліпак піщаний",
+      "latynska_nazva": "Spalax arenarius"
+    },
+    {
+      "nazva": "Сліпак подільський",
+      "latynska_nazva": "Spalax zemni"
+    },
+    {
+      "nazva": "Сліпачок звичайний",
+      "latynska_nazva": "Ellobius talpinus"
+    },
+    {
+      "nazva": "Смірновіелла редукована",
+      "latynska_nazva": "Sergiosmirnovia reducta"
+    },
+    {
+      "nazva": "Сова болотяна",
+      "latynska_nazva": "Asio flammeus"
+    },
+    {
+      "nazva": "Сова бородата",
+      "latynska_nazva": "Strix nebulosa"
+    },
+    {
+      "nazva": "Сова довгохвоста",
+      "latynska_nazva": "Strix uralensis"
+    },
+    {
+      "nazva": "Совка",
+      "latynska_nazva": "Otus scops"
+    },
+    {
+      "nazva": "Совка Гайварда",
+      "latynska_nazva": "Divaena haywardi"
+    },
+    {
+      "nazva": "Совка розкішна",
+      "latynska_nazva": "Staurophora celsia"
+    },
+    {
+      "nazva": "Совка сокиркова",
+      "latynska_nazva": "Periphanes delphinii"
+    },
+    {
+      "nazva": "Совка трейчке",
+      "latynska_nazva": "Periphanes treitschkei"
+    },
+    {
+      "nazva": "Сольпуга звичайна",
+      "latynska_nazva": "Galeodes araneoides"
+    },
+    {
+      "nazva": "Сонцевик фау-біле",
+      "latynska_nazva": "Nymphalis vaualbum"
+    },
+    {
+      "nazva": "Соня садова",
+      "latynska_nazva": "Eliomys quercinus"
+    },
+    {
+      "nazva": "Сорокопуд сірий",
+      "latynska_nazva": "Lanius excubitor"
+    },
+    {
+      "nazva": "Сорокопуд червоноголовий",
+      "latynska_nazva": "Lanius senator"
+    },
+    {
+      "nazva": "Спеодіаптомус Бірштейна",
+      "latynska_nazva": "Speodiaptomus birsteini"
+    },
+    {
+      "nazva": "Ставковик булавоподібний",
+      "latynska_nazva": "Lymnaea clavata"
+    },
+    {
+      "nazva": "Ставковик потовщений",
+      "latynska_nazva": "Lymnaea pachyta"
+    },
+    {
+      "nazva": "Стафілін волохатий",
+      "latynska_nazva": "Emus hirtus"
+    },
+    {
+      "nazva": "Стафілін Плігінського",
+      "latynska_nazva": "Tasgius pliginskii"
+    },
+    {
+      "nazva": "Стеліс кільчастий",
+      "latynska_nazva": "Stelis annulata"
+    },
+    {
+      "nazva": "Стерв'ятник",
+      "latynska_nazva": "Neophron percnopterus"
+    },
+    {
+      "nazva": "Стерлядь прісноводна",
+      "latynska_nazva": "Acipenser ruthenus"
+    },
+    {
+      "nazva": "Стиз двокрапковий",
+      "latynska_nazva": "Stizus bipunctatus"
+    },
+    {
+      "nazva": "Стиз смугастий",
+      "latynska_nazva": "Stizus fasciatus"
+    },
+    {
+      "nazva": "Стизоїд тризубий",
+      "latynska_nazva": "Stizoides tridentatus"
+    },
+    {
+      "nazva": "Стрибун Бессера",
+      "latynska_nazva": "Cephalota besseri"
+    },
+    {
+      "nazva": "Стрілка Ліндена",
+      "latynska_nazva": "Erythromma lindenii"
+    },
+    {
+      "nazva": "Стрічкарка блакитна",
+      "latynska_nazva": "Catocala fraxini"
+    },
+    {
+      "nazva": "Стрічкарка велика червона",
+      "latynska_nazva": "Catocala dilecta"
+    },
+    {
+      "nazva": "Стрічкарка диз'юнктивна",
+      "latynska_nazva": "Catocala disjuncta"
+    },
+    {
+      "nazva": "Стрічкарка орденська малинова",
+      "latynska_nazva": "Catocala sponsa"
+    },
+    {
+      "nazva": "Стрічкарка тополева",
+      "latynska_nazva": "Limenitis populi"
+    },
+    {
+      "nazva": "Стрічкарка червоно-жовта",
+      "latynska_nazva": "Catocala diversa"
+    },
+    {
+      "nazva": "Строкатка степова",
+      "latynska_nazva": "Lagurus lagurus"
+    },
+    {
+      "nazva": "Судак волзький, Берш",
+      "latynska_nazva": "Sander volgensis"
+    },
+    {
+      "nazva": "Судак морський, судак буговець",
+      "latynska_nazva": "Sander marinus"
+    },
+    {
+      "nazva": "Сфекс жовтокрилий",
+      "latynska_nazva": "Sphex flavipennis"
+    },
+    {
+      "nazva": "Сфекс рудуватий",
+      "latynska_nazva": "Sphex funerarius"
+    },
+    {
+      "nazva": "Танімастикс ставковий",
+      "latynska_nazva": "Tanymastix stagnalis"
+    },
+    {
+      "nazva": "Тапінома кінбурнська",
+      "latynska_nazva": "Tapinoma kinburni"
+    },
+    {
+      "nazva": "Тетерук",
+      "latynska_nazva": "Lyrurus tetrix"
+    },
+    {
+      "nazva": "Тетрадонтофора блакитна",
+      "latynska_nazva": "Tetradontophora bielanensis"
+    },
+    {
+      "nazva": "Тетрамеза пунктирована",
+      "latynska_nazva": "Tetramesa punctata"
+    },
+    {
+      "nazva": "Тинівка альпійська",
+      "latynska_nazva": "Prunella collaris"
+    },
+    {
+      "nazva": "Томарес каллімах",
+      "latynska_nazva": "Tomares callimachus"
+    },
+    {
+      "nazva": "Томарес Ногеля",
+      "latynska_nazva": "Tomares nogelii"
+    },
+    {
+      "nazva": "Трав'яний краб",
+      "latynska_nazva": "Carcinus aestuarii"
+    },
+    {
+      "nazva": "Трахуза опушена",
+      "latynska_nazva": "Trachusa pubescens"
+    },
+    {
+      "nazva": "Трач схожий",
+      "latynska_nazva": "Tenthredo propinqua"
+    },
+    {
+      "nazva": "Тригла жовта, морський півень жовтий",
+      "latynska_nazva": "Chelidonichthys lucerna"
+    },
+    {
+      "nazva": "Тритон альпійський",
+      "latynska_nazva": "Mesotriton alpestris"
+    },
+    {
+      "nazva": "Тритон дунайський",
+      "latynska_nazva": "Triturus dobrogicus"
+    },
+    {
+      "nazva": "Тритон Кареліна",
+      "latynska_nazva": "Triturus karelinii"
+    },
+    {
+      "nazva": "Тритон карпатський",
+      "latynska_nazva": "Lissotriton montandoni"
+    },
+    {
+      "nazva": "Трифіза Фрина",
+      "latynska_nazva": "Triphysa phryne"
+    },
+    {
+      "nazva": "Тріскачка ширококрила",
+      "latynska_nazva": "Bryodemella tuberculata"
+    },
+    {
+      "nazva": "Трохета Биковського",
+      "latynska_nazva": "Trocheta bykowskii"
+    },
+    {
+      "nazva": "Трохета потайна",
+      "latynska_nazva": "Trocheta subviridis"
+    },
+    {
+      "nazva": "Трохулюс Більца",
+      "latynska_nazva": "Trochulus bielzi"
+    },
+    {
+      "nazva": "Трохулюс опушений",
+      "latynska_nazva": "Trochulus villosulus"
+    },
+    {
+      "nazva": "Трьохперка чорноголова",
+      "latynska_nazva": "Tripterygion tripteronotus"
+    },
+    {
+      "nazva": "Турикаспія лінкта",
+      "latynska_nazva": "Turricaspia lincta"
+    },
+    {
+      "nazva": "Турун бесарабський",
+      "latynska_nazva": "Carabus bessarabicus"
+    },
+    {
+      "nazva": "Турун Ештрайхера",
+      "latynska_nazva": "Carabus estreicheri"
+    },
+    {
+      "nazva": "Турун Менетріє",
+      "latynska_nazva": "Carabus menetriesi"
+    },
+    {
+      "nazva": "Турун печерний Дублянського",
+      "latynska_nazva": "Taurocimmerites dublanskii"
+    },
+    {
+      "nazva": "Турун угорський",
+      "latynska_nazva": "Carabus hungaricus"
+    },
+    {
+      "nazva": "Турун Щеглова",
+      "latynska_nazva": "Carabus stscheglowi"
+    },
+    {
+      "nazva": "Тушканчик великий",
+      "latynska_nazva": "Allactaga jaculus"
+    },
+    {
+      "nazva": "Тхір лісовий",
+      "latynska_nazva": "Mustela putorius"
+    },
+    {
+      "nazva": "Тхір степовий",
+      "latynska_nazva": "Mustela eversmanni"
+    },
+    {
+      "nazva": "Тюлень-монах",
+      "latynska_nazva": "Monachus monachus"
+    },
+    {
+      "nazva": "Умбра звичайна",
+      "latynska_nazva": "Umbra krameri"
+    },
+    {
+      "nazva": "Умбріна світла, горбань світлий",
+      "latynska_nazva": "Umbrina cirrosa"
+    },
+    {
+      "nazva": "Урофора Дзєдушицького",
+      "latynska_nazva": "Urophora dzieduszyckii"
+    },
+    {
+      "nazva": "Устриця їстівна",
+      "latynska_nazva": "Ostrea edulis"
+    },
+    {
+      "nazva": "Харакопіг скіфський",
+      "latynska_nazva": "Characopygus scythicus"
+    },
+    {
+      "nazva": "Харіус європейський",
+      "latynska_nazva": "Thymallus thymallus"
+    },
+    {
+      "nazva": "Ховрах європейський",
+      "latynska_nazva": "Spermophilus citellus"
+    },
+    {
+      "nazva": "Ховрах крапчастий",
+      "latynska_nazva": "Spermophilus suslicus"
+    },
+    {
+      "nazva": "Ховрах малий",
+      "latynska_nazva": "Spermophilus pygmaeus"
+    },
+    {
+      "nazva": "Ховрах одеський",
+      "latynska_nazva": "Spermophilus odessanus"
+    },
+    {
+      "nazva": "Хом'як звичайний",
+      "latynska_nazva": "Cricetus cricetus"
+    },
+    {
+      "nazva": "Хом'ячок сірий",
+      "latynska_nazva": "Cricetulus migratorius"
+    },
+    {
+      "nazva": "Хондрина вівсяна",
+      "latynska_nazva": "Chondrina avenacea"
+    },
+    {
+      "nazva": "Хондруля Більца",
+      "latynska_nazva": "Chondrula bielzi"
+    },
+    {
+      "nazva": "Хохітва",
+      "latynska_nazva": "Tetrax tetrax"
+    },
+    {
+      "nazva": "Хохуля руська",
+      "latynska_nazva": "Desmana moschata"
+    },
+    {
+      "nazva": "Хризоліна карпатська",
+      "latynska_nazva": "Chrysolina carpatica"
+    },
+    {
+      "nazva": "Хромадоріна двоока",
+      "latynska_nazva": "Chromadorina bioculata"
+    },
+    {
+      "nazva": "Хроміс звичайний, морська ластівка",
+      "latynska_nazva": "Chromis chromis"
+    },
+    {
+      "nazva": "Цвіркун візантійський",
+      "latynska_nazva": "Pseudomogoplistes buzantius"
+    },
+    {
+      "nazva": "Целонітес абревіатус кримський",
+      "latynska_nazva": "Celonites abbreviatus tauricus"
+    },
+    {
+      "nazva": "Ценеліда сітчаста",
+      "latynska_nazva": "Caenolyda reticulata"
+    },
+    {
+      "nazva": "Цератофій багаторогий",
+      "latynska_nazva": "Ceratophyus polyceros"
+    },
+    {
+      "nazva": "Церцеріс горбкувата",
+      "latynska_nazva": "Cerceris tuberculata"
+    },
+    {
+      "nazva": "Цефус Загайкевича",
+      "latynska_nazva": "Cephus zahaikevitshi"
+    },
+    {
+      "nazva": "Чапля жовта",
+      "latynska_nazva": "Ardeola ralloides"
+    },
+    {
+      "nazva": "Чекініола пластисцелідина",
+      "latynska_nazva": "Cecchiniola platyscelidina"
+    },
+    {
+      "nazva": "Чернь білоока",
+      "latynska_nazva": "Aythya nyroca"
+    },
+    {
+      "nazva": "Чернь червонодзьоба",
+      "latynska_nazva": "Netta rufina"
+    },
+    {
+      "nazva": "Чоботар (шилодзьобка)",
+      "latynska_nazva": "Recurvirostra avosetta"
+    },
+    {
+      "nazva": "Чоп звичайний, чоп великий",
+      "latynska_nazva": "Zingel zingel"
+    },
+    {
+      "nazva": "Чоп малий",
+      "latynska_nazva": "Zingel streber"
+    },
+    {
+      "nazva": "Чорнушка Манто",
+      "latynska_nazva": "Erebia manto"
+    },
+    {
+      "nazva": "Чорнушка Фегея",
+      "latynska_nazva": "Proterebia afra"
+    },
+    {
+      "nazva": "Шемая азовська",
+      "latynska_nazva": "Alburnus leobergi"
+    },
+    {
+      "nazva": "Шемая кримська",
+      "latynska_nazva": "Alburnus mentoides"
+    },
+    {
+      "nazva": "Шемая чорноморська",
+      "latynska_nazva": "Alburnus sarmaticus"
+    },
+    {
+      "nazva": "Широковух європейський",
+      "latynska_nazva": "Barbastella barbastellus"
+    },
+    {
+      "nazva": "Шовкопряд Балліона",
+      "latynska_nazva": "Lemonia ballioni"
+    },
+    {
+      "nazva": "Шовкопряд кульбабовий",
+      "latynska_nazva": "Lemonia taraxaci"
+    },
+    {
+      "nazva": "Шпак рожевий",
+      "latynska_nazva": "Sturnus roseus"
+    },
+    {
+      "nazva": "Шуліка рудий",
+      "latynska_nazva": "Milvus milvus"
+    },
+    {
+      "nazva": "Шуліка чорний",
+      "latynska_nazva": "Milvus migrans"
+    },
+    {
+      "nazva": "Щипавка сибірська",
+      "latynska_nazva": "Cobitis melanoleuca"
+    },
+    {
+      "nazva": "Ялець Данилевського",
+      "latynska_nazva": "Leuciscus danilewskii"
+    },
+    {
+      "nazva": "Ялець звичайний",
+      "latynska_nazva": "Leuciscus leuciscus"
+    },
+    {
+      "nazva": "Ялець-андруга європейський",
+      "latynska_nazva": "Telestes souffia"
+    },
+    {
+      "nazva": "Янус червононогий",
+      "latynska_nazva": "Janus femoratus"
+    },
+    {
+      "nazva": "Яструб коротконогий (тювик європейський)",
+      "latynska_nazva": "Accipiter brevipes"
+    },
+    {
+      "nazva": "Ящірка зелена",
+      "latynska_nazva": "Lacerta viridis"
+    }
+  ],
+  "meta": {
+    "title": "Тварини Червоної книги України - Free Download",
+    "description": "Алфавітний перелік видів тварин, занесених до Червоної книги України, з українськими та латинськими назвами. Contains 551 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Тварини Червоної книги України | ListBase",
+    "seo_description": "Download Тварини Червоної книги України — 551 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 551 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Тварини_Червоної_книги_України"
+    ]
+  }
+}

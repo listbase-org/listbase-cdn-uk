@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-04T02:09:24.713Z",
-  "total_datasets": 468,
-  "total_records": 474128,
+  "generated": "2026-11-04T02:09:33.475Z",
+  "total_datasets": 469,
+  "total_records": 474679,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -2136,6 +2136,29 @@
         "xlsx": {
           "name": "uk-pryrodno-zapovidni-obiekty_UK.xlsx",
           "size": 491061
+        }
+      }
+    },
+    {
+      "id": "uk-tvaryny-chervonoi-knyhy-ukrainy",
+      "name": "Тварини Червоної книги України",
+      "category": "environment",
+      "record_count": 551,
+      "columns": [
+        "nazva",
+        "latynska_nazva"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Тварини_Червоної_книги_України",
+      "updated": "2026-11",
+      "size": 63602,
+      "files": {
+        "csv": {
+          "name": "uk-tvaryny-chervonoi-knyhy-ukrainy_UK.csv",
+          "size": 32632
+        },
+        "xlsx": {
+          "name": "uk-tvaryny-chervonoi-knyhy-ukrainy_UK.xlsx",
+          "size": 25589
         }
       }
     },
