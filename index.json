@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-04T02:08:58.120Z",
-  "total_datasets": 465,
-  "total_records": 473123,
+  "generated": "2026-11-04T02:09:07.620Z",
+  "total_datasets": 466,
+  "total_records": 473292,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -10857,6 +10857,33 @@
         "xlsx": {
           "name": "uk-akademiky-nan-ukrainy_UK.xlsx",
           "size": 44645
+        }
+      }
+    },
+    {
+      "id": "uk-kosmichni-zapusky-ukrainskykh-raket-nosiiv",
+      "name": "Космічні запуски українських ракет-носіїв",
+      "category": "science",
+      "record_count": 169,
+      "columns": [
+        "nomer",
+        "data",
+        "raketa_nosii",
+        "kosmodrom",
+        "korysne_navantazhennia",
+        "rezultat"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_космічних_запусків_українських_ракет-носіїв",
+      "updated": "2026-11",
+      "size": 49189,
+      "files": {
+        "csv": {
+          "name": "uk-kosmichni-zapusky-ukrainskykh-raket-nosiiv_UK.csv",
+          "size": 23609
+        },
+        "xlsx": {
+          "name": "uk-kosmichni-zapusky-ukrainskykh-raket-nosiiv_UK.xlsx",
+          "size": 16199
         }
       }
     },

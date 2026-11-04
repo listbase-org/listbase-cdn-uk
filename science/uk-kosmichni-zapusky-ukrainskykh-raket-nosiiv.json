@@ -1,0 +1,1408 @@
+{
+  "id": "uk-kosmichni-zapusky-ukrainskykh-raket-nosiiv",
+  "name": "Космічні запуски українських ракет-носіїв",
+  "title": "Космічні запуски українських ракет-носіїв",
+  "description": "Хронологічний перелік космічних запусків ракет-носіїв українського виробництва (Зеніт, Циклон, Дніпро, Антарес, Вега) з 1991 року: дата, ракета, космодром, корисне навантаження та результат.",
+  "category": "science",
+  "source": "https://uk.wikipedia.org/wiki/Список_космічних_запусків_українських_ракет-носіїв",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_космічних_запусків_українських_ракет-носіїв",
+  "updated": "2026-11",
+  "record_count": 169,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "raketa_nosii",
+      "label": "Raketa Nosii",
+      "type": "string"
+    },
+    {
+      "key": "kosmodrom",
+      "label": "Kosmodrom",
+      "type": "string"
+    },
+    {
+      "key": "korysne_navantazhennia",
+      "label": "Korysne Navantazhennia",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "data": "30 серпня 1991",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Целіна-2»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 2,
+      "data": "28 вересня 1991",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2157», «Космос-2158», «Космос-2159», «Космос-2160», Космос-2161\", «Космос-2162»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 3,
+      "data": "12 листопада 1991",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2165», «Космос-2166», «Космос-2167», «Космос-2168», «Космос-2169», «Космос-2170»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 4,
+      "data": "18 грудня 1991",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Интеркосмос-25»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 5,
+      "data": "2 лютого 1992",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Целіна-2»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 6,
+      "data": "13 липня 1992",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2196», «Космос-2198», «Космос-2199», «Космос-2200», «Космос-2201», «Космос-2202»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 7,
+      "data": "13 липня 1992",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "Космос-2197-2202",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 8,
+      "data": "20 жовтня 1992",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2211», «Космос-2212», «Космос-2213», «Космос-2214», «Космос-2215», «Космос-2216»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 9,
+      "data": "17 листопада 1992",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Kocмос-2219»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 10,
+      "data": "24 листопада 1992",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2221»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 11,
+      "data": "22 грудня 1992",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2226»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 12,
+      "data": "25 грудня 1992",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2227»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 13,
+      "data": "25 грудня 1992",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2228»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 14,
+      "data": "26 березня 1993",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2237»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 15,
+      "data": "30 березня 1993",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2238»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 16,
+      "data": "16 квітня 1993",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2242»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 17,
+      "data": "28 квітня 1993",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2244»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 18,
+      "data": "11 травня 1993",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2245», «Космос-2246», «Космос-2247», «Космос-2248», «Космос-2249», «Космос-2250»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 19,
+      "data": "24 червня 1993",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2252», «Космос-2253», «Космос-2254», «Космос-2255», «Космос-2256», «Космос-2257».",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 20,
+      "data": "7 липня 1993",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2258»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 21,
+      "data": "31 серпня 1993",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Метеор-2-21»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 22,
+      "data": "16 вересня 1993",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2263»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 23,
+      "data": "17 вересня 1993",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2264»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 24,
+      "data": "25 січня 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Метеор-3-06»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 25,
+      "data": "12 лютого 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2268» «Космос-2269» «Космос-2270» «Космос-2271» «Космос-2272» «Космос-2273».",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 26,
+      "data": "2 березня 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«АУОС-СМ-КІ-ІК» (Коронас-И)",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 27,
+      "data": "23 квітня 1994",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2278»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 28,
+      "data": "25 травня 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Целина-Д»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 29,
+      "data": "26 серпня 1994",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2290»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 30,
+      "data": "11 жовтня 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Океан-4»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 31,
+      "data": "2 листопада 1994",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2293»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 32,
+      "data": "4 листопада 1994",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Ресурс-01-3»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 33,
+      "data": "24 листопада 1994",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2297»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 34,
+      "data": "29 листопада 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Гео-ІК-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 35,
+      "data": "26 грудня 1994",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2299» «Космос-2300» «Космос-2301» «Космос-2302» «Космос-2303» «Космос-2304»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 36,
+      "data": "8 червня 1995",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2313»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 37,
+      "data": "31 серпня 1995",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Січ-1» (Україна), «Fasat-1»(Чилі)",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 38,
+      "data": "31 жовтня 1995",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2322»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 39,
+      "data": "20 грудня 1995",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2326»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 40,
+      "data": "19 лютого 1996",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Гонец-Д / 1» «Гонец-Д / 2» «Гонец-Д / 3» «Космос-2328» «Космос-2329» «Космос-2330»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 41,
+      "data": "4 вересня 1996",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2333»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 42,
+      "data": "11 грудня 1996",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2335»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 43,
+      "data": "14 лютого 1997",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Гонец-Д4», «Гонец-Д5», «Гонец-Д6», «Космос-2337», «Космос-2338» и «Космос-2339».",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 44,
+      "data": "20 травня 1997",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Целина-2»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 45,
+      "data": "9 грудня 1997",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2347»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 46,
+      "data": "15 червня 1998",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2352», «Космос- 2353», «Космос-2354», «Космос- 2355», «Космос-2356» и «Космос-2357»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 47,
+      "data": "10 липня 1998",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«FASat Beta», «Techsat 1B», «TMSat», «WESTRAC», «Safir2», «Ресурс-01 N4»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 48,
+      "data": "9 вересня 1998",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Globalstar» 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 20, 21",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 49,
+      "data": "28 березня 1999",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "Макет супутника зв'язку «DEMOSAT»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 50,
+      "data": "21 квітня 1999",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«УоСат-12», «SSTL»/Англія",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 51,
+      "data": "17 липня 1999",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Океан-О»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 52,
+      "data": "10 жовтня 1999",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«DIRECTV 1-R»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 53,
+      "data": "26 грудня 1999",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2367»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 54,
+      "data": "3 лютого 2000",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2369»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 55,
+      "data": "12 березня 2000",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«ІСО F1»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 56,
+      "data": "29 липня 2000",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "PANAMSAT",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 57,
+      "data": "25 вересня 2000",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2372»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 58,
+      "data": "26 вересня 2000",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«MegSat-1», «MegSat»/Італія, «UniSat», Римский університет/ Італія, «SaudiSat-1A», «1B ІКД»/Сауд. Аравія, «TiungSat-1», «ATSB»/Малайзія",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 59,
+      "data": "21 жовтня 2000",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«THURAYA»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 60,
+      "data": "27 грудня 2000",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "6 супутників зв'язку «Стріла-3»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 61,
+      "data": "19 березня 2001",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«XM RADIO-2»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 62,
+      "data": "5 травня 2001",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«XM RADIO-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 63,
+      "data": "31 липня 2001",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Коронас-Ф»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 64,
+      "data": "10 грудня 2001",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Метеор 3М», «Компас», «Рефлектор», «MarocTubsat», «Badr-R»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 65,
+      "data": "21 грудня 2001",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2383»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 66,
+      "data": "28 грудня 2001",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Космос-2384», «Космос-2385», «Космос-2386», «Гонець-Д1» № 10, «Гонець-Д1» № 11 и «Гонець-Д1» № 12",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 67,
+      "data": "15 червня 2002",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Galaxy IIIC»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 68,
+      "data": "20 грудня 2002",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«LatinSat-A», «LatinSat-B» (Аргентина), «UniSat-2» (Італія), «SaudiSat-1C» (Саудівська Аравія), «Rubin-2» (Німеччина), «TrailBlazer»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 69,
+      "data": "10 червня 2003",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Thuraya-2»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 70,
+      "data": "8 серпня 2003",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Echostar-IX»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 71,
+      "data": "10 жовтня 2003",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Galaxy-13»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 72,
+      "data": "11 січня 2004",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Telstar 14»/ «Estrela do Sul 1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 73,
+      "data": "4 травня 2004",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Direc TV-7S»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 74,
+      "data": "28 травня 2004",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2407»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 75,
+      "data": "10 червня 2004",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2406»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 76,
+      "data": "29 червня 2004",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Деметр», «УніСат-3», «СаудіСат-2», «СаудіКомсат-1», «СаудіКомсат-2», «ЛатінСат-С», «ЛатінСат-D», «АМСат-Эхо»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 77,
+      "data": "29 червня 2004",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Telstar 18»",
+      "rezultat": "частковий успіх"
+    },
+    {
+      "nomer": 78,
+      "data": "24 грудня 2004",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "Січ-1М, Мікросупутник КС5МФ2",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 79,
+      "data": "1 березня 2005",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«ХМ Radio-3»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 80,
+      "data": "26 квітня 2005",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Spaceway-F1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 81,
+      "data": "23 червня 2005",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Intelsat Americas-8»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 82,
+      "data": "24 серпня 2005",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«OISETS», «INDEX»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 83,
+      "data": "8 листопада 2005",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Inmarsat 4-F2»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 84,
+      "data": "16 лютого 2006",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«EchoStar — X»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 85,
+      "data": "13 квітня 2006",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«JCSAT-9»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 86,
+      "data": "18 червня 2006",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«GALAXY-16»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 87,
+      "data": "25 червня 2006",
+      "raketa_nosii": "Циклон-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос-2421»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 88,
+      "data": "12 липня 2006",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«Генезіс-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 89,
+      "data": "26 липня 2006",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Бауманець», «БелКА».",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 90,
+      "data": "22 серпня 2006",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Koreasat-5»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 91,
+      "data": "31 жовтня 2006",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«XM 4»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 92,
+      "data": "31 січня 2007",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«NSS-8»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 93,
+      "data": "17 квітня 2007",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«ЄгиптСат-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 94,
+      "data": "15 червня 2007",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Terra Sar-X»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 95,
+      "data": "28 червня 2007",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«Генезіс II»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 96,
+      "data": "29 червня 2007",
+      "raketa_nosii": "Зеніт-2",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Космос»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 97,
+      "data": "15 січня 2008",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Thuraya-3»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 98,
+      "data": "20 березня 2008",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«DirecTV-11»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 99,
+      "data": "28 квітня 2008",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«AMOS-3»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 100,
+      "data": "21 травня 2008",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Galaxy 18»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 101,
+      "data": "16 липня 2008",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«EchoStar X»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 102,
+      "data": "29 серпня 2008",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "5 супутників «RapidEye»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 103,
+      "data": "24 вересня 2008",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Galaxy 19»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 104,
+      "data": "1 жовтня 2008",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«THEOS»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 105,
+      "data": "30 січня 2009",
+      "raketa_nosii": "Циклон-3",
+      "kosmodrom": "Плесецьк",
+      "korysne_navantazhennia": "«Коронас-Фотон»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 106,
+      "data": "26 лютого 2009",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Telstar 11N»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 107,
+      "data": "20 квітня 2009",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Sicral 1B»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 108,
+      "data": "22 червня 2009",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Measat-1R»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 109,
+      "data": "29 липня 2009",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«ДубайСат-1» (ОАЕ), «Деймос-1» (Іспанія), «ЮК ДМС-2» (Велика Британія), «НаноСат-1В» (Іспанія), «АпрайзСат-3» и «АпрайзСат-4» (США).",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 110,
+      "data": "30 листопада 2009",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "Американський космічний апарат «Intelsat-15»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 111,
+      "data": "8 квітня 2010",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "Європейський науковий супутник «КріоСаТ-2 » (CryoSat 2)",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 112,
+      "data": "15 червня 2010",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "Космічні апарати «Призма» Шведської космічної корпорації (SSC), «Пікард» Французького космічного агентства (CNES), український блок перспективної авіоніки (БПА) для системи керування РН «Циклон-4» та перспективних ракет-носіїв",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 113,
+      "data": "21 червня 2010",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«TanDEM-X»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 114,
+      "data": "20 січня 2011",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "Російський метеорологічний космічний апарат «Електро-Л»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 115,
+      "data": "18 липня 2011",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Спектр-Р»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 116,
+      "data": "17 серпня 2011",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«Січ-2», «БПА-2», «НігеріяСат-2», «НігеріяСат-Х», «РАСАТ», «ЕДУСАТ», «АппрайзСат-5», «АппрайзСат-6»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 117,
+      "data": "24 вересня 2011",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Atlantic Bird 7»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 118,
+      "data": "6 жовтня 2011",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Intelsat-18»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 119,
+      "data": "9 листопада 2011",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Фобос-Ґрунт»",
+      "rezultat": "частковий успіх"
+    },
+    {
+      "nomer": 120,
+      "data": "13 лютого 2012",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«AlmaSAT-1», «LARES» (Італія), 7 мікросупутників «CubeSat» (США)",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 121,
+      "data": "1 червня 2012",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Intelsat-19»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 122,
+      "data": "19 серпня 2012",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Intelsat-21»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 123,
+      "data": "3 грудня 2012",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Eutelsat 70B»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 124,
+      "data": "1 лютого 2013",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«Intelsat-27»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 125,
+      "data": "21 квітня 2013",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "Макет з масою «Cygnus»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 126,
+      "data": "7 травня 2013",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«VNREDSat-1», «ESTCube-1», «PROBA-V»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 127,
+      "data": "22 серпня 2013",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«КомпСат-5»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 128,
+      "data": "31 серпня 2013",
+      "raketa_nosii": "Зеніт-3SLБ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«AMOS-4»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 129,
+      "data": "18 вересня 2013",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "Справжній «Cygnus»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 130,
+      "data": "21 листопада 2013",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«DubaiSat-2» (ОАЕ), «SkySat-1», «AprizeSat-7/8» (США), «GOMX-1» (Данія), «WNISat» (Японія), «BRITE-Poland» (Польща), контейнери «ISIPod» (Нідерланди) з космічними апаратами «Cubesat», «STSat-3» (Корея), «UniSat-5» (Італія) та блок перспективної авіоніки «БПА-3» (Україна)",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 131,
+      "data": "9 січня 2014",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus CRS Orb-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 132,
+      "data": "30 квітня 2014",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«KazEOSat-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 133,
+      "data": "27 травня 2014",
+      "raketa_nosii": "Зеніт-3SL",
+      "kosmodrom": "Морська стартова платформа «Одісей»",
+      "korysne_navantazhennia": "«EutelSat ЗВ»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 134,
+      "data": "19 червня 2014",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "Кластер з 33 супутників, в тому числі «KazEOSat-2», «PolyITAN-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 135,
+      "data": "13 липня 2014",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 136,
+      "data": "28 жовтня 2014",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus» із вантажем для міжнародної космічної станції в 2,5 тонни",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 137,
+      "data": "6 листопада 2014",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«ASNARO», «Hodoyoshi-1», «ChubuSat-l», «TSUBAME», «Qsat-EOS»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 138,
+      "data": "11 лютого 2015",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«IXV»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 139,
+      "data": "26 березня 2015",
+      "raketa_nosii": "Дніпро",
+      "kosmodrom": "Ясний",
+      "korysne_navantazhennia": "«КОМПСАТ-3А»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 140,
+      "data": "23 червня 2015",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Sentinel-2A»",
+      "rezultat": "частковий успіх"
+    },
+    {
+      "nomer": 141,
+      "data": "3 грудня 2015",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«LISA Pathfinder»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 142,
+      "data": "11 грудня 2015",
+      "raketa_nosii": "Зеніт-3SLБФ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Електро-Л» №2",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 144,
+      "data": "16 вересня 2016",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«PeruSat-1», «SkySat-4», «SkySat-5», «SkySat-6», «SkySat-7»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 145,
+      "data": "18 жовтня 2016",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus» із вантажем для міжнародної космічної станції в 2,3 тонни",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 146,
+      "data": "5 грудня 2016",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Gokturk-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 147,
+      "data": "7 березня 2017",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Sentinel-2B»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 148,
+      "data": "2 серпня 2017",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«OPTSAT-3000 Venµs»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 149,
+      "data": "8 листопада 2017",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Mohammed VI-A»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 150,
+      "data": "12 листопада 2017",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 151,
+      "data": "26 грудня 2017",
+      "raketa_nosii": "Зеніт-3SLBФ",
+      "kosmodrom": "Байконур",
+      "korysne_navantazhennia": "«Angosat-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 152,
+      "data": "21 травня 2018",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus OA-9E», «CubeRRT», «HaloSat», «Radix», «RaInCube», «TEMPEST-D», «Aerocube 12A», «Aerocube 12B», «RadSat-g», «EQUiSat», «MemSat», «EnduroSat One» й чотири «Lemur-2»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 153,
+      "data": "22 серпня 2018",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«ADM-Aeolus»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 154,
+      "data": "17 листопада 2018",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus NG-10», «CHEFSat 2», «Kicksat 2», «MYSAT 1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 155,
+      "data": "21 листопада 2018",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Mohammed VI -B»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 156,
+      "data": "22 березня 2019",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«PRISMA»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 157,
+      "data": "17 квітня 2019",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus OA-9E», «SASSI²», «BIRD-JPN», «BIRD-LKA», «BIRD-NPL», «ThinSat-1», «VCC A, B, C», «KRAKsat», «Światowid», «SpooQy 1», «IOD-GEMS», «EntrySat», «Aerocube-10a, b», «Seeker»",
+      "rezultat": "частковий успіх"
+    },
+    {
+      "nomer": 158,
+      "data": "11 липня 2019",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Falcon Eye»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 159,
+      "data": "2 листопада 2019",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus OA-9E», «STPSAT-4», «HARP», «Phoenix», «RadSat-u», «SOCRATES», «MVP-Argus», «HuskySat-1», «SwampSat-2», «AeroCube 14A, B», «AeroCube 15A, B», «Orbital Factory 2»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 160,
+      "data": "17 лютого 2020",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus NG-13», «Red-Eye 2», «Red-Eye 3», «DeMi», «TechEdSat-10»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 161,
+      "data": "3 вересня 2020",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "7 мікро- і 46 наносупутників (кубсатів)",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 162,
+      "data": "3 жовтня 2020",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus NG-14», «Bobcat-1», «NEUTRON-1», «SPOC», «Lemur-2», «DESCENT», «SATLLA-1»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 163,
+      "data": "17 листопада 2020",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«SEOSat-Ingenio», «Taranis»",
+      "rezultat": "аварія"
+    },
+    {
+      "nomer": 164,
+      "data": "20 лютого 2021",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus NG-15», «MMSATS-1», 9 «ThinSat-2», «GuaraníSat-1», «Gunsmoke-J 2», «HIROGARI», «IT-SPINS», «ORCA-7», «Maya-2», «MYSat-2», «RSP-01», «STARS-EC», «TAU-SAT1», «TSURU», «WARP-01» і засекречений CubeBox США",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 165,
+      "data": "29 квітня 2021",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Pléiades Neo 3», «NorSat-3», «AII-Bravo», «ELO Alpha» й два «Lemur-2»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 166,
+      "data": "11 серпня 2021",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus NG-16», «PIRPL»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 167,
+      "data": "17 серпня 2021",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«Pléiades Neo 4», «BRO-4», «LEDSAT», «RADCUBE» і «SUNSTORM»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 168,
+      "data": "16 листопада 2021",
+      "raketa_nosii": "VEGA",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "3 «CERES»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 169,
+      "data": "19 лютого 2022",
+      "raketa_nosii": "Антарес",
+      "kosmodrom": "Воллопс",
+      "korysne_navantazhennia": "«Cygnus NG-17», «IHI-SAT», «KITSUNE», «NACHOS»",
+      "rezultat": "успіх"
+    },
+    {
+      "nomer": 170,
+      "data": "11 серпня 2022",
+      "raketa_nosii": "VEGA-С",
+      "kosmodrom": "Куру",
+      "korysne_navantazhennia": "«LARES-2», «AstroBio CubeSat», «GreenCube», «TRISAT R», «CELESTA», «MTCube 2», «ALPHA»",
+      "rezultat": "успіх"
+    }
+  ],
+  "meta": {
+    "title": "Космічні запуски українських ракет-носіїв - Free Download",
+    "description": "Хронологічний перелік космічних запусків ракет-носіїв українського виробництва (Зеніт, Циклон, Дніпро, Антарес, Вега) з 1991 року: дата, ракета, космодром, корисне навантаження та результат. Contains 169 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Космічні запуски українських ракет-носіїв | ListBase",
+    "seo_description": "Download Космічні запуски українських ракет-носіїв — 169 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 169 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_космічних_запусків_українських_ракет-носіїв"
+    ]
+  }
+}
