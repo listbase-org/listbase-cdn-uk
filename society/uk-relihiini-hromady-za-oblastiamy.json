@@ -1,0 +1,313 @@
+{
+  "id": "uk-relihiini-hromady-za-oblastiamy",
+  "name": "Кількість релігійних громад в Україні за областями",
+  "title": "Кількість релігійних громад в Україні за областями",
+  "description": "Кількість зареєстрованих релігійних громад за регіонами України станом на 1 січня 2010, 2019 і 2021 років, а також населення на одну громаду.",
+  "category": "society",
+  "source": "https://uk.wikipedia.org/wiki/Релігія_в_Україні",
+  "source_url": "https://uk.wikipedia.org/wiki/Релігія_в_Україні",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "typ_rehionu",
+      "label": "Typ Rehionu",
+      "type": "string"
+    },
+    {
+      "key": "naselennia_2010",
+      "label": "Naselennia 2010",
+      "type": "number"
+    },
+    {
+      "key": "naselennia_na_odnu_hromadu",
+      "label": "Naselennia Na Odnu Hromadu",
+      "type": "number"
+    },
+    {
+      "key": "hromad_2010",
+      "label": "Hromad 2010",
+      "type": "number"
+    },
+    {
+      "key": "hromad_2019",
+      "label": "Hromad 2019",
+      "type": "number"
+    },
+    {
+      "key": "hromad_2021",
+      "label": "Hromad 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rehion": "Крим",
+      "typ_rehionu": "Автономна республіка",
+      "naselennia_2010": 1964544,
+      "naselennia_na_odnu_hromadu": 975,
+      "hromad_2010": 2014,
+      "hromad_2019": 1360,
+      "hromad_2021": 1360
+    },
+    {
+      "rehion": "Вінницька область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1647905,
+      "naselennia_na_odnu_hromadu": 835,
+      "hromad_2010": 1974,
+      "hromad_2019": 2158,
+      "hromad_2021": 2244
+    },
+    {
+      "rehion": "Волинська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1036685,
+      "naselennia_na_odnu_hromadu": 704,
+      "hromad_2010": 1472,
+      "hromad_2019": 1619,
+      "hromad_2021": 1683
+    },
+    {
+      "rehion": "Дніпропетровська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 3350351,
+      "naselennia_na_odnu_hromadu": 2866,
+      "hromad_2010": 1169,
+      "hromad_2019": 1477,
+      "hromad_2021": 1540
+    },
+    {
+      "rehion": "Донецька область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 4457727,
+      "naselennia_na_odnu_hromadu": 2830,
+      "hromad_2010": 1575,
+      "hromad_2019": 1784,
+      "hromad_2021": 1876
+    },
+    {
+      "rehion": "Житомирська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1283860,
+      "naselennia_na_odnu_hromadu": 979,
+      "hromad_2010": 1311,
+      "hromad_2019": 1541,
+      "hromad_2021": 1622
+    },
+    {
+      "rehion": "Закарпатська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1245173,
+      "naselennia_na_odnu_hromadu": 710,
+      "hromad_2010": 1753,
+      "hromad_2019": 1875,
+      "hromad_2021": 2011
+    },
+    {
+      "rehion": "Запорізька область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1808581,
+      "naselennia_na_odnu_hromadu": 1941,
+      "hromad_2010": 932,
+      "hromad_2019": 1107,
+      "hromad_2021": 1142
+    },
+    {
+      "rehion": "Івано-Франківська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1380344,
+      "naselennia_na_odnu_hromadu": 1082,
+      "hromad_2010": 1276,
+      "hromad_2019": 1354,
+      "hromad_2021": 1442
+    },
+    {
+      "rehion": "Київська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1720387,
+      "naselennia_na_odnu_hromadu": 1079,
+      "hromad_2010": 1594,
+      "hromad_2019": 1846,
+      "hromad_2021": 1914
+    },
+    {
+      "rehion": "Кіровоградська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1016083,
+      "naselennia_na_odnu_hromadu": 1595,
+      "hromad_2010": 637,
+      "hromad_2019": 782,
+      "hromad_2021": 745
+    },
+    {
+      "rehion": "Луганська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 2305982,
+      "naselennia_na_odnu_hromadu": 3091,
+      "hromad_2010": 746,
+      "hromad_2019": 832,
+      "hromad_2021": 869
+    },
+    {
+      "rehion": "Львівська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 2547500,
+      "naselennia_na_odnu_hromadu": 903,
+      "hromad_2010": 2821,
+      "hromad_2019": 3114,
+      "hromad_2021": 3286
+    },
+    {
+      "rehion": "Миколаївська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1187867,
+      "naselennia_na_odnu_hromadu": 1692,
+      "hromad_2010": 702,
+      "hromad_2019": 773,
+      "hromad_2021": 807
+    },
+    {
+      "rehion": "Одеська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 2388947,
+      "naselennia_na_odnu_hromadu": 1989,
+      "hromad_2010": 1201,
+      "hromad_2019": 1295,
+      "hromad_2021": 1388
+    },
+    {
+      "rehion": "Полтавська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1496592,
+      "naselennia_na_odnu_hromadu": 1498,
+      "hromad_2010": 999,
+      "hromad_2019": 1153,
+      "hromad_2021": 1194
+    },
+    {
+      "rehion": "Рівненська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1151748,
+      "naselennia_na_odnu_hromadu": 795,
+      "hromad_2010": 1449,
+      "hromad_2019": 1566,
+      "hromad_2021": 1636
+    },
+    {
+      "rehion": "Сумська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1169269,
+      "naselennia_na_odnu_hromadu": 1584,
+      "hromad_2010": 738,
+      "hromad_2019": 591,
+      "hromad_2021": 545
+    },
+    {
+      "rehion": "Тернопільська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1087563,
+      "naselennia_na_odnu_hromadu": 654,
+      "hromad_2010": 1663,
+      "hromad_2019": 1757,
+      "hromad_2021": 1843
+    },
+    {
+      "rehion": "Харківська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 2764007,
+      "naselennia_na_odnu_hromadu": 3383,
+      "hromad_2010": 817,
+      "hromad_2019": 992,
+      "hromad_2021": 1043
+    },
+    {
+      "rehion": "Херсонська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1091877,
+      "naselennia_na_odnu_hromadu": 1230,
+      "hromad_2010": 888,
+      "hromad_2019": 950,
+      "hromad_2021": 990
+    },
+    {
+      "rehion": "Хмельницька область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1332283,
+      "naselennia_na_odnu_hromadu": 767,
+      "hromad_2010": 1737,
+      "hromad_2019": 1908,
+      "hromad_2021": 2070
+    },
+    {
+      "rehion": "Черкаська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1292827,
+      "naselennia_na_odnu_hromadu": 1038,
+      "hromad_2010": 1246,
+      "hromad_2019": 1405,
+      "hromad_2021": 1448
+    },
+    {
+      "rehion": "Чернівецька область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 903971,
+      "naselennia_na_odnu_hromadu": 748,
+      "hromad_2010": 1208,
+      "hromad_2019": 1301,
+      "hromad_2021": 1381
+    },
+    {
+      "rehion": "Чернігівська область",
+      "typ_rehionu": "Області",
+      "naselennia_2010": 1106834,
+      "naselennia_na_odnu_hromadu": 1231,
+      "hromad_2010": 899,
+      "hromad_2019": 977,
+      "hromad_2021": 1016
+    },
+    {
+      "rehion": "Київ",
+      "typ_rehionu": "Міста що мають спеціальний статус",
+      "naselennia_2010": 2785976,
+      "naselennia_na_odnu_hromadu": 3333,
+      "hromad_2010": 836,
+      "hromad_2019": 1005,
+      "hromad_2021": 1314
+    },
+    {
+      "rehion": "Севастополь",
+      "typ_rehionu": "Міста що мають спеціальний статус",
+      "naselennia_2010": 380458,
+      "naselennia_na_odnu_hromadu": 3280,
+      "hromad_2010": 116,
+      "hromad_2019": 127,
+      "hromad_2021": 127
+    },
+    {
+      "rehion": "Разом",
+      "typ_rehionu": "Міста що мають спеціальний статус",
+      "naselennia_2010": 45905341,
+      "naselennia_na_odnu_hromadu": 1445,
+      "hromad_2010": 31759,
+      "hromad_2019": "35162(+1487)",
+      "hromad_2021": "37049(+1487)"
+    }
+  ],
+  "meta": {
+    "title": "Кількість релігійних громад в Україні за областями - Free Download",
+    "description": "Кількість зареєстрованих релігійних громад за регіонами України станом на 1 січня 2010, 2019 і 2021 років, а також населення на одну громаду. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Кількість релігійних громад в Україні за областями | ListBase",
+    "seo_description": "Download Кількість релігійних громад в Україні за областями — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Релігія_в_Україні"
+    ]
+  }
+}

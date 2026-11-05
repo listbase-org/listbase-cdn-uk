@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-04T02:09:33.475Z",
-  "total_datasets": 469,
-  "total_records": 474679,
+  "generated": "2026-11-05T02:21:50.613Z",
+  "total_datasets": 470,
+  "total_records": 474707,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -11044,6 +11044,34 @@
         "xlsx": {
           "name": "uk-pryrodnyi-rukh-naselennia_UK.xlsx",
           "size": 11506
+        }
+      }
+    },
+    {
+      "id": "uk-relihiini-hromady-za-oblastiamy",
+      "name": "Кількість релігійних громад в Україні за областями",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "rehion",
+        "typ_rehionu",
+        "naselennia_2010",
+        "naselennia_na_odnu_hromadu",
+        "hromad_2010",
+        "hromad_2019",
+        "hromad_2021"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Релігія_в_Україні",
+      "updated": "2026-11",
+      "size": 9943,
+      "files": {
+        "csv": {
+          "name": "uk-relihiini-hromady-za-oblastiamy_UK.csv",
+          "size": 2803
+        },
+        "xlsx": {
+          "name": "uk-relihiini-hromady-za-oblastiamy_UK.xlsx",
+          "size": 8349
         }
       }
     },
