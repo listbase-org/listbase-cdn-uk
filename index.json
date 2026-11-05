@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-05T02:21:59.704Z",
-  "total_datasets": 471,
-  "total_records": 474735,
+  "generated": "2026-11-05T02:22:08.390Z",
+  "total_datasets": 472,
+  "total_records": 474772,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -2960,6 +2960,33 @@
         "xlsx": {
           "name": "uk-tradytsiinyi-ukrainskyi-khlib_UK.xlsx",
           "size": 8606
+        }
+      }
+    },
+    {
+      "id": "uk-vareniky-ukrainy",
+      "name": "Види українських вареників",
+      "category": "food",
+      "record_count": 37,
+      "columns": [
+        "nazva",
+        "typ",
+        "osoblyvosti_pryhotuvannia",
+        "rehion",
+        "prymitky",
+        "hrupa"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_вареників_(Україна)",
+      "updated": "2026-11",
+      "size": 16993,
+      "files": {
+        "csv": {
+          "name": "uk-vareniky-ukrainy_UK.csv",
+          "size": 10145
+        },
+        "xlsx": {
+          "name": "uk-vareniky-ukrainy_UK.xlsx",
+          "size": 9970
         }
       }
     },
