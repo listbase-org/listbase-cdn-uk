@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-05T02:21:50.613Z",
-  "total_datasets": 470,
-  "total_records": 474707,
+  "generated": "2026-11-05T02:21:59.704Z",
+  "total_datasets": 471,
+  "total_records": 474735,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -4650,6 +4650,47 @@
         "xlsx": {
           "name": "uk-pereklad-imen-ua-ru_UK.xlsx",
           "size": 378632
+        }
+      }
+    },
+    {
+      "id": "uk-ridna-mova-za-rehionamy-2001",
+      "name": "Рідна мова населення України за регіонами (перепис 2001)",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "rehion",
+        "ukrainska_pct",
+        "rosiiska_pct",
+        "biloruska_pct",
+        "bolharska_pct",
+        "virmenska_pct",
+        "hahauzka_pct",
+        "krymskotatarska_pct",
+        "moldovska_pct",
+        "nimetska_pct",
+        "polska_pct",
+        "tsyhanska_pct",
+        "rumunska_pct",
+        "slovatska_pct",
+        "uhorska_pct",
+        "karaimska_pct",
+        "yevreiska_pct",
+        "hretska_pct",
+        "insha_mova_pct",
+        "ne_vkazaly_pct"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Мови_в_Україні",
+      "updated": "2026-11",
+      "size": 20612,
+      "files": {
+        "csv": {
+          "name": "uk-ridna-mova-za-rehionamy-2001_UK.csv",
+          "size": 4442
+        },
+        "xlsx": {
+          "name": "uk-ridna-mova-za-rehionamy-2001_UK.xlsx",
+          "size": 9717
         }
       }
     },
