@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-05T02:22:08.390Z",
-  "total_datasets": 472,
-  "total_records": 474772,
+  "generated": "2026-11-05T02:22:38.726Z",
+  "total_datasets": 473,
+  "total_records": 474854,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -2987,6 +2987,30 @@
         "xlsx": {
           "name": "uk-vareniky-ukrainy_UK.xlsx",
           "size": 9970
+        }
+      }
+    },
+    {
+      "id": "uk-vydy-borshchu",
+      "name": "Види борщу",
+      "category": "food",
+      "record_count": 82,
+      "columns": [
+        "nazva",
+        "osoblyvist_osnovni_skladnyky",
+        "dzherela"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_видів_борщу",
+      "updated": "2026-11",
+      "size": 21220,
+      "files": {
+        "csv": {
+          "name": "uk-vydy-borshchu_UK.csv",
+          "size": 12554
+        },
+        "xlsx": {
+          "name": "uk-vydy-borshchu_UK.xlsx",
+          "size": 10865
         }
       }
     },

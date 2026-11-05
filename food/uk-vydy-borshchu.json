@@ -1,0 +1,451 @@
+{
+  "id": "uk-vydy-borshchu",
+  "name": "Види борщу",
+  "title": "Види борщу",
+  "description": "Список видів борщу української та сусідніх кухонь з основними складниками кожного виду та скороченнями джерел рецептів.",
+  "category": "food",
+  "source": "https://uk.wikipedia.org/wiki/Список_видів_борщу",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_видів_борщу",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "osoblyvist_osnovni_skladnyky",
+      "label": "Osoblyvist Osnovni Skladnyky",
+      "type": "string"
+    },
+    {
+      "key": "dzherela",
+      "label": "Dzherela",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Борщ український з м'ясом",
+      "osoblyvist_osnovni_skladnyky": "найпопулярніший традиційний борщ",
+      "dzherela": "УНК, УС-60, ЗНС, КРЩК, УК"
+    },
+    {
+      "nazva": "Борщ український з пампушками",
+      "osoblyvist_osnovni_skladnyky": "їдять з пампушками",
+      "dzherela": "УНК, СзК, ЗРНСКВ, К-91"
+    },
+    {
+      "nazva": "Борщ з грибами",
+      "osoblyvist_osnovni_skladnyky": "містить певний вид їстівних сушених грибів",
+      "dzherela": "УНК, УС-60, ЗРНСКВ, ЗНС, УК"
+    },
+    {
+      "nazva": "Борщ з грибами та чорносливом",
+      "osoblyvist_osnovni_skladnyky": "містить сушені білі гриби та чорнослив",
+      "dzherela": "УНК, УС-60, СзК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ із сушеними грибами й вушками",
+      "osoblyvist_osnovni_skladnyky": "містить сушені білі гриби та вушка з рисом",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ із грибами та квашеною капустою",
+      "osoblyvist_osnovni_skladnyky": "містить гриби та квашену капусту",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ з квасолею та грибами",
+      "osoblyvist_osnovni_skladnyky": "містить гриби та квасолю",
+      "dzherela": "ТУКНК"
+    },
+    {
+      "nazva": "Борщ із бурячиння з сушеними грибами",
+      "osoblyvist_osnovni_skladnyky": "містить сушені білі гриби та молоду бурякову гичку",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ із бурячиння (літній)",
+      "osoblyvist_osnovni_skladnyky": "містить буряк з гичкою та кабачки",
+      "dzherela": "УНК, ЗРНСКВ, УК:ПЗРНК"
+    },
+    {
+      "nazva": "Борщ з вушками",
+      "osoblyvist_osnovni_skladnyky": "містить «вушка» (пельмені), має регіональні варіанти",
+      "dzherela": "СНУ, КРЩК"
+    },
+    {
+      "nazva": "Різдвяний борщ з вушками",
+      "osoblyvist_osnovni_skladnyky": "містить галушки, подають на Святвечір",
+      "dzherela": ""
+    },
+    {
+      "nazva": "Борщ зелений (зі шпинатом та щавелем)",
+      "osoblyvist_osnovni_skladnyky": "містить щавель і шпинат (є варіант з консервованою зеленню)",
+      "dzherela": "УНК, УК:ПЗРНК, УС-60, СзК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ холодний (Холодник)",
+      "osoblyvist_osnovni_skladnyky": "вживають охолодженим",
+      "dzherela": "УНК, УС-60, УК"
+    },
+    {
+      "nazva": "Борщ холодний м'ясний",
+      "osoblyvist_osnovni_skladnyky": "містить яловичину, вживають охолодженим",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ холодний з яблуками",
+      "osoblyvist_osnovni_skladnyky": "містить буряковий квас, яблука, огірки, сметану, зелену цибулю",
+      "dzherela": "УК"
+    },
+    {
+      "nazva": "Борщ холодний по-полтавськи",
+      "osoblyvist_osnovni_skladnyky": "містить огірки, хлібний квас або кисляк",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ холодний по-дніпропетровськи",
+      "osoblyvist_osnovni_skladnyky": "містить моркву, огірки, яйця",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ холодний криворізький",
+      "osoblyvist_osnovni_skladnyky": "містить болгарський перець, картоплю, квасолю",
+      "dzherela": "УНК, УК"
+    },
+    {
+      "nazva": "Борщ холодний роменський",
+      "osoblyvist_osnovni_skladnyky": "містить сушені гриби, буряковий квас",
+      "dzherela": "УНК, УК"
+    },
+    {
+      "nazva": "Борщ полтавський або по-полтавськи",
+      "osoblyvist_osnovni_skladnyky": "містить м'ясо птиці (курки або гуски ﻿ (інші мови)) та галушки",
+      "dzherela": "УНК, УК:ПЗРНК, УС-60, ЗРНСКВ, СзК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ чернігівський або по-чернігівськи",
+      "osoblyvist_osnovni_skladnyky": "містить кабачки та свіжі яблука кислих сортів",
+      "dzherela": "УНК, СНУ, УК:ПЗРНК, УС-60, ЗРНСКВ, СзК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ волинський",
+      "osoblyvist_osnovni_skladnyky": "містить корінь петрушки, свіжі помідори, свиняче сало",
+      "dzherela": "УНК, СНУ, УС-60, ЗРНСКВ, УК"
+    },
+    {
+      "nazva": "Борщ волинський з грибами",
+      "osoblyvist_osnovni_skladnyky": "містить сушені гриби та буряковий квас",
+      "dzherela": "УНК, ЗРНСКВ"
+    },
+    {
+      "nazva": "Борщ гетьманський",
+      "osoblyvist_osnovni_skladnyky": "містить баклажани",
+      "dzherela": "УНК, СНУ"
+    },
+    {
+      "nazva": "Борщ галицький",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, буряковий квас",
+      "dzherela": "УНК, УС-60, СзК, ТУКНК, УК"
+    },
+    {
+      "nazva": "Борщ по-хмельницьки або хмельницький",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, свинину",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ київський або по-київськи",
+      "osoblyvist_osnovni_skladnyky": "містить яловичину та баранину, селеру, буряковий квас",
+      "dzherela": "УНК, УК:ПЗРНК, УС-60, ЗРНСКВ, СзК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ київський з куркою",
+      "osoblyvist_osnovni_skladnyky": "містить яловичину, баранину й курятину, баклажани",
+      "dzherela": "СНУ"
+    },
+    {
+      "nazva": "Борщ київський без м'яса (із грибами)",
+      "osoblyvist_osnovni_skladnyky": "не містить м'яса, містить сушені гриби, яйця",
+      "dzherela": "УС-60, ЗРНСКВ (без яєць), УК"
+    },
+    {
+      "nazva": "Борщ львівський",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, сосиски, буряковий квас",
+      "dzherela": "УНК, УС-60, ЗРНСКВ, К-91, УК"
+    },
+    {
+      "nazva": "Борщ із сушених овочів",
+      "osoblyvist_osnovni_skladnyky": "містить сушені овочі, які замочують у холодній воді",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ селянський або по-селянськи",
+      "osoblyvist_osnovni_skladnyky": "містить квасолю, яблука (антонівські), буряковий квас",
+      "dzherela": "УНК, УК:ПЗРНК, УС-60, СзК, ЗНС, К-91, УК"
+    },
+    {
+      "nazva": "Борщ селянський холодний",
+      "osoblyvist_osnovni_skladnyky": "містить сухофрукти (яблука, сливи, вишні), огірки, цукор",
+      "dzherela": "УС-60, УК"
+    },
+    {
+      "nazva": "Борщ зі свинячої грудинки з буряком",
+      "osoblyvist_osnovni_skladnyky": "містить свинячу грудинку, буряковий квас і сам буряк",
+      "dzherela": "УНК, УС-60"
+    },
+    {
+      "nazva": "Борщ із квасолею",
+      "osoblyvist_osnovni_skladnyky": "містить квасолю і не містить м'яса",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ з консервованою квасолею і салом",
+      "osoblyvist_osnovni_skladnyky": "містить консервовану квасолю, сало",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ з качкою і яловичою грудинкою",
+      "osoblyvist_osnovni_skladnyky": "містить копчену ﻿ (інші мови) качку, яловичу грудинку",
+      "dzherela": "УНК"
+    },
+    {
+      "nazva": "Борщ з потрухами",
+      "osoblyvist_osnovni_skladnyky": "містить потрухи та хлібний квас",
+      "dzherela": "УНК, СНУ, УС-60, УК"
+    },
+    {
+      "nazva": "Борщ з квашеними яблуками",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках та квашені яблука",
+      "dzherela": "УС-60, УК"
+    },
+    {
+      "nazva": "Борщ з рибою",
+      "osoblyvist_osnovni_skladnyky": "Містить один вид риби (короп, тріска, окунь морський, минтай)",
+      "dzherela": "ЗРНСКВ, КРЩК"
+    },
+    {
+      "nazva": "Борщ з карасями (вид Рибного борщу)",
+      "osoblyvist_osnovni_skladnyky": "містить гриби, пастернак, буряковий квас, смажених карасів",
+      "dzherela": "УС-60, СНУ"
+    },
+    {
+      "nazva": "Борщ з м'ясними галушками",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, буряковий квас, м'ясні галушки",
+      "dzherela": "УС-60"
+    },
+    {
+      "nazva": "Холодник наддніпрянський",
+      "osoblyvist_osnovni_skladnyky": "містить щавель, шпинат, огірки, естрагон, раків, квас",
+      "dzherela": "УС-60"
+    },
+    {
+      "nazva": "Холодник з осетриною",
+      "osoblyvist_osnovni_skladnyky": "шпинат, ракові шийки, варена осетрина, хлібний квас",
+      "dzherela": "УС-60"
+    },
+    {
+      "nazva": "Борщ на квасі",
+      "osoblyvist_osnovni_skladnyky": "містить хлібний квас, черствий житній хліб",
+      "dzherela": "СзК, УК"
+    },
+    {
+      "nazva": "Борщ ялтинський",
+      "osoblyvist_osnovni_skladnyky": "містить ріпу, селеру, вершкове масло або маргарин",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ пісний з рибою",
+      "osoblyvist_osnovni_skladnyky": "містить будь-яку рибу, квасолю, сушені білі гриби",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ з ріпою (білоруська кухня)",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, ріпу",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ білоруський або по-білоруськи",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках від шинки або окосту, сосиски",
+      "dzherela": "СзК, УК"
+    },
+    {
+      "nazva": "Борщ литовський",
+      "osoblyvist_osnovni_skladnyky": "містить корінь селери, щавель, шинку, сосиски",
+      "dzherela": "СзК, УК"
+    },
+    {
+      "nazva": "Борщ з кропивою (молдавська кухня)",
+      "osoblyvist_osnovni_skladnyky": "містить будь-яке м'ясо, бульйон на кістках, кропиву, рис",
+      "dzherela": "СзК, КРЩК («Борщ-кропив'янка»)"
+    },
+    {
+      "nazva": "Борщ з квасолею та фрикадельками",
+      "osoblyvist_osnovni_skladnyky": "містить квасолю, часник, фрикадельки",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ із квашеної капусти",
+      "osoblyvist_osnovni_skladnyky": "містить будь-яке м'ясо, квашену капусту, брукву",
+      "dzherela": "СзК, УК"
+    },
+    {
+      "nazva": "Борщ по-домашньому без томату",
+      "osoblyvist_osnovni_skladnyky": "містить буряковий квас, не містить томатної пасти /помідорів",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ по-флотськи або флотський",
+      "osoblyvist_osnovni_skladnyky": "містить копченості, помідори (або томат-пюре), жир",
+      "dzherela": "СзК, УК:ПЗРНК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ польський або по-польськи",
+      "osoblyvist_osnovni_skladnyky": "містить сушені білі гриби, брукву, вершкове масло",
+      "dzherela": "СзК, УК"
+    },
+    {
+      "nazva": "Борщ із грибами та квашеною капустою",
+      "osoblyvist_osnovni_skladnyky": "містить сушені білі гриби та квашену капусту",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ вегетаріанський (є варіант з грибами)",
+      "osoblyvist_osnovni_skladnyky": "містить буряк, яблука, картоплю, сметану",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ холодний по-литовськи",
+      "osoblyvist_osnovni_skladnyky": "містить кефір, буряк, яйце, сметану",
+      "dzherela": "СзК"
+    },
+    {
+      "nazva": "Борщ кіровоградський (з грінками)",
+      "osoblyvist_osnovni_skladnyky": "містить гарбуз, томатний сік, грінки, твердий сир",
+      "dzherela": "ЗРНСКВ"
+    },
+    {
+      "nazva": "Борщ по-бахмацьки",
+      "osoblyvist_osnovni_skladnyky": "містить сухофрукти (яблука, груші)",
+      "dzherela": "ЗРНСКВ"
+    },
+    {
+      "nazva": "Борщ із баклажанами",
+      "osoblyvist_osnovni_skladnyky": "містить баклажани, свіжі помідори, солодкий перець",
+      "dzherela": "ЗРНСКВ, УК"
+    },
+    {
+      "nazva": "Борщ дніпровський",
+      "osoblyvist_osnovni_skladnyky": "містить рибні консерви",
+      "dzherela": "ЗРНСКВ"
+    },
+    {
+      "nazva": "Борщик з (грибними) вушками",
+      "osoblyvist_osnovni_skladnyky": "містить вушка з грибами, грибний відвар, мариновані буряки",
+      "dzherela": "ЗРНСКВ, УК"
+    },
+    {
+      "nazva": "Борщ по-конотопськи",
+      "osoblyvist_osnovni_skladnyky": "містить яловичину, баранину, курку, буряковий настій, квас",
+      "dzherela": "УК:ПЗРНК, УК"
+    },
+    {
+      "nazva": "Борщ по-московськи або московський",
+      "osoblyvist_osnovni_skladnyky": "містить варене м'ясо, шинку, сосиски",
+      "dzherela": "УК:ПЗРНК, К-91, УК"
+    },
+    {
+      "nazva": "Борщ кубанський",
+      "osoblyvist_osnovni_skladnyky": "містить гвоздику, сушені гриби, квас",
+      "dzherela": "СНУ"
+    },
+    {
+      "nazva": "Борщ з сироватки",
+      "osoblyvist_osnovni_skladnyky": "містить сироватку, пшоно",
+      "dzherela": "СНУ"
+    },
+    {
+      "nazva": "Борщ гуцульський",
+      "osoblyvist_osnovni_skladnyky": "містить сушені гриби та грибний відвар",
+      "dzherela": "ЗНС"
+    },
+    {
+      "nazva": "Борщ гуцульський з бужениною",
+      "osoblyvist_osnovni_skladnyky": "містить буженину з овечого м'яса, буряковий ква",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ закарпатський",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, квашену капусту, часник",
+      "dzherela": "ЗНС"
+    },
+    {
+      "nazva": "Борщ пісний пирятинський",
+      "osoblyvist_osnovni_skladnyky": "може містити смажену рибу або сушені гриби",
+      "dzherela": "ТУКНК"
+    },
+    {
+      "nazva": "Борщ буковинський",
+      "osoblyvist_osnovni_skladnyky": "містить гриби і грибну юшку",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ бухарестський з фрикадельками",
+      "osoblyvist_osnovni_skladnyky": "містить бульйон на кістках, солодкий перець, рис, фрикадельки",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ із воловим шлунком",
+      "osoblyvist_osnovni_skladnyky": "містить яловичий шлунок і ногу або кістку",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ по-грецьки",
+      "osoblyvist_osnovni_skladnyky": "містить куряче або інше м'ясо, рис, сік цитрини",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ з ягнятини",
+      "osoblyvist_osnovni_skladnyky": "містить ягнятину",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ з лободою",
+      "osoblyvist_osnovni_skladnyky": "містить лободу, рис, кип'ячений квас",
+      "dzherela": "КРЩК"
+    },
+    {
+      "nazva": "Борщ з м'ясними вушками",
+      "osoblyvist_osnovni_skladnyky": "містить м'ясо-кістковий бульйон, яловичину, м'ясні вушка",
+      "dzherela": "УК"
+    },
+    {
+      "nazva": "Борщ по-болгарськи",
+      "osoblyvist_osnovni_skladnyky": "містить яловичу грудинку, стручкову квасолю",
+      "dzherela": "УК"
+    },
+    {
+      "nazva": "Борщ по-чеськи",
+      "osoblyvist_osnovni_skladnyky": "містить яловичину і жирну свинину",
+      "dzherela": "УК"
+    },
+    {
+      "nazva": "Борщ по-угорськи",
+      "osoblyvist_osnovni_skladnyky": "містить яловичину, буряк, не містить картоплі, квасолі",
+      "dzherela": "УК"
+    }
+  ],
+  "meta": {
+    "title": "Види борщу - Free Download",
+    "description": "Список видів борщу української та сусідніх кухонь з основними складниками кожного виду та скороченнями джерел рецептів. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Види борщу | ListBase",
+    "seo_description": "Download Види борщу — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_видів_борщу"
+    ]
+  }
+}
