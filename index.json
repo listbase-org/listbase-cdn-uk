@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-09T02:18:16.369Z",
-  "total_datasets": 476,
-  "total_records": 475204,
+  "generated": "2026-11-09T02:18:24.910Z",
+  "total_datasets": 477,
+  "total_records": 475304,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -661,6 +661,34 @@
         "xlsx": {
           "name": "uk-ministry-ekonomiky_UK.xlsx",
           "size": 8914
+        }
+      }
+    },
+    {
+      "id": "uk-naizamozhnishi-liudy-ukrainy-2012",
+      "name": "Найзаможніші люди України 2012 року (рейтинг журналу «Кореспондент»)",
+      "category": "economy",
+      "record_count": 100,
+      "columns": [
+        "mistse",
+        "imia",
+        "vik_simeinyi_stan",
+        "statky_mln_usd_2012",
+        "statky_mln_usd_2011",
+        "sfera_interesiv",
+        "osnovni_aktyvy"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Найзаможніші_люди_України_2012",
+      "updated": "2026-11",
+      "size": 33908,
+      "files": {
+        "csv": {
+          "name": "uk-naizamozhnishi-liudy-ukrainy-2012_UK.csv",
+          "size": 13479
+        },
+        "xlsx": {
+          "name": "uk-naizamozhnishi-liudy-ukrainy-2012_UK.xlsx",
+          "size": 12589
         }
       }
     },

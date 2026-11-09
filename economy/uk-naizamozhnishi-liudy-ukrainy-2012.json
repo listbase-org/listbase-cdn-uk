@@ -1,0 +1,961 @@
+{
+  "id": "uk-naizamozhnishi-liudy-ukrainy-2012",
+  "name": "Найзаможніші люди України 2012 року (рейтинг журналу «Кореспондент»)",
+  "title": "Найзаможніші люди України 2012 року (рейтинг журналу «Кореспондент»)",
+  "description": "Рейтинг 100 найзаможніших людей України 2012 року за версією журналу «Кореспондент»: місце, вік, статки у 2012 та 2011 роках (млн доларів), сфера інтересів та основні активи.",
+  "category": "economy",
+  "source": "https://uk.wikipedia.org/wiki/Найзаможніші_люди_України_2012",
+  "source_url": "https://uk.wikipedia.org/wiki/Найзаможніші_люди_України_2012",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "mistse",
+      "label": "Mistse",
+      "type": "number"
+    },
+    {
+      "key": "imia",
+      "label": "Imia",
+      "type": "string"
+    },
+    {
+      "key": "vik_simeinyi_stan",
+      "label": "Vik Simeinyi Stan",
+      "type": "string"
+    },
+    {
+      "key": "statky_mln_usd_2012",
+      "label": "Statky Mln Usd 2012",
+      "type": "number"
+    },
+    {
+      "key": "statky_mln_usd_2011",
+      "label": "Statky Mln Usd 2011",
+      "type": "number"
+    },
+    {
+      "key": "sfera_interesiv",
+      "label": "Sfera Interesiv",
+      "type": "string"
+    },
+    {
+      "key": "osnovni_aktyvy",
+      "label": "Osnovni Aktyvy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mistse": 1,
+      "imia": "Рінат Ахметов",
+      "vik_simeinyi_stan": "46 років, одружений, є двоє синів",
+      "statky_mln_usd_2012": 17800,
+      "statky_mln_usd_2011": 25600,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 2,
+      "imia": "Ігор Коломойський",
+      "vik_simeinyi_stan": "49 років одружений, є двоє дітей",
+      "statky_mln_usd_2012": 3400,
+      "statky_mln_usd_2011": 6200,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 3,
+      "imia": "Вадим Новинський",
+      "vik_simeinyi_stan": "49 років, одружений, є четверо дітей",
+      "statky_mln_usd_2012": 3300,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 4,
+      "imia": "Геннадій Боголюбов",
+      "vik_simeinyi_stan": "50 років, одружений, є п'ятеро дітей",
+      "statky_mln_usd_2012": 3250,
+      "statky_mln_usd_2011": 6600,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 5,
+      "imia": "Дмитро Фірташ",
+      "vik_simeinyi_stan": "47 років, одружений, є троє дітей",
+      "statky_mln_usd_2012": 3200,
+      "statky_mln_usd_2011": 2250,
+      "sfera_interesiv": "хімпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 6,
+      "imia": "Віктор Пінчук",
+      "vik_simeinyi_stan": "51 рік, виховує сина і трьох дочок",
+      "statky_mln_usd_2012": 3190,
+      "statky_mln_usd_2011": 5900,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 7,
+      "imia": "Віктор Нунсенкіс",
+      "vik_simeinyi_stan": "58 років, одружений, має двох дітей",
+      "statky_mln_usd_2012": 1700,
+      "statky_mln_usd_2011": 2900,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 8,
+      "imia": "Олег Бахматюк",
+      "vik_simeinyi_stan": "38 років, одружений, є три доньки і син",
+      "statky_mln_usd_2012": 1600,
+      "statky_mln_usd_2011": 2200,
+      "sfera_interesiv": "агробізнес",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 9,
+      "imia": "Костянтин Жеваго",
+      "vik_simeinyi_stan": "38 років, одружений, є син і дочка",
+      "statky_mln_usd_2012": 1500,
+      "statky_mln_usd_2011": 3200,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 10,
+      "imia": "Олексій Мартинов",
+      "vik_simeinyi_stan": "46 років, одружений, двоє дітей",
+      "statky_mln_usd_2012": 1460,
+      "statky_mln_usd_2011": 1520,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 11,
+      "imia": "Петро Порошенко",
+      "vik_simeinyi_stan": "46 років, одружений, є двоє синів і дві доньки",
+      "statky_mln_usd_2012": 1300,
+      "statky_mln_usd_2011": 980,
+      "sfera_interesiv": "харчопром, машинобудування",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 12,
+      "imia": "Юрій Косюк",
+      "vik_simeinyi_stan": "44 роки, одружений, є син",
+      "statky_mln_usd_2012": 1100,
+      "statky_mln_usd_2011": 1300,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 13,
+      "imia": "Олександр Ярославський",
+      "vik_simeinyi_stan": "52 роки, одружений, четверо дітей",
+      "statky_mln_usd_2012": 940,
+      "statky_mln_usd_2011": 1200,
+      "sfera_interesiv": "будівництво",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 14,
+      "imia": "Олексій Вадатурський",
+      "vik_simeinyi_stan": "64 роки, одружений, є син",
+      "statky_mln_usd_2012": 860,
+      "statky_mln_usd_2011": 1500,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 15,
+      "imia": "Сергій Тігіпко",
+      "vik_simeinyi_stan": "52 роки, одружений, є четверо дітей",
+      "statky_mln_usd_2012": 785,
+      "statky_mln_usd_2011": 535,
+      "sfera_interesiv": "фінанси",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 16,
+      "imia": "Олег Мкртчан",
+      "vik_simeinyi_stan": "46 років, одружений, є троє синів і донька",
+      "statky_mln_usd_2012": 753,
+      "statky_mln_usd_2011": 730,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 17,
+      "imia": "Сергій Тарута",
+      "vik_simeinyi_stan": "57 років, одружений, має двох доньок",
+      "statky_mln_usd_2012": 751,
+      "statky_mln_usd_2011": 730,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 18,
+      "imia": "Юрій Іванющенко",
+      "vik_simeinyi_stan": "52 роки, одружений, виховує доньку та двох синів",
+      "statky_mln_usd_2012": 645,
+      "statky_mln_usd_2011": "—",
+      "sfera_interesiv": "вугільна промисловість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 19,
+      "imia": "Володимир Бойко",
+      "vik_simeinyi_stan": "74 роки, одружений, є донька.",
+      "statky_mln_usd_2012": 585,
+      "statky_mln_usd_2011": 300,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 20,
+      "imia": "Григорій та Ігор Суркіси",
+      "vik_simeinyi_stan": "63 роки, одружений, є син і донька",
+      "statky_mln_usd_2012": 574,
+      "statky_mln_usd_2011": 263,
+      "sfera_interesiv": "енергетика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 21,
+      "imia": "Андрій Веревський",
+      "vik_simeinyi_stan": "38 років, одружений, є двоє синів і дочка",
+      "statky_mln_usd_2012": 570,
+      "statky_mln_usd_2011": 716,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 22,
+      "imia": "В'ячеслав Богуслаєв",
+      "vik_simeinyi_stan": "74 роки, одружений, є син",
+      "statky_mln_usd_2012": 544,
+      "statky_mln_usd_2011": 704,
+      "sfera_interesiv": "авіабудування",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 23,
+      "imia": "Святослав Нечитайло",
+      "vik_simeinyi_stan": "38 років",
+      "statky_mln_usd_2012": 538,
+      "statky_mln_usd_2011": 476,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 24,
+      "imia": "Іван Гута",
+      "vik_simeinyi_stan": "56 років, одружений, є двоє синів і дочка",
+      "statky_mln_usd_2012": 536,
+      "statky_mln_usd_2011": 918,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 25,
+      "imia": "Борис Колесніков",
+      "vik_simeinyi_stan": "50 років, одружений, є син і дочка",
+      "statky_mln_usd_2012": 470,
+      "statky_mln_usd_2011": 448,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 26,
+      "imia": "Валерій Хорошковський",
+      "vik_simeinyi_stan": "43 роки, одружений, є двоє синів і дочка",
+      "statky_mln_usd_2012": 395,
+      "statky_mln_usd_2011": 599,
+      "sfera_interesiv": "мас-медіа",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 27,
+      "imia": "Анатолій Юркевич",
+      "vik_simeinyi_stan": "44 роки, одружений, є двоє синів і дочка",
+      "statky_mln_usd_2012": 390,
+      "statky_mln_usd_2011": 548,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 28,
+      "imia": "Володимир Костельман",
+      "vik_simeinyi_stan": "40 років, є дочка",
+      "statky_mln_usd_2012": 384,
+      "statky_mln_usd_2011": 350,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 29,
+      "imia": "Віталій Гайдук",
+      "vik_simeinyi_stan": "55 років, одружений, є син і дочка",
+      "statky_mln_usd_2012": 340,
+      "statky_mln_usd_2011": 481,
+      "sfera_interesiv": "мас-медіа",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 30,
+      "imia": "Олександр Фельдман",
+      "vik_simeinyi_stan": "52 роки, одружений, виховує сина",
+      "statky_mln_usd_2012": 291,
+      "statky_mln_usd_2011": 291,
+      "sfera_interesiv": "рітейл",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 31,
+      "imia": "Галина та Олександр Гереги",
+      "vik_simeinyi_stan": "53 роки, одружена, є син",
+      "statky_mln_usd_2012": 288,
+      "statky_mln_usd_2011": 407,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 32,
+      "imia": "Євген Сігал",
+      "vik_simeinyi_stan": "57 років, одружений є донька",
+      "statky_mln_usd_2012": 288,
+      "statky_mln_usd_2011": 407,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 33,
+      "imia": "Сергій та Олександр Буряки",
+      "vik_simeinyi_stan": "46 років, одружений, є син і донька",
+      "statky_mln_usd_2012": 280,
+      "statky_mln_usd_2011": 288,
+      "sfera_interesiv": "фінанси",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 34,
+      "imia": "Василь Хмельницький",
+      "vik_simeinyi_stan": "46 років, одружений, є двоє синів",
+      "statky_mln_usd_2012": 275,
+      "statky_mln_usd_2011": 289,
+      "sfera_interesiv": "нерухомість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 35,
+      "imia": "Євгеній Черняк",
+      "vik_simeinyi_stan": "43 роки, одружений, є троє синів",
+      "statky_mln_usd_2012": 270,
+      "statky_mln_usd_2011": 447,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 36,
+      "imia": "Вадим Єрмолаєв",
+      "vik_simeinyi_stan": "45 років, одружений, є син",
+      "statky_mln_usd_2012": 265,
+      "statky_mln_usd_2011": 332,
+      "sfera_interesiv": "рітейл",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 37,
+      "imia": "Віталій Антонов",
+      "vik_simeinyi_stan": "49 років, одружений, є дві доньки і син",
+      "statky_mln_usd_2012": 264,
+      "statky_mln_usd_2011": 356,
+      "sfera_interesiv": "нафтопереробка",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 38,
+      "imia": "Андрій Адамовський",
+      "vik_simeinyi_stan": "40 років",
+      "statky_mln_usd_2012": 263,
+      "statky_mln_usd_2011": 131,
+      "sfera_interesiv": "рітейл",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 39,
+      "imia": "Микола Лагун",
+      "vik_simeinyi_stan": "39 років, неодружений",
+      "statky_mln_usd_2012": 260,
+      "statky_mln_usd_2011": 119,
+      "sfera_interesiv": "фінанси",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 40,
+      "imia": "Микола Янковський",
+      "vik_simeinyi_stan": "68 років, одружений, є син і дочка",
+      "statky_mln_usd_2012": 256,
+      "statky_mln_usd_2011": 522,
+      "sfera_interesiv": "фармацевтика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 41,
+      "imia": "Геннадій Буткевич",
+      "vik_simeinyi_stan": "54 роки, одружений, є двоє дітей",
+      "statky_mln_usd_2012": 245,
+      "statky_mln_usd_2011": 226,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 42,
+      "imia": "Віктор Карачун",
+      "vik_simeinyi_stan": "46 років, одружений, є двоє дітей",
+      "statky_mln_usd_2012": 245,
+      "statky_mln_usd_2011": 226,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 43,
+      "imia": "Євген Єрмаков",
+      "vik_simeinyi_stan": "51 рік, одружений, є двоє дітей",
+      "statky_mln_usd_2012": 245,
+      "statky_mln_usd_2011": 226,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 44,
+      "imia": "Юхим Звягільський",
+      "vik_simeinyi_stan": "79 років, одружений, є дочка",
+      "statky_mln_usd_2012": 240,
+      "statky_mln_usd_2011": 504,
+      "sfera_interesiv": "гірничо-збагачувальна промисловість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 45,
+      "imia": "Георгій Скудар",
+      "vik_simeinyi_stan": "70 років, одружений, має двох доньок",
+      "statky_mln_usd_2012": 215,
+      "statky_mln_usd_2011": 438,
+      "sfera_interesiv": "важке машинобудування",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 46,
+      "imia": "Антон Пригодський",
+      "vik_simeinyi_stan": "62 роки, одружений, є двоє синів",
+      "statky_mln_usd_2012": 210,
+      "statky_mln_usd_2011": 276,
+      "sfera_interesiv": "транспорт",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 47,
+      "imia": "Олександр Кардаков",
+      "vik_simeinyi_stan": "48 років, одружений, є двоє синів",
+      "statky_mln_usd_2012": 209,
+      "statky_mln_usd_2011": 280,
+      "sfera_interesiv": "ІТ",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 48,
+      "imia": "Олег Сотников",
+      "vik_simeinyi_stan": "40 років, одружений, має двох синів",
+      "statky_mln_usd_2012": 196,
+      "statky_mln_usd_2011": 158,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 49,
+      "imia": "Роман Чигир",
+      "vik_simeinyi_stan": "38 років, розлучений, має двох синів",
+      "statky_mln_usd_2012": 196,
+      "statky_mln_usd_2011": 158,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 50,
+      "imia": "Станіслав Роніс",
+      "vik_simeinyi_stan": "48 років, одружений, має двох дітей",
+      "statky_mln_usd_2012": 188,
+      "statky_mln_usd_2011": 96,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 51,
+      "imia": "Віктор Іванчик",
+      "vik_simeinyi_stan": "55 років, одружений, має двох доньок",
+      "statky_mln_usd_2012": 186,
+      "statky_mln_usd_2011": 269,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 52,
+      "imia": "Андрій Іванов",
+      "vik_simeinyi_stan": "47 років, одружений, є двоє синів",
+      "statky_mln_usd_2012": 184,
+      "statky_mln_usd_2011": 145,
+      "sfera_interesiv": "нерухомість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 53,
+      "imia": "Таріел Васадзе",
+      "vik_simeinyi_stan": "65 років, одружений, є син і донька",
+      "statky_mln_usd_2012": 180,
+      "statky_mln_usd_2011": 297,
+      "sfera_interesiv": "автопром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 54,
+      "imia": "Філя Жебрівська",
+      "vik_simeinyi_stan": "62 роки, неодружена",
+      "statky_mln_usd_2012": 167,
+      "statky_mln_usd_2011": 138,
+      "sfera_interesiv": "фармацевтика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 55,
+      "imia": "Вадим і Володимир Трофименки",
+      "vik_simeinyi_stan": "51 рік, одружений, є четверо дітей 46 років одружений, є син і донька",
+      "statky_mln_usd_2012": 147,
+      "statky_mln_usd_2011": 108,
+      "sfera_interesiv": "будівництво",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 56,
+      "imia": "Ігор Єремеєв",
+      "vik_simeinyi_stan": "44 роки, одружений, є двоє синів",
+      "statky_mln_usd_2012": 145,
+      "statky_mln_usd_2011": 312,
+      "sfera_interesiv": "нафтопереробка",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 57,
+      "imia": "Степан Івахів",
+      "vik_simeinyi_stan": "44 роки, одружений, є син і дочка",
+      "statky_mln_usd_2012": 145,
+      "statky_mln_usd_2011": 312,
+      "sfera_interesiv": "нафтопереробка",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 58,
+      "imia": "Віктор Вишневецький",
+      "vik_simeinyi_stan": "44 роки, одружений",
+      "statky_mln_usd_2012": 144,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "вугільна промисловість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 59,
+      "imia": "Володимир Загорій",
+      "vik_simeinyi_stan": "60 років, одружений, є син і донька",
+      "statky_mln_usd_2012": 143,
+      "statky_mln_usd_2011": 124,
+      "sfera_interesiv": "фармацевтика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 60,
+      "imia": "Ігор Баленко",
+      "vik_simeinyi_stan": "54 роки, одружений, є двоє дітей",
+      "statky_mln_usd_2012": 142,
+      "statky_mln_usd_2011": 202,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 61,
+      "imia": "Олександр Янукович",
+      "vik_simeinyi_stan": "39 років, одружений, має двох синів",
+      "statky_mln_usd_2012": 133,
+      "statky_mln_usd_2011": 130,
+      "sfera_interesiv": "будівництво",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 62,
+      "imia": "Андрій та Сергій Клюєви",
+      "vik_simeinyi_stan": "48 років, одружений, має трьох дітей,??",
+      "statky_mln_usd_2012": 130,
+      "statky_mln_usd_2011": 140,
+      "sfera_interesiv": "енергетика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 63,
+      "imia": "Всеволод Кожем'яко",
+      "vik_simeinyi_stan": "40 років, одружений, має двох дочок.",
+      "statky_mln_usd_2012": 123,
+      "statky_mln_usd_2011": 126,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 64,
+      "imia": "Ігор Гуменюк",
+      "vik_simeinyi_stan": "51 рік, одружений, має трьох дітей.",
+      "statky_mln_usd_2012": 121,
+      "statky_mln_usd_2011": 136,
+      "sfera_interesiv": "гірничо-видобувна промисловість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 65,
+      "imia": "Ігор Дворецький",
+      "vik_simeinyi_stan": "49 років, має дочку.",
+      "statky_mln_usd_2012": 120,
+      "statky_mln_usd_2011": 458,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 66,
+      "imia": "Олександр Петров",
+      "vik_simeinyi_stan": "52 роки, одружений.",
+      "statky_mln_usd_2012": 111,
+      "statky_mln_usd_2011": 84,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 67,
+      "imia": "Леонід Климов",
+      "vik_simeinyi_stan": "59 років, одружений, має сина і двох дочок.",
+      "statky_mln_usd_2012": 108,
+      "statky_mln_usd_2011": 92,
+      "sfera_interesiv": "фінанси",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 68,
+      "imia": "Микола Толмачов",
+      "vik_simeinyi_stan": "51 рік, одружений, має трьох дітей.",
+      "statky_mln_usd_2012": 102,
+      "statky_mln_usd_2011": 248,
+      "sfera_interesiv": "будівництво",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 69,
+      "imia": "Артур Абдінов",
+      "vik_simeinyi_stan": "53 роки, одружений, має двох синів і дочку",
+      "statky_mln_usd_2012": 101,
+      "statky_mln_usd_2011": 425,
+      "sfera_interesiv": "металургія",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 70,
+      "imia": "Павло Климець",
+      "vik_simeinyi_stan": "45 років, одружений, має двох синів і дочку",
+      "statky_mln_usd_2012": 100,
+      "statky_mln_usd_2011": 258,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 71,
+      "imia": "Роман Лунін",
+      "vik_simeinyi_stan": "47 років, одружений, є син і дві доньки",
+      "statky_mln_usd_2012": 96,
+      "statky_mln_usd_2011": 182,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 72,
+      "imia": "Сергій Кий",
+      "vik_simeinyi_stan": "43 роки, неодружений, є син",
+      "statky_mln_usd_2012": 93,
+      "statky_mln_usd_2011": 81,
+      "sfera_interesiv": "гірничо-видобувна промисловість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 73,
+      "imia": "Валерій Кравець",
+      "vik_simeinyi_stan": "56 років, одружений, є діти",
+      "statky_mln_usd_2012": 92,
+      "statky_mln_usd_2011": 52,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 74,
+      "imia": "Володимир Авраменко",
+      "vik_simeinyi_stan": "53 роки, одружений, двоє синів",
+      "statky_mln_usd_2012": 92,
+      "statky_mln_usd_2011": 78,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 75,
+      "imia": "Петро Димінський",
+      "vik_simeinyi_stan": "58 років, одружений, є двоє дітей",
+      "statky_mln_usd_2012": 90,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "енергетика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 76,
+      "imia": "Сергій Лагур",
+      "vik_simeinyi_stan": "50 років, є четверо дітей",
+      "statky_mln_usd_2012": 90,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "енергетика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 77,
+      "imia": "Ольга та Євген Куценки",
+      "vik_simeinyi_stan": "Обом по 44 роки",
+      "statky_mln_usd_2012": 88,
+      "statky_mln_usd_2011": 98,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 78,
+      "imia": "Сергій Касьянов",
+      "vik_simeinyi_stan": "46 років, одружений",
+      "statky_mln_usd_2012": 78,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 79,
+      "imia": "Валентин Ландик",
+      "vik_simeinyi_stan": "66 років, одружений, є двоє дітей",
+      "statky_mln_usd_2012": 75,
+      "statky_mln_usd_2011": 118,
+      "sfera_interesiv": "виробництво побутової техніки",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 80,
+      "imia": "Олег Гросман",
+      "vik_simeinyi_stan": "55 років",
+      "statky_mln_usd_2012": 72,
+      "statky_mln_usd_2011": 145,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 81,
+      "imia": "Юрій Родін",
+      "vik_simeinyi_stan": "62 роки, одружений, має двох дітей",
+      "statky_mln_usd_2012": 72,
+      "statky_mln_usd_2011": 122,
+      "sfera_interesiv": "фінанси",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 82,
+      "imia": "Валерій Маковецький",
+      "vik_simeinyi_stan": "51 рік, одружений, має чотирьох дітей.",
+      "statky_mln_usd_2012": 69,
+      "statky_mln_usd_2011": 49,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 83,
+      "imia": "Геннадій Виходцев",
+      "vik_simeinyi_stan": "52 роки, одружений, має трьох дітей",
+      "statky_mln_usd_2012": 69,
+      "statky_mln_usd_2011": 49,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 84,
+      "imia": "Яків Грібов",
+      "vik_simeinyi_stan": "48 років одружений, має двох дітей",
+      "statky_mln_usd_2012": 63,
+      "statky_mln_usd_2011": 140,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 85,
+      "imia": "Володимир Вагоровський",
+      "vik_simeinyi_stan": "47 років, одружений, має дочку",
+      "statky_mln_usd_2012": 59,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 86,
+      "imia": "Юрій Журавльов",
+      "vik_simeinyi_stan": "54 роки, одружений, має сина",
+      "statky_mln_usd_2012": 58,
+      "statky_mln_usd_2011": 194,
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 87,
+      "imia": "Федір Шпиг",
+      "vik_simeinyi_stan": "56 років, одружений, має двох синів",
+      "statky_mln_usd_2012": 57,
+      "statky_mln_usd_2011": 144,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 88,
+      "imia": "Борис Бєліков",
+      "vik_simeinyi_stan": "43 роки, одружений, має двох дітей.",
+      "statky_mln_usd_2012": 56,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 89,
+      "imia": "Віталій Вересенко",
+      "vik_simeinyi_stan": "44 роки, одружений, має двох дітей",
+      "statky_mln_usd_2012": 56,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "АПК",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 90,
+      "imia": "Олександр Пилипенко",
+      "vik_simeinyi_stan": "57 років, одружений, має сина",
+      "statky_mln_usd_2012": 54,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "будівництво",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 91,
+      "imia": "Тетяна Засуха",
+      "vik_simeinyi_stan": "48 років, одружена, має сина",
+      "statky_mln_usd_2012": 54,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "агробізнес",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 92,
+      "imia": "Анатолій Кіпіш",
+      "vik_simeinyi_stan": "46 років",
+      "statky_mln_usd_2012": 53,
+      "statky_mln_usd_2011": 123,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 93,
+      "imia": "Віталій Кличко, Володимир Кличко",
+      "vik_simeinyi_stan": "41 рік, одружений, має трьох дітей; 36 років, неодружений",
+      "statky_mln_usd_2012": 50,
+      "statky_mln_usd_2011": 55,
+      "sfera_interesiv": "спорт",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 94,
+      "imia": "Олександр Деркач",
+      "vik_simeinyi_stan": "52 роки, одружений, має двох синів",
+      "statky_mln_usd_2012": 47,
+      "statky_mln_usd_2011": 144,
+      "sfera_interesiv": "харчпром",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 95,
+      "imia": "Анатолій Гіршфельд",
+      "vik_simeinyi_stan": "55 років, одружений, має двох синів",
+      "statky_mln_usd_2012": 46,
+      "statky_mln_usd_2011": 56,
+      "sfera_interesiv": "машинобудування",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 96,
+      "imia": "Олег Баришевський",
+      "vik_simeinyi_stan": "47 років",
+      "statky_mln_usd_2012": 46,
+      "statky_mln_usd_2011": 58,
+      "sfera_interesiv": "логістика",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 97,
+      "imia": "Іван Аврамов",
+      "vik_simeinyi_stan": "47 років",
+      "statky_mln_usd_2012": 46,
+      "statky_mln_usd_2011": "-",
+      "sfera_interesiv": "вугільна промисловість",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 98,
+      "imia": "Володимир Константінов",
+      "vik_simeinyi_stan": "56 років, одружений, має двох дітей",
+      "statky_mln_usd_2012": 45,
+      "statky_mln_usd_2011": 207,
+      "sfera_interesiv": "будівництво",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 99,
+      "imia": "Олександр Роднянський",
+      "vik_simeinyi_stan": "51 рік, одружений, має сина і дочку",
+      "statky_mln_usd_2012": 44,
+      "statky_mln_usd_2011": 83,
+      "sfera_interesiv": "мас-медіа",
+      "osnovni_aktyvy": ""
+    },
+    {
+      "mistse": 100,
+      "imia": "Володимир Шаповалов",
+      "vik_simeinyi_stan": "44 роки, одружений, має трьох дочок",
+      "statky_mln_usd_2012": 40,
+      "statky_mln_usd_2011": 50,
+      "sfera_interesiv": "торгівля",
+      "osnovni_aktyvy": ""
+    }
+  ],
+  "meta": {
+    "title": "Найзаможніші люди України 2012 року (рейтинг журналу «Кореспондент») - Free Download",
+    "description": "Рейтинг 100 найзаможніших людей України 2012 року за версією журналу «Кореспондент»: місце, вік, статки у 2012 та 2011 роках (млн доларів), сфера інтересів та основні активи. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найзаможніші люди України 2012 року (рейтинг журналу «Кореспондент») | ListBase",
+    "seo_description": "Download Найзаможніші люди України 2012 року (рейтинг журналу «Кореспондент») — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Найзаможніші_люди_України_2012"
+    ]
+  }
+}
