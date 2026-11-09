@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-09T02:17:56.707Z",
-  "total_datasets": 474,
-  "total_records": 474888,
+  "generated": "2026-11-09T02:18:06.879Z",
+  "total_datasets": 475,
+  "total_records": 474911,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -4544,6 +4544,33 @@
         "xlsx": {
           "name": "uk-smertnist-naselennia_UK.xlsx",
           "size": 7727
+        }
+      }
+    },
+    {
+      "id": "uk-hetmany-viiska-zaporozkoho",
+      "name": "Гетьмани Війська Запорозького (з 1648 року)",
+      "category": "history",
+      "record_count": 23,
+      "columns": [
+        "nomer",
+        "hetman",
+        "obranyi",
+        "obiiav_posadu",
+        "polyshyv_posadu",
+        "prymitky"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Гетьман_Війська_Запорозького",
+      "updated": "2026-11",
+      "size": 11528,
+      "files": {
+        "csv": {
+          "name": "uk-hetmany-viiska-zaporozkoho_UK.csv",
+          "size": 6262
+        },
+        "xlsx": {
+          "name": "uk-hetmany-viiska-zaporozkoho_UK.xlsx",
+          "size": 8874
         }
       }
     },
