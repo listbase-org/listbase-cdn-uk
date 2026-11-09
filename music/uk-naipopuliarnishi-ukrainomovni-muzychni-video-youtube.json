@@ -1,0 +1,2102 @@
+{
+  "id": "uk-naipopuliarnishi-ukrainomovni-muzychni-video-youtube",
+  "name": "Найпопулярніші україномовні музичні відео на YouTube",
+  "title": "Найпопулярніші україномовні музичні відео на YouTube",
+  "description": "Рейтинг україномовних музичних відео на YouTube за кількістю переглядів: назва, виконавець, кількість переглядів і дата завантаження.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_музичних_відео_на_YouTube",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_музичних_відео_на_YouTube",
+  "updated": "2026-11",
+  "record_count": 293,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "vykonavets",
+      "label": "Vykonavets",
+      "type": "string"
+    },
+    {
+      "key": "perehliady",
+      "label": "Perehliady",
+      "type": "number"
+    },
+    {
+      "key": "data_zavantazhennia",
+      "label": "Data Zavantazhennia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "nazva": "« Плакала » (офіційне відео)",
+      "vykonavets": "KAZKA",
+      "perehliady": 502049215,
+      "data_zavantazhennia": "25 вересня 2018"
+    },
+    {
+      "nomer": 2,
+      "nazva": "«Додому»",
+      "vykonavets": "Kalush та Skofka",
+      "perehliady": 109747051,
+      "data_zavantazhennia": "21 травня 2021"
+    },
+    {
+      "nomer": 3,
+      "nazva": "«Врубай»",
+      "vykonavets": "Parfeniuk",
+      "perehliady": 106310621,
+      "data_zavantazhennia": "31 жовтня 2024"
+    },
+    {
+      "nomer": 4,
+      "nazva": "« Дим »",
+      "vykonavets": "Время и Стекло",
+      "perehliady": 92273575,
+      "data_zavantazhennia": "21 березня 2019"
+    },
+    {
+      "nomer": 5,
+      "nazva": "« Дежавю »",
+      "vykonavets": "Артем Пивоваров",
+      "perehliady": 88516354,
+      "data_zavantazhennia": "17 червня 2020"
+    },
+    {
+      "nomer": 6,
+      "nazva": "«Сексуальна»",
+      "vykonavets": "Mirami (та VovaZIL'Vova)",
+      "perehliady": 85226766,
+      "data_zavantazhennia": "22 березня 2011"
+    },
+    {
+      "nomer": 7,
+      "nazva": "«Стефанія»",
+      "vykonavets": "Kalush Orchestra",
+      "perehliady": 82808832,
+      "data_zavantazhennia": "15 травня 2022"
+    },
+    {
+      "nomer": 8,
+      "nazva": "« Прірва »",
+      "vykonavets": "The Hardkiss",
+      "perehliady": 82830087,
+      "data_zavantazhennia": "9 січня 2016"
+    },
+    {
+      "nomer": 9,
+      "nazva": "«Барабан»",
+      "vykonavets": "Артем Пивоваров та Klavdia Petrivna",
+      "perehliady": 78396775,
+      "data_zavantazhennia": "25 квітня 2024"
+    },
+    {
+      "nomer": 10,
+      "nazva": "«Порічка»",
+      "vykonavets": "YAKTAK та KOLA",
+      "perehliady": 76233163,
+      "data_zavantazhennia": "6 квітня 2023"
+    },
+    {
+      "nomer": 11,
+      "nazva": "«Якби не ти»",
+      "vykonavets": "Максим Бородін",
+      "perehliady": 75009977,
+      "data_zavantazhennia": "24 травня 2023"
+    },
+    {
+      "nomer": 12,
+      "nazva": "«Нагадай»",
+      "vykonavets": "Domiy",
+      "perehliady": 75150882,
+      "data_zavantazhennia": "15 грудня 2023"
+    },
+    {
+      "nomer": 13,
+      "nazva": "« Тримай »",
+      "vykonavets": "Христина Соловій",
+      "perehliady": 74237633,
+      "data_zavantazhennia": "8 квітня 2015"
+    },
+    {
+      "nomer": 14,
+      "nazva": "« Чути гімн »",
+      "vykonavets": "Skofka",
+      "perehliady": 74125649,
+      "data_zavantazhennia": "1 серпня 2022"
+    },
+    {
+      "nomer": 15,
+      "nazva": "«Покохай мене»",
+      "vykonavets": "Chico & Qatoshi, 100лиця",
+      "perehliady": 72573727,
+      "data_zavantazhennia": "12 листопада 2023"
+    },
+    {
+      "nomer": 168,
+      "nazva": "« Обійми »",
+      "vykonavets": "Океан Ельзи",
+      "perehliady": 72327644,
+      "data_zavantazhennia": "27 лютого 2013"
+    },
+    {
+      "nomer": 17,
+      "nazva": "«Погляд»",
+      "vykonavets": "YAKTAK та SOBOL",
+      "perehliady": 68005733,
+      "data_zavantazhennia": "13 жовтня 2022"
+    },
+    {
+      "nomer": 18,
+      "nazva": "«Думи»",
+      "vykonavets": "Артем Пивоваров та DOROFEEVA",
+      "perehliady": 67754419,
+      "data_zavantazhennia": "3 червня 2022"
+    },
+    {
+      "nomer": 19,
+      "nazva": "«Уночі»",
+      "vykonavets": "YAKTAK",
+      "perehliady": 67502799,
+      "data_zavantazhennia": "18 серпня 2023"
+    },
+    {
+      "nomer": 20,
+      "nazva": "«The Forest Song. Official Teaser Trailer 1» офіційний трейлер до мультфільму «Мавка»",
+      "vykonavets": "ДахаБраха",
+      "perehliady": 60477679,
+      "data_zavantazhennia": "18 липня 2018"
+    },
+    {
+      "nomer": 21,
+      "nazva": "«Там у тополі»",
+      "vykonavets": "Артем Пивоваров & NK",
+      "perehliady": 59679097,
+      "data_zavantazhennia": "11 листопада 2022"
+    },
+    {
+      "nomer": 22,
+      "nazva": "«Чорне і біле» [official video]",
+      "vykonavets": "ZOZULYA",
+      "perehliady": 58343315,
+      "data_zavantazhennia": "24 серпня 2018"
+    },
+    {
+      "nomer": 23,
+      "nazva": "«Ти щаслива будеш / Гай, зелений гай»",
+      "vykonavets": "Dima Prokopov",
+      "perehliady": 55274373,
+      "data_zavantazhennia": "1 грудня 2022"
+    },
+    {
+      "nomer": 24,
+      "nazva": "«СМАРАГДОВЕ НЕБО»",
+      "vykonavets": "DREVO",
+      "perehliady": 55039773,
+      "data_zavantazhennia": "23 травня 2025"
+    },
+    {
+      "nomer": 25,
+      "nazva": "« Вихідний »",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 53531338,
+      "data_zavantazhennia": "22 листопада 2017"
+    },
+    {
+      "nomer": 26,
+      "nazva": "«Люди»",
+      "vykonavets": "Бумбокс",
+      "perehliady": 52243781,
+      "data_zavantazhennia": "22 грудня 2015"
+    },
+    {
+      "nomer": 27,
+      "nazva": "«Гуси»",
+      "vykonavets": "Wellboy",
+      "perehliady": 51049551,
+      "data_zavantazhennia": "25 червня 2021"
+    },
+    {
+      "nomer": 28,
+      "nazva": "« Вовчиця »",
+      "vykonavets": "Олег Винник",
+      "perehliady": 50087268,
+      "data_zavantazhennia": "10 травня 2016"
+    },
+    {
+      "nomer": 29,
+      "nazva": "«Місто весни»",
+      "vykonavets": "гурти «Океан Ельзи» та «Один в каное»",
+      "perehliady": 49965874,
+      "data_zavantazhennia": "8 вересня 2021"
+    },
+    {
+      "nomer": 30,
+      "nazva": "«Гоп, гоп»",
+      "vykonavets": "Вірка Сердючка",
+      "perehliady": 49765991,
+      "data_zavantazhennia": "12 червня 2006"
+    },
+    {
+      "nomer": 31,
+      "nazva": "«Чекає вдома»",
+      "vykonavets": "YAKTAK та DOVI",
+      "perehliady": 48730699,
+      "data_zavantazhennia": "22 грудня 2022"
+    },
+    {
+      "nomer": 32,
+      "nazva": "«Очі»",
+      "vykonavets": "Артем Пивоваров та Quest Pistols",
+      "perehliady": 49379639,
+      "data_zavantazhennia": "1 травня 2023"
+    },
+    {
+      "nomer": 33,
+      "nazva": "«Найкращий день»",
+      "vykonavets": "Потап і Олег Винник",
+      "perehliady": 48245119,
+      "data_zavantazhennia": "13 вересня 2018"
+    },
+    {
+      "nomer": 34,
+      "nazva": "«Дим»",
+      "vykonavets": "гурт «Без Обмежень»",
+      "perehliady": 48219843,
+      "data_zavantazhennia": "21 липня 2023"
+    },
+    {
+      "nomer": 34,
+      "nazva": "«Буревіями»",
+      "vykonavets": "SHUMEI та ZLATA OGNEVICH",
+      "perehliady": 47625657,
+      "data_zavantazhennia": "18 квітня 2023"
+    },
+    {
+      "nomer": 35,
+      "nazva": "«Мужчина»",
+      "vykonavets": "Alena Omargalieva",
+      "perehliady": 46626194,
+      "data_zavantazhennia": "27 березня 2025"
+    },
+    {
+      "nomer": 36,
+      "nazva": "«Штефан» Štefan",
+      "vykonavets": "Hrdza",
+      "perehliady": 46522743,
+      "data_zavantazhennia": "7 грудня 2018"
+    },
+    {
+      "nomer": 37,
+      "nazva": "«Хочеш»",
+      "vykonavets": "DIBROVA & Олена Тополя",
+      "perehliady": 46099467,
+      "data_zavantazhennia": "7 червня 2024"
+    },
+    {
+      "nomer": 38,
+      "nazva": "« Свята »",
+      "vykonavets": "гурт «KAZKA»",
+      "perehliady": 45877228,
+      "data_zavantazhennia": "3 жовтня 2017"
+    },
+    {
+      "nomer": 39,
+      "nazva": "«Павук»",
+      "vykonavets": "DZIDZIO і Вова зі Львова",
+      "perehliady": 45588668,
+      "data_zavantazhennia": "20 червня 2014"
+    },
+    {
+      "nomer": 40,
+      "nazva": "«Люди, як кораблі» офіційне кавер-відео на пісню гурту Скрябін",
+      "vykonavets": "гурт «Антитіла»",
+      "perehliady": 44703987,
+      "data_zavantazhennia": "21 січня 2016"
+    },
+    {
+      "nomer": 41,
+      "nazva": "« SHUM » Official Music Video — Eurovision 2021",
+      "vykonavets": "гурт «Go A»",
+      "perehliady": 43001317,
+      "data_zavantazhennia": "9 березня 2021"
+    },
+    {
+      "nomer": 42,
+      "nazva": "«Татанці»",
+      "vykonavets": "NAVKA",
+      "perehliady": 42985136,
+      "data_zavantazhennia": "27 квітня 2018"
+    },
+    {
+      "nomer": 43,
+      "nazva": "«Давай начистоту»",
+      "vykonavets": "гурти Kalush та Skofka",
+      "perehliady": 42930830,
+      "data_zavantazhennia": "30 червня 2021"
+    },
+    {
+      "nomer": 44,
+      "nazva": "«Олєг»",
+      "vykonavets": "Шугар",
+      "perehliady": 42387104,
+      "data_zavantazhennia": "2 лютого 2024"
+    },
+    {
+      "nomer": 45,
+      "nazva": "«Скажи мені»",
+      "vykonavets": "Максим Бородін",
+      "perehliady": 42024484,
+      "data_zavantazhennia": "3 листопада 2023"
+    },
+    {
+      "nomer": 46,
+      "nazva": "«Тебе це не стосується»",
+      "vykonavets": "paashee",
+      "perehliady": 42038862,
+      "data_zavantazhennia": "1 березня 2025"
+    },
+    {
+      "nomer": 47,
+      "nazva": "«ЗОРІ ЗАПАЛАЛИ» [OFFICIAL VIDEO]",
+      "vykonavets": "Без Обмежень",
+      "perehliady": 41078634,
+      "data_zavantazhennia": "15 лютого 2019"
+    },
+    {
+      "nomer": 48,
+      "nazva": "«Тьотя»",
+      "vykonavets": "Шугар",
+      "perehliady": 40938952,
+      "data_zavantazhennia": "25 квітня 2024"
+    },
+    {
+      "nomer": 49,
+      "nazva": "«На небі»",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 40709891,
+      "data_zavantazhennia": "14 лютого 2015"
+    },
+    {
+      "nomer": 50,
+      "nazva": "«ВАНЬКА-ВСТАНЬКА»",
+      "vykonavets": "Маша Кондратенко",
+      "perehliady": 40574831,
+      "data_zavantazhennia": "18 липня 2022"
+    },
+    {
+      "nomer": 51,
+      "nazva": "«Погані сусіди»",
+      "vykonavets": "Skofka",
+      "perehliady": 40432968,
+      "data_zavantazhennia": "24 травня 2023"
+    },
+    {
+      "nomer": 52,
+      "nazva": "« Не йди »",
+      "vykonavets": "Океан Ельзи",
+      "perehliady": 40390716,
+      "data_zavantazhennia": "20 квітня 2016"
+    },
+    {
+      "nomer": 53,
+      "nazva": "« Яворина »",
+      "vykonavets": "Степан Гіга",
+      "perehliady": 40456404,
+      "data_zavantazhennia": "11 лютого 2012"
+    },
+    {
+      "nomer": 54,
+      "nazva": "«Щоб не було» (Lyric Video)",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 39445366,
+      "data_zavantazhennia": "8 грудня 2022"
+    },
+    {
+      "nomer": 55,
+      "nazva": "«Не п'яна - закохана» (Official Music Video)",
+      "vykonavets": "Alena Omargalieva",
+      "perehliady": 39354275,
+      "data_zavantazhennia": "17 листопада 2025"
+    },
+    {
+      "nomer": 56,
+      "nazva": "«Каділак»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 39273004,
+      "data_zavantazhennia": "23 березня 2012"
+    },
+    {
+      "nomer": 57,
+      "nazva": "«Я і Сара»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 39265167,
+      "data_zavantazhennia": "15 листопада 2013"
+    },
+    {
+      "nomer": 58,
+      "nazva": "«УКРАЇНА ПЕРЕМОЖЕ»",
+      "vykonavets": "Олександр Пономарьов, Михайло Хома, Тарас Тополя, Євген Кошовий, Юрій Ткач, Петро Чорний",
+      "perehliady": 38801182,
+      "data_zavantazhennia": "18 квітня 2022"
+    },
+    {
+      "nomer": 59,
+      "nazva": "«Афини» [Official Music Video]",
+      "vykonavets": "FIЇNKA",
+      "perehliady": 38437970,
+      "data_zavantazhennia": "1 серпня 2025"
+    },
+    {
+      "nomer": 60,
+      "nazva": "« Журавлi »",
+      "vykonavets": "гурт «The Hardkiss»",
+      "perehliady": 38377500,
+      "data_zavantazhennia": "21 липня 2017"
+    },
+    {
+      "nomer": 61,
+      "nazva": "«В дорогу»",
+      "vykonavets": "Skofka",
+      "perehliady": 38102373,
+      "data_zavantazhennia": "11 лютого 2022"
+    },
+    {
+      "nomer": 62,
+      "nazva": "«Дике поле» (ANIMATION CLIP)",
+      "vykonavets": "Yarmak та ALISA",
+      "perehliady": 37857567,
+      "data_zavantazhennia": "2 липня 2022"
+    },
+    {
+      "nomer": 63,
+      "nazva": "«Ой у лузі червона калина»",
+      "vykonavets": "Андрій Хливнюк, а також NK, Іван Дорн, Дмитро Каднай, Наталія Могилевська, Хас, Надія Дорофеєва, Оля Полякова, Павло Зібров, Єгор Крутоголов, Юрій Ткач, Леся Никитюк, Джамала та хлопчик Леона з фінальною фразою Наталії Могилевської «Доброго вечора! Ми з України!»",
+      "perehliady": 37830443,
+      "data_zavantazhennia": "2 квітня 2022"
+    },
+    {
+      "nomer": 64,
+      "nazva": "« TDME »",
+      "vykonavets": "гурт «Антитіла»",
+      "perehliady": 37670913,
+      "data_zavantazhennia": "30 листопада 2017"
+    },
+    {
+      "nomer": 65,
+      "nazva": "«Кобра» (official video)",
+      "vykonavets": "гурт «The Hardkiss» та MONATIK",
+      "perehliady": 37653563,
+      "data_zavantazhennia": "27 серпня 2020"
+    },
+    {
+      "nomer": 66,
+      "nazva": "«Вишні»",
+      "vykonavets": "Wellboy",
+      "perehliady": 37256683,
+      "data_zavantazhennia": "22 жовтня 2021"
+    },
+    {
+      "nomer": 67,
+      "nazva": "«Додай гучності (12 points)» [Official Music Video]",
+      "vykonavets": "Jerry Heil",
+      "perehliady": 37651970,
+      "data_zavantazhennia": "30 серпня 2025"
+    },
+    {
+      "nomer": 68,
+      "nazva": "«Твоя»",
+      "vykonavets": "Alena Omargalieva",
+      "perehliady": 37203418,
+      "data_zavantazhennia": "21 листопада 2024"
+    },
+    {
+      "nomer": 69,
+      "nazva": "«Питань нема»",
+      "vykonavets": "Victoria Niro",
+      "perehliady": 36511970,
+      "data_zavantazhennia": "28 серпня 2025"
+    },
+    {
+      "nomer": 70,
+      "nazva": "«Файна»",
+      "vykonavets": "Kalush та Skofka",
+      "perehliady": 36455568,
+      "data_zavantazhennia": "6 серпня 2021"
+    },
+    {
+      "nomer": 71,
+      "nazva": "«108»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 36376861,
+      "data_zavantazhennia": "5 жовтня 2016"
+    },
+    {
+      "nomer": 72,
+      "nazva": "« Хто, як не ти? »",
+      "vykonavets": "Христина Соловій",
+      "perehliady": 36405373,
+      "data_zavantazhennia": "1 грудня 2016"
+    },
+    {
+      "nomer": 73,
+      "nazva": "«Забий»",
+      "vykonavets": "Wellboy & Parfeniuk",
+      "perehliady": 36394441,
+      "data_zavantazhennia": "16 лютого 2024"
+    },
+    {
+      "nomer": 74,
+      "nazva": "«Чекаю. Цьом»",
+      "vykonavets": "DZIDZIO і Оля Цибульська",
+      "perehliady": 35469898,
+      "data_zavantazhennia": "15 червня 2017"
+    },
+    {
+      "nomer": 75,
+      "nazva": "«Зорі»",
+      "vykonavets": "гурт «Kalush»",
+      "perehliady": 35778690,
+      "data_zavantazhennia": "27 жовтня 2020"
+    },
+    {
+      "nomer": 76,
+      "nazva": "«Люби мене»",
+      "vykonavets": "SKYLERR & Agape",
+      "perehliady": 35584630,
+      "data_zavantazhennia": "21 червня 2024"
+    },
+    {
+      "nomer": 77,
+      "nazva": "«Мрієшся»",
+      "vykonavets": "Cheev",
+      "perehliady": 35554230,
+      "data_zavantazhennia": "30 вересня 2021"
+    },
+    {
+      "nomer": 78,
+      "nazva": "«А я все плакала»",
+      "vykonavets": "DOROFEEVA та LEBIGA",
+      "perehliady": 35235278,
+      "data_zavantazhennia": "18 квітня 2024"
+    },
+    {
+      "nomer": 79,
+      "nazva": "«Джеральдіна»",
+      "vykonavets": "Арсен Мірзоян",
+      "perehliady": 35043651,
+      "data_zavantazhennia": "9 березня 2017"
+    },
+    {
+      "nomer": 80,
+      "nazva": "«Люди»",
+      "vykonavets": "MamaRika & KOLA",
+      "perehliady": 33962813,
+      "data_zavantazhennia": "17 лютого 2023"
+    },
+    {
+      "nomer": 81,
+      "nazva": "«Додому»",
+      "vykonavets": "Wellboy",
+      "perehliady": 33189938,
+      "data_zavantazhennia": "16 грудня 2022"
+    },
+    {
+      "nomer": 82,
+      "nazva": "«Все пробачати»",
+      "vykonavets": "Dan Balan та Оксана Муха",
+      "perehliady": 33450825,
+      "data_zavantazhennia": "15 травня 2020"
+    },
+    {
+      "nomer": 83,
+      "nazva": "« Без тебе »",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 33447340,
+      "data_zavantazhennia": "29 травня 2018"
+    },
+    {
+      "nomer": 84,
+      "nazva": "«Не забудем і не пробачим»",
+      "vykonavets": "Skofka",
+      "perehliady": 33260215,
+      "data_zavantazhennia": "6 травня 2022"
+    },
+    {
+      "nomer": 85,
+      "nazva": "«Смерека»",
+      "vykonavets": "Олександр Кварта",
+      "perehliady": 33096495,
+      "data_zavantazhennia": "28 січня 2014"
+    },
+    {
+      "nomer": 86,
+      "nazva": "«Кораблі»",
+      "vykonavets": "гурт «The Hardkiss»",
+      "perehliady": 32623177,
+      "data_zavantazhennia": "9 листопада 2017"
+    },
+    {
+      "nomer": 87,
+      "nazva": "«Без тебе»",
+      "vykonavets": "Максим Бородін та ZLATA OGNEVICH",
+      "perehliady": 31740205,
+      "data_zavantazhennia": "15 серпня 2024"
+    },
+    {
+      "nomer": 88,
+      "nazva": "«Батьківщина»",
+      "vykonavets": "гурти «Kalush» та «Skofka»",
+      "perehliady": 31172281,
+      "data_zavantazhennia": "16 грудня 2022"
+    },
+    {
+      "nomer": 89,
+      "nazva": "«Тебе знайшов»",
+      "vykonavets": "Volkanov",
+      "perehliady": 31168106,
+      "data_zavantazhennia": "24 листопада 2023"
+    },
+    {
+      "nomer": 90,
+      "nazva": "«Біля Тополі» (Cover Гурт Enej)",
+      "vykonavets": "SHUMEI",
+      "perehliady": 30895769,
+      "data_zavantazhennia": "1 квітня 2022"
+    },
+    {
+      "nomer": 91,
+      "nazva": "«Енкарапіста»",
+      "vykonavets": "DREVO",
+      "perehliady": 30881473,
+      "data_zavantazhennia": "26 грудня 2025"
+    },
+    {
+      "nomer": 92,
+      "nazva": "«Зорепад»",
+      "vykonavets": "Max Barskih",
+      "perehliady": 30619804,
+      "data_zavantazhennia": "8 вересня 2023"
+    },
+    {
+      "nomer": 93,
+      "nazva": "«Незламна»",
+      "vykonavets": "Люся Кава",
+      "perehliady": 30674311,
+      "data_zavantazhennia": "9 червня 2022"
+    },
+    {
+      "nomer": 94,
+      "nazva": "«Акація»",
+      "vykonavets": "Chico & Qatoshi & paashee",
+      "perehliady": 30478660,
+      "data_zavantazhennia": "15 листопада 2024"
+    },
+    {
+      "nomer": 95,
+      "nazva": "«Кохаю, але не зовсім»",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 30367032,
+      "data_zavantazhennia": "21 червня 2023"
+    },
+    {
+      "nomer": 96,
+      "nazva": "«Місця щасливих людей»",
+      "vykonavets": "гурт «Скрябін»",
+      "perehliady": 30300727,
+      "data_zavantazhennia": "17 жовтня 2011"
+    },
+    {
+      "nomer": 97,
+      "nazva": "«Банда-банда»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 30150842,
+      "data_zavantazhennia": "14 березня 2017"
+    },
+    {
+      "nomer": 98,
+      "nazva": "«Фортеця Бахмут»",
+      "vykonavets": "Антитіла",
+      "perehliady": 30091531,
+      "data_zavantazhennia": "10 лютого 2023"
+    },
+    {
+      "nomer": 99,
+      "nazva": "«Враже» (офійційний виднограй)",
+      "vykonavets": "Енджі Крейда",
+      "perehliady": 30088430,
+      "data_zavantazhennia": "23 травня 2022"
+    },
+    {
+      "nomer": 100,
+      "nazva": "«Лелека»",
+      "vykonavets": "MamaRika & YAKTAK",
+      "perehliady": 30006341,
+      "data_zavantazhennia": "10 листопада 2022"
+    },
+    {
+      "nomer": 102,
+      "nazva": "«Марічка» (Official Lyric Video)",
+      "vykonavets": "Patsyki z Franeka",
+      "perehliady": 29709435,
+      "data_zavantazhennia": "25 травня 2019"
+    },
+    {
+      "nomer": 103,
+      "nazva": "« Не твоя війна »",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 29291147,
+      "data_zavantazhennia": "26 квітня 2015"
+    },
+    {
+      "nomer": 104,
+      "nazva": "«Не знаю»",
+      "vykonavets": "Victoria Niro",
+      "perehliady": 29284084,
+      "data_zavantazhennia": "11 квітня 2024"
+    },
+    {
+      "nomer": 105,
+      "nazva": "«Цвіте калина»",
+      "vykonavets": "Ірина Федишин",
+      "perehliady": 28813242,
+      "data_zavantazhennia": "30 березня 2014"
+    },
+    {
+      "nomer": 106,
+      "nazva": "«Легковажна»",
+      "vykonavets": "гурт «СКАЙ»",
+      "perehliady": 28809014,
+      "data_zavantazhennia": "16 квітня 2021"
+    },
+    {
+      "nomer": 107,
+      "nazva": "«Гарно так»",
+      "vykonavets": "Cheev",
+      "perehliady": 28161333,
+      "data_zavantazhennia": "3 грудня 2021"
+    },
+    {
+      "nomer": 108,
+      "nazva": "« Я так хочу… »",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 28119704,
+      "data_zavantazhennia": "20 грудня 2009"
+    },
+    {
+      "nomer": 109,
+      "nazva": "«Гори»",
+      "vykonavets": "гурт «Kalush» та Alyona alyona",
+      "perehliady": 27853444,
+      "data_zavantazhennia": "9 грудня 2019"
+    },
+    {
+      "nomer": 110,
+      "nazva": "«Teresa & Maria» | Grand Final | Eurovision 2024 | SOCIAL VIDEO",
+      "vykonavets": "Jerry Heil та alyona alyona",
+      "perehliady": 27857051,
+      "data_zavantazhennia": "11 травня 2024"
+    },
+    {
+      "nomer": 111,
+      "nazva": "«Червоний мак» (new 🎧 2026)",
+      "vykonavets": "Kolibri, Zlata Ko",
+      "perehliady": 28028902,
+      "data_zavantazhennia": "19 травня 2026"
+    },
+    {
+      "nomer": 112,
+      "nazva": "«Не лякай»",
+      "vykonavets": "OSTY та Klavdia Petrivna",
+      "perehliady": 27784275,
+      "data_zavantazhennia": "6 вересня 2024"
+    },
+    {
+      "nomer": 113,
+      "nazva": "«Ліфт»",
+      "vykonavets": "SKYLERR та Нікіта Кісельов",
+      "perehliady": 27432829,
+      "data_zavantazhennia": "10 листопада 2023"
+    },
+    {
+      "nomer": 114,
+      "nazva": "«Калуські вечорниці»",
+      "vykonavets": "гурт «Kalush» та Tember Blanche",
+      "perehliady": 27223311,
+      "data_zavantazhennia": "17 грудня 2021"
+    },
+    {
+      "nomer": 115,
+      "nazva": "«Маніфест»",
+      "vykonavets": "Артем Пивоваров",
+      "perehliady": 27032426,
+      "data_zavantazhennia": "13 січня 2023"
+    },
+    {
+      "nomer": 116,
+      "nazva": "«Йо-йо»",
+      "vykonavets": "Настя Борщ та Шугар",
+      "perehliady": 27021500,
+      "data_zavantazhennia": "15 серпня 2025"
+    },
+    {
+      "nomer": 117,
+      "nazva": "«На порозі»",
+      "vykonavets": "Domiy",
+      "perehliady": 26889272,
+      "data_zavantazhennia": "22 червня 2024"
+    },
+    {
+      "nomer": 118,
+      "nazva": "«Сусіди»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 26786437,
+      "data_zavantazhennia": "14 березня 2013"
+    },
+    {
+      "nomer": 120,
+      "nazva": "«Вірила» (official video)",
+      "vykonavets": "гурт «Антитіла»",
+      "perehliady": 26496500,
+      "data_zavantazhennia": "29 січня 2019"
+    },
+    {
+      "nomer": 121,
+      "nazva": "« Мить »",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 26253270,
+      "data_zavantazhennia": "4 грудня 2015"
+    },
+    {
+      "nomer": 122,
+      "nazva": "«Як жити без тебе»",
+      "vykonavets": "Олег Винник",
+      "perehliady": 26064018,
+      "data_zavantazhennia": "14 грудня 2017"
+    },
+    {
+      "nomer": 123,
+      "nazva": "«Королєва»",
+      "vykonavets": "Цвіт Кульбаби",
+      "perehliady": 25791385,
+      "data_zavantazhennia": "16 серпня 2015"
+    },
+    {
+      "nomer": 124,
+      "nazva": "«Не мовчи»",
+      "vykonavets": "YAKTAK",
+      "perehliady": 25544218,
+      "data_zavantazhennia": "17 листопада 2022"
+    },
+    {
+      "nomer": 125,
+      "nazva": "«Гуляли»",
+      "vykonavets": "KOZAK SIROMAHA",
+      "perehliady": 25327106,
+      "data_zavantazhennia": "22 грудня 2022"
+    },
+    {
+      "nomer": 126,
+      "nazva": "«Я нікому тебе не віддам» (виступ на День Незалежності 2021)",
+      "vykonavets": "Роман Скорпіон & Тоня Матвієнко",
+      "perehliady": 25196032,
+      "data_zavantazhennia": "21 серпня 2021"
+    },
+    {
+      "nomer": 128,
+      "nazva": "«Я — міліонер»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 24988125,
+      "data_zavantazhennia": "30 серпня 2019"
+    },
+    {
+      "nomer": 129,
+      "nazva": "«Без бою»",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 24700399,
+      "data_zavantazhennia": "10 листопада 2009"
+    },
+    {
+      "nomer": 130,
+      "nazva": "«Зірочка палай» (Official Music Video)",
+      "vykonavets": "Анна Трінчер",
+      "perehliady": 24699491,
+      "data_zavantazhennia": "3 квітня 2025"
+    },
+    {
+      "nomer": 132,
+      "nazva": "«Браття Українці /Гімн Оборони України»",
+      "vykonavets": "Шабля",
+      "perehliady": 24533972,
+      "data_zavantazhennia": "16 квітня 2014"
+    },
+    {
+      "nomer": 135,
+      "nazva": "« Така, як ти »",
+      "vykonavets": "гурт «Океан Ельзи» (опубліковано як відео Святослава Вакарчука)",
+      "perehliady": "23 825 787**",
+      "data_zavantazhennia": "14 квітня 2012"
+    },
+    {
+      "nomer": 135,
+      "nazva": "«Промінь»",
+      "vykonavets": "гурт «Mozgi», зокрема Потап та Позитив, DOROFEEVA, Мішель Андраде",
+      "perehliady": 23781612,
+      "data_zavantazhennia": "10 травня 2018"
+    },
+    {
+      "nomer": 136,
+      "nazva": "«Міраж»",
+      "vykonavets": "Артем Пивоваров",
+      "perehliady": 23738904,
+      "data_zavantazhennia": "16 листопада 2021"
+    },
+    {
+      "nomer": 137,
+      "nazva": "«Без неї ніяк»",
+      "vykonavets": "гурт «Без Обмежень»",
+      "perehliady": 23571602,
+      "data_zavantazhennia": "30 серпня 2016"
+    },
+    {
+      "nomer": 138,
+      "nazva": "« Стріляй »",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 23500351,
+      "data_zavantazhennia": "18 квітня 2013"
+    },
+    {
+      "nomer": 139,
+      "nazva": "«Не пройде»",
+      "vykonavets": "Domiy & SHUMEI",
+      "perehliady": 23459313,
+      "data_zavantazhennia": "25 жовтня 2024"
+    },
+    {
+      "nomer": 140,
+      "nazva": "«Хай пишуть»",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 23257407,
+      "data_zavantazhennia": "7 грудня 2023"
+    },
+    {
+      "nomer": 141,
+      "nazva": "« Двічі в одну річку не ввійдеш »",
+      "vykonavets": "Юлія Думанська",
+      "perehliady": 23025914,
+      "data_zavantazhennia": "25 січня 2016"
+    },
+    {
+      "nomer": 142,
+      "nazva": "«Хартбіт»",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 22970502,
+      "data_zavantazhennia": "20 червня 2024"
+    },
+    {
+      "nomer": 143,
+      "nazva": "«Хочеш»",
+      "vykonavets": "гурт «Без Обмежень»",
+      "perehliady": 22802293,
+      "data_zavantazhennia": "8 лютого 2018"
+    },
+    {
+      "nomer": 144,
+      "nazva": "«Ой на, ой»",
+      "vykonavets": "гурт «Skofka»",
+      "perehliady": 22731282,
+      "data_zavantazhennia": "18 березня 2022"
+    },
+    {
+      "nomer": 145,
+      "nazva": "«Обіцяю»",
+      "vykonavets": "NK",
+      "perehliady": 22511873,
+      "data_zavantazhennia": "25 квітня 2019"
+    },
+    {
+      "nomer": 146,
+      "nazva": "« Мати каже правду »",
+      "vykonavets": "Олег Винник",
+      "perehliady": 22172213,
+      "data_zavantazhennia": "22 листопада 2018"
+    },
+    {
+      "nomer": 147,
+      "nazva": "« Мам » [Official Video]",
+      "vykonavets": "гурт «Скрябін»",
+      "perehliady": 22354883,
+      "data_zavantazhennia": "14 квітня 2012"
+    },
+    {
+      "nomer": 148,
+      "nazva": "«Не цілуй»",
+      "vykonavets": "гурт «ТІК» та Ірина Білик",
+      "perehliady": 22038626,
+      "data_zavantazhennia": "30 жовтня 2011"
+    },
+    {
+      "nomer": 149,
+      "nazva": "« У мене немає дому »",
+      "vykonavets": "гурт «Один в каное»",
+      "perehliady": 21538649,
+      "data_zavantazhennia": "14 січня 2019"
+    },
+    {
+      "nomer": 150,
+      "nazva": "«Ендорфін»",
+      "vykonavets": "YAKTAK",
+      "perehliady": 21532358,
+      "data_zavantazhennia": "10 вересня 2024"
+    },
+    {
+      "nomer": 151,
+      "nazva": "«Мадам»",
+      "vykonavets": "SAMCHUK",
+      "perehliady": 21453358,
+      "data_zavantazhennia": "26 квітня 2024"
+    },
+    {
+      "nomer": 152,
+      "nazva": "«Моя країна»",
+      "vykonavets": "Yarmak FT. TOF",
+      "perehliady": 21370151,
+      "data_zavantazhennia": "24 серпня 2022"
+    },
+    {
+      "nomer": 153,
+      "nazva": "«Токсік»",
+      "vykonavets": "Шугар",
+      "perehliady": 21157104,
+      "data_zavantazhennia": "24 листопада 2024"
+    },
+    {
+      "nomer": 154,
+      "nazva": "«Смак-печаль» (Official Music Video)",
+      "vykonavets": "DOROFEEVA & POSITIFF",
+      "perehliady": 21216032,
+      "data_zavantazhennia": "10 липня 2025"
+    },
+    {
+      "nomer": 155,
+      "nazva": "«Падав туман» [Official Video]",
+      "vykonavets": "SKYLERR",
+      "perehliady": 21078461,
+      "data_zavantazhennia": "24 жовтня 2023"
+    },
+    {
+      "nomer": 156,
+      "nazva": "«Секрет»",
+      "vykonavets": "гурт «Друга Ріка»",
+      "perehliady": 20926815,
+      "data_zavantazhennia": "24 квітня 2018"
+    },
+    {
+      "nomer": 157,
+      "nazva": "«Листопад»",
+      "vykonavets": "Без Обмежень",
+      "perehliady": 20849710,
+      "data_zavantazhennia": "18 червня 2018"
+    },
+    {
+      "nomer": 158,
+      "nazva": "«Танули» (Official music video)",
+      "vykonavets": "VARASH",
+      "perehliady": 20815843,
+      "data_zavantazhennia": "27 серпня 2021"
+    },
+    {
+      "nomer": 159,
+      "nazva": "«Мамо, я закохався»",
+      "vykonavets": "Роман Скорпіон",
+      "perehliady": 20751632,
+      "data_zavantazhennia": "2 серпня 2020"
+    },
+    {
+      "nomer": 160,
+      "nazva": "« Fortepiano » (official video)",
+      "vykonavets": "Христина Соловій",
+      "perehliady": 20694062,
+      "data_zavantazhennia": "21 грудня 2017"
+    },
+    {
+      "nomer": 161,
+      "nazva": "«Мій рідний край»",
+      "vykonavets": "Світлана Весна",
+      "perehliady": 20426483,
+      "data_zavantazhennia": "3 вересня 2009"
+    },
+    {
+      "nomer": 162,
+      "nazva": "«Не складається»",
+      "vykonavets": "Max Barskih",
+      "perehliady": 20279716,
+      "data_zavantazhennia": "15 вересня 2023"
+    },
+    {
+      "nomer": 163,
+      "nazva": "«Охрана-Отмєна»",
+      "vykonavets": "Jerry Heil",
+      "perehliady": 20417958,
+      "data_zavantazhennia": "4 квітня 2019"
+    },
+    {
+      "nomer": 164,
+      "nazva": "«Тону»",
+      "vykonavets": "гурт «Без Обмежень»",
+      "perehliady": 20214464,
+      "data_zavantazhennia": "5 квітня 2017"
+    },
+    {
+      "nomer": 165,
+      "nazva": "«Весь світ»",
+      "vykonavets": "гурт «Без Обмежень»",
+      "perehliady": 20196905,
+      "data_zavantazhennia": "21 листопада 2019"
+    },
+    {
+      "nomer": 166,
+      "nazva": "«Сірник»",
+      "vykonavets": "гурт «Skofka»",
+      "perehliady": 19815843,
+      "data_zavantazhennia": "27 серпня 2021"
+    },
+    {
+      "nomer": 167,
+      "nazva": "«Воїни світла»",
+      "vykonavets": "гурт «Ляпис Трубецкой»",
+      "perehliady": 19748864,
+      "data_zavantazhennia": "12 липня 2022"
+    },
+    {
+      "nomer": 168,
+      "nazva": "«Цілуй солодкими губами» (slow version)",
+      "vykonavets": "Аркадій Войтюк",
+      "perehliady": 19891496,
+      "data_zavantazhennia": "12 лютого 2021"
+    },
+    {
+      "nomer": 169,
+      "nazva": "«Якщо це не любов» (Official Video)",
+      "vykonavets": "VARASH & DOVI",
+      "perehliady": 19806864,
+      "data_zavantazhennia": "5 квітня 2025"
+    },
+    {
+      "nomer": 170,
+      "nazva": "«Гуцулка Ксеня»",
+      "vykonavets": "Randevu",
+      "perehliady": 19807232,
+      "data_zavantazhennia": "21 листопада 2019"
+    },
+    {
+      "nomer": 171,
+      "nazva": "«Рандеву»",
+      "vykonavets": "Артем Пивоваров",
+      "perehliady": 19750240,
+      "data_zavantazhennia": "30 квітня 2021"
+    },
+    {
+      "nomer": 173,
+      "nazva": "«Палала»",
+      "vykonavets": "VALEVSKA",
+      "perehliady": "19 456 688**",
+      "data_zavantazhennia": "27 січня 2011"
+    },
+    {
+      "nomer": 174,
+      "nazva": "#KUPALA",
+      "vykonavets": "Jerry Heil, alyona alyona & Ela",
+      "perehliady": 19413448,
+      "data_zavantazhennia": "6 липня 2022"
+    },
+    {
+      "nomer": 175,
+      "nazva": "«LaLaLa»",
+      "vykonavets": "YAKTAK",
+      "perehliady": 19231418,
+      "data_zavantazhennia": "12 січня 2024"
+    },
+    {
+      "nomer": 177,
+      "nazva": "«Почуття» (OFFICIAL VIDEO)",
+      "vykonavets": "NK",
+      "perehliady": 18918250,
+      "data_zavantazhennia": "29 січня 2021"
+    },
+    {
+      "nomer": 178,
+      "nazva": "«Силуети»",
+      "vykonavets": "SadSvit, Структура щастя",
+      "perehliady": 18578902,
+      "data_zavantazhennia": "28 жовтня 2022"
+    },
+    {
+      "nomer": 179,
+      "nazva": "«Мальви» (Офіційне відео)",
+      "vykonavets": "гурт «Жадан і Собаки»",
+      "perehliady": 18694278,
+      "data_zavantazhennia": "24 вересня 2019"
+    },
+    {
+      "nomer": 180,
+      "nazva": "«Додайте світла» (Official Music Video)",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 18677407,
+      "data_zavantazhennia": "6 березня 2025"
+    },
+    {
+      "nomer": 181,
+      "nazva": "« ШУМ »",
+      "vykonavets": "гурт «Go A»",
+      "perehliady": 18354508,
+      "data_zavantazhennia": "22 січня 2021"
+    },
+    {
+      "nomer": 182,
+      "nazva": "«Нове життя»",
+      "vykonavets": "Max Barskih",
+      "perehliady": 18349476,
+      "data_zavantazhennia": "15 вересня 2023"
+    },
+    {
+      "nomer": 183,
+      "nazva": "« Вільна » (OST « Віддана »)",
+      "vykonavets": "Тіна Кароль та Юлія Саніна",
+      "perehliady": 17931422,
+      "data_zavantazhennia": "12 грудня 2019"
+    },
+    {
+      "nomer": 184,
+      "nazva": "«Тарам там нема з ким»",
+      "vykonavets": "Віктор Павлік",
+      "perehliady": 17908890,
+      "data_zavantazhennia": "2 вересня 2011"
+    },
+    {
+      "nomer": 186,
+      "nazva": "«Вотсап»",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 17672101,
+      "data_zavantazhennia": "27 січня 2023"
+    },
+    {
+      "nomer": 187,
+      "nazva": "«Вдома»",
+      "vykonavets": "гурт «Антитіла»",
+      "perehliady": 175170688,
+      "data_zavantazhennia": "20 вересня 2024"
+    },
+    {
+      "nomer": 188,
+      "nazva": "«Лови момент» / Catch the moment / Official Video",
+      "vykonavets": "гурт «Антитіла»",
+      "perehliady": 17500688,
+      "data_zavantazhennia": "1 серпня 2018"
+    },
+    {
+      "nomer": 189,
+      "nazva": "«Люди, як кораблі»",
+      "vykonavets": "Скрябін",
+      "perehliady": "17 347 390*",
+      "data_zavantazhennia": "4 березня 2015"
+    },
+    {
+      "nomer": 191,
+      "nazva": "«Біля серця»",
+      "vykonavets": "KOLA",
+      "perehliady": 17133669,
+      "data_zavantazhennia": "16 вересня 2022"
+    },
+    {
+      "nomer": 192,
+      "nazva": "«ТУК-ТУК-ТУК»",
+      "vykonavets": "Jerry Heil",
+      "perehliady": 17193213,
+      "data_zavantazhennia": "13 серпня 2021"
+    },
+    {
+      "nomer": 194,
+      "nazva": "«Шовковиця» (Official Music Video 2025)",
+      "vykonavets": "IVAN LIULENOV & DAMNITSKYI",
+      "perehliady": 17088864,
+      "data_zavantazhennia": "25 червня 2025"
+    },
+    {
+      "nomer": 195,
+      "nazva": "«Жовті мальви»",
+      "vykonavets": "Wellboy",
+      "perehliady": 17091478,
+      "data_zavantazhennia": "8 лютого 2023"
+    },
+    {
+      "nomer": 196,
+      "nazva": "«Чому»",
+      "vykonavets": "Олександр Пономарьов, DZIDZIO, Артем Пивоваров, ALEKSEEV",
+      "perehliady": 17078691,
+      "data_zavantazhennia": "1 березня 2021"
+    },
+    {
+      "nomer": 197,
+      "nazva": "«Біла хмара, чорна хмара» [Офіційне відео]",
+      "vykonavets": "гурт «ТІК»",
+      "perehliady": 17045332,
+      "data_zavantazhennia": "2 липня 2013"
+    },
+    {
+      "nomer": 198,
+      "nazva": "«Я чекатиму»",
+      "vykonavets": "Діма Корс",
+      "perehliady": 17020440,
+      "data_zavantazhennia": "2 лютого 2009"
+    },
+    {
+      "nomer": 199,
+      "nazva": "«Таксі»",
+      "vykonavets": "гурт «Kalush» та Христина Соловій",
+      "perehliady": 17013440,
+      "data_zavantazhennia": "10 вересня 2021"
+    },
+    {
+      "nomer": 200,
+      "nazva": "«Тіпок»",
+      "vykonavets": "Kalush",
+      "perehliady": 16967911,
+      "data_zavantazhennia": "6 травня 2020"
+    },
+    {
+      "nomer": 201,
+      "nazva": "«Якби» (OFFICIAL VIDEO)",
+      "vykonavets": "Без Обмежень",
+      "perehliady": 16949710,
+      "data_zavantazhennia": "12 грудня 2024"
+    },
+    {
+      "nomer": 202,
+      "nazva": "«Спалахи» (Official Video)",
+      "vykonavets": "POSITIFF",
+      "perehliady": 16819632,
+      "data_zavantazhennia": "10 липня 2025"
+    },
+    {
+      "nomer": 203,
+      "nazva": "«Три полоси»",
+      "vykonavets": "Jerry Heil",
+      "perehliady": 16770304,
+      "data_zavantazhennia": "3 листопада 2023"
+    },
+    {
+      "nomer": 204,
+      "nazva": "«Вівтар»",
+      "vykonavets": "Нікіта Кісельов",
+      "perehliady": 16682132,
+      "data_zavantazhennia": "24 квітня 2026"
+    },
+    {
+      "nomer": 205,
+      "nazva": "«Ритми»",
+      "vykonavets": "Max Barskih & DOROFEEVA",
+      "perehliady": 16614988,
+      "data_zavantazhennia": "18 серпня 2023"
+    },
+    {
+      "nomer": 206,
+      "nazva": "«Всі зорі неба»",
+      "vykonavets": "VOLKANOV",
+      "perehliady": 16594441,
+      "data_zavantazhennia": "27 листопада 2024"
+    },
+    {
+      "nomer": 207,
+      "nazva": "«ГЕНГСТА»",
+      "vykonavets": "DREVO",
+      "perehliady": 16241274,
+      "data_zavantazhennia": "22 серпня 2025"
+    },
+    {
+      "nomer": 208,
+      "nazva": "«Школа»",
+      "vykonavets": "Анна Трінчер",
+      "perehliady": 16189491,
+      "data_zavantazhennia": "4 березня 2019"
+    },
+    {
+      "nomer": 209,
+      "nazva": "«Будь зі мною»",
+      "vykonavets": "Grohotsky",
+      "perehliady": 15971274,
+      "data_zavantazhennia": "2 грудня 2017"
+    },
+    {
+      "nomer": 210,
+      "nazva": "« Калина » (official video 2017)",
+      "vykonavets": "Олена Тополя",
+      "perehliady": 15903475,
+      "data_zavantazhennia": "1 червня 2017"
+    },
+    {
+      "nomer": 211,
+      "nazva": "«Тримай» (lyric video)",
+      "vykonavets": "NK",
+      "perehliady": 15605910,
+      "data_zavantazhennia": "31 травня 2018"
+    },
+    {
+      "nomer": 212,
+      "nazva": "«Небо»",
+      "vykonavets": "YAKTAK & CKAYA",
+      "perehliady": 15477851,
+      "data_zavantazhennia": "4 травня 2024"
+    },
+    {
+      "nomer": 214,
+      "nazva": "«Марш Нової Армії»",
+      "vykonavets": "Олег Скрипка, Сергій Василюк, Тарас Компаніченко, Іван Леньо, Сергій Танчинець, Сергій Фоменко, Тарас Чубай та військовослужбовці ЗСУ",
+      "perehliady": 15897534,
+      "data_zavantazhennia": "5 грудня 2017"
+    },
+    {
+      "nomer": 215,
+      "nazva": "«Кожен раз» (Official Video)",
+      "vykonavets": "TESLENKO",
+      "perehliady": 15828130,
+      "data_zavantazhennia": "31 листопада 2024"
+    },
+    {
+      "nomer": 217,
+      "nazva": "«Звʼязок» (Official Music Video)",
+      "vykonavets": "MamaRika",
+      "perehliady": 15492813,
+      "data_zavantazhennia": "31 березня 2025"
+    },
+    {
+      "nomer": 218,
+      "nazva": "«Український борщ»",
+      "vykonavets": "Михайло Поплавський",
+      "perehliady": 15472132,
+      "data_zavantazhennia": "23 червня 2021"
+    },
+    {
+      "nomer": 219,
+      "nazva": "«Кохана»",
+      "vykonavets": "гурт «Фіолет»",
+      "perehliady": 15472783,
+      "data_zavantazhennia": "1 березня 2018"
+    },
+    {
+      "nomer": 220,
+      "nazva": "«Nozzy Bossy»",
+      "vykonavets": "Wellboy",
+      "perehliady": 14987032,
+      "data_zavantazhennia": "11 лютого 2022"
+    },
+    {
+      "nomer": 223,
+      "nazva": "«Рідні мої»",
+      "vykonavets": "alyona alyona та Jerry Heil",
+      "perehliady": 14971970,
+      "data_zavantazhennia": "22 квітня 2022"
+    },
+    {
+      "nomer": 224,
+      "nazva": "«Українське сонце» (official video)",
+      "vykonavets": "гурт «Kozak System»",
+      "perehliady": 14927695,
+      "data_zavantazhennia": "5 лютого 2024"
+    },
+    {
+      "nomer": 225,
+      "nazva": "«#МОСКАЛЬ_НЕКРАСІВИЙ» (ГЕТЬ З УКРАЇНИ)",
+      "vykonavets": "Jerry Heil (за участі Вєрки Сердючки)",
+      "perehliady": 14901782,
+      "data_zavantazhennia": "10 квітня 2022"
+    },
+    {
+      "nomer": 226,
+      "nazva": "«Не ходи» (Official Music Video)",
+      "vykonavets": "MamaRika Alena Omargalieva & MamaRika",
+      "perehliady": 14863341,
+      "data_zavantazhennia": "2 жовтня 2025"
+    },
+    {
+      "nomer": 228,
+      "nazva": "«Я їду до мами»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 14513189,
+      "data_zavantazhennia": "7 липня 2015"
+    },
+    {
+      "nomer": 230,
+      "nazva": "«Добрий ранок Україно»",
+      "vykonavets": "гурт «Нумер 482»",
+      "perehliady": 14489717,
+      "data_zavantazhennia": "24 серпня 2015"
+    },
+    {
+      "nomer": 231,
+      "nazva": "«Ой на горі»",
+      "vykonavets": "Артем Пивоваров",
+      "perehliady": 14401670,
+      "data_zavantazhennia": "8 липня 2022"
+    },
+    {
+      "nomer": 232,
+      "nazva": "«По барабану»",
+      "vykonavets": "гурт «Skofka»",
+      "perehliady": 14389027,
+      "data_zavantazhennia": "24 грудня 2021"
+    },
+    {
+      "nomer": 233,
+      "nazva": "«Залишим, як є»",
+      "vykonavets": "DOVI, AVERIN & CHURSANOV",
+      "perehliady": 14388864,
+      "data_zavantazhennia": "20 грудня 2024"
+    },
+    {
+      "nomer": 234,
+      "nazva": "«Мелодія»",
+      "vykonavets": "гурт «The Hardkiss»",
+      "perehliady": 14276528,
+      "data_zavantazhennia": "19 квітня 2018"
+    },
+    {
+      "nomer": 235,
+      "nazva": "«Не моя»",
+      "vykonavets": "гурт «Kozak System»",
+      "perehliady": 14265965,
+      "data_zavantazhennia": "4 листопада 2016"
+    },
+    {
+      "nomer": 236,
+      "nazva": "« Radio Hello »",
+      "vykonavets": "Enej",
+      "perehliady": 14063612,
+      "data_zavantazhennia": "6 березня 2010"
+    },
+    {
+      "nomer": 237,
+      "nazva": "«Українське сонце» (official video)",
+      "vykonavets": "гурт «Kozak System»",
+      "perehliady": 13961915,
+      "data_zavantazhennia": "6 червня 2023"
+    },
+    {
+      "nomer": 239,
+      "nazva": "«М'ята»",
+      "vykonavets": "гурт «KAZKA»",
+      "perehliady": 13894235,
+      "data_zavantazhennia": "23 квітня 2021"
+    },
+    {
+      "nomer": 240,
+      "nazva": "«Дзвін»",
+      "vykonavets": "SKYLERR & SANARIA",
+      "perehliady": 13863098,
+      "data_zavantazhennia": "30 вересня 2022"
+    },
+    {
+      "nomer": 241,
+      "nazva": "«Hey, Hey, Rise Up!»",
+      "vykonavets": "гурт «Pink Floyd» (feat. Andriy Khlyvnyuk of Boombox)",
+      "perehliady": 13556347,
+      "data_zavantazhennia": "7 квітня 2022"
+    },
+    {
+      "nomer": 242,
+      "nazva": "«Човен»",
+      "vykonavets": "ZOZULYA",
+      "perehliady": 13433615,
+      "data_zavantazhennia": "1 травня 2022"
+    },
+    {
+      "nomer": 244,
+      "nazva": "«О, Панно»",
+      "vykonavets": "Артем Пивоваров & The Вуса",
+      "perehliady": 13270535,
+      "data_zavantazhennia": "15 березня 2024"
+    },
+    {
+      "nomer": 245,
+      "nazva": "«Чуєш»",
+      "vykonavets": "VOLODYMYR DANTES",
+      "perehliady": 13133473,
+      "data_zavantazhennia": "16 червня 2023"
+    },
+    {
+      "nomer": 246,
+      "nazva": "«Поцілую»",
+      "vykonavets": "Роман Скорпіон",
+      "perehliady": 13087685,
+      "data_zavantazhennia": "9 жовтня 2015"
+    },
+    {
+      "nomer": 247,
+      "nazva": "«Тепло так»",
+      "vykonavets": "Domiy",
+      "perehliady": 13439313,
+      "data_zavantazhennia": "24 січня 2024"
+    },
+    {
+      "nomer": 248,
+      "nazva": "«Сонячна»",
+      "vykonavets": "гурти «Kalush» & «Skofka» & «Сальто назад»",
+      "perehliady": 12859877,
+      "data_zavantazhennia": "28 січня 2022"
+    },
+    {
+      "nomer": 249,
+      "nazva": "«Так ніхто не кохав»",
+      "vykonavets": "Артем Пивоваров & Max Barskih",
+      "perehliady": 12846804,
+      "data_zavantazhennia": "28 листопада 2024"
+    },
+    {
+      "nomer": 250,
+      "nazva": "«Чи разом?»",
+      "vykonavets": "KOLA",
+      "perehliady": 12677630,
+      "data_zavantazhennia": "2 червня 2022"
+    },
+    {
+      "nomer": 251,
+      "nazva": "«Нижча зростом»",
+      "vykonavets": "YAKTAK",
+      "perehliady": 12464461,
+      "data_zavantazhennia": "12 лютого 2024"
+    },
+    {
+      "nomer": 252,
+      "nazva": "«Безодня»",
+      "vykonavets": "гурт «Бумбокс» і Тіна Кароль",
+      "perehliady": 12374674,
+      "data_zavantazhennia": "4 квітня 2019"
+    },
+    {
+      "nomer": 253,
+      "nazva": "« Старі фотографії » (official video)",
+      "vykonavets": "гурт «Скрябін»",
+      "perehliady": 12326083,
+      "data_zavantazhennia": "21 вересня 2010"
+    },
+    {
+      "nomer": 255,
+      "nazva": "«Под облачком» (official video)",
+      "vykonavets": "Христина Соловій",
+      "perehliady": 12330756,
+      "data_zavantazhennia": "22 жовтня 2015"
+    },
+    {
+      "nomer": 256,
+      "nazva": "«Радісно/Страшно»",
+      "vykonavets": "Артем Пивоваров feat. Лилу45",
+      "perehliady": 12101733,
+      "data_zavantazhennia": "1 квітня 2022"
+    },
+    {
+      "nomer": 257,
+      "nazva": "«MARSIK»",
+      "vykonavets": "DZIDZIO",
+      "perehliady": 12045753,
+      "data_zavantazhennia": "3 січня 2016"
+    },
+    {
+      "nomer": 258,
+      "nazva": "«Без неї», Прем'єра 2025»Одна на все життя",
+      "vykonavets": "Максим Бородін",
+      "perehliady": 12003560,
+      "data_zavantazhennia": "11 липня 2025"
+    },
+    {
+      "nomer": 259,
+      "nazva": "«Лісапетний батальйон», опубліковано як «Баба грає на баяні»",
+      "vykonavets": "гурт «Лісапетний батальйон»",
+      "perehliady": 11915896,
+      "data_zavantazhennia": "24 квітня 2018"
+    },
+    {
+      "nomer": 260,
+      "nazva": "«Одна на все життя» Одна на все життя",
+      "vykonavets": "DIBROVA",
+      "perehliady": 11874461,
+      "data_zavantazhennia": "13 вересня 2024"
+    },
+    {
+      "nomer": 261,
+      "nazva": "«Коханці»",
+      "vykonavets": "гурт «The Hardkiss»",
+      "perehliady": 11696181,
+      "data_zavantazhennia": "18 грудня 2018"
+    },
+    {
+      "nomer": 262,
+      "nazva": "«Фанат» (Official Music Video)",
+      "vykonavets": "Alena Omargalieva",
+      "perehliady": 11678461,
+      "data_zavantazhennia": "1 квітня 2026"
+    },
+    {
+      "nomer": 263,
+      "nazva": "«Кіно»",
+      "vykonavets": "гурт «Антитіла»",
+      "perehliady": 11655545,
+      "data_zavantazhennia": "17 листопада 2020"
+    },
+    {
+      "nomer": 264,
+      "nazva": "«Українські Вареники»",
+      "vykonavets": "Михайло Поплавський",
+      "perehliady": 11649304,
+      "data_zavantazhennia": "27 травня 2021"
+    },
+    {
+      "nomer": 265,
+      "nazva": "«Вище хмар» (Live in Kyiv) (Cover Тіна Кароль)",
+      "vykonavets": "SHUMEI",
+      "perehliady": 11467691,
+      "data_zavantazhennia": "8 вересня 2023"
+    },
+    {
+      "nomer": 266,
+      "nazva": "«Наречена»",
+      "vykonavets": "YAKTAK",
+      "perehliady": 11396959,
+      "data_zavantazhennia": "4 серпня 2022"
+    },
+    {
+      "nomer": 267,
+      "nazva": "«Тішся»",
+      "vykonavets": "Артем Пивоваров х Оля Полякова",
+      "perehliady": 11331368,
+      "data_zavantazhennia": "26 серпня 2022"
+    },
+    {
+      "nomer": 268,
+      "nazva": "«Колоски» (Official Music Video)",
+      "vykonavets": "Анна Трінчер",
+      "perehliady": 11139941,
+      "data_zavantazhennia": "12 грудня 2025"
+    },
+    {
+      "nomer": 269,
+      "nazva": "«Мріяла» (Official Music Video)",
+      "vykonavets": "VLADA K & MamaRika",
+      "perehliady": 11092813,
+      "data_zavantazhennia": "12 квітня 2025"
+    },
+    {
+      "nomer": 270,
+      "nazva": "«Хвилі»",
+      "vykonavets": "гурт «Kalush» та Jerry Heil",
+      "perehliady": 11000806,
+      "data_zavantazhennia": "1 жовтня 2021"
+    },
+    {
+      "nomer": 272,
+      "nazva": "«Додому»",
+      "vykonavets": "Kalush та Skofka",
+      "perehliady": 10974751,
+      "data_zavantazhennia": "21 травня 2021"
+    },
+    {
+      "nomer": 273,
+      "nazva": "«Заглох»",
+      "vykonavets": "гурт «SKOFKA»",
+      "perehliady": 10849790,
+      "data_zavantazhennia": "16 жовтня 2023"
+    },
+    {
+      "nomer": 274,
+      "nazva": "«Україна колядує» (Official Video)",
+      "vykonavets": "Ірина Федишин",
+      "perehliady": 10807079,
+      "data_zavantazhennia": "31 січня 2012"
+    },
+    {
+      "nomer": 275,
+      "nazva": "«Ти в мені є»",
+      "vykonavets": "Марія Яремчук",
+      "perehliady": 10323704,
+      "data_zavantazhennia": "6 квітня 2017"
+    },
+    {
+      "nomer": 276,
+      "nazva": "«Інь-Ян» (Official Video), Із к/ф \"Сусідка\"",
+      "vykonavets": "MONATIK & ROXOLANA",
+      "perehliady": 10323198,
+      "data_zavantazhennia": "16 вересня 2022"
+    },
+    {
+      "nomer": 277,
+      "nazva": "«Береза стара»",
+      "vykonavets": "гурт «SKOFKA»",
+      "perehliady": 10317710,
+      "data_zavantazhennia": "5 вересня 2025"
+    },
+    {
+      "nomer": 278,
+      "nazva": "«Мамина сорочка»",
+      "vykonavets": "Наталія Май",
+      "perehliady": "10 291 220*",
+      "data_zavantazhennia": "25 червня 2010"
+    },
+    {
+      "nomer": 279,
+      "nazva": "«Vidlik» (Official Music Video)",
+      "vykonavets": "гурт «ONUKA»",
+      "perehliady": 10254422,
+      "data_zavantazhennia": "13 квітня 2016"
+    },
+    {
+      "nomer": 280,
+      "nazva": "«Мріяла» (Music Video)",
+      "vykonavets": "Юлія Думанська",
+      "perehliady": 10155488,
+      "data_zavantazhennia": "4 грудня 2020"
+    },
+    {
+      "nomer": 281,
+      "nazva": "«Японія» (Official Music Video)",
+      "vykonavets": "DOROFEEVA",
+      "perehliady": 10155568,
+      "data_zavantazhennia": "13 листопада 2025"
+    },
+    {
+      "nomer": 282,
+      "nazva": "«Пишу тобі листа» [Mood Video]",
+      "vykonavets": "Ivan NAVI",
+      "perehliady": 10150788,
+      "data_zavantazhennia": "20 травня 2022"
+    },
+    {
+      "nomer": 283,
+      "nazva": "«Звичка» [Official video]",
+      "vykonavets": "ZOZULYA",
+      "perehliady": 10079437,
+      "data_zavantazhennia": "27 лютого 2020"
+    },
+    {
+      "nomer": 284,
+      "nazva": "«МояНіч» (Official Music Video)",
+      "vykonavets": "Артем Пивоваров",
+      "perehliady": 10074274,
+      "data_zavantazhennia": "24 серпня 2017"
+    },
+    {
+      "nomer": 285,
+      "nazva": "«Розстріляна весна (БУЧА)»",
+      "vykonavets": "Ірина Федишин",
+      "perehliady": 10050479,
+      "data_zavantazhennia": "9 квітня 2022"
+    },
+    {
+      "nomer": 286,
+      "nazva": "Vidpusty (official video)",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 10039000,
+      "data_zavantazhennia": "11 листопада 2009"
+    },
+    {
+      "nomer": 287,
+      "nazva": "«Тримай мене»",
+      "vykonavets": "гурт «Бумбокс» & The Gitas",
+      "perehliady": 9962275,
+      "data_zavantazhennia": "5 липня 2018"
+    },
+    {
+      "nomer": 288,
+      "nazva": "«ВІЛЬНІ ЛЮДИ» (OFFICIAL VIDEO)",
+      "vykonavets": "гурт «БЕЗ ОБМЕЖЕНЬ»",
+      "perehliady": 9956982,
+      "data_zavantazhennia": "19 листопада 2021"
+    },
+    {
+      "nomer": 289,
+      "nazva": "«Мала» [кліп 2019]",
+      "vykonavets": "Віталій Козловський",
+      "perehliady": 9687610,
+      "data_zavantazhennia": "5 вересня 2019"
+    },
+    {
+      "nomer": 290,
+      "nazva": "«#ПОШТА» [Lyric video]",
+      "vykonavets": "JERRY HEIL",
+      "perehliady": 9688461,
+      "data_zavantazhennia": "4 лютого 2022"
+    },
+    {
+      "nomer": 292,
+      "nazva": "«Панічка» (mood video)",
+      "vykonavets": "Шугар & IVAN LIULENOV",
+      "perehliady": 9681104,
+      "data_zavantazhennia": "25 жовтня 2025"
+    },
+    {
+      "nomer": 293,
+      "nazva": "«Я там»",
+      "vykonavets": "SKOFKA та SKOF",
+      "perehliady": 9569163,
+      "data_zavantazhennia": "14 серпня 2024"
+    },
+    {
+      "nomer": 294,
+      "nazva": "«Крила» (Official Music Video)",
+      "vykonavets": "Jamala",
+      "perehliady": 9557079,
+      "data_zavantazhennia": "12 вересня 2018"
+    },
+    {
+      "nomer": 295,
+      "nazva": "«Дзвоники дзвенять» (Jingle Bells українською)",
+      "vykonavets": "Шпилясті кобзарі",
+      "perehliady": 9517510,
+      "data_zavantazhennia": "31 грудня 2015"
+    },
+    {
+      "nomer": 296,
+      "nazva": "«Пазли» [Official video]",
+      "vykonavets": "Олександр Пономарьов & DZIDZIO",
+      "perehliady": 9477079,
+      "data_zavantazhennia": "19 листопада 2021"
+    },
+    {
+      "nomer": 298,
+      "nazva": "Yak Nikoly (official video)",
+      "vykonavets": "гурт «Океан Ельзи»",
+      "perehliady": 9401461,
+      "data_zavantazhennia": "1 листопада 2024"
+    },
+    {
+      "nomer": 299,
+      "nazva": "«Закохані [Саундтрек до фільму \"Жива\"]»",
+      "vykonavets": "гурт «Був'є»",
+      "perehliady": 9399367,
+      "data_zavantazhennia": "16 квітня 2016"
+    },
+    {
+      "nomer": 300,
+      "nazva": "«Додому», cover Kalush & SKOFKA",
+      "vykonavets": "Domiy",
+      "perehliady": 9369163,
+      "data_zavantazhennia": "9 березня 2022"
+    },
+    {
+      "nomer": 301,
+      "nazva": "«Саме ти» [Official Video 2021]]",
+      "vykonavets": "VAHA",
+      "perehliady": 9320610,
+      "data_zavantazhennia": "9 листопада 2021"
+    },
+    {
+      "nomer": 302,
+      "nazva": "«Понад Хмарами...»",
+      "vykonavets": "гурт «Тартак» & «Катя Chilly»",
+      "perehliady": 9309890,
+      "data_zavantazhennia": "17 лютого 2014"
+    },
+    {
+      "nomer": 303,
+      "nazva": "«Мала, танцюй»",
+      "vykonavets": "Віталій Козловський",
+      "perehliady": 9287515,
+      "data_zavantazhennia": "12 лютого 2021"
+    },
+    {
+      "nomer": 304,
+      "nazva": "«Сину» (Official Music Video)",
+      "vykonavets": "MamaRika",
+      "perehliady": 9285710,
+      "data_zavantazhennia": "4 травня 2022"
+    },
+    {
+      "nomer": 305,
+      "nazva": "«Антарктида» (official video)",
+      "vykonavets": "гурт «The Hardkiss»",
+      "perehliady": 9239890,
+      "data_zavantazhennia": "26 квітня 2017"
+    },
+    {
+      "nomer": 306,
+      "nazva": "«Птахоподібна» (official video)",
+      "vykonavets": "«DZIDZIO»",
+      "perehliady": 9193890,
+      "data_zavantazhennia": "21 травня 2016"
+    },
+    {
+      "nomer": 307,
+      "nazva": "«З якого ти поверху неба?»",
+      "vykonavets": "YARMAK та Jerry Heil",
+      "perehliady": 9169163,
+      "data_zavantazhennia": "14 серпня 2025"
+    },
+    {
+      "nomer": 308,
+      "nazva": "«Закохана» (official video)",
+      "vykonavets": "«Юлія Думанська»",
+      "perehliady": 9195890,
+      "data_zavantazhennia": "8 червня 2017"
+    },
+    {
+      "nomer": 309,
+      "nazva": "«Котику»",
+      "vykonavets": "ВІА ТоШоНаДо",
+      "perehliady": 9185710,
+      "data_zavantazhennia": "30 січня 2016"
+    },
+    {
+      "nomer": 310,
+      "nazva": "«Ти — тільки мій»",
+      "vykonavets": "Ірина Федишин",
+      "perehliady": 9167079,
+      "data_zavantazhennia": "26 червня 2017"
+    },
+    {
+      "nomer": 311,
+      "nazva": "«Як я тебе люблю»",
+      "vykonavets": "Ірина Федишин",
+      "perehliady": 9127079,
+      "data_zavantazhennia": "20 жовтня 2017"
+    },
+    {
+      "nomer": 312,
+      "nazva": "«Небо»",
+      "vykonavets": "SadSvit",
+      "perehliady": 9020861,
+      "data_zavantazhennia": "22 червня 2022"
+    },
+    {
+      "nomer": 313,
+      "nazva": "«Yanky»",
+      "vykonavets": "гурт «ДахаБраха»",
+      "perehliady": 8960379,
+      "data_zavantazhennia": "28 червня 2016"
+    },
+    {
+      "nomer": 314,
+      "nazva": "«Ягода»",
+      "vykonavets": "Шугар",
+      "perehliady": 8878461,
+      "data_zavantazhennia": "25 жовтня 2025"
+    }
+  ],
+  "meta": {
+    "title": "Найпопулярніші україномовні музичні відео на YouTube - Free Download",
+    "description": "Рейтинг україномовних музичних відео на YouTube за кількістю переглядів: назва, виконавець, кількість переглядів і дата завантаження. Contains 293 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найпопулярніші україномовні музичні відео на YouTube | ListBase",
+    "seo_description": "Download Найпопулярніші україномовні музичні відео на YouTube — 293 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 293 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_музичних_відео_на_YouTube"
+    ]
+  }
+}

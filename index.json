@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-09T02:18:06.879Z",
-  "total_datasets": 475,
-  "total_records": 474911,
+  "generated": "2026-11-09T02:18:16.369Z",
+  "total_datasets": 476,
+  "total_records": 475204,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -4971,6 +4971,32 @@
         "xlsx": {
           "name": "uk-holovy-spilky-kompozytoriv_UK.xlsx",
           "size": 7404
+        }
+      }
+    },
+    {
+      "id": "uk-naipopuliarnishi-ukrainomovni-muzychni-video-youtube",
+      "name": "Найпопулярніші україномовні музичні відео на YouTube",
+      "category": "music",
+      "record_count": 293,
+      "columns": [
+        "nomer",
+        "nazva",
+        "vykonavets",
+        "perehliady",
+        "data_zavantazhennia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_найпопулярніших_україномовних_музичних_відео_на_YouTube",
+      "updated": "2026-11",
+      "size": 64708,
+      "files": {
+        "csv": {
+          "name": "uk-naipopuliarnishi-ukrainomovni-muzychni-video-youtube_UK.csv",
+          "size": 29448
+        },
+        "xlsx": {
+          "name": "uk-naipopuliarnishi-ukrainomovni-muzychni-video-youtube_UK.xlsx",
+          "size": 23616
         }
       }
     },
