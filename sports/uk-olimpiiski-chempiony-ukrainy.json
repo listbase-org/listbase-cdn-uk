@@ -1,0 +1,432 @@
+{
+  "id": "uk-olimpiiski-chempiony-ukrainy",
+  "name": "Олімпійські чемпіони України",
+  "title": "Олімпійські чемпіони України",
+  "description": "Список олімпійських чемпіонів незалежної України: вид спорту, кількість золотих медалей, дати перемог і вік на момент перемоги.",
+  "category": "sports",
+  "source": "https://uk.wikipedia.org/wiki/Список_олімпійських_чемпіонів_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_олімпійських_чемпіонів_України",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "pib",
+      "label": "Pib",
+      "type": "string"
+    },
+    {
+      "key": "vyd_sportu",
+      "label": "Vyd Sportu",
+      "type": "string"
+    },
+    {
+      "key": "kilkist_zolotykh",
+      "label": "Kilkist Zolotykh",
+      "type": "number"
+    },
+    {
+      "key": "daty_peremoh",
+      "label": "Daty Peremoh",
+      "type": "string"
+    },
+    {
+      "key": "vik",
+      "label": "Vik",
+      "type": "string"
+    },
+    {
+      "key": "prymitka",
+      "label": "Prymitka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pib": "Клочкова Яна Олександрівна",
+      "vyd_sportu": "Плавання",
+      "kilkist_zolotykh": 4,
+      "daty_peremoh": "16 вересня 2000 19 вересня 2000 14 серпня 2004 17 серпня 2004",
+      "vik": "18 років, 40 днів 18 років, 43 дні 22 роки, 7 днів 22 роки, 10 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Ломаченко Василь Анатолійович",
+      "vyd_sportu": "Бокс",
+      "kilkist_zolotykh": 2,
+      "daty_peremoh": "23 серпня 2008 12 серпня 2012",
+      "vik": "20 років, 188 днів 24 роки, 177 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Подкопаєва Лілія Олександрівна",
+      "vyd_sportu": "Спортивна гімнастика",
+      "kilkist_zolotykh": 2,
+      "daty_peremoh": "25 липня 1996 29 липня 1996",
+      "vik": "17 років, 345 днів 17 років, 349 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Харлан Ольга Геннадіївна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 2,
+      "daty_peremoh": "14 серпня 2008 3 серпня 2024",
+      "vik": "17 років, 345 днів 33 роки, 334 дні",
+      "prymitka": "Обидві у складі команди"
+    },
+    {
+      "pib": "Чебан Юрій Володимирович",
+      "vyd_sportu": "Веслування на байдарках і каное",
+      "kilkist_zolotykh": 2,
+      "daty_peremoh": "11 серпня 2012 18 серпня 2016",
+      "vik": "26 років, 37 днів 30 років, 44 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Абраменко Олександр Володимирович",
+      "vyd_sportu": "Фристайл",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "18 лютого 2018",
+      "vik": "29 років, 290 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Айвазян Артур Суренович",
+      "vyd_sportu": "Стрільба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "15 серпня 2008",
+      "vik": "35 років, 214 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Бакастова Юлія Олександрівна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "3 серпня 2024",
+      "vik": "28 років, 38 днів",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Баюл Оксана Сергіївна",
+      "vyd_sportu": "Фігурне катання",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "25 лютого 1994",
+      "vik": "16 років, 101 день",
+      "prymitka": ""
+    },
+    {
+      "pib": "Беленюк Жан Венсанович",
+      "vyd_sportu": "Боротьба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "4 серпня 2021",
+      "vik": "30 років, 192 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Браславець Євген Анатолійович",
+      "vyd_sportu": "Вітрильний спорт",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "1 серпня 1996",
+      "vik": "23 роки, 325 днів",
+      "prymitka": "У складі екіпажу з Матвієнком І. Г."
+    },
+    {
+      "pib": "Верняєв Олег Юрійович",
+      "vyd_sportu": "Спортивна гімнастика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "16 серпня 2016",
+      "vik": "22 роки, 322 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Гладир (Хомрова) Олена Миколаївна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "14 серпня 2008",
+      "vik": "21 рік, 90 днів",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Гончаров Валерій Володимирович",
+      "vyd_sportu": "Спортивна гімнастика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "23 серпня 2004",
+      "vik": "26 років, 339 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Дементьєва Яна Михайлівна",
+      "vyd_sportu": "Академічне веслування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "1 серпня 2012",
+      "vik": "33 роки, 283 дні",
+      "prymitka": "У складі екіпажу"
+    },
+    {
+      "pib": "Джіма Юлія Валентинівна",
+      "vyd_sportu": "Біатлон",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "21 лютого 2014",
+      "vik": "23 роки, 155 днів",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Добринська Наталія Володимирівна",
+      "vyd_sportu": "Легка атлетика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "16 серпня 2008",
+      "vik": "26 років, 79 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Довгодько Наталія Вікторівна",
+      "vyd_sportu": "Академічне веслування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "1 серпня 2012",
+      "vik": "21 рік, 176 днів",
+      "prymitka": "У складі екіпажу"
+    },
+    {
+      "pib": "Жовнір Ольга Богданівна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "14 серпня 2008",
+      "vik": "19 років, 67 днів",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Кличко Володимир Володимирович",
+      "vyd_sportu": "Бокс",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "4 серпня 1996",
+      "vik": "20 років, 132 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Коженкова Анастасія Миколаївна",
+      "vyd_sportu": "Академічне веслування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "1 серпня 2012",
+      "vik": "26 років, 195 днів",
+      "prymitka": "У складі екіпажу"
+    },
+    {
+      "pib": "Комащук Аліна Іванівна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "3 серпня 2024",
+      "vik": "31 рік, 101 день",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Костевич Олена Дмитрівна",
+      "vyd_sportu": "Стрільба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "15 серпня 2004",
+      "vik": "19 років, 123 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Кравацька Олена Віталіївна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "3 серпня 2024",
+      "vik": "32 роки, 42 дні",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Кравець Інеса Миколаївна",
+      "vyd_sportu": "Легка атлетика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "31 липня 1996",
+      "vik": "29 років, 300 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Магучіх Ярослава Олексіївна",
+      "vyd_sportu": "Легка атлетика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "4 серпня 2024",
+      "vik": "22 роки, 320 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Матвієнко Ігор Григорович",
+      "vyd_sportu": "Вітрильний спорт",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "1 серпня 1996",
+      "vik": "25 років, 76 днів",
+      "prymitka": "У складі екіпажу з Браславцем Є. А."
+    },
+    {
+      "pib": "Микульчин-Мерлені Ірина Олексіївна",
+      "vyd_sportu": "Боротьба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "23 серпня 2004",
+      "vik": "22 роки, 197 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Мільчев Микола Миколайович",
+      "vyd_sportu": "Стрільба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "23 вересня 2000",
+      "vik": "32 роки, 325 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Нікітін Юрій Вікторович",
+      "vyd_sportu": "Стрибки на батуті",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "21 серпня 2004",
+      "vik": "26 років, 37 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Олійник В'ячеслав Миколайович",
+      "vyd_sportu": "Боротьба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "23 липня 1996",
+      "vik": "30 років, 87 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Осипенко-Радомська Інна Володимирівна",
+      "vyd_sportu": "Веслування на байдарках і каное",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "23 серпня 2008",
+      "vik": "25 років, 338 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Петрів Олександр Святославович",
+      "vyd_sportu": "Стрільба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "16 серпня 2008",
+      "vik": "34 роки, 11 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Підгрушна Олена Михайлівна",
+      "vyd_sportu": "Біатлон",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "21 лютого 2014",
+      "vik": "27 років, 43 дні",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Пундик Галина Василівна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "14 серпня 2008",
+      "vik": "20 років, 281 день",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Рубан Віктор Геннадійович",
+      "vyd_sportu": "Стрільба з лука",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "15 серпня 2008",
+      "vik": "27 років, 83 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Семеренко Валентина Олександрівна",
+      "vyd_sportu": "Біатлон",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "21 лютого 2014",
+      "vik": "28 років, 34 дні",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Семеренко Віта Олександрівна",
+      "vyd_sportu": "Біатлон",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "21 лютого 2014",
+      "vik": "28 років, 34 дні",
+      "prymitka": "У складі команди"
+    },
+    {
+      "pib": "Серебрянська Катерина Олегівна",
+      "vyd_sportu": "Художня гімнастика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "4 серпня 1996",
+      "vik": "18 років, 284 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Скакун Наталія Анатоліївна",
+      "vyd_sportu": "Важка атлетика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "18 серпня 2004",
+      "vik": "23 роки, 15 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Таймазов Тимур Борисович",
+      "vyd_sportu": "Важка атлетика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "29 липня 1996",
+      "vik": "25 років, 325 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Тедеєв Ельбрус Сосланович",
+      "vyd_sportu": "Боротьба",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "28 серпня 2004",
+      "vik": "29 років, 267 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Усик Олександр Олександрович",
+      "vyd_sportu": "Бокс",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "11 серпня 2012",
+      "vik": "25 років, 207 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Футрик (Тарасенко) Катерина Миколаївна",
+      "vyd_sportu": "Академічне веслування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "1 серпня 2012",
+      "vik": "24 роки, 361 день",
+      "prymitka": "У складі екіпажу"
+    },
+    {
+      "pib": "Хижняк Олександр Олександрович -мол.",
+      "vyd_sportu": "Бокс",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "7 серпня 2024",
+      "vik": "29 років, 4 дні",
+      "prymitka": ""
+    },
+    {
+      "pib": "Шаріпов Рустам Халімджанович",
+      "vyd_sportu": "Спортивна гімнастика",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "29 липня 1996",
+      "vik": "25 років, 57 днів",
+      "prymitka": ""
+    },
+    {
+      "pib": "Шемякіна Яна Володимирівна",
+      "vyd_sportu": "Фехтування",
+      "kilkist_zolotykh": 1,
+      "daty_peremoh": "30 липня 2012",
+      "vik": "26 років, 207 днів",
+      "prymitka": ""
+    }
+  ],
+  "meta": {
+    "title": "Олімпійські чемпіони України - Free Download",
+    "description": "Список олімпійських чемпіонів незалежної України: вид спорту, кількість золотих медалей, дати перемог і вік на момент перемоги. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Олімпійські чемпіони України | ListBase",
+    "seo_description": "Download Олімпійські чемпіони України — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_олімпійських_чемпіонів_України"
+    ]
+  }
+}
