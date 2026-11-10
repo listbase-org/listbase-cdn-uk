@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-10T02:21:13.000Z",
-  "total_datasets": 480,
-  "total_records": 475525,
+  "generated": "2026-11-10T02:21:20.301Z",
+  "total_datasets": 481,
+  "total_records": 476004,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -11130,6 +11130,32 @@
         "xlsx": {
           "name": "uk-akademiky-nan-ukrainy_UK.xlsx",
           "size": 44645
+        }
+      }
+    },
+    {
+      "id": "uk-asteroidy-poviazani-z-ukrainoiu",
+      "name": "Астероїди, назви яких пов'язані з Україною",
+      "category": "science",
+      "record_count": 479,
+      "columns": [
+        "name",
+        "name_origin",
+        "discovery_year",
+        "discoverer",
+        "discovery_site"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_астероїдів,_назви_яких_пов'язані_з_Україною",
+      "updated": "2026-11",
+      "size": 149451,
+      "files": {
+        "csv": {
+          "name": "uk-asteroidy-poviazani-z-ukrainoiu_UK.csv",
+          "size": 90644
+        },
+        "xlsx": {
+          "name": "uk-asteroidy-poviazani-z-ukrainoiu_UK.xlsx",
+          "size": 37661
         }
       }
     },
