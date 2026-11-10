@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-10T02:21:26.550Z",
-  "total_datasets": 482,
-  "total_records": 476190,
+  "generated": "2026-11-10T02:21:32.667Z",
+  "total_datasets": 483,
+  "total_records": 476217,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -12159,6 +12159,30 @@
         "xlsx": {
           "name": "uk-sim-chudes-ukrainy_UK.xlsx",
           "size": 7023
+        }
+      }
+    },
+    {
+      "id": "uk-sim-pryrodnykh-chudes-ukrainy",
+      "name": "Сім природних чудес України",
+      "category": "tourism",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "details",
+        "list"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Сім_природних_чудес_України",
+      "updated": "2026-11",
+      "size": 6907,
+      "files": {
+        "csv": {
+          "name": "uk-sim-pryrodnykh-chudes-ukrainy_UK.csv",
+          "size": 3397
+        },
+        "xlsx": {
+          "name": "uk-sim-pryrodnykh-chudes-ukrainy_UK.xlsx",
+          "size": 7682
         }
       }
     },
