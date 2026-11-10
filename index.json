@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-09T02:18:33.746Z",
-  "total_datasets": 478,
-  "total_records": 475351,
+  "generated": "2026-11-10T02:21:04.909Z",
+  "total_datasets": 479,
+  "total_records": 475451,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -1862,6 +1862,32 @@
         "xlsx": {
           "name": "uk-zhytomyrska-zaklady-serednoyi-osvity_UK.xlsx",
           "size": 122028
+        }
+      }
+    },
+    {
+      "id": "uk-100-naikrashchykh-filmiv-ukrainskoho-kino",
+      "name": "100 найкращих фільмів в історії українського кіно",
+      "category": "entertainment",
+      "record_count": 100,
+      "columns": [
+        "rank",
+        "title",
+        "year",
+        "director",
+        "language"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_100_найкращих_фільмів_в_історії_українського_кіно",
+      "updated": "2026-11",
+      "size": 21988,
+      "files": {
+        "csv": {
+          "name": "uk-100-naikrashchykh-filmiv-ukrainskoho-kino_UK.csv",
+          "size": 10145
+        },
+        "xlsx": {
+          "name": "uk-100-naikrashchykh-filmiv-ukrainskoho-kino_UK.xlsx",
+          "size": 12067
         }
       }
     },
