@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-10T02:21:04.909Z",
-  "total_datasets": 479,
-  "total_records": 475451,
+  "generated": "2026-11-10T02:21:13.000Z",
+  "total_datasets": 480,
+  "total_records": 475525,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -4491,6 +4491,31 @@
         "xlsx": {
           "name": "uk-zhytomyrska-mista_UK.xlsx",
           "size": 8135
+        }
+      }
+    },
+    {
+      "id": "uk-akademiky-namn-ukrainy",
+      "name": "Академіки Національної академії медичних наук України",
+      "category": "health",
+      "record_count": 74,
+      "columns": [
+        "name",
+        "specialty",
+        "elected",
+        "status"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_дійсних_членів_Національної_академії_медичних_наук_України",
+      "updated": "2026-11",
+      "size": 17802,
+      "files": {
+        "csv": {
+          "name": "uk-akademiky-namn-ukrainy_UK.csv",
+          "size": 9544
+        },
+        "xlsx": {
+          "name": "uk-akademiky-namn-ukrainy_UK.xlsx",
+          "size": 10088
         }
       }
     },
