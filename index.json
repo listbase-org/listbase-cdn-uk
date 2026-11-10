@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-10T02:21:20.301Z",
-  "total_datasets": 481,
-  "total_records": 476004,
+  "generated": "2026-11-10T02:21:26.550Z",
+  "total_datasets": 482,
+  "total_records": 476190,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "economy",
@@ -198,6 +198,32 @@
         "xlsx": {
           "name": "uk-naibilshi-ahroholdynhy-zemelnyi-bank_UK.xlsx",
           "size": 7866
+        }
+      }
+    },
+    {
+      "id": "uk-festyvali-ukrainy",
+      "name": "Фестивалі в Україні",
+      "category": "culture",
+      "record_count": 186,
+      "columns": [
+        "name",
+        "description",
+        "location",
+        "years",
+        "type"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_фестивалів_в_Україні",
+      "updated": "2026-11",
+      "size": 53210,
+      "files": {
+        "csv": {
+          "name": "uk-festyvali-ukrainy_UK.csv",
+          "size": 32924
+        },
+        "xlsx": {
+          "name": "uk-festyvali-ukrainy_UK.xlsx",
+          "size": 18629
         }
       }
     },
