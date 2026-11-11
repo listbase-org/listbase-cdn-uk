@@ -1,0 +1,5380 @@
+{
+  "id": "uk-pamiatni-monety-nedorohotsinni",
+  "name": "Ювілейні та пам'ятні монети України з недорогоцінних металів",
+  "title": "Ювілейні та пам'ятні монети України з недорогоцінних металів",
+  "description": "Перелік ювілейних і пам'ятних монет НБУ з недорогоцінних металів: назва, номінал, тираж і дата випуску.",
+  "category": "finance",
+  "source": "https://uk.wikipedia.org/wiki/Список_ювілейних_та_пам'ятних_монет_України_з_недорогоцінних_металів",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_ювілейних_та_пам'ятних_монет_України_з_недорогоцінних_металів",
+  "updated": "2026-11",
+  "record_count": 591,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "denomination",
+      "label": "Denomination",
+      "type": "string"
+    },
+    {
+      "key": "denomination_unit",
+      "label": "Denomination Unit",
+      "type": "string"
+    },
+    {
+      "key": "mintage",
+      "label": "Mintage",
+      "type": "number"
+    },
+    {
+      "key": "issue_date",
+      "label": "Issue Date",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "50 років перемоги",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 250000,
+      "issue_date": "07.05.95",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 2,
+      "name": "Богдан Хмельницький",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 250000,
+      "issue_date": "19.07.95",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 3,
+      "name": "Місто-герой Київ",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 100000,
+      "issue_date": "23.08.95",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 4,
+      "name": "Місто-герой Одеса",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 75000,
+      "issue_date": "23.08.95",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 5,
+      "name": "Місто-герой Севастополь",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 75000,
+      "issue_date": "23.08.95",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 6,
+      "name": "Місто-герой Керч",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 50000,
+      "issue_date": "23.08.95",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 7,
+      "name": "Леся Українка",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 100000,
+      "issue_date": "01.03.96",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 8,
+      "name": "50 років Організації Об'єднаних Націй",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 100000,
+      "issue_date": "07.03.96",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 9,
+      "name": "10 років Чорнобильської катастрофи",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 250000,
+      "issue_date": "25.04.96",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 10,
+      "name": "100 років Олімпійських ігор сучасності",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 100000,
+      "issue_date": "10.07.96",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 11,
+      "name": "Перша участь у літніх Олімпійських іграх",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 100000,
+      "issue_date": "10.07.96",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 12,
+      "name": "Михайло Грушевський",
+      "denomination": "200 000",
+      "denomination_unit": "крб.",
+      "mintage": 75000,
+      "issue_date": "09.08.96",
+      "section": "Карбованцеві монети 1995—1996 років"
+    },
+    {
+      "no": 13,
+      "name": "Софіївка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "16.09.96",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 14,
+      "name": "Десятинна церква",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.11.96",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 15,
+      "name": "Монети України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 250000,
+      "issue_date": "12.03.97",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 16,
+      "name": "Юрій Кондратюк",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "17.06.97",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 17,
+      "name": "Соломія Крушельницька",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "12.11.97",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 18,
+      "name": "Перша річниця Конституції України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "01.12.97",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 19,
+      "name": "Володимир Сосюра",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "23.01.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 20,
+      "name": "80-річчя бою під Крутами",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 200000,
+      "issue_date": "30.01.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 21,
+      "name": "80 років проголошення незалежності УНР",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 200000,
+      "issue_date": "20.03.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 22,
+      "name": "Щорічні збори Ради Керуючих ЄБРР у Києві",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 10000,
+      "issue_date": "08.05.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 23,
+      "name": "100 років біосферного заповідника Асканія-Нова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "20.05.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 24,
+      "name": "100 років Київському політехнічному інституту",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "28.08.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 25,
+      "name": "50-річчя Загальної декларації прав людини",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "24.12.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 26,
+      "name": "Успенський собор Києво-Печерської лаври",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 200000,
+      "issue_date": "24.12.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 27,
+      "name": "Михайлівський Золотоверхий собор",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 200000,
+      "issue_date": "28.12.98",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 28,
+      "name": "80 років проголошення соборності України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "18.01.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 29,
+      "name": "Орел степовий",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "28.01.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 30,
+      "name": "Панас Мирний",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "07.05.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 31,
+      "name": "100-річчя Національної гірничої академії України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "10.06.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 32,
+      "name": "900 років Новгород-Сіверському князівству",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "25.06.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 33,
+      "name": "Любка дволиста",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "26.07.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 34,
+      "name": "Анатолій Солов'яненко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "22.09.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 35,
+      "name": "55 років визволення України від фашистських загарбників",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "20.10.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 36,
+      "name": "500-річчя Магдебурзького права Києва",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "01.11.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 37,
+      "name": "Соня садова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "15.12.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 38,
+      "name": "Різдво Христове",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "29.12.99",
+      "section": "1996—1999 роки"
+    },
+    {
+      "no": 39,
+      "name": "Іван Козловський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "15.03.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 40,
+      "name": "Вікентій Хвойка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "29.03.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 41,
+      "name": "55 років Перемоги у Великій Вітчизняній війні 1941—1945 років",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "25.04.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 42,
+      "name": "Потрійний стрибок",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "28.04.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 43,
+      "name": "Паралельні бруси",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "28.04.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 44,
+      "name": "Білгород-Дністровський",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "29.05.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 45,
+      "name": "Вітрильний спорт",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "31.05.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 46,
+      "name": "Художня гімнастика",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "29.07.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 47,
+      "name": "Олесь Гончар",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "31.07.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 48,
+      "name": "Прісноводний краб",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "02.08.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 49,
+      "name": "125 років Чернівецькому державному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "15.09.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 50,
+      "name": "Хрещення Русі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "16.10.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 51,
+      "name": "100 років Львівському театру опери та балету",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "19.10.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 52,
+      "name": "Катерина Білокур",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.11.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 53,
+      "name": "2600 років Керчі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "26.12.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 54,
+      "name": "На межі тисячоліть",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "28.12.00",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 55,
+      "name": "Танці на льоду",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.01.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 56,
+      "name": "На межі тисячоліть",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "07.03.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 57,
+      "name": "10-річчя Національного банку України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "29.03.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 58,
+      "name": "Рись звичайна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "25.04.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 59,
+      "name": "Острозька академія",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.04.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 60,
+      "name": "Добро — дітям",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "24.05.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 61,
+      "name": "5 років Конституції України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.06.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 62,
+      "name": "Хокей",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "06.07.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 63,
+      "name": "10 років незалежності України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "31.07.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 64,
+      "name": "1100 років Полтаві",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "15.08.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 65,
+      "name": "Михайло Остроградський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.08.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 66,
+      "name": "100 років Миколаївському зоопарку",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "21.08.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 67,
+      "name": "400 років Кролевцю",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "06.09.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 68,
+      "name": "Михайло Драгоманов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.09.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 69,
+      "name": "200 років Володимиру Далю",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.11.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 70,
+      "name": "Модрина польська",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.11.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 71,
+      "name": "Збройні сили України. 10 років",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "29.11.01",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 72,
+      "name": "Ковзанярський спорт",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.01.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 73,
+      "name": "Микола Лисенко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.03.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 74,
+      "name": "Літак АН-225 «Мрія»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.04.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 75,
+      "name": "1000 років Хотину",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.05.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 76,
+      "name": "Місто Ромни — 1100 років",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.06.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 77,
+      "name": "Плавання",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "27.06.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 78,
+      "name": "Пугач",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "23.07.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 79,
+      "name": "350-річчя битви під Батогом",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "22.08.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 80,
+      "name": "Леонід Глібов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.09.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 81,
+      "name": "70-річчя Дніпровської ГЕС",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "02.10.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 82,
+      "name": "Свято Різдва Христового в Україні",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.12.02",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 83,
+      "name": "Бокс",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.02.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 84,
+      "name": "В'ячеслав Чорновіл",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.02.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 85,
+      "name": "Володимир Вернадський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.03.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 86,
+      "name": "Зубр",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "31.03.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 87,
+      "name": "Свято Великодня",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "22.04.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 88,
+      "name": "Літак АН-2",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "22.05.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 89,
+      "name": "Володимир Короленко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.06.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 90,
+      "name": "Борис Гмиря",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.07.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 91,
+      "name": "2500 років Євпаторії",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.07.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 92,
+      "name": "Морський коник",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "25.07.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 93,
+      "name": "100 років світової авіації та 70-річчя Національного авіаційного університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "22.08.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 94,
+      "name": "150 років Центральному державному історичному архіву України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.09.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 95,
+      "name": "Остап Вересай",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "23.09.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 96,
+      "name": "Василь Сухомлинський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.09.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 97,
+      "name": "60 років визволення Києва від фашистських загарбників",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "27.10.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 98,
+      "name": "Андрій Малишко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "31.10.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 99,
+      "name": "Бандура",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "23.12.03",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 100,
+      "name": "Серж Лифар",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "25.02.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 101,
+      "name": "Чемпіонат світу з футболу 2006",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "27.02.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 102,
+      "name": "Азовка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "22.03.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 103,
+      "name": "2500 років Балаклаві",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.03.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 104,
+      "name": "50 років КБ Південне",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "29.03.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 105,
+      "name": "Літак АН-140",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "26.04.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 106,
+      "name": "50 років входження Криму до складу України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.04.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 107,
+      "name": "50 років членства України в ЮНЕСКО",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "12.05.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 108,
+      "name": "Свято Трійці",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "14.05.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 109,
+      "name": "Марія Заньковецька",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "15.06.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 110,
+      "name": "350 років Харкову",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "01.07.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 111,
+      "name": "Олександр Довженко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "05.07.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 112,
+      "name": "Микола Бажан",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.07.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 113,
+      "name": "Юрій Федькович",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.07.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 114,
+      "name": "Михайло Максимович",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "17.08.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 115,
+      "name": "250 років Кіровограду",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.08.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 116,
+      "name": "Михайло Коцюбинський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.08.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 117,
+      "name": "170 років Київському національному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "26.08.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 118,
+      "name": "200 років Національній юридичній академії України імені Ярослава Мудрого",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.09.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 119,
+      "name": "200 років Харківському національному університету ім. В. Н. Каразіна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "05.10.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 120,
+      "name": "Михайло Дерегус",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "25.10.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 121,
+      "name": "Атомна енергетика України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "29.10.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 122,
+      "name": "Криголам «Капітан Бєлоусов»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "16.11.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 123,
+      "name": "Ліра",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "21.12.04",
+      "section": "2000—2004 роки"
+    },
+    {
+      "no": 124,
+      "name": "Борис Лятошинський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "05.01.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 125,
+      "name": "Володимир Філатов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "12.01.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 126,
+      "name": "Улас Самчук",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "26.01.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 127,
+      "name": "Павло Вірський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "21.02.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 128,
+      "name": "Максим Рильський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "21.02.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 129,
+      "name": "Сергій Всехсвятський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "26.04.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 130,
+      "name": "50 років Київміськбуду",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "18.05.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 131,
+      "name": "75 років Харківському національному аерокосмічному університету ім. М. Є. Жуковського",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.05.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 132,
+      "name": "Олександр Корнійчук",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "01.06.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 133,
+      "name": "Літак Ан-124 «Руслан»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "01.06.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 134,
+      "name": "Сліпак піщаний",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "15.06.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 135,
+      "name": "Сорочинський ярмарок",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "17.09.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 136,
+      "name": "1300 років м. Коростень",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.08.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 137,
+      "name": "350 років м. Суми",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "01.09.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 138,
+      "name": "100-річчя Інституту виноградарства і виноробства імені В. Є. Таїрова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "06.09.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 139,
+      "name": "300 років Давиду Гурамішвілі",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.09.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 140,
+      "name": "Дмитро Яворницький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "22.09.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 141,
+      "name": "Покрова",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "30.09.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 142,
+      "name": "Володимир Винниченко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "30.11.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 143,
+      "name": "Свято-Успенська Святогірська лавра",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "08.12.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 144,
+      "name": "Всеволод Голубович",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "20.12.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 145,
+      "name": "500 років козацьким поселенням. Кальміуська паланка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "23.12.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 146,
+      "name": "Олексій Алчевський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "26.12.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 147,
+      "name": "Ілля Мечников",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "29.12.05",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 148,
+      "name": "10 років антарктичній станції «Академік Вернадський»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "16.01.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 149,
+      "name": "Олег Антонов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "03.02.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 150,
+      "name": "Георгій Нарбут",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "15.03.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 151,
+      "name": "100 років Київському національному економічному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "24.03.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 152,
+      "name": "В'ячеслав Прокопович",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "10.04.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 153,
+      "name": "750 років м. Львів",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "26.04.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 154,
+      "name": "Микола Стражеско",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.04.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 155,
+      "name": "Пилкохвіст український",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 60000,
+      "issue_date": "14.06.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 156,
+      "name": "Микола Василенко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "11.07.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 157,
+      "name": "Володимир Чехівський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.07.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 158,
+      "name": "10 років Конституції України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "31.07.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 159,
+      "name": "15 років незалежності України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "18.08.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 160,
+      "name": "Іван Франко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "23.08.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 161,
+      "name": "10 років відродження грошової одиниці України — гривні",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "29.08.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 162,
+      "name": "Дмитро Луценко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "08.09.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 163,
+      "name": "Михайло Грушевський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "27.09.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 164,
+      "name": "Михайло Лисенко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "16.10.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 165,
+      "name": "Сергій Остапенко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.10.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 166,
+      "name": "Харківський національний економічний університет",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "08.11.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 167,
+      "name": "Кирилівська церква",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "08.11.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 168,
+      "name": "Водохреще",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "18.12.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 169,
+      "name": "Цимбали",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "22.12.06",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 170,
+      "name": "Сергій Корольов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.01.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 171,
+      "name": "Лесь Курбас",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.02.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 172,
+      "name": "Олександр Ляпунов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.03.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 173,
+      "name": "1100 років м. Переяслав-Хмельницький",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "25.04.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 174,
+      "name": "100 років Мотор Січі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "22.05.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 175,
+      "name": "Чиста вода — джерело життя",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "25.05.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 176,
+      "name": "Іван Огієнко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.06.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 177,
+      "name": "Олег Ольжич",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.06.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 178,
+      "name": "XVI щорічна сесія Парламентської асамблеї ОБСЄ",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.06.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 179,
+      "name": "75 років утворення Донецької області",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "06.07.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 180,
+      "name": "Олена Теліга",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "19.07.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 181,
+      "name": "Спортивне орієнтування",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.07.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 182,
+      "name": "120 років Одеському державному академічному театру опери та балету",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.07.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 183,
+      "name": "1100-річчя літописного Чернігова",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "17.09.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 184,
+      "name": "Іван Багряний",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.09.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 185,
+      "name": "Петро Григоренко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "17.10.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 186,
+      "name": "Бугай",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "07.11.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 187,
+      "name": "Голодомор — геноцид українського народу",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "25.11.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 188,
+      "name": "200 років курортам Криму",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.11.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 189,
+      "name": "90-річчя утворення першого Уряду України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "27.12.07",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 190,
+      "name": "Василь Стус",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "08.01.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 191,
+      "name": "Лев Ландау",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "18.01.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 192,
+      "name": "Сидір Голубович",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.02.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 193,
+      "name": "Благовіщення",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "31.03.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 194,
+      "name": "100 років Київському зоопарку",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.04.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 195,
+      "name": "600 років м. Чернівці",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "20.05.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 196,
+      "name": "Євген Петрушевич",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "23.05.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 197,
+      "name": "Гриф чорний",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "26.05.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 198,
+      "name": "850 років м. Снятин",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "26.06.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 199,
+      "name": "Георгій Вороний",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.07.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 200,
+      "name": "Хрещення Київської Русі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "09.09.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 201,
+      "name": "Наталія Ужвій",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "09.09.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 202,
+      "name": "175 років державному дендрологічному парку «Тростянець»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "15.09.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 203,
+      "name": "725 років м. Рівному",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "19.09.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 204,
+      "name": "90 років утворення Західно-Української Народної Республіки",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "03.11.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 205,
+      "name": "Григорій Квітка-Основ'яненко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "18.11.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 206,
+      "name": "140-річчя Всеукраїнського товариства «Просвіта» імені Тараса Шевченка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "01.12.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 207,
+      "name": "975 років м. Богуслав",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "05.12.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 208,
+      "name": "Василь Симоненко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.12.08",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 209,
+      "name": "Павло Чубинський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "14.01.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 210,
+      "name": "70 років проголошення Карпатської України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "13.03.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 211,
+      "name": "Андрій Лівицький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "27.03.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 212,
+      "name": "Українська писанка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "16.04.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 213,
+      "name": "60 років Національному музею Т. Г. Шевченка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "29.04.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 214,
+      "name": "Борис Мартос",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.05.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 215,
+      "name": "Симон Петлюра",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.05.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 216,
+      "name": "Ігор Сікорський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.05.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 217,
+      "name": "225 років м. Сімферополю",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "01.06.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 218,
+      "name": "Бокораш",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.07.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 219,
+      "name": "60 років Раді Європи",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "20.08.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 220,
+      "name": "Микола Боголюбов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "20.08.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 221,
+      "name": "220 років м. Миколаєву",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "07.09.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 222,
+      "name": "Володимир Івасюк",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.09.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 223,
+      "name": "Міжнародний рік астрономії",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "14.10.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 224,
+      "name": "Богдан-Ігор Антонич",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.10.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 225,
+      "name": "Кость Левицький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.11.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 226,
+      "name": "70 років утворення Запорізької області",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "17.12.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 227,
+      "name": "Стельмах",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.12.09",
+      "section": "2005—2009 роки"
+    },
+    {
+      "no": 228,
+      "name": "165 років Астрономічній обсерваторії Київського національного університету",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.01.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 229,
+      "name": "100-річчя українського хокею з шайбою",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.03.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 230,
+      "name": "165 років Національному університету «Львівська політехніка»",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.05.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 231,
+      "name": "Іван Кожедуб",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "01.06.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 232,
+      "name": "Ковила українська",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.06.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 233,
+      "name": "20-річчя ухвалення Декларації про державний суверенітет України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "15.07.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 234,
+      "name": "Ткаля",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.07.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 235,
+      "name": "Спас",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.07.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 236,
+      "name": "925 років м. Луцьку",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.07.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 237,
+      "name": "125 років Національному технічному університету «Харківський політехнічний інститут»",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "30.08.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 238,
+      "name": "Українське лікарське товариство",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "24.09.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 239,
+      "name": "Гончар",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "06.12.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 240,
+      "name": "Козацький човен",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "20.12.10",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 241,
+      "name": "350 років Львівському національному університету імені Івана Франка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "20.01.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 242,
+      "name": "Коваль",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "28.03.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 243,
+      "name": "Останній шлях Кобзаря",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.04.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 244,
+      "name": "50-річчя заснування Національної премії України імені Тараса Шевченка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.05.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 245,
+      "name": "15 років Конституції України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.05.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 246,
+      "name": "800 років м. Збараж",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "30.06.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 247,
+      "name": "Андріївська церква",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "20.07.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 248,
+      "name": "Гопак",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "29.07.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 249,
+      "name": "20 років незалежності України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "19.08.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 250,
+      "name": "20 років СНД",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.10.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 251,
+      "name": "Міжнародний рік лісів",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.11.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 252,
+      "name": "Фінальний турнір чемпіонату Європи з футболу 2012",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "23.12.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 253,
+      "name": "Фінальний турнір чемпіонату Європи з футболу 2012. Місто Харків",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "23.12.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 254,
+      "name": "Фінальний турнір чемпіонату Європи з футболу 2012. Місто Львів",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "23.12.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 255,
+      "name": "Фінальний турнір чемпіонату Європи з футболу 2012. Місто Донецьк",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "23.12.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 256,
+      "name": "Фінальний турнір чемпіонату Європи з футболу 2012. Місто Київ",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "23.12.11",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 257,
+      "name": "Гутник",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.02.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 258,
+      "name": "350 років м. Івано-Франківську",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.04.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 259,
+      "name": "Сидір Ковпак",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 15000,
+      "issue_date": "08.06.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 260,
+      "name": "200 років Нікітському ботанічному саду",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.06.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 261,
+      "name": "Ігри ХХХ Олімпіади в Лондоні",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "12.07.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 262,
+      "name": "Єлецький Свято-Успенський монастир",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "27.07.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 263,
+      "name": "Кушнір",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "16.08.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 264,
+      "name": "Паралімпійські ігри",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.08.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 265,
+      "name": "Античне судноплавство",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.08.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 266,
+      "name": "1800 років м. Судаку",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "17.09.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 267,
+      "name": "Михайло Кравчук",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 15000,
+      "issue_date": "20.09.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 268,
+      "name": "500 років м. Чигирину",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "10.10.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 269,
+      "name": "Українська лірична пісня",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "29.10.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 270,
+      "name": "Синагога в Жовкві",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.11.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 271,
+      "name": "Кача — етап історії вітчизняної авіації",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "22.11.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 272,
+      "name": "Стерлядь прісноводна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "27.11.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 273,
+      "name": "75 років Житомирській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 15000,
+      "issue_date": "29.11.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 274,
+      "name": "75 років Миколаївській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 15000,
+      "issue_date": "29.11.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 275,
+      "name": "Всесвітній рік кажана",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "15.12.12",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 276,
+      "name": "Дрохва",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.04.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 277,
+      "name": "Будинок з химерами",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "15.05.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 278,
+      "name": "75 років Луганській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "28.05.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 279,
+      "name": "Юнацький чемпіонат світу з легкої атлетики",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "26.06.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 280,
+      "name": "1025-річчя хрещення Київської Русі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "03.07.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 281,
+      "name": "100 років Київському науково-дослідному інституту судових експертиз",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 15000,
+      "issue_date": "03.07.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 282,
+      "name": "Українська вишиванка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.08.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 283,
+      "name": "Визволення Харкова від фашистських загарбників",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "21.08.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 284,
+      "name": "Чемпіонат світу з художньої гімнастики",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "22.08.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 285,
+      "name": "650 років першій писемній згадці про м. Вінницю",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.08.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 286,
+      "name": "Петля Нестерова",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.08.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 287,
+      "name": "Будинок Поета",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "12.09.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 288,
+      "name": "150 років Національній філармонії України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "12.09.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 289,
+      "name": "Визволення Донбасу від фашистських загарбників",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.09.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 290,
+      "name": "Прорив радянськими військами німецької лінії оборони «Вотан» та визволення Мелітополя",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "16.10.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 291,
+      "name": "Ольга Кобилянська",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.10.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 292,
+      "name": "Нестор Махно",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "25.10.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 293,
+      "name": "Битва за Дніпро",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.10.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 294,
+      "name": "100 років Національній музичній академії України імені П. І. Чайковського",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "01.11.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 295,
+      "name": "Борис Грінченко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "22.11.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 296,
+      "name": "Лінійний корабель «Слава Катерини»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "18.12.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 297,
+      "name": "1120 років м. Ужгороду",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "25.12.13",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 298,
+      "name": "60 років Черкаській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "03.01.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 299,
+      "name": "75 років Кіровоградській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "09.01.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 300,
+      "name": "75 років Сумській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "09.01.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 301,
+      "name": "XXII зимові Олімпійські ігри в Сочі",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 15000,
+      "issue_date": "03.02.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 302,
+      "name": "Визволення Нікополя від фашистських загарбників",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "07.02.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 303,
+      "name": "Корсунь-Шевченківська битва",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "17.02.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 304,
+      "name": "Євгеній Березняк",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.02.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 305,
+      "name": "200-річчя від дня народження Т. Г. Шевченка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "07.03.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 306,
+      "name": "75 років Запорізькій області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.03.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 307,
+      "name": "70 років Херсонській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "28.03.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 308,
+      "name": "Володимир Сергєєв",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "11.04.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 309,
+      "name": "Анна Ярославна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "22.05.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 310,
+      "name": "220 років м. Одесі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.05.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 311,
+      "name": "Джон Джеймс Юз",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "18.07.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 312,
+      "name": "180 років Київському національному університету імені Тараса Шевченка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "31.07.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 313,
+      "name": "Микола Реріх",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.09.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 314,
+      "name": "Цикламен коський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "30.09.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 315,
+      "name": "700 років мечеті хана Узбека і медресе",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "10.10.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 316,
+      "name": "500-річчя битви під Оршею",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "15.10.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 317,
+      "name": "70 років визволення України від фашистських загарбників",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "21.10.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 318,
+      "name": "Остап Вишня",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "29.10.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 319,
+      "name": "75 років Тернопільській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.11.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 320,
+      "name": "75 років Львівській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.11.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 321,
+      "name": "75 років Івано-Франківській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.11.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 322,
+      "name": "75 років Волинській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.11.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 323,
+      "name": "75 років Рівненській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "25.11.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 324,
+      "name": "Василь Липківський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "27.11.14",
+      "section": "2010—2014 роки"
+    },
+    {
+      "no": 325,
+      "name": "Галшка Гулевичівна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "27.01.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 326,
+      "name": "Євромайдан",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "18.02.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 327,
+      "name": "Небесна сотня",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "18.02.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 328,
+      "name": "Революція гідності",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "18.02.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 329,
+      "name": "Михайло Вербицький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "04.03.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 330,
+      "name": "Яків Гніздовський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "31.03.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 331,
+      "name": "120 років Харківському зоопарку",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "15.04.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 332,
+      "name": "150 років Одеському національному університету імені І. І. Мечникова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.04.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 333,
+      "name": "70 років Перемоги",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "05.05.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 334,
+      "name": "Київський фунікулер",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "27.05.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 335,
+      "name": "Петро Прокопович",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "08.07.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 336,
+      "name": "Андрей Шептицький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "15.07.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 337,
+      "name": "Успенський собор у м. Володимирі-Волинському",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.07.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 338,
+      "name": "75 років Чернівецькій області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "05.07.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 339,
+      "name": "475 років першій писемній згадці про м. Тернопіль",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "20.07.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 340,
+      "name": "Олександр Мурашко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "02.09.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 341,
+      "name": "Іван Карпенко-Карий",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "14.09.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 342,
+      "name": "400 років Національному університету «Києво-Могилянська академія»",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "15.09.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 343,
+      "name": "Підгорецький замок",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "23.09.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 344,
+      "name": "Олешківські піски",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "23.09.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 345,
+      "name": "День захисника України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "12.10.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 346,
+      "name": "100 років Національному університету водного господарства та природокористування",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "29.10.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 347,
+      "name": "260 років Київському військовому госпіталю",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "07.12.15",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 348,
+      "name": "Щедрик",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "05.01.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 349,
+      "name": "70 років Закарпатській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "14.01.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 350,
+      "name": "Софія Русова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "18.02.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 351,
+      "name": "150 років Національній парламентській бібліотеці України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.02.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 352,
+      "name": "Ігри ХХХІ Олімпіади в Ріо-де-Жанейро",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.04.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 353,
+      "name": "Пам'яті жертв геноциду кримськотатарського народу",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "12.05.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 354,
+      "name": "Петриківський розпис",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "20.05.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 355,
+      "name": "Кінний трамвай",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.05.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 356,
+      "name": "Геодезична дуга Струве",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "07.06.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 357,
+      "name": "Іван Миколайчук",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "15.06.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 358,
+      "name": "20 років Конституції України",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.06.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 359,
+      "name": "50 років Тернопільському національному економічному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "23.06.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 360,
+      "name": "Зозулині черевички справжні",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.07.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 361,
+      "name": "Давній Малин",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.07.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 362,
+      "name": "25 років незалежності України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "17.08.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 363,
+      "name": "Київська Русь",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "17.08.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 364,
+      "name": "Козацька держава",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "17.08.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 365,
+      "name": "Галицьке королівство",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "17.08.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 366,
+      "name": "Давній Вишгород",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.08.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 367,
+      "name": "200 років Харківському національному аграрному університету імені В. В. Докучаєва",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "01.09.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 368,
+      "name": "100-річчя боїв легіону Українських січових стрільців на горі Лисоня",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "02.09.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 369,
+      "name": "Україна — непостійний член Ради Безпеки ООН. 2016—2017 рр.",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "07.09.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 370,
+      "name": "Михайло Грушевський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "26.09.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 371,
+      "name": "70 років Київському національному торговельно-економічному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.09.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 372,
+      "name": "100 років пожежному автомобілю України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "03.10.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 373,
+      "name": "Україна починається з тебе",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "12.10.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 374,
+      "name": "До дня Святого Миколая",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "12.12.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 375,
+      "name": "200 років Львівському торговельно-економічному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "12.12.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 376,
+      "name": "Костьол святого Миколая",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.12.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 377,
+      "name": "Богдан Ступка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "19.12.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 378,
+      "name": "Давній Дрогобич",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "22.12.16",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 379,
+      "name": "Тетяна Яблонська",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "21.02.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 380,
+      "name": "До 100-річчя подій Української революції 1917—1921 років",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.03.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 381,
+      "name": "Микола Костомаров",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "20.04.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 382,
+      "name": "Пісенний конкурс «Євробачення-2017»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "11.05.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 383,
+      "name": "200 років Південноукраїнському національному педагогічному університету ім. К. Д. Ушинського",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "11.05.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 384,
+      "name": "Старий замок у м. Кам'янці-Подільському",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "17.05.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 385,
+      "name": "125 років трамвайному руху в Києві",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "25.05.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 386,
+      "name": "Перегузня",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "01.06.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 387,
+      "name": "Йосиф Сліпий",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "20.06.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 388,
+      "name": "400 років Луцькому Хрестовоздвиженському братству",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.06.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 389,
+      "name": "Іван Айвазовський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "11.07.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 390,
+      "name": "Михайло Петренко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "11.07.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 391,
+      "name": "85 років Київській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.07.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 392,
+      "name": "Косівський розпис",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "15.08.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 393,
+      "name": "Давній Галич",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "22.08.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 394,
+      "name": "85 років Вінницькій області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.08.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 395,
+      "name": "60-річчя запуску першого супутника Землі",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "29.08.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 396,
+      "name": "Василь Ремесло",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "04.09.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 397,
+      "name": "500-річчя Реформації",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "15.09.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 398,
+      "name": "Катерининська церква в м. Чернігові",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "18.09.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 399,
+      "name": "80 років Хмельницькій області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "10.10.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 400,
+      "name": "80 років Полтавській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "10.10.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 401,
+      "name": "100 років Херсонському державному університету",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.10.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 402,
+      "name": "100 років Національному академічному українському драматичному театру імені Марії Заньковецької",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "24.10.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 403,
+      "name": "150 років Національному академічному театру опери та балету України ім. Т. Г. Шевченка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "27.10.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 404,
+      "name": "Олександр Архипенко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "09.11.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 405,
+      "name": "100-річчя першого Курултаю кримськотатарського народу",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "17.11.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 406,
+      "name": "XV літні Паралімпійські ігри в Ріо-де-Жанейро",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "21.11.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 407,
+      "name": "100 років з часу утворення Першого українського полку імені Богдана Хмельницького та початку формування українських збройних сил",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.11.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 408,
+      "name": "85 років Чернігівській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.11.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 409,
+      "name": "85 років Одеській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.11.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 410,
+      "name": "100 років Національній академії образотворчого мистецтва і архітектури",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "07.12.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 411,
+      "name": "85 років Харківській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.12.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 412,
+      "name": "85 років Дніпропетровській області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.12.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 413,
+      "name": "50 років Світовому конґресу українців",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.12.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 414,
+      "name": "85 років Донецькій області",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "26.12.17",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 415,
+      "name": "ХХІІІ зимові Олімпійські ігри",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "10.01.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 416,
+      "name": "Олександр Шалімов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "23.01.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 417,
+      "name": "Леонід Жаботинський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "23.01.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 418,
+      "name": "Захисникам Донецького аеропорту",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "30.01.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 419,
+      "name": "Любомир Гузар",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "15.02.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 420,
+      "name": "День українського добровольця",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "12.03.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 421,
+      "name": "100 років утворення Товариства Червоного Хреста України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "29.03.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 422,
+      "name": "Літак АН-132",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "11.04.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 423,
+      "name": "100-річчя створення Українського військово-морського флоту",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "18.04.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 424,
+      "name": "Автономна Республіка Крим",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "25.04.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 425,
+      "name": "Марена дніпровська",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "05.06.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 426,
+      "name": "100 років Кам'янець-Подільському національному університету імені Івана Огієнка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.06.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 427,
+      "name": "100 років Дніпровському національному університету імені Олеся Гончара",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "25.07.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 428,
+      "name": "Валентин Глушко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "25.07.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 429,
+      "name": "100-річчя Таврійського національного університету імені В. І. Вернадського",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.08.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 430,
+      "name": "Ольга Авілова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "03.09.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 431,
+      "name": "Серце віддаю дітям",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "03.09.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 432,
+      "name": "100-річчя випуску перших поштових марок України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "25.09.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 433,
+      "name": "100 років Національній медичній академії післядипломної освіти імені П. Л. Шупика",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "01.10.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 434,
+      "name": "100 років Національній академії наук України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "10.10.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 435,
+      "name": "ХІІ зимові Паралімпійські ігри",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "18.10.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 436,
+      "name": "100 років з часу створення Кобзарського хору",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "18.10.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 437,
+      "name": "Іван Нечуй-Левицький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "06.11.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 438,
+      "name": "Меджибізька фортеця",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "27.11.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 439,
+      "name": "Олексій Коломійченко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "05.12.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 440,
+      "name": "До новорічних свят",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "17.12.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 441,
+      "name": "Місто Київ",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "20.12.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 442,
+      "name": "Місто Севастополь",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "26.12.18",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 443,
+      "name": "Богдан Ханенко",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "17.01.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 444,
+      "name": "100 років Акту Злуки — соборності українських земель",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "17.01.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 445,
+      "name": "Замок Паланок",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "26.02.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 446,
+      "name": "Надання Томосу про автокефалію Православної церкви України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "25.03.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 447,
+      "name": "Холодний Яр",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "15.04.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 448,
+      "name": "Панас Саксаганський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "14.05.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 449,
+      "name": "100 років Одеській кіностудії",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "14.05.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 450,
+      "name": "Мгарський Спасо-Преображенський монастир",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "21.05.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 451,
+      "name": "Олексій Погорєлов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "03.06.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 452,
+      "name": "Орлан-білохвіст",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "10.07.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 453,
+      "name": "Пантелеймон Куліш",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.07.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 454,
+      "name": "175 років з часу заснування Львівської національної музичної академії імені М. В. Лисенка",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "05.09.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 455,
+      "name": "Перший пуск ракети-носія «Зеніт-3SL»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "19.09.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 456,
+      "name": "Іван Труш",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "09.10.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 457,
+      "name": "75 років визволення України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "22.10.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 458,
+      "name": "Казимир Малевич",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "05.11.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 459,
+      "name": "100 років з часу утворення Національної заслуженої академічної капели України «Думка»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "05.11.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 460,
+      "name": "Микола Лукаш",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "17.12.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 461,
+      "name": "Учасникам бойових дій на території інших держав",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "26.12.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 462,
+      "name": "На варті життя",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "26.12.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 463,
+      "name": "КрАЗ-6322 «Солдат»",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "26.12.19",
+      "section": "2015—2019 роки"
+    },
+    {
+      "no": 464,
+      "name": "100 років Харківському історичному музею імені М. Ф. Сумцова",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "16.01.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 465,
+      "name": "100 років Національному академічному драматичному театру імені Івана Франка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "23.01.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 466,
+      "name": "Рік Пацюка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "27.01.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 467,
+      "name": "Золочівський замок",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "19.02.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 468,
+      "name": "Видубицький Свято-Михайлівський монастир",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "16.04.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 469,
+      "name": "75 років перемоги над нацизмом у Другій світовій війні 1939—1945 років",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "05.05.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 470,
+      "name": "Совка розкішна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "02.06.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 471,
+      "name": "Ігри XXXII Олімпіади",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.07.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 472,
+      "name": "Стародавнє місто Дубно",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "28.07.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 473,
+      "name": "Повітряні Сили Збройних Сил України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "03.08.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 474,
+      "name": "День пам'яті полеглих захисників України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "26.08.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 475,
+      "name": "700 років першої писемної згадки про м. Лохвицю",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "27.08.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 476,
+      "name": "200 років Ніжинському державному університету імені Миколи Гоголя",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "01.09.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 477,
+      "name": "Володимир Перетц",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "15.09.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 478,
+      "name": "Славетне місто Запоріжжя",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.09.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 479,
+      "name": "Амет-Хан Султан",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "07.10.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 480,
+      "name": "Передова",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 45000,
+      "issue_date": "12.10.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 481,
+      "name": "Андрій Ромоданов",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "02.11.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 482,
+      "name": "Державна прикордонна служба України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "19.11.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 483,
+      "name": "175 років створення Кирило-Мефодіївського товариства",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "26.11.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 484,
+      "name": "Місто Слов'янськ",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "01.12.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 485,
+      "name": "Володимир Корецький",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "10.12.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 486,
+      "name": "Рік Бика",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "10.12.20",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 487,
+      "name": "Агатангел Кримський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.01.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 488,
+      "name": "250 років Астрономічній обсерваторії Львівського університету",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "10.02.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 489,
+      "name": "200 років Миколаївській астрономічній обсерваторії",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "10.02.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 490,
+      "name": "Решетилівське килимарство",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "15.04.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 491,
+      "name": "Василь Стефаник",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "12.05.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 492,
+      "name": "Київська фортеця",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "14.05.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 493,
+      "name": "100 років Національній академії внутрішніх справ",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "18.05.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 494,
+      "name": "Євген Коновалець",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "09.06.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 495,
+      "name": "Василь Сліпак",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "21.06.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 496,
+      "name": "Маяки України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "22.07.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 497,
+      "name": "Чорнобиль. Відродження. Кінь Пржевальського",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "29.07.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 498,
+      "name": "До 30-річчя незалежності України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "10.08.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 499,
+      "name": "Українські рятівники",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "15.09.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 500,
+      "name": "80-ті роковини трагедії в Бабиному Яру",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "27.09.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 501,
+      "name": "Іван Піддубний",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "05.10.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 502,
+      "name": "Дмитро Бортнянський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "19.10.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 503,
+      "name": "Хотинська битва",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "29.10.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 504,
+      "name": "Десантно-штурмові війська Збройних Сил України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "11.11.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 505,
+      "name": "Гарнізонний храм святих апостолів Петра і Павла (м. Львів)",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "01.12.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 506,
+      "name": "Сухопутні війська Збройних Сил України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "01.12.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 507,
+      "name": "Збройні Сили України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "01.12.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 508,
+      "name": "Рік Тигра",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "09.12.21",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 509,
+      "name": "XXIV зимові Олімпійські ігри",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "18.01.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 510,
+      "name": "В єдності — сила",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "11.07.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 511,
+      "name": "Військово-морські Сили Збройних Сил України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "14.07.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 512,
+      "name": "Ой у лузі червона калина",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 145000,
+      "issue_date": "18.07.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 513,
+      "name": "Сили спеціальних операцій Збройних Сил України",
+      "denomination": "10",
+      "denomination_unit": "грн.",
+      "mintage": "1000 000",
+      "issue_date": "22.07.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 514,
+      "name": "Єлизавета Ярославна",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.07.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 515,
+      "name": "Чорнобиль. Відродження. Ведмідь бурий",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "29.07.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 516,
+      "name": "Державна служба спеціального зв'язку та захисту інформації України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 20000,
+      "issue_date": "09.08.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 517,
+      "name": "Володимирський собор у м. Київ",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "15.09.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 518,
+      "name": "Соломія Крушельницька",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "19.10.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 519,
+      "name": "Надання статусу країни-кандидата на членство в ЄС",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "18.11.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 520,
+      "name": "Наш герб",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "29.11.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 521,
+      "name": "Наш стяг",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "29.11.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 522,
+      "name": "Наш гімн",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "29.11.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 523,
+      "name": "Рік Кота",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 80000,
+      "issue_date": "01.12.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 524,
+      "name": "100 років ХНУ міського господарства імені О. М. Бекетова",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 25000,
+      "issue_date": "01.12.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 525,
+      "name": "Павло Глазовий",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.12.22",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 526,
+      "name": "Василь Кричевський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "24.01.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 527,
+      "name": "Чорнобиль. Відродження. Рись євразійська",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "26.04.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 528,
+      "name": "Павло Скоропадський",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "30.05.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 529,
+      "name": "Народжений в Україні",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "01.06.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 530,
+      "name": "Сміливість бути. UA",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "23.08.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 531,
+      "name": "Воєнна розвідка України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "05.09.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 532,
+      "name": "Країна супергероїв. Дякуємо енергетикам",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "26.09.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 533,
+      "name": "100 років Національному науковому центру «Інститут судових експертиз ім. Засл. проф. М. С. Бокаріуса»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.09.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 534,
+      "name": "Український борщ",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "29.09.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 535,
+      "name": "Захисниці",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "02.10.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 536,
+      "name": "Рік Дракона",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 80000,
+      "issue_date": "24.11.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 537,
+      "name": "Українська мова",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "29.11.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 538,
+      "name": "Країна супергероїв. Дякуємо волонтерам!",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "04.12.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 539,
+      "name": "Країна супергероїв. Дякуємо залізничникам!",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "14.12.23",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 540,
+      "name": "Управління державної охорони України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "29.01.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 541,
+      "name": "Кохання",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "14.02.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 542,
+      "name": "Батьківське щастя",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 100000,
+      "issue_date": "01.03.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 543,
+      "name": "Українська бавовна. Нептун",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "12.04.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 544,
+      "name": "Чорнобиль. Відродження. Лелека чорний",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "26.04.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 545,
+      "name": "День Європи",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "09.05.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 546,
+      "name": "Орьнек. Кримськотатарський орнамент",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.05.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 547,
+      "name": "Крапля життя",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "14.06.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 548,
+      "name": "Світло добра і любові (Олена Пчілка 1849 – 1930)",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "28.06.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 549,
+      "name": "Українська бавовна. Лелека-100",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "22.07.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 550,
+      "name": "Країна супергероїв. Дякуємо медикам!",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "26.07.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 551,
+      "name": "Пльонтанізм (Іван Марчук)",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.08.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 552,
+      "name": "Парламентаризм",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "30.08.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 553,
+      "name": "Абсолютний",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "01.10.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 554,
+      "name": "Рік Змії",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 80000,
+      "issue_date": "05.11.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 555,
+      "name": "100 років із часу заснування «Українського Радіо»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "15.11.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 556,
+      "name": "Українська бавовна. БТР-4Е «Буцефал»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "27.11.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 557,
+      "name": "Ні куля, ні шабля!",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "04.12.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 558,
+      "name": "Безбар’єрність",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "23.12.24",
+      "section": "2020—2024 роки"
+    },
+    {
+      "no": 559,
+      "name": "Служба зовнішньої розвідки України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "23.01.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 560,
+      "name": "100 років від дня народження Ігоря Шамо",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "21.02.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 561,
+      "name": "Тримаймо стрій!",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "24.02.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 562,
+      "name": "Чорнобиль. Відродження. Лось європейський",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "25.04.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 563,
+      "name": "Розстріляне відродження. Юліан Шпол",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "19.06.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 564,
+      "name": "Розстріляне відродження. Микола Хвильовий",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "19.06.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 565,
+      "name": "Українська бавовна. САУ «Богдана»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.06.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 566,
+      "name": "Адміністративне судочинство України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "27.06.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 567,
+      "name": "Українська бавовна. БПЛА «Vampire»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "07.07.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 568,
+      "name": "Опішнянська кераміка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "05.08.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 569,
+      "name": "130 років від дня народження Василя Вишиваного",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "22.08.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 570,
+      "name": "150 років від дня народження Олександра Кошиця",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "12.09.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 571,
+      "name": "Рак-самітник",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.10.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 572,
+      "name": "Бичок-кругляк",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "23.10.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 573,
+      "name": "Рік Коня",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 80000,
+      "issue_date": "03.11.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 574,
+      "name": "Ніл Хасевич",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "25.11.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 575,
+      "name": "Операція «Павутина» (СБУ. Захищаємо Україну разом!)",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 75000,
+      "issue_date": "12.12.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 576,
+      "name": "Українська бавовна. БНА «Magura»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "12.12.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 577,
+      "name": "Дипломатія",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "22.12.25",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 578,
+      "name": "Українська бавовна. РД «Паляниця»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "30.01.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 579,
+      "name": "Країна супергероїв. Дякуємо зброярам!",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "13.04.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 580,
+      "name": "Тим, хто врятував світ. 40 років Чорнобильської катастрофи",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "24.04.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 581,
+      "name": "Чорнобиль. Відродження. Зубр",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 40000,
+      "issue_date": "27.04.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 582,
+      "name": "Розстріляне відродження. Майк Йогансен",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "15.05.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 583,
+      "name": "Розстріляне відродження. Іван Падалка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "15.05.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 584,
+      "name": "100-річчя дня пам'яті Симона Петлюри",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 30000,
+      "issue_date": "20.05.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 585,
+      "name": "65-річчя заснування Національної премії України імені Тараса Шевченка",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 35000,
+      "issue_date": "21.05.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 586,
+      "name": "Господарська юстиція України",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "28.05.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 587,
+      "name": "Українські народні казки. «Кирило Кожум'яка»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "29.06.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 588,
+      "name": "Українська бавовна. Морський дрон «Sea Baby»",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "29.07.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 589,
+      "name": "Азовське море. Морський кріт",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "21.09.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 590,
+      "name": "Чорне море. Чорноморський гребінець",
+      "denomination": "5",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "21.09.26",
+      "section": "2025—2026 роки"
+    },
+    {
+      "no": 591,
+      "name": "100 років від дня народження Богдана Гаврилишина",
+      "denomination": "2",
+      "denomination_unit": "грн.",
+      "mintage": 50000,
+      "issue_date": "19.10.26",
+      "section": "2025—2026 роки"
+    }
+  ],
+  "meta": {
+    "title": "Ювілейні та пам'ятні монети України з недорогоцінних металів - Free Download",
+    "description": "Перелік ювілейних і пам'ятних монет НБУ з недорогоцінних металів: назва, номінал, тираж і дата випуску. Contains 591 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ювілейні та пам'ятні монети України з недорогоцінних металів | ListBase",
+    "seo_description": "Download Ювілейні та пам'ятні монети України з недорогоцінних металів — 591 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 591 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_ювілейних_та_пам'ятних_монет_України_з_недорогоцінних_металів"
+    ]
+  }
+}
