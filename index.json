@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-11T02:06:46.925Z",
-  "total_datasets": 484,
-  "total_records": 476243,
+  "generated": "2026-11-11T02:06:56.716Z",
+  "total_datasets": 485,
+  "total_records": 476304,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -5231,6 +5231,31 @@
         "xlsx": {
           "name": "uk-holovy-verkhovnoi-rady_UK.xlsx",
           "size": 7949
+        }
+      }
+    },
+    {
+      "id": "uk-ministry-oborony",
+      "name": "Міністри оборони України (з 1917 року)",
+      "category": "politics",
+      "record_count": 61,
+      "columns": [
+        "no",
+        "name",
+        "term",
+        "government"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_міністрів_оборони_України",
+      "updated": "2026-11",
+      "size": 17285,
+      "files": {
+        "csv": {
+          "name": "uk-ministry-oborony_UK.csv",
+          "size": 10669
+        },
+        "xlsx": {
+          "name": "uk-ministry-oborony_UK.xlsx",
+          "size": 9695
         }
       }
     },
