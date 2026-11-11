@@ -1,12 +1,12 @@
 {
   "lang": "uk",
-  "generated": "2026-11-11T02:07:13.365Z",
-  "total_datasets": 487,
-  "total_records": 476960,
+  "generated": "2026-11-11T02:07:21.722Z",
+  "total_datasets": 488,
+  "total_records": 477028,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -198,6 +198,29 @@
         "xlsx": {
           "name": "uk-naibilshi-ahroholdynhy-zemelnyi-bank_UK.xlsx",
           "size": 7866
+        }
+      }
+    },
+    {
+      "id": "uk-pogolivia-svynei",
+      "name": "Поголів'я свиней в Україні за роками",
+      "category": "agriculture",
+      "record_count": 68,
+      "columns": [
+        "year",
+        "pigs_thousand_head"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Тваринництво_України",
+      "updated": "2026-11",
+      "size": 6264,
+      "files": {
+        "csv": {
+          "name": "uk-pogolivia-svynei_UK.csv",
+          "size": 1112
+        },
+        "xlsx": {
+          "name": "uk-pogolivia-svynei_UK.xlsx",
+          "size": 7700
         }
       }
     },

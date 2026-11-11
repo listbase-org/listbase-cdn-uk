@@ -1,0 +1,308 @@
+{
+  "id": "uk-pogolivia-svynei",
+  "name": "Поголів'я свиней в Україні за роками",
+  "title": "Поголів'я свиней в Україні за роками",
+  "description": "Динаміка поголів'я свиней в Україні (тисяч голів на кінець року) з 1945 року.",
+  "category": "agriculture",
+  "source": "https://uk.wikipedia.org/wiki/Тваринництво_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Тваринництво_України",
+  "updated": "2026-11",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "pigs_thousand_head",
+      "label": "Pigs Thousand Head",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1945,
+      "pigs_thousand_head": 2888.6
+    },
+    {
+      "year": 1949,
+      "pigs_thousand_head": 7000
+    },
+    {
+      "year": 1950,
+      "pigs_thousand_head": 7765
+    },
+    {
+      "year": 1953,
+      "pigs_thousand_head": "14486,6, 11275,7"
+    },
+    {
+      "year": 1955,
+      "pigs_thousand_head": 15180.9
+    },
+    {
+      "year": 1956,
+      "pigs_thousand_head": "16934, 12590"
+    },
+    {
+      "year": 1957,
+      "pigs_thousand_head": 13982
+    },
+    {
+      "year": 1958,
+      "pigs_thousand_head": 15853.8
+    },
+    {
+      "year": 1959,
+      "pigs_thousand_head": 16452
+    },
+    {
+      "year": 1960,
+      "pigs_thousand_head": 18194
+    },
+    {
+      "year": 1961,
+      "pigs_thousand_head": 21600
+    },
+    {
+      "year": 1962,
+      "pigs_thousand_head": 21600
+    },
+    {
+      "year": 1963,
+      "pigs_thousand_head": 12600
+    },
+    {
+      "year": 1964,
+      "pigs_thousand_head": 16236.3
+    },
+    {
+      "year": 1965,
+      "pigs_thousand_head": 18900
+    },
+    {
+      "year": 1966,
+      "pigs_thousand_head": 17900
+    },
+    {
+      "year": 1967,
+      "pigs_thousand_head": 15000
+    },
+    {
+      "year": 1968,
+      "pigs_thousand_head": 14500
+    },
+    {
+      "year": 1969,
+      "pigs_thousand_head": "16900, 17200"
+    },
+    {
+      "year": 1970,
+      "pigs_thousand_head": 20746
+    },
+    {
+      "year": 1971,
+      "pigs_thousand_head": 21397
+    },
+    {
+      "year": 1972,
+      "pigs_thousand_head": 19600
+    },
+    {
+      "year": 1973,
+      "pigs_thousand_head": 20177
+    },
+    {
+      "year": 1974,
+      "pigs_thousand_head": 20800
+    },
+    {
+      "year": 1975,
+      "pigs_thousand_head": 16800
+    },
+    {
+      "year": 1976,
+      "pigs_thousand_head": 18200
+    },
+    {
+      "year": 1977,
+      "pigs_thousand_head": 19800
+    },
+    {
+      "year": 1978,
+      "pigs_thousand_head": 20700
+    },
+    {
+      "year": 1979,
+      "pigs_thousand_head": 20100
+    },
+    {
+      "year": 1980,
+      "pigs_thousand_head": 19783
+    },
+    {
+      "year": 1981,
+      "pigs_thousand_head": 19900
+    },
+    {
+      "year": 1982,
+      "pigs_thousand_head": 20800
+    },
+    {
+      "year": 1983,
+      "pigs_thousand_head": 21200
+    },
+    {
+      "year": 1984,
+      "pigs_thousand_head": 20800
+    },
+    {
+      "year": 1985,
+      "pigs_thousand_head": 20100
+    },
+    {
+      "year": 1986,
+      "pigs_thousand_head": 20100
+    },
+    {
+      "year": 1987,
+      "pigs_thousand_head": 20100
+    },
+    {
+      "year": 1988,
+      "pigs_thousand_head": 19300
+    },
+    {
+      "year": 1989,
+      "pigs_thousand_head": 19946.7
+    },
+    {
+      "year": 1990,
+      "pigs_thousand_head": 19426.9
+    },
+    {
+      "year": 1991,
+      "pigs_thousand_head": 17838.7
+    },
+    {
+      "year": 1992,
+      "pigs_thousand_head": 16174.9
+    },
+    {
+      "year": 1993,
+      "pigs_thousand_head": 15298
+    },
+    {
+      "year": 1994,
+      "pigs_thousand_head": 13945.5
+    },
+    {
+      "year": 1995,
+      "pigs_thousand_head": 13144.4
+    },
+    {
+      "year": 1996,
+      "pigs_thousand_head": 11235.6
+    },
+    {
+      "year": 1997,
+      "pigs_thousand_head": 9478.7
+    },
+    {
+      "year": 1998,
+      "pigs_thousand_head": 10083.4
+    },
+    {
+      "year": 1999,
+      "pigs_thousand_head": 10072.9
+    },
+    {
+      "year": 2000,
+      "pigs_thousand_head": 7652.3
+    },
+    {
+      "year": 2001,
+      "pigs_thousand_head": 8369.5
+    },
+    {
+      "year": 2002,
+      "pigs_thousand_head": 9203.7
+    },
+    {
+      "year": 2003,
+      "pigs_thousand_head": 7321.5
+    },
+    {
+      "year": 2004,
+      "pigs_thousand_head": 6466.1
+    },
+    {
+      "year": 2005,
+      "pigs_thousand_head": 7052.8
+    },
+    {
+      "year": 2006,
+      "pigs_thousand_head": 8055
+    },
+    {
+      "year": 2007,
+      "pigs_thousand_head": 7019.9
+    },
+    {
+      "year": 2008,
+      "pigs_thousand_head": 6526
+    },
+    {
+      "year": 2009,
+      "pigs_thousand_head": 7576.6
+    },
+    {
+      "year": 2010,
+      "pigs_thousand_head": 7960.4
+    },
+    {
+      "year": 2011,
+      "pigs_thousand_head": 7373.2
+    },
+    {
+      "year": 2012,
+      "pigs_thousand_head": 7576.7
+    },
+    {
+      "year": 2013,
+      "pigs_thousand_head": 7922.2
+    },
+    {
+      "year": 2014,
+      "pigs_thousand_head": 7350.7
+    },
+    {
+      "year": 2015,
+      "pigs_thousand_head": 7079
+    },
+    {
+      "year": 2016,
+      "pigs_thousand_head": 6669.1
+    },
+    {
+      "year": 2017,
+      "pigs_thousand_head": 6109.9
+    },
+    {
+      "year": 2018,
+      "pigs_thousand_head": 6025.3
+    }
+  ],
+  "meta": {
+    "title": "Поголів'я свиней в Україні за роками - Free Download",
+    "description": "Динаміка поголів'я свиней в Україні (тисяч голів на кінець року) з 1945 року. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Поголів'я свиней в Україні за роками | ListBase",
+    "seo_description": "Download Поголів'я свиней в Україні за роками — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Тваринництво_України"
+    ]
+  }
+}
