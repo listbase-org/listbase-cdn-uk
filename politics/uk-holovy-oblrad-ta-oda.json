@@ -1,0 +1,171 @@
+{
+  "id": "uk-holovy-oblrad-ta-oda",
+  "name": "Голови обласних рад та обласних державних адміністрацій України",
+  "title": "Голови обласних рад та обласних державних адміністрацій України",
+  "description": "Чинні голови обласних рад і обласних державних (військових) адміністрацій за областями України.",
+  "category": "politics",
+  "source": "https://uk.wikipedia.org/wiki/Список_голів_обласних_рад_та_облдержадміністрацій_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_голів_обласних_рад_та_облдержадміністрацій_України",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "council_head",
+      "label": "Council Head",
+      "type": "string"
+    },
+    {
+      "key": "administration_head",
+      "label": "Administration Head",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Вінницька область",
+      "council_head": "Соколовий Вячеслав Петрович",
+      "administration_head": "Заболотна Наталя Михайлівна"
+    },
+    {
+      "region": "Волинська область",
+      "council_head": "Недопад Григорій Вікторович",
+      "administration_head": "Романюк Роман В'ячеславович, т.в.о."
+    },
+    {
+      "region": "Дніпропетровська область",
+      "council_head": "Лукашук Микола Васильович",
+      "administration_head": "Ганжа Олександр Олександрович"
+    },
+    {
+      "region": "Донецька область",
+      "council_head": "вакансія",
+      "administration_head": "Філашкін Вадим Сергійович"
+    },
+    {
+      "region": "Житомирська область",
+      "council_head": "Федоренко Володимир Ілліч",
+      "administration_head": "Бунечко Віталій Іванович"
+    },
+    {
+      "region": "Закарпатська область",
+      "council_head": "Сарай Роман Дмитрович",
+      "administration_head": "Білецький Мирослав Золтанович"
+    },
+    {
+      "region": "Запорізька область",
+      "council_head": "Жук Олена Юріївна",
+      "administration_head": "Семікін Михайло Олександрович, т.в.о."
+    },
+    {
+      "region": "Івано-Франківська область",
+      "council_head": "Сич Олександр Максимович",
+      "administration_head": "Онищук Світлана Василівна"
+    },
+    {
+      "region": "Київська область",
+      "council_head": "Добрянський Ярослав Вікторович (в. о.)",
+      "administration_head": "Ткаченко Тимур Фіруддінович"
+    },
+    {
+      "region": "Кіровоградська область",
+      "council_head": "Дрозд Юрій Васильович",
+      "administration_head": "Райкович Андрій Павлович"
+    },
+    {
+      "region": "Луганська область",
+      "council_head": "вакансія",
+      "administration_head": "Харченко Олексій Андрійович"
+    },
+    {
+      "region": "Львівська область",
+      "council_head": "Холод Юрій Ігорович (в. о.)",
+      "administration_head": "Козицький Максим Зіновійович"
+    },
+    {
+      "region": "Миколаївська область",
+      "council_head": "Табунщик Антон Вікторович",
+      "administration_head": "Решетілов Георгій Олександрович, т.в.о."
+    },
+    {
+      "region": "Одеська область",
+      "council_head": "Діденко Григорій Віталійович",
+      "administration_head": "Кіпер Олег Олександрович"
+    },
+    {
+      "region": "Полтавська область",
+      "council_head": "Біленький Олександр Юрійович",
+      "administration_head": "Дяківнич Віталій Анатолійович"
+    },
+    {
+      "region": "Рівненська область",
+      "council_head": "Карауш Андрій Петрович",
+      "administration_head": "Коваль Олександр Сергійович"
+    },
+    {
+      "region": "Сумська область",
+      "council_head": "Романько Олексій Вікторович",
+      "administration_head": "Григоров Олег Олексійович"
+    },
+    {
+      "region": "Тернопільська область",
+      "council_head": "Бутковський Богдан Леонідович",
+      "administration_head": "Пастух Тарас Тимофійович"
+    },
+    {
+      "region": "Харківська область",
+      "council_head": "Єгорова-Луценко Тетяна Петрівна",
+      "administration_head": "Синєгубов Олег Васильович"
+    },
+    {
+      "region": "Херсонська область",
+      "council_head": "Самойленко Олександр Степанович",
+      "administration_head": "Прокудін Олександр Сергійович"
+    },
+    {
+      "region": "Хмельницька область",
+      "council_head": "Лабазюк Віолета Олександрівна",
+      "administration_head": "Тюрін Сергій Григорович"
+    },
+    {
+      "region": "Черкаська область",
+      "council_head": "Куклін Олег Володимирович",
+      "administration_head": "Табурець Ігор Іванович"
+    },
+    {
+      "region": "Чернівецька область",
+      "council_head": "Гуйтор Микола Миколайович (в. о.)",
+      "administration_head": "Осипенко Руслан Іванович"
+    },
+    {
+      "region": "Чернігівська область",
+      "council_head": "Дмитренко Олена Борисівна",
+      "administration_head": "Чаус В'ячеслав Анатолійович"
+    },
+    {
+      "region": "місто Київ",
+      "council_head": "Кличко Віталій Володимирович",
+      "administration_head": "Ткачов Андрій Сергійович, т.в.о."
+    },
+    {
+      "region": "місто Севастополь",
+      "council_head": "тимчасово окупована територія",
+      "administration_head": "тимчасово окупована територія"
+    }
+  ],
+  "meta": {
+    "title": "Голови обласних рад та обласних державних адміністрацій України - Free Download",
+    "description": "Чинні голови обласних рад і обласних державних (військових) адміністрацій за областями України. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Голови обласних рад та обласних державних адміністрацій України | ListBase",
+    "seo_description": "Download Голови обласних рад та обласних державних адміністрацій України — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_голів_обласних_рад_та_облдержадміністрацій_України"
+    ]
+  }
+}
