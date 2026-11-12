@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-12T01:58:35.428Z",
-  "total_datasets": 490,
-  "total_records": 477898,
+  "generated": "2026-11-12T01:58:42.926Z",
+  "total_datasets": 491,
+  "total_records": 477919,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -3142,6 +3142,32 @@
         "xlsx": {
           "name": "uk-vydy-borshchu_UK.xlsx",
           "size": 10865
+        }
+      }
+    },
+    {
+      "id": "uk-vynorobni-ukrainy",
+      "name": "Виноробні України",
+      "category": "food",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "wine_region",
+        "location",
+        "vineyards",
+        "production"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Виноробство_в_Україні",
+      "updated": "2026-11",
+      "size": 11665,
+      "files": {
+        "csv": {
+          "name": "uk-vynorobni-ukrainy_UK.csv",
+          "size": 7557
+        },
+        "xlsx": {
+          "name": "uk-vynorobni-ukrainy_UK.xlsx",
+          "size": 9503
         }
       }
     },
