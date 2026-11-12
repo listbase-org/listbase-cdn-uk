@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-12T01:58:21.205Z",
-  "total_datasets": 489,
-  "total_records": 477715,
+  "generated": "2026-11-12T01:58:35.428Z",
+  "total_datasets": 490,
+  "total_records": 477898,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -12176,6 +12176,31 @@
         "xlsx": {
           "name": "uk-profesiini-sviata_UK.xlsx",
           "size": 9748
+        }
+      }
+    },
+    {
+      "id": "uk-sviatkovi-ta-pamiatni-dni",
+      "name": "Святкові та пам'ятні дні, що відзначають в Україні",
+      "category": "time",
+      "record_count": 183,
+      "columns": [
+        "month",
+        "date",
+        "name",
+        "info"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Свята_і_пам'ятні_дні_в_Україні",
+      "updated": "2026-11",
+      "size": 81248,
+      "files": {
+        "csv": {
+          "name": "uk-sviatkovi-ta-pamiatni-dni_UK.csv",
+          "size": 65798
+        },
+        "xlsx": {
+          "name": "uk-sviatkovi-ta-pamiatni-dni_UK.xlsx",
+          "size": 23642
         }
       }
     },
