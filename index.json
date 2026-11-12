@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-11T02:07:21.722Z",
-  "total_datasets": 488,
-  "total_records": 477028,
+  "generated": "2026-11-12T01:58:21.205Z",
+  "total_datasets": 489,
+  "total_records": 477715,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -11382,6 +11382,39 @@
         "xlsx": {
           "name": "uk-roslyny-chervonoi-knyhy-ukrainy_UK.xlsx",
           "size": 38958
+        }
+      }
+    },
+    {
+      "id": "uk-etnichnyi-sklad-za-raionamy-2001",
+      "name": "Етнічний склад населення за районами та містами України (перепис 2001)",
+      "category": "society",
+      "record_count": 687,
+      "columns": [
+        "oblast",
+        "unit_type",
+        "unit",
+        "ukrainians_pct",
+        "russians_pct",
+        "belarusians_pct",
+        "moldovans_pct",
+        "crimean_tatars_pct",
+        "bulgarians_pct",
+        "hungarians_pct",
+        "romanians_pct",
+        "poles_pct"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Національний_склад_населення_України",
+      "updated": "2026-11",
+      "size": 273023,
+      "files": {
+        "csv": {
+          "name": "uk-etnichnyi-sklad-za-raionamy-2001_UK.csv",
+          "size": 79185
+        },
+        "xlsx": {
+          "name": "uk-etnichnyi-sklad-za-raionamy-2001_UK.xlsx",
+          "size": 42008
         }
       }
     },
