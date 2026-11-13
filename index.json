@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-12T01:58:42.926Z",
-  "total_datasets": 491,
-  "total_records": 477919,
+  "generated": "2026-11-13T02:10:17.170Z",
+  "total_datasets": 492,
+  "total_records": 477984,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -5178,6 +5178,31 @@
         "xlsx": {
           "name": "uk-holovy-spilky-kompozytoriv_UK.xlsx",
           "size": 7404
+        }
+      }
+    },
+    {
+      "id": "uk-koliadky-i-shchedrivky",
+      "name": "Українські колядки і щедрівки",
+      "category": "music",
+      "record_count": 65,
+      "columns": [
+        "nazva",
+        "rozdil",
+        "dovidka",
+        "tekst"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_українських_колядок_і_щедрівок",
+      "updated": "2026-11",
+      "size": 61550,
+      "files": {
+        "csv": {
+          "name": "uk-koliadky-i-shchedrivky_UK.csv",
+          "size": 54420
+        },
+        "xlsx": {
+          "name": "uk-koliadky-i-shchedrivky_UK.xlsx",
+          "size": 22684
         }
       }
     },
