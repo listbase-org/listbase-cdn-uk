@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-13T02:10:17.170Z",
-  "total_datasets": 492,
-  "total_records": 477984,
+  "generated": "2026-11-13T02:10:28.595Z",
+  "total_datasets": 493,
+  "total_records": 477991,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -12342,6 +12342,31 @@
         "xlsx": {
           "name": "uk-istoryko-kulturni-zapovidnyky_UK.xlsx",
           "size": 10730
+        }
+      }
+    },
+    {
+      "id": "uk-morski-kurorty",
+      "name": "Морські курорти України",
+      "category": "tourism",
+      "record_count": 7,
+      "columns": [
+        "naselenyi_punkt",
+        "uzberezhzhia",
+        "poblyzu",
+        "infrastruktura"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_морських_курортів_України",
+      "updated": "2026-11",
+      "size": 4508,
+      "files": {
+        "csv": {
+          "name": "uk-morski-kurorty_UK.csv",
+          "size": 1776
+        },
+        "xlsx": {
+          "name": "uk-morski-kurorty_UK.xlsx",
+          "size": 7606
         }
       }
     },

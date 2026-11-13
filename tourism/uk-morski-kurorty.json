@@ -1,0 +1,88 @@
+{
+  "id": "uk-morski-kurorty",
+  "name": "Морські курорти України",
+  "title": "Морські курорти України",
+  "description": "Курортні населені пункти на узбережжі Чорного та Азовського морів в Україні з визначними природними об'єктами поблизу та інфраструктурою відпочинку.",
+  "category": "tourism",
+  "source": "https://uk.wikipedia.org/wiki/Список_морських_курортів_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_морських_курортів_України",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "naselenyi_punkt",
+      "label": "Naselenyi Punkt",
+      "type": "string"
+    },
+    {
+      "key": "uzberezhzhia",
+      "label": "Uzberezhzhia",
+      "type": "string"
+    },
+    {
+      "key": "poblyzu",
+      "label": "Poblyzu",
+      "type": "string"
+    },
+    {
+      "key": "infrastruktura",
+      "label": "Infrastruktura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naselenyi_punkt": "Грибівка / Кароліно-Бугаз",
+      "uzberezhzhia": "Чорне море",
+      "poblyzu": "Дністровський лиман",
+      "infrastruktura": "водяні гірки, бази відпочинку на пляжі, прокат водних мотоциклів"
+    },
+    {
+      "naselenyi_punkt": "Лазурне",
+      "uzberezhzhia": "Чорне море",
+      "poblyzu": "острів Джарилгач, озеро Устричне",
+      "infrastruktura": "30 баз відпочинку та дитячих таборів, прокат та катання на водних скутерах тощо"
+    },
+    {
+      "naselenyi_punkt": "Приморське",
+      "uzberezhzhia": "Чорне море",
+      "poblyzu": "Жебріянська бухта, лиман Сасик, Дунайський біосферний заповідник",
+      "infrastruktura": ""
+    },
+    {
+      "naselenyi_punkt": "Росєйка",
+      "uzberezhzhia": "Чорне море",
+      "poblyzu": "Приморське (Татарбунарський район)",
+      "infrastruktura": "50 баз відпочинку з пляжами, що лежать на морській косі"
+    },
+    {
+      "naselenyi_punkt": "Бердянськ",
+      "uzberezhzhia": "Азовське море",
+      "poblyzu": "Бердянська коса, Бердянська затока, острови Великий і Малий Дзендзик лимани й солоні озера з цілющими грязями, мінеральні джерела",
+      "infrastruktura": "Музеї, ландшафтні заказники, зоопарк"
+    },
+    {
+      "naselenyi_punkt": "Маріуполь",
+      "uzberezhzhia": "Азовське море",
+      "poblyzu": "Курортні селища Мелекіне, Урзуф, Ялта, Сєдове, Безіменне, Сопине",
+      "infrastruktura": "Театри, кінотеатри, музеї, виставкові зали"
+    },
+    {
+      "naselenyi_punkt": "Приморськ",
+      "uzberezhzhia": "Азовське море",
+      "poblyzu": "Обитічна коса, Обитічна затока, Великий лиман",
+      "infrastruktura": "Бази відпочинку, дитячі оздоровчі табори, наметове містечко"
+    }
+  ],
+  "meta": {
+    "title": "Морські курорти України - Free Download",
+    "description": "Курортні населені пункти на узбережжі Чорного та Азовського морів в Україні з визначними природними об'єктами поблизу та інфраструктурою відпочинку. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Морські курорти України | ListBase",
+    "seo_description": "Download Морські курорти України — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_морських_курортів_України"
+    ]
+  }
+}
