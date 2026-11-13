@@ -1,0 +1,286 @@
+{
+  "id": "uk-vrp-rehioniv",
+  "name": "Валовий регіональний продукт регіонів України",
+  "title": "Валовий регіональний продукт регіонів України",
+  "description": "Валовий регіональний продукт (ВРП) областей України, Києва та Севастополя у млн гривень за 2008, 2009, 2012, 2017 та 2021 роки з рейтингом.",
+  "category": "economy",
+  "source": "https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "vrp_2021_mln_hrn",
+      "label": "Vrp 2021 Mln Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_2017_mln_hrn",
+      "label": "Vrp 2017 Mln Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_2012_mln_hrn",
+      "label": "Vrp 2012 Mln Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_2009_mln_hrn",
+      "label": "Vrp 2009 Mln Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_2008_mln_hrn",
+      "label": "Vrp 2008 Mln Hrn",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "rehion": "м. Київ",
+      "vrp_2021_mln_hrn": 1276376,
+      "vrp_2017_mln_hrn": 699185,
+      "vrp_2012_mln_hrn": 275685,
+      "vrp_2009_mln_hrn": 169537,
+      "vrp_2008_mln_hrn": 169564
+    },
+    {
+      "rank": 2,
+      "rehion": "Дніпропетровська область",
+      "vrp_2021_mln_hrn": 582363,
+      "vrp_2017_mln_hrn": 313830,
+      "vrp_2012_mln_hrn": 147970,
+      "vrp_2009_mln_hrn": 93331,
+      "vrp_2008_mln_hrn": 104687
+    },
+    {
+      "rank": 3,
+      "rehion": "Харківська область",
+      "vrp_2021_mln_hrn": 319796,
+      "vrp_2017_mln_hrn": 187454,
+      "vrp_2012_mln_hrn": 82223,
+      "vrp_2009_mln_hrn": 58923,
+      "vrp_2008_mln_hrn": 59389
+    },
+    {
+      "rank": 4,
+      "rehion": "Київська область",
+      "vrp_2021_mln_hrn": 291519,
+      "vrp_2017_mln_hrn": 157043,
+      "vrp_2012_mln_hrn": 69663,
+      "vrp_2009_mln_hrn": 37548,
+      "vrp_2008_mln_hrn": 35687
+    },
+    {
+      "rank": 5,
+      "rehion": "Львівська область",
+      "vrp_2021_mln_hrn": 296182,
+      "vrp_2017_mln_hrn": 147404,
+      "vrp_2012_mln_hrn": 61962,
+      "vrp_2009_mln_hrn": 35955,
+      "vrp_2008_mln_hrn": 35534
+    },
+    {
+      "rank": 6,
+      "rehion": "Одеська область",
+      "vrp_2021_mln_hrn": 271669,
+      "vrp_2017_mln_hrn": 149530,
+      "vrp_2012_mln_hrn": 64743,
+      "vrp_2009_mln_hrn": 48647,
+      "vrp_2008_mln_hrn": 46994
+    },
+    {
+      "rank": 7,
+      "rehion": "Донецька область",
+      "vrp_2021_mln_hrn": 283326,
+      "vrp_2017_mln_hrn": 166404,
+      "vrp_2012_mln_hrn": 170775,
+      "vrp_2009_mln_hrn": 103739,
+      "vrp_2008_mln_hrn": 117646
+    },
+    {
+      "rank": 8,
+      "rehion": "Полтавська область",
+      "vrp_2021_mln_hrn": 266694,
+      "vrp_2017_mln_hrn": 150904,
+      "vrp_2012_mln_hrn": 56580,
+      "vrp_2009_mln_hrn": 33629,
+      "vrp_2008_mln_hrn": 34118
+    },
+    {
+      "rank": 9,
+      "rehion": "Запорізька область",
+      "vrp_2021_mln_hrn": 228906,
+      "vrp_2017_mln_hrn": 130377,
+      "vrp_2012_mln_hrn": 54828,
+      "vrp_2009_mln_hrn": 37446,
+      "vrp_2008_mln_hrn": 42445
+    },
+    {
+      "rank": 10,
+      "rehion": "Вінницька область",
+      "vrp_2021_mln_hrn": 173531,
+      "vrp_2017_mln_hrn": 92427,
+      "vrp_2012_mln_hrn": 33024,
+      "vrp_2009_mln_hrn": 20104,
+      "vrp_2008_mln_hrn": 20094
+    },
+    {
+      "rank": 11,
+      "rehion": "Черкаська область",
+      "vrp_2021_mln_hrn": 131154,
+      "vrp_2017_mln_hrn": 73176,
+      "vrp_2012_mln_hrn": 31265,
+      "vrp_2009_mln_hrn": 18707,
+      "vrp_2008_mln_hrn": 19101
+    },
+    {
+      "rank": 12,
+      "rehion": "Миколаївська область",
+      "vrp_2021_mln_hrn": 124162,
+      "vrp_2017_mln_hrn": 69371,
+      "vrp_2012_mln_hrn": 29205,
+      "vrp_2009_mln_hrn": 20336,
+      "vrp_2008_mln_hrn": 19410
+    },
+    {
+      "rank": 13,
+      "rehion": "Хмельницька область",
+      "vrp_2021_mln_hrn": 119876,
+      "vrp_2017_mln_hrn": 63882,
+      "vrp_2012_mln_hrn": 26237,
+      "vrp_2009_mln_hrn": 15758,
+      "vrp_2008_mln_hrn": 16061
+    },
+    {
+      "rank": 14,
+      "rehion": "Житомирська область",
+      "vrp_2021_mln_hrn": 113919,
+      "vrp_2017_mln_hrn": 61470,
+      "vrp_2012_mln_hrn": 24849,
+      "vrp_2009_mln_hrn": 14731,
+      "vrp_2008_mln_hrn": 15008
+    },
+    {
+      "rank": 15,
+      "rehion": "Івано-Франківська область",
+      "vrp_2021_mln_hrn": 119680,
+      "vrp_2017_mln_hrn": 63850,
+      "vrp_2012_mln_hrn": 32286,
+      "vrp_2009_mln_hrn": 17241,
+      "vrp_2008_mln_hrn": 17883
+    },
+    {
+      "rank": 16,
+      "rehion": "Чернігівська область",
+      "vrp_2021_mln_hrn": 113474,
+      "vrp_2017_mln_hrn": 56672,
+      "vrp_2012_mln_hrn": 23934,
+      "vrp_2009_mln_hrn": 14636,
+      "vrp_2008_mln_hrn": 14918
+    },
+    {
+      "rank": 17,
+      "rehion": "Сумська область",
+      "vrp_2021_mln_hrn": 105254,
+      "vrp_2017_mln_hrn": 56530,
+      "vrp_2012_mln_hrn": 24933,
+      "vrp_2009_mln_hrn": 16060,
+      "vrp_2008_mln_hrn": 16210
+    },
+    {
+      "rank": 18,
+      "rehion": "Волинська область",
+      "vrp_2021_mln_hrn": 92535,
+      "vrp_2017_mln_hrn": 51972,
+      "vrp_2012_mln_hrn": 20005,
+      "vrp_2009_mln_hrn": 12225,
+      "vrp_2008_mln_hrn": 12784
+    },
+    {
+      "rank": 19,
+      "rehion": "Кіровоградська область",
+      "vrp_2021_mln_hrn": 99564,
+      "vrp_2017_mln_hrn": 53031,
+      "vrp_2012_mln_hrn": 22056,
+      "vrp_2009_mln_hrn": 13389,
+      "vrp_2008_mln_hrn": 13961
+    },
+    {
+      "rank": 20,
+      "rehion": "Рівненська область",
+      "vrp_2021_mln_hrn": 88859,
+      "vrp_2017_mln_hrn": 48836,
+      "vrp_2012_mln_hrn": 21795,
+      "vrp_2009_mln_hrn": 13469,
+      "vrp_2008_mln_hrn": 14074
+    },
+    {
+      "rank": 21,
+      "rehion": "Херсонська область",
+      "vrp_2021_mln_hrn": 88182,
+      "vrp_2017_mln_hrn": 47868,
+      "vrp_2012_mln_hrn": 19357,
+      "vrp_2009_mln_hrn": 13436,
+      "vrp_2008_mln_hrn": 13174
+    },
+    {
+      "rank": 22,
+      "rehion": "Тернопільська область",
+      "vrp_2021_mln_hrn": 81485,
+      "vrp_2017_mln_hrn": 40747,
+      "vrp_2012_mln_hrn": 17957,
+      "vrp_2009_mln_hrn": 11173,
+      "vrp_2008_mln_hrn": 10618
+    },
+    {
+      "rank": 23,
+      "rehion": "Закарпатська область",
+      "vrp_2021_mln_hrn": 75626,
+      "vrp_2017_mln_hrn": 43043,
+      "vrp_2012_mln_hrn": 21404,
+      "vrp_2009_mln_hrn": 12542,
+      "vrp_2008_mln_hrn": 13208
+    },
+    {
+      "rank": 24,
+      "rehion": "Чернівецька область",
+      "vrp_2021_mln_hrn": 54582,
+      "vrp_2017_mln_hrn": 28591,
+      "vrp_2012_mln_hrn": 13166,
+      "vrp_2009_mln_hrn": 8484,
+      "vrp_2008_mln_hrn": 8833
+    },
+    {
+      "rank": 25,
+      "rehion": "Луганська область",
+      "vrp_2021_mln_hrn": 52135,
+      "vrp_2017_mln_hrn": 30285,
+      "vrp_2012_mln_hrn": 58767,
+      "vrp_2009_mln_hrn": 38451,
+      "vrp_2008_mln_hrn": 42985
+    }
+  ],
+  "meta": {
+    "title": "Валовий регіональний продукт регіонів України - Free Download",
+    "description": "Валовий регіональний продукт (ВРП) областей України, Києва та Севастополя у млн гривень за 2008, 2009, 2012, 2017 та 2021 роки з рейтингом. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Валовий регіональний продукт регіонів України | ListBase",
+    "seo_description": "Download Валовий регіональний продукт регіонів України — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП"
+    ]
+  }
+}

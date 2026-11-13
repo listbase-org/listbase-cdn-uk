@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-13T02:11:02.685Z",
-  "total_datasets": 496,
-  "total_records": 478125,
+  "generated": "2026-11-13T02:11:14.487Z",
+  "total_datasets": 497,
+  "total_records": 478150,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -765,6 +765,34 @@
         "xlsx": {
           "name": "uk-vrp-na-dushu-naselennia-rehioniv_UK.xlsx",
           "size": 8131
+        }
+      }
+    },
+    {
+      "id": "uk-vrp-rehioniv",
+      "name": "Валовий регіональний продукт регіонів України",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "rank",
+        "rehion",
+        "vrp_2021_mln_hrn",
+        "vrp_2017_mln_hrn",
+        "vrp_2012_mln_hrn",
+        "vrp_2009_mln_hrn",
+        "vrp_2008_mln_hrn"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП",
+      "updated": "2026-11",
+      "size": 8749,
+      "files": {
+        "csv": {
+          "name": "uk-vrp-rehioniv_UK.csv",
+          "size": 2216
+        },
+        "xlsx": {
+          "name": "uk-vrp-rehioniv_UK.xlsx",
+          "size": 8174
         }
       }
     },
