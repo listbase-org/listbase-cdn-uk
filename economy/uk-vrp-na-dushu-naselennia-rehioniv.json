@@ -1,0 +1,272 @@
+{
+  "id": "uk-vrp-na-dushu-naselennia-rehioniv",
+  "name": "ВРП на душу населення за регіонами України",
+  "title": "ВРП на душу населення за регіонами України",
+  "description": "Валовий регіональний продукт на одну особу в гривнях за областями України, Києвом і Севастополем (2008, 2012, 2020, 2021) з рейтингом.",
+  "category": "economy",
+  "source": "https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП_на_душу_населення",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП_на_душу_населення",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "vrp_na_dushu_2021_hrn",
+      "label": "Vrp Na Dushu 2021 Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_na_dushu_2020_hrn",
+      "label": "Vrp Na Dushu 2020 Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_na_dushu_2012_hrn",
+      "label": "Vrp Na Dushu 2012 Hrn",
+      "type": "number"
+    },
+    {
+      "key": "vrp_na_dushu_2008_hrn",
+      "label": "Vrp Na Dushu 2008 Hrn",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "rehion": "м. Київ",
+      "vrp_na_dushu_2021_hrn": 431616,
+      "vrp_na_dushu_2020_hrn": 342247,
+      "vrp_na_dushu_2012_hrn": 97429,
+      "vrp_na_dushu_2008_hrn": 61592
+    },
+    {
+      "rank": 4,
+      "rehion": "Дніпропетровська область",
+      "vrp_na_dushu_2021_hrn": 186697,
+      "vrp_na_dushu_2020_hrn": 126209,
+      "vrp_na_dushu_2012_hrn": 44650,
+      "vrp_na_dushu_2008_hrn": 30918
+    },
+    {
+      "rank": 22,
+      "rehion": "Донецька область",
+      "vrp_na_dushu_2021_hrn": 69446,
+      "vrp_na_dushu_2020_hrn": 50124,
+      "vrp_na_dushu_2012_hrn": 38907,
+      "vrp_na_dushu_2008_hrn": 26028
+    },
+    {
+      "rank": 5,
+      "rehion": "Запорізька область",
+      "vrp_na_dushu_2021_hrn": 138521,
+      "vrp_na_dushu_2020_hrn": 99738,
+      "vrp_na_dushu_2012_hrn": 30656,
+      "vrp_na_dushu_2008_hrn": 23232
+    },
+    {
+      "rank": 2,
+      "rehion": "Полтавська область",
+      "vrp_na_dushu_2021_hrn": 195825,
+      "vrp_na_dushu_2020_hrn": 136608,
+      "vrp_na_dushu_2012_hrn": 38424,
+      "vrp_na_dushu_2008_hrn": 22476
+    },
+    {
+      "rank": 6,
+      "rehion": "Харківська область",
+      "vrp_na_dushu_2021_hrn": 122227,
+      "vrp_na_dushu_2020_hrn": 97428,
+      "vrp_na_dushu_2012_hrn": 29972,
+      "vrp_na_dushu_2008_hrn": 21294
+    },
+    {
+      "rank": 3,
+      "rehion": "Київська область",
+      "vrp_na_dushu_2021_hrn": 162696,
+      "vrp_na_dushu_2020_hrn": 135817,
+      "vrp_na_dushu_2012_hrn": 40483,
+      "vrp_na_dushu_2008_hrn": 20593
+    },
+    {
+      "rank": 8,
+      "rehion": "Одеська область",
+      "vrp_na_dushu_2021_hrn": 115129,
+      "vrp_na_dushu_2020_hrn": 92823,
+      "vrp_na_dushu_2012_hrn": 27070,
+      "vrp_na_dushu_2008_hrn": 19638
+    },
+    {
+      "rank": 25,
+      "rehion": "Луганська область",
+      "vrp_na_dushu_2021_hrn": 24684,
+      "vrp_na_dushu_2020_hrn": 20297,
+      "vrp_na_dushu_2012_hrn": 25950,
+      "vrp_na_dushu_2008_hrn": 18338
+    },
+    {
+      "rank": 26,
+      "rehion": "м. Севастополь",
+      "vrp_na_dushu_2021_hrn": "",
+      "vrp_na_dushu_2020_hrn": "",
+      "vrp_na_dushu_2012_hrn": 25872,
+      "vrp_na_dushu_2008_hrn": 16592
+    },
+    {
+      "rank": 11,
+      "rehion": "Миколаївська область",
+      "vrp_na_dushu_2021_hrn": 112864,
+      "vrp_na_dushu_2020_hrn": 86750,
+      "vrp_na_dushu_2012_hrn": 24838,
+      "vrp_na_dushu_2008_hrn": 16175
+    },
+    {
+      "rank": 9,
+      "rehion": "Черкаська область",
+      "vrp_na_dushu_2021_hrn": 112145,
+      "vrp_na_dushu_2020_hrn": 91817,
+      "vrp_na_dushu_2012_hrn": 24558,
+      "vrp_na_dushu_2008_hrn": 14581
+    },
+    {
+      "rank": 7,
+      "rehion": "Львівська область",
+      "vrp_na_dushu_2021_hrn": 119049,
+      "vrp_na_dushu_2020_hrn": 94317,
+      "vrp_na_dushu_2012_hrn": 24387,
+      "vrp_na_dushu_2008_hrn": 13902
+    },
+    {
+      "rank": 27,
+      "rehion": "Автономна Республіка Крим",
+      "vrp_na_dushu_2021_hrn": "",
+      "vrp_na_dushu_2020_hrn": "",
+      "vrp_na_dushu_2012_hrn": 22675,
+      "vrp_na_dushu_2008_hrn": 13898
+    },
+    {
+      "rank": 16,
+      "rehion": "Сумська область",
+      "vrp_na_dushu_2021_hrn": 100760,
+      "vrp_na_dushu_2020_hrn": 75815,
+      "vrp_na_dushu_2012_hrn": 21722,
+      "vrp_na_dushu_2008_hrn": 13622
+    },
+    {
+      "rank": 13,
+      "rehion": "Кіровоградська область",
+      "vrp_na_dushu_2021_hrn": 109183,
+      "vrp_na_dushu_2020_hrn": 81166,
+      "vrp_na_dushu_2012_hrn": 22082,
+      "vrp_na_dushu_2008_hrn": 13515
+    },
+    {
+      "rank": 12,
+      "rehion": "Чернігівська область",
+      "vrp_na_dushu_2021_hrn": 117225,
+      "vrp_na_dushu_2020_hrn": 85435,
+      "vrp_na_dushu_2012_hrn": 22096,
+      "vrp_na_dushu_2008_hrn": 13213
+    },
+    {
+      "rank": 19,
+      "rehion": "Івано-Франківська область",
+      "vrp_na_dushu_2021_hrn": 88227,
+      "vrp_na_dushu_2020_hrn": 66245,
+      "vrp_na_dushu_2012_hrn": 23379,
+      "vrp_na_dushu_2008_hrn": 12940
+    },
+    {
+      "rank": 17,
+      "rehion": "Волинська область",
+      "vrp_na_dushu_2021_hrn": 90331,
+      "vrp_na_dushu_2020_hrn": 75193,
+      "vrp_na_dushu_2012_hrn": 19249,
+      "vrp_na_dushu_2008_hrn": 12340
+    },
+    {
+      "rank": 20,
+      "rehion": "Рівненська область",
+      "vrp_na_dushu_2021_hrn": 77599,
+      "vrp_na_dushu_2020_hrn": 62485,
+      "vrp_na_dushu_2012_hrn": 18860,
+      "vrp_na_dushu_2008_hrn": 12217
+    },
+    {
+      "rank": 10,
+      "rehion": "Вінницька область",
+      "vrp_na_dushu_2021_hrn": 114218,
+      "vrp_na_dushu_2020_hrn": 88380,
+      "vrp_na_dushu_2012_hrn": 20253,
+      "vrp_na_dushu_2008_hrn": 12061
+    },
+    {
+      "rank": 18,
+      "rehion": "Херсонська область",
+      "vrp_na_dushu_2021_hrn": 87378,
+      "vrp_na_dushu_2020_hrn": 66973,
+      "vrp_na_dushu_2012_hrn": 17910,
+      "vrp_na_dushu_2008_hrn": 11944
+    },
+    {
+      "rank": 14,
+      "rehion": "Хмельницька область",
+      "vrp_na_dushu_2021_hrn": 96964,
+      "vrp_na_dushu_2020_hrn": 77153,
+      "vrp_na_dushu_2012_hrn": 19920,
+      "vrp_na_dushu_2008_hrn": 11932
+    },
+    {
+      "rank": 15,
+      "rehion": "Житомирська область",
+      "vrp_na_dushu_2021_hrn": 95948,
+      "vrp_na_dushu_2020_hrn": 76017,
+      "vrp_na_dushu_2012_hrn": 19551,
+      "vrp_na_dushu_2008_hrn": 11545
+    },
+    {
+      "rank": 24,
+      "rehion": "Закарпатська область",
+      "vrp_na_dushu_2021_hrn": 60632,
+      "vrp_na_dushu_2020_hrn": 49538,
+      "vrp_na_dushu_2012_hrn": 17088,
+      "vrp_na_dushu_2008_hrn": 10626
+    },
+    {
+      "rank": 23,
+      "rehion": "Чернівецька область",
+      "vrp_na_dushu_2021_hrn": 61088,
+      "vrp_na_dushu_2020_hrn": 50110,
+      "vrp_na_dushu_2012_hrn": 14529,
+      "vrp_na_dushu_2008_hrn": 9771
+    },
+    {
+      "rank": 21,
+      "rehion": "Тернопільська область",
+      "vrp_na_dushu_2021_hrn": 79412,
+      "vrp_na_dushu_2020_hrn": 60565,
+      "vrp_na_dushu_2012_hrn": 16644,
+      "vrp_na_dushu_2008_hrn": 9688
+    }
+  ],
+  "meta": {
+    "title": "ВРП на душу населення за регіонами України - Free Download",
+    "description": "Валовий регіональний продукт на одну особу в гривнях за областями України, Києвом і Севастополем (2008, 2012, 2020, 2021) з рейтингом. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ВРП на душу населення за регіонами України | ListBase",
+    "seo_description": "Download ВРП на душу населення за регіонами України — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП_на_душу_населення"
+    ]
+  }
+}

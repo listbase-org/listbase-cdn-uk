@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-13T02:10:51.551Z",
-  "total_datasets": 495,
-  "total_records": 478098,
+  "generated": "2026-11-13T02:11:02.685Z",
+  "total_datasets": 496,
+  "total_records": 478125,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -738,6 +738,33 @@
         "xlsx": {
           "name": "uk-naizamozhnishi-liudy-ukrainy-2012_UK.xlsx",
           "size": 12589
+        }
+      }
+    },
+    {
+      "id": "uk-vrp-na-dushu-naselennia-rehioniv",
+      "name": "ВРП на душу населення за регіонами України",
+      "category": "economy",
+      "record_count": 27,
+      "columns": [
+        "rank",
+        "rehion",
+        "vrp_na_dushu_2021_hrn",
+        "vrp_na_dushu_2020_hrn",
+        "vrp_na_dushu_2012_hrn",
+        "vrp_na_dushu_2008_hrn"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_регіонів_України_за_ВРП_на_душу_населення",
+      "updated": "2026-11",
+      "size": 8880,
+      "files": {
+        "csv": {
+          "name": "uk-vrp-na-dushu-naselennia-rehioniv_UK.csv",
+          "size": 2134
+        },
+        "xlsx": {
+          "name": "uk-vrp-na-dushu-naselennia-rehioniv_UK.xlsx",
+          "size": 8131
         }
       }
     },
