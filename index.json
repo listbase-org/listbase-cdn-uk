@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-13T02:10:28.595Z",
-  "total_datasets": 493,
-  "total_records": 477991,
+  "generated": "2026-11-13T02:10:38.992Z",
+  "total_datasets": 494,
+  "total_records": 478016,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "environment",
@@ -2051,6 +2051,29 @@
         "xlsx": {
           "name": "uk-naipopuliarnishi-ukrainomovni-youtube-kanaly_UK.xlsx",
           "size": 11934
+        }
+      }
+    },
+    {
+      "id": "uk-narodni-ihry",
+      "name": "Українські народні ігри",
+      "category": "entertainment",
+      "record_count": 25,
+      "columns": [
+        "nazva",
+        "opys"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_українських_народних_ігор",
+      "updated": "2026-11",
+      "size": 8313,
+      "files": {
+        "csv": {
+          "name": "uk-narodni-ihry_UK.csv",
+          "size": 5649
+        },
+        "xlsx": {
+          "name": "uk-narodni-ihry_UK.xlsx",
+          "size": 9115
         }
       }
     },
