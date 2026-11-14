@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-14T02:00:09.241Z",
-  "total_datasets": 499,
-  "total_records": 478287,
+  "generated": "2026-11-14T02:00:20.316Z",
+  "total_datasets": 500,
+  "total_records": 478314,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -11620,6 +11620,31 @@
         "xlsx": {
           "name": "uk-etnichnyi-sklad-za-raionamy-2001_UK.xlsx",
           "size": 42008
+        }
+      }
+    },
+    {
+      "id": "uk-naiposhyrenishi-prizvyshcha-za-rehionamy",
+      "name": "Найпоширеніші прізвища за регіонами України",
+      "category": "society",
+      "record_count": 27,
+      "columns": [
+        "rehion",
+        "naiposhyrenishe",
+        "druhe",
+        "tretie"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українські_прізвища",
+      "updated": "2026-11",
+      "size": 6812,
+      "files": {
+        "csv": {
+          "name": "uk-naiposhyrenishi-prizvyshcha-za-rehionamy_UK.csv",
+          "size": 2548
+        },
+        "xlsx": {
+          "name": "uk-naiposhyrenishi-prizvyshcha-za-rehionamy_UK.xlsx",
+          "size": 7735
         }
       }
     },

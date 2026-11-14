@@ -1,0 +1,208 @@
+{
+  "id": "uk-naiposhyrenishi-prizvyshcha-za-rehionamy",
+  "name": "Найпоширеніші прізвища за регіонами України",
+  "title": "Найпоширеніші прізвища за регіонами України",
+  "description": "Три найпоширеніші прізвища в кожній області України, АР Крим, Києві та Севастополі.",
+  "category": "society",
+  "source": "https://uk.wikipedia.org/wiki/Українські_прізвища",
+  "source_url": "https://uk.wikipedia.org/wiki/Українські_прізвища",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "rehion",
+      "label": "Rehion",
+      "type": "string"
+    },
+    {
+      "key": "naiposhyrenishe",
+      "label": "Naiposhyrenishe",
+      "type": "string"
+    },
+    {
+      "key": "druhe",
+      "label": "Druhe",
+      "type": "string"
+    },
+    {
+      "key": "tretie",
+      "label": "Tretie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rehion": "АР Крим",
+      "naiposhyrenishe": "Іванов(а)",
+      "druhe": "Османов(а)",
+      "tretie": "Асанов(а)"
+    },
+    {
+      "rehion": "Вінницька область",
+      "naiposhyrenishe": "Мельник",
+      "druhe": "Шевчук",
+      "tretie": "Поліщук"
+    },
+    {
+      "rehion": "Волинська область",
+      "naiposhyrenishe": "Ковальчук",
+      "druhe": "Романюк",
+      "tretie": "Мельник"
+    },
+    {
+      "rehion": "Дніпропетровська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Коваленко",
+      "tretie": "Бондаренко"
+    },
+    {
+      "rehion": "Донецька область",
+      "naiposhyrenishe": "Іванов(а)",
+      "druhe": "Шевченко",
+      "tretie": "Бондаренко"
+    },
+    {
+      "rehion": "Житомирська область",
+      "naiposhyrenishe": "Ковальчук",
+      "druhe": "Мельник",
+      "tretie": "Поліщук"
+    },
+    {
+      "rehion": "Закарпатська область",
+      "naiposhyrenishe": "Попович",
+      "druhe": "Ковач",
+      "tretie": "Товт"
+    },
+    {
+      "rehion": "Запорізька область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Іванов(а)",
+      "tretie": "Бондаренко"
+    },
+    {
+      "rehion": "Івано-Франківська область",
+      "naiposhyrenishe": "Мельник",
+      "druhe": "Бойчук",
+      "tretie": "Бойко"
+    },
+    {
+      "rehion": "Київська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Коваленко",
+      "tretie": "Ткаченко"
+    },
+    {
+      "rehion": "Кіровоградська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Ткаченко",
+      "tretie": "Коваленко"
+    },
+    {
+      "rehion": "Луганська область",
+      "naiposhyrenishe": "Бондаренко",
+      "druhe": "Шевченко",
+      "tretie": "Попов(а)"
+    },
+    {
+      "rehion": "Львівська область",
+      "naiposhyrenishe": "Мельник",
+      "druhe": "Коваль",
+      "tretie": "Козак"
+    },
+    {
+      "rehion": "Миколаївська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Іванов(а)",
+      "tretie": "Ткаченко"
+    },
+    {
+      "rehion": "Одеська область",
+      "naiposhyrenishe": "Іванов(а)",
+      "druhe": "Шевченко",
+      "tretie": "Бондаренко"
+    },
+    {
+      "rehion": "Полтавська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Коваленко",
+      "tretie": "Бондаренко"
+    },
+    {
+      "rehion": "Рівненська область",
+      "naiposhyrenishe": "Ковальчук",
+      "druhe": "Мельник",
+      "tretie": "Шевчук"
+    },
+    {
+      "rehion": "Сумська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Ткаченко",
+      "tretie": "Коваленко"
+    },
+    {
+      "rehion": "Тернопільська область",
+      "naiposhyrenishe": "Бойко",
+      "druhe": "Мельник",
+      "tretie": "Шевчук"
+    },
+    {
+      "rehion": "Харківська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Бондаренко",
+      "tretie": "Ткаченко"
+    },
+    {
+      "rehion": "Херсонська область",
+      "naiposhyrenishe": "Коваленко",
+      "druhe": "Шевченко",
+      "tretie": "Кравченко"
+    },
+    {
+      "rehion": "Хмельницька область",
+      "naiposhyrenishe": "Мельник",
+      "druhe": "Ковальчук",
+      "tretie": "Шевчук"
+    },
+    {
+      "rehion": "Черкаська область",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Коваленко",
+      "tretie": "Ткаченко"
+    },
+    {
+      "rehion": "Чернівецька область",
+      "naiposhyrenishe": "Ткачук",
+      "druhe": "Руснак",
+      "tretie": "Мельник"
+    },
+    {
+      "rehion": "Чернігівська область",
+      "naiposhyrenishe": "Коваленко",
+      "druhe": "Шевченко",
+      "tretie": "Кравченко"
+    },
+    {
+      "rehion": "м. Київ",
+      "naiposhyrenishe": "Шевченко",
+      "druhe": "Коваленко",
+      "tretie": "Мельник"
+    },
+    {
+      "rehion": "м. Севастополь",
+      "naiposhyrenishe": "Іванов(а)",
+      "druhe": "Попов(а)",
+      "tretie": "Петров(а)"
+    }
+  ],
+  "meta": {
+    "title": "Найпоширеніші прізвища за регіонами України - Free Download",
+    "description": "Три найпоширеніші прізвища в кожній області України, АР Крим, Києві та Севастополі. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найпоширеніші прізвища за регіонами України | ListBase",
+    "seo_description": "Download Найпоширеніші прізвища за регіонами України — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Українські_прізвища"
+    ]
+  }
+}
