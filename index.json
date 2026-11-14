@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-14T01:59:56.538Z",
-  "total_datasets": 498,
-  "total_records": 478187,
+  "generated": "2026-11-14T02:00:09.241Z",
+  "total_datasets": 499,
+  "total_records": 478287,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -4992,6 +4992,30 @@
         "xlsx": {
           "name": "uk-hovory-ukrainskoi-movy_UK.xlsx",
           "size": 7230
+        }
+      }
+    },
+    {
+      "id": "uk-naiposhyrenishi-prizvyshcha",
+      "name": "Найпоширеніші прізвища в Україні",
+      "category": "language",
+      "record_count": 100,
+      "columns": [
+        "rank",
+        "prizvyshche",
+        "kilkist_nosiiv"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українські_прізвища",
+      "updated": "2026-11",
+      "size": 11811,
+      "files": {
+        "csv": {
+          "name": "uk-naiposhyrenishi-prizvyshcha_UK.csv",
+          "size": 3188
+        },
+        "xlsx": {
+          "name": "uk-naiposhyrenishi-prizvyshcha_UK.xlsx",
+          "size": 9260
         }
       }
     },

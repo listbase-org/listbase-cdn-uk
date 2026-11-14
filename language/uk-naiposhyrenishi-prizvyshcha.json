@@ -1,0 +1,541 @@
+{
+  "id": "uk-naiposhyrenishi-prizvyshcha",
+  "name": "Найпоширеніші прізвища в Україні",
+  "title": "Найпоширеніші прізвища в Україні",
+  "description": "100 найпоширеніших прізвищ в Україні з кількістю їхніх носіїв.",
+  "category": "language",
+  "source": "https://uk.wikipedia.org/wiki/Українські_прізвища",
+  "source_url": "https://uk.wikipedia.org/wiki/Українські_прізвища",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "prizvyshche",
+      "label": "Prizvyshche",
+      "type": "string"
+    },
+    {
+      "key": "kilkist_nosiiv",
+      "label": "Kilkist Nosiiv",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "prizvyshche": "Мельник",
+      "kilkist_nosiiv": 107878
+    },
+    {
+      "rank": 2,
+      "prizvyshche": "Шевченко",
+      "kilkist_nosiiv": 106340
+    },
+    {
+      "rank": 3,
+      "prizvyshche": "Коваленко",
+      "kilkist_nosiiv": 88632
+    },
+    {
+      "rank": 4,
+      "prizvyshche": "Бондаренко",
+      "kilkist_nosiiv": 88133
+    },
+    {
+      "rank": 5,
+      "prizvyshche": "Іванов(а)",
+      "kilkist_nosiiv": 84096
+    },
+    {
+      "rank": 6,
+      "prizvyshche": "Бойко",
+      "kilkist_nosiiv": 83195
+    },
+    {
+      "rank": 7,
+      "prizvyshche": "Ткаченко",
+      "kilkist_nosiiv": 82270
+    },
+    {
+      "rank": 8,
+      "prizvyshche": "Кравченко",
+      "kilkist_nosiiv": 75456
+    },
+    {
+      "rank": 9,
+      "prizvyshche": "Ковальчук",
+      "kilkist_nosiiv": 70410
+    },
+    {
+      "rank": 10,
+      "prizvyshche": "Коваль",
+      "kilkist_nosiiv": 62232
+    },
+    {
+      "rank": 11,
+      "prizvyshche": "Олійник",
+      "kilkist_nosiiv": 59375
+    },
+    {
+      "rank": 12,
+      "prizvyshche": "Шевчук",
+      "kilkist_nosiiv": 55851
+    },
+    {
+      "rank": 13,
+      "prizvyshche": "Попов(а)",
+      "kilkist_nosiiv": 54253
+    },
+    {
+      "rank": 14,
+      "prizvyshche": "Поліщук",
+      "kilkist_nosiiv": 53100
+    },
+    {
+      "rank": 15,
+      "prizvyshche": "Ткачук",
+      "kilkist_nosiiv": 45009
+    },
+    {
+      "rank": 16,
+      "prizvyshche": "Савченко",
+      "kilkist_nosiiv": 44925
+    },
+    {
+      "rank": 17,
+      "prizvyshche": "Бондар",
+      "kilkist_nosiiv": 44862
+    },
+    {
+      "rank": 18,
+      "prizvyshche": "Марченко",
+      "kilkist_nosiiv": 44273
+    },
+    {
+      "rank": 19,
+      "prizvyshche": "Руденко",
+      "kilkist_nosiiv": 43954
+    },
+    {
+      "rank": 20,
+      "prizvyshche": "Мороз",
+      "kilkist_nosiiv": 43779
+    },
+    {
+      "rank": 21,
+      "prizvyshche": "Лисенко",
+      "kilkist_nosiiv": 43490
+    },
+    {
+      "rank": 22,
+      "prizvyshche": "Петренко",
+      "kilkist_nosiiv": 42226
+    },
+    {
+      "rank": 23,
+      "prizvyshche": "Ковальов(а)",
+      "kilkist_nosiiv": 40978
+    },
+    {
+      "rank": 24,
+      "prizvyshche": "Клименко",
+      "kilkist_nosiiv": 38483
+    },
+    {
+      "rank": 25,
+      "prizvyshche": "Павленко",
+      "kilkist_nosiiv": 38320
+    },
+    {
+      "rank": 26,
+      "prizvyshche": "Кравчук",
+      "kilkist_nosiiv": 37095
+    },
+    {
+      "rank": 27,
+      "prizvyshche": "Кузьменко",
+      "kilkist_nosiiv": 35543
+    },
+    {
+      "rank": 28,
+      "prizvyshche": "Пономаренко",
+      "kilkist_nosiiv": 35097
+    },
+    {
+      "rank": 29,
+      "prizvyshche": "Савчук",
+      "kilkist_nosiiv": 34708
+    },
+    {
+      "rank": 30,
+      "prizvyshche": "Волошин(а)",
+      "kilkist_nosiiv": 34645
+    },
+    {
+      "rank": 31,
+      "prizvyshche": "Василенко",
+      "kilkist_nosiiv": 34320
+    },
+    {
+      "rank": 32,
+      "prizvyshche": "Левченко",
+      "kilkist_nosiiv": 33904
+    },
+    {
+      "rank": 33,
+      "prizvyshche": "Петров(а)",
+      "kilkist_nosiiv": 33889
+    },
+    {
+      "rank": 34,
+      "prizvyshche": "Харченко",
+      "kilkist_nosiiv": 33735
+    },
+    {
+      "rank": 35,
+      "prizvyshche": "Сидоренко",
+      "kilkist_nosiiv": 32863
+    },
+    {
+      "rank": 36,
+      "prizvyshche": "Волков(а)",
+      "kilkist_nosiiv": 32138
+    },
+    {
+      "rank": 37,
+      "prizvyshche": "Чорний(а)",
+      "kilkist_nosiiv": 32066
+    },
+    {
+      "rank": 38,
+      "prizvyshche": "Карпенко",
+      "kilkist_nosiiv": 31976
+    },
+    {
+      "rank": 39,
+      "prizvyshche": "Гончаров(а)",
+      "kilkist_nosiiv": 31745
+    },
+    {
+      "rank": 40,
+      "prizvyshche": "Гаврилюк",
+      "kilkist_nosiiv": 30971
+    },
+    {
+      "rank": 41,
+      "prizvyshche": "Швець",
+      "kilkist_nosiiv": 30951
+    },
+    {
+      "rank": 42,
+      "prizvyshche": "Мельничук",
+      "kilkist_nosiiv": 30412
+    },
+    {
+      "rank": 43,
+      "prizvyshche": "Романюк",
+      "kilkist_nosiiv": 29970
+    },
+    {
+      "rank": 44,
+      "prizvyshche": "Панченко",
+      "kilkist_nosiiv": 29802
+    },
+    {
+      "rank": 45,
+      "prizvyshche": "Юрченко",
+      "kilkist_nosiiv": 29635
+    },
+    {
+      "rank": 46,
+      "prizvyshche": "Мазур",
+      "kilkist_nosiiv": 29562
+    },
+    {
+      "rank": 47,
+      "prizvyshche": "Хоменко",
+      "kilkist_nosiiv": 29464
+    },
+    {
+      "rank": 48,
+      "prizvyshche": "Васильєв(а)",
+      "kilkist_nosiiv": 29274
+    },
+    {
+      "rank": 49,
+      "prizvyshche": "Попович",
+      "kilkist_nosiiv": 28729
+    },
+    {
+      "rank": 50,
+      "prizvyshche": "Павлюк",
+      "kilkist_nosiiv": 28600
+    },
+    {
+      "rank": 51,
+      "prizvyshche": "Новіков(а)",
+      "kilkist_nosiiv": 28558
+    },
+    {
+      "rank": 52,
+      "prizvyshche": "Кушнір",
+      "kilkist_nosiiv": 27896
+    },
+    {
+      "rank": 53,
+      "prizvyshche": "Литвиненко",
+      "kilkist_nosiiv": 27672
+    },
+    {
+      "rank": 54,
+      "prizvyshche": "Мартинюк",
+      "kilkist_nosiiv": 27394
+    },
+    {
+      "rank": 55,
+      "prizvyshche": "Гончаренко",
+      "kilkist_nosiiv": 27221
+    },
+    {
+      "rank": 56,
+      "prizvyshche": "Приходько",
+      "kilkist_nosiiv": 27157
+    },
+    {
+      "rank": 57,
+      "prizvyshche": "Костенко",
+      "kilkist_nosiiv": 26942
+    },
+    {
+      "rank": 58,
+      "prizvyshche": "Козлов(а)",
+      "kilkist_nosiiv": 26751
+    },
+    {
+      "rank": 59,
+      "prizvyshche": "Кулик",
+      "kilkist_nosiiv": 26635
+    },
+    {
+      "rank": 60,
+      "prizvyshche": "Федоров(а)",
+      "kilkist_nosiiv": 26532
+    },
+    {
+      "rank": 61,
+      "prizvyshche": "Романенко",
+      "kilkist_nosiiv": 26500
+    },
+    {
+      "rank": 62,
+      "prizvyshche": "Зайцев(а)",
+      "kilkist_nosiiv": 26379
+    },
+    {
+      "rank": 63,
+      "prizvyshche": "Костюк",
+      "kilkist_nosiiv": 26106
+    },
+    {
+      "rank": 64,
+      "prizvyshche": "Семенюк",
+      "kilkist_nosiiv": 26035
+    },
+    {
+      "rank": 65,
+      "prizvyshche": "Павлов(а)",
+      "kilkist_nosiiv": 25971
+    },
+    {
+      "rank": 66,
+      "prizvyshche": "Назаренко",
+      "kilkist_nosiiv": 25863
+    },
+    {
+      "rank": 67,
+      "prizvyshche": "Соколов(а)",
+      "kilkist_nosiiv": 25687
+    },
+    {
+      "rank": 68,
+      "prizvyshche": "Ткач",
+      "kilkist_nosiiv": 25628
+    },
+    {
+      "rank": 69,
+      "prizvyshche": "Морозов(а)",
+      "kilkist_nosiiv": 25561
+    },
+    {
+      "rank": 70,
+      "prizvyshche": "Михайлов(а)",
+      "kilkist_nosiiv": 25532
+    },
+    {
+      "rank": 71,
+      "prizvyshche": "Кравець",
+      "kilkist_nosiiv": 25187
+    },
+    {
+      "rank": 72,
+      "prizvyshche": "Коломієць",
+      "kilkist_nosiiv": 25164
+    },
+    {
+      "rank": 73,
+      "prizvyshche": "Козак",
+      "kilkist_nosiiv": 24972
+    },
+    {
+      "rank": 74,
+      "prizvyshche": "Яковенко",
+      "kilkist_nosiiv": 24806
+    },
+    {
+      "rank": 75,
+      "prizvyshche": "Федоренко",
+      "kilkist_nosiiv": 24802
+    },
+    {
+      "rank": 76,
+      "prizvyshche": "Ковтун",
+      "kilkist_nosiiv": 24796
+    },
+    {
+      "rank": 77,
+      "prizvyshche": "Білоус",
+      "kilkist_nosiiv": 24766
+    },
+    {
+      "rank": 78,
+      "prizvyshche": "Нестеренко",
+      "kilkist_nosiiv": 24608
+    },
+    {
+      "rank": 79,
+      "prizvyshche": "Терещенко",
+      "kilkist_nosiiv": 24496
+    },
+    {
+      "rank": 80,
+      "prizvyshche": "Колесник",
+      "kilkist_nosiiv": 24378
+    },
+    {
+      "rank": 81,
+      "prizvyshche": "Зінченко",
+      "kilkist_nosiiv": 23906
+    },
+    {
+      "rank": 82,
+      "prizvyshche": "Тарасенко",
+      "kilkist_nosiiv": 23817
+    },
+    {
+      "rank": 83,
+      "prizvyshche": "Міщенко",
+      "kilkist_nosiiv": 23413
+    },
+    {
+      "rank": 84,
+      "prizvyshche": "Вовк",
+      "kilkist_nosiiv": 23412
+    },
+    {
+      "rank": 85,
+      "prizvyshche": "Демченко",
+      "kilkist_nosiiv": 23336
+    },
+    {
+      "rank": 86,
+      "prizvyshche": "Дяченко",
+      "kilkist_nosiiv": 23226
+    },
+    {
+      "rank": 87,
+      "prizvyshche": "Пилипенко",
+      "kilkist_nosiiv": 23042
+    },
+    {
+      "rank": 88,
+      "prizvyshche": "Іщенко",
+      "kilkist_nosiiv": 23035
+    },
+    {
+      "rank": 89,
+      "prizvyshche": "Макаренко",
+      "kilkist_nosiiv": 23004
+    },
+    {
+      "rank": 90,
+      "prizvyshche": "Кузнецов(а)",
+      "kilkist_nosiiv": 22755
+    },
+    {
+      "rank": 91,
+      "prizvyshche": "Бабенко",
+      "kilkist_nosiiv": 22668
+    },
+    {
+      "rank": 92,
+      "prizvyshche": "Поляков(а)",
+      "kilkist_nosiiv": 22625
+    },
+    {
+      "rank": 93,
+      "prizvyshche": "Кириченко",
+      "kilkist_nosiiv": 22353
+    },
+    {
+      "rank": 94,
+      "prizvyshche": "Тищенко",
+      "kilkist_nosiiv": 22181
+    },
+    {
+      "rank": 95,
+      "prizvyshche": "Тимошенко",
+      "kilkist_nosiiv": 21607
+    },
+    {
+      "rank": 96,
+      "prizvyshche": "Жук",
+      "kilkist_nosiiv": 21472
+    },
+    {
+      "rank": 97,
+      "prizvyshche": "Москаленко",
+      "kilkist_nosiiv": 21446
+    },
+    {
+      "rank": 98,
+      "prizvyshche": "Марчук",
+      "kilkist_nosiiv": 21363
+    },
+    {
+      "rank": 99,
+      "prizvyshche": "Власенко",
+      "kilkist_nosiiv": 21233
+    },
+    {
+      "rank": 100,
+      "prizvyshche": "Степанов(а)",
+      "kilkist_nosiiv": 21150
+    }
+  ],
+  "meta": {
+    "title": "Найпоширеніші прізвища в Україні - Free Download",
+    "description": "100 найпоширеніших прізвищ в Україні з кількістю їхніх носіїв. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Найпоширеніші прізвища в Україні | ListBase",
+    "seo_description": "Download Найпоширеніші прізвища в Україні — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Українські_прізвища"
+    ]
+  }
+}
