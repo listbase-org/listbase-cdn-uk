@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-14T02:00:20.316Z",
-  "total_datasets": 500,
-  "total_records": 478314,
+  "generated": "2026-11-14T02:00:31.617Z",
+  "total_datasets": 501,
+  "total_records": 478355,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -11539,6 +11539,32 @@
         "xlsx": {
           "name": "uk-kosmonavty-poviazani-z-ukrainoiu_UK.xlsx",
           "size": 11127
+        }
+      }
+    },
+    {
+      "id": "uk-nobelivski-laureaty-i-nominanty-z-ukrainy",
+      "name": "Нобелівські лауреати та номінанти, пов'язані з Україною",
+      "category": "science",
+      "record_count": 41,
+      "columns": [
+        "imia",
+        "roky",
+        "status",
+        "zviazok_z_ukrainoiu",
+        "opys"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Нобелівські_лауреати_—_вихідці_з_України",
+      "updated": "2026-11",
+      "size": 30060,
+      "files": {
+        "csv": {
+          "name": "uk-nobelivski-laureaty-i-nominanty-z-ukrainy_UK.csv",
+          "size": 23274
+        },
+        "xlsx": {
+          "name": "uk-nobelivski-laureaty-i-nominanty-z-ukrainy_UK.xlsx",
+          "size": 14408
         }
       }
     },
