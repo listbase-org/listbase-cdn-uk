@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-15T02:15:13.324Z",
-  "total_datasets": 503,
-  "total_records": 478408,
+  "generated": "2026-11-15T02:15:25.195Z",
+  "total_datasets": 504,
+  "total_records": 478510,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -12435,6 +12435,32 @@
         "xlsx": {
           "name": "uk-dni-kvartaly-ery_UK.xlsx",
           "size": 7618
+        }
+      }
+    },
+    {
+      "id": "uk-istoriia-perevedennia-hodynnyka",
+      "name": "Історія переведення годинників в Україні",
+      "category": "time",
+      "record_count": 102,
+      "columns": [
+        "data",
+        "chas_zminy",
+        "velychyna_zminy",
+        "prymitky",
+        "riznytsia_z_utc"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Час_в_Україні",
+      "updated": "2026-11",
+      "size": 25333,
+      "files": {
+        "csv": {
+          "name": "uk-istoriia-perevedennia-hodynnyka_UK.csv",
+          "size": 11031
+        },
+        "xlsx": {
+          "name": "uk-istoriia-perevedennia-hodynnyka_UK.xlsx",
+          "size": 9944
         }
       }
     },

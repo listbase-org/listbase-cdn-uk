@@ -1,0 +1,765 @@
+{
+  "id": "uk-istoriia-perevedennia-hodynnyka",
+  "name": "Історія переведення годинників в Україні",
+  "title": "Історія переведення годинників в Україні",
+  "description": "Хронологія змін обчислення часу на території України з 1924 року: дата й час переведення годинників, величина зміни, підстава та різниця київського часу з UTC.",
+  "category": "time",
+  "source": "https://uk.wikipedia.org/wiki/Час_в_Україні",
+  "source_url": "https://uk.wikipedia.org/wiki/Час_в_Україні",
+  "updated": "2026-11",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "chas_zminy",
+      "label": "Chas Zminy",
+      "type": "string"
+    },
+    {
+      "key": "velychyna_zminy",
+      "label": "Velychyna Zminy",
+      "type": "string"
+    },
+    {
+      "key": "prymitky",
+      "label": "Prymitky",
+      "type": "string"
+    },
+    {
+      "key": "riznytsia_z_utc",
+      "label": "Riznytsia Z Utc",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "02.05.1924",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-00:02:04",
+      "prymitky": "СРСР, введення системи часових поясів на всій території, постанова",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "21.06.1930",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, зміна часу на літній період, постанова (умовний початок \"декретного\" часу)",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "01.10.1930",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "",
+      "prymitky": "СРСР, продовження встановленого порядку обчислення часу, постанова",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "09.02.1931",
+      "chas_zminy": "",
+      "velychyna_zminy": "",
+      "prymitky": "СРСР, продовження порядку обчислення часу «надалі до відміни», постанова",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "20.09.1941",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Окупація міста нацистами, зміна часового поясу, запровадження літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "02.11.1942",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Третій Райх, скасування літнього часу",
+      "riznytsia_z_utc": "01:00"
+    },
+    {
+      "data": "29.03.1943",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Третій Райх, введення літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "04.10.1943",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Третій Райх, скасування літнього часу",
+      "riznytsia_z_utc": "01:00"
+    },
+    {
+      "data": "06.11.1943",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+02:00",
+      "prymitky": "Кінець окупації Третім Райхом, зміна часового поясу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "01.04.1981",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу, постанова",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "01.10.1981",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу, зміна офіційних меж годинних поясів",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "01.04.1982",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "01.10.1982",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "01.04.1983",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "01.10.1983",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "01.04.1984",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "30.09.1984",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу, зміна порядку скасування",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "31.03.1985",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу, зміна порядку введення",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "29.09.1985",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "30.03.1986",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "28.09.1986",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "29.03.1987",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "27.09.1987",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.03.1988",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "25.09.1988",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.03.1989",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "24.09.1989",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "СРСР, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.03.1990",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "СРСР, введення літнього часу",
+      "riznytsia_z_utc": "04:00"
+    },
+    {
+      "data": "01.07.1990",
+      "chas_zminy": "02:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "УРСР, скасування «декретного часу»",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "29.09.1991",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "29.03.1992",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.09.1992",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "28.03.1993",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.09.1993",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "27.03.1994",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.09.1994",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "26.03.1995",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "24.09.1995",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "31.03.1996",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.10.1996",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу, зміна порядку скасування",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "30.03.1997",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.10.1997",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "29.03.1998",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.10.1998",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "28.03.1999",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "31.10.1999",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "26.03.2000",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "29.10.2000",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "25.03.2001",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "28.10.2001",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "31.03.2002",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.10.2002",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "30.03.2003",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.10.2003",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "28.03.2004",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "31.10.2004",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "27.03.2005",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "30.10.2005",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "26.03.2006",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "29.10.2006",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "25.03.2007",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "28.10.2007",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "30.03.2008",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.10.2008",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "29.03.2009",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.10.2009",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "28.03.2010",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "31.10.2010",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "27.03.2011",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "20.09.2011",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "",
+      "prymitky": "Україна, введення постійного літнього часу, скасування літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "18.10.2011",
+      "chas_zminy": "00:00",
+      "velychyna_zminy": "",
+      "prymitky": "Україна, скасування постійного літнього часу, запровадження літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "30.10.2011",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "25.03.2012",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "28.10.2012",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "31.03.2013",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.10.2013",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "30.03.2014",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.10.2014",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "29.03.2015",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.10.2015",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "27.03.2016",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "30.10.2016",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "26.03.2017",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "29.10.2017",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "25.03.2018",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "28.10.2018",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "31.03.2019",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.10.2019",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "29.03.2020",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.10.2020",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "28.03.2021",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "31.10.2021",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "27.03.2022",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "30.10.2022",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "26.03.2023",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "29.10.2023",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "31.03.2024",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "27.10.2024",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "30.03.2025",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "26.10.2025",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    },
+    {
+      "data": "29.03.2026",
+      "chas_zminy": "03:00",
+      "velychyna_zminy": "+01:00",
+      "prymitky": "Україна, введення літнього часу",
+      "riznytsia_z_utc": "03:00"
+    },
+    {
+      "data": "25.10.2026",
+      "chas_zminy": "04:00",
+      "velychyna_zminy": "-01:00",
+      "prymitky": "Україна, скасування літнього часу",
+      "riznytsia_z_utc": "02:00"
+    }
+  ],
+  "meta": {
+    "title": "Історія переведення годинників в Україні - Free Download",
+    "description": "Хронологія змін обчислення часу на території України з 1924 року: дата й час переведення годинників, величина зміни, підстава та різниця київського часу з UTC. Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Історія переведення годинників в Україні | ListBase",
+    "seo_description": "Download Історія переведення годинників в Україні — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Час_в_Україні"
+    ]
+  }
+}
