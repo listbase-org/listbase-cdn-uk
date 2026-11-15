@@ -1,12 +1,12 @@
 {
   "lang": "uk",
-  "generated": "2026-11-15T02:15:36.339Z",
-  "total_datasets": 505,
-  "total_records": 478529,
+  "generated": "2026-11-15T02:15:47.145Z",
+  "total_datasets": 506,
+  "total_records": 478552,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -246,6 +246,32 @@
         "xlsx": {
           "name": "uk-sorty-chasnyku-reiestr_UK.xlsx",
           "size": 7847
+        }
+      }
+    },
+    {
+      "id": "uk-sorty-tsybuli-reiestr",
+      "name": "Сорти цибулі, зареєстровані в Україні",
+      "category": "agriculture",
+      "record_count": 23,
+      "columns": [
+        "sort",
+        "nomer_zaiavky",
+        "rik_reiestratsii",
+        "zaiavnyk",
+        "kharakterystyka"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Сорти_цибулі",
+      "updated": "2026-11",
+      "size": 16182,
+      "files": {
+        "csv": {
+          "name": "uk-sorty-tsybuli-reiestr_UK.csv",
+          "size": 11274
+        },
+        "xlsx": {
+          "name": "uk-sorty-tsybuli-reiestr_UK.xlsx",
+          "size": 10778
         }
       }
     },
