@@ -1,0 +1,160 @@
+{
+  "id": "uk-sorty-chasnyku-reiestr",
+  "name": "Сорти часнику, зареєстровані в Україні",
+  "title": "Сорти часнику, зареєстровані в Україні",
+  "description": "Сорти часнику, внесені до Державного реєстру сортів рослин України: дата заявки, рік реєстрації та заявник (наукова установа).",
+  "category": "agriculture",
+  "source": "https://uk.wikipedia.org/wiki/Сорти_часнику",
+  "source_url": "https://uk.wikipedia.org/wiki/Сорти_часнику",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "sort",
+      "label": "Sort",
+      "type": "string"
+    },
+    {
+      "key": "data_zaiavky",
+      "label": "Data Zaiavky",
+      "type": "string"
+    },
+    {
+      "key": "rik_reiestratsii",
+      "label": "Rik Reiestratsii",
+      "type": "number"
+    },
+    {
+      "key": "zaiavnyk",
+      "label": "Zaiavnyk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sort": "Промінь",
+      "data_zaiavky": "29.10.1992",
+      "rik_reiestratsii": 1999,
+      "zaiavnyk": "Київська дослідна станція Інституту овочівництва і баштанництва Української академії аграрних наук"
+    },
+    {
+      "sort": "Спас",
+      "data_zaiavky": "06.12.1993",
+      "rik_reiestratsii": 1999,
+      "zaiavnyk": "Львівський національний аграрний університет"
+    },
+    {
+      "sort": "Мереф'янський білий",
+      "data_zaiavky": "31.10.2001",
+      "rik_reiestratsii": 2006,
+      "zaiavnyk": "Інститут овочівництва і баштанництва Української академії аграрних наук"
+    },
+    {
+      "sort": "Дюшес",
+      "data_zaiavky": "31.10.2001",
+      "rik_reiestratsii": 2004,
+      "zaiavnyk": "Інститут овочівництва і баштанництва Української академії аграрних наук"
+    },
+    {
+      "sort": "Добродій",
+      "data_zaiavky": "22.11.2005",
+      "rik_reiestratsii": 2007,
+      "zaiavnyk": "Київська дослідна станція Інституту овочівництва і баштанництва Української академії аграрних наук"
+    },
+    {
+      "sort": "Любаша",
+      "data_zaiavky": "08.08.2008",
+      "rik_reiestratsii": 2008,
+      "zaiavnyk": "Захаренко Іван Іванович"
+    },
+    {
+      "sort": "Знахар",
+      "data_zaiavky": "04.12.2009",
+      "rik_reiestratsii": 2011,
+      "zaiavnyk": "Київська дослідна станція Інституту овочівництва і баштанництва Української академії аграрних наук"
+    },
+    {
+      "sort": "Лідія",
+      "data_zaiavky": "16.02.2015",
+      "rik_reiestratsii": 2018,
+      "zaiavnyk": "Львівський національний аграрний університет"
+    },
+    {
+      "sort": "Ірен",
+      "data_zaiavky": "19.05.2017",
+      "rik_reiestratsii": 2018,
+      "zaiavnyk": "Паращенко Сергій Вікторович"
+    },
+    {
+      "sort": "Єловаліум",
+      "data_zaiavky": "28.12.2017",
+      "rik_reiestratsii": 2018,
+      "zaiavnyk": "Інститут біоенергетичних культур і цукрових буряків Національної академії аграрних наук України"
+    },
+    {
+      "sort": "Редаліум",
+      "data_zaiavky": "28.12.2017",
+      "rik_reiestratsii": 2018,
+      "zaiavnyk": "Інститут біоенергетичних культур і цукрових буряків Національної академії аграрних наук України"
+    },
+    {
+      "sort": "Вайталіум",
+      "data_zaiavky": "28.12.2017",
+      "rik_reiestratsii": 2018,
+      "zaiavnyk": "Інститут біоенергетичних культур і цукрових буряків Національної академії аграрних наук України"
+    },
+    {
+      "sort": "Любава Таврійська",
+      "data_zaiavky": "29.12.2017",
+      "rik_reiestratsii": 2021,
+      "zaiavnyk": "Торговий Дом \"Зоря-Плюс"
+    },
+    {
+      "sort": "Айдер",
+      "data_zaiavky": "11.04.2019",
+      "rik_reiestratsii": 2021,
+      "zaiavnyk": "Мереженюк Вадим Анатолійович"
+    },
+    {
+      "sort": "Золочівський замок",
+      "data_zaiavky": "09.06.2021",
+      "rik_reiestratsii": 2022,
+      "zaiavnyk": "Мереженюк Вадим Анатолійович"
+    },
+    {
+      "sort": "Аполлон",
+      "data_zaiavky": "26.10.2021",
+      "rik_reiestratsii": 2022,
+      "zaiavnyk": "Уманський національний університет садівництва"
+    },
+    {
+      "sort": "Супер Любаша",
+      "data_zaiavky": "22.12.2021",
+      "rik_reiestratsii": 2023,
+      "zaiavnyk": "Литвинов Артем Георгійович"
+    },
+    {
+      "sort": "Джованна",
+      "data_zaiavky": "20.04.2022",
+      "rik_reiestratsii": 2022,
+      "zaiavnyk": "Уманський національний університет садівництва"
+    },
+    {
+      "sort": "Глорія",
+      "data_zaiavky": "10.02.2023",
+      "rik_reiestratsii": 2023,
+      "zaiavnyk": "Уманський національний університет садівництва"
+    }
+  ],
+  "meta": {
+    "title": "Сорти часнику, зареєстровані в Україні - Free Download",
+    "description": "Сорти часнику, внесені до Державного реєстру сортів рослин України: дата заявки, рік реєстрації та заявник (наукова установа). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Сорти часнику, зареєстровані в Україні | ListBase",
+    "seo_description": "Download Сорти часнику, зареєстровані в Україні — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Сорти_часнику"
+    ]
+  }
+}

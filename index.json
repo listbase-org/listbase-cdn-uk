@@ -1,12 +1,12 @@
 {
   "lang": "uk",
-  "generated": "2026-11-15T02:15:25.195Z",
-  "total_datasets": 504,
-  "total_records": 478510,
+  "generated": "2026-11-15T02:15:36.339Z",
+  "total_datasets": 505,
+  "total_records": 478529,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -221,6 +221,31 @@
         "xlsx": {
           "name": "uk-pogolivia-svynei_UK.xlsx",
           "size": 7700
+        }
+      }
+    },
+    {
+      "id": "uk-sorty-chasnyku-reiestr",
+      "name": "Сорти часнику, зареєстровані в Україні",
+      "category": "agriculture",
+      "record_count": 19,
+      "columns": [
+        "sort",
+        "data_zaiavky",
+        "rik_reiestratsii",
+        "zaiavnyk"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Сорти_часнику",
+      "updated": "2026-11",
+      "size": 6704,
+      "files": {
+        "csv": {
+          "name": "uk-sorty-chasnyku-reiestr_UK.csv",
+          "size": 2971
+        },
+        "xlsx": {
+          "name": "uk-sorty-chasnyku-reiestr_UK.xlsx",
+          "size": 7847
         }
       }
     },
