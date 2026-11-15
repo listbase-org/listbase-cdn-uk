@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-15T02:15:01.506Z",
-  "total_datasets": 502,
-  "total_records": 478401,
+  "generated": "2026-11-15T02:15:13.324Z",
+  "total_datasets": 503,
+  "total_records": 478408,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -3122,6 +3122,30 @@
         "xlsx": {
           "name": "uk-zhytomyr-banky_UK.xlsx",
           "size": 7017
+        }
+      }
+    },
+    {
+      "id": "uk-dvanadtsiat-strav-sviatvechora",
+      "name": "Дванадцять страв Святвечора: групи страв",
+      "category": "food",
+      "record_count": 7,
+      "columns": [
+        "hrupa",
+        "poshyreni_pryklady",
+        "osoblyvosti"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Дванадцять_страв",
+      "updated": "2026-11",
+      "size": 3694,
+      "files": {
+        "csv": {
+          "name": "uk-dvanadtsiat-strav-sviatvechora_UK.csv",
+          "size": 1248
+        },
+        "xlsx": {
+          "name": "uk-dvanadtsiat-strav-sviatvechora_UK.xlsx",
+          "size": 7420
         }
       }
     },

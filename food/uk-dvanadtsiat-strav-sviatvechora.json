@@ -1,0 +1,76 @@
+{
+  "id": "uk-dvanadtsiat-strav-sviatvechora",
+  "name": "Дванадцять страв Святвечора: групи страв",
+  "title": "Дванадцять страв Святвечора: групи страв",
+  "description": "Групи традиційних українських пісних страв на Святу вечерю (Дванадцять страв) із поширеними прикладами та особливостями.",
+  "category": "food",
+  "source": "https://uk.wikipedia.org/wiki/Дванадцять_страв",
+  "source_url": "https://uk.wikipedia.org/wiki/Дванадцять_страв",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "hrupa",
+      "label": "Hrupa",
+      "type": "string"
+    },
+    {
+      "key": "poshyreni_pryklady",
+      "label": "Poshyreni Pryklady",
+      "type": "string"
+    },
+    {
+      "key": "osoblyvosti",
+      "label": "Osoblyvosti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hrupa": "Обрядові",
+      "poshyreni_pryklady": "кутя, узвар, калач або книш",
+      "osoblyvosti": "найбільш сталі складові вечері"
+    },
+    {
+      "hrupa": "Перші страви",
+      "poshyreni_pryklady": "пісний борщ, борщ із грибами, квасолею або рибою, капусняк",
+      "osoblyvosti": "набір залежав від регіону"
+    },
+    {
+      "hrupa": "Страви з тіста",
+      "poshyreni_pryklady": "вареники, пироги, вушка, книші, млинці",
+      "osoblyvosti": "начинки традиційно пісні"
+    },
+    {
+      "hrupa": "Зернові й бобові",
+      "poshyreni_pryklady": "квасоля, горох, гречана або пшоняна каша",
+      "osoblyvosti": "використовували продукти власного господарства"
+    },
+    {
+      "hrupa": "Овочеві",
+      "poshyreni_pryklady": "капуста, буряк, картопля, соління",
+      "osoblyvosti": "характерні для зимового раціону"
+    },
+    {
+      "hrupa": "Грибні",
+      "poshyreni_pryklady": "грибна юшка, гриби в борщі, варениках, голубцях або капусті",
+      "osoblyvosti": "особливо поширені в лісових регіонах"
+    },
+    {
+      "hrupa": "Рибні",
+      "poshyreni_pryklady": "смажена, варена, запечена або заливна риба, оселедець",
+      "osoblyvosti": "один зі способів урізноманітнити пісну вечерю"
+    }
+  ],
+  "meta": {
+    "title": "Дванадцять страв Святвечора: групи страв - Free Download",
+    "description": "Групи традиційних українських пісних страв на Святу вечерю (Дванадцять страв) із поширеними прикладами та особливостями. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Дванадцять страв Святвечора: групи страв | ListBase",
+    "seo_description": "Download Дванадцять страв Святвечора: групи страв — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Дванадцять_страв"
+    ]
+  }
+}
