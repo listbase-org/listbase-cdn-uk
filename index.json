@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-16T02:17:08.054Z",
-  "total_datasets": 507,
-  "total_records": 479208,
+  "generated": "2026-11-16T02:18:22.471Z",
+  "total_datasets": 508,
+  "total_records": 479246,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -4853,6 +4853,36 @@
         "xlsx": {
           "name": "uk-natsionalnyi-perelik-osnovnykh-likarskykh-zasobiv_UK.xlsx",
           "size": 46781
+        }
+      }
+    },
+    {
+      "id": "uk-pomerli-za-prychynamy-smerti",
+      "name": "Кількість померлих за причинами смерті в Україні (2015–2021)",
+      "category": "health",
+      "record_count": 38,
+      "columns": [
+        "kod",
+        "prychyna_smerti",
+        "rik_2015",
+        "rik_2016",
+        "rik_2017",
+        "rik_2018",
+        "rik_2019",
+        "rik_2020",
+        "rik_2021"
+      ],
+      "source": "https://data.gov.ua/dataset/70b53ffb-172f-426b-80be-10e500653119",
+      "updated": "2026-11",
+      "size": 14771,
+      "files": {
+        "csv": {
+          "name": "uk-pomerli-za-prychynamy-smerti_UK.csv",
+          "size": 5726
+        },
+        "xlsx": {
+          "name": "uk-pomerli-za-prychynamy-smerti_UK.xlsx",
+          "size": 10224
         }
       }
     },
