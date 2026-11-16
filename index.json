@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-16T02:18:22.471Z",
-  "total_datasets": 508,
-  "total_records": 479246,
+  "generated": "2026-11-16T02:18:33.349Z",
+  "total_datasets": 509,
+  "total_records": 479272,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -4935,6 +4935,37 @@
         "xlsx": {
           "name": "uk-smertnist-naselennia_UK.xlsx",
           "size": 7727
+        }
+      }
+    },
+    {
+      "id": "uk-vil-novi-vypadky-za-rehionamy",
+      "name": "Уперше виявлені випадки ВІЛ за регіонами України (2015–2023)",
+      "category": "health",
+      "record_count": 26,
+      "columns": [
+        "rehion",
+        "rik_2015",
+        "rik_2016",
+        "rik_2017",
+        "rik_2018",
+        "rik_2019",
+        "rik_2020",
+        "rik_2021",
+        "rik_2022",
+        "rik_2023"
+      ],
+      "source": "https://data.gov.ua/dataset/2ebf33f8-ce12-4407-881e-08fc3412c91f",
+      "updated": "2026-11",
+      "size": 9719,
+      "files": {
+        "csv": {
+          "name": "uk-vil-novi-vypadky-za-rehionamy_UK.csv",
+          "size": 2295
+        },
+        "xlsx": {
+          "name": "uk-vil-novi-vypadky-za-rehionamy_UK.xlsx",
+          "size": 8413
         }
       }
     },
