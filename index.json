@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-15T02:15:47.145Z",
-  "total_datasets": 506,
-  "total_records": 478552,
+  "generated": "2026-11-16T02:17:08.054Z",
+  "total_datasets": 507,
+  "total_records": 479208,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -4827,6 +4827,32 @@
         "xlsx": {
           "name": "uk-ministry-okhorony-zdorovia_UK.xlsx",
           "size": 9450
+        }
+      }
+    },
+    {
+      "id": "uk-natsionalnyi-perelik-osnovnykh-likarskykh-zasobiv",
+      "name": "Національний перелік основних лікарських засобів",
+      "category": "health",
+      "record_count": 656,
+      "columns": [
+        "klas",
+        "hrupa",
+        "pidhrupa",
+        "mnn",
+        "forma_vypusku_doza"
+      ],
+      "source": "https://data.gov.ua/dataset/be9df246-6592-4f43-99fe-135466a2a953",
+      "updated": "2026-11",
+      "size": 336394,
+      "files": {
+        "csv": {
+          "name": "uk-natsionalnyi-perelik-osnovnykh-likarskykh-zasobiv_UK.csv",
+          "size": 265236
+        },
+        "xlsx": {
+          "name": "uk-natsionalnyi-perelik-osnovnykh-likarskykh-zasobiv_UK.xlsx",
+          "size": 46781
         }
       }
     },
