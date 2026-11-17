@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-17T02:19:54.448Z",
-  "total_datasets": 511,
-  "total_records": 479346,
+  "generated": "2026-11-17T02:20:05.687Z",
+  "total_datasets": 512,
+  "total_records": 479367,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -5593,6 +5593,33 @@
         "xlsx": {
           "name": "uk-riznovydy-narodnykh-pisen_UK.xlsx",
           "size": 7483
+        }
+      }
+    },
+    {
+      "id": "uk-ukraina-na-dytyachomu-yevrobachenni",
+      "name": "Україна на Дитячому Євробаченні — учасники та результати",
+      "category": "music",
+      "record_count": 21,
+      "columns": [
+        "rik",
+        "misce_provedennya",
+        "vykonavets",
+        "pisnya",
+        "misce",
+        "baly"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Україна_на_Дитячому_Євробаченні",
+      "updated": "2026-11",
+      "size": 6802,
+      "files": {
+        "csv": {
+          "name": "uk-ukraina-na-dytyachomu-yevrobachenni_UK.csv",
+          "size": 1889
+        },
+        "xlsx": {
+          "name": "uk-ukraina-na-dytyachomu-yevrobachenni_UK.xlsx",
+          "size": 8196
         }
       }
     },

@@ -1,0 +1,224 @@
+{
+  "id": "uk-ukraina-na-dytyachomu-yevrobachenni",
+  "name": "Україна на Дитячому Євробаченні — учасники та результати",
+  "title": "Україна на Дитячому Євробаченні — учасники та результати",
+  "description": "Усі представники України на Дитячому пісенному конкурсі Євробачення: рік, місце проведення, виконавець, пісня, підсумкове місце та кількість балів.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/wiki/Україна_на_Дитячому_Євробаченні",
+  "source_url": "https://uk.wikipedia.org/wiki/Україна_на_Дитячому_Євробаченні",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "rik",
+      "label": "Rik",
+      "type": "number"
+    },
+    {
+      "key": "misce_provedennya",
+      "label": "Misce Provedennya",
+      "type": "string"
+    },
+    {
+      "key": "vykonavets",
+      "label": "Vykonavets",
+      "type": "string"
+    },
+    {
+      "key": "pisnya",
+      "label": "Pisnya",
+      "type": "string"
+    },
+    {
+      "key": "misce",
+      "label": "Misce",
+      "type": "number"
+    },
+    {
+      "key": "baly",
+      "label": "Baly",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rik": 2006,
+      "misce_provedennya": "Бухарест",
+      "vykonavets": "Назар Слюсарчук",
+      "pisnya": "«Хлопчик рок-н-рол»",
+      "misce": 9,
+      "baly": 58
+    },
+    {
+      "rik": 2007,
+      "misce_provedennya": "Роттердам",
+      "vykonavets": "Ілона Галицька",
+      "pisnya": "«Урок гламуру»",
+      "misce": 9,
+      "baly": 56
+    },
+    {
+      "rik": 2008,
+      "misce_provedennya": "Лімасол",
+      "vykonavets": "Вікторія Петрик",
+      "pisnya": "«Матроси»",
+      "misce": 2,
+      "baly": 135
+    },
+    {
+      "rik": 2009,
+      "misce_provedennya": "Київ",
+      "vykonavets": "Андранік Алексанян",
+      "pisnya": "«Три тополі, три сурми»",
+      "misce": 5,
+      "baly": 89
+    },
+    {
+      "rik": 2010,
+      "misce_provedennya": "Мінськ",
+      "vykonavets": "Юлія Гурська",
+      "pisnya": "«Мій літак»",
+      "misce": 14,
+      "baly": 28
+    },
+    {
+      "rik": 2011,
+      "misce_provedennya": "Єреван",
+      "vykonavets": "Kristall",
+      "pisnya": "«Європа»",
+      "misce": 11,
+      "baly": 42
+    },
+    {
+      "rik": 2012,
+      "misce_provedennya": "Амстердам",
+      "vykonavets": "Анастасія Петрик",
+      "pisnya": "«Небо»",
+      "misce": 1,
+      "baly": 138
+    },
+    {
+      "rik": 2013,
+      "misce_provedennya": "Київ",
+      "vykonavets": "Софія Тарасова",
+      "pisnya": "«We Are One»",
+      "misce": 2,
+      "baly": 121
+    },
+    {
+      "rik": 2014,
+      "misce_provedennya": "Марса",
+      "vykonavets": "Sympho-Nick",
+      "pisnya": "«Spring Will Come»",
+      "misce": 6,
+      "baly": 74
+    },
+    {
+      "rik": 2015,
+      "misce_provedennya": "Софія",
+      "vykonavets": "Анна Трінчер",
+      "pisnya": "«Почни з себе»",
+      "misce": 11,
+      "baly": 38
+    },
+    {
+      "rik": 2016,
+      "misce_provedennya": "Валетта",
+      "vykonavets": "Софія Роль",
+      "pisnya": "«Planet Craves for Love»",
+      "misce": 14,
+      "baly": 30
+    },
+    {
+      "rik": 2017,
+      "misce_provedennya": "Тбілісі",
+      "vykonavets": "Анастасія Багінська",
+      "pisnya": "«Не зупиняй»",
+      "misce": 7,
+      "baly": 147
+    },
+    {
+      "rik": 2018,
+      "misce_provedennya": "Мінськ",
+      "vykonavets": "Дарина Красновецька",
+      "pisnya": "«Say Love»",
+      "misce": 4,
+      "baly": 182
+    },
+    {
+      "rik": 2019,
+      "misce_provedennya": "Гливиці",
+      "vykonavets": "Софія Іванько",
+      "pisnya": "«Коли здається»",
+      "misce": 15,
+      "baly": 59
+    },
+    {
+      "rik": 2020,
+      "misce_provedennya": "Варшава",
+      "vykonavets": "Олександр Балабанов",
+      "pisnya": "«Відкривай (Open Up)»",
+      "misce": 7,
+      "baly": 106
+    },
+    {
+      "rik": 2021,
+      "misce_provedennya": "Париж",
+      "vykonavets": "Олена Усенко",
+      "pisnya": "«Важіль»",
+      "misce": 6,
+      "baly": 126
+    },
+    {
+      "rik": 2022,
+      "misce_provedennya": "Єреван",
+      "vykonavets": "Злата Дзюнька",
+      "pisnya": "«Незламна»",
+      "misce": 9,
+      "baly": 111
+    },
+    {
+      "rik": 2023,
+      "misce_provedennya": "Ніцца",
+      "vykonavets": "Анастасія Димид",
+      "pisnya": "«Квітка»",
+      "misce": 5,
+      "baly": 128
+    },
+    {
+      "rik": 2024,
+      "misce_provedennya": "Мадрид",
+      "vykonavets": "Артем Котенко",
+      "pisnya": "«Hear Me Now»",
+      "misce": 3,
+      "baly": 203
+    },
+    {
+      "rik": 2025,
+      "misce_provedennya": "Тбілісі",
+      "vykonavets": "Софія Нерсесян",
+      "pisnya": "«Мотанка»",
+      "misce": 2,
+      "baly": 177
+    },
+    {
+      "rik": 2026,
+      "misce_provedennya": "Та-Калі",
+      "vykonavets": "Еріка Колесніченко",
+      "pisnya": "«Not a Lullaby»",
+      "misce": 9,
+      "baly": 106
+    }
+  ],
+  "meta": {
+    "title": "Україна на Дитячому Євробаченні — учасники та результати - Free Download",
+    "description": "Усі представники України на Дитячому пісенному конкурсі Євробачення: рік, місце проведення, виконавець, пісня, підсумкове місце та кількість балів. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Україна на Дитячому Євробаченні — учасники та результати | ListBase",
+    "seo_description": "Download Україна на Дитячому Євробаченні — учасники та результати — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Україна_на_Дитячому_Євробаченні"
+    ]
+  }
+}
