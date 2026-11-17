@@ -1,0 +1,250 @@
+{
+  "id": "uk-transliteratsiia-latynytseiu",
+  "name": "Транслітерація української абетки латиницею — ISO 9, УКППТ 1996, КМУ 2010",
+  "title": "Транслітерація української абетки латиницею — ISO 9, УКППТ 1996, КМУ 2010",
+  "description": "Таблиця відповідності літер української абетки латиниці за стандартом ISO 9, географічною системою УКППТ 1996 та офіційною паспортною транслітерацією (постанова КМУ 2010).",
+  "category": "language",
+  "source": "https://uk.wikipedia.org/wiki/Латинізація_української_мови",
+  "source_url": "https://uk.wikipedia.org/wiki/Латинізація_української_мови",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "kyrylytsia",
+      "label": "Kyrylytsia",
+      "type": "string"
+    },
+    {
+      "key": "iso_9",
+      "label": "Iso 9",
+      "type": "string"
+    },
+    {
+      "key": "heohrafichna_ukppt_1996",
+      "label": "Heohrafichna Ukppt 1996",
+      "type": "string"
+    },
+    {
+      "key": "pasportna_kmu_2010",
+      "label": "Pasportna Kmu 2010",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kyrylytsia": "А а",
+      "iso_9": "A a",
+      "heohrafichna_ukppt_1996": "a",
+      "pasportna_kmu_2010": "a"
+    },
+    {
+      "kyrylytsia": "Б б",
+      "iso_9": "B b",
+      "heohrafichna_ukppt_1996": "b",
+      "pasportna_kmu_2010": "b"
+    },
+    {
+      "kyrylytsia": "В в",
+      "iso_9": "V v",
+      "heohrafichna_ukppt_1996": "v",
+      "pasportna_kmu_2010": "v"
+    },
+    {
+      "kyrylytsia": "Г г",
+      "iso_9": "G g",
+      "heohrafichna_ukppt_1996": "h*",
+      "pasportna_kmu_2010": "h*"
+    },
+    {
+      "kyrylytsia": "Ґ ґ",
+      "iso_9": "ģ",
+      "heohrafichna_ukppt_1996": "g",
+      "pasportna_kmu_2010": "g"
+    },
+    {
+      "kyrylytsia": "Д д",
+      "iso_9": "D d",
+      "heohrafichna_ukppt_1996": "d",
+      "pasportna_kmu_2010": "d"
+    },
+    {
+      "kyrylytsia": "Е е",
+      "iso_9": "E e",
+      "heohrafichna_ukppt_1996": "e",
+      "pasportna_kmu_2010": "e"
+    },
+    {
+      "kyrylytsia": "Є є",
+      "iso_9": "Ê ê",
+      "heohrafichna_ukppt_1996": "ie, ye*",
+      "pasportna_kmu_2010": "ie, ye*"
+    },
+    {
+      "kyrylytsia": "Ж ж",
+      "iso_9": "Ž ž",
+      "heohrafichna_ukppt_1996": "zh",
+      "pasportna_kmu_2010": "zh"
+    },
+    {
+      "kyrylytsia": "З з",
+      "iso_9": "Z z",
+      "heohrafichna_ukppt_1996": "z",
+      "pasportna_kmu_2010": "z"
+    },
+    {
+      "kyrylytsia": "И и",
+      "iso_9": "I i",
+      "heohrafichna_ukppt_1996": "y",
+      "pasportna_kmu_2010": "y"
+    },
+    {
+      "kyrylytsia": "І і",
+      "iso_9": "Ì ì",
+      "heohrafichna_ukppt_1996": "i",
+      "pasportna_kmu_2010": "i"
+    },
+    {
+      "kyrylytsia": "Ї ї",
+      "iso_9": "Ï ї",
+      "heohrafichna_ukppt_1996": "i, yi*",
+      "pasportna_kmu_2010": "i, yi*"
+    },
+    {
+      "kyrylytsia": "Й й",
+      "iso_9": "J j",
+      "heohrafichna_ukppt_1996": "i, y*",
+      "pasportna_kmu_2010": "i, y*"
+    },
+    {
+      "kyrylytsia": "К к",
+      "iso_9": "K k",
+      "heohrafichna_ukppt_1996": "k",
+      "pasportna_kmu_2010": "k"
+    },
+    {
+      "kyrylytsia": "Л л",
+      "iso_9": "L l",
+      "heohrafichna_ukppt_1996": "l",
+      "pasportna_kmu_2010": "l"
+    },
+    {
+      "kyrylytsia": "М м",
+      "iso_9": "M m",
+      "heohrafichna_ukppt_1996": "m",
+      "pasportna_kmu_2010": "m"
+    },
+    {
+      "kyrylytsia": "Н н",
+      "iso_9": "N n",
+      "heohrafichna_ukppt_1996": "n",
+      "pasportna_kmu_2010": "n"
+    },
+    {
+      "kyrylytsia": "О о",
+      "iso_9": "O o",
+      "heohrafichna_ukppt_1996": "o",
+      "pasportna_kmu_2010": "o"
+    },
+    {
+      "kyrylytsia": "П п",
+      "iso_9": "P p",
+      "heohrafichna_ukppt_1996": "p",
+      "pasportna_kmu_2010": "p"
+    },
+    {
+      "kyrylytsia": "Р р",
+      "iso_9": "R r",
+      "heohrafichna_ukppt_1996": "r",
+      "pasportna_kmu_2010": "r"
+    },
+    {
+      "kyrylytsia": "С с",
+      "iso_9": "S s",
+      "heohrafichna_ukppt_1996": "s",
+      "pasportna_kmu_2010": "s"
+    },
+    {
+      "kyrylytsia": "Т т",
+      "iso_9": "T t",
+      "heohrafichna_ukppt_1996": "t",
+      "pasportna_kmu_2010": "t"
+    },
+    {
+      "kyrylytsia": "У у",
+      "iso_9": "U u",
+      "heohrafichna_ukppt_1996": "u",
+      "pasportna_kmu_2010": "u"
+    },
+    {
+      "kyrylytsia": "Ф ф",
+      "iso_9": "F f",
+      "heohrafichna_ukppt_1996": "f",
+      "pasportna_kmu_2010": "f"
+    },
+    {
+      "kyrylytsia": "Х х",
+      "iso_9": "H h",
+      "heohrafichna_ukppt_1996": "kh",
+      "pasportna_kmu_2010": "kh"
+    },
+    {
+      "kyrylytsia": "Ц ц",
+      "iso_9": "C c",
+      "heohrafichna_ukppt_1996": "ts",
+      "pasportna_kmu_2010": "ts"
+    },
+    {
+      "kyrylytsia": "Ч ч",
+      "iso_9": "Č č",
+      "heohrafichna_ukppt_1996": "ch",
+      "pasportna_kmu_2010": "ch"
+    },
+    {
+      "kyrylytsia": "Ш ш",
+      "iso_9": "Š š",
+      "heohrafichna_ukppt_1996": "sh",
+      "pasportna_kmu_2010": "sh"
+    },
+    {
+      "kyrylytsia": "Щ щ",
+      "iso_9": "Šč šč",
+      "heohrafichna_ukppt_1996": "sch",
+      "pasportna_kmu_2010": "shch"
+    },
+    {
+      "kyrylytsia": "Ь ь",
+      "iso_9": "´",
+      "heohrafichna_ukppt_1996": "'",
+      "pasportna_kmu_2010": "<не транслітерується>"
+    },
+    {
+      "kyrylytsia": "Ю ю",
+      "iso_9": "Û û",
+      "heohrafichna_ukppt_1996": "iu, yu*",
+      "pasportna_kmu_2010": "iu, yu*"
+    },
+    {
+      "kyrylytsia": "Я я",
+      "iso_9": "Â â",
+      "heohrafichna_ukppt_1996": "ia, ya*",
+      "pasportna_kmu_2010": "ia, ya*"
+    },
+    {
+      "kyrylytsia": "'",
+      "iso_9": "'",
+      "heohrafichna_ukppt_1996": "'",
+      "pasportna_kmu_2010": "<не транслітерується>"
+    }
+  ],
+  "meta": {
+    "title": "Транслітерація української абетки латиницею — ISO 9, УКППТ 1996, КМУ 2010 - Free Download",
+    "description": "Таблиця відповідності літер української абетки латиниці за стандартом ISO 9, географічною системою УКППТ 1996 та офіційною паспортною транслітерацією (постанова КМУ 2010). Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Транслітерація української абетки латиницею — ISO 9, УКППТ 1996, КМУ 2010 | ListBase",
+    "seo_description": "Download Транслітерація української абетки латиницею — ISO 9, УКППТ 1996, КМУ 2010 — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Латинізація_української_мови"
+    ]
+  }
+}

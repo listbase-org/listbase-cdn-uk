@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-17T02:19:42.899Z",
-  "total_datasets": 510,
-  "total_records": 479312,
+  "generated": "2026-11-17T02:19:54.448Z",
+  "total_datasets": 511,
+  "total_records": 479346,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -5266,6 +5266,31 @@
         "xlsx": {
           "name": "uk-systemy-pysma_UK.xlsx",
           "size": 11357
+        }
+      }
+    },
+    {
+      "id": "uk-transliteratsiia-latynytseiu",
+      "name": "Транслітерація української абетки латиницею — ISO 9, УКППТ 1996, КМУ 2010",
+      "category": "language",
+      "record_count": 34,
+      "columns": [
+        "kyrylytsia",
+        "iso_9",
+        "heohrafichna_ukppt_1996",
+        "pasportna_kmu_2010"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Латинізація_української_мови",
+      "updated": "2026-11",
+      "size": 7252,
+      "files": {
+        "csv": {
+          "name": "uk-transliteratsiia-latynytseiu_UK.csv",
+          "size": 979
+        },
+        "xlsx": {
+          "name": "uk-transliteratsiia-latynytseiu_UK.xlsx",
+          "size": 7881
         }
       }
     },
