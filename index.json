@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-16T02:18:33.349Z",
-  "total_datasets": 509,
-  "total_records": 479272,
+  "generated": "2026-11-17T02:19:42.899Z",
+  "total_datasets": 510,
+  "total_records": 479312,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -5598,6 +5598,31 @@
         "xlsx": {
           "name": "uk-ukraina-na-yevrobachenni_UK.xlsx",
           "size": 9341
+        }
+      }
+    },
+    {
+      "id": "uk-derzhavni-nahorody-ukrainy",
+      "name": "Державні нагороди України — ордени, медалі, премії та відзнаки",
+      "category": "politics",
+      "record_count": 40,
+      "columns": [
+        "hrupa",
+        "nazva",
+        "stupeni",
+        "zasnovano"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Державні_нагороди_України",
+      "updated": "2026-11",
+      "size": 12068,
+      "files": {
+        "csv": {
+          "name": "uk-derzhavni-nahorody-ukrainy_UK.csv",
+          "size": 6541
+        },
+        "xlsx": {
+          "name": "uk-derzhavni-nahorody-ukrainy_UK.xlsx",
+          "size": 8739
         }
       }
     },
