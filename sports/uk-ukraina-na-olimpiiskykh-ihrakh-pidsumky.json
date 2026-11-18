@@ -1,0 +1,346 @@
+{
+  "id": "uk-ukraina-na-olimpiiskykh-ihrakh-pidsumky",
+  "name": "Україна на Олімпійських іграх — підсумки виступів за роками",
+  "title": "Україна на Олімпійських іграх — підсумки виступів за роками",
+  "description": "Підсумки виступів збірної України на літніх і зимових Олімпійських іграх з 1994 року: прапороносець, кількість олімпійців, видів спорту, медалі (золото, срібло, бронза), місце в медальному заліку та найтитулованіші спортсмени.",
+  "category": "sports",
+  "source": "https://uk.wikipedia.org/wiki/Україна_на_Олімпійських_іграх",
+  "source_url": "https://uk.wikipedia.org/wiki/Україна_на_Олімпійських_іграх",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "rik",
+      "label": "Rik",
+      "type": "number"
+    },
+    {
+      "key": "typ_ihor",
+      "label": "Typ Ihor",
+      "type": "string"
+    },
+    {
+      "key": "praporonosets",
+      "label": "Praporonosets",
+      "type": "string"
+    },
+    {
+      "key": "olimpiitsiv",
+      "label": "Olimpiitsiv",
+      "type": "number"
+    },
+    {
+      "key": "cholovikiv",
+      "label": "Cholovikiv",
+      "type": "number"
+    },
+    {
+      "key": "zhinok",
+      "label": "Zhinok",
+      "type": "number"
+    },
+    {
+      "key": "vydiv_sportu",
+      "label": "Vydiv Sportu",
+      "type": "number"
+    },
+    {
+      "key": "zoloto",
+      "label": "Zoloto",
+      "type": "number"
+    },
+    {
+      "key": "sriblo",
+      "label": "Sriblo",
+      "type": "number"
+    },
+    {
+      "key": "bronza",
+      "label": "Bronza",
+      "type": "number"
+    },
+    {
+      "key": "vsoho_medalei",
+      "label": "Vsoho Medalei",
+      "type": "number"
+    },
+    {
+      "key": "mistse",
+      "label": "Mistse",
+      "type": "number"
+    },
+    {
+      "key": "naibilshe_medalei",
+      "label": "Naibilshe Medalei",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rik": 1994,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Віктор Петренко",
+      "olimpiitsiv": 37,
+      "cholovikiv": 20,
+      "zhinok": 17,
+      "vydiv_sportu": 10,
+      "zoloto": 1,
+      "sriblo": 0,
+      "bronza": 1,
+      "vsoho_medalei": 2,
+      "mistse": 13,
+      "naibilshe_medalei": "Валентина Цербе та Оксана Баюл (1)"
+    },
+    {
+      "rik": 1996,
+      "typ_ihor": "Літні",
+      "praporonosets": "Сергій Бубка",
+      "olimpiitsiv": 231,
+      "cholovikiv": 146,
+      "zhinok": 85,
+      "vydiv_sportu": 21,
+      "zoloto": 9,
+      "sriblo": 2,
+      "bronza": 12,
+      "vsoho_medalei": 23,
+      "mistse": 9,
+      "naibilshe_medalei": "Лілія Подкопаєва (3)"
+    },
+    {
+      "rik": 1998,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Андрій Дериземля",
+      "olimpiitsiv": 56,
+      "cholovikiv": 30,
+      "zhinok": 26,
+      "vydiv_sportu": 10,
+      "zoloto": 0,
+      "sriblo": 1,
+      "bronza": 0,
+      "vsoho_medalei": 1,
+      "mistse": 18,
+      "naibilshe_medalei": "Олена Петрова (1)"
+    },
+    {
+      "rik": 2000,
+      "typ_ihor": "Літні",
+      "praporonosets": "Євген Браславець",
+      "olimpiitsiv": 230,
+      "cholovikiv": 139,
+      "zhinok": 91,
+      "vydiv_sportu": 23,
+      "zoloto": 3,
+      "sriblo": 10,
+      "bronza": 10,
+      "vsoho_medalei": 23,
+      "mistse": 21,
+      "naibilshe_medalei": "Яна Клочкова (3)"
+    },
+    {
+      "rik": 2002,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Олена Петрова",
+      "olimpiitsiv": 68,
+      "cholovikiv": 46,
+      "zhinok": 22,
+      "vydiv_sportu": 11,
+      "zoloto": 0,
+      "sriblo": 0,
+      "bronza": 0,
+      "vsoho_medalei": 0,
+      "mistse": "",
+      "naibilshe_medalei": ""
+    },
+    {
+      "rik": 2004,
+      "typ_ihor": "Літні",
+      "praporonosets": "Денис Силантьєв",
+      "olimpiitsiv": 239,
+      "cholovikiv": 124,
+      "zhinok": 115,
+      "vydiv_sportu": 23,
+      "zoloto": 8,
+      "sriblo": 5,
+      "bronza": 9,
+      "vsoho_medalei": 22,
+      "mistse": 12,
+      "naibilshe_medalei": "Яна Клочкова (2)"
+    },
+    {
+      "rik": 2006,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Наталія Якушенко",
+      "olimpiitsiv": 52,
+      "cholovikiv": 30,
+      "zhinok": 22,
+      "vydiv_sportu": 9,
+      "zoloto": 0,
+      "sriblo": 0,
+      "bronza": 2,
+      "vsoho_medalei": 2,
+      "mistse": 25,
+      "naibilshe_medalei": "3 з 1 медаллю"
+    },
+    {
+      "rik": 2008,
+      "typ_ihor": "Літні",
+      "praporonosets": "Яна Клочкова",
+      "olimpiitsiv": 243,
+      "cholovikiv": 127,
+      "zhinok": 116,
+      "vydiv_sportu": 24,
+      "zoloto": 7,
+      "sriblo": 4,
+      "bronza": 11,
+      "vsoho_medalei": 22,
+      "mistse": 11,
+      "naibilshe_medalei": "31 з 1 медаллю"
+    },
+    {
+      "rik": 2010,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Лілія Лудан",
+      "olimpiitsiv": 45,
+      "cholovikiv": 24,
+      "zhinok": 21,
+      "vydiv_sportu": 9,
+      "zoloto": 0,
+      "sriblo": 0,
+      "bronza": 0,
+      "vsoho_medalei": 0,
+      "mistse": "",
+      "naibilshe_medalei": ""
+    },
+    {
+      "rik": 2012,
+      "typ_ihor": "Літні",
+      "praporonosets": "Роман Гонтюк",
+      "olimpiitsiv": 238,
+      "cholovikiv": 124,
+      "zhinok": 114,
+      "vydiv_sportu": 21,
+      "zoloto": 6,
+      "sriblo": 4,
+      "bronza": 10,
+      "vsoho_medalei": 20,
+      "mistse": 14,
+      "naibilshe_medalei": "Інна Осипенко-Радомська та Олена Костевич (2)"
+    },
+    {
+      "rik": 2014,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Валентина Шевченко",
+      "olimpiitsiv": 43,
+      "cholovikiv": 19,
+      "zhinok": 24,
+      "vydiv_sportu": 9,
+      "zoloto": 1,
+      "sriblo": 0,
+      "bronza": 1,
+      "vsoho_medalei": 2,
+      "mistse": 20,
+      "naibilshe_medalei": "Віта Семеренко (2)"
+    },
+    {
+      "rik": 2016,
+      "typ_ihor": "Літні",
+      "praporonosets": "Микола Мільчев",
+      "olimpiitsiv": 205,
+      "cholovikiv": 87,
+      "zhinok": 119,
+      "vydiv_sportu": 27,
+      "zoloto": 2,
+      "sriblo": 5,
+      "bronza": 4,
+      "vsoho_medalei": 11,
+      "mistse": 31,
+      "naibilshe_medalei": "Олег Верняєв та Ольга Харлан (2)"
+    },
+    {
+      "rik": 2018,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Олена Підгрушна",
+      "olimpiitsiv": 33,
+      "cholovikiv": 17,
+      "zhinok": 16,
+      "vydiv_sportu": 9,
+      "zoloto": 1,
+      "sriblo": 0,
+      "bronza": 0,
+      "vsoho_medalei": 1,
+      "mistse": 21,
+      "naibilshe_medalei": "Олександр Абраменко (1)"
+    },
+    {
+      "rik": 2020,
+      "typ_ihor": "Літні",
+      "praporonosets": "Олена Костевич Богдан Нікішин",
+      "olimpiitsiv": 155,
+      "cholovikiv": 66,
+      "zhinok": 89,
+      "vydiv_sportu": 25,
+      "zoloto": 1,
+      "sriblo": 6,
+      "bronza": 12,
+      "vsoho_medalei": 19,
+      "mistse": 44,
+      "naibilshe_medalei": "Михайло Романчук, Людмила Лузан, Анастасія Савчук та Марта Фєдіна (2)"
+    },
+    {
+      "rik": 2022,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Олександра Назарова Олександр Абраменко",
+      "olimpiitsiv": 46,
+      "cholovikiv": 24,
+      "zhinok": 22,
+      "vydiv_sportu": 12,
+      "zoloto": 0,
+      "sriblo": 1,
+      "bronza": 0,
+      "vsoho_medalei": 1,
+      "mistse": 23,
+      "naibilshe_medalei": "Олександр Абраменко (1)"
+    },
+    {
+      "rik": 2024,
+      "typ_ihor": "Літні",
+      "praporonosets": "Еліна Світоліна Михайло Романчук",
+      "olimpiitsiv": 140,
+      "cholovikiv": 71,
+      "zhinok": 69,
+      "vydiv_sportu": 22,
+      "zoloto": 3,
+      "sriblo": 5,
+      "bronza": 4,
+      "vsoho_medalei": 12,
+      "mistse": 22,
+      "naibilshe_medalei": "Ольга Харлан (2)"
+    },
+    {
+      "rik": 2026,
+      "typ_ihor": "Зимові",
+      "praporonosets": "Єлизавета Сидьорко Владислав Гераскевич",
+      "olimpiitsiv": 46,
+      "cholovikiv": 25,
+      "zhinok": 21,
+      "vydiv_sportu": 11,
+      "zoloto": 0,
+      "sriblo": 0,
+      "bronza": 0,
+      "vsoho_medalei": 0,
+      "mistse": "",
+      "naibilshe_medalei": ""
+    }
+  ],
+  "meta": {
+    "title": "Україна на Олімпійських іграх — підсумки виступів за роками - Free Download",
+    "description": "Підсумки виступів збірної України на літніх і зимових Олімпійських іграх з 1994 року: прапороносець, кількість олімпійців, видів спорту, медалі (золото, срібло, бронза), місце в медальному заліку та найтитулованіші спортсмени. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Україна на Олімпійських іграх — підсумки виступів за роками | ListBase",
+    "seo_description": "Download Україна на Олімпійських іграх — підсумки виступів за роками — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Україна_на_Олімпійських_іграх"
+    ]
+  }
+}

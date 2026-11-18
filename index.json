@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-18T02:26:49.490Z",
-  "total_datasets": 513,
-  "total_records": 479401,
+  "generated": "2026-11-18T02:27:00.908Z",
+  "total_datasets": 514,
+  "total_records": 479418,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -12215,6 +12215,40 @@
         "xlsx": {
           "name": "uk-olimpiiski-chempiony-ukrainy_UK.xlsx",
           "size": 9891
+        }
+      }
+    },
+    {
+      "id": "uk-ukraina-na-olimpiiskykh-ihrakh-pidsumky",
+      "name": "Україна на Олімпійських іграх — підсумки виступів за роками",
+      "category": "sports",
+      "record_count": 17,
+      "columns": [
+        "rik",
+        "typ_ihor",
+        "praporonosets",
+        "olimpiitsiv",
+        "cholovikiv",
+        "zhinok",
+        "vydiv_sportu",
+        "zoloto",
+        "sriblo",
+        "bronza",
+        "vsoho_medalei",
+        "mistse",
+        "naibilshe_medalei"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Україна_на_Олімпійських_іграх",
+      "updated": "2026-11",
+      "size": 10178,
+      "files": {
+        "csv": {
+          "name": "uk-ukraina-na-olimpiiskykh-ihrakh-pidsumky_UK.csv",
+          "size": 2580
+        },
+        "xlsx": {
+          "name": "uk-ukraina-na-olimpiiskykh-ihrakh-pidsumky_UK.xlsx",
+          "size": 8512
         }
       }
     },
