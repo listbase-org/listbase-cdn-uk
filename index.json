@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-18T02:27:00.908Z",
-  "total_datasets": 514,
-  "total_records": 479418,
+  "generated": "2026-11-18T02:27:11.804Z",
+  "total_datasets": 515,
+  "total_records": 479437,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5343,6 +5343,34 @@
         "xlsx": {
           "name": "uk-heneralni-prokurory_UK.xlsx",
           "size": 8106
+        }
+      }
+    },
+    {
+      "id": "uk-holovy-konstytutsiinoho-sudu",
+      "name": "Голови Конституційного Суду України",
+      "category": "law",
+      "record_count": 19,
+      "columns": [
+        "nomer",
+        "status",
+        "pib",
+        "pochatok",
+        "kinets",
+        "termin_suddi",
+        "kvota"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Голова_Конституційного_Суду_України",
+      "updated": "2026-11",
+      "size": 8223,
+      "files": {
+        "csv": {
+          "name": "uk-holovy-konstytutsiinoho-sudu_UK.csv",
+          "size": 3348
+        },
+        "xlsx": {
+          "name": "uk-holovy-konstytutsiinoho-sudu_UK.xlsx",
+          "size": 8158
         }
       }
     },
