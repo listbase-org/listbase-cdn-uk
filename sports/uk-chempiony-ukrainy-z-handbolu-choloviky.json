@@ -1,0 +1,250 @@
+{
+  "id": "uk-chempiony-ukrainy-z-handbolu-choloviky",
+  "name": "Чемпіони та призери чемпіонату України з гандболу серед чоловіків",
+  "title": "Чемпіони та призери чемпіонату України з гандболу серед чоловіків",
+  "description": "Переможці, срібні та бронзові призери чемпіонату України з гандболу серед чоловіків за всі сезони з 1992 року.",
+  "category": "sports",
+  "source": "https://uk.wikipedia.org/wiki/Чемпіонат_України_з_гандболу_серед_чоловіків",
+  "source_url": "https://uk.wikipedia.org/wiki/Чемпіонат_України_з_гандболу_серед_чоловіків",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "number"
+    },
+    {
+      "key": "chempion",
+      "label": "Chempion",
+      "type": "string"
+    },
+    {
+      "key": "sribni_pryzery",
+      "label": "Sribni Pryzery",
+      "type": "string"
+    },
+    {
+      "key": "bronzovi_pryzery",
+      "label": "Bronzovi Pryzery",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "1992",
+      "chempion": "Цска Київ",
+      "sribni_pryzery": "СКА«Львів»",
+      "bronzovi_pryzery": "«Світлотехнік-колос» Бровари"
+    },
+    {
+      "sezon": "1992/93",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Світлотехнік-колос» Бровари",
+      "bronzovi_pryzery": "Цска Київ"
+    },
+    {
+      "sezon": "1993/94",
+      "chempion": "Цска Київ",
+      "sribni_pryzery": "«Світлотехнік-колос» Бровари",
+      "bronzovi_pryzery": "ЗТР Запоріжжя"
+    },
+    {
+      "sezon": "1994/95",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "Цска Київ",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "1995/96",
+      "chempion": "«Шахтар-Академія» Донецьк",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "«Світлотехнік-колос» Бровари"
+    },
+    {
+      "sezon": "1996/97",
+      "chempion": "«Шахтар-Академія» Донецьк",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "«Світлотехнік-колос» Бровари"
+    },
+    {
+      "sezon": "1997/98",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Світлотехнік-колос» Бровари",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "1998/99",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Світлотехнік-колос» Бровари",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "1999/00",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Світлотехнік-колос» Бровари",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "2000/01",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "2001/02",
+      "chempion": "«Шахтар-Академія» Донецьк",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "«Портовик» Южне"
+    },
+    {
+      "sezon": "2002/03",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "2003/04",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Шахтар-Академія» Донецьк",
+      "bronzovi_pryzery": "«Портовик» Южне"
+    },
+    {
+      "sezon": "2004/05",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "2005/06",
+      "chempion": "«Портовик» Южне",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "«Шахтар-Академія» Донецьк"
+    },
+    {
+      "sezon": "2006/07",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "«Будівельник» Бровари"
+    },
+    {
+      "sezon": "2007/08",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "«Будівельник» Бровари"
+    },
+    {
+      "sezon": "2008/09",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Будівельник» Бровари",
+      "bronzovi_pryzery": "«Портовик» Южне"
+    },
+    {
+      "sezon": "2009/10",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "«Будівельник» Бровари"
+    },
+    {
+      "sezon": "2010/11",
+      "chempion": "ЗТР Запоріжжя",
+      "sribni_pryzery": "«Динамо» Полтава",
+      "bronzovi_pryzery": "«Портовик» Южне"
+    },
+    {
+      "sezon": "2011/12",
+      "chempion": "«Динамо» Полтава",
+      "sribni_pryzery": "«Мотор» Запоріжжя",
+      "bronzovi_pryzery": "ЗТР Запоріжжя"
+    },
+    {
+      "sezon": "2012/13",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "«Портовик» Южне"
+    },
+    {
+      "sezon": "2013/14",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "«Портовик» Южне",
+      "bronzovi_pryzery": "ЗТР Запоріжжя"
+    },
+    {
+      "sezon": "2014/15",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "Цска Київ"
+    },
+    {
+      "sezon": "2015/16",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "Цска Київ"
+    },
+    {
+      "sezon": "2016/17",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ЗТР Запоріжжя",
+      "bronzovi_pryzery": "«ЗНТУ-ЗАБ» Запоріжжя"
+    },
+    {
+      "sezon": "2017/18",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "«ЗТР» Запоріжжя",
+      "bronzovi_pryzery": "«Донбас» Маріуполь"
+    },
+    {
+      "sezon": "2018/19",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "«ЗТР» Запоріжжя",
+      "bronzovi_pryzery": "«ЗНТУ-ЗАБ» Запоріжжя"
+    },
+    {
+      "sezon": "2019/20",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "«Донбас» Донецька обл.",
+      "bronzovi_pryzery": "«ЗТР» Запоріжжя"
+    },
+    {
+      "sezon": "2020/21",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "«Донбас» Донецька обл.",
+      "bronzovi_pryzery": "ГК «Одеса»"
+    },
+    {
+      "sezon": "2021/22",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "«Донбас» Донецька обл.",
+      "bronzovi_pryzery": "ГК «Одеса»"
+    },
+    {
+      "sezon": "2022/23",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ГК «Одеса»",
+      "bronzovi_pryzery": "«Донбас» Донецька обл."
+    },
+    {
+      "sezon": "2023/24",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ГК «Одеса»",
+      "bronzovi_pryzery": "«Донбас» Донецька обл."
+    },
+    {
+      "sezon": "2024/25",
+      "chempion": "«Мотор» Запоріжжя",
+      "sribni_pryzery": "ГК «Одеса»",
+      "bronzovi_pryzery": "«Донбас» Донецька обл."
+    }
+  ],
+  "meta": {
+    "title": "Чемпіони та призери чемпіонату України з гандболу серед чоловіків - Free Download",
+    "description": "Переможці, срібні та бронзові призери чемпіонату України з гандболу серед чоловіків за всі сезони з 1992 року. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Чемпіони та призери чемпіонату України з гандболу серед чоловіків | ListBase",
+    "seo_description": "Download Чемпіони та призери чемпіонату України з гандболу серед чоловіків — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Чемпіонат_України_з_гандболу_серед_чоловіків"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-17T02:20:05.687Z",
-  "total_datasets": 512,
-  "total_records": 479367,
+  "generated": "2026-11-18T02:26:49.490Z",
+  "total_datasets": 513,
+  "total_records": 479401,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -12087,6 +12087,31 @@
         "xlsx": {
           "name": "uk-chempiony-ukrainy-z-futbolu_UK.xlsx",
           "size": 9322
+        }
+      }
+    },
+    {
+      "id": "uk-chempiony-ukrainy-z-handbolu-choloviky",
+      "name": "Чемпіони та призери чемпіонату України з гандболу серед чоловіків",
+      "category": "sports",
+      "record_count": 34,
+      "columns": [
+        "sezon",
+        "chempion",
+        "sribni_pryzery",
+        "bronzovi_pryzery"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Чемпіонат_України_з_гандболу_серед_чоловіків",
+      "updated": "2026-11",
+      "size": 9751,
+      "files": {
+        "csv": {
+          "name": "uk-chempiony-ukrainy-z-handbolu-choloviky_UK.csv",
+          "size": 4059
+        },
+        "xlsx": {
+          "name": "uk-chempiony-ukrainy-z-handbolu-choloviky_UK.xlsx",
+          "size": 7872
         }
       }
     },
