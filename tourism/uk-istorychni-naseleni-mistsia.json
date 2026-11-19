@@ -1,0 +1,2096 @@
+{
+  "id": "uk-istorychni-naseleni-mistsia",
+  "name": "Історичні населені місця України",
+  "title": "Історичні населені місця України",
+  "description": "Офіційний Список історичних населених місць України (затверджений Кабінетом Міністрів) за областями — з датою заснування або першої писемної згадки кожного міста чи селища.",
+  "category": "tourism",
+  "source": "https://uk.wikipedia.org/wiki/Список_історичних_населених_місць_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_історичних_населених_місць_України",
+  "updated": "2026-11",
+  "record_count": 411,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "data_zasnuvannia_abo_pershoi_zghadky",
+      "label": "Data Zasnuvannia Abo Pershoi Zghadky",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "м. Вінниця",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1363 рік"
+    },
+    {
+      "nazva": "м. Бар",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1425 рік"
+    },
+    {
+      "nazva": "м. Бершадь",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1459 рік"
+    },
+    {
+      "nazva": "смт Браїлів",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "смт Брацлав",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X–XI століття"
+    },
+    {
+      "nazva": "смт Вороновиця",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1545 рік"
+    },
+    {
+      "nazva": "м. Гайсин",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1545 рік"
+    },
+    {
+      "nazva": "смт Дашів",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XV століття"
+    },
+    {
+      "nazva": "м. Жмеринка",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XIX століття"
+    },
+    {
+      "nazva": "м. Іллінці",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVII століття"
+    },
+    {
+      "nazva": "смт Копайгород",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1624 рік"
+    },
+    {
+      "nazva": "м. Могилів-Подільський",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVI століття"
+    },
+    {
+      "nazva": "смт Муровані Курилівці",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1493 рік"
+    },
+    {
+      "nazva": "м. Немирів",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Оратів",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1545 рік"
+    },
+    {
+      "nazva": "м. Погребище",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "смт Ситківці",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVI століття"
+    },
+    {
+      "nazva": "смт Тиврів",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1629 рік"
+    },
+    {
+      "nazva": "смт Томашпіль",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1616 рік"
+    },
+    {
+      "nazva": "м. Тульчин",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1607 рік"
+    },
+    {
+      "nazva": "м. Хмільник",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1362 рік"
+    },
+    {
+      "nazva": "смт Чечельник",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVII століття"
+    },
+    {
+      "nazva": "м. Шаргород",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "м. Ямпіль",
+      "oblast": "Вінницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "м. Луцьк",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1085 рік"
+    },
+    {
+      "nazva": "м. Берестечко",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1445 рік"
+    },
+    {
+      "nazva": "м. Володимир",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "988 рік"
+    },
+    {
+      "nazva": "смт Голоби",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVI століття"
+    },
+    {
+      "nazva": "смт Головно",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1564 рік"
+    },
+    {
+      "nazva": "м. Горохів",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1240 рік"
+    },
+    {
+      "nazva": "смт Іваничі",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1545 рік"
+    },
+    {
+      "nazva": "м. Камінь-Каширський",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1196 рік"
+    },
+    {
+      "nazva": "м. Ковель",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1310 рік"
+    },
+    {
+      "nazva": "смт Луків",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1537 рік"
+    },
+    {
+      "nazva": "смт Любешів",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1484 рік"
+    },
+    {
+      "nazva": "м. Любомль",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1287 рік"
+    },
+    {
+      "nazva": "смт Олика",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1149 рік"
+    },
+    {
+      "nazva": "смт Ратне",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XII-початок XIII століття"
+    },
+    {
+      "nazva": "м. Рожище",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1377 рік"
+    },
+    {
+      "nazva": "смт Стара Вижівка",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1508 рік"
+    },
+    {
+      "nazva": "смт Турійськ",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1097 рік"
+    },
+    {
+      "nazva": "м. Устилуг",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1150 рік"
+    },
+    {
+      "nazva": "смт Цумань",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1557 рік"
+    },
+    {
+      "nazva": "смт Шацьк",
+      "oblast": "Волинська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1410 рік"
+    },
+    {
+      "nazva": "м. Дніпро",
+      "oblast": "Дніпропетровська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1778 рік"
+    },
+    {
+      "nazva": "м. Кам'янське",
+      "oblast": "Дніпропетровська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1750 рік"
+    },
+    {
+      "nazva": "м. Кривий Ріг",
+      "oblast": "Дніпропетровська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVII століття"
+    },
+    {
+      "nazva": "м. Нікополь",
+      "oblast": "Дніпропетровська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1594 рік"
+    },
+    {
+      "nazva": "м. Самар",
+      "oblast": "Дніпропетровська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1687 рік"
+    },
+    {
+      "nazva": "м. Павлоград",
+      "oblast": "Дніпропетровська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1780 рік"
+    },
+    {
+      "nazva": "м. Донецьк",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1869 рік"
+    },
+    {
+      "nazva": "м. Бахмут",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1571 рік"
+    },
+    {
+      "nazva": "м. Горлівка",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1779 рік"
+    },
+    {
+      "nazva": "м. Краматорськ",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1860-ті роки"
+    },
+    {
+      "nazva": "м. Макіївка",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVII століття"
+    },
+    {
+      "nazva": "м. Маріуполь",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1780 рік"
+    },
+    {
+      "nazva": "м. Святогірськ",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1538-1539 роки"
+    },
+    {
+      "nazva": "м. Слов'янськ",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1645 рік"
+    },
+    {
+      "nazva": "смт Троїцько-Харцизьк",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1786 рік"
+    },
+    {
+      "nazva": "смт Билбасівка",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1670 рік"
+    },
+    {
+      "nazva": "м. Соледар",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "остання чверть XVII ст."
+    },
+    {
+      "nazva": "смт Щербинівка",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1600 рік"
+    },
+    {
+      "nazva": "м. Райгородок",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1685 рік"
+    },
+    {
+      "nazva": "смт Новоселівка",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1600 рік"
+    },
+    {
+      "nazva": "смт Дробишеве",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1687 рік"
+    },
+    {
+      "nazva": "м. Шахтарськ",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1764 рік"
+    },
+    {
+      "nazva": "смт Корсунь",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1622 рік"
+    },
+    {
+      "nazva": "смт Ямпіль",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1682 рік"
+    },
+    {
+      "nazva": "смт Олександрівка",
+      "oblast": "Донецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1762 рік"
+    },
+    {
+      "nazva": "м. Житомир",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1240 рік"
+    },
+    {
+      "nazva": "м. Бердичів",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1430 рік"
+    },
+    {
+      "nazva": "м. Звягель",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1257 рік"
+    },
+    {
+      "nazva": "м. Коростень",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "945 рік"
+    },
+    {
+      "nazva": "м. Коростишів",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1399 рік"
+    },
+    {
+      "nazva": "смт Любар",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Миропіль",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVII століття"
+    },
+    {
+      "nazva": "м. Овруч",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "946 рік"
+    },
+    {
+      "nazva": "смт Олевськ",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1488 рік"
+    },
+    {
+      "nazva": "м. Радомишль",
+      "oblast": "Житомирська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "близько 1150 року"
+    },
+    {
+      "nazva": "м. Ужгород",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VIII століття"
+    },
+    {
+      "nazva": "м. Берегове",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XI століття"
+    },
+    {
+      "nazva": "смт Буштино",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XIV століття"
+    },
+    {
+      "nazva": "смт Великий Березний",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1427 рік"
+    },
+    {
+      "nazva": "смт Вилок",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "м. Виноградів",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "IX століття"
+    },
+    {
+      "nazva": "смт Воловець",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "м. Іршава",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Королево",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1262 рік"
+    },
+    {
+      "nazva": "смт Міжгір'я",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Мукачево",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X століття"
+    },
+    {
+      "nazva": "смт Перечин",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "м. Рахів",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1447 рік"
+    },
+    {
+      "nazva": "м. Свалява",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "смт Солотвино",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Тересва",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "перша половина XIV століття"
+    },
+    {
+      "nazva": "м. Тячів",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XIII століття"
+    },
+    {
+      "nazva": "м. Хуст",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X-XI століття"
+    },
+    {
+      "nazva": "смт Чинадійово",
+      "oblast": "Закарпатська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1214 рік"
+    },
+    {
+      "nazva": "м. Запоріжжя",
+      "oblast": "Запорізька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1770 рік"
+    },
+    {
+      "nazva": "м. Бердянськ",
+      "oblast": "Запорізька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1827 рік"
+    },
+    {
+      "nazva": "м. Гуляйполе",
+      "oblast": "Запорізька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1785 рік"
+    },
+    {
+      "nazva": "м. Мелітополь",
+      "oblast": "Запорізька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVII століття"
+    },
+    {
+      "nazva": "м. Оріхів",
+      "oblast": "Запорізька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1775 рік"
+    },
+    {
+      "nazva": "м. Токмак",
+      "oblast": "Запорізька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1784 рік"
+    },
+    {
+      "nazva": "м. Івано-Франківськ",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1662 рік"
+    },
+    {
+      "nazva": "смт Більшівці",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "смт Богородчани",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1442 рік"
+    },
+    {
+      "nazva": "м. Болехів",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1371 рік"
+    },
+    {
+      "nazva": "смт Букачівці",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1438 рік"
+    },
+    {
+      "nazva": "м. Бурштин",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1554 рік"
+    },
+    {
+      "nazva": "смт Войнилів",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1443 рік"
+    },
+    {
+      "nazva": "смт Ворохта",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVII століття"
+    },
+    {
+      "nazva": "м. Галич (разом із селами Крилос і Шевченкове)",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "IX століття"
+    },
+    {
+      "nazva": "смт Гвіздець",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1373 рік"
+    },
+    {
+      "nazva": "м. Городенка",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XII століття"
+    },
+    {
+      "nazva": "смт Делятин",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1578 рік"
+    },
+    {
+      "nazva": "м. Долина",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "друга половина X століття"
+    },
+    {
+      "nazva": "смт Заболотів",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1579 рік"
+    },
+    {
+      "nazva": "м. Калуш",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1241 рік"
+    },
+    {
+      "nazva": "м. Коломия",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "до 1240 року"
+    },
+    {
+      "nazva": "м. Косів",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1565 рік"
+    },
+    {
+      "nazva": "смт Кути",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVIII століття"
+    },
+    {
+      "nazva": "м. Надвірна",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1596 рік"
+    },
+    {
+      "nazva": "смт Обертин",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1416 рік"
+    },
+    {
+      "nazva": "смт Отинія",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "м. Рогатин",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "смт Рожнятів",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Снятин",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1158 рік"
+    },
+    {
+      "nazva": "смт Солотвин",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Тисмениця",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1143 рік"
+    },
+    {
+      "nazva": "м. Тлумач",
+      "oblast": "Івано-Франківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Біла Церква",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1032 рік"
+    },
+    {
+      "nazva": "м. Богуслав",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1195 рік"
+    },
+    {
+      "nazva": "м. Васильків",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "988 рік"
+    },
+    {
+      "nazva": "м. Вишгород",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "946 рік"
+    },
+    {
+      "nazva": "м. Переяслав",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "907 рік"
+    },
+    {
+      "nazva": "смт Ржищів",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XI-XII століття"
+    },
+    {
+      "nazva": "м. Фастів",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1390 рік"
+    },
+    {
+      "nazva": "м. Яготин",
+      "oblast": "Київська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1552 рік"
+    },
+    {
+      "nazva": "м. Кропивницький",
+      "oblast": "Кіровоградська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1754 рік"
+    },
+    {
+      "nazva": "м. Бобринець",
+      "oblast": "Кіровоградська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1767 рік"
+    },
+    {
+      "nazva": "смт Нова Прага",
+      "oblast": "Кіровоградська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1758 рік"
+    },
+    {
+      "nazva": "м. Новомиргород",
+      "oblast": "Кіровоградська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1740 рік"
+    },
+    {
+      "nazva": "м. Новоукраїнка",
+      "oblast": "Кіровоградська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVIII століття"
+    },
+    {
+      "nazva": "м. Олександрія",
+      "oblast": "Кіровоградська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1751 рік"
+    },
+    {
+      "nazva": "м. Сімферополь",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1508 рік"
+    },
+    {
+      "nazva": "м. Алупка",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "960 рік"
+    },
+    {
+      "nazva": "м. Алушта",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VI століття"
+    },
+    {
+      "nazva": "м. Армянськ",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1730-ті роки"
+    },
+    {
+      "nazva": "м. Балаклава",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "V століття до нової ери"
+    },
+    {
+      "nazva": "м. Бахчисарай",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1532 рік"
+    },
+    {
+      "nazva": "м. Білогірськ",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "с-ще Гаспра",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVIII століття"
+    },
+    {
+      "nazva": "с-ще Гурзуф",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VI століття"
+    },
+    {
+      "nazva": "м. Євпаторія",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VI століття до нової ери"
+    },
+    {
+      "nazva": "м. Інкерман",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VIII-IX століття"
+    },
+    {
+      "nazva": "м. Керч",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "V століття до нової ери"
+    },
+    {
+      "nazva": "с-ще Коктебель",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VIII-XIII століття"
+    },
+    {
+      "nazva": "с-ще Кореїз",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVII століття"
+    },
+    {
+      "nazva": "с-ще Лівадія",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVIII століття"
+    },
+    {
+      "nazva": "с-ще Масандра",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1730-1750 роки"
+    },
+    {
+      "nazva": "с-ще Новий Світ",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIX століття"
+    },
+    {
+      "nazva": "с-ще Ореанда",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VIII-IX століття"
+    },
+    {
+      "nazva": "с-ще Партеніт",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VIII-X століття"
+    },
+    {
+      "nazva": "м. Саки",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "с-ще Сімеїз",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "I-III століття"
+    },
+    {
+      "nazva": "м. Старий Крим",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X-XIII століття"
+    },
+    {
+      "nazva": "м. Судак",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "III-VII століття"
+    },
+    {
+      "nazva": "м. Феодосія",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VI століття до нової ери"
+    },
+    {
+      "nazva": "с-ще Форос",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "с-ще Чорноморське",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "IV століття до нової ери"
+    },
+    {
+      "nazva": "с-ще Щебетовка",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VIII-X століття"
+    },
+    {
+      "nazva": "м. Ялта",
+      "oblast": "АРК та Севастополь",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Луганськ",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1795 рік"
+    },
+    {
+      "nazva": "м. Алчевськ",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1895 рік"
+    },
+    {
+      "nazva": "смт Біловодськ",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1686 рік"
+    },
+    {
+      "nazva": "м. Зимогір'я",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1753 рік"
+    },
+    {
+      "nazva": "м. Краснодон",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1906 рік"
+    },
+    {
+      "nazva": "м. Лисичанськ",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1710 рік"
+    },
+    {
+      "nazva": "смт Новопсков",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "близько 1643 року"
+    },
+    {
+      "nazva": "м. Сватове",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1665 рік"
+    },
+    {
+      "nazva": "смт Слов'яносербськ",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1753 рік"
+    },
+    {
+      "nazva": "м. Старобільськ",
+      "oblast": "Луганська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1598-1600 роки"
+    },
+    {
+      "nazva": "м. Львів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1256 рік"
+    },
+    {
+      "nazva": "м. Белз",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1031 рік"
+    },
+    {
+      "nazva": "м. Бібрка",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1211 рік"
+    },
+    {
+      "nazva": "м. Борислав",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1387 рік"
+    },
+    {
+      "nazva": "м. Броди",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "смт Брюховичі",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "м. Буськ",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1097 рік"
+    },
+    {
+      "nazva": "смт Великий Любінь",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "м. Великі Мости",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XV століття"
+    },
+    {
+      "nazva": "м. Винники",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "м. Глиняни",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1379 рік"
+    },
+    {
+      "nazva": "смт Гніздичів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1491 рік"
+    },
+    {
+      "nazva": "м. Городок",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1213 рік"
+    },
+    {
+      "nazva": "м. Добромиль",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1374 рік"
+    },
+    {
+      "nazva": "м. Дрогобич",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1233 рік"
+    },
+    {
+      "nazva": "смт Дубляни",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1440 рік"
+    },
+    {
+      "nazva": "м. Жидачів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1164 рік"
+    },
+    {
+      "nazva": "м. Жовква",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1368 рік"
+    },
+    {
+      "nazva": "м. Золочів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1442 рік"
+    },
+    {
+      "nazva": "смт Івано-Франкове",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1611 рік"
+    },
+    {
+      "nazva": "м. Кам'янка-Бузька",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1464 рік"
+    },
+    {
+      "nazva": "м. Комарне",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII-XIII століття"
+    },
+    {
+      "nazva": "смт Краковець",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1425 рік"
+    },
+    {
+      "nazva": "смт Куликів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Магерів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Меденичі",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1395 рік"
+    },
+    {
+      "nazva": "м. Миколаїв",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1570 рік"
+    },
+    {
+      "nazva": "м. Моршин",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1482 рік"
+    },
+    {
+      "nazva": "м. Мостиська",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1392 рік"
+    },
+    {
+      "nazva": "смт Немирів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1580 рік"
+    },
+    {
+      "nazva": "смт Нижанковичі",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1408 рік"
+    },
+    {
+      "nazva": "смт Новий Яричів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1370 рік"
+    },
+    {
+      "nazva": "смт Олесько",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1366 рік"
+    },
+    {
+      "nazva": "м. Перемишляни",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1437 рік"
+    },
+    {
+      "nazva": "смт Підкамінь",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1441 рік"
+    },
+    {
+      "nazva": "смт Поморяни",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1437 рік"
+    },
+    {
+      "nazva": "м. Пустомити",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1441 рік"
+    },
+    {
+      "nazva": "м. Рава-Руська",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1455 рік"
+    },
+    {
+      "nazva": "смт Роздол",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1569 рік"
+    },
+    {
+      "nazva": "м. Рудки",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1462 рік"
+    },
+    {
+      "nazva": "м. Самбір",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1238 рік"
+    },
+    {
+      "nazva": "м. Сколе",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1397 рік"
+    },
+    {
+      "nazva": "м. Сокаль",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1441 рік"
+    },
+    {
+      "nazva": "смт Стара Сіль",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1255, 1421 роки"
+    },
+    {
+      "nazva": "м. Старий Самбір",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XI століття, 1553 рік"
+    },
+    {
+      "nazva": "м. Стрий",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1396 рік"
+    },
+    {
+      "nazva": "м. Судова Вишня",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1230 рік"
+    },
+    {
+      "nazva": "м. Турка",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1431 рік"
+    },
+    {
+      "nazva": "м. Угнів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1360 рік"
+    },
+    {
+      "nazva": "м. Хирів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1374 рік"
+    },
+    {
+      "nazva": "м. Ходорів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1394 рік"
+    },
+    {
+      "nazva": "м. Червоноград",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1692 рік"
+    },
+    {
+      "nazva": "смт Шкло",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "смт Щирець",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Яворів",
+      "oblast": "Львівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1376 рік"
+    },
+    {
+      "nazva": "м. Миколаїв",
+      "oblast": "Миколаївська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1788 рік"
+    },
+    {
+      "nazva": "м. Вознесенськ",
+      "oblast": "Миколаївська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVIII століття"
+    },
+    {
+      "nazva": "м. Очаків",
+      "oblast": "Миколаївська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "м. Первомайськ",
+      "oblast": "Миколаївська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1743 рік"
+    },
+    {
+      "nazva": "м. Одеса",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1794 рік"
+    },
+    {
+      "nazva": "м. Ананьїв",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1750-ті роки"
+    },
+    {
+      "nazva": "м. Балта",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "перша половина XVI століття"
+    },
+    {
+      "nazva": "м. Білгород-Дністровський",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "IV століття до нової ери"
+    },
+    {
+      "nazva": "м. Болград",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1821 рік"
+    },
+    {
+      "nazva": "смт Велика Михайлівка",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVIII століття"
+    },
+    {
+      "nazva": "м. Вилкове",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1708 рік"
+    },
+    {
+      "nazva": "м. Ізмаїл",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVI століття"
+    },
+    {
+      "nazva": "м. Кілія",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VII століття до нової ери"
+    },
+    {
+      "nazva": "м. Кодима",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1754 рік"
+    },
+    {
+      "nazva": "смт Овідіополь",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1795 рік"
+    },
+    {
+      "nazva": "м. Рені",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1548 рік"
+    },
+    {
+      "nazva": "смт Саврань",
+      "oblast": "Одеська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XIV століття"
+    },
+    {
+      "nazva": "м. Полтава",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "IX століття"
+    },
+    {
+      "nazva": "смт Велика Багачка",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XVI-початок XVII століття"
+    },
+    {
+      "nazva": "м. Гадяч",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1634 рік"
+    },
+    {
+      "nazva": "смт Диканька",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVII століття"
+    },
+    {
+      "nazva": "м. Зіньків",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1604 рік"
+    },
+    {
+      "nazva": "смт Козельщина",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "друга половина XVII століття"
+    },
+    {
+      "nazva": "м. Кременчук",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1571 рік"
+    },
+    {
+      "nazva": "м. Лохвиця",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X-XI століття"
+    },
+    {
+      "nazva": "м. Лубни",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "988 рік"
+    },
+    {
+      "nazva": "м. Миргород",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "смт Опішня",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "перша половина XVII століття"
+    },
+    {
+      "nazva": "м. Пирятин",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1155 рік"
+    },
+    {
+      "nazva": "м. Хорол",
+      "oblast": "Полтавська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1092 рік"
+    },
+    {
+      "nazva": "м. Рівне",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1283 рік"
+    },
+    {
+      "nazva": "смт Березне",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1584 рік"
+    },
+    {
+      "nazva": "смт Володимирець",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1570 рік"
+    },
+    {
+      "nazva": "смт Гоща",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1152 рік"
+    },
+    {
+      "nazva": "м. Дубно",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1099 рік"
+    },
+    {
+      "nazva": "м. Дубровиця",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1005 рік"
+    },
+    {
+      "nazva": "смт Клевань",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1458 рік"
+    },
+    {
+      "nazva": "м. Корець",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1150 рік"
+    },
+    {
+      "nazva": "смт Мізоч",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1322 рік"
+    },
+    {
+      "nazva": "смт Млинів",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "м. Острог",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1100 рік"
+    },
+    {
+      "nazva": "м. Радивилів",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1564 рік"
+    },
+    {
+      "nazva": "смт Степань",
+      "oblast": "Рівненська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1292 рік"
+    },
+    {
+      "nazva": "м. Суми",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1655 рік"
+    },
+    {
+      "nazva": "м. Білопілля",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XI століття"
+    },
+    {
+      "nazva": "м. Ворожба",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1665 рік"
+    },
+    {
+      "nazva": "смт Вороніж",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "перша половина XVII століття"
+    },
+    {
+      "nazva": "м. Глухів",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець X століття"
+    },
+    {
+      "nazva": "м. Конотоп",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1638 рік"
+    },
+    {
+      "nazva": "м. Кролевець",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1601 рік"
+    },
+    {
+      "nazva": "м. Лебедин",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1654 рік"
+    },
+    {
+      "nazva": "смт Низи",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1662 рік"
+    },
+    {
+      "nazva": "м. Охтирка",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1641 рік"
+    },
+    {
+      "nazva": "м. Путивль",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X століття"
+    },
+    {
+      "nazva": "м. Ромни",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1096 рік"
+    },
+    {
+      "nazva": "м. Середина-Буда",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVII століття"
+    },
+    {
+      "nazva": "смт Терни",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "друга половина XVII століття"
+    },
+    {
+      "nazva": "м. Тростянець",
+      "oblast": "Сумська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1660 рік"
+    },
+    {
+      "nazva": "м. Тернопіль",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1540 рік"
+    },
+    {
+      "nazva": "м. Бережани",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1375 рік"
+    },
+    {
+      "nazva": "м. Борщів",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1456 рік"
+    },
+    {
+      "nazva": "м. Бучач",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1397 рік"
+    },
+    {
+      "nazva": "смт Вишнівець",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1395 рік"
+    },
+    {
+      "nazva": "смт Гримайлів",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1600 рік"
+    },
+    {
+      "nazva": "смт Гусятин",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1559 рік"
+    },
+    {
+      "nazva": "смт Залізці",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1483 рік"
+    },
+    {
+      "nazva": "м. Заліщики",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1340 рік"
+    },
+    {
+      "nazva": "м. Збараж",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1211 рік"
+    },
+    {
+      "nazva": "м. Зборів",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "смт Золотий Потік",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Козова",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1440 рік"
+    },
+    {
+      "nazva": "м. Копичинці",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Коропець",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1421 рік"
+    },
+    {
+      "nazva": "м. Кременець",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1226 рік"
+    },
+    {
+      "nazva": "смт Ланівці",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1444 рік"
+    },
+    {
+      "nazva": "смт Мельниця-Подільська",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1615 рік"
+    },
+    {
+      "nazva": "смт Микулинці",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1096 рік"
+    },
+    {
+      "nazva": "м. Монастириська",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1454 рік"
+    },
+    {
+      "nazva": "смт Підволочиськ",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1463 рік"
+    },
+    {
+      "nazva": "м. Підгайці",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1463 рік"
+    },
+    {
+      "nazva": "м. Почаїв",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1450 рік"
+    },
+    {
+      "nazva": "смт Скала-Подільська",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1569 рік"
+    },
+    {
+      "nazva": "м. Скалат",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1564 рік"
+    },
+    {
+      "nazva": "м. Теребовля",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1097 рік"
+    },
+    {
+      "nazva": "смт Товсте",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1449 рік"
+    },
+    {
+      "nazva": "м. Хоростків",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1564 рік"
+    },
+    {
+      "nazva": "м. Чортків",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1522 рік"
+    },
+    {
+      "nazva": "м. Шумськ",
+      "oblast": "Тернопільська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1149 рік"
+    },
+    {
+      "nazva": "м. Харків",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1654 рік"
+    },
+    {
+      "nazva": "м. Балаклія",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1663 рік"
+    },
+    {
+      "nazva": "м. Богодухів",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1571 рік"
+    },
+    {
+      "nazva": "м. Валки",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1646 рік"
+    },
+    {
+      "nazva": "м. Вовчанськ",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1674 рік"
+    },
+    {
+      "nazva": "м. Зміїв",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "смт Золочів",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1677 рік"
+    },
+    {
+      "nazva": "м. Ізюм",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1639 рік"
+    },
+    {
+      "nazva": "смт Кегичівка",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "друга половина XVIII століття"
+    },
+    {
+      "nazva": "м. Красноград",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1731 рік"
+    },
+    {
+      "nazva": "смт Краснокутськ",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1651 рік"
+    },
+    {
+      "nazva": "м. Куп'янськ",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1685 рік"
+    },
+    {
+      "nazva": "м. Люботин",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVII століття"
+    },
+    {
+      "nazva": "м. Мерефа",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "середина XVII століття"
+    },
+    {
+      "nazva": "м. Чугуїв",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1627 рік"
+    },
+    {
+      "nazva": "смт Шарівка",
+      "oblast": "Харківська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVIII століття"
+    },
+    {
+      "nazva": "м. Херсон",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1778 рік"
+    },
+    {
+      "nazva": "м. Берислав",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "м. Генічеськ",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1784 рік"
+    },
+    {
+      "nazva": "м. Каховка",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1781 рік"
+    },
+    {
+      "nazva": "м. Нова Каховка",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1950 рік"
+    },
+    {
+      "nazva": "м. Олешки",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1711 рік"
+    },
+    {
+      "nazva": "м. Скадовськ",
+      "oblast": "Херсонська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1894 рік"
+    },
+    {
+      "nazva": "м. Хмельницький",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XV століття"
+    },
+    {
+      "nazva": "смт Антоніни",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVIII століття"
+    },
+    {
+      "nazva": "смт Білогір'я",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "друга половина XIV століття"
+    },
+    {
+      "nazva": "м. Волочиськ",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1463 рік"
+    },
+    {
+      "nazva": "м. Городок",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1362 рік"
+    },
+    {
+      "nazva": "смт Гриців",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XI-XII століття"
+    },
+    {
+      "nazva": "м. Деражня",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVI століття"
+    },
+    {
+      "nazva": "м. Дунаївці",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1403 рік"
+    },
+    {
+      "nazva": "м. Ізяслав",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "кінець XIII-XIV століття"
+    },
+    {
+      "nazva": "м. Кам'янець-Подільський",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "II століття"
+    },
+    {
+      "nazva": "м. Красилів",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1444 рік"
+    },
+    {
+      "nazva": "смт Летичів",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "смт Меджибіж",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1146 рік"
+    },
+    {
+      "nazva": "смт Нова Ушиця",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1439 рік"
+    },
+    {
+      "nazva": "м. Полонне",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1171 рік"
+    },
+    {
+      "nazva": "смт Сатанів",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XV століття"
+    },
+    {
+      "nazva": "м. Славута",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVII століття"
+    },
+    {
+      "nazva": "смт Смотрич",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Стара Синява",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "м. Старокостянтинів",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "смт Чорний Острів",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1366 рік"
+    },
+    {
+      "nazva": "м. Шепетівка",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1594 рік"
+    },
+    {
+      "nazva": "смт Ямпіль",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "X століття"
+    },
+    {
+      "nazva": "смт Ярмолинці",
+      "oblast": "Хмельницька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1400 рік"
+    },
+    {
+      "nazva": "м. Черкаси",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1147 рік"
+    },
+    {
+      "nazva": "м. Городище",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XVI століття"
+    },
+    {
+      "nazva": "м. Звенигородка",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "до XIII століття"
+    },
+    {
+      "nazva": "м. Золотоноша",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1576 рік"
+    },
+    {
+      "nazva": "м. Кам'янка",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVII століття"
+    },
+    {
+      "nazva": "м. Канів",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1078 рік"
+    },
+    {
+      "nazva": "м. Корсунь-Шевченківський",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1032 рік"
+    },
+    {
+      "nazva": "смт Лисянка",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1593 рік"
+    },
+    {
+      "nazva": "м. Сміла",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVI століття"
+    },
+    {
+      "nazva": "смт Стеблів",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1036 рік"
+    },
+    {
+      "nazva": "м. Тальне",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1609 рік"
+    },
+    {
+      "nazva": "м. Умань",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1616 рік"
+    },
+    {
+      "nazva": "м. Чигирин",
+      "oblast": "Черкаська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1589 рік"
+    },
+    {
+      "nazva": "м. Чернівці",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XII століття"
+    },
+    {
+      "nazva": "м. Вижниця",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XV століття"
+    },
+    {
+      "nazva": "м. Герца",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1437 рік"
+    },
+    {
+      "nazva": "смт Глибока",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1438 рік"
+    },
+    {
+      "nazva": "смт Кельменці",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1559 рік"
+    },
+    {
+      "nazva": "м. Кіцмань",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1413 рік"
+    },
+    {
+      "nazva": "смт Лужани",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1453 рік"
+    },
+    {
+      "nazva": "м. Новоселиця",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1456 рік"
+    },
+    {
+      "nazva": "смт Путила",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1501 рік"
+    },
+    {
+      "nazva": "м. Сторожинець",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1448 рік"
+    },
+    {
+      "nazva": "м. Хотин",
+      "oblast": "Чернівецька область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "м. Чернігів",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "VII століття"
+    },
+    {
+      "nazva": "м. Батурин",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1625 рік"
+    },
+    {
+      "nazva": "м. Борзна",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1239 рік"
+    },
+    {
+      "nazva": "м. Ічня",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIV століття"
+    },
+    {
+      "nazva": "смт Козелець",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "початок XVII століття"
+    },
+    {
+      "nazva": "смт Короп",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "XIII століття"
+    },
+    {
+      "nazva": "смт Любеч",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "882 рік"
+    },
+    {
+      "nazva": "м. Ніжин",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1147 рік"
+    },
+    {
+      "nazva": "м. Новгород-Сіверський",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "989 рік"
+    },
+    {
+      "nazva": "м. Остер",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1098 рік"
+    },
+    {
+      "nazva": "м. Прилуки",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1092 рік"
+    },
+    {
+      "nazva": "смт Седнів",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1068 рік"
+    },
+    {
+      "nazva": "смт Сосниця",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1234 рік"
+    },
+    {
+      "nazva": "смт Срібне",
+      "oblast": "Чернігівська область",
+      "data_zasnuvannia_abo_pershoi_zghadky": "1174 рік"
+    }
+  ],
+  "meta": {
+    "title": "Історичні населені місця України - Free Download",
+    "description": "Офіційний Список історичних населених місць України (затверджений Кабінетом Міністрів) за областями — з датою заснування або першої писемної згадки кожного міста чи селища. Contains 411 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Історичні населені місця України | ListBase",
+    "seo_description": "Download Історичні населені місця України — 411 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 411 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_історичних_населених_місць_України"
+    ]
+  }
+}

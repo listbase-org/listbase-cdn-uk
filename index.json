@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-18T02:27:11.804Z",
-  "total_datasets": 515,
-  "total_records": 479437,
+  "generated": "2026-11-19T02:36:56.138Z",
+  "total_datasets": 516,
+  "total_records": 479848,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -12906,6 +12906,30 @@
         "xlsx": {
           "name": "uk-hoteli_UK.xlsx",
           "size": 15300
+        }
+      }
+    },
+    {
+      "id": "uk-istorychni-naseleni-mistsia",
+      "name": "Історичні населені місця України",
+      "category": "tourism",
+      "record_count": 411,
+      "columns": [
+        "nazva",
+        "oblast",
+        "data_zasnuvannia_abo_pershoi_zghadky"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_історичних_населених_місць_України",
+      "updated": "2026-11",
+      "size": 74079,
+      "files": {
+        "csv": {
+          "name": "uk-istorychni-naseleni-mistsia_UK.csv",
+          "size": 34088
+        },
+        "xlsx": {
+          "name": "uk-istorychni-naseleni-mistsia_UK.xlsx",
+          "size": 18103
         }
       }
     },
