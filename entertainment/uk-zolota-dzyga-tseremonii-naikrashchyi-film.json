@@ -1,0 +1,121 @@
+{
+  "id": "uk-zolota-dzyga-tseremonii-naikrashchyi-film",
+  "name": "Премія «Золота дзиґа» — церемонії та найкращі фільми",
+  "title": "Премія «Золота дзиґа» — церемонії та найкращі фільми",
+  "description": "Церемонії національної кінопремії «Золота дзиґа» Української кіноакадемії: дата, місце, ведучі та фільм-переможець у номінації «Найкращий фільм».",
+  "category": "entertainment",
+  "source": "https://uk.wikipedia.org/wiki/Золота_дзиґа",
+  "source_url": "https://uk.wikipedia.org/wiki/Золота_дзиґа",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "tseremoniia",
+      "label": "Tseremoniia",
+      "type": "string"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "mistse",
+      "label": "Mistse",
+      "type": "string"
+    },
+    {
+      "key": "vedui",
+      "label": "Vedui",
+      "type": "string"
+    },
+    {
+      "key": "naikrashchyi_film",
+      "label": "Naikrashchyi Film",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tseremoniia": "1-ша",
+      "data": "20 квітня 2017",
+      "mistse": "Київ, Fairmont Grand Hotel Kyiv",
+      "vedui": "Олександр Скічко",
+      "naikrashchyi_film": "Гніздо горлиці"
+    },
+    {
+      "tseremoniia": "2-га",
+      "data": "20 квітня 2018",
+      "mistse": "Київ, КВЦ «Парковий»",
+      "vedui": "Ахтем Сеітаблаєв та Василіса Фролова",
+      "naikrashchyi_film": "Кіборги"
+    },
+    {
+      "tseremoniia": "3-тя",
+      "data": "19 квітня 2019",
+      "mistse": "Київ, КВЦ «Парковий»",
+      "vedui": "Дар'я Трегубова та Олег Панюта",
+      "naikrashchyi_film": "Донбас"
+    },
+    {
+      "tseremoniia": "4-та",
+      "data": "3 травня 2020",
+      "mistse": "онлайн",
+      "vedui": "Дар'я Трегубова та Тімур Мірошниченко",
+      "naikrashchyi_film": "Мої думки тихі"
+    },
+    {
+      "tseremoniia": "5-та",
+      "data": "12 червня 2021",
+      "mistse": "—",
+      "vedui": "Дар'я Трегубова та Олег Панюта",
+      "naikrashchyi_film": "Атлантида"
+    },
+    {
+      "tseremoniia": "6-та",
+      "data": "8 - 18 вересня 2023",
+      "mistse": "—",
+      "vedui": "—",
+      "naikrashchyi_film": "Стоп-Земля"
+    },
+    {
+      "tseremoniia": "7-ма",
+      "data": "19 - 29 вересня 2023",
+      "mistse": "—",
+      "vedui": "—",
+      "naikrashchyi_film": "Памфір"
+    },
+    {
+      "tseremoniia": "8-ма",
+      "data": "10 - 11 вересня 2024",
+      "mistse": "Київ, кінотеатр « Планета Кіно », ТРЦ DREAM yellow",
+      "vedui": "Тетяна Власова та Ахтем Сеітаблаєв",
+      "naikrashchyi_film": "20 днів у Маріуполі"
+    },
+    {
+      "tseremoniia": "9-та",
+      "data": "13 вересня 2025",
+      "mistse": "Київ",
+      "vedui": "Вадим Карп'як та Даша Трегубова",
+      "naikrashchyi_film": "Будинок “Слово”. Нескінчений роман"
+    },
+    {
+      "tseremoniia": "10-та",
+      "data": "26 липня 2026",
+      "mistse": "Київ, КВЦ Парковий",
+      "vedui": "Дар’я Трегубова та Оксана Гутцайт",
+      "naikrashchyi_film": "Ти – космос"
+    }
+  ],
+  "meta": {
+    "title": "Премія «Золота дзиґа» — церемонії та найкращі фільми - Free Download",
+    "description": "Церемонії національної кінопремії «Золота дзиґа» Української кіноакадемії: дата, місце, ведучі та фільм-переможець у номінації «Найкращий фільм». Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Премія «Золота дзиґа» — церемонії та найкращі фільми | ListBase",
+    "seo_description": "Download Премія «Золота дзиґа» — церемонії та найкращі фільми — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Золота_дзиґа"
+    ]
+  }
+}

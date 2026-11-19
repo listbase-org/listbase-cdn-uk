@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-19T02:37:07.383Z",
-  "total_datasets": 517,
-  "total_records": 480401,
+  "generated": "2026-11-19T02:37:21.278Z",
+  "total_datasets": 518,
+  "total_records": 480411,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -2180,6 +2180,32 @@
         "xlsx": {
           "name": "uk-narodni-ihry_UK.xlsx",
           "size": 9115
+        }
+      }
+    },
+    {
+      "id": "uk-zolota-dzyga-tseremonii-naikrashchyi-film",
+      "name": "Премія «Золота дзиґа» — церемонії та найкращі фільми",
+      "category": "entertainment",
+      "record_count": 10,
+      "columns": [
+        "tseremoniia",
+        "data",
+        "mistse",
+        "vedui",
+        "naikrashchyi_film"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Золота_дзиґа",
+      "updated": "2026-11",
+      "size": 4805,
+      "files": {
+        "csv": {
+          "name": "uk-zolota-dzyga-tseremonii-naikrashchyi-film_UK.csv",
+          "size": 1456
+        },
+        "xlsx": {
+          "name": "uk-zolota-dzyga-tseremonii-naikrashchyi-film_UK.xlsx",
+          "size": 7637
         }
       }
     },
