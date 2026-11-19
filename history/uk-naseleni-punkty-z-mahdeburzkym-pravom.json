@@ -1,0 +1,4480 @@
+{
+  "id": "uk-naseleni-punkty-z-mahdeburzkym-pravom",
+  "name": "Населені пункти України, які мали магдебурзьке право",
+  "title": "Населені пункти України, які мали магдебурзьке право",
+  "description": "Міста й містечка на території сучасної України, що отримували магдебурзьке (міське самоврядне) право: сучасний статус, сучасна назва, область і район, роки надання права та примітки.",
+  "category": "history",
+  "source": "https://uk.wikipedia.org/wiki/Список_населених_пунктів_України,_які_мали_магдебурзьке_право",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_населених_пунктів_України,_які_мали_магдебурзьке_право",
+  "updated": "2026-11",
+  "record_count": 553,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "suchasnyi_status",
+      "label": "Suchasnyi Status",
+      "type": "string"
+    },
+    {
+      "key": "suchasna_nazva",
+      "label": "Suchasna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "pidporiadkuvannia_oblast_raion",
+      "label": "Pidporiadkuvannia Oblast Raion",
+      "type": "string"
+    },
+    {
+      "key": "roky_nadannia_prava",
+      "label": "Roky Nadannia Prava",
+      "type": "string"
+    },
+    {
+      "key": "prymitka",
+      "label": "Prymitka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Львів",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "між 1256 і 1301, 1356°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Володимир",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Володимирський",
+      "roky_nadannia_prava": "1324, 1431, 1490-ті, 1509, 1532, 1560°, 1570",
+      "prymitka": "на думку деяких дослідників міг мати магдебурзьке право ще наприкінці XIII ст."
+    },
+    {
+      "nazva": "Тячів",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Закарпатська, Тячівський",
+      "roky_nadannia_prava": "1329",
+      "prymitka": "нюрнберзьке право"
+    },
+    {
+      "nazva": "Хуст",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Закарпатська, Хустський",
+      "roky_nadannia_prava": "1329",
+      "prymitka": "нюрнберзьке право"
+    },
+    {
+      "nazva": "Вишкове",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Вишково",
+      "pidporiadkuvannia_oblast_raion": "Закарпатська, Хустський",
+      "roky_nadannia_prava": "1329",
+      "prymitka": "нюрнберзьке право"
+    },
+    {
+      "nazva": "Берегове",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Закарпатська, Берегівський",
+      "roky_nadannia_prava": "1342",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стіжок",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "XIV ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Галич",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська область, Івано-Франківський район",
+      "roky_nadannia_prava": "1367, 1374, 1429°, 1510°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Судова Вишня (Вишня)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1368, 1484°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Коломия",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "до 1370, 1405, 1411, 1424°, 1436*, 1443",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Малі Винники",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Виннички",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "до 1370, 1378",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Буськ",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1372*, 1411°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бучач",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1373/1379*, 1427°, 1515",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кам'янець",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "Кам'янець-Подільський",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1374, 1432°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Белз",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1377, 1508°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Теребовля",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1387, 1389, 1415/1420",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Городок (Солоний Городок)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1389",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Погонич (Новий Самбір)",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "Самбір",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1390, 1419°, 1504°, 1524°, 1566° та ін.",
+      "prymitka": "Капраль вказує 1390 як першу згадку в міському статусі; УРЕ подає 1380, проте іншими джерелами ця дата не підтверджується"
+    },
+    {
+      "nazva": "Дрогобич",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1392*, 1422°, 1460°",
+      "prymitka": "в ЕСУ 1422 вказано як рік першого надання права, у Капраля — повторне надання"
+    },
+    {
+      "nazva": "Жидачів (Удеч, Зудеч)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1393",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стрий",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1396, 1431°, 1460°, 1460, 1549°",
+      "prymitka": "ЕІУ подає 1431 як перше надання права, яке в 1434 було скасовано"
+    },
+    {
+      "nazva": "Глиняни",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1397, 1425",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Зашків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1397",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Костеїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1397",
+      "prymitka": "у ГСКП також згадано, що в 1399 році у Костеєва вже було магдебурзьке право, але дата його отримання не вказується"
+    },
+    {
+      "nazva": "Кротошин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1397",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ушковичі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1397",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Щирець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1397",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Саврань",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Одеська, Подільський",
+      "roky_nadannia_prava": "1398",
+      "prymitka": "мало згадок у джерелах"
+    },
+    {
+      "nazva": "Біще",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1399*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фельштин (Фулленштайн)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Скелівка",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1400*, до 1488",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Пнікут",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1402",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тлумач",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1403, 1445, 1448",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Великі Голоски",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Львів (част.)",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1404",
+      "prymitka": "нині місцевість Голоско у складі Львова"
+    },
+    {
+      "nazva": "Мостиська",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1404, 1502",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Годовиця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1405",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Зубра",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1408, 1442°, 1464°, 1556° і 1607°, 1525",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нижанковичі (Краснополе)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1408 або 1448",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нове Місто Бибель",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Нове Місто",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1408*, до 1433°, до 1463, 1463",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рогатин",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1415, 1455, 1535°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нове місто Теребовля",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Теребовля (част.)",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1415/1420",
+      "prymitka": "нині в складі Теребовлі"
+    },
+    {
+      "nazva": "Стрілиська (Стрілища)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Нові Стрілища",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1417",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бібрка",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "бл. 1418, 1469° або 1569",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Добрівляни",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1418",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Долина",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Калуський",
+      "roky_nadannia_prava": "1418*, 1525",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Жуків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1420",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Перемиль",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1420, 1430, кін. XV ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дрищів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Надрічне",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський (Береж. ТГ)",
+      "roky_nadannia_prava": "1420",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Зальцборк (Сіль)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Стара Сіль",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1421",
+      "prymitka": "у Кріля вказано про відновлення права в цей рік"
+    },
+    {
+      "nazva": "Петликівці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Старі Петликівці",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1421*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Потелич (Телич)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1423*, 1498",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дунаїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1424",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нагуєвичі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1424",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сокаль",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1424",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Краковець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1425*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Старий Самбір",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1425*, 1553°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Коропець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1427*, 1453, 1505",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кам'янка-Струмилова",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Кам'янка-Бузька",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1428*, 1471, 1509°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Летичів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1429, 1446, 1466, 1537, 1558",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Камінь-Каширський",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Камінь-Каширський",
+      "roky_nadannia_prava": "1430",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Київ",
+      "suchasnyi_status": "місто, столиця",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київ",
+      "roky_nadannia_prava": "бл. 1430, 1498, 1514, 1516, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лукавиця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1430, 1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Луцьк",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1432, 1497, 1503",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Монастириська",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1433*, 1454, 1557, до 1626°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Оринин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1434–1444",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Яворів",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1436*, 1569",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ходорівстав",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Ходорів",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1436*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Поморяни",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1437*, 1504°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кременець",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1438, 1442, 1536",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Крукеничі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1439*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Михальче",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1439*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бедриківці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1440-ві, 1453",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ратне",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1440",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стебник (Іздебник)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1440",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Олесько",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1441 *",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Куликів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1442*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бартольдова Корчма",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Бартатів",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1442",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нараїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1443 або 1578*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Скала",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Скала-Подільська",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1443, 1510, 1518",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Васючин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1444*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Житомир",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1444",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Зіньків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1444, 1458, 1566°",
+      "prymitka": "в 1436 році село переведене на німецьке право, а в 1444 — перетворене на місто"
+    },
+    {
+      "nazva": "Сатанів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1444, 1641",
+      "prymitka": "в 1436 році село переведене на німецьке право, а в 1444 — перетворене на місто"
+    },
+    {
+      "nazva": "Ляцьке",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Лядське",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1445*, 1520*, 1589°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мукачево",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Закарпатська, Мукачівський",
+      "roky_nadannia_prava": "1445, 1484°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Брухналь",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Терновиця",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1447*, 1518°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Велика Горожанна",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1448",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Смотрич",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1448",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Снятин",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1448",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тисмениця",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1448 або 1449",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хмільник",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінниця, Хмільницький",
+      "roky_nadannia_prava": "1448, 1518, 1556",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Червоногород",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Нирків (част.)",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1448",
+      "prymitka": "село нині не існує, Червоногородський замок і навколишні будівлі в урочищі Червоному відносяться до Ниркова"
+    },
+    {
+      "nazva": "Товсте",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1449*, 1720°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чемерівці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1450",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Литовеж",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Володимирський",
+      "roky_nadannia_prava": "1451",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Борщів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1453*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Заболотів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1453*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ярмолинці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1455",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Боляновичі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1458*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гологори",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1461*, 1469",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Жуків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1461*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Угнів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1462, сер. XV ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підгайці",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1463*, 1539°, 1628°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підвисоке",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Новосілки-Опарські (част.)",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1464",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ричихув",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Ричагів",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1464",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Буцнів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1469, 1501*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Золотники",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1469*, 1485",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Комарно",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1471 або 1473",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Добротвір",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Старий Добротвір",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1472*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Литвинів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1476*†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рівне",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1481, 1492, 1493",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Шаравка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Шарівка",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1484, 1588",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мартинів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Новий Мартинів",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1485*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чешибіси",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Єзупіль",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1486*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Букачівці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1489 (кін. XV ст.)",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Губарі (Узин)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Узин",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1491*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Смільне",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1493*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Брацлав",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Тульчинський",
+      "roky_nadannia_prava": "1497°, 1564°",
+      "prymitka": "у 1497 підтверджено магдебурзьке право, рік першого надання невідомий"
+    },
+    {
+      "nazva": "Дубно",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Дубенський",
+      "roky_nadannia_prava": "1498",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стоянів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1499*, 1557°, 1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Княгиничі (Березівці)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1502*, 1563°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Козлів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1502, 1577",
+      "prymitka": "Капраль вказує 1577 як повторний привілей"
+    },
+    {
+      "nazva": "Стремільче",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1503",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Любомль",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1505*, 1541°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Філіпківці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Пилипче",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1505",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тучин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1508",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підгородище (Підгороддя)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1509",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Саранчуки",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1509 або 1520–1525",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Журів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Джурів",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1510",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кресів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Красіїв",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1510",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Подфіліпіє",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1510",
+      "prymitka": "Підпилип'я у Хмельницькій області або Підпилип'я Тернопільської області"
+    },
+    {
+      "nazva": "Підкамінь",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Ходорівці",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1510",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Соколів",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1511",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Квасів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1513",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дорогобуж",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1514",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підкамінь",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1515",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Угринів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1515, 1641°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Білів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненська",
+      "roky_nadannia_prava": "1516",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Журавно",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1516*, 1563",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кодруб'є",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Колодрібка",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1516",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Красилів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1517",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кузьмин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький (Щибор. ТГ)",
+      "roky_nadannia_prava": "1517",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Верба",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Дубенський",
+      "roky_nadannia_prava": "1518",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вільшаниця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1518",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ковель",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1518",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ягільниця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1518",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Язловець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1519, 1753",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Залізці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1520 або 1522",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нижнів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1520*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Уланів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Хмільницький",
+      "roky_nadannia_prava": "1520, 1552, 1606",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Колінці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1521",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чартковиці (Чартковичі, Чортків)",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "Чортків",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1522 або 1532, 1560",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Золочів",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1523",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Уторопи",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Косівський",
+      "roky_nadannia_prava": "1524",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гусаків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1525",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сихів",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "Львів (част.)",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1525",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Щуровичі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1525",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Берездівці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1526*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хотимир",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківська",
+      "roky_nadannia_prava": "1526*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кутища",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Кутище",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківська",
+      "roky_nadannia_prava": "1527*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Острог",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1528",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хирів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1528",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чернехів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Черняхів",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1529",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бережани",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1530",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Монастирець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівській, Стрийський (Журавн. ТГ)",
+      "roky_nadannia_prava": "1530",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Немирів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1530*†, 1580°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бірок (Великі Бірки)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1530",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кулачин (Колачинці)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Снятин (част.)",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1530",
+      "prymitka": "нині частина Снятина"
+    },
+    {
+      "nazva": "Куропатники",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1531",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Перевали",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1531*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Варяж",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1538",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кукизів (Красний Острів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Кукезів",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1538, 1699°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Козова",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1539, 1650",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Куропатники",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1539*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бар",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1540",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гвіздець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1540*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тернопіль",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1540, 1548 (нім.), 1550° (магд.)",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Торчин",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1540",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лисовичі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1542†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Озерна",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1542 або 1602*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стара Синява",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1543, 1558",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кулачківці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "після 1544*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фрага",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1544*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рожнів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Косівський",
+      "roky_nadannia_prava": "1546*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ялтушків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1546 або 1548, або 1556, 1581, 1607",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вижва",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Нова Вижва",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1548",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Орелець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1548*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тлусте",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Товсте",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1548 або 1549, 1701",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Устя-Зелене (Устя-Рожане, Устя-Горожане)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1548",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Калуш",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Калуський",
+      "roky_nadannia_prava": "1549",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Августів (Великі Мости)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Великі Мости",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1549",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Будзанів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Буданів",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1549",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Устя Тенчинське (Устя Королівське, Устечко)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Устя",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1549/1550",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бурштин",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1550",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Виноград",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський (Город. ТГ)",
+      "roky_nadannia_prava": "1550*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Горожанка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1550, 1559",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Миляновичі (Ольшаниця)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1550",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хильчиці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1550*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Березне",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "XVI ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Улашківці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "XVI ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вишгородок",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1551 або 1554",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кукільники",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1551*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підкамінь",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1551",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Войнилів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Калуський",
+      "roky_nadannia_prava": "1552",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Завалля",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1552*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стецева",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1552*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підгороддя (Старий Рогатин)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1553, 1566",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сухостав (Яблунів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1553",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Яблунів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1553",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Николтів (Ніголтів, Микултів, Обертин)",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1553",
+      "prymitka": "поблизу Обертина; Капраль подає окремо від Обертина, низка джерел вважають Николтів і Обертин одним містом"
+    },
+    {
+      "nazva": "Адрінопіль",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1554*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Делятин",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Надвірнянський",
+      "roky_nadannia_prava": "1554",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Глинна (Янів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1556†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чорноострів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Чорний Острів",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1556",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Малиничі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1557",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ожигівці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1557",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Леліва",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1557†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мацеєвичі (Мацеїв)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Луків",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1557 або кін. XVI ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вербів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський (Підг. ТГ)",
+      "roky_nadannia_prava": "1558, 1620",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Горілець",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "?",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1558*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сенява (Соколівка)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Соколівка",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський (Бібрська ТГ)",
+      "roky_nadannia_prava": "1558*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бариш",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1559 *",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Берестечко",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1559",
+      "prymitka": "у деяких джерелах подається 1547 рік, проте в цьому році було надано лише привілей на заснування міста, а магдебурзьке право надано в 1559 році"
+    },
+    {
+      "nazva": "Гусятин",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська і Хмельницька",
+      "roky_nadannia_prava": "1559",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Добромиль",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1559*, 1566 °",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Коропець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1559",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Доброводи (Добрів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська",
+      "roky_nadannia_prava": "1559",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стрипа (Золочівка, Золочів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Золочівка",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1559",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вишнівець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "кін. XV ст., 1560",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бобрівці (Бобровиця)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Крутнів",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1560",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дорофіївці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Дорофіївка",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1560",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Риків",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "бл. 1560*",
+      "prymitka": "поблизу села Старий Косів"
+    },
+    {
+      "nazva": "Колищенці (Костянтинів)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Старокостянтинів",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1561",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Поліщенці",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1561",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Копичинці",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1563*, 1564, 1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Романів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1563†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Монастир",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Тадані",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1563",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Яричів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Новий Яричів",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1563, 1618",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вікно",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1564*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Олика",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1564",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Звенигород",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1564",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ляшки-Муровані",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська",
+      "roky_nadannia_prava": "1564",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Семаківці (Семиківці, Семенківці)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1564*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Залокоть",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мокряни",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підбуж",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Розлуч",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сприня",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бражниця",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Губищі",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Демидче",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Заболотів (част.)",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1565*",
+      "prymitka": "частина Заболотова"
+    },
+    {
+      "nazva": "Ластівки",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Либохора",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Опака",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ополе",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Свитник",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сокуль",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Сокіл",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1565",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Леліва",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1566†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Попівці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1568",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Андріїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Новий Олексинець",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1568",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кальниболото",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Калинопіль",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Звенигородський",
+      "roky_nadannia_prava": "1568?, 1792",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Погорільці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1569*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Раковець (Млинівці, Підстав'я)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1569",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Розділ",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1569* або 1745",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Городисько",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Городище",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський (Терн. ТГ)",
+      "roky_nadannia_prava": "1569*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вишнівчик",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1570*, 1602",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Миколаїв",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1570, 1576, 1578, 1596, 1633, 1671 та ін.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Купель (Крупіль)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Купіль",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1570",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Містечко (Нове Місто Бережани)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Бережани (част.)",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1570*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Потік (Загайполе)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Золотий Потік",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1570 або 1578, 1601°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фірлеїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Липівка",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський (Рогат. ТГ)",
+      "roky_nadannia_prava": "1570",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Шпанів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1572",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дорофіїв (Ярофіїв)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Комарівка",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1572",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хорлупи",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1574",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Качин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Камінь-Каширський",
+      "roky_nadannia_prava": "1576",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Крупець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Дубенський",
+      "roky_nadannia_prava": "1576",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мовчанів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Володимирський",
+      "roky_nadannia_prava": "1576",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Косів",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Косівський",
+      "roky_nadannia_prava": "1577*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Красне Велике",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Красне",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Дубенський",
+      "roky_nadannia_prava": "1577",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Янів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Хмільницький",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Базалія (Базилія)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1578, 1631",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Наварія",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1578*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Надвірна (Краснодвір)",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Надвірнянський",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рогачин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1578*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рохманів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Черче",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чорнокозинці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Буява",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1578*†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Красіївка (Кривотули)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1578?*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Милятин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Новий Милятин",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мосор",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Плоскирів",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "Хмельницький",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тишківці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1578?*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хоростків (Тустань)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Тустань",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1578",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Завалів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1579*, 1729",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Білка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1579°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лоянівці",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Ланівці",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1579",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кисилин (Киселин)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Володимирський",
+      "roky_nadannia_prava": "1580",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Трипілля",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Обухівський",
+      "roky_nadannia_prava": "1580",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Княгин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Княгининок",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1580",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Остропіль",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Старий Остропіль",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1580",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бишів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Фастівський",
+      "roky_nadannia_prava": "1581, 1616",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Прилуки",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Прилуцький",
+      "roky_nadannia_prava": "1582, 1783",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Маркова",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1582*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Козлин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1583",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Козятин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1583",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Черняхів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1583",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ляхівці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Білогір'я",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "1583",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Заслав",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Ізяслав",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "1583, 1754",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тарноруда",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська і Хмельницька",
+      "roky_nadannia_prava": "1583",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Броди",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1584",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Адамів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Бережани (част.)",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1584",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Корсунь",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Корсунь-Шевченківський",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1584 або 1585",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фельштин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Гвардійське",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1584",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чернелиця (Черлениця)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1584*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Брусилів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1585",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Переяслав",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Бориспільський",
+      "roky_nadannia_prava": "1585, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Васильків (Василів)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Обухівський",
+      "roky_nadannia_prava": "1586",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Слостовичі",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1586†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Біла Церква",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Білоцерківський",
+      "roky_nadannia_prava": "1588, 1615",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Белжець (Белзово)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Гончарівка",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1588†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вишогрод",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1588†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Коритниця (Вруби)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська",
+      "roky_nadannia_prava": "1588†",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Шарогрудек (Шаргород)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1588, 1765",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Паволоч",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1589",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дембно",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Скалат",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1589, 1600",
+      "prymitka": "Капраль подає назву Скалат (Нове Дембно)"
+    },
+    {
+      "nazva": "Кінчаки",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1589",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чортовець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1589*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Межиріч",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Великі Межирічі",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1590 або 1605",
+      "prymitka": "можливо сплутано з іншим Межирічем"
+    },
+    {
+      "nazva": "Новий Малин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Новомалин",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1590",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Ружинів (Бернава)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Ружин",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Бердичівський",
+      "roky_nadannia_prava": "1590",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Солтанів (Соловйов)",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1590",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Зборів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1591*, 1689°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лубни",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Лубенський",
+      "roky_nadannia_prava": "1591",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Магерів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1591 або 1595",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Межирів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1591",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бартошівка",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1591*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Белелуя",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1591*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Порохова",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська",
+      "roky_nadannia_prava": "1591*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Слов'ятин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська",
+      "roky_nadannia_prava": "1591*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дунаївці",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1592, 1605",
+      "prymitka": "Кобилецький вказує 1529 рік, що не підтверджується іншими джерелами"
+    },
+    {
+      "nazva": "Мошни",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1592",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Пирятин (Михайлів)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Лубенський",
+      "roky_nadannia_prava": "1592",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чигирин",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1592",
+      "prymitka": "Кобилецький вказує 1529 рік, проте ця дата не підтверджується іншими джерелами, до того ж місто засноване пізніше; у Білоус, 2009, с. 414 подано дати 1589 і 1592, проте в інших джерелах зазначено, що 1589 року був виданий лише привілей на заснування міста, а в 1592 році місто отримало магдебурзьке право."
+    },
+    {
+      "nazva": "Лобня (Олександрів)",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1592",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Меджибіж",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1593",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Горловичі",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1593",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Форошня",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Нехворощ",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Бердичівський",
+      "roky_nadannia_prava": "1593",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лугини",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Коростенський",
+      "roky_nadannia_prava": "1595",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Микулинці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1595, 1758°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підвисоке (Високе)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "поч. XVI ст. або 1595, до 1630°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Суходіл (Хоросятин)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська",
+      "roky_nadannia_prava": "1595",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Жовква",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1596*, 1603",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дідів",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1596",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Милування",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1596*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рожаїв",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1596",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Смолдирів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська",
+      "roky_nadannia_prava": "1596",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дитятин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1597*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рожище",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1598",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Іскоростень",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "Коростень",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Коростенський",
+      "roky_nadannia_prava": "1598",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Романів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Колки",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1598",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сураж",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1599",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Виспа",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1600",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Горохів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький",
+      "roky_nadannia_prava": "1600",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Олександрія",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1600, 1604",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кошер",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Нові Кошари",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1600",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Костянтинів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Новокостянтинів",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1600, 1623",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Брикун",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1601*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Канів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1601, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ремезівці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1601*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фастів (Новий Верещин)",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Фастівський",
+      "roky_nadannia_prava": "1601",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Болехів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Калуський",
+      "roky_nadannia_prava": "1603",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Білий Камінь (Камінь)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1603, 1682",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рава",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Рава-Руська",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "бл. 1603",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Межиріч",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "до 1605 або 1605",
+      "prymitka": "можливо сплутано з іншим Межирічем"
+    },
+    {
+      "nazva": "Михалпіль",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Михайлівка",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1605",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чартория",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1605, 1635",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Липовець",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Вінницький",
+      "roky_nadannia_prava": "1606",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тетіїв",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Білоцерківський",
+      "roky_nadannia_prava": "1606",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Топорів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1606",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вербовець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Могилів-Подільський",
+      "roky_nadannia_prava": "1607",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Полонне",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "II пол. XVI ст., 1607",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сальниця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Хмільницький",
+      "roky_nadannia_prava": "1607",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Глібовичі",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1609*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бринці (Бранці)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Вибранівка",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1609*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Більшівці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1609*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Голгоча",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1610 *",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Струсів (Підбогородичне)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "XVI ст., 1610, 1771",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Молотків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1610, до 1661°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Отиня (Балабанів, Балабанівка, Корчаків)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Отинія",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1610*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ілів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1611",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Локачі",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Володимирський",
+      "roky_nadannia_prava": "1611",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Свірж",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1611*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Янів (Залісся)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Івано-Франкове",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1611",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гостомель",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Бучанський",
+      "roky_nadannia_prava": "1614 або 1619",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Деражне",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1614",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Деражня",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1614",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тайкури",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1614",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Барок",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1615",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сасів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1615",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Самуельпіль",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1616",
+      "prymitka": "затоплене Київським водосхоивщем"
+    },
+    {
+      "nazva": "Крилів",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1616, 1792",
+      "prymitka": "більша частина міста затоплена Кременчуцьким водосхоищем, решта приєднана до Хрущова (нині Світловодськ)"
+    },
+    {
+      "nazva": "Сквира",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Білоцерківський",
+      "roky_nadannia_prava": "1616, 1620-ті",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Став",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1616",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тихомль",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Тихомель",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "1616",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хлапотин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Красностав",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "1616",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гримайлів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1617*, 1720",
+      "prymitka": "Капраль подає 1720 як повторний привілей"
+    },
+    {
+      "nazva": "Перемишляни",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1617*, I чв. XVII ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стохот",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Іванівка",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Луцький (Рожищ. ТГ)",
+      "roky_nadannia_prava": "1618",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Касперівці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1619",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Шепетівка",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "кін. XVI ст., 1619",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Богуслав",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Обухівський",
+      "roky_nadannia_prava": "1620",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Медвин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Білоцерківський",
+      "roky_nadannia_prava": "1620, 1655",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новгород-Сіверський",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Новгород-Сіверський",
+      "roky_nadannia_prava": "1620 або 1752, 1756, 1758",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Креховичі (Райгород, Китайгород)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Калуський",
+      "roky_nadannia_prava": "1621*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лідихів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1621",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лисянка",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Звенигородський",
+      "roky_nadannia_prava": "1622",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Руда",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1622*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дашава",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1623*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мена",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Корюківський",
+      "roky_nadannia_prava": "1623",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чернігів",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Чернігівський",
+      "roky_nadannia_prava": "1623, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Копайгород",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1624",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Норинськ",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Коростенський",
+      "roky_nadannia_prava": "1624",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Швейків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1624 *",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гоголів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Броварський",
+      "roky_nadannia_prava": "1625",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ніжин",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Ніжинський",
+      "roky_nadannia_prava": "1625, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Липове",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1625",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Підтемне",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1626*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Красне",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1626*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Пісочна",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1628*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Бабче",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1628*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Борщів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1629",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Урмань",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1629*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фірлеївка (Вільшаниця)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Андріївка",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1629*, 1638°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Конюхи",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський",
+      "roky_nadannia_prava": "1630*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Маркопіль",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1630*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Миргород",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Миргородський",
+      "roky_nadannia_prava": "1631",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кошовград",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Кашівка",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1631 або 1635",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Славутин",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Славута",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "1633, 1754",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Фошків",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1633",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Борзна",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Ніжинський",
+      "roky_nadannia_prava": "1634",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ксаверів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Коростенський",
+      "roky_nadannia_prava": "1634",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кременчук",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Кременчуцький",
+      "roky_nadannia_prava": "1635",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ставище (Любомир)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Білоцерківський",
+      "roky_nadannia_prava": "1635",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Хоростків",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1635*",
+      "prymitka": "у низці джерел подається 1578 рік, проте в цьому році отримав статус інший Хоростків — у Галицькому повіті Руського воєводства, нинішнє село Тустань, а Хоростків Теребовлянського повіту вперше згадується в міському статусі в 1635 році"
+    },
+    {
+      "nazva": "Чигирин-Діброва (Чигрин-Дубрава)",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1636",
+      "prymitka": "затоплене Кременчуцьким воосховищем"
+    },
+    {
+      "nazva": "Немиричів",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1636",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Заруддя",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Тернопільський (Збор. ТГ)",
+      "roky_nadannia_prava": "1637*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Миньківці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1637",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Коритків (Луща)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Волоща",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Дрогобицький",
+      "roky_nadannia_prava": "1637†, 1667/1673°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Михнівка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Дубровиця",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Камінь-Каширський",
+      "roky_nadannia_prava": "1637",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Жван",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Могилів-Подільський",
+      "roky_nadannia_prava": "1638",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Богородчани (Межиріччя)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1638*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Опалин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Вишнівка",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1638",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Торговиця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1639",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вінниця",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Вінницький",
+      "roky_nadannia_prava": "1640 (підтв.), 1650",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Пилява",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Хмельницький",
+      "roky_nadannia_prava": "1640",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Богачка",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Велика Багачка",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Миргородський",
+      "roky_nadannia_prava": "1640",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Федорів",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1640",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Овруч",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Коростенський",
+      "roky_nadannia_prava": "1641",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Олевськ",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Коростенський",
+      "roky_nadannia_prava": "1641",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Добромир",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1641",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Глухів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Сумська, Шосткинський",
+      "roky_nadannia_prava": "1644",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кролевець",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Сумська, Конотопський",
+      "roky_nadannia_prava": "1644",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Липиця",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Нижня Липиця",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1644*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Лисець (Мочар)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1644*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Жванець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1646",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Білоцерква",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Білоцерківка",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Миргородський",
+      "roky_nadannia_prava": "1646",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Бжезь",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Збриж",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська і Хмельницька",
+      "roky_nadannia_prava": "1646",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мрин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Ніжинський",
+      "roky_nadannia_prava": "1647",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Солотвин (Краснополе)",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1647*, 1765",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Липовець",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Яворівський",
+      "roky_nadannia_prava": "1650°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Печеніжин",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Коломийський",
+      "roky_nadannia_prava": "1650*, 1766",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Станіславів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Станіславчик",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1652*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Клевань",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1654",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Медведівка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1659",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Соколівка (Андріївка)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1661*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Рогатин (Нове Місто)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Рогатин (част.)",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1661*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нові Букачівці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Букачівці (част.)",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1661*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Нові Більшівці",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "Більшівці (част.)",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1661*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Остер",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Чернігівський",
+      "roky_nadannia_prava": "1662 або 1663, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рожнятів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Калуський",
+      "roky_nadannia_prava": "1662*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Козелець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернігівська, Чернігівський",
+      "roky_nadannia_prava": "1663, 1665",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Умань",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Уманський",
+      "roky_nadannia_prava": "1663, 1760",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Станіславів",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "Івано-Франківськ",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1663",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гадяч",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Миргородський",
+      "roky_nadannia_prava": "1665°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Винники",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1666, 1850",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рафалівка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Стара Рафалівка",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Вараський",
+      "roky_nadannia_prava": "1666",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Володимирець",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Вараський",
+      "roky_nadannia_prava": "1667",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Миколаїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1670*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Стратин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1671*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Пнів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська",
+      "roky_nadannia_prava": "1671*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Міховичі",
+      "suchasnyi_status": "—",
+      "suchasna_nazva": "нині не існує",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1674*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Новий Витків (Вацлавів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1675*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ґнін (Жидівське Місто)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Городок (част.)",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1684",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тартаків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1685",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кристинопіль",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Шептицький",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1692*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Маріямпіль (Вовчків)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Івано-Франківський",
+      "roky_nadannia_prava": "1693*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Окопи Святої Трійці",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Окопи",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1700 або 1701",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Шумбар",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "XVII ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Рудки",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "I пол. XVIII ст.",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Літнівці",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Нова Ушиця",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1702–1703 або 1748",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Вижняни",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Львівський",
+      "roky_nadannia_prava": "1720",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Снітків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Могилів-Подільський",
+      "roky_nadannia_prava": "1720",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Устечко",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1720",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Почапинці",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1720",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Богусів",
+      "suchasnyi_status": "",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "",
+      "roky_nadannia_prava": "1723",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Куткір (Мар'янів)",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1727",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Дроговиж",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1728*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тинна",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1730",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Турка",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Самбірський",
+      "roky_nadannia_prava": "1730*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Холоїв",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Вузлове",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1733*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Аннополь",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Берездівці",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1741*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Могилів-Подільський",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Могилів-Подільський",
+      "roky_nadannia_prava": "поч. XVII ст., 1743",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гайсин",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Гайсинський",
+      "roky_nadannia_prava": "1744",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гранів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Гайсинський",
+      "roky_nadannia_prava": "1744",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Радехів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Шептицький",
+      "roky_nadannia_prava": "1744*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кублич",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Кіблич",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Гайсинський",
+      "roky_nadannia_prava": "1744",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Маків",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1746",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Юзефгород",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "Балта",
+      "pidporiadkuvannia_oblast_raion": "Одеська, Подільський",
+      "roky_nadannia_prava": "1746 або 1776",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Кропивна",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Золочівський",
+      "roky_nadannia_prava": "1751*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Полтава",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Полтавська, Полтавський",
+      "roky_nadannia_prava": "1752",
+      "prymitka": "на думку деяких істориків місто могло мати магдебурзьке право ще до 1648 року; згідно з УРЕ — в XVII ст.; в ЕІУ вказано, що Полтава була де-факто самоврядним містом без магдебурзького права"
+    },
+    {
+      "nazva": "Пістинь",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Івано-Франківська, Косівський",
+      "roky_nadannia_prava": "1755*",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Іллінці (Лінці)",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Вінницький",
+      "roky_nadannia_prava": "1757",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Турійськ",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Ковельський",
+      "roky_nadannia_prava": "1759",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сможе",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Львівська, Стрийський",
+      "roky_nadannia_prava": "1760",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Янушгород",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Марківка",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Тульчинський",
+      "roky_nadannia_prava": "1760 або 1767",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Соколів",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1765",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Заліщики",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1766",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Берлинці Польові",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Польове",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Жмеринський",
+      "roky_nadannia_prava": "1767",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Мельниця",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "Мельниця-Подільська",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Чортківський",
+      "roky_nadannia_prava": "1767",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Жаботин",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1771",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сміла",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1773",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гориньград",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Гориньград Перший",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Рівненський",
+      "roky_nadannia_prava": "1777",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Почаїв",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Тернопільська, Кременецький",
+      "roky_nadannia_prava": "1778, 1790",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Свинюхи",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Привітне",
+      "pidporiadkuvannia_oblast_raion": "Волинська, Володимирський",
+      "roky_nadannia_prava": "1778, 1790",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Коростишів",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1779",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Гриців",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Шепетівський",
+      "roky_nadannia_prava": "II пол. XVII ст., 1782°",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Шатава",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1782",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Ромни",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Сумська, Роменський",
+      "roky_nadannia_prava": "1783",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Татариськи",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "Ставище",
+      "pidporiadkuvannia_oblast_raion": "Хмельницька, Кам'янець-Подільський",
+      "roky_nadannia_prava": "1785",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тульчин",
+      "suchasnyi_status": "місто, рц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Тульчинський",
+      "roky_nadannia_prava": "1787",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Томашгород",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Рівненська, Сарненський",
+      "roky_nadannia_prava": "1788",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Білозір'я",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1791",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Махнівка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Вінницька, Хмільницький",
+      "roky_nadannia_prava": "1791",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Тараща",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Київська, Білоцерківський",
+      "roky_nadannia_prava": "1791",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Черкаси",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1791",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Звенигородка",
+      "suchasnyi_status": "місто",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Звенигородський",
+      "roky_nadannia_prava": "1792",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Квітки",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Звенигородський",
+      "roky_nadannia_prava": "1792",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Сахнівка",
+      "suchasnyi_status": "село",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Черкаська, Черкаський",
+      "roky_nadannia_prava": "1792",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Одеса",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Одеська, Одеський",
+      "roky_nadannia_prava": "1797",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Садагура",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "Чернівці (част.)",
+      "pidporiadkuvannia_oblast_raion": "Чернівецька, Чернівецький",
+      "roky_nadannia_prava": "1801",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Романів",
+      "suchasnyi_status": "с-ще",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Житомирська, Житомирський",
+      "roky_nadannia_prava": "1817",
+      "prymitka": ""
+    },
+    {
+      "nazva": "Чернівці",
+      "suchasnyi_status": "місто, оц",
+      "suchasna_nazva": "",
+      "pidporiadkuvannia_oblast_raion": "Чернівецька, Чернівецький",
+      "roky_nadannia_prava": "1832",
+      "prymitka": ""
+    }
+  ],
+  "meta": {
+    "title": "Населені пункти України, які мали магдебурзьке право - Free Download",
+    "description": "Міста й містечка на території сучасної України, що отримували магдебурзьке (міське самоврядне) право: сучасний статус, сучасна назва, область і район, роки надання права та примітки. Contains 553 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Населені пункти України, які мали магдебурзьке право | ListBase",
+    "seo_description": "Download Населені пункти України, які мали магдебурзьке право — 553 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 553 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_населених_пунктів_України,_які_мали_магдебурзьке_право"
+    ]
+  }
+}

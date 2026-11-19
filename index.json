@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-19T02:36:56.138Z",
-  "total_datasets": 516,
-  "total_records": 479848,
+  "generated": "2026-11-19T02:37:07.383Z",
+  "total_datasets": 517,
+  "total_records": 480401,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -5076,6 +5076,33 @@
         "xlsx": {
           "name": "uk-kozatski-vatazhky-do-1648_UK.xlsx",
           "size": 9443
+        }
+      }
+    },
+    {
+      "id": "uk-naseleni-punkty-z-mahdeburzkym-pravom",
+      "name": "Населені пункти України, які мали магдебурзьке право",
+      "category": "history",
+      "record_count": 553,
+      "columns": [
+        "nazva",
+        "suchasnyi_status",
+        "suchasna_nazva",
+        "pidporiadkuvannia_oblast_raion",
+        "roky_nadannia_prava",
+        "prymitka"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_населених_пунктів_України,_які_мали_магдебурзьке_право",
+      "updated": "2026-11",
+      "size": 158031,
+      "files": {
+        "csv": {
+          "name": "uk-naseleni-punkty-z-mahdeburzkym-pravom_UK.csv",
+          "size": 61268
+        },
+        "xlsx": {
+          "name": "uk-naseleni-punkty-z-mahdeburzkym-pravom_UK.xlsx",
+          "size": 31004
         }
       }
     },
