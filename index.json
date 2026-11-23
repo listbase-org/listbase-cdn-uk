@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-23T02:23:27.834Z",
-  "total_datasets": 519,
-  "total_records": 480441,
+  "generated": "2026-11-23T02:23:40.418Z",
+  "total_datasets": 520,
+  "total_records": 480464,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -11991,6 +11991,34 @@
         "xlsx": {
           "name": "uk-etnichnyi-sklad-za-raionamy-2001_UK.xlsx",
           "size": 42008
+        }
+      }
+    },
+    {
+      "id": "uk-mihratsiinyi-pryrist-za-rehionamy",
+      "name": "Міграційний приріст населення за регіонами України (2015–2021)",
+      "category": "society",
+      "record_count": 23,
+      "columns": [
+        "region",
+        "mihratsiinyi_pryrist_2015",
+        "mihratsiinyi_pryrist_2017",
+        "mihratsiinyi_pryrist_2018",
+        "mihratsiinyi_pryrist_2019",
+        "mihratsiinyi_pryrist_2020",
+        "mihratsiinyi_pryrist_2021"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Населення_України#Міграція_за_регіонами_України",
+      "updated": "2026-11",
+      "size": 9825,
+      "files": {
+        "csv": {
+          "name": "uk-mihratsiinyi-pryrist-za-rehionamy_UK.csv",
+          "size": 1689
+        },
+        "xlsx": {
+          "name": "uk-mihratsiinyi-pryrist-za-rehionamy_UK.xlsx",
+          "size": 7908
         }
       }
     },
