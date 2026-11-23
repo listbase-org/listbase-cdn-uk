@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-19T02:37:21.278Z",
-  "total_datasets": 518,
-  "total_records": 480411,
+  "generated": "2026-11-23T02:23:27.834Z",
+  "total_datasets": 519,
+  "total_records": 480441,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3223,6 +3223,31 @@
         "xlsx": {
           "name": "uk-dvanadtsiat-strav-sviatvechora_UK.xlsx",
           "size": 7420
+        }
+      }
+    },
+    {
+      "id": "uk-heohrafichni-zaznachennia-ukrainy",
+      "name": "Українські географічні зазначення (зареєстровані продукти)",
+      "category": "food",
+      "record_count": 30,
+      "columns": [
+        "nomer_reiestratsii",
+        "nazva_tovaru",
+        "typ_tovaru",
+        "kvalifikatsiia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Українські_географічні_зазначення",
+      "updated": "2026-11",
+      "size": 9698,
+      "files": {
+        "csv": {
+          "name": "uk-heohrafichni-zaznachennia-ukrainy_UK.csv",
+          "size": 3753
+        },
+        "xlsx": {
+          "name": "uk-heohrafichni-zaznachennia-ukrainy_UK.xlsx",
+          "size": 8067
         }
       }
     },

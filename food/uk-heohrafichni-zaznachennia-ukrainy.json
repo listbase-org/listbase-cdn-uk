@@ -1,0 +1,226 @@
+{
+  "id": "uk-heohrafichni-zaznachennia-ukrainy",
+  "name": "Українські географічні зазначення (зареєстровані продукти)",
+  "title": "Українські географічні зазначення (зареєстровані продукти)",
+  "description": "Перелік українських продуктів — мінеральних вод, вин, сирів, меду, черешні, кавуна, баранини та виробів народних промислів — яким надано статус географічного зазначення або назви місця походження товару, з номером реєстрації та типом товару.",
+  "category": "food",
+  "source": "https://uk.wikipedia.org/wiki/Українські_географічні_зазначення",
+  "source_url": "https://uk.wikipedia.org/wiki/Українські_географічні_зазначення",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nomer_reiestratsii",
+      "label": "Nomer Reiestratsii",
+      "type": "number"
+    },
+    {
+      "key": "nazva_tovaru",
+      "label": "Nazva Tovaru",
+      "type": "string"
+    },
+    {
+      "key": "typ_tovaru",
+      "label": "Typ Tovaru",
+      "type": "string"
+    },
+    {
+      "key": "kvalifikatsiia",
+      "label": "Kvalifikatsiia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer_reiestratsii": 1,
+      "nazva_tovaru": "Миргородська",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 2,
+      "nazva_tovaru": "Сонячна долина",
+      "typ_tovaru": "Десертне марочне вино",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3,
+      "nazva_tovaru": "Східницька",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 7,
+      "nazva_tovaru": "Новий Світ",
+      "typ_tovaru": "Вино ігристе",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 8,
+      "nazva_tovaru": "Поляна Квасова",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 9,
+      "nazva_tovaru": "Менська Остреч",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 10,
+      "nazva_tovaru": "Царичанська",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 11,
+      "nazva_tovaru": "Трускавецька",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 12,
+      "nazva_tovaru": "Збручанська",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 13,
+      "nazva_tovaru": "Золота Балка",
+      "typ_tovaru": "Вино, вино ігристе",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 14,
+      "nazva_tovaru": "Таврія",
+      "typ_tovaru": "Вино, бренді",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 15,
+      "nazva_tovaru": "Меганом",
+      "typ_tovaru": "Вино",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 16,
+      "nazva_tovaru": "Балаклава",
+      "typ_tovaru": "Вино, вино ігристе",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 20,
+      "nazva_tovaru": "Магарач",
+      "typ_tovaru": "Вино",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3111,
+      "nazva_tovaru": "Молочанська",
+      "typ_tovaru": "Мінеральна вода",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3117,
+      "nazva_tovaru": "Гуцульська овеча бриндзя",
+      "typ_tovaru": "Сир",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3118,
+      "nazva_tovaru": "Гуцульська коров’яча бриндза",
+      "typ_tovaru": "Сир",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3119,
+      "nazva_tovaru": "Мелітопольська черешня",
+      "typ_tovaru": "Черешня",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3120,
+      "nazva_tovaru": "Кролевецькі рушники",
+      "typ_tovaru": "Рушники, скатертини, серветки, фартухи, панно",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3121,
+      "nazva_tovaru": "Петриківський розпис",
+      "typ_tovaru": "Сувенірна продукція, столовий посуд, товари широкого вжитку",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3125,
+      "nazva_tovaru": "Шабаг",
+      "typ_tovaru": "Вино, вино ігристе",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3126,
+      "nazva_tovaru": "Аша-Абаг",
+      "typ_tovaru": "Вино, вино ігристе",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3127,
+      "nazva_tovaru": "Придунайська Бессарабія",
+      "typ_tovaru": "Вино, вино ігристе",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3128,
+      "nazva_tovaru": "Ялпуг",
+      "typ_tovaru": "Вино",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3129,
+      "nazva_tovaru": "Закарпаття/Закарпатське вино",
+      "typ_tovaru": "Вино",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3130,
+      "nazva_tovaru": "Херсонський кавун",
+      "typ_tovaru": "Кавун",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3131,
+      "nazva_tovaru": "Мед Закарпаття/Закарпатський мед",
+      "typ_tovaru": "Мед",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3132,
+      "nazva_tovaru": "Долина Фрумушика",
+      "typ_tovaru": "Вино",
+      "kvalifikatsiia": "Назва місця походження товару"
+    },
+    {
+      "nomer_reiestratsii": 3133,
+      "nazva_tovaru": "М’ясо баранини Фрумушика/Баранина Фрумушика",
+      "typ_tovaru": "Баранина",
+      "kvalifikatsiia": "Географічне зазначення"
+    },
+    {
+      "nomer_reiestratsii": 3134,
+      "nazva_tovaru": "Мед степовий Фрумушика",
+      "typ_tovaru": "Мед",
+      "kvalifikatsiia": "Географічне зазначення"
+    }
+  ],
+  "meta": {
+    "title": "Українські географічні зазначення (зареєстровані продукти) - Free Download",
+    "description": "Перелік українських продуктів — мінеральних вод, вин, сирів, меду, черешні, кавуна, баранини та виробів народних промислів — яким надано статус географічного зазначення або назви місця походження товару, з номером реєстрації та типом товару. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Українські географічні зазначення (зареєстровані продукти) | ListBase",
+    "seo_description": "Download Українські географічні зазначення (зареєстровані продукти) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Українські_географічні_зазначення"
+    ]
+  }
+}
