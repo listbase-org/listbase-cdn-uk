@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-24T02:24:11.930Z",
-  "total_datasets": 521,
-  "total_records": 480554,
+  "generated": "2026-11-24T02:24:23.208Z",
+  "total_datasets": 522,
+  "total_records": 480577,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -2387,6 +2387,34 @@
         "xlsx": {
           "name": "uk-odynytsi-vymiru-temperature_UK.xlsx",
           "size": 7108
+        }
+      }
+    },
+    {
+      "id": "uk-plazuny-ukrainy",
+      "name": "Плазуни України",
+      "category": "environment",
+      "record_count": 23,
+      "columns": [
+        "nazva",
+        "binomialna_nazva",
+        "rodyna",
+        "ryad",
+        "status_yechs_msop",
+        "status_chervonoi_knyhy_ukrainy",
+        "poshyrennia_ta_mistsia_isnuvannia"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_плазунів_України",
+      "updated": "2026-11",
+      "size": 18280,
+      "files": {
+        "csv": {
+          "name": "uk-plazuny-ukrainy_UK.csv",
+          "size": 11307
+        },
+        "xlsx": {
+          "name": "uk-plazuny-ukrainy_UK.xlsx",
+          "size": 10966
         }
       }
     },
