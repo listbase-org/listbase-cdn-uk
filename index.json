@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-24T02:24:23.208Z",
-  "total_datasets": 522,
-  "total_records": 480577,
+  "generated": "2026-11-24T02:24:58.575Z",
+  "total_datasets": 523,
+  "total_records": 480591,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -5452,6 +5452,30 @@
         "xlsx": {
           "name": "uk-ukrainska-abetka_UK.xlsx",
           "size": 8571
+        }
+      }
+    },
+    {
+      "id": "uk-zminy-pravopysu-2019",
+      "name": "Основні зміни в українському правописі 2019 року",
+      "category": "language",
+      "record_count": 14,
+      "columns": [
+        "sut_zminy",
+        "pravopys_1993",
+        "pravopys_2019"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Український_правопис_2019_року",
+      "updated": "2026-11",
+      "size": 20338,
+      "files": {
+        "csv": {
+          "name": "uk-zminy-pravopysu-2019_UK.csv",
+          "size": 16701
+        },
+        "xlsx": {
+          "name": "uk-zminy-pravopysu-2019_UK.xlsx",
+          "size": 12184
         }
       }
     },
