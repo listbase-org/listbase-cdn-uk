@@ -1,0 +1,776 @@
+{
+  "id": "uk-endemichna-fauna-ukrainy",
+  "name": "Ендемічна фауна України",
+  "title": "Ендемічна фауна України",
+  "description": "Види тварин, ендемічні для України (не трапляються ніде більше у світі): українська та біномінальна назва, автор таксона, клас і таксономічна група (ряд/родина), статус і поширення в Україні — ссавці, плазуни, риби, комахи, павукоподібні, молюски та інші.",
+  "category": "environment",
+  "source": "https://uk.wikipedia.org/wiki/Список_ендемічної_фауни_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_ендемічної_фауни_України",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "nazva",
+      "label": "Nazva",
+      "type": "string"
+    },
+    {
+      "key": "binomialna_nazva",
+      "label": "Binomialna Nazva",
+      "type": "string"
+    },
+    {
+      "key": "avtor_taksona",
+      "label": "Avtor Taksona",
+      "type": "string"
+    },
+    {
+      "key": "klas_hrupa",
+      "label": "Klas Hrupa",
+      "type": "string"
+    },
+    {
+      "key": "taksonomichna_hrupa",
+      "label": "Taksonomichna Hrupa",
+      "type": "string"
+    },
+    {
+      "key": "status_i_poshyrennia_v_ukraini",
+      "label": "Status I Poshyrennia V Ukraini",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazva": "Сліпак піщаний",
+      "binomialna_nazva": "Spalax arenarius",
+      "avtor_taksona": "(Reshetnik, 1939)",
+      "klas_hrupa": "Ссавці (Mammalia)",
+      "taksonomichna_hrupa": "Родина: Сліпакові (Spalacidae)",
+      "status_i_poshyrennia_v_ukraini": "Ендемік півдня України"
+    },
+    {
+      "nazva": "Сліпак подільський",
+      "binomialna_nazva": "Spalax zemni",
+      "avtor_taksona": "Erxleben, 1777",
+      "klas_hrupa": "Ссавці (Mammalia)",
+      "taksonomichna_hrupa": "Родина: Сліпакові (Spalacidae)",
+      "status_i_poshyrennia_v_ukraini": "Ендемік Правобережної України"
+    },
+    {
+      "nazva": "Ящірка Ліндгольма",
+      "binomialna_nazva": "Darevskia lindholmi",
+      "avtor_taksona": "Lantz та Cyrén, 1913",
+      "klas_hrupa": "Плазуни (Reptilia)",
+      "taksonomichna_hrupa": "Родина: Ящіркові (Lacertidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Бистрянка кримська",
+      "binomialna_nazva": "Alburnoides maculatus",
+      "avtor_taksona": "Kessler, 1859",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Марена дніпровська",
+      "binomialna_nazva": "Barbus borysthenicus",
+      "avtor_taksona": "Dybowski, 1862",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "басейн Дніпра та Південного Бугу"
+    },
+    {
+      "nazva": "Пічкур дністровський",
+      "binomialna_nazva": "Gobio sarmaticus",
+      "avtor_taksona": "Berg, 1949",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "у пониззях річок Дністер і Південний Буг"
+    },
+    {
+      "nazva": "Пічкур карпатський",
+      "binomialna_nazva": "Gobio carpathicus",
+      "avtor_taksona": "Vladykov, 1925",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "у басейні річки Тиса"
+    },
+    {
+      "nazva": "Пічкур кримський",
+      "binomialna_nazva": "Gobio krymensis",
+      "avtor_taksona": "Banarescu & Nalbant, 1973",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Пічкур чорноріченський",
+      "binomialna_nazva": "Gobio delyamurei",
+      "avtor_taksona": "Freyhof & Naseka, 2005",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Селява кримська",
+      "binomialna_nazva": "Alburnus mentoides",
+      "avtor_taksona": "Kessler, 1859",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Коропові (Cyprinidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Бичок-цуцик чорноріченський",
+      "binomialna_nazva": "Proterorhinus tataricus",
+      "avtor_taksona": "Freyhof & Naseka, 2007",
+      "klas_hrupa": "Променепері риби (Actinopterygii)",
+      "taksonomichna_hrupa": "Родина: Бичкові (Gobiidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Arrhopalites karabiensis",
+      "avtor_taksona": "Vargovitsh 2009",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Arrhopalitidae",
+      "status_i_poshyrennia_v_ukraini": "печери Карабі-Яйли, Гірський Крим"
+    },
+    {
+      "nazva": "Пігмаропалітес карпатський",
+      "binomialna_nazva": "Pygmarrhopalites carpathicus",
+      "avtor_taksona": "Vargovitsh 1999",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Arrhopalitidae",
+      "status_i_poshyrennia_v_ukraini": "Закарпатська обл. (печера Дружба та карстова система Черлений камінь)"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Pygmarrhopalites tauricus",
+      "avtor_taksona": "Vargovitsh 2009",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Arrhopalitidae",
+      "status_i_poshyrennia_v_ukraini": "печери Карабі-Яйли, Гірський Крим"
+    },
+    {
+      "nazva": "Анадримадуза Ретовського",
+      "binomialna_nazva": "Anadrymadusa retowskii",
+      "avtor_taksona": "Adelung, 1907",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Справжні коники (Tettigoniidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Ізофія кримська",
+      "binomialna_nazva": "Isophya taurica",
+      "avtor_taksona": "Brunner von Wattenwyl, 1878",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Справжні коники (Tettigoniidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Пилкохвіст Болдирева",
+      "binomialna_nazva": "Poecilimon boldyrevi",
+      "avtor_taksona": "Miram, 1938",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Справжні коники (Tettigoniidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Пилкохвіст Плігінського",
+      "binomialna_nazva": "Poecilimon pliginskii",
+      "avtor_taksona": "Miram, 1929",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Справжні коники (Tettigoniidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Пилкохвіст кримський",
+      "binomialna_nazva": "Poecilimon tauricus",
+      "avtor_taksona": "Retowski, 1888",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Справжні коники (Tettigoniidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Кобилка степова кримська",
+      "binomialna_nazva": "Asiotmethis tauricus",
+      "avtor_taksona": "Tarbinsky, 1930",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Саранові (Acrididae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Богомольчик кримський",
+      "binomialna_nazva": "Ameles heldreichi taurica",
+      "avtor_taksona": "Jakovlev, 1903",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Mantidae",
+      "status_i_poshyrennia_v_ukraini": "Крим, південні області"
+    },
+    {
+      "nazva": "Красуня блискуча кримська",
+      "binomialna_nazva": "Calopteryx splendens taurica",
+      "avtor_taksona": "Selys, 1853",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Красуні (Calopterygidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Екдіонурус єдиний",
+      "binomialna_nazva": "Ecdyonurus solus",
+      "avtor_taksona": "Prokopov & Godunko, 2007",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Гептагеніди (Heptageniidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Ембія реліктова",
+      "binomialna_nazva": "Haploembia solieri",
+      "avtor_taksona": "Rambur, 1842",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Оліготоміди (Oligotomidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Онкоцефал кримський",
+      "binomialna_nazva": "Oncocephalus paternus",
+      "avtor_taksona": "Putshkov, 1984",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Редувіїди (Reduviidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Вусач земляний Мокржецького",
+      "binomialna_nazva": "Dorcadion mokrzeckii",
+      "avtor_taksona": "Jakovlev, 1902",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Вусачі (Cerambycidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Niphetodes redtenbacheri",
+      "avtor_taksona": "Miller, 1868",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Жуки-хижаки (Staphylinidae)",
+      "status_i_poshyrennia_v_ukraini": "Карпати (Чорногорський хребет)"
+    },
+    {
+      "nazva": "Листоїд Плігінського",
+      "binomialna_nazva": "Chrysolina pliginskii",
+      "avtor_taksona": "Reitter, 1913",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Листоїди (Chrysomelidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Чекініола пластисцелідина",
+      "binomialna_nazva": "Cecchiniola platyscelidina",
+      "avtor_taksona": "Jacobson, 1908",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Листоїди (Chrysomelidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Дуваліус закарпатський",
+      "binomialna_nazva": "Duvalius transcarpathicus",
+      "avtor_taksona": "Shilenkov et Rizun 1989",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "Закарпатська область"
+    },
+    {
+      "nazva": "Лейстус Банінгера",
+      "binomialna_nazva": "Leistus baenningeri",
+      "avtor_taksona": "Roubal 1926",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "Карпати"
+    },
+    {
+      "nazva": "Лейстус український",
+      "binomialna_nazva": "Leistus ucrainicus",
+      "avtor_taksona": "Lazorko, 1954",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "Івано-Франківська область"
+    },
+    {
+      "nazva": "Псевдофаенопс таврійський",
+      "binomialna_nazva": "Pseudaphaenops tauricus",
+      "avtor_taksona": "Winkler, 1912",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "печери Довгоруківської яйли і Карабі-Яйли, Гірський Крим"
+    },
+    {
+      "nazva": "Псевдофаенопс Якобсона",
+      "binomialna_nazva": "Pseudaphaenops jacobsoni",
+      "avtor_taksona": "Pliginskiy, 1912",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "печери Ай-Петринської яйли, Гірський Крим"
+    },
+    {
+      "nazva": "Слимакоїд кримський",
+      "binomialna_nazva": "Carabus scabrosus tauricus",
+      "avtor_taksona": "Bonelli, 1810",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Турун печерний Дублянського",
+      "binomialna_nazva": "Taurocimmerites dublanskii",
+      "avtor_taksona": "Belousov, 1998",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Турун Фабра український",
+      "binomialna_nazva": "Carabus fabricii ucrainicus",
+      "avtor_taksona": "Lazorko, 1951",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "у гірському масиві Ґорґани (Українські Карпати)"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Trechus pseudomontanellus",
+      "avtor_taksona": "Shilenkov et Rizun 1989",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Туруни (Carabidae)",
+      "status_i_poshyrennia_v_ukraini": "Закарпатська область"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Polyommatus pljushtchi",
+      "avtor_taksona": "Budashkin & Lukhtanov, 1993",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Синявцеві (Lycaenidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Сатир евксинський",
+      "binomialna_nazva": "Pseudochazara euxina",
+      "avtor_taksona": "Kusnezov, 1909",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Сонцевики (Nymphalidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Мішечниця Плігінського",
+      "binomialna_nazva": "Eumelasina pliginskii",
+      "avtor_taksona": "Kozhanchikov, 1956",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Мішечницеві (Psychidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Катаптерикс кримський",
+      "binomialna_nazva": "Catapterix crimaea",
+      "avtor_taksona": "Zagulajev & Sinev, 1988",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Acanthopteroctetidae",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Coleophora berdjanski",
+      "avtor_taksona": "Baldizzone & Patzak, 1991",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Чохликові молі (Coleophoridae)",
+      "status_i_poshyrennia_v_ukraini": "відомий лише з голотипа, що знайдений в околицях Бердянська."
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Coleophora ucrainae",
+      "avtor_taksona": "Baldizzone & Patzak, 1991",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Чохликові молі (Coleophoridae)",
+      "status_i_poshyrennia_v_ukraini": "відомий лише з голотипа, що знайдений в околицях Бердянська."
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Agonopterix budashkini",
+      "avtor_taksona": "Lvovsky, 1998",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Плоскі молі (Depressariidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Elachista latipenella",
+      "avtor_taksona": "Sinev & Budashkin, 1991",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Злакові молі-мінери (Elachistidae)",
+      "status_i_poshyrennia_v_ukraini": "Карадазький заповідник (Крим)"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Hypenodes crimeana",
+      "avtor_taksona": "Fibiger, Pekarsky & Ronkay, 2010",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Еребіди (Erebidae)",
+      "status_i_poshyrennia_v_ukraini": "поблизу Алушти (Крим)"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Chalepoxenus tauricus",
+      "avtor_taksona": "Radchenko, 1989",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Мурахи (Formicidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Plagiolepis karawajewi",
+      "avtor_taksona": "Radchenko, 1989",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Мурахи (Formicidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Strongylognathus arnoldii",
+      "avtor_taksona": "Radchenko, 1985",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Мурахи (Formicidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Strongylognathus cheliferus",
+      "avtor_taksona": "Radchenko, 1985",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Мурахи (Formicidae)",
+      "status_i_poshyrennia_v_ukraini": "Асканія-Нова"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Temnothorax jailensis",
+      "avtor_taksona": "Arnol'di, 1977",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Мурахи (Formicidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Андрена степова",
+      "binomialna_nazva": "Andrena stepposa",
+      "avtor_taksona": "Osytshnjuk, 1977",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Андреніди (Andrenidae)",
+      "status_i_poshyrennia_v_ukraini": "Донецька область"
+    },
+    {
+      "nazva": "Тетрамеза пунктирована",
+      "binomialna_nazva": "Tetramesa punctata",
+      "avtor_taksona": "Zerova, 1965",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Евритоміди (Eurytomidae)",
+      "status_i_poshyrennia_v_ukraini": "Луганська область"
+    },
+    {
+      "nazva": "Ксифідрія Маркевича",
+      "binomialna_nazva": "Xiphydria markewitshi",
+      "avtor_taksona": "Ermolenko, 1960",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Ксифідріїди (Xiphydriidae)",
+      "status_i_poshyrennia_v_ukraini": "Закарпатська область"
+    },
+    {
+      "nazva": "Мелітта Будашкіна",
+      "binomialna_nazva": "Melitta budashkini",
+      "avtor_taksona": "Radchenko & Ivanov, 2012",
+      "klas_hrupa": "Комахи (Insecta)",
+      "taksonomichna_hrupa": "Родина: Меліттиди (Melittidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Багатозв'яз гірський український",
+      "binomialna_nazva": "Polydesmus montanus ukrainicus",
+      "avtor_taksona": "Lohmander, 1928",
+      "klas_hrupa": "Багатоніжки (Myriapoda)",
+      "taksonomichna_hrupa": "Родина: Багатозв'язові (Polydesmidae)",
+      "status_i_poshyrennia_v_ukraini": "Знайдено на околицях Києва та в Канівському природному заповіднику."
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Polydesmus geminidentatus",
+      "avtor_taksona": "Loksa, 1954",
+      "klas_hrupa": "Багатоніжки (Myriapoda)",
+      "taksonomichna_hrupa": "Родина: Багатозв'язові (Polydesmidae)",
+      "status_i_poshyrennia_v_ukraini": "Карпати"
+    },
+    {
+      "nazva": "Лептоюлюс Семенкевича",
+      "binomialna_nazva": "Leptojulus semenkevitshi",
+      "avtor_taksona": "Lohmander, 1928",
+      "klas_hrupa": "Багатоніжки (Myriapoda)",
+      "taksonomichna_hrupa": "Родина: Справжні ківсяки (Julidae)",
+      "status_i_poshyrennia_v_ukraini": "Вид виявлений в Києві (зокрема, в Голосіївському лісі) і його околицях."
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Petalomium crinitus",
+      "avtor_taksona": "Khaustov and Trach, 2013",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Neopygmephoridae",
+      "status_i_poshyrennia_v_ukraini": "Одеська область"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Petalomium lancetochaetosus",
+      "avtor_taksona": "Sevastianov, 1974",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Neopygmephoridae",
+      "status_i_poshyrennia_v_ukraini": "Одеська, Хмельницька область"
+    },
+    {
+      "nazva": "Скорпіон кримський",
+      "binomialna_nazva": "Euscorpius tauricus",
+      "avtor_taksona": "(Koch, 1838)",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Euscorpiidae",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Tegenaria podoprygorai",
+      "avtor_taksona": "Kovblyuk, 2006",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Агеленіди (Agelenidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Berlandina shumskyi",
+      "avtor_taksona": "Kovblyuk, 2003",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Гнафозиди (Gnaphosidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Diplocephalus pseudocrassilobus",
+      "avtor_taksona": "Gnelitsa, 2006",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Балдахінні павуки (Linyphiidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Incestophantes australis",
+      "avtor_taksona": "Gnelitsa, 2009",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Балдахінні павуки (Linyphiidae)",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Typhochrestus longisulcus",
+      "avtor_taksona": "Gnelitsa, 2006",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Балдахінні павуки (Linyphiidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Deliriosa chiragrica",
+      "avtor_taksona": "Thorell, 1875",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Павуки-вовки (Lycosidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Carpathonesticus galotshkai",
+      "avtor_taksona": "Evtushenko, 1993",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Нестіциди (Nesticidae)",
+      "status_i_poshyrennia_v_ukraini": "Закарпатська область"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Spinestis nikita",
+      "avtor_taksona": "Saaristo & Marusik, 2009",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Оонопіди (Oonopidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Dipoena lindholmi",
+      "avtor_taksona": "Strand, 1910",
+      "klas_hrupa": "Павукоподібні (Arachnida)",
+      "taksonomichna_hrupa": "Родина: Павуки-тенетники (Theridiidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Спеодіаптомус Бірштейна",
+      "binomialna_nazva": "Speodiaptomus birsteini",
+      "avtor_taksona": "Borutzky, 1962",
+      "klas_hrupa": "Ракоподібні (Crustacea)",
+      "taksonomichna_hrupa": "Родина: Diaptomidae",
+      "status_i_poshyrennia_v_ukraini": "підземне озеро Скельської печери, Гірський Крим"
+    },
+    {
+      "nazva": "Слотавець таврійський",
+      "binomialna_nazva": "Deroceras tauricum",
+      "avtor_taksona": "Simroth 1901",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Agriolimacidae",
+      "status_i_poshyrennia_v_ukraini": "Крим"
+    },
+    {
+      "nazva": "Ментіса лісова",
+      "binomialna_nazva": "Mentissa canalifera",
+      "avtor_taksona": "Rossmässler, 1836",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Clausiliidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Ментіса скельова",
+      "binomialna_nazva": "Mentissa gracilicosta",
+      "avtor_taksona": "Rossmässler, 1836",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Clausiliidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму, Одеса (інтродукований)"
+    },
+    {
+      "nazva": "Ментіса оксамитова",
+      "binomialna_nazva": "Mentissa velutina",
+      "avtor_taksona": "Baidashnikov, 1990",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Clausiliidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Перистома мердвенева",
+      "binomialna_nazva": "Peristoma merduenianum",
+      "avtor_taksona": "Krynicki, 1833",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Enidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Круглозубка бабуганська",
+      "binomialna_nazva": "Thoanteus ferrarii",
+      "avtor_taksona": "Hausdorf, 1994",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Enidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Круглозубка бескидиста",
+      "binomialna_nazva": "Peristoma rupestre",
+      "avtor_taksona": "Krynicki, 1833",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Enidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Обжерка горбата",
+      "binomialna_nazva": "Thoanteus gibber",
+      "avtor_taksona": "Krynicki, 1833",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Enidae",
+      "status_i_poshyrennia_v_ukraini": "Гірський Крим"
+    },
+    {
+      "nazva": "Пелюшниця двозуба",
+      "binomialna_nazva": "Brephulopsis bidens",
+      "avtor_taksona": "Krynicki, 1833",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Enidae",
+      "status_i_poshyrennia_v_ukraini": "Крим, Херсонська, Одеська області"
+    },
+    {
+      "nazva": "Пелюшниця струнка",
+      "binomialna_nazva": "Ramusculus subulatus",
+      "avtor_taksona": "Rossmässler, 1837",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Enidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Таврінелятко бабуганське",
+      "binomialna_nazva": "Taurinellushka babugana",
+      "avtor_taksona": "Balashov, 2014",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Pristilomatidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Кришталівка кримська",
+      "binomialna_nazva": "Vitrea nadejdae",
+      "avtor_taksona": "Lindholm, 1926",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Zonitidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму"
+    },
+    {
+      "nazva": "Лощак таврійський",
+      "binomialna_nazva": "Oxychilus diaphanellus",
+      "avtor_taksona": "Krynicki, 1836",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Zonitidae",
+      "status_i_poshyrennia_v_ukraini": "Південний берег Криму, вселенець в інших областях"
+    },
+    {
+      "nazva": "Простеномфалія карпатська",
+      "binomialna_nazva": "Prostenomphalia carpathica",
+      "avtor_taksona": "Baidaschnikov, 1985",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Гігроміїди (Hygromiidae)",
+      "status_i_poshyrennia_v_ukraini": "Карпати"
+    },
+    {
+      "nazva": "Равлик-монах чагарниковий",
+      "binomialna_nazva": "Monacha fruticola",
+      "avtor_taksona": "Krynicki 1833",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Гігроміїди (Hygromiidae)",
+      "status_i_poshyrennia_v_ukraini": "Крим, Причорноморська низовина"
+    },
+    {
+      "nazva": "Скалочка женецька",
+      "binomialna_nazva": "Platyla jankowskiana",
+      "avtor_taksona": "Jackiewicz 1979",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Aciculidae",
+      "status_i_poshyrennia_v_ukraini": "Карпати (Івано-Франківська область)"
+    },
+    {
+      "nazva": "Наземна бітінела Байдашнікова",
+      "binomialna_nazva": "Terrestribythinella baidashnikovi",
+      "avtor_taksona": "Sitnikova, Starobogatov et Anistratenko, 1992",
+      "klas_hrupa": "Черевоногі (Gastropoda)",
+      "taksonomichna_hrupa": "Родина: Гідробієві (Hydrobiidae)",
+      "status_i_poshyrennia_v_ukraini": "Карпати (Закарпатська область)"
+    },
+    {
+      "nazva": "",
+      "binomialna_nazva": "Malakhovia chernobyli",
+      "avtor_taksona": "Tchesunov & Gagarin, 1999.",
+      "klas_hrupa": "Нематоди (Nematoda)",
+      "taksonomichna_hrupa": "Родина: Andrassyidae",
+      "status_i_poshyrennia_v_ukraini": "територія Чорнобильської АЕСЄ, Київське водосховище"
+    }
+  ],
+  "meta": {
+    "title": "Ендемічна фауна України - Free Download",
+    "description": "Види тварин, ендемічні для України (не трапляються ніде більше у світі): українська та біномінальна назва, автор таксона, клас і таксономічна група (ряд/родина), статус і поширення в Україні — ссавці, плазуни, риби, комахи, павукоподібні, молюски та інші. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ендемічна фауна України | ListBase",
+    "seo_description": "Download Ендемічна фауна України — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_ендемічної_фауни_України"
+    ]
+  }
+}

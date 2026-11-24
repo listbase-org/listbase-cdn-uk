@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-23T02:23:40.418Z",
-  "total_datasets": 520,
-  "total_records": 480464,
+  "generated": "2026-11-24T02:24:11.930Z",
+  "total_datasets": 521,
+  "total_records": 480554,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2279,6 +2279,33 @@
         "xlsx": {
           "name": "uk-elektrostantsiyi_UK.xlsx",
           "size": 25477
+        }
+      }
+    },
+    {
+      "id": "uk-endemichna-fauna-ukrainy",
+      "name": "Ендемічна фауна України",
+      "category": "environment",
+      "record_count": 90,
+      "columns": [
+        "nazva",
+        "binomialna_nazva",
+        "avtor_taksona",
+        "klas_hrupa",
+        "taksonomichna_hrupa",
+        "status_i_poshyrennia_v_ukraini"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_ендемічної_фауни_України",
+      "updated": "2026-11",
+      "size": 35257,
+      "files": {
+        "csv": {
+          "name": "uk-endemichna-fauna-ukrainy_UK.csv",
+          "size": 17300
+        },
+        "xlsx": {
+          "name": "uk-endemichna-fauna-ukrainy_UK.xlsx",
+          "size": 13950
         }
       }
     },
