@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-24T02:24:58.575Z",
-  "total_datasets": 523,
-  "total_records": 480591,
+  "generated": "2026-11-25T02:24:05.999Z",
+  "total_datasets": 524,
+  "total_records": 480639,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5072,6 +5072,32 @@
         "xlsx": {
           "name": "uk-vil-novi-vypadky-za-rehionamy_UK.xlsx",
           "size": 8413
+        }
+      }
+    },
+    {
+      "id": "uk-bytvy-ukrainskoi-narodnoi-respubliky",
+      "name": "Битви за участю Української Народної Республіки (1917–1921)",
+      "category": "history",
+      "record_count": 48,
+      "columns": [
+        "data",
+        "bytva",
+        "syly_i_vtraty_unr",
+        "syly_i_vtraty_protyvnyka",
+        "rezultat"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_битв_за_участю_Української_Народної_Республіки",
+      "updated": "2026-11",
+      "size": 31616,
+      "files": {
+        "csv": {
+          "name": "uk-bytvy-ukrainskoi-narodnoi-respubliky_UK.csv",
+          "size": 23079
+        },
+        "xlsx": {
+          "name": "uk-bytvy-ukrainskoi-narodnoi-respubliky_UK.xlsx",
+          "size": 13211
         }
       }
     },
