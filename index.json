@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-25T02:24:05.999Z",
-  "total_datasets": 524,
-  "total_records": 480639,
+  "generated": "2026-11-25T02:24:17.243Z",
+  "total_datasets": 525,
+  "total_records": 480651,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -13026,6 +13026,39 @@
         "xlsx": {
           "name": "uk-profesiini-sviata_UK.xlsx",
           "size": 9748
+        }
+      }
+    },
+    {
+      "id": "uk-slovianski-nazvy-misiatsiv",
+      "name": "Слов'янські назви місяців: давньоруські, українські та в інших слов'янських мовах",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "nomer",
+        "davnoruska",
+        "ukrainska",
+        "biloruska",
+        "rosiiska",
+        "bolharska",
+        "serbska",
+        "makedonska",
+        "polska",
+        "khorvatska",
+        "slovenska",
+        "cheska"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Слов'янські_назви_місяців",
+      "updated": "2026-11",
+      "size": 8297,
+      "files": {
+        "csv": {
+          "name": "uk-slovianski-nazvy-misiatsiv_UK.csv",
+          "size": 2096
+        },
+        "xlsx": {
+          "name": "uk-slovianski-nazvy-misiatsiv_UK.xlsx",
+          "size": 8304
         }
       }
     },
