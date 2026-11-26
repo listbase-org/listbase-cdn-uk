@@ -1,0 +1,96 @@
+{
+  "id": "uk-ukraina-maie-talant-peremozhtsi",
+  "name": "«Україна має талант» — переможці",
+  "title": "«Україна має талант» — переможці",
+  "description": "Переможці українського телешоу талантів «Україна має талант» (СТБ) за роками та жанр їхнього виступу.",
+  "category": "entertainment",
+  "source": "https://uk.wikipedia.org/wiki/Україна_має_талант",
+  "source_url": "https://uk.wikipedia.org/wiki/Україна_має_талант",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "talent",
+      "label": "Talent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2009,
+      "winner": "Ксенія Симонова (Євпаторія)",
+      "talent": "художниця, яка виступає у жанрі пісочної анімації"
+    },
+    {
+      "year": 2010,
+      "winner": "Олена Ковтун (Полтава)",
+      "talent": "співачка"
+    },
+    {
+      "year": 2011,
+      "winner": "Віталій Лузкар",
+      "talent": "фокусник-ілюзіоніст"
+    },
+    {
+      "year": 2012,
+      "winner": "колектив «Workout» (Київ)",
+      "talent": "гімнастичні трюки"
+    },
+    {
+      "year": 2013,
+      "winner": "колектив «Лісапєтний батальйон»",
+      "talent": "вокальний ансамбль"
+    },
+    {
+      "year": 2014,
+      "winner": "сім'я Дудник",
+      "talent": "сім'я акробатів"
+    },
+    {
+      "year": 2015,
+      "winner": "Саїд Джурді Абд Аллах (Сирія)",
+      "talent": "співак"
+    },
+    {
+      "year": 2016,
+      "winner": "Арина Шугалевич",
+      "talent": "країнознавець"
+    },
+    {
+      "year": 2017,
+      "winner": "Вероніка Морська",
+      "talent": "співачка"
+    },
+    {
+      "year": 2021,
+      "winner": "Артем Фесько",
+      "talent": "співак"
+    },
+    {
+      "year": 2026,
+      "winner": "Марко Сердинський",
+      "talent": "співак"
+    }
+  ],
+  "meta": {
+    "title": "«Україна має талант» — переможці - Free Download",
+    "description": "Переможці українського телешоу талантів «Україна має талант» (СТБ) за роками та жанр їхнього виступу. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "«Україна має талант» — переможці | ListBase",
+    "seo_description": "Download «Україна має талант» — переможці — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Україна_має_талант"
+    ]
+  }
+}
