@@ -1,0 +1,160 @@
+{
+  "id": "uk-holos-krainy-peremozhtsi",
+  "name": "«Голос країни» — переможці та фіналісти сезонів",
+  "title": "«Голос країни» — переможці та фіналісти сезонів",
+  "description": "Сезони українського вокального телешоу «Голос країни» (1+1): дати прем'єри та фіналу, переможець, інші фіналісти та наставник, чия команда перемогла.",
+  "category": "entertainment",
+  "source": "https://uk.wikipedia.org/wiki/Голос_країни",
+  "source_url": "https://uk.wikipedia.org/wiki/Голос_країни",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "premiere",
+      "label": "Premiere",
+      "type": "string"
+    },
+    {
+      "key": "final",
+      "label": "Final",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "other_finalists",
+      "label": "Other Finalists",
+      "type": "string"
+    },
+    {
+      "key": "winning_coach",
+      "label": "Winning Coach",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": 1,
+      "premiere": "22 травня 2011",
+      "final": "11 вересня 2011",
+      "winner": "Іван Ганзера",
+      "other_finalists": "Антоніна Матвієнко, Влад Ситнік, Арсен Мірзоян",
+      "winning_coach": "Діана Арбеніна"
+    },
+    {
+      "season": 2,
+      "premiere": "8 січня 2012",
+      "final": "29 квітня 2012",
+      "winner": "Павло Табаков",
+      "other_finalists": "Ангеліна Моняк, Назар Савко, Марія Яремчук",
+      "winning_coach": "Діана Арбеніна"
+    },
+    {
+      "season": 3,
+      "premiere": "10 березня 2013",
+      "final": "9 червня 2013",
+      "winner": "Ганна Ходоровська",
+      "other_finalists": "Отар Немсадзе, Артем Кондратюк, Тарас Мельник",
+      "winning_coach": "Олександр Пономарьов"
+    },
+    {
+      "season": 4,
+      "premiere": "2 березня 2014",
+      "final": "8 червня 2014",
+      "winner": "Ігор Грохоцький",
+      "other_finalists": "Марлен Карімов, Ольга Мельник, Михайло Мирка",
+      "winning_coach": "Святослав Вакарчук"
+    },
+    {
+      "season": 5,
+      "premiere": "8 березня 2015",
+      "final": "7 червня 2015",
+      "winner": "Антон Копитін",
+      "other_finalists": "Тетяна Решетняк, Андрій Лучанко, Євген Толочний",
+      "winning_coach": "Тіна Кароль"
+    },
+    {
+      "season": 6,
+      "premiere": "28 лютого 2016",
+      "final": "29 травня 2016",
+      "winner": "Віталіна Мусієнко",
+      "other_finalists": "Інна Іщенко, Павло Палійчук, Влад Каращук",
+      "winning_coach": "Святослав Вакарчук"
+    },
+    {
+      "season": 7,
+      "premiere": "22 січня 2017",
+      "final": "23 квітня 2017",
+      "winner": "Олександр Клименко",
+      "other_finalists": "Інгрет Костенко, Віра Кекелія, Анна Кукса",
+      "winning_coach": "Тіна Кароль"
+    },
+    {
+      "season": 8,
+      "premiere": "28 січня 2018",
+      "final": "29 квітня 2018",
+      "winner": "Олена Луценко",
+      "other_finalists": "Андрій Рибарчук, Анна Трінчер, Србуї Саргсян",
+      "winning_coach": "Сергій Бабкін"
+    },
+    {
+      "season": 9,
+      "premiere": "20 січня 2019",
+      "final": "21 квітня 2019",
+      "winner": "Оксана Муха",
+      "other_finalists": "Карина Арсєнтьєва, Андрій Хайат, Вікторія Олійник",
+      "winning_coach": "Дан Балан"
+    },
+    {
+      "season": 10,
+      "premiere": "19 січня 2020",
+      "final": "26 квітня 2020",
+      "winner": "Роман Сасанчин",
+      "other_finalists": "Єрлан Баібазаров, Сергій Асафатов, Індіра Єдільбаєва",
+      "winning_coach": "Тіна Кароль"
+    },
+    {
+      "season": 11,
+      "premiere": "24 січня 2021",
+      "final": "25 квітня 2021",
+      "winner": "Сергій Лазановський",
+      "other_finalists": "Юлія Тимочко, Тьома Паучек, Сергій Нейчев",
+      "winning_coach": "Надія Дорофеєва"
+    },
+    {
+      "season": 12,
+      "premiere": "23 січня 2022",
+      "final": "20 листопада 2022",
+      "winner": "Марія Квітка",
+      "other_finalists": "Василь Палюх, Олександр Свириденко, Карина Столаба",
+      "winning_coach": "Олександра & Андрій"
+    },
+    {
+      "season": 13,
+      "premiere": "3 вересня 2023",
+      "final": "29 жовтня 2023",
+      "winner": "Михайло Панчишин",
+      "other_finalists": "Юрій Городецький, Анастасія Чабан, Христина Старикова",
+      "winning_coach": "Артем Пивоваров"
+    }
+  ],
+  "meta": {
+    "title": "«Голос країни» — переможці та фіналісти сезонів - Free Download",
+    "description": "Сезони українського вокального телешоу «Голос країни» (1+1): дати прем'єри та фіналу, переможець, інші фіналісти та наставник, чия команда перемогла. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "«Голос країни» — переможці та фіналісти сезонів | ListBase",
+    "seo_description": "Download «Голос країни» — переможці та фіналісти сезонів — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Голос_країни"
+    ]
+  }
+}
