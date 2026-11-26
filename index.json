@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-25T02:24:17.243Z",
-  "total_datasets": 525,
-  "total_records": 480651,
+  "generated": "2026-11-26T02:23:54.358Z",
+  "total_datasets": 526,
+  "total_records": 480666,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5502,6 +5502,32 @@
         "xlsx": {
           "name": "uk-zminy-pravopysu-2019_UK.xlsx",
           "size": 12184
+        }
+      }
+    },
+    {
+      "id": "uk-apeliatsiini-hospodarski-ta-administratyvni-sudy",
+      "name": "Апеляційні господарські та адміністративні суди України",
+      "category": "law",
+      "record_count": 15,
+      "columns": [
+        "name",
+        "court_type",
+        "jurisdiction",
+        "address",
+        "website"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Судова_система_України",
+      "updated": "2026-11",
+      "size": 9698,
+      "files": {
+        "csv": {
+          "name": "uk-apeliatsiini-hospodarski-ta-administratyvni-sudy_UK.csv",
+          "size": 5766
+        },
+        "xlsx": {
+          "name": "uk-apeliatsiini-hospodarski-ta-administratyvni-sudy_UK.xlsx",
+          "size": 8225
         }
       }
     },
