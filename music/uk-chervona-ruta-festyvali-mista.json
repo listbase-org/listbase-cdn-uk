@@ -1,0 +1,126 @@
+{
+  "id": "uk-chervona-ruta-festyvali-mista",
+  "name": "Фестиваль «Червона рута» — роки та міста проведення",
+  "title": "Фестиваль «Червона рута» — роки та міста проведення",
+  "description": "Усі всеукраїнські фестивалі сучасної пісні та популярної музики «Червона рута» з 1989 року: номер фестивалю, рік і місто проведення.",
+  "category": "music",
+  "source": "https://uk.wikipedia.org/wiki/Червона_рута_(фестиваль)",
+  "source_url": "https://uk.wikipedia.org/wiki/Червона_рута_(фестиваль)",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "festival",
+      "label": "Festival",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1989,
+      "festival": "I Всеукраїнський",
+      "city": "Чернівці"
+    },
+    {
+      "year": 1991,
+      "festival": "II Всеукраїнський",
+      "city": "Запоріжжя"
+    },
+    {
+      "year": 1993,
+      "festival": "III Всеукраїнський",
+      "city": "Донецьк"
+    },
+    {
+      "year": 1995,
+      "festival": "IV Всеукраїнський",
+      "city": "Севастополь — Сімферополь"
+    },
+    {
+      "year": 1997,
+      "festival": "V Всеукраїнський",
+      "city": "Харків — Київ"
+    },
+    {
+      "year": 1999,
+      "festival": "VI Всеукраїнський",
+      "city": "Дніпропетровськ — Київ"
+    },
+    {
+      "year": 2001,
+      "festival": "VII Всеукраїнський",
+      "city": "Київ"
+    },
+    {
+      "year": 2003,
+      "festival": "VIII Всеукраїнський",
+      "city": "Київ"
+    },
+    {
+      "year": 2005,
+      "festival": "IX Всеукраїнський",
+      "city": "Київ"
+    },
+    {
+      "year": 2007,
+      "festival": "X Всеукраїнський",
+      "city": "Київ"
+    },
+    {
+      "year": 2009,
+      "festival": "XI Всеукраїнський (ювілейний)",
+      "city": "Чернівці"
+    },
+    {
+      "year": 2011,
+      "festival": "XII Всеукраїнський",
+      "city": "Київ"
+    },
+    {
+      "year": 2013,
+      "festival": "XIII Всеукраїнський",
+      "city": "Київ"
+    },
+    {
+      "year": 2015,
+      "festival": "XIV Всеукраїнський",
+      "city": "Маріуполь"
+    },
+    {
+      "year": 2017,
+      "festival": "XV Всеукраїнський",
+      "city": "Маріуполь"
+    },
+    {
+      "year": 2019,
+      "festival": "XVI Всеукраїнський",
+      "city": "Чернівці"
+    },
+    {
+      "year": 2025,
+      "festival": "XVII Всеукраїнський",
+      "city": "Львів"
+    }
+  ],
+  "meta": {
+    "title": "Фестиваль «Червона рута» — роки та міста проведення - Free Download",
+    "description": "Усі всеукраїнські фестивалі сучасної пісні та популярної музики «Червона рута» з 1989 року: номер фестивалю, рік і місто проведення. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Фестиваль «Червона рута» — роки та міста проведення | ListBase",
+    "seo_description": "Download Фестиваль «Червона рута» — роки та міста проведення — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Червона_рута_(фестиваль)"
+    ]
+  }
+}
