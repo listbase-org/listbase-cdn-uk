@@ -1,0 +1,241 @@
+{
+  "id": "uk-zemnovodni-ukrainy",
+  "name": "Земноводні України",
+  "title": "Земноводні України",
+  "description": "Список видів земноводних (хвостатих і безхвостих), що трапляються в Україні, з латинською назвою, автором таксона, статусом МСОП, рядом, родиною та поширенням в Україні.",
+  "category": "science",
+  "source": "https://uk.wikipedia.org/wiki/Список_земноводних_України",
+  "source_url": "https://uk.wikipedia.org/wiki/Список_земноводних_України",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latin_name",
+      "label": "Latin Name",
+      "type": "string"
+    },
+    {
+      "key": "author",
+      "label": "Author",
+      "type": "string"
+    },
+    {
+      "key": "iucn_status",
+      "label": "Iucn Status",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "distribution",
+      "label": "Distribution",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Саламандра вогняна",
+      "latin_name": "Salamandra salamandra",
+      "author": "Shaw, 1802",
+      "iucn_status": "LC",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "У Закарпатській, Івано-Франківській, Чернівецькій та Львівській областях, де живе у букових і смерекових лісах Карпат"
+    },
+    {
+      "name": "Тритон звичайний",
+      "latin_name": "Lissotriton vulgaris",
+      "author": "Linnaeus, 1758",
+      "iucn_status": "LC",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "По всій країні, крім Криму та високогір'я Карпат"
+    },
+    {
+      "name": "Тритон карпатський",
+      "latin_name": "Lissotriton montandoni",
+      "author": "Boulenger, 1880",
+      "iucn_status": "LC",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "В Карпатах"
+    },
+    {
+      "name": "Тритон гірський",
+      "latin_name": "Mesotriton alpestris",
+      "author": "Laurenti, 1768",
+      "iucn_status": "LC",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "В Карпатах"
+    },
+    {
+      "name": "Тритон гребінчастий",
+      "latin_name": "Triturus cristatus",
+      "author": "Laurenti, 1768",
+      "iucn_status": "LC",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "По всій країні крім степової зони та Криму"
+    },
+    {
+      "name": "Тритон дунайський",
+      "latin_name": "Triturus dobrogicus",
+      "author": "Kiritzescu, 1903",
+      "iucn_status": "NT",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "Закарпатська, Одеська обл."
+    },
+    {
+      "name": "Тритон Кареліна",
+      "latin_name": "Triturus karelinii",
+      "author": "Strauch, 1870",
+      "iucn_status": "LC",
+      "order": "Хвостаті (Caudata)",
+      "family": "Саламандрові (Salamandridae)",
+      "distribution": "Крим"
+    },
+    {
+      "name": "Кумка червоночерева",
+      "latin_name": "Bombina bombina",
+      "author": "Linnaeus, 1761",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Кумкові (Bombinatoridae)",
+      "distribution": "По всій країні, крім Криму"
+    },
+    {
+      "name": "Кумка жовточерева",
+      "latin_name": "Bombina variegata",
+      "author": "Linnaeus, 1758",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Кумкові (Bombinatoridae)",
+      "distribution": "Карпати"
+    },
+    {
+      "name": "Часничниця звичайна",
+      "latin_name": "Pelobates fuscus",
+      "author": "Laurenti, 1768",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Часничницеві (Pelobatidae)",
+      "distribution": "Спорадично по всій країні, крім Карпат і Криму"
+    },
+    {
+      "name": "Райка деревна",
+      "latin_name": "Hyla arborea",
+      "author": "Linnaeus, 1758",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Райкові (Hylidae)",
+      "distribution": "По всій території, у степовій зоні спорадично"
+    },
+    {
+      "name": "Ропуха звичайна",
+      "latin_name": "Bufo bufo",
+      "author": "Linnaeus, 1758",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Ропухові (Bufonidae)",
+      "distribution": "По всій країні, крім посушливих південних районів"
+    },
+    {
+      "name": "Ропуха зелена",
+      "latin_name": "Bufo viridis",
+      "author": "Laurenti, 1768",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Ропухові (Bufonidae)",
+      "distribution": "По всій країні"
+    },
+    {
+      "name": "Ропуха очеретяна",
+      "latin_name": "Bufo calamita",
+      "author": "Laurenti, 1768",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Ропухові (Bufonidae)",
+      "distribution": "Волинська, частково Львівська та Рівненська обл."
+    },
+    {
+      "name": "Жаба трав'яна",
+      "latin_name": "Rana temporaria",
+      "author": "Linnaeus, 1758",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Жаб'ячі (Ranidae)",
+      "distribution": "У більшості північних, західних та східних регіонів, майже повністю відсутня у степових районах."
+    },
+    {
+      "name": "Жаба гостроморда",
+      "latin_name": "Rana arvalis",
+      "author": "Nilsson, 1842",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Жаб'ячі (Ranidae)",
+      "distribution": "У більшості північних, західних та східних регіонів, рідкісна у степових районах, відсутня у Криму."
+    },
+    {
+      "name": "Жаба прудка",
+      "latin_name": "Rana dalmatina",
+      "author": "Bonaparte, 1840",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Жаб'ячі (Ranidae)",
+      "distribution": "Закарпатська, Чернівецька обл."
+    },
+    {
+      "name": "Жаба озерна",
+      "latin_name": "Pelophylax ridibundus",
+      "author": "Pallas, 1771",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Жаб'ячі (Ranidae)",
+      "distribution": "По всій країні, крім високогір'я Карпат"
+    },
+    {
+      "name": "Жаба ставкова",
+      "latin_name": "Pelophylax lessonae",
+      "author": "Camerano, 1882",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Жаб'ячі (Ranidae)",
+      "distribution": "Лісова та лісостепова зони"
+    },
+    {
+      "name": "Жаба їстівна",
+      "latin_name": "Pelophylax esculentus",
+      "author": "Linnaeus, 1758",
+      "iucn_status": "LC",
+      "order": "Безхвості (Anura)",
+      "family": "Жаб'ячі (Ranidae)",
+      "distribution": "Лісова та лісостепова зони"
+    }
+  ],
+  "meta": {
+    "title": "Земноводні України - Free Download",
+    "description": "Список видів земноводних (хвостатих і безхвостих), що трапляються в Україні, з латинською назвою, автором таксона, статусом МСОП, рядом, родиною та поширенням в Україні. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Земноводні України | ListBase",
+    "seo_description": "Download Земноводні України — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://uk.wikipedia.org/wiki/Список_земноводних_України"
+    ]
+  }
+}

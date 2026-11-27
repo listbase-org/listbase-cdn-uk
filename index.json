@@ -1,8 +1,8 @@
 {
   "lang": "uk",
-  "generated": "2026-11-27T02:23:41.175Z",
-  "total_datasets": 529,
-  "total_records": 480707,
+  "generated": "2026-11-27T02:23:53.136Z",
+  "total_datasets": 530,
+  "total_records": 480727,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -12164,6 +12164,34 @@
         "xlsx": {
           "name": "uk-roslyny-chervonoi-knyhy-ukrainy_UK.xlsx",
           "size": 38958
+        }
+      }
+    },
+    {
+      "id": "uk-zemnovodni-ukrainy",
+      "name": "Земноводні України",
+      "category": "science",
+      "record_count": 20,
+      "columns": [
+        "name",
+        "latin_name",
+        "author",
+        "iucn_status",
+        "order",
+        "family",
+        "distribution"
+      ],
+      "source": "https://uk.wikipedia.org/wiki/Список_земноводних_України",
+      "updated": "2026-11",
+      "size": 9444,
+      "files": {
+        "csv": {
+          "name": "uk-zemnovodni-ukrainy_UK.csv",
+          "size": 4375
+        },
+        "xlsx": {
+          "name": "uk-zemnovodni-ukrainy_UK.xlsx",
+          "size": 8580
         }
       }
     },
